@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import Any, Dict
+from typing import Any, Callable, Dict, Optional
 
 from omegaconf import MISSING
 
@@ -98,6 +98,12 @@ class HfProcessor:
 
 
 @dataclass
+class ProcessorConfig:
+    _target_: str = MISSING
+    _partial_: bool = True
+
+
+@dataclass
 class HfModelConfig(ModelConfig):
     _target_: str = "vlm_inference.HfModel"
     name: str = MISSING
@@ -116,3 +122,4 @@ class HfModelConfig(ModelConfig):
     model_cls: HfModel = MISSING
     processor_cls: HfProcessor = MISSING
     strip_prompt: bool = False
+    postprocess_fn: Optional[ProcessorConfig] = None

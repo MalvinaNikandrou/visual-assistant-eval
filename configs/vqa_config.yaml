@@ -3,11 +3,10 @@
 defaults:
   - base_config
   - run: local
-  - dataset: captioning
+  - dataset: vqa
   - model: base_model
   - callbacks@_callback_dict.logging: logging
   - callbacks@_callback_dict.csv: csv
-  - callbacks@_callback_dict.vizwiz_accuracy: vizwiz_accuracy
   - callbacks@_callback_dict.wandb: wandb
   - callbacks@_callback_dict.cost_logging: cost_logging
   - _self_
@@ -17,11 +16,5 @@ _callback_dict:
     file_path: ${model.name}-outputs.csv
   wandb:
     project: vizwiz-culture
-    run_name: ${model.name}-${now:%Y-%m-%d-%H-%M-%S}
-  vizwiz_accuracy:
-    file_path: ${model.name}-results.json
 
 callbacks: ${oc.dict.values:_callback_dict}
-hydra:
-  searchpath:
-    - pkg://configs

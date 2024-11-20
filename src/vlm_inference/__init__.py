@@ -4,17 +4,19 @@ from vlm_inference.configuration import (DatasetConfig,  # noqa: F401
 from vlm_inference.dataset import CaptionResponse  # noqa: F401
 from vlm_inference.dataset import (CulturalCaptionResponse,  # noqa: F401
                                    CulturalImageCaptioningDataset,
-                                   ImageCaptioningDataset, ImageDataset)
+                                   ImageCaptioningDataset, ImageDataset, VizWizVQADataset, VQADataset)
 from vlm_inference.engine import Engine, run_engine  # noqa: F401
+from vlm_inference.metrics import VQAv2Accuracy  # noqa: F401
 from vlm_inference.modeling import GoogleModel  # noqa: F401
 from vlm_inference.modeling import (AnthropicModel, CpmModel,  # noqa: F401
                                     HfModel, OpenaiModel, RekaModel,
                                     VisionLanguageModel)
 from vlm_inference.utils import Completion  # noqa: F401
-from vlm_inference.utils import (Callback, ChatGLMProcessor,  # noqa: F401
+from vlm_inference.utils import (Callback, ChatGLMProcessor, MolmoProcessorWrapper,  # noqa: F401
                                  CostLoggingCallback, CostSummary,
                                  JsonCompletion, LoggingCallback,
-                                 SaveToCsvCallback, StringCompletion,
+                                 SaveToCsvCallback, SaveToVizWizSubmissionCallback,
+                                 VizWizAccuracyCallback, StringCompletion,
                                  UsageMetadata, UsageTracker, WandbCallback,
                                  as_dict, get_random_name,
                                  is_flashattn_2_supported, parse_json,

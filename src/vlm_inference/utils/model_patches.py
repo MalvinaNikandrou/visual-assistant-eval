@@ -1,6 +1,6 @@
 from typing import List, Optional, Union
 
-from transformers import AutoTokenizer, BatchEncoding, ProcessorMixin, TensorType
+from transformers import AutoProcessor, AutoTokenizer, BatchEncoding, ProcessorMixin, TensorType
 from transformers.image_utils import ImageInput
 from transformers.tokenization_utils_base import PreTokenizedInput, TextInput, TruncationStrategy
 from transformers.utils import PaddingStrategy
@@ -37,3 +37,13 @@ class ChatGLMProcessor(ProcessorMixin):
             return_tensors=return_tensors,
             return_dict=True,
         )
+
+
+class MolmoProcessorWrapper(ProcessorMixin):
+    def __init__(self, pretrained_model_name_or_path: str, **kwargs):
+        self.processor = AutoProcessor.from_pretrained(
+            pretrained_model_name_or_path=pretrained_model_name_or_path, **kwargs
+        )
+
+    def __call__(self, **kwargs) -> BatchEncoding:
+        return self.processor.process(**kwargs)

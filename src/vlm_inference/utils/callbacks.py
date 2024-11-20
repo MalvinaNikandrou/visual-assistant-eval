@@ -1,6 +1,7 @@
 import csv
 import json
 import logging
+import os
 from abc import ABC, abstractmethod
 from decimal import Decimal
 from pathlib import Path
@@ -9,6 +10,7 @@ from typing import Optional, Union
 import wandb
 
 from ..dataset.dataset_base import ImageDataset
+from ..metrics import VQAv2Accuracy
 from ..modeling.modeling_base import VisionLanguageModel
 from .completion import Completion
 from .misc import get_random_name
@@ -149,3 +151,63 @@ class CostLoggingCallback(Callback):
 
             if wandb.run:
                 wandb.log(cost_summary.asdict())
+
+
+class SaveToVizWizSubmissionCallback(Callback):
+    def __init__(self, file_path: Union[str, Path], **kwargs):
+        super().__init__(**kwargs)
+
+        self.file_path = Path(file_path)
+        self.file_path.parent.mkdir(parents=True, exist_ok=True)
+
+        if self.file_path.exists() and self.file_path.is_file():
+            raise FileExistsError(
+                f"JSON file '{str(self.file_path)}' already exists, will not overwrite."
+            )
+        self.results = []
+
+    def on_step_end(self, step_index: int, completion: Completion):
+        image = completion.example.image_path
+        answer = completion.response["answer"]
+        if answer is None:
+            answer = "unanswerable"
+        self.results.append({"image": os.path.basename(image), "answer": answer})
+
+    def on_run_end(self) -> None:
+        with open(self.file_path, "w") as f:
+            json.dump(self.results, f)            
+            
+
+class VizWizAccuracyCallback(Callback):
+    def __init__(self, file_path: Union[str, Path], **kwargs):
+        super().__init__(**kwargs)
+
+        self.file_path = Path(file_path)
+        self.file_path.parent.mkdir(parents=True, exist_ok=True)
+
+        if self.file_path.exists() and self.file_path.is_file():
+            raise FileExistsError(
+                f"JSON file '{str(self.file_path)}' already exists, will not overwrite."
+            )
+        self.results = []
+
+    def on_step_end(self, step_index: int, completion: Completion):
+        image = completion.example.image_path
+        answer = completion.response
+        if answer is None:
+            answer = ""
+        ground_truth = completion.example.ground_truth
+        self.results.append({"image": os.path.basename(image), "answer": answer, "ground_truth": ground_truth})
+
+    def on_run_end(self) -> None:
+        metric = VQAv2Accuracy()
+        predictions = [result["answer"] for result in self.results]
+        ground_truths = [result["ground_truth"] for result in self.results]
+        metric.update(predictions, ground_truths)
+        accuracy = metric.compute()
+        logger.info(f"VizWiz accuracy: {accuracy}")
+        if wandb.run:
+            wandb.log(accuracy)
+        
+        with open(self.file_path, "w") as f:
+            json.dump(accuracy, f)  

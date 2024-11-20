@@ -26,6 +26,7 @@ class HfModel(VisionLanguageModel):
         model_cls: Callable,
         processor_cls: Callable,
         strip_prompt: bool = False,
+        postprocess_fn: Optional[Callable] = None,
         **kwargs
     ):
         super().__init__(name, generation_kwargs, json_mode)
@@ -36,9 +37,10 @@ class HfModel(VisionLanguageModel):
         )
 
         self.model.to("cuda" if torch.cuda.is_available() else "cpu")
-
+        logger.info(f"Model loaded on {self.model.device}")
         self.processor = processor_cls(pretrained_model_name_or_path=self.name)
         self.strip_prompt = strip_prompt
+        self.postprocess_fn = postprocess_fn
 
     def generate(
         self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
@@ -71,6 +73,8 @@ class HfModel(VisionLanguageModel):
             0
         ].strip()
 
+        if self.postprocess_fn is not None:
+            generated_text = self.postprocess_fn(generated_text)
         usage_metadata = UsageMetadata(
             input_token_count=features.input_ids.shape[1],
             output_token_count=generated_tokens.shape[1],

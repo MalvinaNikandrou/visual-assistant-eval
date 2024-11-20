@@ -35,3 +35,15 @@ class WandbCallbackConfig(CallbackConfig):
 class CostLoggingCallbackConfig(CallbackConfig):
     _target_: str = "vlm_inference.CostLoggingCallback"
     log_every: int = 50
+
+
+@dataclass
+class SaveToVizWizSubmissionCallbackConfig(CallbackConfig):
+    _target_: str = "vlm_inference.SaveToVizWizSubmissionCallback"
+    file_path: str = "submission.json"
+    
+
+@dataclass
+class VizWizAccuracyCallbackConfig(CallbackConfig):
+    _target_: str = "vlm_inference.VizWizAccuracyCallback"
+    file_path: str = "results.json"

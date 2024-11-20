@@ -1,0 +1,6 @@
+{{ question }}
+When the provided information is insufficient, respond with 'unanswerable'.
+Answer the question using a single word or phrase.
+
+Format your response in JSON as follows:
+{{ json_schema }}

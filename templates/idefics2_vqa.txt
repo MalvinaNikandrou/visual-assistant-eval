@@ -1,0 +1,7 @@
+User:
+<image>
+Question: {{ question }}
+When the provided information is insufficient, respond with 'unanswerable'.
+Give a very brief answer.
+<end_of_utterance>
+Assistant:

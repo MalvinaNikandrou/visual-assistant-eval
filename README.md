@@ -136,6 +136,16 @@ python run.py \
   model.json_mode=false \
   dataset.path=data/xm3600_images \
   dataset.template_name=paligemma_caption_en
+
+```
+```bash
+ python run.py \
+  model=paligemma  \
+  model.json_mode=false \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=paligemma_vqa_json \
+  dataset=vizwiz_vqa
 ```
 
 ##### LLaVa-1.6 (w/ JSON culture template and cultural captioning)
@@ -149,6 +159,20 @@ python run.py \
   dataset.template_name=llava7b_culture_json
 ```
 
+For VQA:
+
+```bash
+ python run.py \
+  model=llava  \
+  model.json_mode=true \
+ dataset.path=data/val.json \
+ +dataset.images_path=data/val  \
+ dataset.template_name=llava7b_vqa_json \
+ dataset=vizwiz_vqa
+
+```
+
+
 ##### Idefics2
 
 ```bash
@@ -158,6 +182,15 @@ python run.py \
   dataset=cultural_captioning \
   dataset.path=data/xm3600_images \
   dataset.template_name=idefics2_culture_json
+```
+```bash
+ python run.py \
+  model=idefics2  \
+  model.json_mode=no \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=idefics2_vqa_json \
+  dataset=vizwiz_vqa
 ```
 
 ##### Phi3-vision
@@ -169,6 +202,15 @@ python run.py \
   dataset=cultural_captioning \
   dataset.path=data/xm3600_images \
   dataset.template_name=phi3_culture_json
+```
+```bash
+ python run.py \
+  model=phi3-vision  \
+  model.json_mode=true \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=phi3_vqa_json \
+  dataset=vizwiz_vqa
 ```
 
 ##### MiniCPM-Llama3-V-2.5
@@ -191,6 +233,48 @@ python run.py \
   dataset=cultural_captioning \
   dataset.path=data/xm3600_images \
   dataset.template_name=culture_json
+```
+
+##### MOLMO-7B-D
+```bash
+ python run.py \
+  model=molmo  \
+  model.json_mode=true \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=molmo_vqa_json \
+  dataset=vizwiz_vqa
+```
+
+```bash
+ python run.py \
+  model=molmo  \
+  model.json_mode=false \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=molmo_vqa \
+  dataset=vizwiz_vqa
+```
+
+##### LLAMA-3.2-11B-Vision-Instruct
+```bash
+ python run.py \
+  model=llama_vision  \
+  model.json_mode=true \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=llama_vision_vqa_json \
+  dataset=vizwiz_vqa
+```
+
+```bash
+ python run.py \
+  model=llama_vision  \
+  model.json_mode=false \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=llama_vision_vqa \
+  dataset=vizwiz_vqa
 ```
 
 

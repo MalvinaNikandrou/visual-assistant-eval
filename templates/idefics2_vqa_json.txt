@@ -1,0 +1,10 @@
+User:
+<image>
+Question: {{ question }}
+When the provided information is insufficient, respond with 'unanswerable'.
+Give a very brief answer.
+
+Format your response in JSON as follows:
+{{ json_schema }}
+<end_of_utterance>
+Assistant:

@@ -3,11 +3,13 @@ from omegaconf import II
 
 from ..utils.misc import is_flashattn_2_supported
 from .callbacks import (CostLoggingCallbackConfig, LoggingCallbackConfig,
-                        SaveToCsvCallbackConfig, WandbCallbackConfig)
+                        SaveToCsvCallbackConfig, SaveToVizWizSubmissionCallbackConfig,
+                        VizWizAccuracyCallbackConfig, WandbCallbackConfig)
 from .dataset import DatasetConfig
 from .models import (AnthropicModelConfig, GoogleModelConfig, HfModel,
                      HfModelConfig, HfProcessor, ModelConfig,
-                     OpenaiModelConfig, Pricing, RekaModelConfig)
+                     OpenaiModelConfig, Pricing, ProcessorConfig, RekaModelConfig)
+from ..metrics import split_at_first_capital_after_whitespace
 from .run import RunConfig
 
 cs = ConfigStore.instance()
@@ -25,6 +27,11 @@ cs.store(
     group="dataset",
     name="cultural_captioning",
     node=DatasetConfig(_target_="vlm_inference.CulturalImageCaptioningDataset"),
+)
+cs.store(
+    group="dataset",
+    name="vizwiz_vqa",
+    node=DatasetConfig(_target_="vlm_inference.VizWizVQADataset"),
 )
 
 # Base Model
@@ -240,6 +247,7 @@ cs.store(
             _target_="transformers.AutoProcessor.from_pretrained", use_fast=True
         ),
         strip_prompt=True,
+        postprocess_fn=ProcessorConfig(_target_="vlm_inference.metrics.vqa.split_at_first_capital_after_whitespace"),
     ),
 )
 
@@ -277,8 +285,45 @@ cs.store(
     ),
 )
 
+cs.store(
+    group="model",
+    name="molmo",
+    node=HfModelConfig(
+        name=f"allenai/Molmo-{II('model.size')}-D-0924",
+        size="7B",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.AutoModelForCausalLM.from_pretrained",
+            trust_remote_code=True,
+        ),
+        processor_cls=HfProcessor(
+            _target_="vlm_inference.MolmoProcessorWrapper",
+        ),
+        strip_prompt=True,
+    ),
+)
+
+cs.store(
+    group="model",
+    name="llama_vision",
+    node=HfModelConfig(
+        name=f"meta-llama/Llama-3.2-{II('model.size')}-Vision-Instruct",
+        size="11B",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.MllamaForConditionalGeneration.from_pretrained",
+        ),
+        processor_cls=HfProcessor(
+            _target_="transformers.AutoProcessor.from_pretrained",
+            use_fast=True,
+        ),
+        strip_prompt=True,
+    ),
+)
 
 cs.store(group="callbacks", name="logging", node=LoggingCallbackConfig)
 cs.store(group="callbacks", name="csv", node=SaveToCsvCallbackConfig)
 cs.store(group="callbacks", name="wandb", node=WandbCallbackConfig)
 cs.store(group="callbacks", name="cost_logging", node=CostLoggingCallbackConfig)
+cs.store(group="callbacks", name="vizwiz_submission", node=SaveToVizWizSubmissionCallbackConfig)
+cs.store(group="callbacks", name="vizwiz_accuracy", node=VizWizAccuracyCallbackConfig)
