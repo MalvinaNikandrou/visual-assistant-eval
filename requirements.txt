@@ -15,3 +15,5 @@ torchvision
 transformers
 vertexai
 wandb
+wikipedia-api
+pybraille
