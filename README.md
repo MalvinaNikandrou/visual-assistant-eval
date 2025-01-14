@@ -250,6 +250,15 @@ python run.py \
  python run.py \
   model=molmo  \
   model.json_mode=false \
+  dataset.path=data/val \
+  dataset.template_name=molmo_caption \
+  dataset=captioning
+```
+
+```bash
+ python run.py \
+  model=molmo  \
+  model.json_mode=false \
   dataset.path=data/val.json \
   +dataset.images_path=data/val  \
   dataset.template_name=molmo_vqa \
@@ -265,6 +274,15 @@ python run.py \
   +dataset.images_path=data/val  \
   dataset.template_name=llama_vision_vqa_json \
   dataset=vizwiz_vqa
+```
+
+```bash
+ python run.py \
+  model=llama_vision  \
+  model.json_mode=false \
+  dataset.path=data/val  \
+  dataset.template_name=llama_vision_caption \
+  dataset=captioning
 ```
 
 ```bash

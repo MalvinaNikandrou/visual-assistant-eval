@@ -18,7 +18,7 @@ class BaseDataset(ABC):
     name: str
     json_schema: Type[PydanticBaseModel]
 
-    def __init__(self, path: str, template_name: str):
+    def __init__(self, path: str, template_name: str, **kwargs):
         self._load_dataset(Path(path))
         self._load_template(template_name)
 

@@ -50,7 +50,8 @@ class HfModel(VisionLanguageModel):
             return_tensors="pt",
             padding=True,
         ) #.to(self.model.device, dtype=self.model.dtype
-        inputs = {k: v.to(self.model.device).unsqueeze(0) for k, v in inputs.items()}
+        # inputs = {k: v.to(self.model.device).unsqueeze(0) for k, v in inputs.items()}
+        inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
         for key, values in inputs.items():
             if values.dtype == torch.float32:
                 inputs[key] = values.to(self.model.dtype)
@@ -70,6 +71,39 @@ class HfModel(VisionLanguageModel):
             if json_schema is not None
             else None
         )
+        generated_tokens = self.model.generate(
+            **features,
+            tokenizer=self.processor.tokenizer,
+            **self.generation_kwargs,
+            prefix_allowed_tokens_fn=prefix_allowed_tokens_fn,
+            pad_token_id=self.processor.tokenizer.eos_token_id,
+        )
+
+        if self.strip_prompt:
+            generated_tokens = generated_tokens[:, features["input_ids"].shape[1] :]
+
+        generated_tokens = generated_tokens.cpu()
+
+        generated_text = self.processor.tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)[
+            0
+        ].strip()
+        if self.postprocess_fn is not None:
+            generated_text = self.postprocess_fn(generated_text)
+        usage_metadata = UsageMetadata(
+            input_token_count=features["input_ids"].shape[1],
+            output_token_count=generated_tokens.shape[1],
+        )
+
+        return generated_text, usage_metadata
+
+
+class MolmoModel(HfModel):
+    
+    def generate(
+        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+    ) -> Tuple[str, UsageMetadata]:
+        features = self._extract_features(example)
+
         generated_tokens = self.model.generate_from_batch(
             features,
             GenerationConfig(
@@ -80,10 +114,8 @@ class HfModel(VisionLanguageModel):
                 top_p=None,
             ),
             tokenizer=self.processor.processor.tokenizer,
-            # **self.generation_kwargs,
-            # prefix_allowed_tokens_fn=prefix_allowed_tokens_fn,
-            # pad_token_id=self.processor.eos_token_id,
         )
+
         if self.strip_prompt:
             generated_tokens = generated_tokens[:, features["input_ids"].shape[1] :]
 

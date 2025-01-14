@@ -123,3 +123,8 @@ class HfModelConfig(ModelConfig):
     processor_cls: HfProcessor = MISSING
     strip_prompt: bool = False
     postprocess_fn: Optional[ProcessorConfig] = None
+
+
+@dataclass
+class MolmoConfig(HfModelConfig):
+    _target_: str = "vlm_inference.MolmoModel"

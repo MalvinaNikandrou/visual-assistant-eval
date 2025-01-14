@@ -61,7 +61,7 @@ class HfModel(VisionLanguageModel):
         generated_tokens = self.model.generate(
             **features,
             **self.generation_kwargs,
-            prefix_allowed_tokens_fn=prefix_allowed_tokens_fn,
+            # prefix_allowed_tokens_fn=prefix_allowed_tokens_fn,
             pad_token_id=self.processor.tokenizer.eos_token_id,
         )
         if self.strip_prompt:

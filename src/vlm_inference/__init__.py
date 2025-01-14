@@ -9,7 +9,7 @@ from vlm_inference.engine import Engine, run_engine  # noqa: F401
 from vlm_inference.metrics import VQAv2Accuracy  # noqa: F401
 from vlm_inference.modeling import GoogleModel  # noqa: F401
 from vlm_inference.modeling import (AnthropicModel, CpmModel,  # noqa: F401
-                                    HfModel, OpenaiModel, RekaModel,
+                                    HfModel, MolmoModel, OpenaiModel, RekaModel,
                                     VisionLanguageModel)
 from vlm_inference.utils import Completion  # noqa: F401
 from vlm_inference.utils import (Callback, ChatGLMProcessor, MolmoProcessorWrapper,  # noqa: F401

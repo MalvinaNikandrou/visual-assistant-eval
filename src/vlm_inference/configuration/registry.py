@@ -7,7 +7,7 @@ from .callbacks import (CostLoggingCallbackConfig, LoggingCallbackConfig,
                         VizWizAccuracyCallbackConfig, WandbCallbackConfig)
 from .dataset import DatasetConfig
 from .models import (AnthropicModelConfig, GoogleModelConfig, HfModel,
-                     HfModelConfig, HfProcessor, ModelConfig,
+                     HfModelConfig, HfProcessor, ModelConfig, MolmoConfig,
                      OpenaiModelConfig, Pricing, ProcessorConfig, RekaModelConfig)
 from ..metrics import split_at_first_capital_after_whitespace
 from .run import RunConfig
@@ -288,7 +288,7 @@ cs.store(
 cs.store(
     group="model",
     name="molmo",
-    node=HfModelConfig(
+    node=MolmoConfig(
         name=f"allenai/Molmo-{II('model.size')}-D-0924",
         size="7B",
         dtype="bfloat16",
