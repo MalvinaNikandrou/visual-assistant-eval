@@ -135,9 +135,9 @@ class TrainArgs(transformers.TrainingArguments):
     """Training arguments."""
 
     output_dir: str = field(default="checkpoints")
-    per_device_train_batch_size: int = field(default=32)
-    per_device_eval_batch_size: int = field(default=64)
-    gradient_accumulation_steps: int = field(default=2)
+    per_device_train_batch_size: int = field(default=4)
+    per_device_eval_batch_size: int = field(default=8)
+    gradient_accumulation_steps: int = field(default=16)
     logging_steps: int = field(default=1)
     save_strategy: str = field(default="steps")
     save_steps: float = field(default=0.05)
