@@ -111,6 +111,12 @@ def parse_args() -> argparse.Namespace:
         help="Number of workers for data loading",
     )
 
+    parser.add_argument(
+        "--last_only",
+        action="store_true",
+        help="Use only the last checkpoint",
+    )
+
     return parser.parse_args()
 
 
@@ -130,8 +136,11 @@ if __name__ == "__main__":
     checkpoint_folder = os.path.join(args.local_dir, args.hf_checkpoint_folder)
     checkpoints = sorted(
         os.listdir(checkpoint_folder), key=lambda x: int(x.split("-")[-1])
-    )[::-1]
-    print(f"Found {len(checkpoints)} checkpoints in {checkpoint_folder}")
+    )
+    if args.last_only:
+        checkpoints = [checkpoints[-1]]
+    else:
+        print(f"Found {len(checkpoints)} checkpoints in {checkpoint_folder}")
 
     test_dataset = load_dataset(args.hf_dataset_id, split=args.hf_dataset_split)
     for checkpoint in tqdm(checkpoints, total=len(checkpoints)):
