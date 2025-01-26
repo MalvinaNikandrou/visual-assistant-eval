@@ -16,9 +16,7 @@ logger = logging.getLogger(__name__)
 
 class AnthropicModel(VisionLanguageModel):
 
-    def __init__(
-        self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool, pricing: Pricing
-    ):
+    def __init__(self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool, pricing: Pricing):
         super().__init__(name, generation_kwargs, json_mode)
 
         logger.info("Using Anthropic API")

@@ -18,3 +18,4 @@ class RunConfig(BaseConfig):
     dataset: DatasetConfig = MISSING
     model: ModelConfig = MISSING
     callbacks: List[CallbackConfig] = MISSING
+    output_path: str = "./"

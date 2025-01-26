@@ -11,15 +11,16 @@ defaults:
   - callbacks@_callback_dict.wandb: wandb
   - callbacks@_callback_dict.cost_logging: cost_logging
   - _self_
+output_path: results
 
 _callback_dict:
   csv:
-    file_path: ${model.name}-outputs.csv
+    file_path: ${output_path}/${model.name}-outputs.csv
   wandb:
     project: vizwiz-culture
     run_name: ${model.name}-${now:%Y-%m-%d-%H-%M-%S}
   vizwiz_accuracy:
-    file_path: ${model.name}-results.json
+    file_path: ${output_path}/${model.name}-results.json
 
 callbacks: ${oc.dict.values:_callback_dict}
 hydra:

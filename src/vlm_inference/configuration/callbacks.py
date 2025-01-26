@@ -41,7 +41,7 @@ class CostLoggingCallbackConfig(CallbackConfig):
 class SaveToVizWizSubmissionCallbackConfig(CallbackConfig):
     _target_: str = "vlm_inference.SaveToVizWizSubmissionCallback"
     file_path: str = "submission.json"
-    
+
 
 @dataclass
 class VizWizAccuracyCallbackConfig(CallbackConfig):

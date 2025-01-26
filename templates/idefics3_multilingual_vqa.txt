@@ -1,0 +1,4 @@
+<|begin_of_text|>User:<image>Question: {{ question }}
+When the provided information is insufficient, respond with "{{ unanswerable }}".
+Answer with a single word or phrase in {{ lang }}.<end_of_utterance>
+Assistant:

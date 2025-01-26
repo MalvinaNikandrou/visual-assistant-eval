@@ -9,7 +9,6 @@ from vlm_inference import run_engine, setup_config, setup_logging
 def main(config: DictConfig):
     setup_logging()
     setup_config(config)
-
     run_engine(
         model=instantiate(config.model),
         dataset=instantiate(config.dataset),

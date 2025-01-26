@@ -10,6 +10,7 @@ pillow
 pydantic
 randomname
 sentencepiece
+timm
 torch
 torchvision
 transformers
@@ -17,3 +18,4 @@ vertexai
 wandb
 wikipedia-api
 pybraille
+qwen-vl-utils

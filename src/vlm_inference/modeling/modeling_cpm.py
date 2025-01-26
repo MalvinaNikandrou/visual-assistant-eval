@@ -30,11 +30,12 @@ class CpmModel(VisionLanguageModel):
         self.model = model_cls(
             pretrained_model_name_or_path=self.name,
             torch_dtype=torch_dtype_from_str(dtype),
+            trust_remote_code=True,
         )
 
         self.model.to("cuda" if torch.cuda.is_available() else "cpu")
 
-        self.processor = processor_cls(pretrained_model_name_or_path=self.name)
+        self.processor = processor_cls(pretrained_model_name_or_path=self.name, trust_remote_code=True)
 
     def generate(
         self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None

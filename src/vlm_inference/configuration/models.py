@@ -114,7 +114,38 @@ class HfModelConfig(ModelConfig):
             "max_new_tokens": 300,
             "temperature": 0.5,
             "top_k": 50,
-            "max_retries": 10,
+            "max_retries": 1,
+        }
+        # VQA
+        # default_factory=lambda: {
+        #     "num_return_sequences": 1,
+        #     "do_sample": False,
+        #     "max_new_tokens": 75,
+        #     "temperature": 1.0,
+        #     "top_k": 50,
+        #     "max_retries": 1,
+        # }
+    )
+    size: str = MISSING
+    dtype: str = MISSING
+    model_cls: HfModel = MISSING
+    processor_cls: HfProcessor = MISSING
+    strip_prompt: bool = False
+    postprocess_fn: Optional[ProcessorConfig] = None
+
+
+@dataclass
+class VideoHfModelConfig(ModelConfig):
+    _target_: str = "vlm_inference.VideoHfModel"
+    name: str = MISSING
+    generation_kwargs: Dict[str, Any] = field(
+        default_factory=lambda: {
+            "num_return_sequences": 1,
+            "do_sample": False,
+            "max_new_tokens": 75,
+            "temperature": 1.0,
+            "top_k": 50,
+            "max_retries": 1,
         }
     )
     size: str = MISSING

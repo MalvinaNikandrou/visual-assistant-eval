@@ -3,6 +3,7 @@
 From the official evaluation code at https://github.com/GT-Vision-
 Lab/VQA/blob/master/PythonEvaluationTools/vqaEvaluation/vqaEval.py.
 """
+
 import re
 from collections import Counter
 from typing import Any, Union
@@ -10,7 +11,6 @@ from typing import Any, Union
 import torch
 from overrides import overrides
 from torchmetrics import Metric
-
 
 
 contractions = {
@@ -176,11 +176,13 @@ punctuations = [
     ",",
     "?",
     "!",
+    ":",
 ]
+
 
 def split_at_first_capital_after_whitespace(s):
     # Pattern: lookbehind for whitespace followed by a capital letter
-    pattern = r'(?<=\s)(?=[A-Z])'
+    pattern = r"(?<=\s)(?=[A-Z])"
     parts = re.split(pattern, s, maxsplit=1)[0]
     parts = parts.split(",")[0]
     return parts.strip()
@@ -243,9 +245,7 @@ class VQAv2Accuracy(Metric):
     def __init__(self, dist_sync_on_step: bool = True) -> None:
         super().__init__(dist_sync_on_step=dist_sync_on_step)
 
-        self.add_state(
-            "accuracy", default=torch.tensor(0, dtype=torch.float), dist_reduce_fx="sum"
-        )
+        self.add_state("accuracy", default=torch.tensor(0, dtype=torch.float), dist_reduce_fx="sum")
         self.add_state("total", default=torch.tensor(0, dtype=torch.long), dist_reduce_fx="sum")
 
     @overrides(check_signature=False)
@@ -259,9 +259,7 @@ class VQAv2Accuracy(Metric):
             predicted_answer = normalize_answer(predicted_answer)
             ground_truth_answers = [normalize_answer(answer) for answer in ground_truth_answers]
             ground_truth_counts = Counter(ground_truth_answers)
-            self.accuracy += torch.tensor(
-                vqa_v2_score(ground_truth_counts.get(predicted_answer, 0))
-            )
+            self.accuracy += torch.tensor(vqa_v2_score(ground_truth_counts.get(predicted_answer, 0)))
 
         self.total += torch.tensor(len(ground_truth_batch))
 

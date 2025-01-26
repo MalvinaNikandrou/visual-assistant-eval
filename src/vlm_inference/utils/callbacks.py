@@ -20,9 +20,7 @@ logger = logging.getLogger(__name__)
 
 
 class Callback(ABC):
-    def __init__(
-        self, model: VisionLanguageModel, dataset: ImageDataset, usage_tracker: UsageTracker
-    ):
+    def __init__(self, model: VisionLanguageModel, dataset: ImageDataset, usage_tracker: UsageTracker):
         self.model = model
         self.dataset = dataset
         self.usage_tracker = usage_tracker
@@ -42,9 +40,7 @@ class SaveToCsvCallback(Callback):
         self.file_path.parent.mkdir(parents=True, exist_ok=True)
 
         if self.file_path.exists() and self.file_path.is_file():
-            raise FileExistsError(
-                f"CSV file '{str(self.file_path)}' already exists, will not overwrite."
-            )
+            raise FileExistsError(f"CSV file '{str(self.file_path)}' already exists, will not overwrite.")
 
     def on_step_end(self, step_index: int, completion: Completion):
         with open(self.file_path, "a") as f:
@@ -58,9 +54,7 @@ class SaveToCsvCallback(Callback):
 
 class LoggingCallback(Callback):
     def on_step_end(self, step_index: int, completion: Completion):
-        completion_dict = {
-            k: v for k, v in zip(completion.keys_as_list(), completion.values_as_list())
-        }
+        completion_dict = {k: v for k, v in zip(completion.keys_as_list(), completion.values_as_list())}
         logger.info(
             f"\n{'-'*50}\nStep {step_index}:\n{json.dumps(completion_dict, indent=4, ensure_ascii=False)}\n{'-'*50}\n"
         )
@@ -100,10 +94,11 @@ class WandbCallback(Callback):
         else:
             self.table = wandb.Table(columns=self.table.columns, data=self.table.data)
 
-        self.table.add_data(
-            *completion.values_as_list(), wandb.Image(completion.example.image_path)
-        )
-
+        # check if there path is an image path
+        try:
+            self.table.add_data(*completion.values_as_list(), wandb.Image(completion.example.image_path))
+        except Exception:
+            pass
         if (step_index + 1) % self.log_every == 0:
             wandb.log({f"Tables/{self.table_name}": self.table})
             wandb.log(self.usage_tracker.get_usage_dict(), step=step_index)
@@ -161,9 +156,7 @@ class SaveToVizWizSubmissionCallback(Callback):
         self.file_path.parent.mkdir(parents=True, exist_ok=True)
 
         if self.file_path.exists() and self.file_path.is_file():
-            raise FileExistsError(
-                f"JSON file '{str(self.file_path)}' already exists, will not overwrite."
-            )
+            raise FileExistsError(f"JSON file '{str(self.file_path)}' already exists, will not overwrite.")
         self.results = []
 
     def on_step_end(self, step_index: int, completion: Completion):
@@ -175,8 +168,8 @@ class SaveToVizWizSubmissionCallback(Callback):
 
     def on_run_end(self) -> None:
         with open(self.file_path, "w") as f:
-            json.dump(self.results, f)            
-            
+            json.dump(self.results, f)
+
 
 class VizWizAccuracyCallback(Callback):
     def __init__(self, file_path: Union[str, Path], **kwargs):
@@ -186,9 +179,7 @@ class VizWizAccuracyCallback(Callback):
         self.file_path.parent.mkdir(parents=True, exist_ok=True)
 
         if self.file_path.exists() and self.file_path.is_file():
-            raise FileExistsError(
-                f"JSON file '{str(self.file_path)}' already exists, will not overwrite."
-            )
+            raise FileExistsError(f"JSON file '{str(self.file_path)}' already exists, will not overwrite.")
         self.results = []
 
     def on_step_end(self, step_index: int, completion: Completion):
@@ -208,6 +199,6 @@ class VizWizAccuracyCallback(Callback):
         logger.info(f"VizWiz accuracy: {accuracy}")
         if wandb.run:
             wandb.log(accuracy)
-        
+
         with open(self.file_path, "w") as f:
-            json.dump(accuracy, f)  
+            json.dump(accuracy, f)

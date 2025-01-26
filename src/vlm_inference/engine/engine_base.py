@@ -19,21 +19,14 @@ logger = logging.getLogger(__name__)
 class Engine:
     """Engine class for all models."""
 
-    def __init__(
-        self, model: VisionLanguageModel, dataset: ImageDataset, callbacks: List[Callable] = []
-    ):
+    def __init__(self, model: VisionLanguageModel, dataset: ImageDataset, callbacks: List[Callable] = []):
         self.model = model
         self.dataset = dataset
         self.metadata_tracker = UsageTracker()
-
         callback_kwargs = dict(model=model, dataset=dataset, usage_tracker=self.metadata_tracker)
-        self.callbacks: List[Callback] = [
-            callback_cls(**callback_kwargs) for callback_cls in callbacks
-        ]
+        self.callbacks: List[Callback] = [callback_cls(**callback_kwargs) for callback_cls in callbacks]
 
-    def json_step(
-        self, example: ImageExample, json_schema: Type[PydanticBaseModel]
-    ) -> JsonCompletion:
+    def json_step(self, example: ImageExample, json_schema: Type[PydanticBaseModel]) -> JsonCompletion:
         for retry in range(self.model.gen_max_retries):
             try:
                 generated_text, usage_metadata = self.model.generate(example, json_schema)
@@ -45,15 +38,11 @@ class Engine:
                 generated_json = None
                 time.sleep(self.model.gen_sleep_duration)
 
-            if generated_json is not None and validate_json_with_schema(
-                generated_json, json_schema
-            ):
+            if generated_json is not None and validate_json_with_schema(generated_json, json_schema):
                 break
 
         if generated_json is None:
-            logger.warning(
-                f"Failed to generate JSON after {self.model.gen_max_retries} iterations"
-            )
+            logger.warning(f"Failed to generate JSON after {self.model.gen_max_retries} iterations")
             return JsonCompletion(
                 example=example,
                 response={field: None for field in json_schema.model_fields.keys()},
@@ -78,9 +67,7 @@ class Engine:
                 break
 
         if not generated_text:
-            logger.warning(
-                f"Failed to generate text after {self.model.gen_max_retries} iterations"
-            )
+            logger.warning(f"Failed to generate text after {self.model.gen_max_retries} iterations")
             return StringCompletion(example=example, response="")
 
         logger.info(f"Generated text after {retry + 1} iterations")
@@ -88,11 +75,7 @@ class Engine:
         return StringCompletion(example=example, response=generated_text)
 
     def run(self):
-        step_cls = (
-            partial(self.json_step, json_schema=self.dataset.json_schema)
-            if self.model.json_mode
-            else self.step
-        )
+        step_cls = partial(self.json_step, json_schema=self.dataset.json_schema) if self.model.json_mode else self.step
 
         for i in tqdm(range(len(self.dataset))):
             completion = step_cls(self.dataset[i])

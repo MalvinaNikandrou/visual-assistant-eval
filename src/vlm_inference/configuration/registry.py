@@ -2,13 +2,29 @@ from hydra.core.config_store import ConfigStore
 from omegaconf import II
 
 from ..utils.misc import is_flashattn_2_supported
-from .callbacks import (CostLoggingCallbackConfig, LoggingCallbackConfig,
-                        SaveToCsvCallbackConfig, SaveToVizWizSubmissionCallbackConfig,
-                        VizWizAccuracyCallbackConfig, WandbCallbackConfig)
+from .callbacks import (
+    CostLoggingCallbackConfig,
+    LoggingCallbackConfig,
+    SaveToCsvCallbackConfig,
+    SaveToVizWizSubmissionCallbackConfig,
+    VizWizAccuracyCallbackConfig,
+    WandbCallbackConfig,
+)
 from .dataset import DatasetConfig
-from .models import (AnthropicModelConfig, GoogleModelConfig, HfModel,
-                     HfModelConfig, HfProcessor, ModelConfig, MolmoConfig,
-                     OpenaiModelConfig, Pricing, ProcessorConfig, RekaModelConfig)
+from .models import (
+    AnthropicModelConfig,
+    GoogleModelConfig,
+    HfModel,
+    VideoHfModelConfig,
+    HfModelConfig,
+    HfProcessor,
+    ModelConfig,
+    MolmoConfig,
+    OpenaiModelConfig,
+    Pricing,
+    ProcessorConfig,
+    RekaModelConfig,
+)
 from ..metrics import split_at_first_capital_after_whitespace
 from .run import RunConfig
 
@@ -32,6 +48,16 @@ cs.store(
     group="dataset",
     name="vizwiz_vqa",
     node=DatasetConfig(_target_="vlm_inference.VizWizVQADataset"),
+)
+cs.store(
+    group="dataset",
+    name="multilingual_vizwiz_vqa",
+    node=DatasetConfig(_target_="vlm_inference.MultilingualVizWizVQADataset"),
+)
+cs.store(
+    group="dataset",
+    name="orbit_vqa",
+    node=DatasetConfig(_target_="vlm_inference.VideoQADataset"),
 )
 
 # Base Model
@@ -177,9 +203,7 @@ cs.store(
         name=f"Salesforce/instructblip-vicuna-{II('model.size')}",
         size="7b",
         dtype="float16",
-        model_cls=HfModel(
-            _target_="transformers.InstructBlipForConditionalGeneration.from_pretrained"
-        ),
+        model_cls=HfModel(_target_="transformers.InstructBlipForConditionalGeneration.from_pretrained"),
         processor_cls=HfProcessor(_target_="transformers.InstructBlipProcessor.from_pretrained"),
     ),
 )
@@ -218,6 +242,22 @@ cs.store(
 
 cs.store(
     group="model",
+    name="idefics3",
+    node=HfModelConfig(
+        name=f"HuggingFaceM4/idefics3-{II('model.size')}-Llama3",
+        size="8b",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.AutoModelForVision2Seq.from_pretrained",
+            attn_implementation="flash_attention_2" if is_flashattn_2_supported() else "sdpa",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoProcessor.from_pretrained"),
+        strip_prompt=True,
+    ),
+)
+
+cs.store(
+    group="model",
     name="paligemma",
     node=HfModelConfig(
         name=f"google/paligemma-{II('model.size')}",
@@ -236,16 +276,14 @@ cs.store(
     group="model",
     name="phi3-vision",
     node=HfModelConfig(
-        name="microsoft/Phi-3-vision-128k-instruct",
+        name="microsoft/Phi-3.5-vision-instruct",
         size="",  # not used
         dtype="bfloat16",
         model_cls=HfModel(
             _target_="transformers.AutoModelForCausalLM.from_pretrained",
             attn_implementation="flash_attention_2" if is_flashattn_2_supported() else "eager",
         ),
-        processor_cls=HfProcessor(
-            _target_="transformers.AutoProcessor.from_pretrained", use_fast=True
-        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoProcessor.from_pretrained", use_fast=True),
         strip_prompt=True,
         postprocess_fn=ProcessorConfig(_target_="vlm_inference.metrics.vqa.split_at_first_capital_after_whitespace"),
     ),
@@ -262,11 +300,25 @@ cs.store(
         model_cls=HfModel(
             _target_="transformers.AutoModel.from_pretrained",
         ),
-        processor_cls=HfProcessor(
-            _target_="transformers.AutoTokenizer.from_pretrained", use_fast=True
-        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoTokenizer.from_pretrained", use_fast=True),
     ),
 )
+
+cs.store(
+    group="model",
+    name="internvl2.5",
+    node=HfModelConfig(
+        _target_="vlm_inference.InternVLModel",
+        name=f"OpenGVLab/InternVL2_5-{II('model.size')}",
+        size="8B",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.AutoModel.from_pretrained",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoTokenizer.from_pretrained", use_fast=True),
+    ),
+)
+
 
 cs.store(
     group="model",
@@ -278,9 +330,7 @@ cs.store(
         model_cls=HfModel(
             _target_="transformers.AutoModelForCausalLM.from_pretrained",
         ),
-        processor_cls=HfProcessor(
-            _target_="vlm_inference.ChatGLMProcessor.from_pretrained", use_fast=True
-        ),
+        processor_cls=HfProcessor(_target_="vlm_inference.ChatGLMProcessor.from_pretrained", use_fast=True),
         strip_prompt=True,
     ),
 )
@@ -317,6 +367,22 @@ cs.store(
             _target_="transformers.AutoProcessor.from_pretrained",
             use_fast=True,
         ),
+        strip_prompt=True,
+    ),
+)
+
+cs.store(
+    group="model",
+    name="qwen2-vl",
+    node=HfModelConfig(  # VideoHfModelConfig(
+        name=f"Qwen/Qwen2-VL-{II('model.size')}-Instruct",
+        size="7b",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.Qwen2VLForConditionalGeneration.from_pretrained",
+            attn_implementation="flash_attention_2" if is_flashattn_2_supported() else "sdpa",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoProcessor.from_pretrained"),
         strip_prompt=True,
     ),
 )

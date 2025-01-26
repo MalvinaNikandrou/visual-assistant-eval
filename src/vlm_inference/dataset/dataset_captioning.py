@@ -18,9 +18,7 @@ class ImageCaptioningDataset(ImageDataset):
 class CulturalCaptionResponse(PydanticBaseModel):
     caption: str = Field(description="Caption for the image")
     is_cultural: bool = Field(description="true/false")
-    justification: str = Field(
-        description="Why or why not the image contains cultural information"
-    )
+    justification: str = Field(description="Why or why not the image contains cultural information")
 
 
 class CulturalImageCaptioningDataset(ImageCaptioningDataset):

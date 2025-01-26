@@ -27,7 +27,7 @@ class HfModel(VisionLanguageModel):
         processor_cls: Callable,
         strip_prompt: bool = False,
         postprocess_fn: Optional[Callable] = None,
-        **kwargs
+        **kwargs,
     ):
         super().__init__(name, generation_kwargs, json_mode)
 
@@ -69,9 +69,7 @@ class HfModel(VisionLanguageModel):
 
         generated_tokens = generated_tokens.cpu()
 
-        generated_text = self.processor.batch_decode(generated_tokens, skip_special_tokens=True)[
-            0
-        ].strip()
+        generated_text = self.processor.batch_decode(generated_tokens, skip_special_tokens=True)[0].strip()
 
         if self.postprocess_fn is not None:
             generated_text = self.postprocess_fn(generated_text)

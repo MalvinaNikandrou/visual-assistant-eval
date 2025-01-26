@@ -224,6 +224,28 @@ python run.py \
   dataset.template_name=culture_json
 ```
 
+```bash
+python run.py \
+  model=minicpm-llama3-v2.5 \
+  model.json_mode=false \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset=vizwiz_vqa \
+  dataset.template_name=default_vqa
+```
+
+##### InternVL2.5
+
+```bash
+python run.py \
+  model=internvl2.5 \
+  model.json_mode=false \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset=vizwiz_vqa \
+  dataset.template_name=default_vqa
+```
+
 ##### GLM-4V-9B
 
 ```bash
@@ -295,6 +317,36 @@ python run.py \
   dataset=vizwiz_vqa
 ```
 
+##### Qwen2-VL
+```bash
+ python run.py \
+  model=qwen2-vl  \
+  model.json_mode=false \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=qwen2vl_vqa \
+  dataset=vizwiz_vqa
+``` 
+
+```bash
+ python run.py \
+  model=qwen2-vl  \
+  model.json_mode=false \
+  dataset.path=tasks/video_object_recognition/orbit_question_answers.json \
+  +dataset.images_path=tasks/video_object_recognition/orbit_question_answers.json  \
+  dataset.template_name=qwen2vl_video_qa \
+  dataset=orbit_vqa
+``` 
+
+```bash
+ python run.py \
+  model=qwen2-vl  \
+  model.json_mode=false \
+  dataset.path=data/val.json \
+  +dataset.images_path=data/val  \
+  dataset.template_name=qwen2vl_video_vqa \
+  dataset=orbit_vqa
+``` 
 
 ### Running on SLURM
 

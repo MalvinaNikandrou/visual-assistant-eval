@@ -16,9 +16,7 @@ logger = logging.getLogger(__name__)
 
 class OpenaiModel(VisionLanguageModel):
 
-    def __init__(
-        self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool, pricing: Pricing
-    ):
+    def __init__(self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool, pricing: Pricing):
         super().__init__(name, generation_kwargs, json_mode)
 
         logger.info("Using OpenAI API")
@@ -35,11 +33,7 @@ class OpenaiModel(VisionLanguageModel):
         response = self.client.chat.completions.create(
             model=self.name,
             response_format={
-                "type": (
-                    "json_object"
-                    if json_schema is not None and "preview" not in self.name
-                    else "text"
-                )
+                "type": ("json_object" if json_schema is not None and "preview" not in self.name else "text")
             },  # the vision preview doesn't support JSON mode
             messages=[
                 {

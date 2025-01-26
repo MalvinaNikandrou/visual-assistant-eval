@@ -1,0 +1,2 @@
+{{ question }}
+Write a caption that describes this photo.
