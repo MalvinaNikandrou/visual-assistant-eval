@@ -117,23 +117,33 @@ def parse_args() -> argparse.Namespace:
         help="Use only the last checkpoint",
     )
 
+    parser.add_argument(
+        "--download",
+        action="store_true",
+        help="Download checkpoints",
+    )
+
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = parse_args()
 
-    pattern = f"{args.hf_checkpoint_folder}/*adapter*"
-    _ = snapshot_download(
-        repo_id=args.hf_repo_id,
-        repo_type="model",
-        local_dir=args.local_dir,
-        allow_patterns=pattern,
-        max_workers=args.num_workers,
-        resume_download=True,
-    )
+    if args.download:
+        pattern = f"{args.hf_checkpoint_folder}/*adapter*"
+        _ = snapshot_download(
+            repo_id=args.hf_repo_id,
+            repo_type="model",
+            local_dir=args.local_dir,
+            allow_patterns=pattern,
+            max_workers=args.num_workers,
+            resume_download=True,
+        )
 
-    checkpoint_folder = os.path.join(args.local_dir, args.hf_checkpoint_folder)
+        checkpoint_folder = os.path.join(args.local_dir, args.hf_checkpoint_folder)
+    else:
+        checkpoint_folder = args.hf_checkpoint_folder
+
     checkpoints = sorted(
         os.listdir(checkpoint_folder), key=lambda x: int(x.split("-")[-1])
     )
