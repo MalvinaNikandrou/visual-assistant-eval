@@ -70,10 +70,12 @@ class Collator:
         processor: MllamaProcessor,
         src_image: str = "br_image_aug",
         tgt_lang: str = "en",
+        is_training: bool = True,
     ) -> None:
         self.processor = processor
         self.src_image = src_image
         self.tgt_lang = tgt_lang
+        self.is_training = is_training
 
     def __call__(self, examples: dict[str, Any]) -> BatchFeature:
         images = [example[self.src_image] for example in examples]
@@ -87,16 +89,19 @@ class Collator:
                         {"type": "text", "text": "Translate the Braille to English."},
                     ],
                 },
-                {
-                    "role": "assistant",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": example[self.tgt_lang],
-                        }
-                    ],
-                },
             ]
+            if self.is_training:
+                dialog.append(
+                    {
+                        "role": "assistant",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": example[self.tgt_lang],
+                            }
+                        ],
+                    },
+                )
             dialogs.append(dialog)
         return tokenize_dialogs(dialogs, images, self.processor)
 
@@ -108,12 +113,14 @@ class SquadCollator:
         context: str = "br_context_image_aug",
         src_lang: str = "en_question",
         tgt_lang: str = "en_answer",
+        is_training: bool = True,
     ) -> None:
         self.processor = processor
         self.context = context
         self.src_lang = src_lang
         self.tgt_lang = tgt_lang
         self.prompt = """Answer the following question based on the image.\nIf the question is not answerable, output 'unanswerable'.\n{question}"""
+        self.is_training = is_training
 
     def __call__(self, examples: dict[str, Any]) -> BatchFeature:
         images = [example[self.context] for example in examples]
@@ -130,15 +137,19 @@ class SquadCollator:
                         },
                     ],
                 },
-                {
-                    "role": "assistant",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": example[self.tgt_lang],
-                        }
-                    ],
-                },
             ]
+            if self.is_training:
+                dialog.append(
+                    {
+                        "role": "assistant",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": example[self.tgt_lang],
+                            }
+                        ],
+                    },
+                )
+
             dialogs.append(dialog)
         return tokenize_dialogs(dialogs, images, self.processor)

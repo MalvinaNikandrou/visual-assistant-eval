@@ -4,7 +4,7 @@ import os
 
 import evaluate
 import torch
-from collate import Collator
+from collate import Collator, SquadCollator
 from datasets import load_dataset
 from huggingface_hub import snapshot_download
 from peft import PeftModel
@@ -78,7 +78,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--hf_dataset_id",
         default="gpantaz/flores200devtest",
-        choices=["gpantaz/flores200devtest", "gpantaz/ntrex128test"],
+        choices=[
+            "gpantaz/flores200devtest",
+            "gpantaz/ntrex128test",
+            "gpantaz/squadv2validation",
+        ],
         help="Hugging Face dataset ID",
     )
 
@@ -86,8 +90,40 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--hf_dataset_split",
         default="devtest",
-        choices=["devtest", "test"],
+        choices=["devtest", "test", "validation"],
         help="Hugging Face dataset split",
+    )
+
+    parser.add_argument(
+        "--task",
+        default="wmt",
+        choices=["wmt", "squad"],
+        help="Task type",
+    )
+
+    parser.add_argument(
+        "--src_image",
+        default="br_image_aug",
+        help="Source image column name",
+    )
+
+    parser.add_argument(
+        "--context",
+        default="br_context_image_aug",
+        help="Context column name",
+    )
+
+    parser.add_argument(
+        "--src_lang",
+        default="en_question",
+        help="Source language column name",
+    )
+
+    parser.add_argument(
+        "--tgt_lang",
+        default="en",
+        choices=["en", "en_answer"],
+        help="Target language column name",
     )
 
     parser.add_argument(
@@ -153,6 +189,7 @@ if __name__ == "__main__":
         print(f"Found {len(checkpoints)} checkpoints in {checkpoint_folder}")
 
     test_dataset = load_dataset(args.hf_dataset_id, split=args.hf_dataset_split)
+    references = [[example[args.tgt_lang]] for example in test_dataset]
     for checkpoint in tqdm(checkpoints, total=len(checkpoints)):
         finetuning_path = os.path.join(checkpoint_folder, checkpoint)
         model, processor = load_model_and_processor(
@@ -160,7 +197,22 @@ if __name__ == "__main__":
             finetuning_path=finetuning_path,
         )
 
-        collator = Collator(processor=processor)
+        if args.task == "wmt":
+            collator = Collator(
+                processor=processor,
+                src_image=args.src_image,
+                tgt_lang=args.tgt_lang,
+                is_training=False,
+            )
+        else:
+            collator = SquadCollator(
+                processor=processor,
+                context=args.context,
+                src_lang=args.src_lang,
+                tgt_lang=args.tgt_lang,
+                is_training=False,
+            )
+
         test_dataloader = torch.utils.data.DataLoader(
             test_dataset,
             collate_fn=collator,
@@ -175,7 +227,6 @@ if __name__ == "__main__":
             desc=f"Predicting with {checkpoint}",
         )
         predictions = []
-        references = [[example["en"]] for example in test_dataset]
         for batch in pbar:
             inputs = {k: v.to(model.device) for k, v in batch.items()}
             batch_output = model.generate(
