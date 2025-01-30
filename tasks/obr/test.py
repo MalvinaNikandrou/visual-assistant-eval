@@ -267,9 +267,6 @@ if __name__ == "__main__":
                     )
                 example_idx += 1
 
-            if len(context_sizes) >= 400:
-                break
-
         if args.task == "wmt":
             chrf = evaluate.load("chrf")
             results = chrf.compute(
