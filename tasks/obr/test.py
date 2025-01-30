@@ -8,6 +8,7 @@ from collate import Collator, SquadCollator
 from datasets import load_dataset
 from huggingface_hub import snapshot_download
 from peft import PeftModel
+from squad_metric import SquadMetric
 from tqdm import tqdm
 from transformers import MllamaForConditionalGeneration, MllamaProcessor
 
@@ -189,7 +190,16 @@ if __name__ == "__main__":
         print(f"Found {len(checkpoints)} checkpoints in {checkpoint_folder}")
 
     test_dataset = load_dataset(args.hf_dataset_id, split=args.hf_dataset_split)
-    references = [[example[args.tgt_lang]] for example in test_dataset]
+    if args.task == "wmt":
+        references = [[example[args.tgt_lang]] for example in test_dataset]
+    else:
+        references = []
+        # references = [
+        #     json.loads(example["metadata"])["answers"]["text"]
+        #     for example in test_dataset
+        # ]
+
+    example_idx = 0
     for checkpoint in tqdm(checkpoints, total=len(checkpoints)):
         finetuning_path = os.path.join(checkpoint_folder, checkpoint)
         model, processor = load_model_and_processor(
@@ -227,6 +237,7 @@ if __name__ == "__main__":
             desc=f"Predicting with {checkpoint}",
         )
         predictions = []
+        context_sizes = []
         for batch in pbar:
             inputs = {k: v.to(model.device) for k, v in batch.items()}
             batch_output = model.generate(
@@ -241,13 +252,39 @@ if __name__ == "__main__":
                 ).strip()
 
                 predictions.append(output_str)
+                if args.task == "squad":
+                    context_sizes.append(
+                        len(
+                            processor.tokenizer.encode(
+                                test_dataset[example_idx]["en_context"]
+                            )
+                        )
+                    )
+                    references.append(
+                        json.loads(test_dataset[example_idx]["metadata"])["answers"][
+                            "text"
+                        ]
+                    )
+                example_idx += 1
 
-        chrf = evaluate.load("chrf")
-        results = chrf.compute(
-            predictions=predictions,
-            references=references,
-            word_order=2,
-        )
+            if len(context_sizes) >= 400:
+                break
+
+        if args.task == "wmt":
+            chrf = evaluate.load("chrf")
+            results = chrf.compute(
+                predictions=predictions,
+                references=references,
+                word_order=2,
+            )
+        else:
+            squad_metric = SquadMetric()
+            results = squad_metric.compute(
+                predictions=predictions,
+                ground_truths=references,
+                context_sizes=context_sizes,
+                bin_size=20,
+            )
         print(results)
 
         output_json = os.path.join(
