@@ -127,11 +127,16 @@ class MultilingualVizWizVQADataset(VQADataset):
         super().__init__(images_path, path, template_name)
         lang = Path(path).stem.split("_")[-1]
         self.lang = Language.from_code(lang)
+        self.use_language_code = "paligemma" in template_name
 
     def get_prompt(self, question: str) -> str:
+        if self.use_language_code:
+            lang = self.lang.name
+        else:
+            lang = self.lang.value
         return self.template.render(
             question=question,
-            lang=self.lang.value,
+            lang=lang,
             unanswerable=UnanswerableMapping.get(self.lang.name),
             json_schema=parse_pydantic_schema(self.json_schema),
         )

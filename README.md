@@ -128,44 +128,25 @@ python run.py \
 
 #### Examples
 
-##### PaliGemma (w/ non-JSON template and regular captioning)
-
-```bash
-python run.py \
-  model=paligemma \
-  model.json_mode=false \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=paligemma_caption_en
-
-```
+##### PaliGemma
 ```bash
  python run.py \
   model=paligemma  \
   model.json_mode=false \
   dataset.path=data/val.json \
+  generation_config=hf_vqa  \
   +dataset.images_path=data/val  \
   dataset.template_name=paligemma_vqa_json \
   dataset=vizwiz_vqa
 ```
 
-##### LLaVa-1.6 (w/ JSON culture template and cultural captioning)
-
-```bash
-python run.py \
-  model=llava \
-  model.json_mode=true \
-  dataset=cultural_captioning \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=llava7b_culture_json
-```
-
-For VQA:
-
+##### LLaVa-1.6 
 ```bash
  python run.py \
   model=llava  \
   model.json_mode=true \
  dataset.path=data/val.json \
+  generation_config=hf_vqa  \
  +dataset.images_path=data/val  \
  dataset.template_name=llava7b_vqa_json \
  dataset=vizwiz_vqa
@@ -174,62 +155,37 @@ For VQA:
 
 
 ##### Idefics2
-
-```bash
-python run.py \
-  model=idefics2 \
-  model.json_mode=true \
-  dataset=cultural_captioning \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=idefics2_culture_json
-```
 ```bash
  python run.py \
   model=idefics2  \
   model.json_mode=no \
   dataset.path=data/val.json \
+  generation_config=hf_vqa  \
   +dataset.images_path=data/val  \
   dataset.template_name=idefics2_vqa_json \
   dataset=vizwiz_vqa
 ```
 
 ##### Phi3-vision
-
-```bash
-python run.py \
-  model=phi3-vision \
-  model.json_mode=true \
-  dataset=cultural_captioning \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=phi3_culture_json
-```
 ```bash
  python run.py \
   model=phi3-vision  \
   model.json_mode=true \
   dataset.path=data/val.json \
+  generation_config=hf_vqa  \
   +dataset.images_path=data/val  \
   dataset.template_name=phi3_vqa_json \
   dataset=vizwiz_vqa
 ```
 
 ##### MiniCPM-Llama3-V-2.5
-
-```bash
-python run.py \
-  model=minicpm-llama3-v2.5 \
-  model.json_mode=true \
-  dataset=cultural_captioning \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=culture_json
-```
-
 ```bash
 python run.py \
   model=minicpm-llama3-v2.5 \
   model.json_mode=false \
   dataset.path=data/val.json \
   +dataset.images_path=data/val  \
+  generation_config=hf_vqa  \
   dataset=vizwiz_vqa \
   dataset.template_name=default_vqa
 ```
@@ -241,6 +197,7 @@ python run.py \
   model=internvl2.5 \
   model.json_mode=false \
   dataset.path=data/val.json \
+  generation_config=hf_vqa  \
   +dataset.images_path=data/val  \
   dataset=vizwiz_vqa \
   dataset.template_name=default_vqa
@@ -253,6 +210,7 @@ python run.py \
   model=glm-4v \
   model.json_mode=true \
   dataset=cultural_captioning \
+  generation_config=hf_captionin  \
   dataset.path=data/xm3600_images \
   dataset.template_name=culture_json
 ```
@@ -264,6 +222,7 @@ python run.py \
   model.json_mode=true \
   dataset.path=data/val.json \
   +dataset.images_path=data/val  \
+  generation_config=hf_vqa  \
   dataset.template_name=molmo_vqa_json \
   dataset=vizwiz_vqa
 ```
@@ -272,6 +231,7 @@ python run.py \
  python run.py \
   model=molmo  \
   model.json_mode=false \
+  generation_config=hf_vqa  \
   dataset.path=data/val \
   dataset.template_name=molmo_caption \
   dataset=captioning
@@ -283,6 +243,7 @@ python run.py \
   model.json_mode=false \
   dataset.path=data/val.json \
   +dataset.images_path=data/val  \
+  generation_config=hf_vqa  \
   dataset.template_name=molmo_vqa \
   dataset=vizwiz_vqa
 ```
@@ -295,6 +256,7 @@ python run.py \
   dataset.path=data/val.json \
   +dataset.images_path=data/val  \
   dataset.template_name=llama_vision_vqa_json \
+  generation_config=hf_vqa  \
   dataset=vizwiz_vqa
 ```
 
@@ -304,6 +266,7 @@ python run.py \
   model.json_mode=false \
   dataset.path=data/val  \
   dataset.template_name=llama_vision_caption \
+  generation_config=hf_vqa  \
   dataset=captioning
 ```
 
@@ -314,6 +277,7 @@ python run.py \
   dataset.path=data/val.json \
   +dataset.images_path=data/val  \
   dataset.template_name=llama_vision_vqa \
+  generation_config=hf_vqa  \
   dataset=vizwiz_vqa
 ```
 
@@ -324,27 +288,19 @@ python run.py \
   model.json_mode=false \
   dataset.path=data/val.json \
   +dataset.images_path=data/val  \
+  generation_config=hf_vqa  \
   dataset.template_name=qwen2vl_vqa \
   dataset=vizwiz_vqa
 ``` 
 
 ```bash
  python run.py \
-  model=qwen2-vl  \
+  model=qwen2-vl-video  \
+  generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/video_object_recognition/orbit_question_answers.json \
   +dataset.images_path=tasks/video_object_recognition/orbit_question_answers.json  \
   dataset.template_name=qwen2vl_video_qa \
-  dataset=orbit_vqa
-``` 
-
-```bash
- python run.py \
-  model=qwen2-vl  \
-  model.json_mode=false \
-  dataset.path=data/val.json \
-  +dataset.images_path=data/val  \
-  dataset.template_name=qwen2vl_video_vqa \
   dataset=orbit_vqa
 ``` 
 

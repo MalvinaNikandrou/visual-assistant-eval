@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+
+<|image|>{{ question }}
+When the provided information is insufficient, respond with '{{ unanswerable }}'.
+Answer the question in {{ lang }} using a single word or phrase.
+<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+

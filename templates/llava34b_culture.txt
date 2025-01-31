@@ -15,3 +15,4 @@ Given this image, do two things:
 1. Determine whether the provided example contains cultural information.
 2. Generate a caption that simply describes the photo and includes the cultural information extracted.
 <|im_end|><|im_start|>assistant
+

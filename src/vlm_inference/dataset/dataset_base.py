@@ -7,6 +7,7 @@ from typing import Type
 import hydra
 from jinja2 import Template
 from pydantic import BaseModel as PydanticBaseModel
+from pydantic import Field
 
 from ..utils.json_parsing import parse_pydantic_schema
 from abc import ABC, abstractmethod
@@ -98,10 +99,6 @@ class VQADataset(BaseDataset):
 
     def __len__(self) -> int:
         return len(self.data)
-
-
-from pydantic import BaseModel as PydanticBaseModel
-from pydantic import Field
 
 
 @dataclass

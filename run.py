@@ -1,6 +1,6 @@
 import hydra
 from hydra.utils import instantiate
-from omegaconf import DictConfig
+from omegaconf import DictConfig, OmegaConf
 
 from vlm_inference import run_engine, setup_config, setup_logging
 
@@ -10,7 +10,7 @@ def main(config: DictConfig):
     setup_logging()
     setup_config(config)
     run_engine(
-        model=instantiate(config.model),
+        model=instantiate(config.model, generation_kwargs=OmegaConf.to_container(config.generation_config)),
         dataset=instantiate(config.dataset),
         callbacks=[instantiate(c) for c in config.callbacks],
     )

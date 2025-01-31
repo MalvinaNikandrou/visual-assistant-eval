@@ -15,7 +15,10 @@ from .models import (
     AnthropicModelConfig,
     GoogleModelConfig,
     HfModel,
-    VideoHfModelConfig,
+    APICaptioningGenerationConfig,
+    HfCaptioningGenerationConfig,
+    HfVQAGenerationConfig,
+    VideoVQAHfModelConfig,
     HfModelConfig,
     HfProcessor,
     ModelConfig,
@@ -374,7 +377,7 @@ cs.store(
 cs.store(
     group="model",
     name="qwen2-vl",
-    node=HfModelConfig(  # VideoHfModelConfig(
+    node=HfModelConfig(
         name=f"Qwen/Qwen2-VL-{II('model.size')}-Instruct",
         size="7b",
         dtype="bfloat16",
@@ -386,6 +389,26 @@ cs.store(
         strip_prompt=True,
     ),
 )
+
+cs.store(
+    group="model",
+    name="qwen2-vl-video",
+    node=VideoVQAHfModelConfig(
+        name=f"Qwen/Qwen2-VL-{II('model.size')}-Instruct",
+        size="7b",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.Qwen2VLForConditionalGeneration.from_pretrained",
+            attn_implementation="flash_attention_2" if is_flashattn_2_supported() else "sdpa",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoProcessor.from_pretrained"),
+        strip_prompt=True,
+    ),
+)
+
+cs.store(group="generation_config", name="api_captioning", node=APICaptioningGenerationConfig)
+cs.store(group="generation_config", name="hf_captioning", node=HfCaptioningGenerationConfig)
+cs.store(group="generation_config", name="hf_vqa", node=HfVQAGenerationConfig)
 
 cs.store(group="callbacks", name="logging", node=LoggingCallbackConfig)
 cs.store(group="callbacks", name="csv", node=SaveToCsvCallbackConfig)

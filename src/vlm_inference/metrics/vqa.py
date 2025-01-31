@@ -7,10 +7,15 @@ Lab/VQA/blob/master/PythonEvaluationTools/vqaEvaluation/vqaEval.py.
 import re
 from collections import Counter
 from typing import Any, Union
-
+import unicodedata
+from typing import Literal
 import torch
 from overrides import overrides
 from torchmetrics import Metric
+
+
+def normalize_unicode(input_str: str, form: Literal["NFC", "NFD", "NFKC", "NFKD"] = "NFKC") -> str:
+    return unicodedata.normalize(form, input_str)
 
 
 contractions = {
@@ -164,6 +169,10 @@ punctuations = [
     "}",
     "(",
     ")",
+    "《",
+    "》",
+    ">",
+    "<",
     "=",
     "+",
     "\\",
@@ -172,11 +181,20 @@ punctuations = [
     ">",
     "<",
     "@",
+    "#",
+    "%",
+    "&",
+    "*",
     "`",
+    "、",
+    "''",
+    "'",
+    "``",
     ",",
     "?",
     "!",
     ":",
+    "。",
 ]
 
 
@@ -191,6 +209,7 @@ def split_at_first_capital_after_whitespace(s):
 def normalize_answer(answer: str) -> str:
     """Normalize a VQA answer."""
     answer = answer.lower()
+    answer = normalize_unicode(answer)
     answer = answer.replace("\n", " ")
     answer = answer.replace("\t", " ")
     answer = answer.strip()
@@ -227,16 +246,16 @@ def process_digit_article(in_text: str) -> str:
     return " ".join(out_text)
 
 
-def vqa_v2_score(count: int) -> float:
-    """VQA-v2 includes 10 answers for each question.
-
-    Scores are assigned as follows:
-    - 0.3 if the answer appears once
-    - 0.6 if the answer appears twice
-    - 0.9 if the answer appears three times
-    - 1.0 if the answer appears more than three times
-    """
-    return min(1.0, round(0.3 * count, 1))  # noqa: WPS432
+def vqa_v2_score(gts, predicted_answer):
+    gtAcc = []
+    # get all 10 choose 9 scores
+    for idx, _ in enumerate(gts):
+        subset_gts = gts[:idx] + gts[idx + 1:]
+        ground_truth_counts = Counter(subset_gts)
+        count = ground_truth_counts.get(predicted_answer, 0)
+        acc = min(1, float(count)/3)
+        gtAcc.append(acc)
+    return  float(sum(gtAcc))/len(gtAcc)
 
 
 class VQAv2Accuracy(Metric):
@@ -258,8 +277,7 @@ class VQAv2Accuracy(Metric):
                 predicted_answer = ""
             predicted_answer = normalize_answer(predicted_answer)
             ground_truth_answers = [normalize_answer(answer) for answer in ground_truth_answers]
-            ground_truth_counts = Counter(ground_truth_answers)
-            self.accuracy += torch.tensor(vqa_v2_score(ground_truth_counts.get(predicted_answer, 0)))
+            self.accuracy += torch.tensor(vqa_v2_score(ground_truth_answers, predicted_answer))
 
         self.total += torch.tensor(len(ground_truth_batch))
 

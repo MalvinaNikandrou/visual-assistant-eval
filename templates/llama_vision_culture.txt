@@ -2,8 +2,7 @@
 
 
 <|image|>{{ question }}
-When the provided information is insufficient, respond with 'unanswerable'.
-Answer the question using a single word or phrase.
+Write a caption that describes this photo.
 <|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
 

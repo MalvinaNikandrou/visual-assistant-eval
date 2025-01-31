@@ -62,7 +62,6 @@ class HfModel(VisionLanguageModel):
         self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
     ) -> Tuple[str, UsageMetadata]:
         features = self._extract_features(example)
-
         prefix_allowed_tokens_fn = (
             JSONPrefixAllowedTokens(
                 schema=json_schema,

@@ -12,10 +12,48 @@ class Pricing:
 
 
 @dataclass
+class GenerationConfig:
+    pass
+
+
+@dataclass
+class APICaptioningGenerationConfig(GenerationConfig):
+    max_output_tokens: int = 300
+    temperature: float = 0.5
+    max_retries: int = 50
+    sleep_duration: int = 2
+
+
+@dataclass
+class HfGenerationConfig(GenerationConfig):
+    num_return_sequences: int = 1
+    do_sample: bool = MISSING
+    max_new_tokens: int = MISSING
+    temperature: float = MISSING
+    top_k: int = MISSING
+    max_retries: int = 1
+
+
+@dataclass
+class HfCaptioningGenerationConfig(HfGenerationConfig):
+    do_sample: bool = True
+    max_new_tokens: int = 300
+    temperature: float = 0.5
+    top_k: int = 50
+
+
+@dataclass
+class HfVQAGenerationConfig(HfGenerationConfig):
+    do_sample: bool = False
+    max_new_tokens: int = 75
+    temperature: float = 1.0
+    top_k: int = 0
+
+
+@dataclass
 class ModelConfig:
     _target_: str = MISSING
     name: str = MISSING
-    generation_kwargs: Dict[str, Any] = MISSING
     json_mode: bool = False
 
 
@@ -23,14 +61,6 @@ class ModelConfig:
 class GoogleModelConfig(ModelConfig):
     _target_: str = "vlm_inference.GoogleModel"
     name: str = MISSING
-    generation_kwargs: Dict[str, Any] = field(
-        default_factory=lambda: {
-            "max_output_tokens": 300,
-            "temperature": 0.5,
-            "max_retries": 50,
-            "sleep_duration": 2,
-        }
-    )
     pricing: Pricing = MISSING
 
 
@@ -38,14 +68,6 @@ class GoogleModelConfig(ModelConfig):
 class OpenaiModelConfig(ModelConfig):
     _target_: str = "vlm_inference.OpenaiModel"
     name: str = MISSING
-    generation_kwargs: Dict[str, Any] = field(
-        default_factory=lambda: {
-            "max_tokens": 300,
-            "temperature": 0.5,
-            "max_retries": 50,
-            "sleep_duration": 2,
-        }
-    )
     pricing: Pricing = MISSING
 
 
@@ -53,14 +75,6 @@ class OpenaiModelConfig(ModelConfig):
 class AnthropicModelConfig(ModelConfig):
     _target_: str = "vlm_inference.AnthropicModel"
     name: str = MISSING
-    generation_kwargs: Dict[str, Any] = field(
-        default_factory=lambda: {
-            "max_tokens": 300,
-            "temperature": 0.5,
-            "max_retries": 50,
-            "sleep_duration": 2,
-        }
-    )
     pricing: Pricing = MISSING
 
 
@@ -68,14 +82,6 @@ class AnthropicModelConfig(ModelConfig):
 class RekaModelConfig(ModelConfig):
     _target_: str = "vlm_inference.RekaModel"
     name: str = MISSING
-    generation_kwargs: Dict[str, Any] = field(
-        default_factory=lambda: {
-            "max_tokens": 300,
-            "temperature": 0.5,
-            "max_retries": 50,
-            "sleep_duration": 2,
-        }
-    )
     pricing: Pricing = MISSING
 
 
@@ -107,25 +113,6 @@ class ProcessorConfig:
 class HfModelConfig(ModelConfig):
     _target_: str = "vlm_inference.HfModel"
     name: str = MISSING
-    generation_kwargs: Dict[str, Any] = field(
-        default_factory=lambda: {
-            "num_return_sequences": 1,
-            "do_sample": True,
-            "max_new_tokens": 300,
-            "temperature": 0.5,
-            "top_k": 50,
-            "max_retries": 1,
-        }
-        # VQA
-        # default_factory=lambda: {
-        #     "num_return_sequences": 1,
-        #     "do_sample": False,
-        #     "max_new_tokens": 75,
-        #     "temperature": 1.0,
-        #     "top_k": 50,
-        #     "max_retries": 1,
-        # }
-    )
     size: str = MISSING
     dtype: str = MISSING
     model_cls: HfModel = MISSING
@@ -135,25 +122,9 @@ class HfModelConfig(ModelConfig):
 
 
 @dataclass
-class VideoHfModelConfig(ModelConfig):
+class VideoVQAHfModelConfig(HfModelConfig):
     _target_: str = "vlm_inference.VideoHfModel"
-    name: str = MISSING
-    generation_kwargs: Dict[str, Any] = field(
-        default_factory=lambda: {
-            "num_return_sequences": 1,
-            "do_sample": False,
-            "max_new_tokens": 75,
-            "temperature": 1.0,
-            "top_k": 50,
-            "max_retries": 1,
-        }
-    )
-    size: str = MISSING
-    dtype: str = MISSING
-    model_cls: HfModel = MISSING
-    processor_cls: HfProcessor = MISSING
-    strip_prompt: bool = False
-    postprocess_fn: Optional[ProcessorConfig] = None
+    
 
 
 @dataclass

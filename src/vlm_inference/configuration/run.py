@@ -5,7 +5,7 @@ from omegaconf import MISSING
 
 from .callbacks import CallbackConfig
 from .dataset import DatasetConfig
-from .models import ModelConfig
+from .models import ModelConfig, GenerationConfig
 
 
 @dataclass
@@ -17,5 +17,6 @@ class BaseConfig:
 class RunConfig(BaseConfig):
     dataset: DatasetConfig = MISSING
     model: ModelConfig = MISSING
+    generation_config: GenerationConfig = MISSING
     callbacks: List[CallbackConfig] = MISSING
     output_path: str = "./"

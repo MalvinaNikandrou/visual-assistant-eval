@@ -1,0 +1,6 @@
+You are a helpful AI assistant. Question: {{ question }}
+When the provided information is insufficient, respond with {{ unanswerable }}.
+Answer with a single word or phrase in {{ lang }}.
+
+
+Output:

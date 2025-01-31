@@ -5,6 +5,7 @@ defaults:
   - run: local
   - dataset: captioning
   - model: base_model
+  - generation_config: hf_captioning
   - callbacks@_callback_dict.logging: logging
   - callbacks@_callback_dict.csv: csv
   - callbacks@_callback_dict.vizwiz_accuracy: vizwiz_accuracy

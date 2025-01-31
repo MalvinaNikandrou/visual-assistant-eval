@@ -1,0 +1,9 @@
+<|user|>
+<|image_1|>
+Question: {{ question }}
+When the provided information is insufficient, respond with '{{ unanswerable }}'.
+Answer the question in {{ lang }} using a single word or phrase.
+<|end|>
+<|assistant|>
+
+

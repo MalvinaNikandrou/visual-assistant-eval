@@ -1,12 +1,9 @@
-<|begin_of_text|><|start_header_id|>user<|end_header_id|>
-
-
-<|image|>{{ question }}
+[INST]
+<image>
+{{ question }}
 When the provided information is insufficient, respond with 'unanswerable'.
 Answer the question using a single word or phrase.
 
 Format your response in JSON as follows:
 {{ json_schema }}
-<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-
+[/INST]
