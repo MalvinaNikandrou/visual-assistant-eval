@@ -4,10 +4,11 @@ import os
 
 import evaluate
 import torch
-from collate import Collator
+from collate import Collator, SquadCollator
 from datasets import load_dataset
 from huggingface_hub import snapshot_download
 from peft import PeftModel
+from squad_metric import SquadMetric
 from tqdm import tqdm
 from transformers import MllamaForConditionalGeneration, MllamaProcessor
 
@@ -78,7 +79,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--hf_dataset_id",
         default="gpantaz/flores200devtest",
-        choices=["gpantaz/flores200devtest", "gpantaz/ntrex128test"],
+        choices=[
+            "gpantaz/flores200devtest",
+            "gpantaz/ntrex128test",
+            "gpantaz/squadv2validation",
+        ],
         help="Hugging Face dataset ID",
     )
 
@@ -86,8 +91,40 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--hf_dataset_split",
         default="devtest",
-        choices=["devtest", "test"],
+        choices=["devtest", "test", "validation"],
         help="Hugging Face dataset split",
+    )
+
+    parser.add_argument(
+        "--task",
+        default="wmt",
+        choices=["wmt", "squad"],
+        help="Task type",
+    )
+
+    parser.add_argument(
+        "--src_image",
+        default="br_image_aug",
+        help="Source image column name",
+    )
+
+    parser.add_argument(
+        "--context",
+        default="br_context_image_aug",
+        help="Context column name",
+    )
+
+    parser.add_argument(
+        "--src_lang",
+        default="en_question",
+        help="Source language column name",
+    )
+
+    parser.add_argument(
+        "--tgt_lang",
+        default="en",
+        choices=["en", "en_answer"],
+        help="Target language column name",
     )
 
     parser.add_argument(
@@ -111,29 +148,58 @@ def parse_args() -> argparse.Namespace:
         help="Number of workers for data loading",
     )
 
+    parser.add_argument(
+        "--last_only",
+        action="store_true",
+        help="Use only the last checkpoint",
+    )
+
+    parser.add_argument(
+        "--download",
+        action="store_true",
+        help="Download checkpoints",
+    )
+
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = parse_args()
 
-    pattern = f"{args.hf_checkpoint_folder}/*adapter*"
-    _ = snapshot_download(
-        repo_id=args.hf_repo_id,
-        repo_type="model",
-        local_dir=args.local_dir,
-        allow_patterns=pattern,
-        max_workers=args.num_workers,
-        resume_download=True,
-    )
+    if args.download:
+        pattern = f"{args.hf_checkpoint_folder}/*adapter*"
+        _ = snapshot_download(
+            repo_id=args.hf_repo_id,
+            repo_type="model",
+            local_dir=args.local_dir,
+            allow_patterns=pattern,
+            max_workers=args.num_workers,
+            resume_download=True,
+        )
 
-    checkpoint_folder = os.path.join(args.local_dir, args.hf_checkpoint_folder)
+        checkpoint_folder = os.path.join(args.local_dir, args.hf_checkpoint_folder)
+    else:
+        checkpoint_folder = args.hf_checkpoint_folder
+
     checkpoints = sorted(
         os.listdir(checkpoint_folder), key=lambda x: int(x.split("-")[-1])
-    )[::-1]
-    print(f"Found {len(checkpoints)} checkpoints in {checkpoint_folder}")
+    )
+    if args.last_only:
+        checkpoints = [checkpoints[-1]]
+    else:
+        print(f"Found {len(checkpoints)} checkpoints in {checkpoint_folder}")
 
     test_dataset = load_dataset(args.hf_dataset_id, split=args.hf_dataset_split)
+    if args.task == "wmt":
+        references = [[example[args.tgt_lang]] for example in test_dataset]
+    else:
+        references = []
+        # references = [
+        #     json.loads(example["metadata"])["answers"]["text"]
+        #     for example in test_dataset
+        # ]
+
+    example_idx = 0
     for checkpoint in tqdm(checkpoints, total=len(checkpoints)):
         finetuning_path = os.path.join(checkpoint_folder, checkpoint)
         model, processor = load_model_and_processor(
@@ -141,7 +207,22 @@ if __name__ == "__main__":
             finetuning_path=finetuning_path,
         )
 
-        collator = Collator(processor=processor)
+        if args.task == "wmt":
+            collator = Collator(
+                processor=processor,
+                src_image=args.src_image,
+                tgt_lang=args.tgt_lang,
+                is_training=False,
+            )
+        else:
+            collator = SquadCollator(
+                processor=processor,
+                context=args.context,
+                src_lang=args.src_lang,
+                tgt_lang=args.tgt_lang,
+                is_training=False,
+            )
+
         test_dataloader = torch.utils.data.DataLoader(
             test_dataset,
             collate_fn=collator,
@@ -156,7 +237,7 @@ if __name__ == "__main__":
             desc=f"Predicting with {checkpoint}",
         )
         predictions = []
-        references = [[example["en"]] for example in test_dataset]
+        context_sizes = []
         for batch in pbar:
             inputs = {k: v.to(model.device) for k, v in batch.items()}
             batch_output = model.generate(
@@ -171,13 +252,36 @@ if __name__ == "__main__":
                 ).strip()
 
                 predictions.append(output_str)
+                if args.task == "squad":
+                    context_sizes.append(
+                        len(
+                            processor.tokenizer.encode(
+                                test_dataset[example_idx]["en_context"]
+                            )
+                        )
+                    )
+                    references.append(
+                        json.loads(test_dataset[example_idx]["metadata"])["answers"][
+                            "text"
+                        ]
+                    )
+                example_idx += 1
 
-        chrf = evaluate.load("chrf")
-        results = chrf.compute(
-            predictions=predictions,
-            references=references,
-            word_order=2,
-        )
+        if args.task == "wmt":
+            chrf = evaluate.load("chrf")
+            results = chrf.compute(
+                predictions=predictions,
+                references=references,
+                word_order=2,
+            )
+        else:
+            squad_metric = SquadMetric()
+            results = squad_metric.compute(
+                predictions=predictions,
+                ground_truths=references,
+                context_sizes=context_sizes,
+                bin_size=20,
+            )
         print(results)
 
         output_json = os.path.join(
