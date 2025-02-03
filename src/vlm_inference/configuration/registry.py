@@ -325,6 +325,22 @@ cs.store(
 
 cs.store(
     group="model",
+    name="internvl2.5-video",
+    node=HfModelConfig(
+        _target_="vlm_inference.VideoInternVLModel",
+        name=f"OpenGVLab/InternVL2_5-{II('model.size')}",
+        size="8B",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.AutoModel.from_pretrained",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoTokenizer.from_pretrained", use_fast=True),
+    ),
+)
+
+
+cs.store(
+    group="model",
     name="glm-4v",
     node=HfModelConfig(
         name=f"THUDM/glm-4v-{II('model.size')}",

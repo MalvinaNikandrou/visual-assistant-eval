@@ -456,7 +456,7 @@
     },
     {
         "object": "pen friend",
-        "group": "recorder",
+        "group": "audio labeller",
         "question": "What type of device was there?"
     },
     {
@@ -1261,7 +1261,7 @@
     },
     {
         "object": "victor stream book reader",
-        "group": "braille reading device",
+        "group": "talking book players",
         "question": "What type of device was there?"
     },
     {
@@ -1271,7 +1271,7 @@
     },
     {
         "object": "victor reader stream",
-        "group": "braille reading device",
+        "group": "talking book players",
         "question": "What type of device was there?"
     },
     {
@@ -1291,7 +1291,7 @@
     },
     {
         "object": "solo audiobook player",
-        "group": "braille reading device",
+        "group": "talking book players",
         "question": "What type of device was there?"
     },
     {
@@ -1306,7 +1306,7 @@
     },
     {
         "object": "rnib talking book envelope",
-        "group": "braille reading device",
+        "group": "talking book players",
         "question": "What type of device was there?"
     },
     {

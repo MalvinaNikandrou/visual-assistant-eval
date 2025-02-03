@@ -16,7 +16,7 @@ Answer: watch
 Objects: [black small wallet, my purse, my wallet, ladies purse, money pouch, coin purse, wallet for bus pass cards and money, i d wallet, ipod in wallet, walletv, wallet, purse]
 Answer: wallet
 
-Objects: [victor stream book reader, orbit braille reader and notetaker, victor reader stream, orbit reader 20 braille display, braillepen slim braille keyboard, braille orbit reader, solo audiobook player, braille note, my braille displat, rnib talking book envelope]
+Objects: [orbit braille reader and notetaker, orbit reader 20 braille display, braillepen slim braille keyboard, braille orbit reader, braille note, my braille displat]
 Answer: braille reading device
 
 
@@ -32,7 +32,7 @@ Objects: [slippers, nike trainers, my shoes, boot, trainers, trainer shoe, slipp
 Group: shoes
 Question: What type of clothing do you see in the video?
 
-Objects: [victor stream book reader, orbit braille reader and notetaker, victor reader stream, orbit reader 20 braille display, braillepen slim braille keyboard, braille orbit reader, solo audiobook player, braille note, my braille displat, rnib talking book envelope]
+Objects: [orbit braille reader and notetaker, orbit reader 20 braille display, braillepen slim braille keyboard, braille orbit reader, braille note, my braille displat]
 Group: braille reading device
 Question: What kind of device was there?
 

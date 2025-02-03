@@ -2,6 +2,7 @@ import logging
 from typing import Any, Callable, Dict, Optional, Tuple, Type
 
 import torch
+from decord import VideoReader, cpu
 from PIL import Image
 from pydantic import BaseModel as PydanticBaseModel
 

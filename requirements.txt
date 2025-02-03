@@ -18,4 +18,6 @@ vertexai
 wandb
 wikipedia-api
 pybraille
+torchmetrics
+overrides
 qwen-vl-utils

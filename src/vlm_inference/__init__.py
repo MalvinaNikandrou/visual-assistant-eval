@@ -19,6 +19,7 @@ from vlm_inference.modeling import (
     CpmModel,  # noqa: F401
     HfModel,
     InternVLModel,
+    VideoInternVLModel,
     VideoHfModel,
     MolmoModel,
     OpenaiModel,

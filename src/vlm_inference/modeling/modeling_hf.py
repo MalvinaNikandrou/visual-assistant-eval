@@ -120,9 +120,10 @@ class MolmoModel(HfModel):
             GenerationConfig(
                 max_new_tokens=self.generation_kwargs.get("max_new_tokens"),
                 stop_strings="<|endoftext|>",
-                do_sample=self.generation_kwargs.get("do_sample"),
+                do_sample=self.generation_kwargs.get("do_sample", "False"),
                 temperature=self.generation_kwargs.get("temperature"),
-                top_p=self.generation_kwargs.get("top_p"),
+                top_p=self.generation_kwargs.get("top_p", "1.0"),
+                top_k=self.generation_kwargs.get("top_k", "0"),
             ),
             tokenizer=self.processor.processor.tokenizer,
         )

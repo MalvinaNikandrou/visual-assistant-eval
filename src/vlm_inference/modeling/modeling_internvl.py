@@ -6,6 +6,7 @@ from PIL import Image
 from pydantic import BaseModel as PydanticBaseModel
 import numpy as np
 import torch
+from decord import VideoReader, cpu
 import torchvision.transforms as T
 from PIL import Image
 from torchvision.transforms.functional import InterpolationMode
@@ -101,6 +102,41 @@ def load_image(image_file, input_size=448, max_num=12):
     return pixel_values
 
 
+# video multi-round conversation (视频多轮对话)
+def get_index(bound, fps, max_frame, first_idx=0, num_segments=32):
+    if bound:
+        start, end = bound[0], bound[1]
+    else:
+        start, end = -100000, 100000
+    start_idx = max(first_idx, round(start * fps))
+    end_idx = min(round(end * fps), max_frame)
+    seg_size = float(end_idx - start_idx) / num_segments
+    frame_indices = np.array([
+        int(start_idx + (seg_size / 2) + np.round(seg_size * idx))
+        for idx in range(num_segments)
+    ])
+    return frame_indices
+
+
+def load_video(video_path, bound=None, input_size=448, max_num=1, num_segments=32):
+    vr = VideoReader(video_path, ctx=cpu(0), num_threads=1)
+    max_frame = len(vr) - 1
+    fps = float(vr.get_avg_fps())
+
+    pixel_values_list, num_patches_list = [], []
+    transform = build_transform(input_size=input_size)
+    frame_indices = get_index(bound, fps, max_frame, first_idx=0, num_segments=num_segments)
+    for frame_index in frame_indices:
+        img = Image.fromarray(vr[frame_index].asnumpy()).convert('RGB')
+        img = dynamic_preprocess(img, image_size=input_size, use_thumbnail=True, max_num=max_num)
+        pixel_values = [transform(tile) for tile in img]
+        pixel_values = torch.stack(pixel_values)
+        num_patches_list.append(pixel_values.shape[0])
+        pixel_values_list.append(pixel_values)
+    pixel_values = torch.cat(pixel_values_list)
+    return pixel_values, num_patches_list
+
+
 class InternVLModel(VisionLanguageModel):
 
     def __init__(
@@ -126,12 +162,40 @@ class InternVLModel(VisionLanguageModel):
         self.model.eval()
         self.processor = processor_cls(pretrained_model_name_or_path=self.name, trust_remote_code=True)
 
+    def perpare_input(self, example: ImageExample) -> Any:
+        pixel_values = load_image(example.image_path, max_num=12).to(self.dtype).to(self.model.device)
+        text = f"<image>\n{example.prompt}"
+        return pixel_values, text
+
     def generate(
         self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
     ) -> Tuple[str, UsageMetadata]:
-        pixel_values = load_image(example.image_path, max_num=12).to(self.dtype).to(self.model.device)
-        text = f"<image>\n{example.prompt}"
+        pixel_values, text = self.perpare_input(example)
         generated_text = self.model.chat(self.processor, pixel_values, text, self.generation_kwargs).strip()
+
+        usage_metadata = UsageMetadata(
+            input_token_count=0,
+            output_token_count=0,
+        )
+
+        return generated_text, usage_metadata
+
+
+class VideoInternVLModel(InternVLModel):
+    def perpare_input(self, example: ImageExample) -> Any:
+        pixel_values, num_patches_list = load_video(example.image_path, num_segments=8, max_num=1)
+        pixel_values = pixel_values.to(self.dtype).to(self.model.device)
+        video_prefix = ''.join([f'Frame{i+1}: <image>\n' for i in range(len(num_patches_list))])
+        text = f"{video_prefix}{example.prompt}"
+        return pixel_values, num_patches_list, text
+
+    def generate(
+        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+    ) -> Tuple[str, UsageMetadata]:
+        pixel_values, num_patches_list, text = self.perpare_input(example)
+        generated_text = self.model.chat(
+            self.processor, pixel_values, text, self.generation_kwargs,
+            num_patches_list=num_patches_list, history=None, return_history=False)
 
         usage_metadata = UsageMetadata(
             input_token_count=0,

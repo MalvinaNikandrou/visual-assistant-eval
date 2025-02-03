@@ -12,7 +12,8 @@ remote control	remote, tv remote, apple tv remote, amazon remote control, televi
 keyboard	blue tooth keyboard, bluetooth keyboard, my keyboard, apple wireless keyboard, mini bluetooth keyboard, portable keyboard, keyboard
 stylus	stylus, apple pencil
 controller	ps4 controller
-recorder	digital recorder, dictaphone, pen friend, handheld police scanner
+recorder	digital recorder, dictaphone, handheld police scanner
+audio labeller  pen friend
 laptop	my laptop, laptop
 ipad	ipad, ipad pro
 CD	compact disc
@@ -70,7 +71,8 @@ backpack	backpack, my work backpack, back pack, work backpack, numb bag
 bag	work bag, bag, shoulder bag, bum bag
 sports bag	ports bag, sport bago
 cane	symbol cane, black mobility cane, my cane, white mobility came, folded white cane, long cane, cane, folded cane, folded long guide cane, p939411 white cane, white came, visibility stick, mobility, mobility cane, white cane
-braille reading device	victor stream book reader, orbit braille reader and notetaker, victor reader stream, orbit reader 20 braille display, braillepen slim braille keyboard, braille orbit reader, solo audiobook player, braille note, my braille displat, rnib talking book envelope
+braille reading device	orbit braille reader and notetaker, orbit reader 20 braille display, braillepen slim braille keyboard, braille orbit reader, braille note, my braille displat
+talking book players    victor stream book reader, solo audiobook player, victor reader stream, rnib talking book envelope
 hearing aid	my hearing aid, hearing aid
 magnifying glass	magnifier, pocket magnifying glass
 dog lead	guide dog play cola, dogs lead, guide dog harness, retractable dog lead, leash, guide dog harness, dog lead, dogs, running tether

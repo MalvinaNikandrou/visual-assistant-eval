@@ -299,8 +299,9 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/video_object_recognition/orbit_question_answers.json \
-  +dataset.images_path=tasks/video_object_recognition/orbit_question_answers.json  \
+  +dataset.images_path=tasks/video_object_recognition/orbit_videos  \
   dataset.template_name=qwen2vl_video_qa \
+  output_path=orbit_results \
   dataset=orbit_vqa
 ``` 
 
