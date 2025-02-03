@@ -13,7 +13,7 @@ sentencepiece
 timm
 torch
 torchvision
-transformers==4.40.1
+transformers
 vertexai
 wandb
 wikipedia-api
@@ -27,3 +27,4 @@ decord
 opencv-python
 git+https://github.com/LLaVA-VL/LLaVA-NeXT.git
 numpy==1.26.3
+opencv-python

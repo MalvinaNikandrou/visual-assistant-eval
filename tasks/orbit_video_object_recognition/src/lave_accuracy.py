@@ -359,7 +359,7 @@ if __name__ == "__main__":
     data["ground_truth"] = data.apply(lambda x: prepare_ground_truths(x["ground_truth"]), axis=1)
     # Compute the accuracy
     lave_metric = LAVE(args.model_id, args.load_in_8bit, args.data_file, max_new_tokens=args.max_new_tokens)
-    data["acc"] = data.apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"]), axis=1)
+    data["acc"] = data.progress_apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"]), axis=1)
     # Compute the average accuracy
     acc = data["acc"].mean()
     # Compute the average accuracy for is_vip_object == True
