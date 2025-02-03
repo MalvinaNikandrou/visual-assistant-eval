@@ -203,6 +203,19 @@ python run.py \
   dataset.template_name=default_vqa
 ```
 
+```bash
+python run.py \
+  model=internvl2.5-video  \
+  generation_config=hf_vqa  \
+  model.json_mode=false \
+  dataset.path=tasks/video_object_recognition/orbit_question_answers.json \
+  +dataset.images_path=tasks/video_object_recognition/orbit_videos  \
+  dataset.template_name=default_vqa \
+  output_path=orbit_results \
+  dataset=orbit_vqa
+``` 
+
+
 ##### GLM-4V-9B
 
 ```bash

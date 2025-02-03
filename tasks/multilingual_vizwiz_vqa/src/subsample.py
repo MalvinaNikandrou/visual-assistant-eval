@@ -13,19 +13,21 @@ INPUT_FILE = "data/val.json"
 OUTPUT_FILE = "tasks/multilingual_vizwiz_vqa/val_subsample_en.json"
 NUM_SAMPLES = 500
 
-target_answer_type_counts = {'other': 283, 'unanswerable': 150, 'yes/no': 22, 'number': 45}
+target_answer_type_counts = {"other": 283, "unanswerable": 150, "yes/no": 22, "number": 45}
 
 
 class VizWizSubsampler:
-    
+
     def __init__(self, input_file, output_file, target_answer_type_counts):
-        self.target_answer_type_counts = target_answer_type_counts # {'other': 283, 'unanswerable': 150, 'yes/no': 22, 'number': 45}
+        self.target_answer_type_counts = (
+            target_answer_type_counts  # {'other': 283, 'unanswerable': 150, 'yes/no': 22, 'number': 45}
+        )
         self.data = self.load_data(input_file)
         print(f"Loaded {len(self.data)} questions")
         self.self.question_id_to_sample = {sample["question_id"]: sample for sample in self.data}
         self.question_id_to_answer = self.get_most_common_answer()
         self.output_file = output_file
-        
+
     def load_data(self, input_file):
         with open(input_file, "r") as f:
             data = json.load(f)
@@ -52,7 +54,9 @@ class VizWizSubsampler:
         sampled_data = []
         # Subsample per answer type
         for answer_type, target_count in target_answer_type_counts.items():
-            question_ids = [qid for qid, sample in self.question_id_to_sample.items() if sample["answer_type"] == answer_type]
+            question_ids = [
+                qid for qid, sample in self.question_id_to_sample.items() if sample["answer_type"] == answer_type
+            ]
             print(f"Found {len(question_ids)} {answer_type} questions")
             if len(question_ids) < target_count:
                 print(f"Warning: {len(question_ids)} {answer_type} questions is less than {target_count}")
@@ -65,7 +69,7 @@ class VizWizSubsampler:
                 sampled_data.extend(self._subsample_unanswerable_data(question_ids, target_count))
             else:
                 sampled_data.extend(self._subsample_other_data(question_ids, target_count))
-        
+
         print(f"Sampled {len(sampled_data)} questions")
         # Save the subsampled data
         with open(OUTPUT_FILE, "w") as f:
@@ -76,16 +80,16 @@ class VizWizSubsampler:
         subset_answer_types = Counter([sample["answer_type"] for sample in sampled_data])
         print("Original answer types:", original_answer_types)
         print("Subset answer types:", subset_answer_types)
-        
+
     def _subsample_number_data(self, question_ids, target_count):
         return [self.question_id_to_sample[qid] for qid in question_ids[:target_count]]
-    
+
     def _subsample_yes_no_data(self, question_ids, target_count):
         # keep half "yes" and half "no" answers
         yes_question_ids = [qid for qid in question_ids if self.question_id_to_answer[qid] == "yes"]
         no_question_ids = [qid for qid in question_ids if self.question_id_to_answer[qid] == "no"]
-        yes_samples = [self.question_id_to_sample[qid] for qid in random.sample(yes_question_ids, target_count//2)]
-        no_samples = [self.question_id_to_sample[qid] for qid in random.sample(no_question_ids, target_count//2)]
+        yes_samples = [self.question_id_to_sample[qid] for qid in random.sample(yes_question_ids, target_count // 2)]
+        no_samples = [self.question_id_to_sample[qid] for qid in random.sample(no_question_ids, target_count // 2)]
         return yes_samples + no_samples
 
     def _subsample_unanswerable_data(self, question_ids, target_count):
@@ -109,4 +113,3 @@ class VizWizSubsampler:
 if __name__ == "__main__":
     subsampler = VizWizSubsampler(INPUT_FILE, OUTPUT_FILE, target_answer_type_counts)
     subsampler.subsample()
-    

@@ -309,6 +309,22 @@ cs.store(
 
 cs.store(
     group="model",
+    name="minicpm-video",
+    node=HfModelConfig(
+        _target_="vlm_inference.VideoCpmModel",
+        name="openbmb/MiniCPM-V-2_6",
+        size="",  # not used
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.AutoModel.from_pretrained",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoTokenizer.from_pretrained", use_fast=True),
+    ),
+)
+
+
+cs.store(
+    group="model",
     name="internvl2.5",
     node=HfModelConfig(
         _target_="vlm_inference.InternVLModel",

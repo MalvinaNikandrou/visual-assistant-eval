@@ -21,9 +21,7 @@ def compute_trainable_params(model: torch.nn.Module) -> None:
     """Compute trainable parameters."""
     model_parameters = filter(lambda p: p.requires_grad, model.parameters())
     train_params = sum([p.numel() for p in model_parameters])
-    print(
-        f"{sum([p.numel() for p in model.parameters()])} params and {train_params} trainable params"
-    )
+    print(f"{sum([p.numel() for p in model.parameters()])} params and {train_params} trainable params")
 
 
 @dataclass
@@ -94,12 +92,8 @@ def train():
     parser = transformers.HfArgumentParser((ModelArguments, DataArguments, TrainArgs))
     model_args, data_args, train_args = parser.parse_args_into_dataclasses()
 
-    train_dataset = load_dataset(
-        data_args.train_dataset, split=data_args.train_split, num_proc=4
-    )
-    eval_dataset = load_dataset(
-        data_args.eval_dataset, split=data_args.eval_split, num_proc=4
-    )
+    train_dataset = load_dataset(data_args.train_dataset, split=data_args.train_split, num_proc=4)
+    eval_dataset = load_dataset(data_args.eval_dataset, split=data_args.eval_split, num_proc=4)
 
     model_id = "meta-llama/Llama-3.2-11B-Vision-Instruct"
 

@@ -250,12 +250,12 @@ def vqa_v2_score(gts, predicted_answer):
     gtAcc = []
     # get all 10 choose 9 scores
     for idx, _ in enumerate(gts):
-        subset_gts = gts[:idx] + gts[idx + 1:]
+        subset_gts = gts[:idx] + gts[idx + 1 :]
         ground_truth_counts = Counter(subset_gts)
         count = ground_truth_counts.get(predicted_answer, 0)
-        acc = min(1, float(count)/3)
+        acc = min(1, float(count) / 3)
         gtAcc.append(acc)
-    return  float(sum(gtAcc))/len(gtAcc)
+    return float(sum(gtAcc)) / len(gtAcc)
 
 
 class VQAv2Accuracy(Metric):

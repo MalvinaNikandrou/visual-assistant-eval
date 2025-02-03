@@ -2,6 +2,7 @@ import re
 
 from pybraille import convertText
 
+
 # Function to filter text for Braille conversion
 def filter_supported_characters(text: str) -> str:
     """Filters text for Braille conversion."""
@@ -16,9 +17,11 @@ def filter_supported_characters(text: str) -> str:
             pass
     return filtered_text
 
+
 def clean_text_for_braille(text: str) -> str:
     """Cleans text for Braille conversion."""
     return re.sub(r"[^a-zA-Z0-9 .,!?\'\"\-\n]", "", text)
+
 
 def convert_to_braille(text: str) -> str:
     """Converts text to Braille."""

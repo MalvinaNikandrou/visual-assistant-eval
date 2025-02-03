@@ -23,9 +23,7 @@ def normalize_answer(s):
     def replace_underscore(text):
         return text.replace("_", " ")
 
-    return white_space_fix(
-        remove_articles(handle_punc(lower(replace_underscore(s))))
-    ).strip()
+    return white_space_fix(remove_articles(handle_punc(lower(replace_underscore(s))))).strip()
 
 
 def round_to_base(num, base=5):
@@ -59,16 +57,10 @@ class SquadMetric:
             "em": round(total_em / len(predictions) * 100, 2),
             "f1": round(total_f1 / len(predictions) * 100, 2),
             "em_per_bin": {
-                bin_idx: round(
-                    sum(em_per_bin[bin_idx]) / len(em_per_bin[bin_idx]) * 100, 2
-                )
-                for bin_idx in em_per_bin
+                bin_idx: round(sum(em_per_bin[bin_idx]) / len(em_per_bin[bin_idx]) * 100, 2) for bin_idx in em_per_bin
             },
             "f1_per_bin": {
-                bin_idx: round(
-                    sum(f1_per_bin[bin_idx]) / len(f1_per_bin[bin_idx]) * 100, 2
-                )
-                for bin_idx in f1_per_bin
+                bin_idx: round(sum(f1_per_bin[bin_idx]) / len(f1_per_bin[bin_idx]) * 100, 2) for bin_idx in f1_per_bin
             },
         }
 
@@ -90,9 +82,7 @@ def f1_score(prediction: str, ground_truth: str) -> float:
     return f1
 
 
-def metric_max_over_ground_truths(
-    metric_fn, prediction: str, ground_truths: list[str]
-) -> float:
+def metric_max_over_ground_truths(metric_fn, prediction: str, ground_truths: list[str]) -> float:
     scores_for_ground_truths = []
     if not ground_truths:
         ground_truths = ["unanswerable"]

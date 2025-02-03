@@ -31,9 +31,7 @@ def tokenize_dialogs(
 ) -> BatchFeature:
     text_prompt = processor.apply_chat_template(dialogs)
     text_prompt = [prompt.replace("<|begin_of_text|>", "") for prompt in text_prompt]
-    batch = processor(
-        images=images, text=text_prompt, padding=True, return_tensors="pt"
-    )
+    batch = processor(images=images, text=text_prompt, padding=True, return_tensors="pt")
     label_list = []
     for i in range(len(batch["input_ids"])):
         dialog_tokens = batch["input_ids"][i].tolist()

@@ -63,43 +63,42 @@ class Language(Enum):
 
 # Translation of "unasnwerable"
 UnanswerableMapping = {
-    "ar": "لا يمكن الرد عليها" , #Arabic
-    "bn": "উত্তর দেওয়া সম্ভব নয়", #Bengali
-    "cs": "nelze odpovědět", #Czech
-    "da": "kan ikke besvares", #Danish
-    "de": "unbeantwortbar", #German
-    "el": "δεν μπορεί να απαντηθεί", #Greek
-    "en": "unanswerable", #English
-    "es": "no se puede responder", #Spanish
-    "fa": "قابل به پاسخ نیست", #Persian
-    "fi": "ei voida vastata", #Finnish
-    "fil": "hindi masasagot ", #Filipino"  # Tagalog
-    "fr": "impossible à répondre", #French
-    "he": "לא ניתן לענות", #Hebrew"  # , appears as iw in mC4 languages and in Wikipedia
-    "hi": "उत्तर नहीं दिया जा सकता", #Hindi
-    "hr": "ne može se odgovoriti", #Croatian" or "Neodgovoriv
-    "hu": "megválaszolhatatlan", #Hungarian
-    "id": "tidak dapat dijawab", #Indonesian / Malay
-    "it": "non si può rispondere", #Italian
-    "ja": "答えられない", #Japanese
-    "ko": "대답할 수 없는", #Korean
-    "mi": "kāore e taea te whakautu", #Maori
-    "nl": "onbeantwoordbaar", #Dutch
-    "no": "kan ikke besvares.", #Norwegian"  # Google translate has only a Norwegian option, we include Bokmål
-    "pl": "nie można odpowiedzieć", #Polish
-    "pt": "irrespondível", #Portuguese
-    "quz": "mana atiyman kutichiy", #Cusco Quechua  # not in mt5 -latin script
-    "ro": "fără răspuns", #Romanian
-    "ru": "неотвечаемый", #Russian
-    "sv": "omöjlig att besvara", #Swedish or "Kan inte besvaras"
-    "sw": "isiyoweza kujibiwa", #Swahili"  # Arabic script, similar punctuation to english
-    "te": "సమాధానం చెప్పలేని", #Telugu
-    "th": "ตอบไม่ได้", #Thai
-    "tr": "cevaplanamaz", #Turkish
-    "uk": "hе можна відповісти", #Ukrainian
-    "vi": "không thể trả lời được", #Vietnamese
-    "zh": "无法回答", #Chinese
-    
+    "ar": "لا يمكن الرد عليها",  # Arabic
+    "bn": "উত্তর দেওয়া সম্ভব নয়",  # Bengali
+    "cs": "nelze odpovědět",  # Czech
+    "da": "kan ikke besvares",  # Danish
+    "de": "unbeantwortbar",  # German
+    "el": "δεν μπορεί να απαντηθεί",  # Greek
+    "en": "unanswerable",  # English
+    "es": "no se puede responder",  # Spanish
+    "fa": "قابل به پاسخ نیست",  # Persian
+    "fi": "ei voida vastata",  # Finnish
+    "fil": "hindi masasagot ",  # Filipino"  # Tagalog
+    "fr": "impossible à répondre",  # French
+    "he": "לא ניתן לענות",  # Hebrew"  # , appears as iw in mC4 languages and in Wikipedia
+    "hi": "उत्तर नहीं दिया जा सकता",  # Hindi
+    "hr": "ne može se odgovoriti",  # Croatian" or "Neodgovoriv
+    "hu": "megválaszolhatatlan",  # Hungarian
+    "id": "tidak dapat dijawab",  # Indonesian / Malay
+    "it": "non si può rispondere",  # Italian
+    "ja": "答えられない",  # Japanese
+    "ko": "대답할 수 없는",  # Korean
+    "mi": "kāore e taea te whakautu",  # Maori
+    "nl": "onbeantwoordbaar",  # Dutch
+    "no": "kan ikke besvares.",  # Norwegian"  # Google translate has only a Norwegian option, we include Bokmål
+    "pl": "nie można odpowiedzieć",  # Polish
+    "pt": "irrespondível",  # Portuguese
+    "quz": "mana atiyman kutichiy",  # Cusco Quechua  # not in mt5 -latin script
+    "ro": "fără răspuns",  # Romanian
+    "ru": "неотвечаемый",  # Russian
+    "sv": "omöjlig att besvara",  # Swedish or "Kan inte besvaras"
+    "sw": "isiyoweza kujibiwa",  # Swahili"  # Arabic script, similar punctuation to english
+    "te": "సమాధానం చెప్పలేని",  # Telugu
+    "th": "ตอบไม่ได้",  # Thai
+    "tr": "cevaplanamaz",  # Turkish
+    "uk": "hе можна відповісти",  # Ukrainian
+    "vi": "không thể trả lời được",  # Vietnamese
+    "zh": "无法回答",  # Chinese
 }
 
 
@@ -140,4 +139,3 @@ lang_flores200_codes = {
     Language.vi: "vie_Latn",
     Language.zh: "zho_Hans",  # Chinese simplified
 }
-

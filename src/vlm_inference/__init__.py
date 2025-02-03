@@ -17,6 +17,7 @@ from vlm_inference.modeling import GoogleModel  # noqa: F401
 from vlm_inference.modeling import (
     AnthropicModel,
     CpmModel,  # noqa: F401
+    VideoCpmModel,
     HfModel,
     InternVLModel,
     VideoInternVLModel,

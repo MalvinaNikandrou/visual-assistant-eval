@@ -45,7 +45,7 @@ def main() -> None:
     args = get_input_arguments()
     with open(args.dataset_dir, "r") as f:
         data = json.load(f)
-    
+
     questions = [sample["question"] for sample in data]
     combined_qa = []
     sample_ids = []
@@ -73,7 +73,7 @@ def main() -> None:
     )
     for tgt_lang in lang_flores200_codes:
         assert tgt_lang.name in UnanswerableMapping
-    
+
     # Filter to catch word / character repetitions
     word_repetition = WordRepetitionFilter()
 
@@ -98,9 +98,11 @@ def main() -> None:
                     ans["translated_answer"] = UnanswerableMapping[tgt_lang.name]
                     if word_repetition(new_sample["question"]):
                         # print a warning
-                        print(f"Warning: Answer {new_sample['question']} for language {tgt_lang.value} contains repetition")
+                        print(
+                            f"Warning: Answer {new_sample['question']} for language {tgt_lang.value} contains repetition"
+                        )
             annotations.append(new_sample)
-       
+
         target_file = f"data/val_subsample_{tgt_lang.name}.json"
 
         with open(target_file, "w") as out_file:

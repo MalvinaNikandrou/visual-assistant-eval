@@ -93,9 +93,7 @@ def evaluate_idefics3_model(
         ]
 
         input_text = processor.apply_chat_template(messages, add_generation_prompt=True)
-        inputs = processor(
-            text=input_text, images=[example[src_image]], return_tensors="pt"
-        )
+        inputs = processor(text=input_text, images=[example[src_image]], return_tensors="pt")
         inputs = {k: v.to(model.device) for k, v in inputs.items()}
 
         output = model.generate(
@@ -139,9 +137,7 @@ def evaluate_llavav1_6_model(
     src_image: str = "br_image_aug",
     tgt_lang: str = "en",
 ) -> tuple[list[str], list[str], float]:
-    model = LlavaNextForConditionalGeneration.from_pretrained(
-        hf_model_id, torch_dtype="auto", device_map="auto"
-    )
+    model = LlavaNextForConditionalGeneration.from_pretrained(hf_model_id, torch_dtype="auto", device_map="auto")
 
     processor = LlavaNextProcessor.from_pretrained(hf_model_id)
 
@@ -159,13 +155,9 @@ def evaluate_llavav1_6_model(
                 ],
             },
         ]
-        input_prompt = processor.apply_chat_template(
-            messages, add_generation_prompt=True
-        )
+        input_prompt = processor.apply_chat_template(messages, add_generation_prompt=True)
 
-        inputs = processor(
-            images=example[src_image], text=input_prompt, return_tensors="pt"
-        ).to(model.device)
+        inputs = processor(images=example[src_image], text=input_prompt, return_tensors="pt").to(model.device)
 
         # autoregressively complete prompt
         output = model.generate(
@@ -249,9 +241,7 @@ def evaluate_llama_model(
             do_sample=generation_params.do_sample,
         )
 
-        generated_response = processor.tokenizer.decode(
-            output[0, inputs.input_ids.shape[1] :]
-        )
+        generated_response = processor.tokenizer.decode(output[0, inputs.input_ids.shape[1] :])
 
         # output_str = postprocess_output(generated_response)
         if '{"text"' in generated_response:
@@ -380,13 +370,9 @@ def evaluate_phi3vision_model(
         messages = [
             {"role": "user", "content": f"<|image_1|>\n{prompt}"},
         ]
-        input_text = processor.tokenizer.apply_chat_template(
-            messages, tokenize=False, add_generation_prompt=True
-        )
+        input_text = processor.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
-        inputs = processor(input_text, [example[src_image]], return_tensors="pt").to(
-            model.device
-        )
+        inputs = processor(input_text, [example[src_image]], return_tensors="pt").to(model.device)
 
         generate_ids = model.generate(
             **inputs,
@@ -394,9 +380,9 @@ def evaluate_phi3vision_model(
             do_sample=generation_params.do_sample,
             max_new_tokens=generation_params.max_new_tokens,
         )
-        generated_response = processor.tokenizer.batch_decode(
-            generate_ids[:, inputs["input_ids"].shape[1] :]
-        )[0].strip()
+        generated_response = processor.tokenizer.batch_decode(generate_ids[:, inputs["input_ids"].shape[1] :])[
+            0
+        ].strip()
 
         try:
             left_index = generated_response.index("{")
@@ -428,9 +414,7 @@ def evaluate_qwen2vl_model(
     src_image: str = "br_image_aug",
     tgt_lang: str = "en",
 ) -> tuple[list[str], list[str], float]:
-    model = Qwen2VLForConditionalGeneration.from_pretrained(
-        hf_model_id, torch_dtype="auto", device_map="auto"
-    )
+    model = Qwen2VLForConditionalGeneration.from_pretrained(hf_model_id, torch_dtype="auto", device_map="auto")
 
     processor = AutoProcessor.from_pretrained(hf_model_id)
 
@@ -452,9 +436,7 @@ def evaluate_qwen2vl_model(
             }
         ]
 
-        text = processor.apply_chat_template(
-            messages, tokenize=False, add_generation_prompt=True
-        )
+        text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         image_inputs, video_inputs = process_vision_info(messages)
         inputs = processor(
             text=[text],
@@ -471,10 +453,7 @@ def evaluate_qwen2vl_model(
             max_new_tokens=generation_params.max_new_tokens,
         )
 
-        generated_ids_trimmed = [
-            out_ids[len(in_ids) :]
-            for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
-        ]
+        generated_ids_trimmed = [out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
         generated_response = processor.batch_decode(
             generated_ids_trimmed,
             skip_special_tokens=True,
@@ -581,9 +560,7 @@ if __name__ == "__main__":
         predictions, references, failed_parsed_perc = evaluate_idefics3_model(
             test_dataset,
             args.hf_model_id,
-            GenerationParameters(
-                do_sample=args.do_sample, max_new_tokens=args.max_new_tokens
-            ),
+            GenerationParameters(do_sample=args.do_sample, max_new_tokens=args.max_new_tokens),
             PROMPTS[args.prompt_index],
         )
 
@@ -591,9 +568,7 @@ if __name__ == "__main__":
         predictions, references, failed_parsed_perc = evaluate_llavav1_6_model(
             test_dataset,
             args.hf_model_id,
-            GenerationParameters(
-                do_sample=args.do_sample, max_new_tokens=args.max_new_tokens
-            ),
+            GenerationParameters(do_sample=args.do_sample, max_new_tokens=args.max_new_tokens),
             PROMPTS[args.prompt_index],
         )
 
@@ -601,9 +576,7 @@ if __name__ == "__main__":
         predictions, references, failed_parsed_perc = evaluate_llama_model(
             test_dataset,
             args.hf_model_id,
-            GenerationParameters(
-                do_sample=args.do_sample, max_new_tokens=args.max_new_tokens
-            ),
+            GenerationParameters(do_sample=args.do_sample, max_new_tokens=args.max_new_tokens),
             PROMPTS[args.prompt_index],
         )
 
@@ -611,9 +584,7 @@ if __name__ == "__main__":
         predictions, references, failed_parsed_perc = evaluate_molmo_model(
             test_dataset,
             args.hf_model_id,
-            GenerationParameters(
-                do_sample=args.do_sample, max_new_tokens=args.max_new_tokens
-            ),
+            GenerationParameters(do_sample=args.do_sample, max_new_tokens=args.max_new_tokens),
             PROMPTS[args.prompt_index],
         )
 
@@ -621,9 +592,7 @@ if __name__ == "__main__":
         predictions, references, failed_parsed_perc = evaluate_phi3vision_model(
             test_dataset,
             args.hf_model_id,
-            GenerationParameters(
-                do_sample=args.do_sample, max_new_tokens=args.max_new_tokens
-            ),
+            GenerationParameters(do_sample=args.do_sample, max_new_tokens=args.max_new_tokens),
             PROMPTS[args.prompt_index],
         )
 
@@ -631,9 +600,7 @@ if __name__ == "__main__":
         predictions, references, failed_parsed_perc = evaluate_qwen2vl_model(
             test_dataset,
             args.hf_model_id,
-            GenerationParameters(
-                do_sample=args.do_sample, max_new_tokens=args.max_new_tokens
-            ),
+            GenerationParameters(do_sample=args.do_sample, max_new_tokens=args.max_new_tokens),
             PROMPTS[args.prompt_index],
         )
 

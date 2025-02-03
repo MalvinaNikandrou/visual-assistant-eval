@@ -8,6 +8,7 @@ import torch
 import transformers
 from transformers import BitsAndBytesConfig
 from tqdm import tqdm
+
 tqdm.pandas()
 
 
@@ -295,7 +296,14 @@ def prepare_ground_truths(ground_truths):
 
 
 class LAVE:
-    def __init__(self, model_id: str, load_in_8bit: bool, data_file: str, torch_dtype: torch.dtype = torch.bfloat16, max_new_tokens: int = 256):
+    def __init__(
+        self,
+        model_id: str,
+        load_in_8bit: bool,
+        data_file: str,
+        torch_dtype: torch.dtype = torch.bfloat16,
+        max_new_tokens: int = 256,
+    ):
         self.model_id = model_id
         self.load_in_8bit = load_in_8bit
         self.data_file = data_file
@@ -308,10 +316,10 @@ class LAVE:
             model_kwargs={"torch_dtype": torch_dtype, "quantization_config": quantization_config},
             device_map="auto",
         )
-        
+
     def __call__(self, question, pred, refs):
         refs = ", ".join(refs)
-        
+
         messages = [
             {"role": "system", "content": "You are a helpful and fair judge."},
             {"role": "user", "content": PROMPT.format(question=question, references=refs, response=pred)},
@@ -321,12 +329,12 @@ class LAVE:
             messages,
             max_new_tokens=self.max_new_tokens,
         )
-    
+
         generated_text = outputs[0]["generated_text"][-1]["content"].lower().strip()
         score = float(generated_text.split("rating: ")[-1][0])
         # normalize the generated text
         return score / 3
-        
+
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Compute the accuracy of the model.")
@@ -343,15 +351,15 @@ if __name__ == "__main__":
     # Load the data
     data = pd.read_csv(args.data_file, sep="\t", quoting=3, escapechar="\\", quotechar='"')
     # Compute the accuracy
-    data['ground_truth'] = data.apply(lambda x: prepare_ground_truths(x['ground_truth']), axis=1)
-    data['response'] = data.apply(lambda x: normalize_answer(x['response']), axis=1)
-    data['acc'] = data.apply(lambda x: lave_metric(x['prompt'], x['response'], x['ground_truth']), axis=1)
+    data["ground_truth"] = data.apply(lambda x: prepare_ground_truths(x["ground_truth"]), axis=1)
+    data["response"] = data.apply(lambda x: normalize_answer(x["response"]), axis=1)
+    data["acc"] = data.apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"]), axis=1)
     # Compute the average accuracy
-    acc = data['acc'].mean()
+    acc = data["acc"].mean()
     # Compute the average accuracy for is_vip_object == True
-    acc_vip = data[data['is_vip_object'] == True]['acc'].mean()
+    acc_vip = data[data["is_vip_object"] == True]["acc"].mean()
     # Compute the average accuracy for is_vip_object == False
-    acc_non_vip = data[data['is_vip_object'] == False]['acc'].mean()
+    acc_non_vip = data[data["is_vip_object"] == False]["acc"].mean()
     # Print the results
     print(f"Average accuracy: {acc}")
     print(f"Average accuracy for is_vip_object == True: {acc_vip}")
@@ -359,5 +367,3 @@ if __name__ == "__main__":
     # save the results
     output_file = os.path.join(os.path.dirname(args.data_file), "outputs-acc.csv")
     data.to_csv(output_file, sep="\t", index=False)
-
-

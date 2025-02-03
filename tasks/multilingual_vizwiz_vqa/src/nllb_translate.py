@@ -42,7 +42,7 @@ class DatasetTranslation:
         )
         print(f"Translating to {tgt_lang.name}")
         translations = []
-        
+
         total = len(dataset)
         desc = f"Translating..."
         for translation in tqdm(
@@ -54,7 +54,7 @@ class DatasetTranslation:
                 top_p=self.translation_kwargs.get("top_p"),
                 top_k=self.translation_kwargs.get("top_k"),
                 temperature=self.translation_kwargs.get("temperature"),
-                ),
+            ),
             total=total,
             desc=desc,
         ):
@@ -71,36 +71,41 @@ class NLLBTranslate:
         self.model_name = model_name
         self.batch_size = batch_size
         self.device = device
-        self.translation_kwargs = {"do_sample": True, "num_return_sequences": 1, "top_k": 50, "top_p": 0.95, "temperature": 0.85}
-        
+        self.translation_kwargs = {
+            "do_sample": True,
+            "num_return_sequences": 1,
+            "top_k": 50,
+            "top_p": 0.95,
+            "temperature": 0.85,
+        }
+
     def __call__(self, dataset: list[str], src_lang: Language, tgt_lang: Language):
         # Get N translations for each sentence in the dataset with sampling
         translator = DatasetTranslation(
-                model_name=self.model_name,
-                batch_size=self.batch_size,
-                device=self.device,
-                translation_kwargs=self.translation_kwargs
-                
-            )
+            model_name=self.model_name,
+            batch_size=self.batch_size,
+            device=self.device,
+            translation_kwargs=self.translation_kwargs,
+        )
         translation_samples = []
         for _ in range(self.n_samples):
             translation = translator(dataset, src_lang, tgt_lang)
             translation_samples.append(translation)
-        
+
         # Get a back translation for each translation (no sampling)
         back_translation_samples = []
         translator = DatasetTranslation(
-                model_name=self.model_name,
-                batch_size=self.batch_size,
-                device=self.device,
-            )
+            model_name=self.model_name,
+            batch_size=self.batch_size,
+            device=self.device,
+        )
         for translation in translation_samples:
             back_translation = translator(translation, tgt_lang, src_lang)
             back_translation_samples.append(back_translation)
-        
+
         # Select the best translation based on the back translation BLEU score with the original sentence
         best_translations = []
-        
+
         for i, original in enumerate(dataset):
             translations = [sample[i] for sample in translation_samples]
             back_translations = [sample[i] for sample in back_translation_samples]
@@ -109,9 +114,7 @@ class NLLBTranslate:
             best_index = 0
             for translation, back_translation in zip(translations, back_translations):
                 sscore = sacrebleu.compat.sentence_bleu(
-                    back_translation, [original],
-                    lowercase=True,
-                    use_effective_order=True
+                    back_translation, [original], lowercase=True, use_effective_order=True
                 ).score
                 if sscore > score:
                     score = sscore

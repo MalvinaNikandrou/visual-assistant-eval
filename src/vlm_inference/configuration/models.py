@@ -124,7 +124,6 @@ class HfModelConfig(ModelConfig):
 @dataclass
 class VideoVQAHfModelConfig(HfModelConfig):
     _target_: str = "vlm_inference.VideoHfModel"
-    
 
 
 @dataclass

@@ -1,6 +1,6 @@
 from .modeling_anthropic import AnthropicModel  # noqa: F401
 from .modeling_base import VisionLanguageModel  # noqa: F401
-from .modeling_cpm import CpmModel  # noqa: F401
+from .modeling_cpm import CpmModel, VideoCpmModel  # noqa: F401
 from .modeling_internvl import InternVLModel, VideoInternVLModel  # noqa: F401
 from .modeling_google import GoogleModel  # noqa: F401
 from .modeling_hf import HfModel, VideoHfModel, MolmoModel  # noqa: F401

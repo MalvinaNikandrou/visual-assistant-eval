@@ -14,6 +14,26 @@ from .modeling_base import VisionLanguageModel
 logger = logging.getLogger(__name__)
 
 
+MAX_NUM_FRAMES = 64  # if cuda OOM set a smaller number
+
+
+def encode_video(video_path):
+    def uniform_sample(l, n):
+        gap = len(l) / n
+        idxs = [int(i * gap + gap / 2) for i in range(n)]
+        return [l[i] for i in idxs]
+
+    vr = VideoReader(video_path, ctx=cpu(0))
+    sample_fps = round(vr.get_avg_fps() / 1)  # FPS
+    frame_idx = [i for i in range(0, len(vr), sample_fps)]
+    if len(frame_idx) > MAX_NUM_FRAMES:
+        frame_idx = uniform_sample(frame_idx, MAX_NUM_FRAMES)
+    frames = vr.get_batch(frame_idx).asnumpy()
+    frames = [Image.fromarray(v.astype("uint8")) for v in frames]
+    print("num frames:", len(frames))
+    return frames
+
+
 class CpmModel(VisionLanguageModel):
 
     def __init__(
@@ -48,6 +68,32 @@ class CpmModel(VisionLanguageModel):
             tokenizer=self.processor,
             **self.generation_kwargs
         ).strip()
+
+        usage_metadata = UsageMetadata(
+            input_token_count=0,
+            output_token_count=0,
+        )
+
+        return generated_text, usage_metadata
+
+
+class VideoCpmModel(CpmModel):
+
+    def generate(
+        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+    ) -> Tuple[str, UsageMetadata]:
+        breakpoint()
+        frames = encode_video(example.image_path)
+        msgs = [
+            {"role": "user", "content": frames + [example.prompt]},
+        ]
+
+        # Set decode params for video
+        params = self.generation_kwargs.copy()
+        params["use_image_id"] = False
+        params["max_slice_nums"] = 2  # use 1 if cuda OOM and video resolution >  448*448
+
+        generated_text = self.model.chat(image=None, msgs=msgs, tokenizer=self.tokenizer, **params).strip()
 
         usage_metadata = UsageMetadata(
             input_token_count=0,

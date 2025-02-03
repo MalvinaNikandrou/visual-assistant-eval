@@ -84,6 +84,7 @@ class ClusterLabelProcessor(BaseProcessor):
     """
     Generate a common label for a cluster of objects.
     """
+
     def __init__(self, model: str, data_file: str, torch_dtype: torch.dtype) -> None:
         super().__init__(model, data_file, torch_dtype)
         self.prompt = EXTRACT_COMMON_WORD_PROMPT
@@ -112,7 +113,7 @@ class VideoQAGenerator(BaseProcessor):
     """
     Generate a `What type` question for a cluster of objects.
     """
-    
+
     def __init__(self, model: str, data_file: str, torch_dtype: torch.dtype) -> None:
         super().__init__(model, data_file, torch_dtype, max_new_tokens=128)
 

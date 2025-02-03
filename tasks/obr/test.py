@@ -181,9 +181,7 @@ if __name__ == "__main__":
     else:
         checkpoint_folder = args.hf_checkpoint_folder
 
-    checkpoints = sorted(
-        os.listdir(checkpoint_folder), key=lambda x: int(x.split("-")[-1])
-    )
+    checkpoints = sorted(os.listdir(checkpoint_folder), key=lambda x: int(x.split("-")[-1]))
     if args.last_only:
         checkpoints = [checkpoints[-1]]
     else:
@@ -247,24 +245,12 @@ if __name__ == "__main__":
             )
             for output in batch_output:
                 generated_response = output[inputs["input_ids"].shape[1] + 2 :]
-                output_str = processor.decode(
-                    generated_response, skip_special_tokens=True
-                ).strip()
+                output_str = processor.decode(generated_response, skip_special_tokens=True).strip()
 
                 predictions.append(output_str)
                 if args.task == "squad":
-                    context_sizes.append(
-                        len(
-                            processor.tokenizer.encode(
-                                test_dataset[example_idx]["en_context"]
-                            )
-                        )
-                    )
-                    references.append(
-                        json.loads(test_dataset[example_idx]["metadata"])["answers"][
-                            "text"
-                        ]
-                    )
+                    context_sizes.append(len(processor.tokenizer.encode(test_dataset[example_idx]["en_context"])))
+                    references.append(json.loads(test_dataset[example_idx]["metadata"])["answers"]["text"])
                 example_idx += 1
 
         if args.task == "wmt":
@@ -284,9 +270,7 @@ if __name__ == "__main__":
             )
         print(results)
 
-        output_json = os.path.join(
-            finetuning_path, f"{os.path.basename(args.hf_dataset_id)}_results.json"
-        )
+        output_json = os.path.join(finetuning_path, f"{os.path.basename(args.hf_dataset_id)}_results.json")
         with open(output_json, "w") as f:
             json.dump(
                 {
