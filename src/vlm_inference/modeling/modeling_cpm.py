@@ -82,7 +82,6 @@ class VideoCpmModel(CpmModel):
     def generate(
         self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
     ) -> Tuple[str, UsageMetadata]:
-        breakpoint()
         frames = encode_video(example.image_path)
         msgs = [
             {"role": "user", "content": frames + [example.prompt]},
@@ -93,7 +92,7 @@ class VideoCpmModel(CpmModel):
         params["use_image_id"] = False
         params["max_slice_nums"] = 2  # use 1 if cuda OOM and video resolution >  448*448
 
-        generated_text = self.model.chat(image=None, msgs=msgs, tokenizer=self.tokenizer, **params).strip()
+        generated_text = self.model.chat(image=None, msgs=msgs, tokenizer=self.processor, **params).strip()
 
         usage_metadata = UsageMetadata(
             input_token_count=0,

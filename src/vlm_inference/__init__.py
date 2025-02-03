@@ -21,7 +21,7 @@ from vlm_inference.modeling import (
     HfModel,
     InternVLModel,
     VideoInternVLModel,
-    VideoHfModel,
+    QwenVideoHfModel,
     MolmoModel,
     OpenaiModel,
     RekaModel,

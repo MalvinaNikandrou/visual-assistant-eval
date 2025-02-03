@@ -1,6 +1,7 @@
 import logging
 from typing import Any, Callable, Dict, Optional, Tuple, Type
 from qwen_vl_utils import process_vision_info
+from decord import VideoReader, cpu
 
 import torch
 from outlines.integrations.transformers import JSONPrefixAllowedTokens
@@ -15,6 +16,7 @@ from ..utils.usage_tracking import UsageMetadata
 from .modeling_base import VisionLanguageModel
 
 logger = logging.getLogger(__name__)
+MAX_NUM_FRAMES = 64  # if cuda OOM set a smaller number
 
 
 class HfModel(VisionLanguageModel):
@@ -146,7 +148,7 @@ class MolmoModel(HfModel):
         return generated_text, usage_metadata
 
 
-class VideoHfModel(HfModel):
+class QwenVideoHfModel(HfModel):
 
     def _prep_video(self, video_path: str) -> Dict[str, Any]:
         messages = [
