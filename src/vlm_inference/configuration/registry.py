@@ -18,9 +18,9 @@ from .models import (
     APICaptioningGenerationConfig,
     HfCaptioningGenerationConfig,
     HfVQAGenerationConfig,
-    VideoVQAHfModelConfig,
     HfModelConfig,
     HfProcessor,
+    LlaVANextModelConfig,
     ModelConfig,
     MolmoConfig,
     OpenaiModelConfig,
@@ -229,6 +229,56 @@ cs.store(
 
 cs.store(
     group="model",
+    name="llava-next-video",
+    node=HfModelConfig(
+        _target_="vlm_inference.LlaVANextVideoHfModel",
+        name=f"llava-hf/LLaVA-NeXT-Video-{II('model.size')}-hf",
+        size="7B",
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.LlavaNextVideoForConditionalGeneration.from_pretrained",
+            attn_implementation="flash_attention_2" if is_flashattn_2_supported() else "sdpa",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.LlavaNextVideoProcessor.from_pretrained"),
+        strip_prompt=True,
+    ),
+)
+
+
+cs.store(
+    group="model",
+    name="llava-video",
+    node=LlaVANextModelConfig(
+        name=f"lmms-lab/LLaVA-Video-{II('model.size')}-Qwen2",
+        size="7B",
+        dtype="float16",
+        model_name="llava_qwen",
+        conv_template="qwen_1_5",
+        strip_prompt=True,
+    ),
+)
+
+
+cs.store(
+    group="model",
+    name="video-chat",
+    node=HfModelConfig(
+        _target_="vlm_inference.VideoChatModel",
+        name=f"OpenGVLab/VideoChat-Flash-Qwen2-{II('model.size')}_res448",
+        size="7B",
+        dtype="float16",
+        model_cls=HfModel(
+            _target_="transformers.AutoModel.from_pretrained",
+            attn_implementation="flash_attention_2" if is_flashattn_2_supported() else "sdpa",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoTokenizer.from_pretrained"),
+        strip_prompt=True,
+    ),
+)
+
+
+cs.store(
+    group="model",
     name="idefics2",
     node=HfModelConfig(
         name=f"HuggingFaceM4/idefics2-{II('model.size')}",
@@ -279,6 +329,24 @@ cs.store(
     group="model",
     name="phi3-vision",
     node=HfModelConfig(
+        name="microsoft/Phi-3.5-vision-instruct",
+        size="",  # not used
+        dtype="bfloat16",
+        model_cls=HfModel(
+            _target_="transformers.AutoModelForCausalLM.from_pretrained",
+            attn_implementation="flash_attention_2" if is_flashattn_2_supported() else "eager",
+        ),
+        processor_cls=HfProcessor(_target_="transformers.AutoProcessor.from_pretrained", use_fast=True),
+        strip_prompt=True,
+        postprocess_fn=ProcessorConfig(_target_="vlm_inference.metrics.vqa.split_at_first_capital_after_whitespace"),
+    ),
+)
+
+cs.store(
+    group="model",
+    name="phi3-video",
+    node=HfModelConfig(
+        _target_="vlm_inference.Phi3VideoHfModel",
         name="microsoft/Phi-3.5-vision-instruct",
         size="",  # not used
         dtype="bfloat16",
@@ -425,7 +493,8 @@ cs.store(
 cs.store(
     group="model",
     name="qwen2-vl-video",
-    node=VideoVQAHfModelConfig(
+    node=HfModelConfig(
+        _target_="vlm_inference.QwenVideoHfModel",
         name=f"Qwen/Qwen2-VL-{II('model.size')}-Instruct",
         size="7b",
         dtype="bfloat16",

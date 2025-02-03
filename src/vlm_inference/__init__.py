@@ -22,9 +22,13 @@ from vlm_inference.modeling import (
     InternVLModel,
     VideoInternVLModel,
     QwenVideoHfModel,
+    Phi3VideoHfModel,
+    LlaVAVideoModel,
+    LlaVANextVideoHfModel,
     MolmoModel,
     OpenaiModel,
     RekaModel,
+    VideoChatModel,
     VisionLanguageModel,
 )
 from vlm_inference.utils import Completion  # noqa: F401

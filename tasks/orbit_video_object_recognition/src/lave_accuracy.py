@@ -237,6 +237,7 @@ punctuations = [
     "<",
     "@",
     "#",
+    "|",
     "%",
     "&",
     "*",
@@ -282,6 +283,8 @@ def process_digit_article(in_text: str) -> str:
 
 def normalize_answer(answer: str) -> str:
     """Normalize a VQA answer."""
+    if answer is None or not isinstance(answer, str):
+        answer = "no response"
     answer = answer.lower()
     answer = answer.replace("\n", " ")
     answer = answer.replace("\t", " ")
@@ -331,7 +334,10 @@ class LAVE:
         )
 
         generated_text = outputs[0]["generated_text"][-1]["content"].lower().strip()
-        score = float(generated_text.split("rating: ")[-1][0])
+        try:
+            score = float(generated_text.split("rating: ")[-1][0])
+        except:
+            score = 1
         # normalize the generated text
         return score / 3
 
@@ -339,7 +345,7 @@ class LAVE:
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Compute the accuracy of the model.")
     parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.3-70B-Instruct", help="The model id.")
-    parser.add_argument("--load_in_8bit", type=bool, default=True, help="Whether to load the model in 8-bit.")
+    parser.add_argument("--load_in_8bit", action="store_true", help="Whether to load the model in 8-bit.")
     parser.add_argument("--data_file", type=str, help="The data file.")
     parser.add_argument("--max_new_tokens", type=int, help="The maximum number of new tokens.")
     return parser.parse_args()
@@ -347,12 +353,12 @@ def parse_arguments():
 
 if __name__ == "__main__":
     args = parse_arguments()
-    lave_metric = LAVE(args.model_id, args.load_in_8bit, args.data_file, max_new_tokens=args.max_new_tokens)
     # Load the data
     data = pd.read_csv(args.data_file, sep="\t", quoting=3, escapechar="\\", quotechar='"')
-    # Compute the accuracy
-    data["ground_truth"] = data.apply(lambda x: prepare_ground_truths(x["ground_truth"]), axis=1)
     data["response"] = data.apply(lambda x: normalize_answer(x["response"]), axis=1)
+    data["ground_truth"] = data.apply(lambda x: prepare_ground_truths(x["ground_truth"]), axis=1)
+    # Compute the accuracy
+    lave_metric = LAVE(args.model_id, args.load_in_8bit, args.data_file, max_new_tokens=args.max_new_tokens)
     data["acc"] = data.apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"]), axis=1)
     # Compute the average accuracy
     acc = data["acc"].mean()

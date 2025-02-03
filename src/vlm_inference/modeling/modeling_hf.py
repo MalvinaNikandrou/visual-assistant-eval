@@ -1,8 +1,10 @@
 import logging
+import numpy as np
 from typing import Any, Callable, Dict, Optional, Tuple, Type
 from qwen_vl_utils import process_vision_info
 from decord import VideoReader, cpu
 
+import av
 import torch
 from outlines.integrations.transformers import JSONPrefixAllowedTokens
 from PIL import Image
@@ -172,6 +174,80 @@ class QwenVideoHfModel(HfModel):
         inputs = self.processor(videos=videos, text=example.prompt, return_tensors="pt", padding=True)
         # .to(self.model.device, dtype=self.model.dtype
         # inputs = {k: v.to(self.model.device).unsqueeze(0) for k, v in inputs.items()}
+        inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
+        for key, values in inputs.items():
+            if values.dtype == torch.float32:
+                inputs[key] = values.to(self.model.dtype)
+        return inputs
+
+
+class LlaVANextVideoHfModel(HfModel):
+
+    def read_video_pyav(self, container, indices):
+        """
+        Decode the video with PyAV decoder.
+        Args:
+            container (`av.container.input.InputContainer`): PyAV container.
+            indices (`List[int]`): List of frame indices to decode.
+        Returns:
+            result (np.ndarray): np array of decoded frames of shape (num_frames, height, width, 3).
+        """
+        frames = []
+        container.seek(0)
+        start_index = indices[0]
+        end_index = indices[-1]
+        for i, frame in enumerate(container.decode(video=0)):
+            if i > end_index:
+                break
+            if i >= start_index and i in indices:
+                frames.append(frame)
+        return np.stack([x.to_ndarray(format="rgb24") for x in frames])
+
+    def _extract_features(self, example: VideoExample) -> BatchFeature:
+        container = av.open(example.image_path)
+        # sample uniformly 8 frames from the video, can sample more for longer videos
+        total_frames = container.streams.video[0].frames
+        indices = np.arange(0, total_frames, total_frames / 8).astype(int)
+        clip = self.read_video_pyav(container, indices)
+
+        inputs = self.processor(text=example.prompt, videos=clip, padding=True, return_tensors="pt")
+        inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
+        for key, values in inputs.items():
+            if values.dtype == torch.float32:
+                inputs[key] = values.to(self.model.dtype)
+        return inputs
+
+
+class Phi3VideoHfModel(HfModel):
+
+    def _encode_video(self, video_path):
+        def uniform_sample(l, n):
+            gap = len(l) / n
+            idxs = [int(i * gap + gap / 2) for i in range(n)]
+            return [l[i] for i in idxs]
+
+        vr = VideoReader(video_path, ctx=cpu(0), num_threads=1)
+        sample_fps = round(vr.get_avg_fps() / 1)  # FPS
+        frame_idx = [i for i in range(0, len(vr), sample_fps)]
+        if len(frame_idx) > MAX_NUM_FRAMES:
+            frame_idx = uniform_sample(frame_idx, MAX_NUM_FRAMES)
+        frames = vr.get_batch(frame_idx).asnumpy()
+        frames = [Image.fromarray(v.astype("uint8")).convert("RGB") for v in frames]
+        return frames
+
+    def _prep_video(self, example: VideoExample) -> Dict[str, Any]:
+        frames = self._encode_video(example.image_path)
+        placeholder = ""
+        for idx, _ in enumerate(frames, 1):
+            placeholder += f"<|image_{idx}|>\n"
+        prompt = example.prompt.replace("<|video|>", placeholder)
+        return prompt, frames
+
+    def _extract_features(self, example: VideoExample) -> BatchFeature:
+        prompt, frames = self._prep_video(example)
+
+        inputs = self.processor(prompt, frames, return_tensors="pt")
+        # .to(self.model.device, dtype=self.model.dtype
         inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
         for key, values in inputs.items():
             if values.dtype == torch.float32:

@@ -122,10 +122,16 @@ class HfModelConfig(ModelConfig):
 
 
 @dataclass
-class VideoVQAHfModelConfig(HfModelConfig):
-    _target_: str = "vlm_inference.VideoHfModel"
+class MolmoConfig(HfModelConfig):
+    _target_: str = "vlm_inference.MolmoModel"
 
 
 @dataclass
-class MolmoConfig(HfModelConfig):
-    _target_: str = "vlm_inference.MolmoModel"
+class LlaVANextModelConfig(ModelConfig):
+    _target_: str = "vlm_inference.LlaVAVideoModel"
+    name: str = MISSING
+    size: str = MISSING
+    conv_template: str = MISSING
+    dtype: str = MISSING
+    model_name: str = MISSING
+    strip_prompt: bool = False
