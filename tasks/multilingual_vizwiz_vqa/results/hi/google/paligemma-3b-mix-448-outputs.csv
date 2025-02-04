@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कागज पर क्या लिखा है?\
+	['उत्तर नहीं दिया जा सकता', 'ऑस्ट्रेलिया पोस्ट', 'पद', 'उत्तर नहीं दिया जा सकता', 'ऑस्ट्रेलिया पोस्ट', 'ऑस्ट्रिया पोस्ट', 'ऑस्ट्रेलिया पोस्ट', 'ऑस्ट्रेलिया पोस्ट', 'उत्तर नहीं दिया जा सकता', 'ऑस्ट्रेलिया पोस्ट']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि इस कंप्यूटर स्क्रीन पर क्या है?\
+	['घड़ी मौसम आदि के लिए आइकन', 'प्रारंभ विंडो', 'डेस्कटॉप', 'घड़ी', 'घड़ी', 'आइकन', 'डेस्कटॉप आइकन', 'उत्तर नहीं दिया जा सकता', 'डेस्कटॉप आइकन', 'आइकन']	घड़ी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कौन सी सीडी है?\
+	['खाली', 'रिक्त सीडी', 'मैक्सवेल', 'मैक्सेल सीडी आर', 'खाली', 'खाली', 'कंबल', 'खाली', 'खाली', 'मैक्सेल']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह तस्वीर क्या है?\
+	['पांव', 'पांव', 'पैर पर खरोंच', 'पांव', 'पांव', 'पांव', 'पांव', 'पांव', 'पांव', 'पांव']	पैर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह क्या है?\
+	['शिकार करना', 'मनीविच', 'मनीविच', 'शिकार लापरवाह जो सॉस', 'ढीली जो सॉस', 'मनीविच', 'आदमी जो बोल्ड ढीठ जो सॉस', 'अनविच', 'मनीविच', 'ढीठ जो']	हुंट्स सैंडविच
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['आहार कोक सोडा', 'आहार कोक कैन', 'आहार कोक', 'आहार कोक', 'आहार कोक', 'आहार कोक', 'आहार कोक', 'कोक', 'सोडा', 'आहार कोक']	कोक
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या मसाला है?\
+	['श्रीमती डैश', 'उत्तर नहीं दिया जा सकता', 'श्रीमती डैश', 'उत्तर नहीं दिया जा सकता', 'नहीं बता सकता', 'सब मसाला', 'तुलसी मिश्रण', 'श्रीमती डैश टेबल मिश्रण', 'ध्रुव', 'श्रीमती डैश']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['एमटीएन ओस की बोतल', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'एमटी ओस']	पानी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['कॉफी', 'उत्तर नहीं दिया जा सकता', 'कॉफी', 'कॉफी', 'कॉफी', 'कॉफी', 'कॉफी', 'कॉफी', 'कॉफी', 'उत्तर नहीं दिया जा सकता']	कॉफी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. तुम क्या देख रहे हो?\
+	['त्वचा', 'फिंगर फ्लोर दरवाजे', 'द्वार', 'द्वार', 'अंगूठे का दरवाजा', 'द्वार', 'उत्तर नहीं दिया जा सकता', 'द्वार', 'घर', 'उंगली काली फर']	अन्य कमरे में दरवाजे और पर्दे
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरा कंप्यूटर स्क्रीन क्या दिखा रहा है?\
+	['क्या आप सिस्टम पुनर्स्थापना का उपयोग करके अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं', 'सिस्टम पुनर्स्थापना पॉप अप', 'सिस्टम पुनर्स्थापना संदेश', 'यह पूछना कि क्या आप सिस्टम पुनर्स्थापना का उपयोग करके अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं', 'बक्सा', 'सिस्टम पुनर्स्थापित करें', 'क्या आप सिस्टम पुनर्स्थापना का उपयोग करके अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं', 'कंप्यूटर शुरू नहीं हुआ सिस्टम पुनर्स्थापना का उपयोग करें', 'सेटअप को पुनर्स्थापित करें', 'सिस्टम पुनर्स्थापित करें']	सिस्टम रस्टोर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['गर्म काको', 'गर्म कोको मिश्रण', 'गर्म चॉकलेट', 'गर्म कोको मिश्रण', 'ककड़ी', 'गर्म कोको मिश्रण', 'गर्म काको', 'गर्म चॉकलेट मिश्रण', 'ककड़ी', 'कोको मिश्रण']	हॉट चॉकलेट मिश्रण
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे इस कार्ड पर 1-800 नंबर बता सकते हैं?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	1-877-328-9677
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कंप्यूटर स्क्रीन', 'कंप्यूटर स्क्रीन', 'कंप्यूटर स्क्रीन', 'लैपटॉप', 'खोज परिणाम दिखाने वाला कंप्यूटर स्क्रीन', 'स्क्रीन', 'कंप्यूटर स्क्रीन', 'कंप्यूटर स्क्रीन', 'मॉनिटर स्क्रीन', 'कंप्यूटर स्क्रीन']	अन्य language
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['सलाद ड्रेसिंग पीछे की तरफ', 'ड्रेसिंग', 'सलाद ड्रेसिंग', 'सलाद ड्रेसिंग', 'बासमिक सलाद ड्रेसिंग', 'सलाद ड्रेसिंग', 'उत्तर नहीं दिया जा सकता', 'सलाद ड्रेसिंग', 'सलाद ड्रेसिंग', 'सलाद ड्रेसिंग']	सलाद सॉस
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. चित्र में क्या दिखाया गया है?\
+	['खिड़की', 'डिजाइन', 'काली रंग का ग्लास खिड़की का डिजाइन', 'दरवाजे में कांच का खिड़की का चश्मा', 'खिड़की में कांच का खिड़की', 'द्वार', 'रंगीन कांच', 'द्वार', 'खिड़की', 'खिड़की']	एक खिड़की
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या कोई मुझे बता सकता है कि स्क्रीन पर सुरक्षा प्रश्न क्या है, कृपया?\
+	['अरावाक', 'उत्तर नहीं दिया जा सकता', 'अरावाक', 'अरावाक', 'अरावाक', 'अरावाक', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'अरावाक', 'अरावाक']	अरावक
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['शराब', 'चांदी का ओक', 'चांदी का ओक', 'चांदी के ओक का शराब', 'शराब', 'बोतल', 'शराब', 'शराब', 'चांदी का ओक 2003 कैबरनेट सॉविनन', 'चांदी का ओक 2003']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस ब्रांड का मॉनिटर है?\
+	['एलजी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'एलजी', 'एलजी', 'एलजी', 'एलजी', 'एलजी', 'एलजी', 'एलजी']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का पेय है?\
+	['सोडा', 'अदरक', 'सामान्य', 'अदरक सोडा', 'कैनडा सूखी', 'कैनडा सूखी', 'अदरक', 'कैनडा सूखी', 'अदरक', 'अदरक']	canada dry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कालीन का रंग क्या है?\
+	['बेज', 'बेज', 'कंगना', 'ग्रे', 'कर्ण', 'क्रीम', 'कंगना', 'कंगना', 'बेज', 'कर्ण']	ग्रे
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['टेलीफोन', 'टेलीफोन', 'टेलीफोन', 'टेलीफोन', 'फोन', 'टेलीफोन', 'डिजिटल फोन', 'फोन', 'कार्यालय का फ़ोन', 'फोन']	अन्य संदेश
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या चित्र है?\
+	['पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत ओस', 'पर्वत की ओस', 'मीन', 'एमटीएन ओस की बोतल', 'पर्वत ओस सोडा', 'एमटीएन ओस']	मंटेन ड्रिंक की बोतल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह बोतल क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'लोशन', 'सोडा', 'उत्तर नहीं दिया जा सकता', 'लोशन', 'लोशन', 'लोशन', 'उत्तर नहीं दिया जा सकता', 'लोशन']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['एक्वाफिन पानी', 'बोतल aquafina पानी', 'जल', 'जल', 'प्लास्टिक की बोतल aquafina ब्रांड पानी', 'बोतल का पानी', 'पानी की बोतल', 'एक्वाफिन पानी', 'जल', 'प्लास्टिक की बोतल का पानी']	पानी की बोतल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['गूगल खोज', 'गूगल खोज इंजन टैब', 'गूगल खोज पृष्ठ', 'गूगल', 'गूगल', 'कम्प्यूटर', 'गूगल मुखपृष्ठ', 'गूगल पेज', 'कंप्यूटर स्क्रीन', 'कंप्यूटर स्क्रीन']	अन्य पाठ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ये क्या हैं?\
+	['कुंजी', 'कुंजी', 'कुंजी', 'कुंजी', 'कुंजी', 'कुंजी', 'कुंजी', 'कुंजी', 'कुंजी', 'कुंजी']	कुछ चाबी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया मुझे स्क्रीन पर त्रुटि संदेश पढ़ें।\
+	['उत्तर नहीं दिया जा सकता', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी', 'उत्तर नहीं दिया जा सकता', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी या तो हटाएंउत्पाद कुंजी अनएटेंड उत्तर फ़ाइल में आगे बढ़ने के लिए', 'अमान्य उत्पाद कुंजी या तो आगे बढ़ने के लिए अनएटेंड उत्तर फ़ाइल में उत्पाद कुंजी हटाएँ', 'अमान्य उत्पाद कुंजी']	असफल संदेश
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरा लैपटॉप कहाँ है?\
+	['डेस्क', 'मेज पर', 'बिस्तर के बगल में शीर्ष डेस्क', 'मेज पर', 'डेस्क', 'डेस्क', 'मेज पर', 'मेज पर', 'शीर्ष डेस्क', 'डेस्क']	on desk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस पुस्तक का शीर्षक क्या है?\
+	['कुत्ता वर्ष', 'कुत्ता वर्षः संस्मरण', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष']	कुछ years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मैकबुक', 'कीबोर्ड', 'कीबोर्ड', 'कीबोर्ड', 'कम्प्यूटर', 'कीबोर्ड', 'लैपटॉप', 'लैपटॉप', 'लैपटॉप', 'कंप्यूटर स्क्रीन कीबोर्ड']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. तुम क्या देख रहे हो?\
+	['टेबल खिड़की', 'फूल', 'उत्तर नहीं दिया जा सकता', 'टेबल खिड़की', 'पुस्तक नोटबुक कलम', 'फूल', 'विसर्जन', 'पुस्तक', 'खिड़की', 'फूल']	अन्य चीजों के साथ एक मेज पर बैठे किताब और टोपी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. किस पैकेट में सादा आटा होता है?\
+	['लाल सफेद पैकेज', 'बाएं', 'कि 1', 'लाल 1 बाईं ओर', 'बाएं', 'उत्तर नहीं दिया जा सकता', 'बाएं', 'बाएं', 'लाल सफेद 1', 'लाल 1']	सादा आटा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['फुटबॉल', 'फुटबॉल', 'फुटबॉल', 'बैंगनी नारंगी पुष्प फुटबॉल मगरमच्छ पर', 'गिलहरी फुटबॉल', 'मगरमच्छ नरम फुटबॉल', 'भरवां फुटबॉल', 'भरवां नारंगी नीला फुटबॉल', 'बैंगनी फुटबॉल', 'गिलहरी']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है?\
+	['ग्रे', 'स्वर्ण', 'स्वर्ण', 'बेज', 'लाल', 'स्वर्ण', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'स्वर्ण', 'उत्तर नहीं दिया जा सकता']	लाल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मेनू', 'उत्तर नहीं दिया जा सकता', 'मेनू', 'मेनू', 'मेनू', 'तालिका सामग्री', 'मेनू', 'मेनू', 'मूल्य सूची', 'उत्तर नहीं दिया जा सकता']	अन्य खाद्य पदार्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पानी की बोतल', 'स्प्रिंगवॉर्न', 'स्प्रिंगबर्न जल', 'स्प्रिंगबर्न', 'बोतलबंद पानी', 'जल', 'पानी की बोतल', 'बोतलबंद पानी', 'बोतल में पानी', 'जल']	पानी की बोतल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का सूप है?\
+	['प्रगति', 'प्रगति', 'प्रगति', 'उत्तर नहीं दिया जा सकता', 'प्रगति', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'प्रगति', 'प्रगति']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मुझे पता है कि यह भोजन का एक डिब्बा है. क्या आप कृपया मुझे बता सकते हैं कि इसमें क्या है?\
+	['हरी बीन्स', 'हरी बीन्स', 'हरी बीन्स', 'हरी बीन्स', 'हरी बीन्स', 'उत्तर नहीं दिया जा सकता', 'हरी बीन्स', 'ईफ', 'हरी बीन्स', 'हरी बीन्स']	हरी बीन्स
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या है?\
+	['चक मिश्रण', 'कटाई करने वाली मिलें', 'चेक्स मिक्स कंप्यूटर', 'उत्तर नहीं दिया जा सकता', 'चक मिश्रण', 'भोजन', 'चक मिश्रण', 'चक मिश्रण', 'चक मिश्रण', 'चेकमिक्स']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बात है?\
+	['माइक्रोवेव', 'माइक्रोवेव', 'दवा', 'उपकरण जेली बीन्स सूप', 'कैन सूप', 'पीने के लिए कप सूप', 'रसोई', 'रसोई काउंटर', 'क्रीमदार', 'सूप']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मिश्रित सब्जियां', 'मिश्रित सब्जियां', 'मिश्रित सब्जियां', 'मिश्रित सब्जियां', 'मिश्रित सब्जियां', 'इफ़ग्रफ़', 'मिश्रित सब्जियां', 'मिश्रित सब्जियां', 'मिश्रित सब्जियां', 'मिश्रित सब्जियां']	मिश्रित सब्जियों
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का है?\
+	['केक का ग्लास', 'वनिला', 'वनिला', 'पीटा हुआ वेनिला ग्लास', 'बेटी क्रोकर', 'वेनिला ग्लास', 'पिटाई वनिला', 'वेनिला ग्लास', 'वनिला', 'वनिला']	व्हाइट चॉकलेट
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं किस बॉक्स को देख रहा हूँ, जैसे कि बॉक्स में क्या है?\
+	['अनाज बार बॉक्स', 'प्रकृति घाटी भुना हुआ बादाम के दानेदार बार्स', 'ग्रेनोला बार', 'प्रकृति घाटी', 'भुना हुआ बादाम का दाना', 'प्रकृति घाटी भुना हुआ बादाम के दानेदार बार्स', 'प्रकृति घाटी कुरकुरा ग्रेनोला बार भुना हुआ बादाम स्वाद', 'ग्रेनोला बार', 'ग्रेनोला बार', 'भुना हुआ बादाम के क्रूसिव ग्रेनोला बार']	ग्रानोला बार
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. रंगीन कपड़े के बारे में क्या?\
+	['हरी सफेद', 'सफेद गहरे हरे रंग का प्रिंट', 'सफेद हरा', 'सफेद हरा', 'गुलाबी हरा', 'कपड़े सफेद क्रीम हरा पर', 'गुलाबी काला', 'हरी सफेद', 'बैंगनी काला टाई डाई', 'सफेद हरा छिद्र']	बैंगनी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कंप्यूटर स्क्रीन क्या दिखा रही है?\
+	['माउस तीर', 'कर्सर', 'कुछ नहीं', 'नीला', 'नीली स्क्रीन', 'तीर', 'खाली', 'नीला तीर', 'खाली', 'नीली स्क्रीन']	नीला
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. हेलो कौन है?\
+	['सफेद बिल्ली', 'बिल्ली', 'बिल्ली', 'सफेद बिल्ली', 'बिल्ली', 'उत्तर नहीं दिया जा सकता', 'बिल्ली', 'बिल्ली', 'यह बिल्ली', 'बिल्ली']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पुरेल उन्नत हाथ सैनिटाइजर', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'शुद्ध हाथ कीटाणुशोधन', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'शुद्ध हाथ कीटाणुशोधन']	संतुलित
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. त्रुटि संदेश क्या कहता है?\
+	['अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद', 'अवैध उत्पाद कुंजी जारी रखने के लिए ठीक क्लिक करें', 'अमान्य उत्पाद कुंजी या तो आगे बढ़ने के लिए अनएटेंड उत्तर फ़ाइल में उत्पाद कुंजी हटा दें', 'अमान्य उत्पाद', 'अमान्य उत्पाद कुंजी', 'अमान्य उत्पाद कुंजी']	असामान्य उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि मेरे कंप्यूटर स्क्रीन पर यह संदेश क्या कहता है?\
+	['नीचे दाईं ओर किसी प्रकार की मरम्मत समाप्त बटन', 'प्रारंभ मरम्मत अंतिम सफल बूट 9 20 2012 1 मरम्मत प्रयास बंद वापस समाप्त रद्द', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'आरंभिक मरम्मत', 'आरंभिक मरम्मत', 'आरंभिक मरम्मत', 'उत्तर नहीं दिया जा सकता', 'प्रारंभ मरम्मत पूरा किया निदान स्क्रीन बंद बटन', 'आरंभिक मरम्मत']	असफल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का मांस है? यह चिकन या सॉसेज या किस तरह का मांस है? धन्यवाद\
+	['मुर्गी', 'मुर्गी', 'मुर्गी', 'मुर्गी', 'मुर्गी', 'मुर्गी', 'मुर्गी', 'चिकन जांघ', 'उत्तर नहीं दिया जा सकता', 'मुर्गी']	chicken
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है?\
+	['विद्युत नीला', 'नीला', 'नीला', 'नीला', 'नीला', 'नीला', 'नीला', 'नीला', 'नीला', 'उत्तर नहीं दिया जा सकता']	नीला
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन क्या कहती है?\
+	['खिड़कियाँ लगाना', 'विंडोज प्लस अधिक अपठनीय स्थापित', 'खिड़कियाँ लगाना', 'खिड़कियाँ लगाना', 'खिड़कियाँ लगाना', 'इस स्क्रीन का कहना है कि विंडोज स्थापित करने के लिए सूचीबद्ध कदम स्थापना', 'खिड़कियाँ लगाना', 'खिड़कियाँ लगाना', 'खिड़कियाँ लगाना', 'खिड़कियाँ लगाना']	अन्य जानकारी प्रदान की जा रही है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. आकाश इस तस्वीर में कैसा दिखता है।\
+	['आंशिक रूप से बादल', 'अंधेरे बादल', 'बड़ा बादल', 'विशाल बादल अंधेरा आकाश', 'ढलान', 'बादल', 'नीले रंग के बादल', 'उत्तर नहीं दिया जा सकता', 'विशाल वर्षा बादल थोड़ा सा नीला साइड', 'बादल']	अंधेरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['बरामदा', 'कुर्सी', 'कुर्सी', 'कुर्सी', 'उत्तर नहीं दिया जा सकता', 'बेंच', 'कुर्सी', 'कुर्सी', 'बेंच धातु फ्रेम खिड़की', 'कुर्सी']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['फोटो', 'द्वार', 'द्वार', 'बार्स', 'शीशे के पैनल वाले दरवाजे', 'द्वार', 'रेस्तरां', 'रेस्तरां', 'दरवाजे', 'दरवाजे']	अन्य संकेतों को देखने के लिए दरवाजे को बंद करें
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरी स्क्रीन पर क्या है? चलो दोस्तों! स्क्रीन पर क्या है?\
+	['बूट डिवाइस चुनें', 'कृपया बूट डिवाइस 3 विकल्प चुनें', 'उत्तर नहीं दिया जा सकता', 'कृपया बूट डिवाइस चुनें', 'बूट स्क्रीन', 'कृपया बूट डिवाइस चुनें', 'त्रुटि', 'कृपया बूट डिवाइस चुनें', 'डिवाइस चयन संदेश', 'कृपया बूट डिवाइस चुनें']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह वस्तु क्या है?\
+	['पित्ता', 'सजावटी कांस्य मूर्तिकला शेरनी', 'मूर्ति', 'नहीं', 'पित्ता', 'राख का थैला', 'मूर्ति', 'कुत्ता कटोरा', 'पित्ता', 'शीर्ष पर प्लेग बाघ']	कला का काम
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ये किस तरह की सिगरेट हैं?\
+	['अमेरिकी भावना', 'अमेरिकी भावना', 'अमेरिकी भावना', 'अमेरिकी भावना', 'अमेरिकी भावना', 'काले रंग की पैक की गई अमेरिकी शराब', 'अमेरिकी भावना', 'अमेरिकी भावना', 'अमेरिकी भावना', 'अमेरिकी भावना']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['गुआवा जेंसेंग', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय']	अन्य language
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बोतल में क्या है?\
+	['शरीर लोशन', 'शरीर लोशन', 'शरीर लोशन', 'लोशन', 'शी शरीर लोशन विटामिन ई', 'चांदनी पथ शी विटामिन ई शरीर लोशन', 'शरीर लोशन', 'चंद्रमा पथ शरीर लोशन', 'चंद्रमा पथ शरीर लोशन', 'लोशन']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या तस्वीर है?\
+	['चश्मा', 'फ्रेम', 'चश्मा', 'चश्मा चांदी के फ्रेम', 'चश्मा', 'चश्मा', 'चश्मा फ्रेम', 'चश्मा', 'चश्मा', 'चश्मा']	ग्रे चश्मा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह उत्पाद है।\
+	['हाँ', 'टमाटर का सूप', 'टमाटर का सूप', 'सूप', 'डिब्बाबंद सूप', 'टमाटर का सूप', 'टमाटर का सूप', 'टमाटर का सूप', 'सूप', 'कटाई टमाटर सूप चुनें']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['फोन बॉक्स', 'आईफोन', 'आईफोन बॉक्स', 'फोन', 'मोबाइल फोन', 'सेल फोन बॉक्स', 'स्मार्टफ़ोन', 'फोन', 'स्मार्ट फ़ोन', 'आईफोन']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या तस्वीर है?\
+	['मिठाई का कंटेनर', 'उत्सव लाल बॉक्स', 'उत्तरदायी', 'कहते हैं उत्सव', 'बक्सा', 'मिठाई', 'पार्टी का पक्ष', 'उत्सव', 'बक्सा', 'उत्तर नहीं दिया जा सकता']	उत्सव
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['शैंपेन', 'शराब का गिलास चाय का बर्तन', 'ग्लास', 'गिलास वाइन', 'प्लेट पर बैठे कॉफी कप के बगल में एक गिलास शैंपेन शराब', 'मेज पर गिलास में पीना', 'शैंपेन', 'चाय का कप कांच', 'चाय का घड़ा शैंपेन का गिलास', 'सामने की खिड़की में मेज पर शैंपेन का ग्लास प्लेट शहर का दृश्य']	असफल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या स्वाद है?\
+	['नारंगी', 'नारंगी हरा पीला लाल', 'नारंगी मिंट', 'नारंगी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नारंगी', '2 बाएं नारंगी चेरी नींबू ऊपर नीचे दाएं सर्दियों हरा', 'नारंगी', 'नारंगी']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. नमस्ते, मैं सोच रहा था कि इस डिब्बे में क्या था? धन्यवाद. मैं सोच रहा था कि यह बीयर या एक या सोडा का एक डिब्बा है. धन्यवाद.\
+	['कोका कोला', 'कोका कोला', 'सोडा', 'कोका कोला', 'सोडा', 'सोडा कोक', 'सोडा', 'सोडा', 'कोकाकोला', 'सोडा']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस ड्रायर पर क्या सेटिंग है?\
+	['विपरीत दिशा में नियमित झुर्रियों नियंत्रण समय सूखी नाजुक झुर्रियों को छोड़ने हवा गुच्छा', 'नियमित', 'बंद करना', 'बंद करना', 'बंद करना', 'नियमित', 'बंद करना', 'सेट पर नहीं', 'कुछ नहीं', 'बंद करना']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['टैबलेट', 'टैबलेट', 'फ़ोन एप्लिकेशन', 'स्क्रीन', 'सूची अनुप्रयोग', 'एप स्टोर', 'टैबलेट', 'डाउनलोड करने के लिए ऐप्स की सूची', 'उत्तर नहीं दिया जा सकता', 'एप्लिकेशन डाउनलोड']	अन्य आवेदन
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं क्या देख रहा हूँ?\
+	['टेलीविजन', 'कपाट टीवी', 'टेलीविजन', 'टीवी', 'टीवी स्क्रीन', 'टेलीविजन', 'टेलीविजन पर टॉम सेलेक', 'टीवी', 'टीवी', 'खुले कपाट के दरवाजे वाला टेलीविजन']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है?\
+	['सफेद', 'सफेद', 'सफेद', 'सफेद', 'बेज', 'सफेद', 'हाथी का हाथ', 'उत्तर नहीं दिया जा सकता', 'बेज', 'उत्तर नहीं दिया जा सकता']	सफ़ेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['यह खाद्य पदार्थ', 'रवीओली', 'रवीओली', 'रवीओली', 'रवीओली', 'शेफ बॉयर्डी मिनी राविओली', 'डिब्बाबंद मिनी राविओली', 'रवीओली', 'शेफ बोया मिनी राविओली', 'मिनी राविओली']	अन्य पदार्थों के साथ मिश्रित रैव
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'पारंपरिक भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'पारंपरिक भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस']	पारंपरिक रोटी काउंटर पर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या उत्पाद है?\
+	['आहार पेप्सी', 'कैफीन मुक्त आहार पेप्सी', 'पेप्सी', 'पेप्सी', 'आहार पेप्सी', 'आहार पेप्सी', 'आहार पेप्सी', 'आहार कैफीन मुक्त पेप्सी', 'आहार पेप्सी', 'आहार पेप्सी']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इसे क्या कहा जाता है?\
+	['पूर्वी', 'बीन्स', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'भोजन', 'बीन्स', 'पथ मिश्रण', 'अनाज', 'नट्स', 'बैग मूंगफली']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह नियमित या कैफीन रहित कॉफी है?\
+	['नियमित', 'उत्तर नहीं दिया जा सकता', 'नियमित', 'नियमित', 'नियमित', 'नियमित', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नियमित', 'नियमित']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मकरौनी पनीर', 'मकरौनी पनीर', 'मकरौनी पनीर', 'मकरौनी पनीर', 'मकरौनी पनीर', 'मैक चीज़', 'मकरौनी पनीर', 'मकरौनी पनीर', 'मकरौनी पनीर', 'मकरौनी पनीर']	भोजन की एक तस्वीर नहीं है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बोतल में क्या है?\
+	['नरम करने वाला लोशन', 'लोशन', 'लोशन', 'लोशन', 'नरम करने वाली क्रीम', 'लोशन', 'मॉइस्चराइज़र', 'शरीर क्रीम', 'गहरी नमी से शरीर धोना', 'शरीर धोना']	बॉडी वॉश
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बात है?\
+	['डेस्क कुर्सी', 'कुर्सी', 'कुर्सी', 'कार्यालय की कुर्सी', 'कार्यालय की कुर्सी', 'यह कार्यालय कुर्सी', 'कुर्सी', 'डेस्क कुर्सी', 'कुर्सी', 'ग्रे कार्यालय कुर्सी']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. उस वस्तु का क्या नाम था जो मैंने अभी फोटो खींची थी?\
+	['कंप्यूटर मॉनिटर', 'कम्प्यूटर', 'कंप्यूटर स्क्रीन', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'लैपटॉप', 'कंप्यूटर स्क्रीन', 'लैपटॉप', 'कंप्यूटर मॉनिटर', 'लैपटॉप कंप्यूटर']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मुझे बताओ कि यह क्या है.\
+	['सूअर का मांस', 'मांस', 'किसी प्रकार का लाल मांस', 'पैक मांस', 'सूअर का मांस', 'सूअर का मांस', 'उत्तर नहीं दिया जा सकता', 'मांस', 'फग', 'सूअर का मांस']	meat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस तस्वीर में आकाश कैसा दिखता है?\
+	['बादल वाला दिन', 'आंशिक रूप से बादल', 'बादल', 'बादल', 'बादल', 'बादल', 'बादल', 'बादल', 'बादल', 'वर्षा']	अंधेरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का भोजन है? यह समय खत्म होने का इंतजार कर रहा है?\
+	['उत्तर नहीं दिया जा सकता', 'स्पागेटी', 'स्पागेटी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'स्पागेटी', 'स्पागेटी', 'स्प्रिन्टे', 'रात्रिभोज', 'पिज्जा']	noodles
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['फूल', 'फूल', 'फूल', 'फूल', 'फूल', 'फूल', 'पौधे', 'फूल', 'फूल', 'इरिस']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['ढीली चाय', 'चाय', 'उत्तर नहीं दिया जा सकता', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय', 'चाय']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ये शॉर्ट्स किस रंग और पैटर्न के हैं?\
+	['रगड़', 'रंगीन नीला पीला', 'नीला नारंगी हरा', 'नीला भूरा सफेद पेड', 'ऊपर नीली चादर नीचे पीली चादर', 'बहुरंगी', 'नीला भूरा सफेद रंग का पेड', 'रगड़', 'नीली चादर', 'नीली सफेद हरी पीली चादर']	नीला सफेद पीला हरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या रंग था मामला?\
+	['हरी', 'हरी', 'नीम का हरा', 'केस हरा रंग', 'हरी', 'हरी', 'हरी', 'हरी', 'उज्ज्वल हरा', 'हरी']	हरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह एक साधारण कोका या एक आहार कोका है?\
+	['आहार कोक', 'आहार', 'आहार', 'आहार', 'आहार', 'आहार', 'आहार कोक', 'आहार', 'आहार कोक', 'आहार']	आहार कोका
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पेन', 'कीबोर्ड पेन', 'पेन', 'पेन', 'पेन', 'पेन', 'पेन', 'पेन', 'पेन', 'द्वि पेन']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['दीपक के डिब्बे के छल्ले', 'दीपक', 'दीपक', 'दीपक', 'सीडी दीपक के बगल में प्रिंगल कैन', 'छाया रहित दीपक', 'दीपक', 'टेबल प्रिंगल्स लैंप मुंह धोने की मशीन', 'दीपक', 'दीपक']	असफल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कंप्यूटर क्या कर रहा है?\
+	['जाँच प्रणाली', 'उत्तर नहीं दिया जा सकता', 'डिस्क जाँच', 'जाँच डिस्क', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'लोड करना', 'विन्यास करना', 'स्थिरता की जाँच', 'पुनः आरंभ करना']	नोटबुक
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का सोडा है?\
+	['आहार कोक', 'घना', 'आहार कोक', 'आहार कोक', 'आहार कोक', 'आहार कोक', 'आहार कोक', 'आहार कोक नींबू', 'आहार कोक', 'आहार कोक']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया मुझे इस पुस्तक का विषय बताएं\
+	['क्लिव कुसलर डर्क कुसलर', 'उत्तर नहीं दिया जा सकता', 'क्लिव कुसलर डर्क कुसलर', 'क्लिव कुसलर डर्क कुसलर', 'विज्ञान', 'संकोच', 'ओलिव कुसलर डर्क कुसलर', 'क्रिया', 'उत्तर नहीं दिया जा सकता', 'क्लाईव कौसलर']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह की शराब है?\
+	['उत्तर नहीं दिया जा सकता', 'शादी का जश्न मना रहे हैं डेविड एम्मा रेड वाइन', 'नश', 'नश', 'नश', 'नश', 'नश', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नश वाइन']	rose
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['दही', 'उत्तर नहीं दिया जा सकता', 'दही', 'दही', 'दही', 'दही', 'दही', 'दही', 'दही', 'दही']	अन्य language में नहीं
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस पुस्तक का शीर्षक क्या है?\
+	['कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'उत्तर नहीं दिया जा सकता', 'कुत्ता वर्ष', 'उत्तर नहीं दिया जा सकता', 'कुत्ता वर्ष', 'कुत्ता वर्ष', 'कुत्ता वर्ष']	कुछ years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['सोनी लैपटॉप', 'लैपटॉप', 'लैपटॉप', 'कम्प्यूटर', 'लैपटॉप', 'सोनी वैयो लैपटॉप', 'लैपटॉप', 'सोनी वैयो', 'सोनी लैपटॉप', 'लैपटॉप']	अन्य कंप्यूटर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मुझे आश्चर्य है कि इस कंप्यूटर का ब्रांड क्या है।\
+	['सोनी', 'सोनी', 'सोनी', 'सोनी', 'सोनी', 'सोनी', 'सोनी', 'सोनी', 'सोनी', 'सोनी']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह क्या है? क्या यह टमाटर है? या एनचिलाडा सॉस?\
+	['युद्ध', 'पीछे का लेबल यह नहीं कहता है', 'उत्तर नहीं दिया जा सकता', 'टमाटर', 'टमाटर', 'टमाटर', 'उत्तर नहीं दिया जा सकता', 'टमाटर', 'अस्पष्ट छवि', 'टमाटर']	टमाटर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पुडिंग', 'पुडिंग स्नैक्स', 'वनिला पुडिंग', 'पुडिंग', 'वनिला पुडिंग', 'पुडिंग', '6 पैक स्नैक्स पैक वेनिला पुडिंग', 'पुडिंग कप', 'पुडिंग', 'स्नैक पैक पुडिंग']	पृष्ठभूमि में पेस्ट्री के साथ पuddling का एक पैकेट
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['20 डॉलर का कनाडाई नोट', '20 डॉलर का कनाडाई नोट', '20 कनाडाई', 'धन', 'पैसा दाढ़ी पर', '20 का बिल', 'मोनेऊ', '20 डॉलर का कनाडाई नोट', '२० डॉलर', 'धन']	20 डॉलर का नोट
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['लसगनी', 'लसगनी', 'विशेष लासगनी', 'लसगनी', 'विशेष लासगना', 'विशेष लासगनी', 'लस्जनी', 'लसगनी', 'लसगनिया', 'लसगनी']	विभिन्न प्रकार के भोजन
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह की कॉफी है?\
+	['एस्प्रेसो', 'एस्प्रेसो', 'टिमोथी एक्सप्रेसो', 'वर्षावन एस्प्रो', 'वर्षा वन एस्प्रेसो', 'एस्प्रेसो', 'अतिरिक्त बोल्ड', 'एस्प्रेसो फोर्ट उष्णकटिबंधीय', 'अति बोल्ड एस्प्रेसो फॉर ट्रॉपिकल', 'टिमोथी']	timothy's
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या तस्वीर है?\
+	['कीबोर्ड वाइन गिलास', 'लैपटॉप', 'लैपटॉप कीबोर्ड शराब बीयर', 'उत्तर नहीं दिया जा सकता', 'कम्प्यूटर', 'कम्प्यूटर', 'लैपटॉप पेय', 'शीशे के तरल के बगल में डेस्क पर लैपटॉप कंप्यूटर', 'लैपटॉप कांच', 'शीशा का लैपटॉप']	लैपटॉप
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['शीर्षक पुस्तक', 'पुस्तक', 'पंचांग', 'नोट', 'राक्षस रम आसान पैसा किताब', 'दानव रम आसान पैसाः ब्रिटिश कोलंबिया में शराब पर सरकार का नियंत्रण', 'पुस्तक', 'पुस्तक', 'शीर्षक पृष्ठ पुस्तक', 'पंचांग']	अन्य संदेश
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेज पर क्या था?\
+	['नोटबुक', 'नोटबुक पेन अन्य कागज', 'सर्पिल रिंग वाला नोटबुक', 'कागज का कलम', 'नोटबुक', 'नोटबुक कलम', 'नोटबुक', 'नोटबुक कलम', 'कागज का कलम', 'नोटबुक']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह शर्ट किस रंग की है?\
+	['नीली सफेद चादर', 'नीला सफेद', 'नीली सफेद चादर', 'नीला सफेद', 'नीला', 'नीला सफेद', 'रंगीन नीला सफेद', 'नीली चादर', 'नीला', 'नीला']	नीला सफेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['आंद्रे चार्डोने', 'शैंपेन', 'अंद्रे', 'शैंपेन', 'शराब', 'शैंपेन', 'शैंपेन', 'शैंपेन', 'बोतल शैंपेन', 'शैंपेन']	अन्य
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. चित्र में डिब्बे में उत्पाद का नाम क्या है?\
+	['लिसोल', 'लिसोल', 'लिसोल', 'लिसोल', 'लिसोल', 'लिसोल', 'लिसोल', 'लिसोल', 'लिसोल', 'लिसोल']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह की कॉफी है?\
+	['ग्वालिया', 'अधिकतम ग्वालिया कॉफी', 'अधिकतम', 'ग्वालिया एस्प्रेसो', 'अधिकतम', 'काली कॉफी', 'अधिकतम', 'उत्तर नहीं दिया जा सकता', 'ग्वालिया', 'ग्वालिया']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मिर्च', 'पीपर सोडा', 'मिर्च', 'मिर्च', 'मिर्च', 'मिर्च', 'पीपर सोडा', 'मिर्च', 'पीपर सोडा', 'मिर्च']	अन्य पदार्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह क्या है, कृपया, धन्यवाद?\
+	['तत्काल कॉफी', 'तत्काल कॉफी', 'क्लासिक कॉफी', 'कॉफी पैकेट', 'उत्तर नहीं दिया जा सकता', 'कफी', 'कफी', 'कफी पाउडर', 'कफी', 'नेस्काफे क्लासिक']	कॉफी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. बाएं से दाएं तीन तारों का रंग क्या है?\
+	['लाल काला सफेद', 'लाल काला सफेद', 'लाल काला टैन', 'लाल काला सफेद', 'लाल काला सफेद', 'लाल काला सफेद', 'लाल काला सफेद', 'लाल काला सफेद', 'लाल नीला सफेद', 'लाल काला सफेद']	लाल, काला और सफेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह गर्भावस्था परीक्षण क्या दिखाता है?\
+	['1 पंक्ति', 'नकारात्मक', 'नकारात्मक', 'एक पंक्ति लेकिन रंग फैलाने के लिए एक और कोशिश करो', 'उत्तर नहीं दिया जा सकता', '1 पट्टी', 'कोई छवि नहीं', 'लाल रेखा', 'उत्तर नहीं दिया जा सकता', 'नीला चिह्न लाल चिह्न']	असफल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस मसाले का नाम क्या है?\
+	['श्रीमती ताजा नींबू मिर्च मिश्रण', 'ध्रुव', 'श्रीमती डैश', 'श्रीमती डैश नींबू मिर्च', 'श्रीमती डैश', 'श्रीमती डैश', 'मिर्च', 'श्रीमती डैश', 'श्रीमती डैश', 'श्रीमती डैश']	मसालों का मिश्रण
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. हाय. मेरे दाहिने हाथ में बोतल में किस तरह का पेय है? धन्यवाद.\
+	['पेप्सी', 'पेप्सी सोडा', 'आहार पेप्सी', 'आहार पेप्सी', 'आहार पेप्सी', 'पेप्सी', 'आहार पेप्सी', 'पेप्सी आहार', 'आहार पेप्सी', 'आहार पेप्सी']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['वीडियो गेम', 'वीडियो गेम', 'बास्केटबॉल खेल', 'वीडियो गेम', 'उत्तर नहीं दिया जा सकता', 'डीवीडी', 'उत्तर नहीं दिया जा सकता', 'खेल', 'वीडियो गेम', 'डीवीडी']	अन्य जानकारी की need है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कच्ची मिर्च', 'कच्ची मिर्च', 'हेनज़ टमाटर केचप', 'केचप पैकेट', 'केचप पैक', 'कच्ची मिर्च', 'कच्ची मिर्च', 'केचप पैकेट', 'कच्ची मिर्च', 'कच्ची मिर्च']	केचप
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस शर्ट में क्या रंग हैं?\
+	['लाल सफेद', 'कढ़ाई', 'लाल सफेद', 'लाल सफेद धारी', 'लाल सफेद धारी', 'लाल सफेद', 'लाल सफेद', 'लाल सफेद', 'लाल सफेद', 'लाल सफेद']	लाल सफेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस पैकेज में क्या है?\
+	['संसद चित्र', 'संगीत एल्बम', 'सिगरेट', 'सिगरेट', 'सिगरेट', 'सिगरेट', 'पिरहमेंट रिसेस्ड फिल्टर', 'संसद सिगरेट', 'कार्ड', 'सिगरेट']	पार्लमेंट सिगरेट
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह चटाई किस रंग की है?\
+	['बैंगनी', 'बैंगनी', 'बैंगनी', 'बैंगनी', 'बैंगनी', 'बैंगनी', 'बैंगनी', 'बैंगनी', 'बैंगनी', 'बैंगनी']	बैंगनी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या उस तस्वीर में संवाद अधिक दिखाई देता है?\
+	['ऊब गया', 'हाँ', 'नहीं', 'हाँ', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'हाँ']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या उत्पाद है?\
+	['हरी बीन्स', 'हरी बीन्स', 'हरी बीन्स', 'कर सकते हैं', 'बीन्स', 'मटर', 'उत्तर नहीं दिया जा सकता', 'हरी बीन्स', 'फग', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['सूअर का मांस', 'सूअर का मांस', 'सूअर का मांस और बीन्स', 'सूअर का मांस', 'सूअर का मांस', 'सूअर का मांस', 'सूअर का मांस', 'सूअर का मांस', 'सूअर का मांस', 'सूअर का मांस']	पोर्क बीन्स का डिब्बा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या शराब है?\
+	['उत्तर नहीं दिया जा सकता', 'अफ़साना', 'विंटेज 2008 उत्पाद नैश', 'नश', 'नश', 'शादी का स्मृति चिन्ह', 'नैश शादी का जश्न मना रहे हैं डेविड एम्मा 16 जुलाई 2011', 'नश', 'नश', 'उत्सव विवाह']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का भोजन है?\
+	['टमाटर की सॉस', 'टमाटर की सॉस', 'जैविक टमाटर की सॉस', 'टमाटर की सॉस', 'टमाटर की सॉस', 'टमाटर की सॉस', 'मयूर ग्लेन जैविक टमाटर सॉस', 'टमाटर की सॉस', 'मयूर ग्लेन जैविक टमाटर सॉस', 'टोमोटो']	टमाटर सॉस
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का स्वाद है?\
+	['स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी', 'स्ट्रॉबेरी']	स्ट्रॉबेरी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह किस रंग का है? यह किस रंग का है कृपया?\
+	['काला', 'काला', 'काला', 'काला', 'काला', 'काला', 'काला', 'काला', 'काला', 'काला']	काला
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पौधा', 'सजावटी पौधा', 'अलोई', 'घर का पौधा', 'घर का पौधा', 'घर का पौधा', 'पौधा', 'घर का पौधा', 'पौधा', 'घास का पौधा']	पौधा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पत्रिका', 'कॉमिक्स', 'कॉमिक्स', 'वयस्क बोर्ड गेम', 'पत्रिका', 'रंगीन पुस्तक', 'अजीब क्रिसमस पुस्तक', 'मुझे यकीन नहीं है कि मैं उस भाषा को नहीं पढ़ सकता', 'क्रिसमस ग्रीटिंग कार्ड', 'कॉमिक']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['चिकन डिजोन रात्रिभोज', 'भोजन', 'चिकन डिजोन', 'चिकन डिजोन', 'चिकन डिजोन', 'भोजन', 'चिकन डिजोन', 'मुर्गी', 'चिकन डिजोन', 'चिकन डिजोन']	चिकन डिजॉन
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कैसी कॉफी है?\
+	['ग्वालिया', 'ग्वालिया', 'फ्रेंच वेनिला', 'फ्रेंच वेनिला', 'ग्वालिया', 'ग्वालिया', 'फ्रेंच वेनिला', 'फ्रेंच वेनिला', 'फ्रांसीसी', 'वेजिया फ्रांसीसी वेनिला']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह वस्तु क्या है?\
+	['आईफोन', 'फोन', 'फोन', 'आईफोन', 'मोबाइल फोन', 'मोबाइल फोन', 'मोबाइल फोन', 'मैं फोन करता हूँ', 'स्मार्टफ़ोन', 'स्मार्टफ़ोन']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'सिगरेट', 'पैक सिगरेट', 'सिगरेट', 'पैक सिगरेट', 'सिगरेट', 'सिगरेट', 'उत्तर नहीं दिया जा सकता', 'सिगरेट', 'सिगरेट']	अन्य language
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का स्वाद है?\
+	['गोमांस', 'गोमांस के स्वाद वाले', 'गोमांस', 'गोमांस के स्वाद वाला सूप', 'गोमांस', 'गोमांस का स्वाद', 'गोमांस के स्वाद वाला सूप', 'गोमांस', 'यह गोमांस का स्वाद', 'गोमांस']	बछड़ा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['बड़ा कप', 'कप', 'कप', 'कप', 'टोगो कप प्यार करता है', 'कप', 'पॉप कप कुछ अन्य सामान', 'स्टायरोफेन कप', 'कप', 'यह कप']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह आहार पेप्सी या नियमित पेप्सी है?\
+	['आहार पेप्सी', 'आहार', 'उत्तर नहीं दिया जा सकता', 'आहार', 'आहार पेप्सी', 'आहार', 'आहार', 'आहार', 'आहार पेप्सी', 'आहार']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन क्या कहती है?\
+	['अवास्ट सॉफ्टवेयर', 'स्थानीय ड्राइव स्कैन करना', 'खिड़कियाँ', 'त्रुटि संदेश', 'स्कैन करना', 'अवास्ट सॉफ्टवेयर विंडोज एक्सपी स्कैन', 'खिड़कियाँ', 'उत्तर नहीं दिया जा सकता', 'विंडोज एक्सपी', 'उत्तर नहीं दिया जा सकता']	अन्य जानकारी प्रदान की जा रही है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया बताओ कि मैं किस स्क्रीन पर हूँ? मैं बूट मेनू तक पहुँचने की कोशिश कर रहा हूँ और मैं एक यूएसबी ड्राइव से बूट करने की कोशिश कर रहा हूँ. देखें कि क्या आप मुझे बता सकते हैं कि कौन सी स्क्रीन ऊपर है और क्या विकल्प है?\
+	['नीचे तीर एक बार दबाएँ और फिर USB के लिए दर्ज करें', 'एचडीडी विकल्प से बूट पर बूट मेनू', 'उत्तर नहीं दिया जा सकता', 'बूटमूड', 'कृपया बूट डिवाइस चुनें', 'कृपया बूट डिवाइस चुनेंः', 'कृपया बूट डिवाइस hdd: pm st9250315as चुनें', 'कृपया बूट डिवाइस चुनें', 'स्क्रीन हेडरः कृपया बूट डिवाइस का चयन करें', 'कृपया बूट डिवाइस चुनें']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह किस स्वाद का है?\
+	['आहार पीपर', 'आहार पीपर', 'पीपर आहार', 'मिर्च', 'आहार पीपर', 'आहार पीपर', 'आहार पीपर', 'कोला', 'आहार पीपर', 'आहार पीपर']	डिर्ट
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का सूप है?\
+	['सब्जी सूप', 'प्रगति', 'प्रगतिशील', 'उत्तर नहीं दिया जा सकता', 'प्रगतिकारी', 'उत्तर नहीं दिया जा सकता', 'सब्जियां', 'प्रगतिकारी', 'सब्जी', 'प्रगति']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह किस तरह की कार है?\
+	['उत्तर नहीं दिया जा सकता', 'लिंकन क्राउन विक्टोरिया', 'किसी प्रकार का 4 दरवाज़ा सेडान', 'लिंकन', 'फोर्ड क्राउन विक्टोरिया', 'लिंकन', 'शेवरलेट', 'मुकुट विक्टोरिया', 'उत्तर नहीं दिया जा सकता', 'फोरड']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कॉफी है?\
+	['ग्वालिया', 'ग्वालिया', 'ग्वालिया', 'वेजिया स्विस हेज़लन्यूट', 'ग्वालिया', 'ग्वालिया', 'ग्वालिया', 'ग्वालिया', 'ग्वालिया', 'ग्वालिया']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'हाथों का सैनिटाइज़र', 'जर्मक्स', 'कीटाणु एक्स हाथ कीटाणुनाशक', 'कीटाणु एक्स हाथ कीटाणुनाशक']	हाथ की सफाई की सहायकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['सूप', 'फल', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सूप', 'उत्तर नहीं दिया जा सकता', 'सूप', 'उत्तर नहीं दिया जा सकता', 'दराज', 'सूप']	अन्य जानकारी की need
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है?\
+	['भूरा', 'भूरा', 'भूरा', 'ओख काली', 'भूरा', 'भूरा मेपल', 'लकड़ी का', 'भूरा', 'भूरा', 'भूरा']	हल्का भूरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'हाथ', 'हाथ', 'उत्तर नहीं दिया जा सकता', 'हाथ', 'हाथ', '1 दाहिना हाथ', 'हाथ', 'हाथ', 'हाथ']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कूक पॉट सेटिंग क्या है?\
+	['कप', 'उच्च', 'उच्च', 'उच्च', 'उच्च', 'उच्च', 'कम', 'उच्च', 'उच्च', 'उच्च']	low
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह क्या है?\
+	['अंधे के लिए वस्तुएँ', 'सीडी', 'रिवर्स सीडी', 'अंधेरे डिस्क के लिए उत्पाद', 'सीडी', 'डिस्क', 'सीडी पर पुस्तक', 'सीडी', 'अंधे के लिए सीडी लेख', 'जेम्स हर्बर्ट डीवीडी द्वारा भाला']	सामान्य रूप से
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कंप्यूटर मॉनिटर कीबोर्ड', 'निगरानी', 'कंप्यूटर मॉनिटर', 'कंप्यूटर स्क्रीन', 'कम्प्यूटर', 'कंप्यूटर मॉनिटर', 'कंप्यूटर स्क्रीन', 'डेस्कटॉप', 'ग्राफ', 'ग्राफ']	अन्य जानकारी की जरूरत है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि इस बोतल में क्या लिखा है?\
+	['गर्म वेनिला चीनी', 'शर्करा', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी शरीर लोशन', 'गर्म वनिला चीनी', 'गर्म वेनिला चीनी शरीर लोशन', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी शरीर लोशन', 'गर्म वेनिला चीनी']	वार्म वनिला चीनी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन पर क्या है?\
+	['विंडोज स्थापना स्क्रीन', 'उत्तर नहीं दिया जा सकता', 'खिड़कियाँ लगाना', 'विंडोज स्थिति स्क्रीन स्थापित करना', 'विंडोज़ स्थापित करें', 'खिड़कियाँ लगाना', 'खिड़कियों की स्थापना के लिए निर्देश', 'खिड़कियों की स्थापना की प्रगति', 'विंडोज सूचना स्थापित करना', 'खिड़कियाँ']	अन्य चरणों के साथ स्थापित होने की प्रक्रिया
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कर सकते हैं', 'कर सकते हैं', 'उत्तर नहीं दिया जा सकता', 'कैन बीन्स', 'कर सकते हैं', 'बीन्स', 'उत्तर नहीं दिया जा सकता', 'बीन्स', 'पका हुआ', 'पका हुआ']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का पेय है?\
+	['नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी', 'नारंगी का रस']	नारंगी रस
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में किस तरह का पॉप है?\
+	['चाय', 'नस्टिया', 'नींबू', 'बर्फ वाली चाय', 'नस्टिया', 'नस्टिया', 'नस्टिया', 'बर्फ वाली चाय', 'नस्टल आइस टी', 'घोंसला']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह एक पेपरोनी पिज्जा है, पेपरोनी और सॉसेज, सर्वोच्च, किस तरह का?\
+	['पपीता', 'पपीता', 'पपीता', 'पपीता', 'पपीता', 'पपीता', 'हाँ', 'पपीता', 'माँ कोज़िस पेपरोनी पतली परत', 'पपीता']	पेपरोनी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आपको पता है कि बीच में कौन सा पौधा है?\
+	['नहीं', 'घास', 'घास', 'घास', 'घास', 'घास', 'नहीं', 'नहीं', 'घास', 'कुल्हाड़ी']	घास
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['चश्मा', 'चश्मा', 'चश्मा', 'चश्मा', 'चश्मा जोड़ी', 'चश्मा', 'चश्मा जोड़ी', 'चश्मा', 'चश्मा', 'चश्मा जोड़ी']	अन्य जानकारी की need
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस जगह का वर्णन करें।\
+	['कार्यालय', 'कार्यालय क्षेत्र', 'कार्यालय', 'कार्यालय 2 डेस्क कैबिनेट 2 कुर्सियां', 'कार्यालय', 'कार्यालय', 'डेस्क काले कार्यालय की कुर्सियां', 'कार्यालय डेस्क', 'कार्यालय 2 डेस्क', 'कार्यालय']	अन्य कमरे में
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['नोटबुक', 'योजनाकार', 'पुस्तक', 'पुस्तक', 'कार्ड', 'नोटबुक', 'योजनाकार', 'नोटबुक', 'लिली पुलित्जर एजेंडा सर्पिल', 'नोटबुक']	अन्य जानकारी की जरूरत है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['टेडी बियर गुलाब', 'टेडी बियर', 'टेडी बियर', 'टेडी बियर', 'टेडी बियर', 'टेडी बियर', 'भालू', 'टेडी बियर', 'टेडी बियर', 'टेडी बियर']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का मसाला है?\
+	['प्याज समुद्री नमक', 'प्याज समुद्री नमक', 'प्याज समुद्री नमक', 'प्याज समुद्री नमक', 'समुद्री नमक', 'प्याज का नमक', 'प्याज समुद्री नमक', 'प्याज समुद्री नमक', 'प्याज समुद्री नमक', 'प्याज समुद्री नमक']	समुद्र का नमक प्याज और समुद्र का नमक
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में क्या है?\
+	['आहार पीपर', 'आहार पीपर', 'आहार पीपर', 'आहार पीपर', 'मिर्च', 'आहार पीपर', 'आहार पीपर', 'आहार पीपर', 'पीपर आहार', 'आहार पीपर']	डिेट ड्रिंक
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस कप पर क्या चित्र है?\
+	['कार्टून', 'कार्टून पात्र', 'कार्टून', 'पक्षी को देखने वाला आदमी', 'आदमी मुर्गी', 'आदमी', 'कार्टून मैन', 'स्केच पक्षी मनुष्य पेड़ चंद्रमा', 'व्यक्ति पशु', 'कार्टून']	कुछ पक्षी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['व्यक्ति वापस', 'लड़का', 'पुरुष का सिर', 'व्यक्ति', 'किसी के सिर के पीछे कंधे', 'पीछे आदमी', 'उत्तर नहीं दिया जा सकता', 'ग्रे शर्ट', 'लड़का', 'चित्र पीछे व्यक्ति']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['वक्ता', 'वक्ता', 'दीवार पर स्पीकर', 'वक्ता', 'वक्ता', 'वक्ता', 'दीवार स्पीकर', 'वक्ता', 'बिल्ली का घुड़सवार', 'वक्ता']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यहाँ क्या लिखा है?\
+	['टैक्सी का फ़ोन नंबर', 'कुछ नहीं', 'कुछ नहीं', 'टेलीफोन', 'नगर टैक्सी', 'प्राप्ति', 'उत्तर नहीं दिया जा सकता', 'रसीद की तरह लग रहा है', 'पंक्तियाँ', 'शहर टैक्सी']	अन्य जानकारी के साथ इस छवि को देखने के लिए
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['न्यू ऑरलियन्स शैली जंबलया मिश्रण', 'जंबलया मिश्रण', 'जंबलया मिश्रण', 'चावल', 'जंबलया', 'जंबलया मिश्रण', 'जंबलया मिश्रण', 'जंबलया चावल', 'न्यू ऑरलियन्स शैली के जंबलया चावल के लिए तैयार मिश्रण बॉक्स', 'जंबलया मिश्रण']	अन्य जानकारी की need है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरा मैक किस रंग का है?\
+	['चांदी', 'सफेद', 'बेज काली', 'सफेद', 'चांदी', 'चांदी', 'चांदी', 'चांदी', 'सफेद', 'चांदी']	सफ़ेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. डिब्बे में क्या है?\
+	['जैविक बेक्ड बीन्स', 'बेक्ड बीन्स', 'जैविक बेक्ड बीन्स', 'बेक्ड बीन्स', 'बेक्ड बीन्स', 'बेक्ड बीन्स', 'बेक्ड बीन्स', 'बेक्ड बीन्स', 'बेक्ड बीन्स', 'बेक्ड बीन्स']	बेकड बीन
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['मकरौनी पनीर', 'उत्तर नहीं दिया जा सकता', 'मकरौनी पनीर', '3 पनीर मकरौनी', 'मकरौनी पनीर', 'मैक चीज़', 'मकरौनी पनीर', 'रात्रिभोज', 'मैक एन चीज़', 'पनीर के छिलके']	माक और पनीर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['ज़ाताराइन न्यू ऑरलियन्स शैली जंबलया मिश्रण', 'जंबलया मिश्रण', 'जंबलया मिश्रण', 'जंबलया मिश्रण', 'जंबलया मिश्रण', 'चावल', 'जंबलाया मिश्रण', 'जंबलया', 'जंबलाया मिश्रण', 'जंबलया मिश्रण']	अन्य संकेतों के साथ इस बॉक्स का सामना करना पड़ता है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['गुणवत्तापूर्ण सड़क मिठाई', 'बक्सा मिठाई', 'मिठाई', 'मिठाई', 'कठोर मिठाई', 'मिठाई', 'मिठाई', 'मिठाई', 'गुणवत्ता सड़क', 'मिठाई']	अन्य संकेतों के साथ इस पैकेट का सामना करना पड़ता है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्षमा करें, मुझे बताओ कि आप इस तस्वीर में क्या देख सकते हैं।\
+	['फ्रिज', 'रेफ्रिजरेटर', 'फ्रिज', 'छोटे रेफ्रिजरेटर के लिए पट्टा ट्रे प्रकाश टाइलें दीवार संभाल स्टिकर रेफ्रिजरेटर पर', 'फ्रिज', 'मिनी फ्रिज', 'मिनी फ्रिज', 'कैबिनेट दरवाजे', 'सफेद फ्रिज', 'फ्रिज']	फ्रिज
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि बॉक्स में क्या लिखा है?\
+	['प्यारे पोते-पोती', 'कुछ सुंदर पोते-पोतियों के बारे में', 'मनमोहक', 'पोते से ज्यादा सुखद कुछ नहीं है', 'कुछ चीजें आपकी गोद में लड़ने वाले पोते से अधिक सुखद हैं', 'प्यारे पोते-पोती', 'प्यारे पोते-पोती', 'कुछ चीजें आपकी गोद में लड़ने वाले पोते से अधिक सुखद हैं', 'उत्तर नहीं दिया जा सकता', 'प्यारे पोते-पोती']	अन्य बातें
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. आकाश कैसा दिखता है?\
+	['साफ', 'सूर्यास्त सूर्योदय', 'नीला', 'सन्ध्या', 'नीला', 'साफ', 'साफ', 'शांत', 'नीला', 'नीला हल्का नीला निकट क्षितिज']	नीला
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह शर्ट किस रंग की है?\
+	['कंगना', 'भूरा', 'कंगना', 'बेज', 'बेज', 'गुलाबी', 'भूरा', 'कंगना', 'स्वर्ण', 'ग्रे रंग']	गुलाबी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. वह लड़का है या लड़की?\
+	['उत्तर नहीं दिया जा सकता', 'लड़का', 'लड़का', 'लड़की', 'लड़का', 'लड़का', 'लड़का', 'लड़का', 'लड़का', 'लड़का']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया क्या आप मुझे बता सकते हैं कि यह क्या वस्तु है?\
+	['अनाज', 'चिरीओस', 'अनाज', 'चिरीओस', 'उत्तर नहीं दिया जा सकता', 'अनाज', 'मधुमक्खी', 'अब और भी स्वादिष्ट है मधु', 'मधु', 'मधु']	honey nut cheerios
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है?\
+	['रंगीन लाल पीला सफेद नीला', 'रगड़', 'हरे नीले सफेद लाल रंग का पेड', 'बहुरंगी', 'पलकें', 'रगड़', 'नीला हरा सफेद लाल', 'रगड़', 'नीली सफेद हरी रंगे', 'नीला हरा लाल सफेद']	नीला हरा सफेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['गर्म काको', 'गर्म कोको मिश्रण', 'गर्म कोको मिश्रण', 'गर्म कोको मिश्रण', 'कोको मिश्रण', 'गर्म काको', 'गर्म चॉकलेट', 'गर्म चॉकलेट मिश्रण', 'गर्म चॉकलेट का पैकेट', 'गर्म चॉकलेट']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'हैम्स विशेष प्रकाश बीयर', 'बीयर', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'बीयर', 'बीयर', 'बीयर', 'बीयर', 'विशेष प्रकाश']	बियर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह चिकन या अजवाइन है?\
+	['टमाटर', 'टमाटर', 'टमाटर', 'टमाटर', 'नहीं', 'टमाटर', 'टमाटर का सूप', 'टमाटर', 'टमाटर', 'नहीं']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['मैकबुक प्रो', 'मैकबुक प्रो', 'मैक बुक प्रो', 'मैकबुक प्रो', 'मैक बुक प्रो', 'मैकबुक प्रो', 'मैकबुक प्रो', 'एयर बुक प्रो', 'मैकबुकप्रो', 'मैकबुक प्रो']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं जानना चाहता हूँ कि इस डिब्बे में क्या है\
+	['बेक्ड बीन्स', 'बेक्ड बीन्स', 'बीन्स', 'टमाटर की सॉस में बेक्ड बीन्स', 'किसान लड़की बेक्ड बीन्स', 'बेक्ड बीन्स', 'बेक्ड बीन्स', 'बीन्स', 'बेक्ड बीन्स', 'बीन्स']	बेकड बीन्स
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मुर्गी', 'उत्तर नहीं दिया जा सकता', 'क्रीमदार पार्मेसन चिकन', 'भोजन', 'टीवी रात्रिभोज', 'भोजन', 'मैक चीज़', 'भोजन', 'मैरी कोलेंडर का भोजन', 'क्रीमदार पार्मेसन चिकन']	अन्य जानकारी की need
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['डॉलर का नोट', '1 डॉलर का नोट', 'डॉलर', '1 डॉलर का नोट', '1', '1 डॉलर का नोट', 'डॉलर का नोट', '$1 का बिल', '1 डॉलर का नोट', '1 अमेरिकी डॉलर का नोट']	अन्य language
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['खेलते हुए कार्ड', '2 राजा', 'जोड़ी राजा', 'खेलते हुए कार्ड', 'कार्ड', 'कार्ड', 'खेलते हुए कार्ड', 'जोड़ी', 'कार्ड', 'खेलते हुए कार्ड']	असफल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह काला है या नीला?\
+	['उत्तर नहीं दिया जा सकता', 'काला', 'काला', 'काला', 'काला', 'काला', 'काला', 'ग्रे', 'काला ग्रे', 'काला']	grey
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन पर क्या लिखा है?\
+	['गूगल खोज पाठ बॉक्स', 'गूगल', 'गूगल', 'गूगल गूगल खोज मैं भाग्यशाली महसूस कर रहा हूँ', 'गूगल', 'गूगल खोज', 'उत्तर नहीं दिया जा सकता', 'गूगल', 'गूगल', 'उत्तर नहीं दिया जा सकता']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भोजन', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'भुना हुआ गोमांस', 'पारंपरिक भुना हुआ गोमांस', 'पारंपरिक भुना हुआ गोमांस']	पारंपरिक चावल के साथ चावल का सलाद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का सोडा है?\
+	['मिर्च', 'मिर्च', 'मिर्च', 'मिर्च', 'मिर्च', 'मिर्च', 'मिर्च', 'मिर्च', 'मिर्च', 'मिर्च']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['दूरबीन', 'दूरस्थ नियंत्रण', 'दूरस्थ नियंत्रण', 'दूरस्थ', 'दूरस्थ नियंत्रण', 'दूरस्थ', 'दूरस्थ नियंत्रण', 'दूरस्थ नियंत्रण', 'दूरस्थ', 'दूरस्थ नियंत्रण']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['घर का पौधा', 'पौधा', 'घर का पौधा', 'पौधा', 'पौधा', 'पौधा', 'पौधा', 'बर्तन में रखा हुआ पौधा', 'पौधा', 'घर का पौधा']	पौधा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['डेस्क', 'कम्प्यूटर', 'डेस्क', 'डेस्क', 'डेस्क', 'डेस्क', 'कंप्यूटर डेस्क', 'डेस्क', 'डेस्क', 'डेस्क कंप्यूटर चालू']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरी मेज पर क्या है?\
+	['आइपॉड टच', 'अनुप्रयोग', 'फोन', 'स्मार्ट फोन के कागज', 'स्मार्ट फोन के कागज', 'फोन', 'फोन', 'फोन', 'मोबाइल फोन', 'फोन']	mobile
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैंने किस तस्वीर को लिया? और किसकी?\
+	['आईपैड', 'पिक्चर आईपैड कॉफी बैग के बगल में', 'टैबलेट', 'आईपैड', 'hulu लॉग इन स्क्रीन', 'हूलप्लस', 'hulu plus दिखाने वाली टैबलेट', 'टैबलेट हुलु प्लस लॉगिन', 'हुलुप्लस स्क्रीन', 'टैबलेट पर Hulu प्लस के लिए लॉगिन स्क्रीन']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह बोतल क्या है?\
+	['शैम्पू', 'शैम्पू', 'उत्तर नहीं दिया जा सकता', 'त्रिशूल', 'प्रियतम', 'उत्तर नहीं दिया जा सकता', 'बालों की देखभाल', 'शैम्पू', 'सुगंध', 'त्रिसेम शैंपू']	tresemme
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किसका मॉडल है?\
+	['सोडा', 'स्प्रिट', 'सोडा की बोतल', 'स्प्रिट', 'उत्तर नहीं दिया जा सकता', 'स्प्रिट सोडा', 'स्प्रिट', 'स्प्रिट बोतल', 'उत्तर नहीं दिया जा सकता', 'स्प्रिट']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या उत्पाद है?\
+	['चक मिश्रण', 'चक मिश्रण', 'चक मिश्रण', 'चेक्स मिक्स चेडर', 'चक मिश्रण', 'चक मिश्रण', 'शेफ मिश्रण', 'चक मिश्रण', 'चक मिश्रण', 'चैक']	चैडल मिक्स
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['धुआंदार टर्की', 'धूम्रपान टर्की पैनिनी', 'धूम्रपान टर्की पैनिनी', 'टर्की पनीनी', 'धूम्रपान टर्की पैनिनी', 'धूम्रपान टर्की पैनिनी', 'स्टफेर भरना', 'पनीर', 'धुआंदार टर्की', 'धूम्रपान टर्की पैनिनी']	स्मूड्डी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. पुरस्कार जीतने के लिए मुझे कौन से पत्र टाइप करने चाहिए?\
+	['एमवीजी', 'एमवीजी', 'एमवीजी', 'एमवीजी', 'एमवीजी', 'एमवीजी', 'एमवीजी', 'एमवीजी', 'एमवीजी', 'एमवीजी']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का डिब्बा है?\
+	['टमाटर', 'सॉस', 'टमाटर', 'कुचल टोमेटो', 'टिन', 'टमाटर', 'टमाटर', 'डिब्बाबंद टमाटर', 'टमाटर', 'टमाटर']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का कीरिग कप है?\
+	['डोनट हाउस', 'कॉफी', 'बक्सा', 'डोनट', 'डोनट हाउस संग्रह', 'डोनट', 'डोनट', 'डोनट झोपड़ी संग्रह', 'डोनट छेद', 'डोनट होल संग्रह']	donut hole
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया मुझे इस पुस्तक का नाम बताएं?\
+	['अर्धचंद्राकार', 'उत्तर नहीं दिया जा सकता', 'लेखक क्लाईव कुसलर डर्क कुसलर', 'केवल लेखकों के नाम दिखाए गए हैं कोई शीर्षक नहीं', 'क्लिव कुसलर डर्क कुसलर', 'क्लाईव कौसलर', 'क्लिव कुसलर डर्क कुसलर', 'क्लिव कुसलर डर्क कुसलर', 'क्लिव कुसलर डर्क कुसलर', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['धन', 'धन', '$20 का नोट', 'धन', '20 डॉलर', '20 डॉलर', '20 डॉलर', 'बीस डॉलर का नोट', '20.00 का बिल', '20 डॉलर का नोट']	अन्य जानकारी की need है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह शैम्पू है या शरीर धोने?\
+	['लोशन', 'शरीर लोशन', 'लोशन', 'शरीर लोशन', 'स्पार्कलिंग बॉडी लोशन', 'शरीर लोशन', 'शरीर लोशन', 'लोशन', 'शरीर लोशन', 'शरीर लोशन']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस तस्वीर में क्या है?\
+	['पटाखे', 'बॉक्स क्रैकर्स', 'क्रैकर बॉक्स', 'क्रैकर बॉक्स', 'पटाखे', 'पटाखे', 'पटाखे', 'पटाखे', 'पटाखे', 'पटाखे']	क्रीम चीज़ के साथ चिप्स का एक बॉक्स
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह तस्वीर क्या है?\
+	['फोन', 'मैकबुक प्रो', 'मैकबुक प्रो', 'कंप्यूटर मॉनिटर', 'उत्तर नहीं दिया जा सकता', 'लैपटॉप', 'कम्प्यूटर', 'मैकबुक प्रो', 'मैकबुक प्रो स्क्रीन', 'लैपटॉप कंप्यूटर']	मैकबोर्ड
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['जल', 'जल', 'प्राकृतिक क्रिस्टल जल', 'प्रकृति क्रिस्टल जल', 'पानी की बोतल', 'पानी की बोतल', 'पानी की बोतल', 'जल', 'पानी की बोतल', 'जल']	पानी की बोतल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का पिज्जा है?\
+	['पपीता', 'माँ कोज़िस', 'माँ कोज़िस पतला पिज्जा', 'पपीता', 'जमे हुए पिज्जा', 'पपीता', 'पतला', 'माँ कोज़िस से पतली क्रस्ट पेपरोन', 'माँ कोज़िस पतली परत मिर्च', 'माँ कोज़िस']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में क्या है?\
+	['पूरे मकई', 'मक्का', 'मक्का', 'मक्का', 'पूरे अनाज का मक्का', 'पूरे अनाज का मक्का', 'मक्का', 'उच्च मूल्य का भोजन कर सकते हैं', 'मक्का', 'मक्का']	मूली
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['चूहा', 'कंप्यूटर माउस', 'कंप्यूटर माउस', 'कंप्यूटर माउस', 'कंप्यूटर माउस', 'एचपी वायर्ड माउस', 'कंप्यूटर माउस', 'पीसी माउस', 'एचपी माउस', 'चूहा']	मॉनिटर माउस
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कार्यालय', 'कुर्सी', 'कार्यालय', 'कार्यालय की कुर्सी', 'कुर्सी', 'डेस्क कुर्सी', 'गृह कार्यालय', 'कार्यालय', 'दो डेस्क कुर्सी', 'कुर्सी']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['टीवी', 'टेलीविजन', 'टेलीविजन', 'पुराना टीवी मॉनिटर', 'टीवी', 'टीवी', 'निगरानी', 'टेलीविजन स्क्रीन', 'टीवी', 'निगरानी']	अन्य जानकारी प्रदान की जा रही है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरी शर्ट किस रंग की है?\
+	['काला सफेद', 'नीला सफेद काला', 'काला', 'नीला', 'नौसेना', 'काला सफेद प्रतीक', 'काला सफेद', 'नीला', 'नीला', 'काला सफेद']	नीला
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है?\
+	['लाल', 'लाल', 'लाल', 'लाल', 'गुलाबी', 'लाल', 'लाल', 'लाल', 'लाल', 'लाल']	लाल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या ये सामान्य चिप्स हैं या नमक और सिरका चिप्स?\
+	['नमक', 'नियमित', 'नियमित', 'सामान्य चिप्स', 'नियमित', 'नियमित', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नियमित', 'उत्तर नहीं दिया जा सकता']	नमक और सिरका
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का कार्टन है? नारंगी का रस या दूध?\
+	['नारंगी का रस', 'नारंगी का रस', 'ओज', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी का रस', 'नारंगी', 'नारंगी का रस', 'कागज का कार्टन नारंगी का रस']	नारंगी का रस
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह क्या है?\
+	['चिप्स', 'चिप्स', 'चिप्स', 'आलू के चिप्स', 'आलू के चिप्स', 'खट्टे क्रीम वाले प्याज के चिप्स', 'चिप्स', 'आलू के चिप्स', 'चिप्स', 'आलू के चिप्स']	चिप्स का बैग
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बैग में क्या है\
+	['उत्तर नहीं दिया जा सकता', 'जमे हुए सब्जियां', 'सब्जियां', 'गाजर मटर मकई हरी बीन्स', 'सब्जियां', 'मटर, गाजर, मक्का', 'मिश्रित सब्जियां', 'सब्जियां', 'मिश्रित सब्जियां', 'मकई गाजर गुड़ बीन्स मटर']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का स्पार्क है?\
+	['गुलाबी नींबू का रस', 'गुलाबी नींबू का रस', 'उत्तर नहीं दिया जा सकता', 'गुलाबी नींबू का रस', 'उत्तर नहीं दिया जा सकता', 'गुलाबी नींबू का रस', 'नारंगी', 'स्ट्रॉबेरी', 'उत्तर नहीं दिया जा सकता', 'गुलाबी नींबू का रस']	स्ट्रॉबेरी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का है?\
+	['मनीविच', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'मनीविच', 'मनीविच', 'मनीविच', 'टमाटर', 'मनीविच', 'मनीविच', 'ढीठ जो']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस मौसम में है?\
+	['स्पागेटी', 'स्पागेटी', 'स्पागेटी मसाला', 'स्पागेटी मसाला', 'स्पागेटी', 'स्पागेटी मसाला', 'स्पागेटी मसाला', 'स्पागेटी', 'स्पागेटी', 'स्पागेटी मसाला']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पुस्तक', 'पत्रिका', 'ऊर्ध्वाधर पत्रिका', 'पत्रिका', 'ऊर्ध्वाधर पत्रिका', 'पत्रिका', 'पत्रिका', 'चक्कर आना पत्रिका', 'पत्रिका', 'पत्रिका']	अन्य जानकारी के साथ पत्रिका का कवर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह वस्तु क्या है?\
+	['दीवार', 'दीवार', 'दीवार', 'दीवार', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'दीवार', 'दीवार', 'दीवार']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मिठाई', 'स्ट्रॉबेरी हार्ड कैंडी', 'मिठाई', 'स्ट्रॉबेरी हार्ड कैंडी', 'कटोरी मिठाई', 'स्ट्रॉबेरी कैंडी', 'स्क्वाड्रन', 'स्ट्रॉबेरी कैंडी', 'मिठाई', 'स्ट्रॉबेरी हार्ड कैंडी']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ये जूते किस रंग के हैं?\
+	['भूरा', 'काला', 'भूरा', 'भूरा', 'भूरा', 'भूरा', 'भूरा', 'पांव', 'भूरा', 'कड़वा']	भूरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कंप्यूटर स्क्रीन', 'वेबपेज', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'वेबसाइट', 'कंप्यूटर स्क्रीन', 'कंप्यूटर मॉनिटर', 'लेख', 'वीज़वीज़ के लिए पीडीएफ फ़ाइल', 'vizwizpdf धुंधला है लेकिन योगदानकर्ता अनुभाग देख सकते हैं']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या तस्वीर है?\
+	['निगरानी', 'लैपटॉप', 'टेलीविजन', 'कम्प्यूटर', 'लैपटॉप', 'टेलीविजन', 'फ्लैट स्क्रीन टीवी', 'लैपटॉप स्क्रीन', 'टेलीविजन', 'उत्तर नहीं दिया जा सकता']	कंप्यूटर स्क्रीन
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मोबाइल फोन', 'मोबाइल फोन', 'पेजर', 'उत्तर नहीं दिया जा सकता', 'फोन', 'मोबाइल फोन', 'ब्लैकबेरी सेल फोन', 'मोबाइल फोन', 'मोबाइल फोन', 'मोबाइल फोन']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['फ्रिज', 'उत्तर नहीं दिया जा सकता', 'फ्रिज', 'छात्रावास का रेफ्रिजरेटर', 'फ्रिज', 'फ्रिज', 'रेफ्रिजरेटर', 'मिनी फ्रिज', 'रेफ्रिजरेटर', 'मिनी फ्रिज']	अन्य language
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस पोशाक के साथ मुझे किस रंग के गहने पहनने चाहिए?\
+	['चांदी', 'चांदी', 'सफेद', 'स्वर्ण', 'काला', 'चांदी', 'चांदी', 'चांदी', 'चांदी', 'चांदी']	सफ़ेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['पैर', 'जीन्स', 'जांघ', 'पैंट पैर', 'आर्म सोफा', 'पैंट', 'कुशन', 'उत्तर नहीं दिया जा सकता', 'पैंट का पैर', 'पैर']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कुत्ता', 'उत्तर नहीं दिया जा सकता', 'कुत्ता', 'कुत्ता', 'कुत्ता', 'कुत्ता', 'कुत्ता', 'कुत्ता', 'उत्तर नहीं दिया जा सकता', 'कुत्ता']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['दूरस्थ', 'दूरस्थ', 'दूरस्थ नियंत्रण', 'टीवी नियंत्रक', 'दूरबीन', 'दूरस्थ नियंत्रण', 'दूरस्थ', 'दूरस्थ', 'दूरस्थ नियंत्रण', 'दूरस्थ नियंत्रण']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या ये केले हरे या पीले हैं?\
+	['हल्का हरा', 'पीला', 'पीला', 'पीला', 'हरी', 'पीला', 'पीला', 'पीला', 'पीला', 'पीला']	पीले
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या उत्पाद है?\
+	['अनाज', 'काशी गो दुबला क्रंच शहद बादाम सफेदी', 'कशी जा कर दुबला क्रंच', 'गोलन क्रंच काशी', 'अनाज', 'लोचदार क्रंच अनाज', 'जा कर कुचल', 'काशी गो दुबला क्रंच शहद बादाम सफेदी', 'अनाज', 'अनाज']	go lean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. टीवी पर अभी क्या दिखाया जा रहा है?\
+	['कुछ नहीं', 'कुछ नहीं', 'कुछ भी नहीं', 'कुछ नहीं', 'कुछ नहीं', 'कुछ नहीं', 'कुछ नहीं', 'कुछ नहीं', 'उत्तर नहीं दिया जा सकता', 'कुछ नहीं']	अंधेरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['मांस', 'गोमांस का स्टीक', 'गोमांस', 'पैकेज स्टीक', 'मांस', 'मांस', 'उत्तर नहीं दिया जा सकता', 'गोमांस का स्टीक', 'स्टीक', 'मांस']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह संदेश क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', 'पूर्ण पुनर्स्थापित करें', 'उत्तर नहीं दिया जा सकता', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण', 'उत्तर नहीं दिया जा सकता', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण']	असफल जानकारी के साथ उत्तर नहीं दिया जा सकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में किस तरह का भोजन है?\
+	['सूप', 'प्रगति बागान सब्जी सूप', 'बागवानी सब्जी का सूप', 'सब्जी सूप', 'बागवानी सब्जी का सूप', 'बागवानी सब्जी का सूप', 'सूप', 'प्रगति बागान सब्जी सूप', 'बागवानी', 'बागवानी सब्जी का सूप']	सब्जियों का सूप
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'कर सकते हैं', 'स्प्लिट मटर सूप', 'स्प्लिट मटर सूप', 'स्प्लिट मटर सूप', 'स्प्लिट मटर सूप', 'सूप', 'मटर का सूप विभाजित कर सकता है', 'स्प्लिट मटर सूप', 'सूप']	सूप का डिब्बा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह सोफा है या मेज?\
+	['तालिका', 'तालिका', 'तालिका', 'तालिका', 'तालिका', 'तालिका', 'तालिका', 'तालिका', 'तालिका', 'यह तालिका']	मेज
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में क्या खाना है?\
+	['रवीओली', 'रवीओली', 'रवीओली', 'मक्का', 'रवीओली', 'रवीओली', 'रवीओली', 'रवीओली', 'राविओली भोजन', 'रवीओली']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन पर क्या है?\
+	['त्रुटि संदेश', 'स्टार्टअप मरम्मत के लिए पॉप अप कंप्यूटर को पुनरारंभ करें', 'पुनः आरंभ करना', 'संवाद बॉक्स जो कहता है कि आप निश्चित रूप से स्टार्टअप मरम्मत से बाहर निकलना चाहते हैं अपने कंप्यूटर को पुनरारंभ करें', 'आरंभिक मरम्मत', 'विंडोज अद्यतन निर्देश', 'उत्तर नहीं दिया जा सकता', 'आरंभिक मरम्मत', 'कंप्यूटर पुनः आरंभ विकल्प', 'आरंभिक मरम्मत']	असफल प्रतिक्रिया
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. चलो यह एक कोशिश दे, क्या आप मुझे बता सकते हैं कि यह क्या है?\
+	['बीन्स', 'बेक्ड बीन्स', 'बीन्स', 'बेक्ड बीन्स', 'झाड़ी, बेक्ड बीन्स', 'कर सकते हैं', 'कैन बीन्स', 'झाड़ी, बेक्ड बीन्स', 'बेक्ड बीन्स', 'बीन्स']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह किस तरह का फोन है?\
+	['lg', 'एलजी', 'एलजी', 'एलजी', 'एलजी', 'एलजी', 'एलजी', 'एंड्रॉयड', 'एलजी', 'हाँ']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['स्मार्टफ़ोन', 'मोबाइल फोन', 'मोबाइल फोन', 'फोन', 'मोबाइल फोन', 'मोबाइल फोन', 'मोबाइल फोन', 'स्मार्टफ़ोन', 'फोन', 'फोन']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['लैपटॉप', 'हाथ', 'लैपटॉप कीबोर्ड', 'हाथ', 'अंगुली', 'हाथ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'डेस्क', 'हाथ']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कैबरनेट 2009', 'शराब', 'शराब', 'शराब', 'कैबरनेट सॉविनियन', 'बोतल शराब', 'शराब', 'शराब', 'घोड़ा स्वर्ग कोलंबिया कैबरनेट 2007 शराब', 'शराब']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. उस बोतल में क्या है?\
+	['कोक', 'सोडा पॉप शायद कोका कोला', 'सोडा', 'कोका कोला सोडा', 'सोडा', 'सोडा', 'कोक', 'सोडा', 'कोक', 'सोडा']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है कृपया?\
+	['लाल सफेद पट्टी', 'लाल', 'लाल सफेद धारी', 'लाल सफेद धारी', 'लाल सफेद', 'सफेद लाल', 'शर्ट', 'लाल सफेद', 'लाल सफेद', 'लाल सफेद']	लाल और सफेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बैग में क्या है?\
+	['ब्रोकोली', 'ब्रोकोली', 'ब्रोकोली', 'ब्रोकोली', 'ब्रोकोली', 'लेकिन ब्रोकोली', 'ब्रोकोली', 'कटा हुआ ब्रोकोली', 'भाप n कटा हुआ ब्रोकोली परोसें', 'ब्रोकोली']	कटा हुआ ब्रोकली
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कूपन किसके लिए है?\
+	['दही', 'दही', 'यूपलाइट दही', 'योगर्ट 10 $5', 'यूपलाइट', 'योगर्ट 10 $5', 'यूपलाइट दही', 'दही', 'छूट', 'दही']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का पॉप है?\
+	['नस्टिया', 'डिब्बाबंद बर्फ की चाय', 'नींबू', 'नींबू', 'नस्टिया', 'नस्टिया', 'नस्टिया', 'नस्टिया', 'उत्सव', 'नस्टिया']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['आईपैड', 'टैबलेट', 'कम्प्यूटर', 'आईपैड', 'माउस पैड', 'लैपटॉप', 'खिड़की', 'टैबलेट', 'उत्तर नहीं दिया जा सकता', 'आईपैड']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन पर क्या है?\
+	['क्या आप सिस्टम पुनर्स्थापना पॉप अप का उपयोग करके अपने कम्प को पुनर्स्थापित करना चाहते हैं', 'त्रुटि संदेश', 'क्या आप सिस्टम पुनर्स्थापना का उपयोग करके अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं', 'आरंभ करना', 'आरंभिक पुनर्भुगतान की गई नैदानिक स्क्रीन', 'सिस्टम पुनर्स्थापित प्रश्नः क्या आप अपने कंप्यूटर को पुनर्स्थापित करने के लिए उपयोग करना चाहते हैं', 'आरंभिक मरम्मत', 'आरंभिक मरम्मत', 'कंप्यूटर को पुनर्स्थापित करने के लिए प्रश्न', 'क्या आप सिस्टम पुनर्स्थापना का उपयोग करके अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं']	सिस्टम रॉस्टर की प्रक्रिया
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. और जवाब देने के लिए आपके समय के लिए बहुत बहुत धन्यवाद।\
+	['स्प्रिट', 'स्प्रिट', 'स्प्रिट', 'स्प्रिट', 'स्प्रिट', 'स्प्रिट', 'स्प्रिट', 'स्प्रिट', 'स्प्रिट', 'स्प्रिट']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन पर क्या लिखा है?\
+	['क्या आप सिस्टम सीडी का उपयोग करके अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं', 'पुनर्स्थापित करना', 'क्या आप सिस्टम का उपयोग कर अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं', 'आपका कंप्यूटर प्रारंभ करने में असमर्थ था प्रारंभ मरम्मत समस्या के लिए आपके सिस्टम की जाँच', 'क्या आप सिस्टम का उपयोग कर अपने कंप्यूटर को पुनर्स्थापित करना चाहते हैं', 'आरंभिक मरम्मत', 'आपका कंप्यूटर प्रारंभ नहीं हो सका', 'आपका कंप्यूटर प्रारंभ करने में असमर्थ था प्रारंभ करें मरम्मत समस्या के लिए आपके सिस्टम की जाँच', 'कंप्यूटर प्रारंभ नहीं कर सकता', 'पुनर्स्थापित करना']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में क्या है\
+	['सब्जियां', 'वक्रग', 'मिश्रित सब्जियां', 'शाकाहारी मूल', 'मिश्रित सब्जियां', 'सब्जियां', 'विगेल', 'सब्जी', 'सब्जियां', 'मिश्रित सब्जियां']	कच्चे सब्जियों का मिश्रण
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. आप चित्र में क्या देख सकते हैं आप चित्र में क्या देख सकते हैं\
+	['कुछ नहीं', 'आकाश', 'सिंक', 'आकाश', 'उत्तर नहीं दिया जा सकता', 'आकाश', 'कुछ नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'आकाश']	अंधेरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. किस तरह का सोडा?\
+	['कोका कोला', 'कोका कोला', 'कोका कोला', 'कोका कोला', 'कोका कोला', 'कोका कोला 0', 'कोका कोला 0', 'कोक 0', 'कोका कोला 0', 'कोका कोला 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह की प्रणाली है?\
+	['डेस्कटॉप', 'उत्तर नहीं दिया जा सकता', 'खिड़कियाँ', 'डेस्कटॉप कंप्यूटर', 'खिड़कियाँ', 'खिड़कियाँ', 'खिड़कियाँ', 'विंडोज पीसी', 'खिड़कियाँ', 'खिड़कियाँ']	microsoft
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बात है?\
+	['वक्ता', 'वक्ता', 'मंजिल', 'वक्ता', 'लाउडस्पीकर प्रणाली', 'वक्ता', 'वक्ता', 'वक्ता', 'वक्ता', 'वक्ता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह लैपटॉप पर प्रकाश की निगरानी करता है?\
+	['हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'नहीं', 'हाँ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि इस बोतल में क्या लिखा है?\
+	['गर्म वेनिला चीनी शरीर लोशन', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी शरीर लोशन', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी लोशन', 'गर्म वेनिला चीनी', 'गर्म वेनिला चीनी शरीर लोशन', 'गर्म चीनी वनिला']	वार्म वनिला चीनी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे इस कार्ड पर 1-800 नंबर बता सकते हैं, और क्या आप इस प्रश्न को सुन सकते हैं?\
+	['1 800 735 2929 नहीं सुन सकता q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 नहीं', '18773289677 नहीं', '1 877 328 9677', '8007352929 नहीं']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कमरे में रोशनी चालू या बंद?\
+	['प्रकाश बंद', 'बंद करना', 'पर', 'बंद करना', 'पर', 'उत्तर नहीं दिया जा सकता', 'पर', 'पर', 'पर', 'पर']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का स्वाद है?\
+	['चिंगारी', 'गुलाबी नींबू का रस', 'फल का पंच', 'गुलाबी नींबू का रस', 'गुलाबी नींबू का रस', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'गुलाबी नींबू का रस', 'चिंगारी', 'गुलाबी नींबू का रस']	गुलाबी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह संदेश क्या कहता है?\
+	['पुनर्स्थापना पूर्ण', 'उत्तर नहीं दिया जा सकता', 'सफल पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण', 'पंजीकरण पूरा', 'पुनर्स्थापना पूर्ण', 'पुनर्स्थापना पूर्ण']	असफल जानकारी के साथ उत्तर नहीं दिया जा सकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरी शर्ट किस रंग की है?\
+	['सफेद', 'सफेद', 'सफेद', 'सफेद', 'सफेद', 'सफेद', 'सफेद', 'सफेद', 'सफेद', 'सफेद']	सफ़ेद
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उन्नत रंग चिकित्सा शैम्पू', 'शैम्पू', 'उन्नत रंग चिकित्सा शैम्पू', 'शैम्पू', 'रंग चिकित्सा शैम्पू', 'शैम्पू', 'रंग चिकित्सा', 'शैम्पू', 'प्रगत रंग चिकित्सा', 'रंग चिकित्सा']	शैंपो
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['डिब्बे', 'बिल्ली का भोजन', 'उत्तर नहीं दिया जा सकता', 'सिंक', 'कर सकते हैं', 'सिंक', 'धोना', 'सिंक', 'सिंक', 'कर सकते हैं']	अन्य जानकारी की need
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कौन सा वीडियो गेम है?\
+	['एनपीएल 2k', 'फुटबॉल', 'एनएफएल 2k', 'एनपीएन एनएफएल 2k5', 'स्पन 2k5', 'एस् पी एन 2के फुटबॉल', 'एनएफएल 2k', 'फुटबॉल', 'एनएफएल 2k', 'फुटबॉल']	nfl 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['पनीर', 'पनीर', 'धूम्रपान टर्की पैनिनी', 'धूम्रपान टर्की पैनिनी', 'धूम्रपान टर्की पैनिनी', 'स्टूफर धूम्रपान टर्की पैनिनी', 'टर्की पनीनी', 'उत्तर नहीं दिया जा सकता', 'धूम्रपान टर्की पैनिनी', 'धूम्रपान टर्की पैनिनी']	भोजन
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में क्या है?\
+	['लसगनी', 'जमे हुए भोजन', 'विशेष लासगनी', 'विशेष लासगनी', 'लसगनी', 'विशेष लासगनी', 'लसगनी', 'लसगनी', 'लसगनी', 'लसगनी']	विभिन्न प्रकार के भोजन
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह वस्तु क्या है?\
+	['प्रकृति घाटी ओट्स डार्क चॉकलेट ग्रेनोला बार', 'क्रंच बार', 'अनाज का बार', 'अनाज का बार', 'अनाज का बार', 'अनाज का बार', 'प्रकृति घाटी ओट्स एन डार्क चॉकलेट बार', 'ओट्स एन डार्क चॉकलेट क्रंसी बार', 'गहरे चॉकलेट के ग्रेनोला बार', 'अनाज का बार']	चॉकलेट
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['वीडियो गेम', 'प्लेस्टेशन 2 खेल', 'प्लेस्टेशन 2 स्टार वार्स युद्धक्षेत्र खेल', 'प्ले स्टेशन स्टार वार्स खेल', 'वीडियो गेम', 'वीडियो गेम', 'स्टार वार्स युद्धक्षेत्र 2', 'खेल', 'प्लेस्टेशन 2 खेल', 'पीएसआई खेल']	अन्य जानकारी की need है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कॉफी के साथ एक तरह का है?\
+	['फ्रेंच वेनिला', 'फ्रेंच वेनिला', 'फ्रेंच वेनिला', 'घोंसला', 'वनिला', 'फ्रेंच वेनिला', 'कॉफी मैट', 'फ्रेंच वेनिला', 'फ्रेंच वेनिला', 'फ्रेंच वेनिला']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['नारंगी का रस', 'रस', 'रस', 'नारंगी का रस', 'रस', 'चिकना रसदार', 'चिकनी और रसदार', 'रस', 'नारंगी का रस', 'रस']	अन्य संकेतों को देखने के लिए
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बाली में पत्थरों का रंग क्या है?\
+	['गुलाबी', 'लाल रंग', 'लाल', 'गुलाबी', 'बैंगनी', 'गुलाबी', 'गुलाबी', 'गुलाबी', 'गुलाबी', 'गुलाबी']	गुलाबी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस इलेक्ट्रॉनिक उपकरण पर क्या लिखा है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह स्क्रीन क्या कहती है, अगर आप इसे पढ़ सकते हैं?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'स्क्रीन नहीं पढ़ सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'पढ़ नहीं सकता', 'उत्तर नहीं दिया जा सकता']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बोतल में क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'लोशन', 'विटामिन', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'निश्चित नहीं', 'उत्तर नहीं दिया जा सकता']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह ऊर्जा पट्टी किस स्वाद की है?\
+	['स्ट्रॉबेरी', 'बेरी बादाम क्रंच', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सेब का कड़वा', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'बेरी बादाम क्रंच']	berry crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'ध्यान', 'n', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'समाचार', 'उत्तर नहीं दिया जा सकता']	अन्य उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का भोजन है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. तो मैं यह पता लगाने की कोशिश कर रहा हूँ कि यह किस तरह का रेडियो है, तो कोई जानकारी ताकि मैं अपने एक प्राप्त कर सकते हैं, कि महान होगा, धन्यवाद।\
+	['मुझे नहीं पता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'संभवतः घर आईपी9 स्पीकर डॉक', 'उत्तर नहीं दिया जा सकता', 'शंकु', 'उत्तर नहीं दिया जा सकता', 'पोर्टेबल', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मुझे बहुत खेद है. मुझे नहीं पता कि कैसे... मैंने पहले कभी इस तरह की तस्वीर नहीं ली है.\
+	['थोड़ा आगे बढ़ें ताकि कैमरा फोकस हो', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इनमें से कौन सी फिल्म सबसे अच्छी है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सरल']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['यह स्लाइड', 'गुलाबी', 'उत्तर नहीं दिया जा सकता', 'बैंगनी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'चमक', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस लोशन का नाम क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'नक्समा', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कब समाप्त होता है?\
+	['9.27.13', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '23 सितम्बर 2013', '23 सितम्बर 2013', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '23 सितम्बर 2013', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं इसे कब तक पकाना है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '5 मिनट', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '5 मिनट', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	5 minutes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कूलनक्स', 'कोने', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'फोन', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह गीत क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'फोटो में कीड़ा', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'भृंग']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह कहते हैं कि खिड़कियों के नीचे यह प्रणाली स्वचालित रूप से मरम्मत नहीं कर सकते? यह कुछ शुरू कहते हैं.\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'स्टार्टअप मरम्मत इस कंप्यूटर को स्वचालित रूप से मरम्मत नहीं कर सकता', 'उत्तर नहीं दिया जा सकता', 'आरंभ करना', 'प्रारंभ मरम्मत इस कंप्यूटर को स्वचालित रूप से मरम्मत नहीं कर सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस पैकेज में कितना सोडियम है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'समोआ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या स्क्रीन पर यह कहता है कि यह पुनर्स्थापना कर रहा है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कौन सा पर्दा?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'अध्ययन करते रहें', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस मध्यस्थता का नाम क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '0', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. रंग क्या है?\
+	['लाल सफेद', 'उत्तर नहीं दिया जा सकता', 'सफेद', 'सफेद', 'उत्तर नहीं दिया जा सकता', 'लाल सफेद', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अंधेरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया मेरे राउटर पर लेबल क्या कहता है धन्यवाद बताओ।\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बस पास पर समाप्ति तिथि क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. बस कह दो.\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'स्नो', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है, यह क्या कहता है\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'पंक्तियाँ स्तंभ धुंधली संख्याएँ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	उत्तर नहीं दिया जा सकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कितनी बजे हैं?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कैमरे पर फ्लैश रेंडरिंग घड़ी पढ़ने में असमर्थ', 'दिखाई नहीं देता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं बता सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे इस शैम्पू के उपयोग के निर्देश बता सकते हैं? धन्यवाद।\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'ईडीएफसीएफडी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या मुझे इसे फिर से शुरू करने के लिए एक बटन दबाने की ज़रूरत है? या मैं बस इंतजार करूं?\
+	['प्रणाली पुनः आरंभ', 'उत्तर नहीं दिया जा सकता', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'प्रतीक्षा करो', 'प्लग इन']	इंतजार करें
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यदि यह कार्ड इस चित्र में दिखाया गया है, तो यह क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', 'नहीं दिखाया गया', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कोई शब्द नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	उत्तर नहीं दिया जा सकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. परीक्षण?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'दूरस्थ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'परिवेश ध्वनि रिमोट', 'प्रश्न चित्र पर लागू नहीं होता है']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. असली शब्दकोश.\
+	['उत्तर नहीं दिया जा सकता', 'अनजान', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं एक कैप्चा के साथ काम कर रहा हूँ लेकिन मैं स्क्रीन नहीं देख सकता और मैं एक वेबसाइट से कुछ अनुरोध करने के लिए इसकी जरूरत है. क्या आप मुझे बता सकते हैं क्या कैप्चा है?\
+	['नहीं 1', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मुझे पता है कि यह दस आज्ञाओं कहता है, लेकिन दस आज्ञाएं क्या हैं?\
+	['ईश्वर द्वारा अपने विश्वासियों को दिए गए नियम निर्धारित करें', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नैतिक नियम', 'उत्तर नहीं दिया जा सकता', 'देवताओं की आज्ञाएँ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कानून', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरा कंप्यूटर स्क्रीन क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'बहुत धुंधला', 'खाली स्क्रीन']	असमर्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का शिशु सूत्र है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'मैं बेबी फार्मूला नहीं देखता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या दवा है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कौन सा कार्ड है?\
+	['उत्तर नहीं दिया जा सकता', 'लाल क्रेडिट कार्ड', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'क्रेडिट कार्ड', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस कार्ड में क्या लिखा है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'केवल 1 6 12 दिखाई देता है', 'उत्तर नहीं दिया जा सकता', 'कुछ नहीं', 'उत्तर नहीं दिया जा सकता', '१६ १२', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य date
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['साबुन', 'उत्पाद', 'उत्तर नहीं दिया जा सकता', 'दूध', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'आँखों के लिए बूंदें', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य जानकारी की need
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ठीक है, यह किस तरह का मांस है?\
+	['जैक लिंक', 'डस', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'गोमांस', 'उत्तर नहीं दिया जा सकता', 'गोमांस', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	पशु मांस
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह उपहार कार्ड किस लिए है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'अतुलनीय छवि', 'उत्तर नहीं दिया जा सकता', 'नहीं बता सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का डिब्बाबंद भोजन है?\
+	['लमों', 'उत्तर नहीं दिया जा सकता', 'लमों', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'लमों', 'उत्तर नहीं दिया जा सकता', 'चूना']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कितनी बजे हैं?\
+	['उत्तर नहीं दिया जा सकता', '532', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '5:13', '5:13', 'उत्तर नहीं दिया जा सकता', '5:10 बजे', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	6:12
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में क्या उत्पाद है?\
+	['नहीं बता सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि पारंपरिक ओवन का तापमान कितना है और कितने मिनट के लिए और क्या मुझे ढक्कन को छेदने की आवश्यकता है? बहुत बहुत धन्यवाद।\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'एएसडीडी', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह ओवन तैयार लग रहा है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'ओवन नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'हाँ मुझे लगता है तैयार', 'नहीं', 'उत्तर नहीं दिया जा सकता']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या इससे कोई मदद मिली?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. टाइप करने के लिए कोड क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'ईमेल', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं किस तरह की शर्ट पहन रहा हूँ?\
+	['उत्तर नहीं दिया जा सकता', 'रेशम', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सफेद', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह किस तरह का जमे हुए रात का खाना है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता']	पनीर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'छवि रिक्त', 'कुछ नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस ब्रांड का है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सानिओ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ओवन का तापमान क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'जीएफडीएसजी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप कृपया बता सकते हैं कि इस बोतल में क्या है?\
+	['टमाटर की सॉस', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'पास्ता सॉस', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'टमाटर की सॉस', 'उत्तर नहीं दिया जा सकता']	अन्य पदार्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', 'एज़िथ्रोमाइसिन टैबलेट 250mg', 'टैबलेट', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '250 मिलीग्राम', 'एज़िथ्रोमाइसिन टैबलेट', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप ये शब्द पढ़ सकते हैं?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कोई शब्द नहीं']	अन्य तस्वीर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह वैलियम है?\
+	['नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'दवा का नाम नहीं पढ़ पा रहे हैं']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या गीत है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'संगीत के नोट', 'उत्तर नहीं दिया जा सकता', 'एल्बम', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'झिंगल झिंगल', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. हाँ यह एक एचपी लैपटॉप है, मुझे पता है कि कार्ड रीडर कीबोर्ड के संबंध में कहाँ है की जरूरत है. कृपया जितना संभव हो उतना विशिष्ट हो. धन्यवाद. \
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'पक्ष में', 'उत्तर नहीं दिया जा सकता', 'मैं कार्ड रीडर एसडी कार्ड रीडर आम तौर पर बाएं कोने सामने के किनारे पर नहीं देख सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस इत्र का नाम क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कोई नाम नहीं', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह की रैम है?\
+	['उत्तर नहीं दिया जा सकता', 'सीएन o444', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'डीडीआर एसडीआरएएम पीसी3200', 'कोई विचार नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'डीडीआर']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं समझता हूँ कि लेकिन सफेद ट्रक के पीछे dented लग रहा है\
+	['उत्तर नहीं दिया जा सकता', 'नहीं', 'सामने की ओर से छवि मैं कुछ भी असामान्य नहीं देख रहा हूँ', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'n0', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का सूप है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'मुर्गी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. लैपटॉप स्क्रीन पर क्या देखा जाता है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है कृपया?\
+	['उत्तर नहीं दिया जा सकता', 'सूप', 'सूप', 'कैन सूप', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सूप', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['कद्दू', 'कागजी तौलिया', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कागजी तौलिया', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ये किस स्वाद के हैं?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नियमित', 'मूल', 'उत्तर नहीं दिया जा सकता', 'मुड़ना', 'पनीर', 'चित्रकार']	थाली
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. तीनों चित्रों में से कौन सा गूगल लोगो है?\
+	['उत्तर नहीं दिया जा सकता', '0', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'प्रथम चित्र', 'बाएं']	तीन चित्रों में से एक गूगल लोगो है जो बहुत छोटा है।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'अनिश्चित', 'धुंधला', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'लेबल', 'उत्तर नहीं दिया जा सकता']	असमर्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या इसमें कोई पत्थर गायब है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'अपर्याप्त छवि गुणवत्ता', 'उत्तर नहीं दिया जा सकता', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं जानना चाहता हूँ कि यह किस ब्रांड का कोलोन है।\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस पनीर की समाप्ति तिथि क्या है?\
+	['ना', 'अव्यक्त', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. थर्मोस्टेट किस तापमान पर सेट है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '75', 'उत्तर नहीं दिया जा सकता', '75', 'उत्तर नहीं दिया जा सकता', '75', '75', 'उत्तर नहीं दिया जा सकता', 'दिखाई नहीं देता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह शर्ट किस रंग की है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'काला', 'उत्तर नहीं दिया जा सकता', 'काला', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'काला', 'उत्तर नहीं दिया जा सकता']	अंधेरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. डिस्प्ले पर क्या लिखा है?\
+	['त्रुटि रिबूट संदेश', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सिस', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य सहायक उपकरणों के साथ सहायता प्राप्त करें
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का सोडा है, कृपया?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'निश्चित नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बात है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'बालों', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया मुझे बताओ कि यह क्या कहता है।\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असमर्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'बक्सा', 'उत्तर नहीं दिया जा सकता', 'छोटी बक्सा', 'उत्तर नहीं दिया जा सकता']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. थर्मोस्टेट किस तापमान पर सेट है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'पढ़ नहीं सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या बोतल है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'मुझे नहीं पता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या मैं इस एक में सभी वर्ण प्राप्त कर सकता हूँ?\
+	['अरोबर्गी चावेज़', 'उत्तर नहीं दिया जा सकता', 'हाँ', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'अरोबर्गी चावेज़', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'हाँ']	अन्य
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस संस्करण के लिए उत्पाद कुंजी बंद\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. चलो. मैं प्रतीक्षा बात हो रही है.\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'जूते', 'उत्तर नहीं दिया जा सकता', 'जूते', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. और, डलास टेक्सास में तापमान क्या है?\
+	['3:40 54', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '9:17 बजे 96 डिग्री', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. तुम कैसे हो?\
+	['उत्तर नहीं दिया जा सकता', 'अच्छा', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'अच्छा', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है? आपको क्या जवाब मिला?\
+	['उत्तर नहीं दिया जा सकता', 'अनिश्चित', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'स्क्रीन पर लॉग', 'कम्प्यूटर', 'उत्तर नहीं दिया जा सकता', 'स्क्रीनकास्ट मैटिक']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है कृपया?\
+	['कपड़े से ढकने वाली बोतल', 'उत्तर नहीं दिया जा सकता', 'कंबल', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असमर्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस ब्रांड का है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सिको', 'उत्तर नहीं दिया जा सकता', 'धुंधला', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'घड़ी', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कौन सी वेबसाइट है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'ऐप खरीद में आईफोन के बारे में साइट']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का कपड़े धोने का सूप है?\
+	['उत्तर नहीं दिया जा सकता', 'सूर्य', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सुआवेतेल', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस जार में क्या है?\
+	['कुछ नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'सूप', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'भोजन', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह एक रसीद क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह सही है कि मेरे पास एक हाथ है\
+	['व्यवसाय कार्ड', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'क्रिसमस मुबारक हो', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं क्या तस्वीर ले सकता हूँ?\
+	['शीट पर घड़ी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'घड़ी', 'मिकी माउस जेब घड़ी', 'यह जेब घड़ी हेडफोन']	घड़ी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन क्या कहती है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'विंडोज लाइसेंस की शर्तें', 'आंशिक रूप से स्क्रीन से बाहर', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य जानकारी प्रदान की जा रही है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है? लेकिन हाँ मैं इसे तह करेंगे.\
+	['उत्तर नहीं दिया जा सकता', 'झुकना', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'हाथ', 'बक्सा']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस रंग का है?\
+	['सफेद ग्रे', 'बैंगनी', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'लाल सफेद', 'उत्तर नहीं दिया जा सकता']	grey
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बात है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'रसोई', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कंप्यूटर पर डेस्क पर चित्र आदमी', 'मैं चित्र में लिविंग रूम देखता हूँ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या नाम है\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'आनंद', 'आनंद', 'सुगंध', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बात है?\
+	['उत्तर नहीं दिया जा सकता', 'प्रकाश', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'प्रकाश', 'धुंधली', 'उत्तर नहीं दिया जा सकता', 'अस्पष्ट', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया इस बॉक्स पर पाठ पढ़ें जो एक और बॉक्स है।\
+	['wd', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कहना मुश्किल है. मैं विशेष रूप से कुछ आठ अंकों की पहचान संख्या के लिए देख रहा हूँ. धन्यवाद.\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'मुझे कुछ नहीं दिख रहा है क्षमा करें', 'उत्तर नहीं दिया जा सकता', 'खाली', 'मैं ऐसा कुछ भी देखने में सक्षम नहीं हूँ', 'उत्तर नहीं दिया जा सकता', '0', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्पीकर: क्या आप मुझे इस पुस्तक का शीर्षक बता सकते हैं? धन्यवाद।\
+	['उत्तर नहीं दिया जा सकता', 'स्वर संगीत में सामंजस्य सामग्री', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['डबरमैन', 'कुछ नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'हाथ से पकड़े जाने वाला पैकेज']	अन्य संकेत
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. स्क्रीन क्या कहती है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	उत्तर नहीं दिया जा सकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कुछ समय के लिए आप जानते हैं\
+	['मैं समझ नहीं पा रहा हूँ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	उत्तर नहीं दिया जा सकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि सुरक्षा प्रश्न क्या है, या सुरक्षा संख्या और पत्र क्या हैं ताकि मैं इसे अपने संपादन क्षेत्र में जोड़ सकूं? धन्यवाद.\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह डॉलर का नोट किस मूल्य के है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'अनुपयोगी छवि', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस पर सेट है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'काउंटर', 'काउंटर', 'रसोई काउंटर', 'काउंटर टॉप']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह सांप का काट है?\
+	['उत्तर नहीं दिया जा सकता', 'शायद', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'शायद', 'शायद', 'नहीं', 'उत्तर नहीं दिया जा सकता']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे विस्तार से बता सकते हैं कि इस कंप्यूटर स्क्रीन पर क्या है? बहुत बहुत धन्यवाद। \
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कंप्यूटर प्रारंभ नहीं कर सकता संदेश', 'उत्तर नहीं दिया जा सकता', 'आपका कंप्यूटर प्रारंभ नहीं हो सका', 'उत्तर नहीं दिया जा सकता', 'आपका कंप्यूटर प्रारंभ करने में असमर्थ था स्टार्टअप मरम्मत समस्या के लिए आपके सिस्टम की जाँच', 'आरंभ करना', 'उत्तर नहीं दिया जा सकता', 'अज्ञात संवाद बॉक्स']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस कैप्चा में क्या अक्षर हैं?\
+	['उत्तर नहीं दिया जा सकता', 'विवाह', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'काली कटोरी']	अक्षर \"अ\" और \"क\"
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप जानते हैं कि इन्हें कैसे पकाया जाता है?\
+	['उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं']	कई अलग-अलग रसोईय उपकरणों के साथ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कंप्यूटर स्क्रीन', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं इसे माइक्रोवेव में कब तक पकाऊं?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'आठ मिनट', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	8 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. आप इसे कैसे पकाते हैं?\
+	['ओवन', 'उत्तर नहीं दिया जा सकता', 'बेक करना', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. हस्ताक्षर के बारे में क्या?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'राजनीतिक', 'आदमी', 'उत्तर नहीं दिया जा सकता', 'कोई सुराग नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नीले आदमी इमारत में']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया मुझे इस शैम्पू बोतल पर निर्देश बताएं।\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'यदि वांछित हो तो गीले बालों में फोम के साथ धोएं']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह तस्वीर क्या है?\
+	['छत', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अंधेरा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'टेलीफोन', 'उत्तर नहीं दिया जा सकता', 'मोबाइल पर बात करने वाला आदमी', 'उत्तर नहीं दिया जा सकता', 'व्यक्ति', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस डिब्बे में क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'बीन्स', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'यह छवि धुंधली है', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि मेरी शर्ट का रंग क्या है?\
+	['नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बात है?\
+	['उत्तर नहीं दिया जा सकता', 'तार', 'उत्तर नहीं दिया जा सकता', 'काले रबर कुत्ते का खिलौना', 'पौधा', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कब समाप्त होता है?\
+	['नहीं करता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'चित्र नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '२००७']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कार्ड क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कोई कार्ड नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'काला', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह तस्वीर किस बारे में है?\
+	['उत्तर नहीं दिया जा सकता', 'खाली', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल तस्वीर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'चमड़े का पट्टा', 'कुत्ता', 'पर्स', 'उत्तर नहीं दिया जा सकता', 'कुत्ता का बधिर', 'पशु']	अन्य प्रश्न
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इन के लिए खाना पकाने के निर्देश क्या हैं?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का पता लगाने है?\
+	['उत्तर नहीं दिया जा सकता', 'पेंसिल', 'पत्ती का पैटर्न', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'पत्ती', 'उत्तर नहीं दिया जा सकता', 'खरपतवार']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. नमस्ते, क्या आप कृपया मुझे बता सकते हैं कि मेरे दाहिने हाथ में क्या है? धन्यवाद.\
+	['उत्तर नहीं दिया जा सकता', 'कुछ प्रकार का मांस लेकिन लेबल पूरी तरह से चित्र में नहीं है', 'डिब्बाबंद भोजन', 'उत्तर नहीं दिया जा सकता', 'गोमांस का भुना हुआ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह किससे है?\
+	['नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'मेल से वापस पत्र', 'कोई लेखन नहीं', 'उत्तर नहीं दिया जा सकता']	अन्य संदेश
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस तरह का स्वाद है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'न्यूमैन का विशेष मिश्रण', 'निमन विशेष मिश्रण', 'कफी', 'न्यूमैन का विशेष मिश्रण', 'उत्तर नहीं दिया जा सकता', 'न्युमैन का अपना', 'उत्तर नहीं दिया जा सकता']	extra bold
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मेरा रक्तचाप क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '105', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '109 ओवर', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'छवि को पढ़ने में असमर्थ']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. हमने कहा कि स्वाद क्या है \
+	['नींबू', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप कृपया मुझे बता सकते हैं कि यह क्या कहता है ताकि मैं यह पता लगा सकूं कि इसमें क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. हाइलाइट किए गए पाठ के लिए संख्या।\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कार्ड के पीछे पर यह कहना चाहिए कि यह किस तरह की छड़ी है, यह किस चीज से बना है आदि. मैं सिर्फ यह जानना चाहता था कि यह क्या था. धन्यवाद.\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'कुछ लकड़ी 14', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. वहाँ मैं ठीक बटन दबाया है लगता है? और मैं आगे हूँ, धन्यवाद.\
+	['क्लिक करने के लिए अगला बटन अब एंटर दबाएँ', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'फ्लैश', 'उत्तर नहीं दिया जा सकता']	असफल उत्तर
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. किस तापमान?\
+	['उत्तर नहीं दिया जा सकता', '57', 'बीस', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '20', '20.7c', 'उत्तर नहीं दिया जा सकता']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'स्वागत चिह्न', 'स्वागत चिह्न', 'उत्तर नहीं दिया जा सकता', 'स्वागत चिह्न', 'स्वागत चिह्न', 'उत्तर नहीं दिया जा सकता', 'स्वागत बैनर', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	असमर्थ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किसका चेहरा है?\
+	['कोई चेहरा नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '0', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अज्ञात
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस उत्पाद कुंजी पर क्या संख्याएँ हैं?\
+	['उत्तर नहीं दिया जा सकता', 'अव्यक्त', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'अव्यक्त', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस इमारत का नंबर क्या है जिसे मैंने अभी फोटो खींची है? यह यप्पपी कॉलेज है।\
+	['3', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '3', 'उत्तर नहीं दिया जा सकता', '9', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '3']	3
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया मुझे बताएं कि इस पैकेज में क्या है। धन्यवाद।\
+	['उत्तर नहीं दिया जा सकता', 'फसल संवेदना सलाद', 'उत्तर नहीं दिया जा सकता', 'बीट', 'मिठाई', 'फल', 'मुश्किल से बता सकता है शायद कुछ तरह के नट्स', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या मेरा डेस्कटॉप स्क्रीन दिखाई दे रहा है? धन्यवाद.\
+	['sdfgh', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ']	हरे भरे मैदान में फूल
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप इसे पढ़ सकते हैं?\
+	['हाँ', 'उत्तर नहीं दिया जा सकता', 'हाँ', 'रस निकालने की मशीन के लिए आयात सूचना ज्ञापन', 'नहीं', 'महत्वपूर्ण सूचना', 'कुछ', 'दयालु', 'नहीं', 'उत्तर नहीं दिया जा सकता']	अन्य जानकारी के साथ इस तस्वीर को देखने के लिए
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप इसे देख सकते हैं, लेबल पर, यह क्या है, मुझे लगता है कि यह एक टुकड़ा है, मेल में एक डीवीडी।\
+	['हाँ', 'हाँ डीवीडी', 'नहीं', 'डीवीडी', 'डीवीडी', 'उत्तर नहीं दिया जा सकता', 'लेबल अस्पष्ट लेकिन सीडी', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या मेरा कैमरा अंधा है?\
+	['हाँ', 'हाँ', 'हाँ', 'पुं०', 'हाँ', 'नहीं', 'हाँ', 'नहीं', 'हाँ', 'हाँ']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह चिकन स्टॉक है?\
+	['उत्तर नहीं दिया जा सकता', 'नहीं', 'हाँ', 'शायद सभी लेबल देखने में असमर्थ', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'हाँ', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'हाँ']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह कला है?\
+	['हाँ', 'एल्यूमीनियम पन्नी कला', 'हाँ', 'हाँ', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'हाँ', 'हाँ', 'हाँ', 'हाँ']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. नमस्ते, मैं सिर्फ पुष्टि करना चाहता था कि ये वास्तव में पोर्क कोटे हैं. कोई अन्य जानकारी जो स्पष्ट है कि सराहना की जाएगी. धन्यवाद.\
+	['हाँ', 'हाँ', 'हाँ, किर्कलैंड हस्ताक्षर पोर्क कोट', 'हाँ, पोर्कचॉप', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ, कमर के टुकड़े', 'हाँ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बादल तूफान के बादलों की तरह दिखते हैं? मैं जो कह रहा हूँ वह यह है कि क्या यह बारिश या तूफान की तरह दिखता है?\
+	['हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'नहीं', 'नहीं', 'नहीं']	बारिश
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या बडी का चेहरा प्यारा दिखता है या नहीं?\
+	['हाँ', 'हाँ', 'प्यारा', 'हाँ', 'हाँ', 'नहीं', 'हाँ', 'हाँ', 'हाँ', 'हाँ']	नोटिस
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या संवाद अब वहाँ है?\
+	['नहीं', 'हाँ', 'हाँ', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'हाँ', 'हाँ', 'हाँ', 'हाँ']	अन्य जानकारी
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या मेरे पैरों के सभी पैर अभी भी हैं?\
+	['हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ', 'हाँ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप इस चित्र में एक बोतल देख सकते हैं और यदि हां तो यह क्या है?\
+	['उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'कोई बोतल नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या कागज के इस तरफ कोई पाठ है, कृपया?\
+	['नहीं', 'नहीं', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'नहीं']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह एक फैक्स है? क्या यह एक बॉक्स है?\
+	['उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या इस तस्वीर में छाती का टुकड़ा है?\
+	['नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यहाँ कोई शतरंज का टुकड़ा है?\
+	['नहीं', 'हाँ', 'नहीं', 'केवल बोर्ड', 'नहीं', 'नहीं', 'हाँ', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या ये मोजे मेल खाते हैं?\
+	['नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह एक कागज है?\
+	['नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह एक लैपटॉप है?\
+	['नहीं', 'नहीं', 'नहीं', 'नहीं', '0 जो मैंने पहले कभी देखा है', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या तुम मेरे टीवी स्क्रीन पर सब कुछ पढ़ सकते हो?\
+	['नहीं', 'नहीं', 'हाँ', 'नहीं', 'उत्तर नहीं दिया जा सकता', 'नहीं', 'डीवीआर उपयोग क्षमता आपका डीवीआर 89% भरा हुआ है', 'हाँ', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप इस फ्रीबेज़ की बोतल पर खुशबू देख सकते हैं?\
+	['नहीं', 'नहीं', 'नहीं', 'नहीं', 'लेबल नहीं देख सकता', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या स्क्रीन चालू है?\
+	['नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं', 'नहीं']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस कंप्यूटर स्क्रीन पर कौन सा जानवर है?\
+	['कोई जानवर नहीं', '0', '0', '0', '0', 'कोई जानवर स्क्रीन पर नहीं', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	अन्य
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मैं इस कार्ड से एक नंबर प्राप्त करने की कोशिश कर रहा हूँ और मैं सोच रहा था कि अगर आप मुझे यह पढ़ने के लिए सक्षम हो सकता है।\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कृपया काउंटर पढ़ें।\
+	['261627.2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. थर्मोस्टेट किस तापमान पर सेट है?\
+	['72', '72', '72', '72 डिग्री', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. माउंटेन ड्यू किस बटन पर है?\
+	['5', 'ऊपर से 6', 'छठा बटन', '6वां 1 नीचे', '5', '6', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. मुझे लगता है कि यह चांदी का ओक है. यह किस वर्ष का है?\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	2000
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बिजली की आपूर्ति पर वाट कितना है\
+	['350', 'उत्तर नहीं दिया जा सकता', '350', 'अधिकतम 350 वाट', 'उत्तर नहीं दिया जा सकता', '350', '350', 'उत्तर नहीं दिया जा सकता', 'कण', 'अधिकतम 350 वाट']	350वाट
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह कहता है?\
+	['77 डिग्री', '७७', '७७', '७७', '77 डिग्री', '७७', '७७', '७७', '७७', '७७']	अन्य जानकारी प्रदान की जा रही है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप बता सकते हैं कि यह किस पदक से है?\
+	['47', '47', '47', '४७वां', 'संख्या 47 है', '47', '47', 'उत्तर नहीं दिया जा सकता', '47', 'नहीं']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कितना है?\
+	['5', '5', '5', '5', '5', '5 डॉलर', '5', 'सिंगापुर डॉलर', '5', '5 डॉलर']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ऊपर की ओर मुड़ी संख्या क्या है?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	475
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह बिल किस मूल्य का है?\
+	['20', 'र्ग्रग', '20', '20', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. वर्तमान में स्क्रीन पर क्या दिखाया गया है?\
+	['452940', '452940', 'जागती-बात करने वाली', 'संख्याएँ', 'रेडियो', '452940', 'वाकी टॉक', '452940', 'उत्तर नहीं दिया जा सकता', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. 465 से घटाकर 55 क्या है?\
+	['४१०', '४१०', '४१०', 'उत्तर नहीं दिया जा सकता', '४१०', 'उत्तर नहीं दिया जा सकता', '४१०', '४१०', '४१०', '४१०']	53
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. पांचवीं संख्या क्या है?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	8
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह बिल क्या है?\
+	['2', '2', '2', '2', '$2', 'धन', '2', '2', 'उत्तर नहीं दिया जा सकता', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. चीयर्स की एक सर्विंग में कितनी कैलोरी होती है?\
+	['110', 'छवि बहुलता', '१०४', '110', 'सौ', 'उत्तर नहीं दिया जा सकता', '10', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. ओवन किस तापमान पर सेट है?\
+	['ओवन के घुंडी', 'ओवन ताप 400 तापमान', '४२५', '450', '400', '४२५', '४२५', '400', '४२५', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. थर्मोस्टेट का तापमान क्या है? \
+	['78', '78', '78 डिग्री', '78', '78', '78', '78', '78', '78', '78']	78 डिग्री
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कितना पैसा है?\
+	['20 कनाडाई डॉलर', '20', '20', '20', '20 यूरो', '20', '20 कनाडाई डॉलर', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. तापमान कितना है?\
+	['75', '75', '75', '75', '७६', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस थर्मोस्टेट पर तापमान क्या है?\
+	['पचास', 'पचास', '55', '64 डिग्री', '55', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '54', 'उत्तर नहीं दिया जा सकता', '56']	55
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस संप्रदाय का है?\
+	['5', '5', '5', '5', 'कनाडा', '5', '5', 'अण्डा', '5', '5']	कनाडा
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस कार्ड का मूल्य बताओ।\
+	['6 हीरे', '9 हीरे', '6 हीरे', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप बता सकते हैं कि इसका मतलब है कि मेरा वजन कितना है?\
+	['210', '200', 'हाँ 200', '198', '200', '200', '200', '250', '200', '200']	अन्य व्यक्ति के वजन के साथ तुलना करना
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. नमस्ते, मैं फिर से कोशिश कर रहा हूँ. क्या आप मुझे बता सकते हैं कि इस गेज पर कितने डिग्री की संख्या है?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	59.5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि तापमान ठीक पर सेट किया गया है\
+	['78', '78', '78', '78', '78', '78', '78 डिग्री', '78 डिग्री', '78 डिग्री फ़ारेनहाइट', '78']	78 डिग्री फ्रेंच
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस चॉकलेट बार में कितने हिस्से हैं?\
+	['उत्तर नहीं दिया जा सकता', '2', '4', 'उत्तर नहीं दिया जा सकता', '4', '4 मूंगफली का मक्खन कप', '2', '2', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. एक सेशन में कितनी कैलोरी होती है?\
+	['120', '120', '120 सूखी 220 तैयार अगर तैयार 1 1 4 कप वसा रहित दूध', '120', '120', '120', '120', '120', '220', '120 सूखे अनाज 220 दूध']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह किस प्रकार का बिल है? क्योंकि मैं बीस की तलाश कर रहा हूँ और मुझे लगता है कि यह दस है लेकिन मैं वास्तव में यह नहीं बता सकता।\
+	['10 यूरो', '10', '10', 'उत्तर नहीं दिया जा सकता', '10', '10', '10 लाल सफेद शर्ट पर बिछाए', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या इस पट्टी में एक या दो गुलाबी रेखाएं हैं? एक दूसरी से हल्का हो सकता है।\
+	['ब्यू', '1', '1 पंक्ति', '1 अंधेरी रेखा', '1', '1', '1', '1', '1', '1']	एक
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि यह संख्या क्या है, धन्यवाद?\
+	['3248849064', '3248849084', 'उत्तर नहीं दिया जा सकता', '3248849084', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '3248849084', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या आप मुझे बता सकते हैं कि मेरा वजन कितना है?\
+	['1', '1', 'उत्तर नहीं दिया जा सकता', '1', '1', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'रिक्त पैमाना', '1']	122
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस थर्मोस्टेट पर वर्तमान तापमान सेटिंग क्या है?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'थर्मोस्टेट']	70 डिग्री
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. क्या यह 5 या 10 कनाडाई डॉलर का नोट है?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 कनाडियन']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कॉल आईडी क्या है? धन्यवाद.\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'उत्तर नहीं दिया जा सकता', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186 08/07 23:39
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. पांच अंकों की संख्या क्या है?\
+	['23442', '23442', '23442', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'केवल 2 अंक 69 देखें', '23442', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह कितने औंस है?\
+	['23.6', '20', '20', '24', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '३३', 'उत्तर नहीं दिया जा सकता', 'gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस थर्मामीटर पर तापमान क्या कहता है? बहुत बहुत धन्यवाद।\
+	['72', '72', '72', '72', '72', '72', '72', '72 डिग्री', '72', '72 डिग्री']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस पृष्ठ का नंबर है?\
+	['2', '2', '2', '2', '2', '2', '2', 'उत्तर नहीं दिया जा सकता', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['8888', 'उत्तर नहीं दिया जा सकता', 'कुछ नहीं', '8888', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', '8888', '888', 'कुछ नहीं', 'खाली']	अन्य जानकारी प्रदान की जा रही है
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. कौन सा पृष्ठ संख्या प्रदर्शित है? धन्यवाद.\
+	['123', '121', '121', '121', 'उत्तर नहीं दिया जा सकता', '121', '121', '१२८', '३२१', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह किस नंबर पर है?\
+	['२६', '२६', '२६', '२६', '२६', 'कागज', '२६', '२६', '२६', '२६']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. यह क्या कहता है?\
+	['उत्तर नहीं दिया जा सकता', '40', '40', 'उत्तर नहीं दिया जा सकता', 'उत्तर नहीं दिया जा सकता', 'संख्याएँ', '40', '40', '40 पाउंड हवा', '30']	उत्तर नहीं दिया जा सकता
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer hi When the provided information is insufficient, respond with 'उत्तर नहीं दिया जा सकता'. इस बॉक्स में कितनी गोलियाँ हैं?\
+	['8 टैबलेट', '8', '8', '8', '8', '8', '8', '8 टैबलेट', '8', '8']	8

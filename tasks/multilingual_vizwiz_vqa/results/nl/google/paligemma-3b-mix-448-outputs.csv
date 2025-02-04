@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het papier?\
+	['onbeantwoordbaar', 'Australië Post', 'Post', 'onbeantwoordbaar', 'Australië Post', 'Australische post', 'Australië Post', 'Australië Post', 'onbeantwoordbaar', 'Australië Post']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen wat er op dit computerscherm staat?\
+	['iconen voor klok weer enz.', 'Startvenster', 'desktop', 'tijd', 'tijd', 'iconen', 'Desktop pictogrammen', 'onbeantwoordbaar', 'Desktop pictogrammen', 'iconen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor cd?\
+	['leeg', 'lege cd', 'Maxwell', 'Maxell cd r', 'leeg', 'leeg', 'deken', 'leeg', 'leeg', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is de foto van?\
+	['voet', 'voet', 'Schram op de voet', 'voet', 'voet', 'voet', 'voet', 'voet', 'voet', 'voet']	fod
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen wat dit voor blik is?\
+	['jacht', 'manwich', 'manwich', 'Jacht slordig Joe saus', 'Sloppy Joe saus', 'manwich', 'Man, die stoutmoedig slordig Joe saus', 'niet-verzadigd', 'manwich', 'Sloppy Joe.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Diet coke soda', 'Diet coke kan', 'Diet coke', 'kan dieet cola', 'Diet coke', 'Diet coke', 'Diet coke', 'coke', 'zout', 'kan dieet cola']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kruid?\
+	['Mevrouw Dash.', 'onbeantwoordbaar', 'Mevrouw Dash.', 'onbeantwoordbaar', 'Ik kan het niet zeggen.', 'alle kruiden', 'Basilengemengde', 'Mrs. Dash tafel mengsel', 'deeltje', 'Mevrouw Dash.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['mtn dauwfles', 'bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'mt dauw']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['koffie', 'onbeantwoordbaar', 'koffie', 'koffie', 'koffie', 'koffie', 'koffie', 'koffie', 'koffie', 'onbeantwoordbaar']	koffie
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zie je? - Ik zie niets.\
+	['huid', 'vingerdorens', 'deur', 'deur', 'Vingerdeur', 'deur', 'onbeantwoordbaar', 'deur', 'huis', 'Vingerzwart bont']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op mijn computerscherm te zien?\
+	['Wil je je computer herstellen met systeemherstel?', 'Systeemherstel verschijnt', 'bericht van systeemherstel', 'Vraagt of u uw computer wilt herstellen met behulp van systeemherstel', 'doos', 'systeemherstel', 'Wil je je computer herstellen met systeemherstel?', 'De computer is niet gestart.', 'Herstel ingesteld', 'systeemherstel']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['warme cacao', 'warm cacao mengsel', 'warme chocolade', 'warm cacao mengsel', 'cacao', 'warm cacao mengsel', 'warme cacao', 'chocolade-mix', 'cacao', 'cacao-mengsel']	hot cocoa mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me het 1-800 nummer op deze kaart vertellen?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', 'De Commissie heeft de Commissie verzocht:', '1 877 328 9677', '18007352929']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['computerbeeldscherm', 'computerbeeldscherm', 'computerbeeldscherm', 'laptop', 'computerbeeldscherm met zoekresultaten', 'scherm', 'computerbeeldscherm', 'computerbeeldscherm', 'scherm van de monitor', 'computerbeeldscherm']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Saladdressing achterkant', 'verpakking', 'Saladdressing', 'Saladdressing', 'Balsamische salade-dressing', 'Saladdressing', 'onbeantwoordbaar', 'Saladdressing', 'Saladdressing', 'Saladdressing']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op de foto?\
+	['raam', 'ontwerp', 'glasglas venster met een zwart ontwerp', 'glas vensterpaneel in deur', 'Glas venster in deur', 'deur', 'glas in kleur', 'deur', 'raam', 'raam']	gekleurde glasdeur
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan iemand me vertellen wat de beveiligingsvraag is op het scherm, alsjeblieft?\
+	['Arawak', 'onbeantwoordbaar', 'Arawak', 'Arawak', 'Arawak', 'Arawak', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Arawak', 'Arawak']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['wijn', 'zilveren eik', 'zilveren eik', 'wijn van zilveren eik', 'wijn', 'fles', 'wijn', 'wijn', 'zilveren eik 2003 cabernet sauvignon', 'zilveren eik 2003']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welk merk monitor is dit?\
+	['- Ik weet het.', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor drankje?\
+	['zout', 'gember ale', 'Algemeen', 'gemberzout', 'Canada droog', 'Canada droog', 'gember ale', 'Canada droog', 'gember ale', 'gember ale']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur heeft het tapijt?\
+	['beige', 'beige', 'bruin', 'grijs', 'blauw', 'room', 'bruin', 'bruin', 'beige', 'blauw']	beige
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['telefoon', 'telefoon', 'telefoon', 'telefoon', 'telefoon', 'telefoon', 'digitale telefoon', 'telefoon', 'kantoortelefoon', 'telefoon']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor beeld?\
+	['bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'bergdauw', 'moutendauw', 'mtn dauwfles', 'bergdauwzout', 'Mtn dauw']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor fles?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'lotion', 'zout', 'onbeantwoordbaar', 'lotion', 'lotion', 'lotion', 'onbeantwoordbaar', 'lotion']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['water van aquafina', 'fles aquafina water', 'water', 'water', 'plastic fles water van het merk aquafina', 'flessenwater', 'waterfles', 'water van aquafina', 'water', 'plastic waterflessen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['Google zoeken', 'Google zoekmachine tabblad', 'Google zoekpagina', 'Google', 'Google', 'computer', 'Google-homepagina', 'Google pagina', 'computerbeeldscherm', 'computerbeeldscherm']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zijn dit?\
+	['sleutels', 'sleutels', 'sleutels', 'sleutels', 'sleutels', 'sleutels', 'sleutels', 'sleutels', 'sleutels', 'sleutels']	sleutels
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Lees me het foutbericht op het scherm voor.\
+	['onbeantwoordbaar', 'ongeldige productcode', 'ongeldige productcode', 'onbeantwoordbaar', 'ongeldige productcode', 'ongeldige productcode', 'ongeldige productcode', 'ongeldige productcode of verwijder productcode in onbewaakte antwoordbestand om verder te gaan', 'ongeldige productcode verwijder productcode in het antwoordbestand om verder te gaan', 'ongeldige productcode']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is mijn laptop?\
+	['bureau', 'op het bureau', 'bovenste bureau naast bed', 'op het bureau', 'bureau', 'bureau', 'op het bureau', 'op het bureau', 'bovenste bureau', 'bureau']	on desk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de titel van dit boek?\
+	['hondenjaren', 'Hondenjaren: memoires', 'hondenjaren', 'hondenjaren', 'hondenjaren', 'hondenjaren', 'hondenjaren', 'hondenjaren', 'hondenjaren', 'hondenjaren']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Macbook', 'toetsenbord', 'toetsenbord', 'toetsenbord', 'computer', 'toetsenbord', 'laptop', 'laptop', 'laptop', 'computer-scherm toetsenbord']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zie je? - Ik zie niets.\
+	['tafelvenster', 'bloemen', 'onbeantwoordbaar', 'tafelvenster', 'boekboekpen', 'bloemen', 'dept', 'boek', 'raam', 'bloemen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke verpakking bevat gewone bloem?\
+	['roodwit pakket', 'links', 'dat 1', 'rood 1 links', 'links', 'onbeantwoordbaar', 'links', 'links', 'rood wit 1', 'rood 1']	tesco
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['voetbal', 'voetbal', 'voetbal', 'Paarse oranje pluis voetbal alligator op', 'Alligators voetbal', 'alligators soft football', 'volgelopen voetbal', 'gevulde oranje blauwe voetbal', 'paarse voetbal', 'Glutenhoudende']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor kleur is het?\
+	['grijs', 'goud', 'goud', 'beige', 'rood', 'goud', 'onbeantwoordbaar', 'onbeantwoordbaar', 'goud', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['menu', 'onbeantwoordbaar', 'menu', 'menu', 'menu', 'Inhoud van de tabel', 'menu', 'menu', 'prijslijst', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['waterfles', 'springvorne', 'Springbourne water', 'Springbourne', 'gebotteld water', 'water', 'waterfles', 'gebotteld water', 'water in fles', 'water']	water
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor soep?\
+	['progress', 'progress', 'progress', 'onbeantwoordbaar', 'progress', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'progress', 'progress']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik weet dat dit een blikje eten is.\
+	['groene bonen', 'groene bonen', 'groene bonen', 'groene bonen', 'groene bonen', 'onbeantwoordbaar', 'groene bonen', 'eef', 'groene bonen', 'groene bonen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dat?\
+	['chex mix', 'scheurmolens', 'Chex mix computer', 'onbeantwoordbaar', 'chex mix', 'voedsel', 'chex mix', 'chex mix', 'chex mix', 'chekmix']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er? - Ik heb geen idee.\
+	['micro-wave', 'micro-wave', 'medicijnen', 'apparaten jelly beansoep', '- Kannensoep.', 'kopje soep om te drinken', 'Keuken', 'keuken counter', 'crème', 'soep']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor blik?\
+	['Gemengde groenten', 'Gemengde groenten', 'Gemengde groenten', 'Gemengde groenten', 'Gemengde groenten', '- Het is een beetje...', 'Gemengde groenten', 'menggroenten', 'Gemengde groenten', 'Gemengde groenten']	gemengde groenten
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor soort?\
+	['glazuur voor taart', 'vanille', 'vanille', 'vanille glazuur', 'Betty Crocker', 'vanille glazuur', 'vanille', 'vanille glazuur', 'vanille', 'vanille']	whipped cream
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke doos kijk ik, wat zit er in de doos?\
+	['graanbalkdoos', 'natuurvallei geroosterde amandelgranola bars', 'granaalbalken', 'natuurvallei', 'gebraden amandelgranaalbars', 'natuurvallei geroosterde amandelgranola bars', 'natuurvallei knapperige granola bars geroosterde amandel smaak', 'granaalbalken', 'granaalbalken', 'gebraden, kruisende granola bars van amandel']	granola bars
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er met het gekleurde doek?\
+	['groen wit', 'wit donkergroen', 'wit groen', 'wit groen', 'roze groen', 'witte, roomgroene stof', 'roze zwart', 'groen wit', 'paarse zwarte stropdaskleurstof', 'witte groene spatters']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op het computerscherm te zien?\
+	['muispijl', 'cursor', '- Niets.', 'blauw', 'blauw scherm', 'pijl', 'leeg', 'blauwe pijl', 'leeg', 'blauw scherm']	blauwe achtergrond
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hallo, wie is het?\
+	['witte kat', 'kat', 'kat', 'witte kat', 'kat', 'onbeantwoordbaar', 'kat', 'kat', 'Deze kat.', 'kitty']	kat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Purell geavanceerde hand sanitizer', 'handreiniger', 'handreiniger', 'purell handreiniger', 'handreiniger', 'handreiniger', 'handreiniger', 'handreiniger', 'handreiniger', 'purell handreiniger']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er in het foutbericht?\
+	['ongeldige productcode', 'ongeldige productcode', 'ongeldige productcode', 'ongeldige productcode', 'niet-gerechtigd product', 'ongeldig product-sleutel klik op OK om door te gaan', 'Onwerkbare productcode verwijder de productcode in het antwoordbestand om verder te gaan', 'niet-gerechtigd product', 'ongeldige productcode', 'ongeldige productcode']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen wat er op dit bericht op mijn computerscherm staat?\
+	['Een soort van reparatie finish knop in rechtsonder', 'Start reparatie laatste succesvolle opstart 9 20 2012 1 reparatie poging close back finish annuleren', 'onbeantwoordbaar', '- Nee, niet', 'Start reparatie', 'Start reparatie', 'Start reparatie', 'onbeantwoordbaar', 'Start reparatie voltooid diagnostisch scherm sluiten knop', 'Start reparatie']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor vlees is dit, kip of worst?\
+	['kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kipdijen', 'onbeantwoordbaar', 'kip']	kip
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kleur?\
+	['elektrisch blauw', 'blauw', 'blauw', 'blauw', 'blauw', 'blauw', 'blauw', 'blauw', 'blauw', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het scherm?\
+	['het installeren van ramen', 'Installeer Windows plus meer onleesbaar', 'het installeren van ramen', 'het installeren van ramen', 'het installeren van ramen', 'Dit scherm geeft aan dat Windows installeert een lijst met stappen voor installatie', 'het installeren van ramen', 'het installeren van ramen', 'het installeren van ramen', 'het installeren van ramen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. De hemel ziet eruit als op deze foto.\
+	['gedeeltelijk bewolkt', 'donkere wolken', 'grote wolk', 'Een enorme wolk, donkere hemel.', 'overwolk', 'bewolkt', 'blauwe wolken', 'onbeantwoordbaar', 'gigantische regenwolk blauw aan de zijkant', 'bewolkt']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['veranda', 'stoel', 'stoel', 'stoel', 'onbeantwoordbaar', 'bank', 'stoel', 'stoel', 'metalen raam venster', 'stoel']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Foto', 'deur', 'deur', 'bar', 'deuren met glazen panelen', 'deur', 'restaurant', 'restaurant', 'deuren', 'deuren']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op mijn scherm?\
+	['selecteer opstartapparaat', 'Selecteer de opstarttoestel 3 keuzes', 'onbeantwoordbaar', 'Selecteer het opstartapparaat', 'boot-scherm', 'Selecteer het opstartapparaat', 'fout', 'Selecteer het opstartapparaat', 'apparaat selecteren bericht', 'Selecteer het opstartapparaat']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voorwerp?\
+	['asbak', 'decoratieve bronzen beeldhouwwerk leeuwin', 'beeld', '- Nee, niet', 'asbak', 'asbak', 'beeld', 'hondenschaal', 'asbak', 'Plaagtijger bovenop']	beeld
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor sigaretten zijn dit?\
+	['Amerikaanse geest', 'Amerikaanse geest', 'Amerikaanse geest', 'Amerikaanse geest', 'Amerikaanse geest', 'Zwarte verpakte Amerikaanse drankjes', 'Amerikaanse geest', 'Amerikaanse geest', 'Amerikaanse geest', 'Amerikaanse geest']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Guava ginseng', 'thee', 'thee', 'thee', 'thee', 'thee', 'thee', 'thee', 'thee', 'thee']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze fles?\
+	['lichaamslotion', 'lichaamslotion', 'lichaamslotion', 'lotion', 'Shea body lotion vitamine E', 'Maanschijn pad Shea vitamine E body lotion', 'lichaamslotion', 'Lichaamslotion voor maanlicht', 'Lichaamslotion voor maanlicht', 'lotion']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is dit een foto van?\
+	['bril', '- De kofferbak', 'glazen', 'bril, zilveren frame', 'oogbrillen', 'glazen', 'raam voor een bril', 'glazen', 'glazen', 'glazen']	bril
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Dit is een product.\
+	['- Ja, dat is het.', 'Tomatensoep', 'Tomatensoep', 'soep', 'soep in blik', 'Tomatensoep', 'Tomatensoep', 'Tomatensoep', 'soep', 'selecteer tomatensoep']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['telefooncel', 'iPhone', 'iPhone doos', 'telefoon', 'mobiele telefoon', 'mobiele telefoonbox', 'smartphone', 'telefoon', 'slimme telefoon', 'iPhone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is dit een foto van?\
+	['snoepbak', 'viering rode doos', 'verantwoordelijk', 'zegt viering', 'doos', 'snoep', 'partij gunst', 'feestdagen', 'doos', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['champagne', 'wijnglas theepot', 'glas', 'glaswijn', 'glas champagne wijn naast een kopje koffie op het bord', 'drinken in een glas op tafel', 'champagne', 'glas voor theekop', 'theepot champagne glas', 'champagne glas bord op tafel in het voorraam venster uitzicht op de stad']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de smaak van dit?\
+	['oranje', 'oranje groen geel rood', 'oranje munt', 'oranje', 'onbeantwoordbaar', 'onbeantwoordbaar', 'oranje', '2 links oranje kersen citroen rechts onder wintergroen', 'oranje', 'oranje']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik vroeg me af wat er in dit blikje zat.\
+	['Coca-Cola', 'Coca-Cola', 'zout', 'Coca-Cola', 'zout', 'soda-coke', 'zout', 'zout', 'Coca-Cola', 'zout']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de instelling op deze droger?\
+	['tegen de klok in regelmatige rimpelcontrole tijd droog delicaat rimpel vrijlating lucht pluis', 'regelmatig', 'weg', 'weg', 'weg', 'regelmatig', 'weg', 'niet op instelling', '- Niets.', 'weg']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['tablet', 'tablet', 'telefoon-apps', 'scherm', 'lijst van apps', 'App Store', 'tablet', 'lijst van apps om te downloaden', 'onbeantwoordbaar', 'App downloads']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zie ik hier?\
+	['televisie', 'TV-kast', 'televisie', 'televisie', 'tv-scherm', 'televisie', 'Tom Selleck op tv.', 'televisie', 'televisie', 'open tv met deuren']	Een televisie die op een kleine houten tafel staat.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kleur?\
+	['wit', 'wit', 'wit', 'wit', 'beige', 'wit', 'ivoor', 'onbeantwoordbaar', 'beige', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['dit voedingsmiddel', 'ravioli', 'ravioli', 'ravioli', 'ravioli', \"Chef Boyardee , mini ravioli ' s .\", \"mini-ravioli's in blik\", 'ravioli', 'chef boya mini ravioli', 'mini ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['roostervlees', 'roast beef', 'roast beef', 'roast beef', 'traditionele rundvlees', 'roast beef', 'roast beef', 'traditionele rundvlees', 'roast beef', 'roast beef']	traditionele roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor product?\
+	['Diet Pepsi', 'cafeïnevrije dieet pepsi', 'Pepsi', 'Pepsi', 'Diet Pepsi', 'Diet Pepsi', 'Diet Pepsi', 'Diet cafeïnevrije pepsi', 'Diet Pepsi', 'Diet Pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe heet dit?\
+	['Oost-', 'bonen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'voedsel', 'bonen', 'trail mix', 'graan', 'noten', \"zak pinda's\"]	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit gewone of cafeïnevrije koffie?\
+	['regelmatig', 'onbeantwoordbaar', 'regelmatig', 'regelmatig', 'regelmatig', 'regelmatig', 'onbeantwoordbaar', 'onbeantwoordbaar', 'regelmatig', 'regelmatig']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['macaroni kaas', 'macaroni kaas', 'macaroni kaas', 'macaroni kaas', 'macaroni kaas', 'Maccheese', 'macaroni kaas', 'macaroni kaas', 'macaroni kaas', 'macaroni kaas']	macaroni en kaas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze fles?\
+	['verzachtende lotion', 'lotion', 'lotion', 'lotion', 'verzachtende crème', 'lotion', 'vochtinbrengende crème', 'lichaamscrème', 'diep vocht lichaam wassen', 'lichaam wassen']	shea butter
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er? - Ik heb geen idee.\
+	['bureau stoel', 'stoel', 'stoel', 'kantoorstoel', 'kantoorstoel', 'deze kantoorstoel', 'stoel', 'bureau stoel', 'stoel', 'grijs kantoor stoel']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat was dat voorwerp waar ik net een foto van nam?\
+	['computermonitor', 'computer', 'computerbeeldscherm', 'onbeantwoordbaar', 'onbeantwoordbaar', 'laptop', 'computerbeeldscherm', 'laptop', 'computermonitor', 'laptopcomputer']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['vlees van varkensvlees', 'vlees', 'Een soort rood vlees.', 'vlees in verpakkingen', 'vlees van varkens', 'varkensvlees', 'onbeantwoordbaar', 'vlees', 'fg', 'varkensvlees']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe ziet de lucht er op deze foto uit?\
+	['bewolkte dag', 'gedeeltelijk bewolkt', 'bewolkt', 'bewolkt', 'bewolkt', 'bewolkt', 'bewolkt', 'bewolkt', 'bewolkt', 'regen']	donker
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wacht je tot de tijd opraakt?\
+	['onbeantwoordbaar', 'Spaghetti', 'Spaghetti', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Spaghetti', 'Spaghetti', 'spiegel', 'eten', 'pizza']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['bloemen', 'bloem', 'bloemen', 'bloemen', 'bloem', 'bloemen', 'planten', 'bloemen', 'bloem', 'iris']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor iets?\
+	['losse thee', 'thee', 'onbeantwoordbaar', 'thee', 'thee', 'thee', 'thee', 'thee', 'thee', 'thee']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor kleur en patroon hebben deze shorts?\
+	['plaid', 'blauw-geel', 'blauw oranje groen', 'blauw bruin wit gekleurd', 'Blauw pleister boven, geel pleister onderaan.', 'veelkleurig', 'blauw bruin wit gekleurd', 'plaid', 'blauw gekleurde', 'blauw wit groen geel gekleurd']	geblokte kleur geel groen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor kleur was de koffer?\
+	['groen', 'groen', 'Limegroen', 'groene kleur', 'groen', 'groen', 'groen', 'groen', 'heldergroen', 'groen']	groen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit een gewone cola of een dieet cola?\
+	['Diet coke', 'voeding', 'voeding', 'voeding', 'voeding', 'voeding', 'Diet coke', 'voeding', 'Diet coke', 'voeding']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['pen', 'toetsenbordpen', 'pen', 'pen', 'pen', 'pen', 'pen', 'pen', 'pen', 'Bi-pen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['lamp kan pringles', 'lamp', 'lamp', 'lamp', 'Pringle kan naast cd lamp', 'lamp zonder schaduw', 'lamp', 'tafelpringles lamp mondwater', 'lamp', 'lamp']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat doet deze computer?\
+	['controle-systeem', 'onbeantwoordbaar', 'schijfcontrole', 'controle-schijf', 'onbeantwoordbaar', 'onbeantwoordbaar', 'laden', 'Configuratie', 'controle op consistentie', 'opnieuw opstarten']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor frisdrank is dit?\
+	['Diet coke', '- De', 'Diet coke', 'Diet coke', 'Diet coke', 'Diet coke', 'Diet coke', 'Diet cola citroen', 'Diet coke', 'Diet coke']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Vertel me alsjeblieft wat dit boek is.\
+	['Clive Cussler Dirk Cussler', 'onbeantwoordbaar', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'wetenschappelijke', 'de spanning', 'Olive Cussler Dirk Cussler', 'actie', 'onbeantwoordbaar', 'Clive Cussler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor wijn?\
+	['onbeantwoordbaar', 'Vieren huwelijk David Emma rode wijn', 'Nash .', 'Nash .', 'Nash .', 'Nash .', 'Nash .', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Nash wijn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['yoghurt', 'onbeantwoordbaar', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de titel van dit boek?\
+	['hondenjaren', 'hondenjaren', 'hondenjaren', 'hondenjaren', 'onbeantwoordbaar', 'hondenjaren', 'onbeantwoordbaar', 'hondenjaren', 'hondenjaren', 'hondenjaren']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Sony laptop', 'laptop', 'laptop', 'computer', 'laptop', 'Sony Vaio laptop', 'laptop', 'Sony Vaio', 'Sony laptop', 'laptop']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik vraag me af wat voor merk deze computer is.\
+	['- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...', '- Ik ben niet...']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit tomaten of enchilada saus?\
+	['strijd', 'Op het achterblad staat niet:', 'onbeantwoordbaar', 'Tomaten', 'Tomaten', 'Tomaten', 'onbeantwoordbaar', 'Tomaten', 'onduidelijk beeld', 'Tomaten']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Pudding', 'broodjes', 'vanillepudding', 'Pudding', 'vanillepudding', 'Pudding', '6 verpakkingen van vanillepudding', 'puddingbekers', 'Pudding', 'snackpak pudding']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['20 dollar Canadese biljet', '20 dollar Canadese biljet', '20 Canadees', 'geld', 'geld op kant', '20 dollar biljet', 'geld', '20 dollar Canadese briefje', '20 dollar.', 'geld']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['Lasagne', 'Lasagne', 'speciale lasagne', 'Lasagne', 'speciaal lasagne', 'speciale lasagne', 'Lasagne', 'Lasagne', 'Lasagne', 'Lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor koffie is dit?\
+	['espresso', 'espresso', '- Ik ben een echte vriend.', 'Espresso uit het regenwoud', 'Espresso uit het regenwoud', 'espresso', 'extra vet', 'espresso voor tropische', 'extra vet espresso voor tropisch', 'Timotheüs']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dat voor foto?\
+	['klavier wijnglas', 'laptop', 'laptop toetsenbord wijn bier', 'onbeantwoordbaar', 'computer', 'computer', 'laptop drankje', 'laptop op het bureau naast glasvloeistof', 'Laptopglas', 'glas laptop']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['titelboek', 'boek', 'boekje', 'nota', 'Demon rum, makkelijk geldboek.', 'Demon rum makkelijk geld: overheid controle drank in British Columbia', 'boek', 'boek', 'titelpagina boek', 'boekje']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat lag er op tafel?\
+	['notitieboek', 'andere papieren', 'een notebook met een spiraalring', 'papierpen', 'notitieboek', 'notebookpen', 'notitieboek', 'notebookpen', 'papierpen', 'notitieboek']	boek
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is deze shirt van kleur?\
+	['blauw wit gekleurd', 'blauw wit', 'blauw wit gekleurd', 'blauw wit', 'blauw', 'blauw wit', 'blauw wit', 'blauw gekleurde', 'blauw', 'blauw']	blauw
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['André Chardonnay', 'champagne', 'Andre', 'champagne', 'wijn', 'champagne', 'champagne', 'champagne', 'fles champagne', 'champagne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de naam van het product in het blikje op de foto?\
+	['Lysiol', 'Lysiol', 'Lysiol', 'Lysiol', 'Lysiol', 'Lysiol', 'Lysiol', 'Lysiol', 'Lysiol', 'Lysiol']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor koffie is dit?\
+	['Gevalia', 'maxima gevalia koffie', 'Maximo', 'Gevalia espresso', 'Maximo', 'zwarte koffie', 'Maximo', 'onbeantwoordbaar', 'Gevalia', 'Gevalia']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['Dr. Pepper', 'kan dr peperzout', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'dr peperzout', 'Dr. Pepper', 'kan dr peperzout', 'Dr. Pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me alsjeblieft vertellen wat dit is, dank u?\
+	['instant koffie', 'instant koffie', 'klassieke koffie', 'Koffiepakket', 'onbeantwoordbaar', 'koffie', 'koffie', 'koffiepoeder', 'koffie', 'Necafe klassieker']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur hebben de drie draden van links naar rechts?\
+	['rood zwart wit', 'rood zwart wit', 'rood zwart bruin', 'rood zwart wit', 'rood zwart wit', 'rood zwart wit', 'rood zwart wit', 'rood zwart wit', 'rood blauw wit', 'rood zwart wit']	rood, zwart en wit.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat laat deze zwangerschapstest zien?\
+	['1 lijn', 'negatief', 'negatief', '1 lijn maar verf verspreid probeer een andere', 'onbeantwoordbaar', '1 streep', 'Geen beeld', 'rode lijn', 'onbeantwoordbaar', 'blauw merk rood merk']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe heet dit kruid?\
+	['Mrs. vers citroenenpeper mengsel', 'deeltje', 'Mevrouw Dash.', 'Mrs. Dash citroenpeper', 'Mevrouw Dash.', 'Mevrouw Dash.', 'peper', 'Mevrouw Dash.', 'Mevrouw Dash.', 'Mevrouw Dash.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor drank zit er in de fles in mijn rechterhand?\
+	['Pepsi', 'Pepsi-soda', 'Diet Pepsi', 'Diet Pepsi', 'Diet Pepsi', 'Pepsi', 'Diet Pepsi', 'Pepsi-dieet', 'Diet Pepsi', 'Diet Pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['videospelletjes', 'videospelletjes', 'basketbalwedstrijd', 'videospelletjes', 'onbeantwoordbaar', 'DVD-speler', 'onbeantwoordbaar', 'spel', 'videospelletjes', 'DVD-speler']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['ketchup', 'ketchup', 'Heinz tomaten ketchup', 'ketchuppakket', 'ketchupverpakking', 'ketchup', 'ketchup', 'ketchuppakket', 'ketchup', 'ketchup']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleuren hebben deze hemden?\
+	['rood wit', 'bruin', 'rood wit', 'rode witte strepen', 'rode witte strepen', 'rood wit', 'rood wit', 'rood wit', 'rood wit', 'rood wit']	rood wit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in dit pakje?\
+	['Parlement beeld', 'muziekalbum', 'sigaretten', 'sigaretten', 'sigaretten', 'sigaretten', 'inlegfilters voor pahament', 'Parlementssigaretten', 'kaarten', 'andere']	zeker
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur heeft deze mat?\
+	['paars', 'paars', 'paars', 'paars', 'paars', 'paars', 'paars', 'paars', 'paars', 'paars']	paars
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is de dialoog in die foto zichtbaarder?\
+	['verveeld', '- Ja, dat is het.', '- Nee, niet', '- Ja, dat is het.', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor product?\
+	['groene bonen', 'groene bonen', 'groene bonen', 'kan', 'bonen', 'groenten', 'onbeantwoordbaar', 'groene bonen', 'fg', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor blik?\
+	['varkensvlees', 'varkensvlees', 'varkensvlees en bonen', 'varkensvlees', 'varkensvlees', 'varkensvlees', 'varkensvlees', 'varkensvlees', 'varkensvlees', 'varkensvlees']	pork beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor wijn?\
+	['onbeantwoordbaar', '- Ja, ik weet het.', 'Vintage 2008 produceer Nash', 'Nash .', 'Nash .', 'trouwgeschenk', 'Nash viert het huwelijk David Emma 16 juli 2011', 'Nash .', 'Nash .', 'viering huwelijk']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor eten?\
+	['Tomatensaus', 'Tomatensaus', 'Biologische tomatensaus', 'Tomatensaus', 'Tomatensaus', 'Tomatensaus', 'Muir Glen biologische tomatensaus', 'Tomatensaus', 'Muir Glen biologische tomatensaus', 'Tomoto']	tomatensaus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor smaak is dit?\
+	['Aardbeien', 'Aardbeien', 'Aardbeien', 'Aardbeien', 'Aardbeien', 'Aardbeien', 'Aardbeien', 'Aardbeien', 'Aardbeien', 'Aardbeien']	aardbeien
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen welke kleur dit is?\
+	['zwart', 'zwart', 'zwart', 'zwart', 'zwart', 'zwart', 'zwart', 'zwart', 'zwart', 'zwart']	zwart
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dat? - Een auto.\
+	['plant', 'decoratieve plant', 'Aloe', 'kamerplant', 'kamerplant', 'huisplant', 'plant', 'huisplant', 'plant', 'grasplant']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['tijdschrift', 'stripboek', 'stripboek', 'bordspel voor volwassenen', 'tijdschrift', 'Kleurenboek', 'Vreemd kerstboek.', 'Ik weet niet of ik die taal kan lezen.', 'Kerstgroetekaartjes', 'stripverhaal']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['Kippen diner.', 'voedsel', 'kip van Dijon', 'kip van Dijon', 'kip van Dijon', 'voedsel', 'kip van Dijon', 'kip', 'kip van Dijon', 'kip van Dijon']	kip dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor koffie is dit?\
+	['Gevaliaa', 'Gevalia', 'Frans vanille', 'Frans vanille', 'Gevaliaa', 'Gevaliaa', 'Frans vanille', 'Frans vanille', 'Frans', 'Gevaliaa vanille']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voorwerp?\
+	['iPhone', 'telefoon', 'telefoon', 'iPhone', 'mobiele telefoon', 'mobiele telefoon', 'mobiele telefoon', 'Ik bel.', 'smartphone', 'smartphone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'sigaretten', 'pakje sigaretten', 'sigaretten', 'pakje sigaretten', 'sigaretten', 'sigaretten', 'onbeantwoordbaar', 'sigaretten', 'sigaretten']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor smaak is dit?\
+	['vlees van runderen', 'met een smaak van rundvlees', 'vlees van runderen', 'kalkoen met een smaak van rundvlees', 'vlees van runderen', 'Bies smaak', 'kalkoen met een smaak van rundvlees', 'vlees van runderen', 'Deze rundvlees smaak', 'vlees van runderen']	rinderbroth
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['grote beker', 'kopje', 'kopje', 'kopje', '- Ik hou van Togo Cup.', 'kopje', 'Pop cup en andere dingen.', 'een beker van styrofoom', 'kopje', 'Deze beker.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit dieet Pepsi of gewone Pepsi?\
+	['Diet Pepsi', 'voeding', 'onbeantwoordbaar', 'voeding', 'Diet Pepsi', 'voeding', 'voeding', 'voeding', 'Diet Pepsi', 'voeding']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het scherm?\
+	['Avast software', 'scannen van lokale schijven', 'ramen', 'foutmelding', 'scannen', 'Avast software scant Windows XP', 'ramen', 'onbeantwoordbaar', 'Windows XP', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik probeer het opstarten menu te openen en ik probeer te opstarten vanaf een USB-stick.\
+	['Druk op de pijl naar beneden en voer in voor usb', 'opstartmenu op opstarten vanaf hdd optie', 'onbeantwoordbaar', 'U bootmood', 'Selecteer het opstartapparaat', 'Selecteer het opstartapparaat:', 'Selecteer de opstarttoestel hdd: pm st9250315as', 'Selecteer het opstartapparaat', 'schermkop: selecteer het opstartapparaat. Verplaats de pijl naar beneden naar usb:usb disk pro', 'Selecteer het opstartapparaat']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen wat voor smaak dit is?\
+	['dieet dr peper', 'dieet dr peper', 'dr peper dieet', 'Dr. Pepper', 'dieet dr peper', 'dieet dr peper', 'dieet dr peper', 'cola', 'dieet dr peper', 'dieet dr peper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor soep?\
+	['groentensoep', 'progress', 'progressief', 'onbeantwoordbaar', 'Progresso groente', 'onbeantwoordbaar', 'groenten', 'Progresso groente', 'groenten', 'progress']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor auto is dit?\
+	['onbeantwoordbaar', 'Lincoln Crown Victoria', 'Een soort van vierdeurs sedan .', '- Ik ben hier.', 'Ford Crown Victoria', '- Ik ben hier.', 'Chevrolet', 'kroon Victoria', 'onbeantwoordbaar', 'Ford']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit koffie?\
+	['Gevalia', 'Gevalia', 'Gevalia', 'Gevalia, Zwitserse hazelnoot', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['handreiniger', 'handreiniger', 'handreiniger', 'handreiniger', 'handreiniger', 'handreiniger', 'handreiniger', 'germx', 'handdesinfectiemiddel voor ziektekiemen', 'handdesinfectiemiddel voor ziektekiemen']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dat voor blik?\
+	['soep', 'vruchten', 'onbeantwoordbaar', 'onbeantwoordbaar', 'soep', 'onbeantwoordbaar', 'soep', 'onbeantwoordbaar', 'laden', 'soep']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kleur?\
+	['bruin', 'bruin', 'bruin', 'oakbruin', 'bruin', 'bruine esdoorn', 'van hout', 'bruin', 'bruin', 'bruin']	bruin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'hand', 'hand', 'onbeantwoordbaar', 'hand', 'hand', '1 rechterhand', 'hand', 'hand', 'hand']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de pot inrichting?\
+	['kopje', 'hoog', 'hoog', 'hoog', 'hoog', 'hoog', 'laag', 'hoog', 'hoog', 'hoog']	on
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen wat dit is?\
+	['artikelen voor blinden', 'cd', 'omgekeerde cd', 'artikelen voor blinde schijven', 'cd', 'schijf', 'Boek op cd', 'cd', 'cd-artikelen voor blinden', 'Speer van James Herbert DVD']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dat? - Een auto.\
+	['computers monitor toetsenbord', 'monitor', 'computermonitor', 'computerbeeldscherm', 'computer', 'computermonitor', 'computerbeeldscherm', 'desktop', 'Grafiek', 'Grafiek']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me vertellen wat er op deze fles staat?\
+	['warme vanillesuiker', 'suiker', 'warme vanillesuiker', 'warme vanillesuiker', 'Warme vanille suiker lichaamslotion', 'warme vanillesuiker', 'Warme vanille suiker lichaamslotion', 'warme vanillesuiker', 'Warme vanille suiker lichaamslotion', 'warme vanillesuiker']	warm vanilla sugar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op het scherm?\
+	['Windows installatie scherm', 'onbeantwoordbaar', 'het installeren van ramen', 'Installatie van Windows status scherm', 'Windows installeren', 'het installeren van ramen', 'instructies voor het installeren van ramen', 'de voortgang bij het installeren van ramen', 'Windows info installeren', 'ramen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['kan', 'kan', 'onbeantwoordbaar', 'blikjes bonen', 'kan', 'bonen', 'onbeantwoordbaar', 'bonen', 'stoofpot', 'stoofpot']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dat voor drankje?\
+	['sinaasappelsap', 'sinaasappelsap', 'sinaasappelsap', 'oranje sap', 'sinaasappelsap', 'sinaasappelsap', 'sinaasappelsap', 'sinaasappelsap', 'oranje', 'sinaasappelsap']	sinaasappelsap
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor drank zit er in dit blik?\
+	['thee', 'Nectaria', 'Nieuwe citroen', 'ijsthee', 'Nectaria', 'Nectaria', 'Nectaria', 'ijsthee', 'Nestle ijs thee', 'nestel']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit een pepperoni pizza, pepperoni en worst, Supreme, wat voor soort?\
+	['peperoni', 'peperoni', 'peperoni', 'peperoni', 'peperoni', 'peperoni', '- Ja, dat is het.', 'peperoni', 'Mama cozzis pepperoni dunne korst', 'peperoni']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Heb je enig idee wat voor plant die in het midden is?\
+	['- Nee, niet', 'gras', 'gras', 'gras', 'gras', 'gras', '- Nee, niet', '- Nee, niet', 'gras', 'wiet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['glazen', 'glazen', 'glazen', 'bril', 'een paar glazen', 'glazen', 'een paar glazen', 'glazen', 'oogbrillen', 'een paar glazen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Beschrijf deze plek.\
+	['kantoor', 'kantoorruimte', 'kantoor', 'kantoor 2 bureaus kast 2 stoelen', 'kantoor', 'kantoor', \"bureau's zwarte kantoorstoelen\", 'kantoorbureaus', \"kantoor 2 bureau's\", 'kantoor']	Een lege stoel en een bureau in een kamer.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['notitieboek', 'planner', 'boek', 'boek', 'kaart', 'notitieboek', 'planner', 'notitieboek', 'Lily Pulitzer agenda spiraal', 'notitieboek']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Teddybeer roos', 'Teddybeer', 'Teddybeer', 'Teddybeer', 'Teddybeer', 'Teddybeer', 'beer', 'Teddybeer', 'Teddybeer', 'Teddybeer']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor soort kruid is dit?\
+	['uien zeezout', 'uien zeezout', 'uien zeezout', 'uien zeezout', 'zeezout', 'uienzout', 'uien zeezout', 'uien zeezout', 'uien zeezout', 'uien zeezout']	zeezout uien
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in dit blik?\
+	['dieet dr peper', 'dieet dr peper', 'dieet dr peper', 'dieet dr peper', 'Dr. Pepper', 'dieet dr peper', 'dieet dr peper', 'dieet dr peper', 'dr peper dieet', 'dieet dr peper']	dr pepper diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de afbeelding op deze beker?\
+	['tekenfilm', 'tekenfilms', 'tekenfilm', 'Man kijkt naar vogel', 'mens kip', '- Wat ?', 'Cartoon Man', 'Schets vogel man boom maan', 'persoon dier', 'tekenfilm']	tekening
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['personen terug', 'jongen', 'hoofd van de man', 'persoon', 'Iemands hoofd, schouders.', 'Achteruit man.', 'onbeantwoordbaar', 'grijs overhemd', 'jongen', 'Foto achterste persoon']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['spreker', 'spreker', 'luidspreker aan de muur', 'spreker', 'spreker', 'spreker', 'Muurspeaker', 'spreker', 'kattenmount', 'spreker']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['telefoonnummer van de taxi', '- Niets.', '- Niets.', 'telefoon', 'stadstaxi', 'ontvangst', 'onbeantwoordbaar', 'Het lijkt wel een bon .', 'lijnen', 'stadstaxi']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['New Orleans stijl jambalaya mix', 'Jambalaya mix', 'Jambalaya mix', 'rijst', 'Jambalaya', 'Jambalaya mix', 'Jambalaya mix', 'Jambalaya rijst', 'Doos bereid mengsel voor jambalaya rijst in de stijl van New Orleans', 'Jambalaya mix']	jambalaya mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur is mijn Mac?\
+	['zilver', 'wit', 'beige zwart', 'wit', 'zilver', 'zilver', 'zilver', 'zilver', 'wit', 'zilver']	silver
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in de blik?\
+	['biologische gebakken bonen', 'gebakken bonen', 'biologische gebakken bonen', 'gebakken bonen', 'gebakken bonen', 'gebakken bonen', 'gebakken bonen', 'gebakken bonen', 'gebakken bonen', 'gebakken bonen']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['macaroni kaas', 'onbeantwoordbaar', 'macaroni kaas', '3 kaasmacaroni', 'macaroni kaas', 'Maccheese', 'macaroni kaas', 'eten', 'Mac & kaas', 'schaal kaas']	kraft mac n cheese
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	[\"Zatarine's New Orleans stijl jambalaya mix\", 'Jambalaya mix', 'Jambalaya mix', 'Jambalaya mix', 'Jambalaya mix', 'rijst', 'zataraïns jambalaya mix', 'Jambalaya', 'zataraïns jambalaya mix', 'Jambalaya mix']	jambalaya mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor ding?\
+	['kwaliteitssnoepjes', 'doos snoep', 'snoep', 'snoep', 'hard snoep', 'snoep', 'snoep', 'snoep', 'kwaliteitsstraat', 'snoep']	snoep
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Excuseer me, vertel me wat je precies op deze foto kunt zien.\
+	['koelkast', 'koelkast', 'koelkast', 'Kleine koelkast wicker tray licht tegeld wandhandvat sticker op de koelkast', 'koelkast', 'mini koelkast', 'mini koelkast', 'deuren van kasten', 'witte koelkast', 'koelkast']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me vertellen wat er in het doosje staat?\
+	['Heerlijke kleinkinderen.', 'Iets over heerlijke kleinkinderen .', 'heerlijk', 'Niets is leuker dan kleinkinderen .', 'Er zijn weinig dingen leuker dan kleinkinderen die vechten om je schoot .', 'Heerlijke kleinkinderen.', 'Heerlijke kleinkinderen.', 'Er zijn weinig dingen leuker dan kleinkinderen die vechten om je schoot .', 'onbeantwoordbaar', 'Heerlijke kleinkinderen.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe ziet de lucht eruit?\
+	['- Goed.', 'zonsondergang zonsopgang', 'blauw', 'zonsondergang', 'blauw', '- Goed.', '- Goed.', 'rustig', 'lichtblauw', 'Blauw lichter blauw vlakbij de horizon']	hemel
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur is dit shirt?\
+	['bruin', 'bruin', 'bruin', 'beige', 'beige', 'roze', 'bruin', 'bruin', 'goud', 'grijs']	roze
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is het een jongen of een meisje?\
+	['onbeantwoordbaar', 'jongen', 'jongen', 'meisje', 'jongen', 'jongen', 'jongen', 'jongen', 'jongen', 'jongen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me alsjeblieft vertellen wat dit voor item is?\
+	['graan', 'Cheerios', 'graan', 'Cheerios', 'onbeantwoordbaar', 'graan', 'honing cheerios', 'Cheerios nu nog lekkerder honing', '- Liefje.', '- Liefje.']	honey nut cheerios
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kleur?\
+	['rood, geel, wit, blauw', 'plaid', 'groenblauwwitroodkleding', 'veelkleurig', 'bleek', 'plaid', 'blauw groen wit rood', 'plaid', 'blauw wit groen gekleurd', 'blauw groen rood wit']	groen blauw oranje
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['warme cacao', 'warm cacao mengsel', 'warm cacao mengsel', 'warm cacao mengsel', 'cacao-mengsel', 'warme cacao', 'warme chocolade', 'chocolade-mix', 'warme chocoladepakket', 'warme chocolade']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['onbeantwoordbaar', 'hams speciaal licht bier', 'Bier', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Bier', 'Bier', 'Bier', 'Bier', 'speciale verlichting']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit kip of selderij?\
+	['tomaten', 'tomaten', 'tomaten', 'tomaten', '- Nee, niet', 'tomaten', 'Tomatensoep', 'tomaten', 'tomaten', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Airbook pro', 'Macbookpro', 'Macbook Pro']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik wil graag weten wat er in dit blik zit .\
+	['gebakken bonen', 'gebakken bonen', 'bonen', 'gebakken bonen in tomatensaus', 'Boerenmeisje gebakken bonen', 'gebakken bonen', 'gebakken bonen', 'bonen', 'gebakken bonen', 'bonen']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['kip', 'onbeantwoordbaar', 'parmesan kip', 'voedsel', 'TV-diner', 'voedsel', 'Maccheese', 'voedsel', 'Marie Collenders maaltijd', 'parmesan kip']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['dollarbiljet', '1 dollarbiljet', 'dollar', '1 dollarbiljet', '1', '1 dollarbiljet', 'dollarbiljet', '$ 1 biljet', '1 dollarbiljet', '1 dollarbiljet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['speelkaarten', '2 koningen', 'Paar koningen', 'speelkaarten', 'kaarten', 'kaarten', 'speelkaarten', 'paar', 'kaarten', 'speelkaarten']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit zwart of blauw?\
+	['onbeantwoordbaar', 'zwart', 'zwart', 'zwart', 'zwart', 'zwart', 'zwart', 'grijs', 'zwartgrijz', 'zwart']	zwart
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het scherm?\
+	['Google zoektekstvak', 'Google', 'Google', 'Ik heb geluk.', 'Google', 'Google zoeken', 'onbeantwoordbaar', 'Google', 'Google', 'onbeantwoordbaar']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['roast beef', 'roast beef', 'roast beef', 'roast beef', 'voedsel', 'roast beef', 'roast beef', 'roast beef', 'traditionele rundvlees', 'traditionele rundvlees']	traditionele roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor frisdrank is dit?\
+	['Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['TV afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['huisplant', 'plant', 'huisplant', 'plant', 'plant', 'plant', 'plant', 'potplanten', 'plant', 'kamerplant']	plant
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor ding?\
+	['bureau', 'computer', 'bureau', 'bureau', 'bureau', 'bureau', 'computer bureau', 'bureau', 'bureau', 'Desktopcomputer aan']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op mijn tafel?\
+	['iPod touch', 'apps', 'telefoon', 'papieren voor slimme telefoons', 'papieren voor slimme telefoons', 'telefoon', 'telefoon', 'telefoon', 'mobiele telefoon', 'telefoon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke foto heb ik gemaakt?\
+	['iPad', 'Ik heb een iPad koffiezak naast me.', 'tablet', 'iPad', 'Hulu inlogscherm', 'huluplus', 'tablet met hulu plus', 'tablet hulu plus login', 'Huluplus-scherm', 'Login-scherm voor hulu plus op tablet']	hulu plus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor fles?\
+	['shampoo', 'shampoo', 'onbeantwoordbaar', '- Ik ben bang.', 'Lieve vrouw.', 'onbeantwoordbaar', 'Tresemme haarverzorging', 'shampoo', 'Parfum', 'Tresemme shampoo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor model?\
+	['zout', 'sprite', 'fles met frisdrank', 'sprite', 'onbeantwoordbaar', 'spritesoda', 'sprite', 'Sprite fles', 'onbeantwoordbaar', 'sprite']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor product?\
+	['chex mix', 'chex mix', 'chex mix', 'Chex mix cheddar', 'chex mix', 'chex mix', 'chef mix', 'chex mix', 'chex mix', '- Chex']	cheddar chex mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['gerookte kalkoen', 'gerookte kalkoenpanini', 'gerookte kalkoenpanini', 'kalkoenpanini', 'gerookte kalkoenpanini', 'gerookte kalkoenpanini', 'stoffering', 'broodjes', 'gerookte kalkoen', 'gerookte kalkoenpanini']	panini met gerookte kalkoen en tomaten
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke letters moet ik typen om de prijs te winnen?\
+	['Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor blik?\
+	['Tomaten', 'saus', 'tomaten', 'gedroogde tomaten', 'tin', 'tomaten', 'Tomaten', 'tomaten in blik', 'tomaten', 'Tomaten']	tomaten
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor Keurig kop is dit?\
+	['Donut huis', 'koffie', 'doos', 'Donut', 'Donut House collectie', 'Donut', 'Donut', 'Donut hut collectie', 'Donutgat', 'Donut hole collectie']	donut hole
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zeg me alsjeblieft de naam van dit boek?\
+	['de dageraad', 'onbeantwoordbaar', 'auteur Clive Cussler Dirk Cussler', 'Alleen auteursnamen zonder titel', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['geld', 'geld', '20 dollar biljet', 'geld', '20 dollar .', '20 dollar .', '20 dollar .', '20 dollarbiljetten', '20 dollar', '20 dollarbiljet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit shampoo of bodywash?\
+	['lotion', 'lichaamslotion', 'lotion', 'lichaamslotion', 'mousserende lichaamslotion', 'lichaamslotion', 'lichaamslotion', 'lotion', 'lichaamslotion', 'lichaamslotion']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op deze foto?\
+	['crackers', 'koekjes', 'Crackerbox', 'Crackerbox', 'crackers', 'crackers', 'crackers', 'crackers', 'crackers', 'crackers']	Een doos crackers met de tekst ' gebakken, niet gebakken'
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is deze foto van?\
+	['telefoon', 'Macbook Pro', 'Macbook Pro', 'computermonitor', 'onbeantwoordbaar', 'laptop', 'computer', 'Macbook Pro', 'Macbook Pro scherm', 'laptopcomputer']	macbook pro
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['water', 'water', 'natuurlijk kristalwater', 'natuur kristalwater', 'waterfles', 'waterfles', 'waterfles', 'water', 'waterfles', 'water']	water
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor pizza is dit?\
+	['peperoni', 'Mama is lief.', 'Mama koest dunne pizza.', 'peperoni', 'bevroren pizza', 'peperoni', 'dun', 'Dunne korst pepperoni van mama cozzis', 'Mama Cozzis dunne korst peperoni', 'Mama is lief.']	thin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in dit blik?\
+	['volkoren', 'maïs', 'maïs', 'maïs', 'geheel kernmaïs', 'geheel kernmaïs', 'maïs', '- Een goede voeding.', 'maïs', 'maïs']	golden sweet whole kernel corn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['muis', 'computermuis', 'computermuis', 'computermuis', 'computermuis', 'HP-kabelmuis', 'computermuis', 'pc-muis', 'HP muis', 'muis']	computermuis
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['kantoor', 'stoelen', 'kantoor', 'kantoorstoel', 'stoel', 'bureau stoel', 'Home office', 'kantoor', '2 bureau stoelen', 'stoel']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['televisie', 'televisie', 'televisie', 'oude tv-monitor', 'televisie', 'televisie', 'monitor', 'televisie-scherm', 'televisie', 'monitor']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is mijn shirt van kleur?\
+	['zwart wit', 'blauw wit zwart', 'zwart', 'blauw', 'marine', 'zwart-wit embleem', 'zwart wit', 'blauw', 'blauw', 'zwart wit']	zwart
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kleur?\
+	['rood', 'rood', 'rood', 'rood', 'roze', 'rood', 'rood', 'rood', 'rood', 'rood']	roze
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zijn dit gewone chips of zout-en-azijn chips?\
+	['zout', 'regelmatig', 'regelmatig', 'gewone chips', 'regelmatig', 'regelmatig', 'onbeantwoordbaar', 'onbeantwoordbaar', 'regelmatig', 'onbeantwoordbaar']	zout-en-azijn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor doos is dit?\
+	['sinaasappelsap', 'sinaasappelsap', '- Ja.', 'sinaasappelsap', 'sinaasappelsap', 'sinaasappelsap', 'sinaasappelsap', 'oranje', 'sinaasappelsap', 'kartonnen kartonappelsap']	orange juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen wat dit is?\
+	['chips', 'chips', 'chips', 'aardappelchips', 'aardappelchips', 'chips met zuurkrem', 'chips', 'aardappelsnoten', 'chips', 'aardappelchips']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze tas ?\
+	['onbeantwoordbaar', 'bevroren groenten', 'groenten', 'wortels erwten maïs groene bonen', 'groenten', 'Granaat, wortel, maïs', 'Gemengde groenten', 'groenten', 'Gemengde groenten', 'maïs wortelen groeten bonen erwten']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor smaak van Spark is dit?\
+	['roze limonade', 'roze limonade', 'onbeantwoordbaar', 'roze limonade', 'onbeantwoordbaar', 'roze limonade', 'oranje', 'Aardbeien', 'onbeantwoordbaar', 'roze limonade']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor soort?\
+	['manwich', 'onbeantwoordbaar', 'onbeantwoordbaar', 'manwich', 'manwich', 'manwich', 'tomaten', 'manwich', 'manwich', 'Sloppy Joe.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor seizoen is dit?\
+	['Spaghetti', 'Spaghetti', 'Spaghetti-geur', 'Spaghetti-geur', 'Spaghetti', 'Spaghetti-geur', 'Spaghetti-geur', 'Spaghetti', 'Spaghetti', 'Spaghetti-geur']	spaghetti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['boek', 'tijdschrift', 'verticaal magazijn', 'tijdschrift', 'verticaal magazijn', 'tijdschrift', 'tijdschrift', 'vertigo magazine', 'tijdschrift', 'tijdschrift']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voorwerp?\
+	['muur', 'muur', 'muur', 'muur', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'muur', 'muur', 'muur']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['snoep', 'aardbeienhard snoep', 'snoep', 'aardbeienhard snoep', 'snoepjes', 'aardbeien snoep', '- Ik ben niet bang.', 'aardbeien snoep', 'snoep', 'aardbeienhard snoep']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur zijn deze schoenen?\
+	['bruin', 'zwart', 'bruin', 'bruin', 'bruin', 'bruin', 'bruin', 'voet', 'bruin', 'bruin']	bruin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['computerbeeldscherm', 'webpagina', 'onbeantwoordbaar', 'onbeantwoordbaar', 'website', 'computerbeeldscherm', 'computermonitor', 'artikel', 'pdf-bestand voor vizwiz', 'Vizwizpdf is wazig maar kan de bijdragers sectie zien']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor foto?\
+	['monitor', 'laptop', 'televisie', 'computer', 'laptop', 'televisie', 'platte tv', 'Laptop-scherm', 'televisie', 'onbeantwoordbaar']	monitor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['mobiele telefoon', 'mobiele telefoon', 'pieper', 'onbeantwoordbaar', 'telefoon', 'mobiele telefoon', 'Blackberry-telefoon', 'mobiele telefoon', 'mobiele telefoon', 'mobiele telefoon']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['koelkast', 'onbeantwoordbaar', 'koelkast', 'koelkast van de slaapzaal', 'koelkast', 'koelkast', 'koelkast', 'mini koelkast', 'koelkast', 'mini koelkast']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur sieraden moet ik dragen met deze outfit?\
+	['zilver', 'zilver', 'wit', 'goud', 'zwart', 'zilver', 'zilver', 'zilver', 'zilver', 'zilver']	zilver
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['been', 'jeans', 'dijen', 'broekbeen', 'armbank', 'broek', 'kussen', 'onbeantwoordbaar', 'broekbeen', 'been']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['hond', 'onbeantwoordbaar', 'hond', 'hond', 'hond', 'hond', 'hond', 'hond', 'onbeantwoordbaar', 'hond op de vloer']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'tv-controller', 'TV afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening', 'afstandsbediening']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zijn deze bananen groen of geel?\
+	['lichtgroen', 'geel', 'geel', 'geel', 'groen', 'geel', 'geel', 'geel', 'geel', 'geel']	geel
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor product?\
+	['graan', 'kashi go mager kruisende honing amandel linnen', '- Ga naar de spierkrans .', 'Golean crunch kashi', 'graan', 'Ga naar magere crunch granen.', 'Ga naar lean crunch.', 'kashi go mager kruisende honing amandel linnen', 'graan', 'graan']	kashi go lean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op dit moment op het tv-scherm?\
+	['- Niets.', '- Niets.', 'Niets af', '- Niets.', '- Niets.', '- Niets.', '- Niets.', '- Niets.', 'onbeantwoordbaar', '- Niets.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['vlees', 'Bifstuk', 'vlees van runderen', 'Pakket biefstuk', 'vlees', 'vlees', 'onbeantwoordbaar', 'Bifstuk', 'Steak', 'vlees']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er in dit bericht?\
+	['onbeantwoordbaar', 'Volledig herstellen', 'onbeantwoordbaar', 'herstel voltooid', 'herstel voltooid', 'onbeantwoordbaar', 'herstel voltooid', 'herstel voltooid', 'herstel voltooid', 'herstel voltooid']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor eten zit er in dit blik?\
+	['soep', 'Progresso tuinsoep', 'groentensoep', 'groentensoep', 'groentensoep', 'groentensoep', 'soep', 'Progresso tuinsoep', 'groente', 'groentensoep']	garden vegetable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'kan', 'Split erwtsoep', 'Split erwtsoep', 'Split erwtsoep', 'Split erwtsoep', 'soep', 'kan erwtsoep splitsen', 'Split erwtsoep', 'soep']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is het een bank of een tafel?\
+	['tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'deze tafel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor eten zit er in dit blik?\
+	['ravioli', 'ravioli', 'ravioli', 'maïs', 'ravioli', 'ravioli', 'ravioli', 'ravioli', 'ravioli-voedsel', 'ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op het scherm?\
+	['foutmelding', 'Pop-ups voor opstarten reparatie computer opnieuw opstarten', 'opnieuw starten', 'dialoogvak dat zegt dat u zeker wilt uitgaan van start reparatie herstarten van uw computer', 'Start reparatie', 'Windows-update instructies', 'onbeantwoordbaar', 'Start reparatie', 'Optie computer opnieuw opstarten', 'Start reparatie']	start-up repair
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Laten we dit eens proberen, kun je me vertellen wat dit is?\
+	['bonen', 'gebakken bonen', 'bonen', 'gebakken bonen', 'Bomen, bonen, gebakken bonen', 'kan', 'blikjes bonen', 'Bomen, bonen, gebakken bonen', 'gebakken bonen', 'bonen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor telefoon?\
+	['- Ik ben...', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', '- Ik weet het.', 'Android', '- Ik weet het.', '- Ja, dat is het.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['smartphone', 'mobiele telefoon', 'mobiele telefoon', 'telefoon', 'mobiele telefoon', 'mobiele telefoon', 'mobiele telefoon', 'smartphone', 'telefoon', 'telefoon']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['laptop', 'hand', 'laptop toetsenbord', 'hand', 'vingers', 'hand', 'onbeantwoordbaar', 'onbeantwoordbaar', 'bureau', 'hand']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Cabernet 2009', 'wijn', 'wijn', 'wijn', 'Cabernet sauvignon', 'fles wijn', 'wijn', 'wijn', 'Paardens hemel Columbië Cabernet 2007 wijn', 'wijn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in die fles?\
+	['coke', 'Zoutjes , misschien coca cola .', 'zout', 'Coca-Cola-soda', 'zout', 'zout', 'coke', 'zout', 'coke', 'zout']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur is dit?\
+	['roodwitte streep', 'rood', 'rode witte strepen', 'rode witte strepen', 'rood wit', 'wit rood', 'shirt', 'rood wit', 'rood wit', 'rood wit']	rood
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze tas?\
+	['broccoli', 'broccoli', 'broccoli', 'broccoli', 'broccoli', 'Maar broccoli.', 'broccoli', 'gesneden broccoli', 'stoom n serveer gesneden broccoli', 'broccoli']	broccoli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is dat een bon voor?\
+	['yoghurt', 'yoghurt', 'yoghurt met yoghurt', 'Yoplait yoghurt 10 $', 'Yoplait', 'Yoplait yoghurt 10 $', 'yoghurt met yoghurt', 'yoghurt', 'korting', 'yoghurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor een pop?\
+	['Nectaria', 'ingeblikte ijste thee', 'citroen', 'Nieuwe citroen', 'Nectaria', 'Nectaria', 'Nectaria', 'Nectaria', 'Fiesta', 'Nectaria']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['iPad', 'tablet', 'computer', 'iPad', 'muisblok', 'laptop', 'raam', 'tablet', 'onbeantwoordbaar', 'iPad']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er op het scherm?\
+	['Wil je je computer herstellen met systeemherstel?', 'foutmelding', 'Wil je je computer herstellen met systeemherstel?', 'opstarten', 'start-up betaald diagnostisch scherm', 'Systemen herstellen vraag: wil je gebruiken om je computer te herstellen', 'Start reparatie', 'Start reparatie', 'Vraag om computer te herstellen', 'Wil je je computer herstellen met systeemherstel?']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. En bedankt voor uw tijd om te antwoorden.\
+	['sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het scherm?\
+	['Wil je je computer herstellen met behulp van de systeemcd?', 'herstellen', 'Wil je je computer herstellen met behulp van systeem', 'uw computer kon niet starten start reparatie controleert uw systeem op problemen', 'Wil je je computer herstellen met behulp van systeem', 'Start reparatie', 'uw computer kan niet starten', 'uw computer kon niet starten start reparatie controleert uw systeem op problemen', 'computer kan niet starten', 'herstellen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in dit blik ?\
+	['groenten', 'Wrgrweg', 'Gemengde groenten', 'originele groenten', 'Gemengde groenten', 'groenten', 'Vegall', 'groenten', 'groenten', 'Gemengde groenten']	groenten
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zie je op de foto?\
+	['- Niets.', 'hemel', 'wasbak', 'hemel', 'onbeantwoordbaar', 'hemel', '- Niets.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'hemel']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor frisdrank?\
+	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'coca cola 0', 'coca cola 0', 'coke 0', 'coca cola 0', 'coca cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor systeem?\
+	['desktop', 'onbeantwoordbaar', 'ramen', 'desktopcomputer', 'ramen', 'ramen', 'ramen', 'Windows PC', 'ramen', 'ramen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er? - Ik heb geen idee.\
+	['spreker', 'luidsprekers', 'vloer', 'luidsprekers', 'luidspreker systeem', 'spreker', 'spreker', 'spreker', 'spreker', 'luidsprekers']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Het monitor licht op de laptop?\
+	['- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Nee, niet', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen wat er op deze fles staat?\
+	['Warme vanille suiker lichaamslotion', 'warme vanillesuiker', 'warme vanillesuiker', 'warme vanillesuiker', 'Warme vanille suiker lichaamslotion', 'warme vanillesuiker', 'warme vanille suikerlotion', 'warme vanillesuiker', 'Warme vanille suiker lichaamslotion', 'warm suiker vanille']	warm vanilla sugar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u het 1-800 nummer op deze kaart vertellen, en kunt u deze vraag horen?\
+	['1 800 735 2929 kan ik niet horen', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', 'De Commissie heeft de Commissie verzocht:', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 geen', '18773289677 geen', '1 877 328 9677', '8007352929 geen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Lichten in de kamer aan of uit?\
+	['Lichten uit', 'weg', 'op', 'weg', 'op', 'onbeantwoordbaar', 'op', 'op', 'op', 'op']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor smaak is dit?\
+	['kersen', 'roze limonade', 'Fruitpunch', 'roze limonade', 'roze limonade', 'onbeantwoordbaar', 'onbeantwoordbaar', 'roze limonade', 'kersen', 'roze limonade']	watermeloen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er in dit bericht?\
+	['herstel voltooid', 'onbeantwoordbaar', 'succesvol herstel voltooid', 'herstel voltooid', 'herstel voltooid', 'herstel voltooid', 'herstel voltooid', 'registratie voltooid', 'herstel voltooid', 'herstel voltooid']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur is mijn shirt?\
+	['wit', 'wit', 'wit', 'wit', 'wit', 'wit', 'wit', 'wit', 'wit', 'wit']	wit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['geavanceerde kleurtherapie shampoo', 'shampoo', 'geavanceerde kleurtherapie shampoo', 'shampoo', 'kleurtherapie shampoo', 'shampoo', 'kleurtherapie', 'shampoo', 'Ovasie geavanceerde kleurtherapie', 'kleurtherapie']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['blikjes', 'kattenvoer', 'onbeantwoordbaar', 'wasbak', 'kan', 'wasbak', 'wassen', 'wasbak', 'wasbak', 'kan']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor videospel?\
+	['Spanje NFL 2k', 'voetbal', 'Nfl 2k', 'Spanje NFL 2k5', '2k5', 'Spn 2k voetbal', 'Nfl 2k', 'voetbal', 'Nfl 2k', 'voetbal']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['broodjes', 'broodjes', 'gerookte kalkoenpanini', 'gerookte kalkoenpanini', 'gerookte kalkoenpanini', 'Stoeffer gerookte kalkoen panini', 'kalkoenpanini', 'onbeantwoordbaar', 'gerookte kalkoenpanini', 'gerookte kalkoenpanini']	gevulde panini met gerookte kalkoen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze doos?\
+	['Lasagne', '- Vriesdiner.', 'speciale lasagne', 'speciale lasagne', 'Lasagne', 'speciale lasagne', 'Lasagne', 'Lasagne', 'Lasagne', 'Lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voorwerp?\
+	['natuurvallei haver, donkere chocolade, granola bar', 'crunch bar', 'granaalbalk', 'granaalbalk', 'granaalbalk', 'granaalbalk', 'natuurvallei haver n donkere chocolade bar', 'Haver en donkere chocolade, knapperig', 'Bar met donkere chocolade', 'granaalbalk']	granola bar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['videospelletjes', 'Playstation 2-game', 'PlayStation 2 Star Wars Battlefront spel', 'Star Wars spel', 'videospelletjes', 'videospelletjes', 'Star Wars Battlefront 2', 'spel', 'Playstation 2-game', 'Psi spel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit een soort koffievriend?\
+	['Frans vanille', 'Frans vanille', 'Frans vanille', 'nestel', 'vanille', 'Frans vanille', 'koffie maat', 'Frans vanille', 'Frans vanille', 'Frans vanille']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['sinaasappelsap', 'sap', 'sap', 'sinaasappelsap', 'sap', 'glad, sappig', 'glad en sappig', 'sap', 'sinaasappelsap', 'sap']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur hebben de stenen in deze oorbel?\
+	['roze', 'roodblauw', 'rood', 'roze', 'paars', 'roze', 'roze', 'roze', 'roze', 'roze']	roze
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het etiket van dit elektronische apparaat?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er precies op dit scherm, als je dit kunt lezen?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'kan niet scherm lezen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'kan niet lezen', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in deze fles?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'lotion', 'Vitaminen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Ik weet het niet zeker.', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor smaak heeft deze energiereep?\
+	['Aardbeien', 'Bessen en amandelcrunch', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'appelkrans', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Bessen en amandelcrunch']	berry crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'aandacht', 'n', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Nieuws', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor soort maaltijd is dit?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik probeer uit te zoeken wat voor soort radio dit is, dus als ik informatie heb, kan ik er een van mijzelf kopen.\
+	['Ik weet het niet.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'mogelijk thuis ip9 luidspreker dock', 'onbeantwoordbaar', 'Ham', 'onbeantwoordbaar', 'draagbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Het spijt me, ik weet niet hoe... ik heb nog nooit echt zo'n foto gemaakt.\
+	['Ga wat verder weg zodat de camera scherpstelt.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke is de beste film?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'eenvoudig']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['deze glijbaan', 'roze', 'onbeantwoordbaar', 'paars', 'onbeantwoordbaar', 'onbeantwoordbaar', 'gloed', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe heet deze lotion?\
+	['onbeantwoordbaar', 'Noxema', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wanneer loopt dit af?\
+	['9.27.13', 'onbeantwoordbaar', 'onbeantwoordbaar', '23 september 2013', '23 september 2013', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '23 september 2013', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe lang moet ik dit koken?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Vijf minuten.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Vijf minuten.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['Kleenex', 'Hoek', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'telefoon', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor lied?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Bug in foto', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'schimmel']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er onder de ramen dat dit systeem niet automatisch kan worden gerepareerd?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'start reparatie kan deze computer niet automatisch repareren', 'onbeantwoordbaar', 'opstarten', 'Start reparatie kan deze computer niet automatisch repareren', 'onbeantwoordbaar']	sends informatie over het probleem
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel natrium zit er in dit pakje?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', \"Samoa's\", 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Staat er op het scherm dat het herstelt?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welk gordijn?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Blijf studeren.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe heet deze bemiddeling?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '0', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de kleur?\
+	['rood wit', 'onbeantwoordbaar', 'wit', 'wit', 'onbeantwoordbaar', 'rood wit', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Leg uit wat er op het etiket op mijn router staat.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de vervaldatum van deze buspas?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zeg het maar.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Zno', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat hier?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'rijen kolommen wazig getallen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe laat is het? - Ik ben er.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Flash op camera rendering klok niet te lezen', 'niet zichtbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Ik kan het niet zeggen.', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me de gebruiksaanwijzing voor deze shampoo vertellen?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'EEDFCFD', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Moet ik op een knop drukken om het weer te laten beginnen?\
+	['systeemhervat', 'onbeantwoordbaar', '- Ja, dat is het.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet', 'Wacht even.', '- Steek in.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Als de kaart op deze foto staat, wat staat er dan op?\
+	['onbeantwoordbaar', 'niet getoond', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Geen woorden.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. De test?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'afstandsbediening', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'omringend geluid afstandsbediening', 'Vraag niet van toepassing op foto']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Echte woordspeling.\
+	['onbeantwoordbaar', 'niet bekend', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik heb te maken met een captcha maar ik kan het scherm niet zien en ik heb het nodig om iets van een website te vragen.\
+	['niet 1', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik weet dat het de Tien Geboden zegt, maar wat zijn de Tien Geboden?\
+	['Hij heeft de regels vastgesteld die God aan zijn gelovigen heeft gegeven.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'morele regels', 'onbeantwoordbaar', 'Gods geboden', 'onbeantwoordbaar', 'onbeantwoordbaar', 'wetten', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op mijn computerscherm?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'te wazig', 'leeg scherm']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor babyvoeding?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Ik zie geen babyvoeding .', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor medicijnen?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kaart?\
+	['onbeantwoordbaar', 'rood creditcard', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'creditcard', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op deze kaart?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'slechts 1 6 12 zichtbaar', 'onbeantwoordbaar', '- Niets.', 'onbeantwoordbaar', '1 6 12', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['zeep', 'product', 'onbeantwoordbaar', 'melk', 'onbeantwoordbaar', 'onbeantwoordbaar', 'oogdruppels', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor soort vlees is dit?\
+	['vergrendeling', 'De', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'vlees van runderen', 'onbeantwoordbaar', 'vlees van runderen', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is dit cadeaubond voor?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Onverklaarbare beelden', 'onbeantwoordbaar', 'Ik kan het niet zeggen.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor blikjes zijn dit?\
+	['Lime', 'onbeantwoordbaar', 'Lime', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Lime', 'onbeantwoordbaar', 'kalksteen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe laat is het? - Ik ben er.\
+	['onbeantwoordbaar', '532', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Ik ben er niet.', '- Ik ben er niet.', 'onbeantwoordbaar', '- Om vijf uur tien.', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is het product in dit blik?\
+	['Ik kan het niet zeggen.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan u me vertellen wat de temperatuur van de oven is en voor hoeveel minuten en of ik het deksel moet doorboren?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'ASDD', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ziet deze oven er klaar uit?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'geen oven', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Ja, ik denk dat ik klaar ben.', '- Nee, niet', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Heeft dat geholpen?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de code die moet worden getypt?\
+	['onbeantwoordbaar', 'e-mail', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor shirt draag ik?\
+	['onbeantwoordbaar', 'zijde', 'onbeantwoordbaar', 'onbeantwoordbaar', 'wit', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor soort bevroren eten is dat?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Afbeelding leeg', '- Niets.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor merk is dit?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Sanyo', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de temperatuur van de oven?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'gfdsg', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me alsjeblieft vertellen wat er in deze fles zit?\
+	['Tomatensaus', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'pasta saus', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Tomatensaus', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['onbeantwoordbaar', 'Azithromycine tabletten 250 mg', 'tabletten', 'onbeantwoordbaar', 'onbeantwoordbaar', '250 mg', 'Azithromycine tabletten', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u deze woorden lezen?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Geen woord.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit valium?\
+	['- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'niet in staat om de naam van het medicijn te lezen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor lied?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Noten', 'onbeantwoordbaar', 'album', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'jingle jingle', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ja, dit is een HP laptop, ik moet weten waar de kaartlezer is in relatie tot het toetsenbord.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'aan de zijkant', 'onbeantwoordbaar', 'Ik kan de kaartlezer niet zien. De SD-kaartlezer zit meestal in de linkerhoek.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onder toetsenbord
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe heet dat parfum?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Geen naam', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor RAM is dit?\
+	['onbeantwoordbaar', '- - - - - - - - - - - - - -', 'onbeantwoordbaar', 'onbeantwoordbaar', 'DDR-SDRAM-pc3200', 'Geen idee.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik begrijp dat , maar ziet de achterkant van de witte truck er gebroken uit ?\
+	['onbeantwoordbaar', '- Nee, niet', 'Foto van de voorkant Ik zie niets ongewoons', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'n0', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor soep?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'kip', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zie je op het scherm van de laptop?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['onbeantwoordbaar', 'soep', 'soep', '- Kannensoep.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'soep', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['tapijt', 'papierhanddoeken', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'papierhanddoek', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor smaak is dit?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'regelmatig', 'originele', 'onbeantwoordbaar', 'Draai je om.', 'kaas', 'beeldend']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke van de drie afbeeldingen is het Google logo?\
+	['onbeantwoordbaar', '0', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'eerste afbeelding', 'links']	middle
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['onbeantwoordbaar', 'niet zeker', 'onduidelijk', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'etiket', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zijn er stenen ontbreken?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onvoldoende beeldkwaliteit', 'onbeantwoordbaar', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik wil weten wat voor merk dit parfum is.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de vervaldatum van deze kaas?\
+	['- Nee.', 'onleesbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke temperatuur is de thermostaat ingesteld?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', '75', 'onbeantwoordbaar', '75', 'onbeantwoordbaar', '75', '75', 'onbeantwoordbaar', 'niet zichtbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke kleur is dit shirt?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'zwart', 'onbeantwoordbaar', 'zwart', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'zwart', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het scherm?\
+	['foutmelding voor herstart', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'sys', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor frisdrank is dit, alsjeblieft?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Ik weet het niet zeker.', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er? - Ik heb geen idee.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'haar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zeg me alsjeblieft wat hier staat.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'doos', 'onbeantwoordbaar', 'kleine doos', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Op welke temperatuur is de thermostaat ingesteld?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'kan niet lezen', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor fles?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Ik weet het niet.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Mag ik alle tekens in deze?\
+	['Arobergy Chavez', 'onbeantwoordbaar', '- Ja, dat is het.', '- Ja, dat is het.', 'onbeantwoordbaar', 'Arobergy Chavez', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Productcode voor deze versie uitgeschakeld\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kom op, ik krijg het wachten ding.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'schoenen', 'onbeantwoordbaar', 'schoenen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe heet het in Dallas, Texas?\
+	['- Ik ben er niet.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '9:17 uur 96 graden.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe gaat het met je? - Goed.\
+	['onbeantwoordbaar', '- Goed.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Goed.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? Wat was het antwoord dat je kreeg?\
+	['onbeantwoordbaar', 'niet zeker', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'log op het scherm', 'computer', 'onbeantwoordbaar', 'screenencast matic']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['fles met een doek', 'onbeantwoordbaar', 'deken', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor merk is dit?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Seiko', 'onbeantwoordbaar', 'onduidelijk', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Kijk.', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor website?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'site over iphone in app aankopen']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor wassoep?\
+	['onbeantwoordbaar', 'zon', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Suavetel', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in dit potje?\
+	['- Niets.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'soep', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'voedsel', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is dit een bon voor?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er mis met mijn hand ?\
+	['visitekaartje', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Een vrolijk kerstfeest.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar kan ik een foto van maken?\
+	['klok op het blad', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Kijk.', 'Mickey Mouse zakhorloge', 'Dit zakhorloge met koptelefoon.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het scherm?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Windows licentievoorwaarden', 'Termen gedeeltelijk buiten beeld', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Maar ja, ik vouw het wel.\
+	['onbeantwoordbaar', 'opvouwen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'hand', 'doos']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kleur?\
+	['witgrijze', 'paars', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'rood wit', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er? - Ik heb geen idee.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Keuken', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Foto man aan het bureau op de computer', 'Ik zie de woonkamer op de foto.', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de naam?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'euforie', 'euforie', 'euphonie', 'onbeantwoordbaar', 'onbeantwoordbaar']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er? - Ik heb geen idee.\
+	['onbeantwoordbaar', 'licht', 'onbeantwoordbaar', 'onbeantwoordbaar', 'licht', 'lichtwaas', 'onbeantwoordbaar', 'niet duidelijk', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Lees de tekst op dit vak, dat is een ander vak.\
+	['wd', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik zoek een of ander achtcijferig nummer.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Ik zie niets. Sorry.', 'onbeantwoordbaar', 'leeg', 'Ik kan zoiets niet zien.', 'onbeantwoordbaar', '0', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me de titel van dit boek vertellen?\
+	['onbeantwoordbaar', 'harmonische materialen in tonale muziek', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['- Ik ben een schurk.', '- Niets.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'handpakket']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op het scherm?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Een tijdje , weet je .\
+	['Ik begrijp het niet.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me vertellen wat de beveiligingsvraag is, of de beveiligingsnummers en de letter, zodat ik dit kan toevoegen aan mijn bewerkingsveld?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke waarde heeft dit dollarbiljet?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbruikbaar beeld', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar staat dat op?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Teller', 'Teller', 'keuken counter', 'aan de bank']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit een slangenbeet?\
+	['onbeantwoordbaar', 'mogelijk', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Misschien wel.', 'Misschien wel.', '- Nee, niet', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kun je me in detail vertellen wat er op dit computerscherm staat?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'Computer kan niet starten bericht', 'onbeantwoordbaar', 'uw computer kon niet starten', 'onbeantwoordbaar', 'uw computer kon niet starten opstart reparatie controleert uw systeem op problemen', 'opstarten', 'onbeantwoordbaar', 'onbekend dialoogvenster']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zijn de tekens in deze captcha?\
+	['onbeantwoordbaar', '- We zijn getrouwd.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'zwarte doos']	De tekens in deze captcha zijn niet zichtbaar in de afbeelding, daarom kan ik deze vraag niet beantwoorden.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Weet je hoe je deze moet koken?\
+	['onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Ja, dat is het.', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'computerbeeldscherm', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe lang moet ik dit in de magnetron koken?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '8 minuten.', 'onbeantwoordbaar', 'onbeantwoordbaar']	8 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoe kook je dit?\
+	['oven', 'onbeantwoordbaar', 'bakken', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. En de handtekening?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'politieke', '- Wat ?', 'onbeantwoordbaar', 'Geen idee.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Blauwe man in het gebouw.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Vertel me alstublieft de instructies op deze shampoofles.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'voeg het natte haar met schuim spoelen herhaal indien gewenst']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar is deze foto van?\
+	['plafond', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit het?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'telefoon', 'onbeantwoordbaar', 'Een man die op de mobieltje praat.', 'onbeantwoordbaar', 'persoon', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in dit blik?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'bonen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Dit beeld is wazig.', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kunt u me vertellen welke kleur mijn shirt is?\
+	['- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is er? - Ik heb geen idee.\
+	['onbeantwoordbaar', 'draad', 'onbeantwoordbaar', 'zwart rubberen hondenspeelgoed', 'plant', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wanneer loopt dit af?\
+	['niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'niet op de foto', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '2007']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor kaart?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'geen kaart', 'onbeantwoordbaar', 'onbeantwoordbaar', 'zwart', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Waar gaat deze foto over?\
+	['onbeantwoordbaar', 'leeg', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'harnassen van leder', 'hond', 'handtas', 'onbeantwoordbaar', 'hondenbanden', 'dier']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zijn de kookinstructies voor deze?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor tracering?\
+	['onbeantwoordbaar', 'potlood', 'blaadpatroon', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'blad', 'onbeantwoordbaar', 'onkruid']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in het blik in mijn rechterhand?\
+	['onbeantwoordbaar', 'Een soort vlees maar het etiket is niet helemaal in beeld', 'conserven', 'onbeantwoordbaar', 'Ronde rundvlees', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kun je me vertellen van wie dit is?\
+	['- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'terugbrief van de post', 'Achter enveloppe geen schrift', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat voor smaak is dit?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Newmans speciale mengsel .', 'Nemans speciale mengsel', 'koffie', \"Newman's speciale mengsel.\", 'onbeantwoordbaar', 'Nieuwmans eigen', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is mijn bloeddruk?\
+	['onbeantwoordbaar', 'onbeantwoordbaar', '105', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '109 over', 'onbeantwoordbaar', 'onbeantwoordbaar', 'niet in staat om af te lezen afgeknipt beeld']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. We noemden het wat de smaak is.\
+	['citroen', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kun je me alsjeblieft vertellen wat er in dit blik staat zodat ik kan uitzoeken wat erin zit?\
+	['onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Nummer bij de gemarkeerde tekst.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Op de achterkant van de kaart staat wat voor soort toverstok het is, waar het van gemaakt is, enzovoort.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'iets hout 14', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik drukte op de OK-knop, denk ik.\
+	['Volgende knop die moet worden geklikt, druk nu op enter', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit? - Ik ben een man.\
+	['onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'flits', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke temperatuur?\
+	['onbeantwoordbaar', '57', 'twintig', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '20', '20.7c', 'onbeantwoordbaar']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit?\
+	['onbeantwoordbaar', 'welkomstbord', 'Welkomstplaatje', 'onbeantwoordbaar', 'welkomstbord', 'welkomstbord', 'onbeantwoordbaar', 'Welkomsplaten', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor gezicht?\
+	['Geen gezicht.', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '0', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zijn de nummers op deze productcode?\
+	['onbeantwoordbaar', 'onleesbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onleesbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is het nummer van dit gebouw dat ik net heb gefotografeerd?\
+	['3 .', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '3 .', 'onbeantwoordbaar', '9', 'onbeantwoordbaar', 'onbeantwoordbaar', '3 .']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat zit er in dit pakje?\
+	['onbeantwoordbaar', 'oogst sensaties salade', 'onbeantwoordbaar', 'bieten', 'snoep', 'vruchten', '- Dat is moeilijk te zeggen . Misschien een soort noten .', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	beets
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Komt mijn desktop-scherm op?\
+	['sdfgh', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kun je dit lezen?\
+	['- Ja, dat is het.', 'onbeantwoordbaar', '- Ja, dat is het.', 'Importinformatie voor sapmachines', '- Nee, niet', 'belangrijke informatie', 'Een aantal', 'vriendelijk', '- Nee, niet', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kun je zien wat het is, volgens het label, een stukje, een dvd in de post.\
+	['- Ja, dat is het.', 'Ja, dvd.', '- Nee, niet', 'DVD-speler', 'DVD-speler', 'onbeantwoordbaar', 'Etiket onduidelijk maar cd', '- Ja, dat is het.', 'onbeantwoordbaar', '- Nee, niet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is mijn camera verdoofd?\
+	['- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', 'sl', '- Ja, dat is het.', '- Nee, niet', '- Ja, dat is het.', '- Nee, niet', '- Ja, dat is het.', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit kip?\
+	['onbeantwoordbaar', '- Nee, niet', '- Ja, dat is het.', 'waarschijnlijk niet in staat om alle etiket te zien', '- Ja, dat is het.', 'onbeantwoordbaar', '- Ja, dat is het.', '- Ja, dat is het.', 'onbeantwoordbaar', '- Ja, dat is het.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit kunst?\
+	['- Ja, dat is het.', 'kunst van aluminiumfolie', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', 'onbeantwoordbaar', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hallo, ik wil alleen bevestigen dat dit inderdaad varkenskoteletten zijn.\
+	['- Ja, dat is het.', '- Ja, dat is het.', 'Ja , Kirkland-aanduiding varkenskoteletten .', 'Ja, varkenskoekjes.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', 'Ja, lendenkoteletten.', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Lijken de wolken op stormwolken?\
+	['- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Nee, niet', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ziet Buddy's gezicht er leuk uit of niet?\
+	['- Ja, dat is het.', '- Ja, dat is het.', '- Wat schattig.', '- Ja, dat is het.', '- Ja, dat is het.', '- Nee, niet', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.']	niet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is de dialoog er nu?\
+	['- Nee, niet', '- Ja, dat is het.', '- Ja, dat is het.', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Heb ik nog alle tenen?\
+	['- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.', '- Ja, dat is het.']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zie je een fles op deze foto en zo ja, wat is het?\
+	['onbeantwoordbaar', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', 'geen fles', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is er tekst aan deze kant van het papier?\
+	['- Nee, niet', '- Nee, niet', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet', 'onbeantwoordbaar', '- Nee, niet']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is het een fax of een doos?\
+	['onbeantwoordbaar', '- Nee, niet', '- Nee, niet', '- Nee, niet', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is er een deel van de borst op deze foto?\
+	['- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is er hier een schaakstuk?\
+	['- Nee, niet', '- Ja, dat is het.', '- Nee, niet', 'alleen bord', '- Nee, niet', '- Nee, niet', '- Ja, dat is het.', '- Nee, niet', '- Nee, niet', '- Nee, niet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Matchen deze sokken?\
+	['- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dat een papier?\
+	['- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', 'onbeantwoordbaar', '- Nee, niet', '- Nee, niet', 'onbeantwoordbaar', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is het een laptop?\
+	['- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '0 die ik ooit eerder heb gezien', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kun je alles op mijn tv-scherm lezen?\
+	['- Nee, niet', '- Nee, niet', '- Ja, dat is het.', '- Nee, niet', 'onbeantwoordbaar', '- Nee, niet', 'DVR-capaciteit uw DVR 89% vol', '- Ja, dat is het.', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Zie je de geur op deze fles Freebeze?\
+	['- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', 'Ik zie geen label.', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is het scherm aan?\
+	['- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet', '- Nee, niet']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welk dier is er op dit computerscherm?\
+	['geen dier', '0', '0', '0', '0', 'geen dier op het scherm', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik probeer een nummer van deze kaart te krijgen en ik vroeg me af of je dat voor me kon lezen.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Lees de toonbank.\
+	['261627,2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Op welke temperatuur is de thermostaat ingesteld?\
+	['72', '72', '72', '72 graden.', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke knop is Mountain Dew?\
+	['5', '6 van boven', '6e knop', '6e 1 neer', '5', '6', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik geloof dat dit zilveren eik is.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is het wattage van deze stroomvoorziening\
+	['350', 'onbeantwoordbaar', '350', '350w max', 'onbeantwoordbaar', '350', '350', 'onbeantwoordbaar', '- De draad.', '350w max']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er?\
+	['77 graden.', '77', '77', '77', '77 graden.', '77', '77', '77', '77', '77']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Weet je van welk medaillon dit is?\
+	['47', '47', '47', '47e', 'heeft nummer 47', '47', '47', 'onbeantwoordbaar', '47', '- Nee, niet']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel kost dit?\
+	['5', '5', '5', '5', '5', '5 dollar .', '5', '5 Singapore dollar', '5', '5 dollar .']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op de wijzerplaat als het nummer dat naar boven kijkt?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	455
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welke waarde heeft dit biljet?\
+	['20', 'Rgreg', '20', '20', 'onbeantwoordbaar', 'onbeantwoordbaar', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat wordt er op dit moment op het scherm weergegeven?\
+	['452940', '452940', 'Wakie talkie', 'getallen', 'radio', '452940', 'Walkie-talkie', '452940', 'onbeantwoordbaar', '452940']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is 465 min 55?\
+	['410', '410', '410', 'onbeantwoordbaar', '410', 'onbeantwoordbaar', '410', '410', '410', '410']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is het vijfde getal?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor een rekening?\
+	['2 .', '2 .', '2 .', '2 .', '$2', 'geld', '2 .', '2 .', 'onbeantwoordbaar', '2 .']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel calorieën in een portie Cheerios?\
+	['110', 'beeldvrijheid', '104', '110', '100', 'onbeantwoordbaar', '10', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Op welke temperatuur is de oven ingesteld?\
+	['ovenknop', 'oventemperatuur 400', '425', '450', '400', '425', '425', '400', '425', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de temperatuur van de thermostat? \
+	['78', '78', '78 graden.', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel geld is dit?\
+	['20 Canadese dollar', '20', '20', '20', '20 euro', '20', '20 Canadese dollar', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de temperatuur?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de temperatuur op deze thermostaat?\
+	['50', '50', '55', '64 graden.', '55', 'onbeantwoordbaar', 'onbeantwoordbaar', '54', 'onbeantwoordbaar', '56']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor denominatie?\
+	['5', '5', '5', '5', 'Canada', '5', '5', 'eien', '5', '5']	5 canada dollars
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Vertel me de waarde van deze kaart.\
+	['6 diamanten', '9 diamanten', '6 diamanten', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Weet je hoeveel ik hierin weeg?\
+	['210', '200', 'Ja, 200', '198', '200', '200', '200', '250', '200', '200']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me vertellen hoeveel graden er op deze meter staan?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	19.5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me vertellen wat de temperatuur is op prima\
+	['78', '78', '78', '78', '78', '78', '78 graden.', '78 graden.', '78 graden Fahrenheit.', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel porties zijn er in deze chocolade?\
+	['onbeantwoordbaar', '2 .', '4 .', 'onbeantwoordbaar', '4 .', '4 kopjes pindakaas', '2 .', '2 .', 'onbeantwoordbaar', 'onbeantwoordbaar']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel calorieën zitten er in één portie?\
+	['120', '120', '120 droog 220 bereid indien bereid 1 1 4 kopjes vetvrije melk', '120', '120', '120', '120', '120', '220', '120 droge granen 220 melk']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Ik zoek een twintig en ik denk dat dit een tien is, maar ik kan het niet zeggen.\
+	['10 euro', '10', '10', 'onbeantwoordbaar', '10', '10', '10 liggen op een rood wit hemd', '10', '10', '10']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Heeft deze streep één of twee roze lijnen? Een kan lichter zijn dan de andere.\
+	['biue', '1', '1 lijn', '1 donkere lijn', '1', '1', '1', '1', '1', '1']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me zeggen welk nummer het is, dank je?\
+	['3248849064', '3248849084', 'onbeantwoordbaar', '3248849084', 'onbeantwoordbaar', 'onbeantwoordbaar', '3248849084', 'onbeantwoordbaar', 'onbeantwoordbaar', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Kan je me vertellen hoeveel ik weeg?\
+	['1', '1', 'onbeantwoordbaar', '1', '1', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Blank schaal', '1']	127
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de huidige temperatuurinstelling op deze thermostaat?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'thermostaat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Is dit een vijf of tien Canadese dollarbiljet?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 Canadees']	tien
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is de beller ID?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'onbeantwoordbaar', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is het vijfcijferige getal?\
+	['23442', '23442', '23442', 'onbeantwoordbaar', 'onbeantwoordbaar', 'Zie alleen 2 cijfers 69', '23442', 'onbeantwoordbaar', 'onbeantwoordbaar', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel gram is dit?\
+	['23,6', '20', '20', '24', 'onbeantwoordbaar', 'onbeantwoordbaar', 'onbeantwoordbaar', '33', 'onbeantwoordbaar', 'Gfdsgsdf']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op de thermometer?\
+	['72', '72', '72', '72', '72', '72', '72', '72 graden.', '72', '72 graden.']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welk bladzijde nummer is dit?\
+	['2 .', '2 .', '2 .', '2 .', '2 .', '2 .', '2 .', 'onbeantwoordbaar', '2 .', '2 .']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er op dit scherm?\
+	['8888', 'onbeantwoordbaar', '- Niets.', '8888', 'onbeantwoordbaar', 'onbeantwoordbaar', '8888', '888', '- Niets.', 'leeg']	9886
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Welk bladzijnnummer wordt weergegeven?\
+	['123', '121', '121', '121', 'onbeantwoordbaar', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat is dit voor nummer?\
+	['26', '26', '26', '26', '26', 'papier', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Wat staat er hier?\
+	['onbeantwoordbaar', '40', '40', 'onbeantwoordbaar', 'onbeantwoordbaar', 'getallen', '40', '40', '40 lbs lucht', '30']	onbeantwoordbaar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer nl When the provided information is insufficient, respond with 'onbeantwoordbaar'. Hoeveel tabletten zitten er in deze doos?\
+	['8 tabletten', '8', '8', '8', '8', '8', '8', '8 tabletten', '8', '8']	8

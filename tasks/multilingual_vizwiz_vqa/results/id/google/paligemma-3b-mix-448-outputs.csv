@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di atas kertas?\
+	['tidak dapat dijawab', 'Australia Post', 'Pos', 'tidak dapat dijawab', 'Australia Post', 'Australia Post', 'Australia Post', 'Australia Post', 'tidak dapat dijawab', 'Australia Post']	post
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau beritahu apa yang ada di layar komputer ini?\
+	['ikon untuk cuaca jam dll', 'jendela start', 'desktop', 'jam', 'jam', 'ikon', 'ikon desktop', 'tidak dapat dijawab', 'ikon desktop', 'ikon']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. CD apa ini?\
+	['kosong', 'CD kosong', 'Maxwell', 'Maxell CD r', 'kosong', 'kosong', 'selimut', 'kosong', 'kosong', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu gambarnya?\
+	['kaki', 'kaki', 'Goresan kaki di', 'kaki', 'kaki', 'kaki', 'kaki', 'kaki', 'kaki', 'kaki']	kaki
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau katakan apa kaleng ini?\
+	['berburu', 'Manwich', 'Manwich', 'Berburu sos Joe yang ceroboh', 'saus Joe yang ceroboh', 'Manwich', 'Pria yang berani dan ceroboh Joe saus', 'tidak bermasalah', 'Manwich', 'Joe yang ceroboh']	hot dog sauce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Diet soda', 'Diet Coke bisa', 'Diet coke', 'bisa diet coke', 'Diet coke', 'Diet coke', 'Diet coke', 'kokain', 'soda', 'bisa diet coke']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bumbu apa ini?\
+	['Nyonya Dash', 'tidak dapat dijawab', 'Nyonya Dash', 'tidak dapat dijawab', 'Tidak bisa mengatakan', 'semua rempah-rempah', 'campuran basil', 'Mrs. Dash Table Campuran', 'berkas', 'Nyonya Dash']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Botol embun', 'embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'Tanah hujan']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['kopi', 'tidak dapat dijawab', 'kopi', 'kopi', 'kopi', 'kopi', 'kopi', 'kopi', 'kopi', 'tidak dapat dijawab']	coffee
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang kau lihat?\
+	['kulit', 'pintu lantai jari', 'pintu', 'pintu', 'pintu jari', 'pintu', 'tidak dapat dijawab', 'pintu', 'rumah', 'bulu hitam jari']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ditampilkan layar komputerku?\
+	['Apakah Anda ingin mengembalikan komputer Anda menggunakan pemulihan sistem', 'Sistem pemulihan muncul', 'Pesan pemulihan sistem', 'bertanya apakah Anda ingin mengembalikan komputer Anda menggunakan pemulihan sistem', 'kotak', 'sistem pemulihan', 'Apakah Anda ingin mengembalikan komputer Anda menggunakan pemulihan sistem', 'komputer tidak memulai menggunakan pemulihan sistem', 'Setup kembali', 'sistem pemulihan']	system restore
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['cokelat panas', 'campuran cokelat panas', 'cokelat panas', 'campuran cokelat panas', 'Kakao', 'campuran cokelat panas', 'cokelat panas', 'campuran cokelat panas', 'Kakao', 'campuran kakao']	hot cocoa
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau bilang nomor 1-800 di kartu ini?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['layar komputer', 'layar komputer', 'layar komputer', 'laptop', 'layar komputer yang menunjukkan hasil pencarian', 'layar', 'layar komputer', 'layar komputer', 'layar monitor', 'layar komputer']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['salad dressing bagian belakang', 'obat pengering', 'saus salad', 'saus salad', 'saus salad balsamik', 'saus salad', 'tidak dapat dijawab', 'saus salad', 'saus salad', 'saus salad']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ditunjukkan gambar ini?\
+	['jendela', 'Desain', 'jendela kaca berlapis es desain hitam', 'kaca jendela jendela di pintu', 'jendela kaca di pintu', 'pintu', 'kaca patri', 'pintu', 'jendela', 'jendela']	Gambar kaca patri
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa ada yang bilang pertanyaan keamanan di layar, tolong?\
+	['orang Arab', 'tidak dapat dijawab', 'orang Arab', 'orang Arab', 'orang Arab', 'orang Arab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'orang Arab', 'orang Arab']	jawabannya adalah arak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['anggur', 'pohon ek perak', 'pohon ek perak', 'anggur ek perak', 'anggur', 'botol', 'anggur', 'anggur', 'Batu ek perak 2003 Cabernet sauvignon', 'pohon ek perak 2003']	botol anggur
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Ponsel merek apa ini?\
+	['lg', 'tidak dapat dijawab', 'tidak dapat dijawab', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Minuman macam apa ini?\
+	['soda', 'Ginger ale', 'Generalisasi', 'Ginger soda', 'Kanada kering', 'Kanada kering', 'Ginger ale', 'Kanada kering', 'Ginger ale', 'Ginger ale']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa karpetnya?\
+	['warna beige', 'warna beige', 'Kecokelatan', 'abu-abu', 'warna ungu', 'krim', 'Kecokelatan', 'Kecokelatan', 'warna beige', 'warna ungu']	beige
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['telepon', 'telepon', 'telepon', 'telepon', 'telepon', 'telepon', 'Telepon digital', 'telepon', 'telepon kantor', 'telepon']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa gambar ini?\
+	['embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'embun gunung', 'Pohon embun', 'Botol embun', 'soda embun gunung', 'Tanah hujan']	botol mtn dew
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Botol apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'lotion', 'soda', 'tidak dapat dijawab', 'lotion', 'lotion', 'lotion', 'tidak dapat dijawab', 'lotion']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['air aquafina', 'botol air aquafina', 'air', 'air', 'botol plastik air merek aquafina', 'air botol', 'botol air', 'air aquafina', 'air', 'botol air plastik']	bukan saya dapat menjawab pertanyaan ini.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['cari di google', 'tab mesin pencari google', 'halaman pencarian google', 'google', 'google', 'komputer', 'halaman Google', 'halaman google', 'layar komputer', 'layar komputer']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['kunci', 'kunci', 'kunci', 'kunci', 'kunci', 'kunci', 'kunci', 'kunci', 'kunci', 'kunci']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong baca pesan kesalahan di layar.\
+	['tidak dapat dijawab', 'Kunci produk tidak valid', 'Kunci produk tidak valid', 'tidak dapat dijawab', 'Kunci produk tidak valid', 'Kunci produk tidak valid', 'Kunci produk tidak valid', 'Kunci produk tidak valid atau hapus kunci produk di file jawaban tidak hadir untuk melanjutkan', 'kunci produk tidak valid atau menghapus kunci produk di file jawaban tidak hadir untuk melanjutkan', 'Kunci produk tidak valid']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Di mana laptopku?\
+	['meja', 'Di meja', 'meja atas di samping tempat tidur', 'Di meja', 'meja', 'meja', 'Di meja', 'Di meja', 'Meja atas', 'meja']	on desk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa judul buku ini?\
+	['tahun anjing', 'Tahun anjing: memoar', 'tahun anjing', 'tahun anjing', 'tahun anjing', 'tahun anjing', 'tahun anjing', 'tahun anjing', 'tahun anjing', 'tahun anjing']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Macbook', 'keyboard', 'keyboard', 'keyboard', 'komputer', 'keyboard', 'laptop', 'laptop', 'laptop', 'keyboard layar komputer']	keyboard laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang kau lihat?\
+	['jendela meja', 'bunga', 'tidak dapat dijawab', 'jendela meja', 'buku notebook pen', 'bunga', 'mengakhiri', 'buku', 'jendela', 'bunga']	Gambar meja dengan buku di atasnya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Paket mana yang berisi tepung biasa?\
+	['Paket merah putih', 'kiri', 'bahwa 1', 'merah 1 di kiri', 'kiri', 'tidak dapat dijawab', 'kiri', 'kiri', 'merah putih 1', 'merah 1']	paket merah
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['sepak bola', 'sepak bola', 'sepak bola', 'Alligator sepak bola warna ungu oranye', 'sepak bola alligator', 'Alligator soft football', 'bola isi', 'bola sepak oranye biru yang diisi', 'bola ungu', 'bunga alga']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa?\
+	['abu-abu', 'emas', 'emas', 'warna beige', 'merah', 'emas', 'tidak dapat dijawab', 'tidak dapat dijawab', 'emas', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['menu', 'tidak dapat dijawab', 'menu', 'menu', 'menu', 'Isi tabel', 'menu', 'menu', 'daftar harga', 'tidak dapat dijawab']	menu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['botol air', 'springvourne', 'Air Springbourne', 'Springbourne', 'air kemasan', 'air', 'botol air', 'air kemasan', 'air dalam botol', 'air']	botol air springbourne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis sup ini?\
+	['progresso', 'progresso', 'progresso', 'tidak dapat dijawab', 'progresso', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'progresso', 'progresso']	progresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku tahu ini adalah kaleng makanan. Bisakah kau tolong katakan apa isi kaleng ini?\
+	['kacang hijau', 'kacang hijau', 'kacang hijau', 'kacang hijau', 'kacang hijau', 'tidak dapat dijawab', 'kacang hijau', 'eef', 'kacang hijau', 'kacang hijau']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang terjadi?\
+	['Chex campuran', 'mesin pemotong', 'komputer chex mix', 'tidak dapat dijawab', 'Chex campuran', 'makanan', 'Chex campuran', 'Chex campuran', 'Chex campuran', 'chekmix']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['gelombang mikro', 'gelombang mikro', 'obat-obatan', 'peralatan sup jeli', 'sup kaleng', 'sup secangkir untuk diminum', 'dapur', 'meja dapur', 'krim', 'sup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini bisa?\
+	['Sayuran campuran', 'Sayuran campuran', 'Sayuran campuran', 'Sayuran campuran', 'Sayuran campuran', 'Efgrfg', 'Sayuran campuran', 'Sayuran campuran', 'Sayuran campuran', 'Sayuran campuran']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis ini?\
+	['Kue glasier', 'Vinyl', 'Vinyl', 'Gelap vanili yang dipukul', 'Betty Crocker', 'Gelap vanila', 'vanilla dicampakkan', 'Gelap vanila', 'Vinyl', 'Vinyl']	whipped
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kotak apa yang saya lihat, seperti apa isi kotak?\
+	['Kotak bar biji-bijian', 'Buah almond granola panggang dari nature valley', 'Bar granola', 'lembah alam', 'Bar granola almond panggang', 'Buah almond granola panggang dari nature valley', 'alam lembah renyah granola bar rasa almond panggang', 'Bar granola', 'Bar granola', 'Bar granola renyah almond panggang']	granola bar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bagaimana dengan kain warna.\
+	['hijau putih', 'cetakan hijau putih gelap', 'putih hijau', 'putih hijau', 'merah muda hijau', 'kain putih hijau krim pada', 'merah muda hitam', 'hijau putih', 'warna dasi ungu hitam', 'bercak putih hijau']	ungu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ditampilkan di layar komputer?\
+	['panah mouse', 'Kursor', 'Tidak ada', 'biru', 'layar biru', 'panah', 'kosong', 'panah biru', 'kosong', 'layar biru']	blank screen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Halo, siapa ini?\
+	['Kucing putih', 'kucing', 'kucing', 'Kucing putih', 'kucing', 'tidak dapat dijawab', 'kucing', 'kucing', 'kucing ini', 'kucing']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['PURELL hand sanitizer canggih', 'hand sanitizer', 'hand sanitizer', 'pembersih tangan purell', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'pembersih tangan purell']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang dikatakan pesan kesalahan?\
+	['Kunci produk tidak valid', 'Kunci produk tidak valid', 'Kunci produk tidak valid', 'Kunci produk tidak valid', 'produk yang tidak sah', 'Kunci produk tidak valid klik OK untuk melanjutkan', 'Kunci produk tidak valid atau hapus kunci produk di file jawaban tidak hadir untuk melanjutkan', 'produk yang tidak sah', 'Kunci produk tidak valid', 'Kunci produk tidak valid']	bukan key product yang sah
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau memberitahuku apa yang tertulis dalam pesan ini di layar komputerku?\
+	['beberapa jenis perbaikan selesai tombol di kanan bawah', 'Perbaikan startup terakhir berhasil boot 9 20 2012 1 usaha perbaikan close back finish cancel', 'tidak dapat dijawab', 'Tidak ada', 'Perbaikan startup', 'Perbaikan startup', 'Perbaikan startup', 'tidak dapat dijawab', 'Perbaikan startup selesai tombol tutup layar diagnostik', 'Perbaikan startup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. daging apa itu? apakah ini ayam atau sosis atau daging apa? terima kasih\
+	['ayam', 'ayam', 'ayam', 'ayam', 'ayam', 'ayam', 'ayam', 'paha ayam', 'tidak dapat dijawab', 'ayam']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa ini?\
+	['biru listrik', 'biru', 'biru', 'biru', 'biru', 'biru', 'biru', 'biru', 'biru', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar?\
+	['memasang jendela', 'memasang windows plus lebih tidak dapat dibaca', 'memasang jendela', 'memasang jendela', 'memasang jendela', 'layar ini menyatakan bahwa windows menginstal daftar langkah-langkah instalasi', 'memasang jendela', 'memasang jendela', 'memasang jendela', 'memasang jendela']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Langit terlihat seperti di gambar ini.\
+	['sebagian mendung', 'Awan gelap', 'Awan besar', 'Awan besar langit gelap', 'mendung', 'mendung', 'banyak awan biru', 'tidak dapat dijawab', 'Awan hujan raksasa sedikit biru ke samping', 'mendung']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini? Apa ini?\
+	['Pintu depan', 'kursi', 'kursi', 'kursi', 'tidak dapat dijawab', 'bangku', 'kursi', 'kursi', 'jendela rangka logam bangku', 'kursi']	Gambar tidak lengkap.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['foto', 'pintu', 'pintu', 'bar', 'pintu berpanel kaca', 'pintu', 'restoran', 'restoran', 'pintu', 'pintu']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di layarku? Ayolah, kalian! Apa yang ada di layar?\
+	['Pilih perangkat boot', 'Silakan pilih perangkat boot 3 pilihan', 'tidak dapat dijawab', 'Silakan pilih perangkat boot', 'layar boot', 'Silakan pilih perangkat boot', 'kesalahan', 'Silakan pilih perangkat boot', 'Pesan pilihan perangkat', 'Silakan pilih perangkat boot']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa benda ini?\
+	['tempat buang abu', 'patung perunggu hias singa', 'patung', 'Tidak ada', 'tempat buang abu', 'Tray abu', 'patung', 'mangkuk anjing', 'tempat buang abu', 'harimau wabah di atas']	patung
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Rokok macam apa ini?\
+	['Amerika semangat', 'Amerika semangat', 'Amerika semangat', 'Amerika semangat', 'Amerika semangat', 'hitam dikemas roh Amerika', 'Amerika semangat', 'Amerika semangat', 'Amerika semangat', 'Amerika semangat']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['ginseng jambu', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi botol ini?\
+	['lotion tubuh', 'lotion tubuh', 'lotion tubuh', 'lotion', 'Shea body lotion vitamin E', 'jalan sinar bulan vitamin e lotion tubuh', 'lotion tubuh', 'Moonlight Path lotion tubuh', 'Moonlight Path lotion tubuh', 'lotion']	lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini gambarnya?\
+	['Kacamata', 'rangka', 'Kacamata', 'Kacamata perak bingkai', 'Kacamata mata', 'Kacamata', 'rangka kacamata', 'Kacamata', 'Kacamata', 'Kacamata']	kacamata putih
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Ini adalah produk.\
+	['Ya, aku tahu.', 'sup tomat', 'sup tomat', 'sup', 'sup kaleng', 'sup tomat', 'sup tomat', 'sup tomat', 'sup', 'pilih sup tomat panen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['kotak telepon', 'iPhone', 'kotak iphone', 'telepon', 'ponsel', 'kotak ponsel', 'smartphone', 'telepon', 'ponsel pintar', 'iPhone']	bukan gambar yang jelas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini gambarnya?\
+	['wadah permen', 'kotak merah perayaan', 'bertanggung jawab', 'Katanya merayakan', 'kotak', 'permen', 'mendukung partai', 'perayaan', 'kotak', 'tidak dapat dijawab']	perayaan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini? Apa ini?\
+	['Champagne', 'teh kaca anggur', 'kaca', 'anggur kaca', 'Segelas anggur sampanye di samping cangkir kopi yang duduk di piring', 'minum dalam gelas di atas meja', 'Champagne', 'gelas secangkir teh', 'gelas sampanye teko', 'piring kaca sampanye di meja di jendela depan kota']	tidak dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa rasanya ini?\
+	['jeruk', 'Oranyeu hijau kuning merah', 'mint jeruk', 'jeruk', 'tidak dapat dijawab', 'tidak dapat dijawab', 'jeruk', '2 di kiri jeruk ceri lemon di atas bawah kanan wintergreen', 'jeruk', 'jeruk']	permen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Halo, aku ingin tahu apa yang ada di dalam kaleng ini? Terima kasih. Aku ingin tahu apakah itu bir atau kaleng soda. Terima kasih.\
+	['Coca-Cola', 'Coca-Cola', 'soda', 'Coca-Cola', 'soda', 'soda cokelat', 'soda', 'soda', 'Coca-Cola', 'soda']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa pengaturan pada pengering ini?\
+	['Berlawanan arah jarum jam reguler pengendalian keriput waktu kering halus keriput pelepasan udara bulu', 'biasa', '- Tidak', '- Tidak', '- Tidak', 'biasa', '- Tidak', 'Tidak pada pengaturan', 'Tidak ada', '- Tidak']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tablet', 'tablet', 'aplikasi telepon', 'layar', 'daftar aplikasi', 'toko aplikasi', 'tablet', 'daftar aplikasi untuk diunduh', 'tidak dapat dijawab', 'Download aplikasi']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang aku lihat?\
+	['televisi', 'TV lemari', 'televisi', 'televisi', 'layar televisi', 'televisi', 'Tom Selleck di televisi', 'televisi', 'televisi', 'TV pintu lemari terbuka']	tv di kamar tidur
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa ini?\
+	['putih', 'putih', 'putih', 'putih', 'warna beige', 'putih', 'gading', 'tidak dapat dijawab', 'warna beige', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['makanan ini', 'buah ravioli', 'buah ravioli', 'buah ravioli', 'buah ravioli', 'Chef Boyardee mini ravioli', 'ravioli mini kaleng', 'buah ravioli', 'Chef Boya mini ravioli', 'Ravioli kecil']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['tepung daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang tradisional', 'daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang tradisional', 'daging sapi panggang', 'daging sapi panggang']	roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa produk ini?\
+	['Pepsi diet', 'Pepsi diet bebas kafein', 'Pepsi', 'Pepsi', 'Pepsi diet', 'Pepsi diet', 'Pepsi diet', 'Pepsi diet bebas kafein', 'Pepsi diet', 'Pepsi diet']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini disebut?\
+	['timur', 'kacang', 'tidak dapat dijawab', 'tidak dapat dijawab', 'makanan', 'kacang', 'campuran jalur', 'sereal', 'kacang', 'kacang tanah kantong']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini kopi biasa atau tanpa kafein?\
+	['biasa', 'tidak dapat dijawab', 'biasa', 'biasa', 'biasa', 'biasa', 'tidak dapat dijawab', 'tidak dapat dijawab', 'biasa', 'biasa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['keju makaroni', 'keju makaroni', 'keju makaroni', 'keju makaroni', 'keju makaroni', 'Keju mac', 'keju makaroni', 'keju makaroni', 'keju makaroni', 'keju makaroni']	makaroni dan keju
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi botol ini?\
+	['lotion pelembab', 'lotion', 'lotion', 'lotion', 'krim pelembab', 'lotion', 'pelembab', 'krim tubuh', 'Cuci tubuh dengan kelembaban yang dalam', 'Cuci tubuh']	lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['kursi meja', 'kursi', 'kursi', 'kursi kantor', 'kursi kantor', 'kursi kantor ini', 'kursi', 'kursi meja', 'kursi', 'kursi kantor abu-abu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu barang yang baru saja aku ambil foto?\
+	['monitor komputer', 'komputer', 'layar komputer', 'tidak dapat dijawab', 'tidak dapat dijawab', 'laptop', 'layar komputer', 'laptop', 'monitor komputer', 'komputer laptop']	monitor komputer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Katakan apa ini.\
+	['daging babi', 'daging', 'semacam daging merah', 'daging kemasan', 'daging babi', 'daging babi', 'tidak dapat dijawab', 'daging', 'Fg', 'daging babi']	tidak dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. seperti apa langit di foto ini?\
+	['hari mendung', 'sebagian mendung', 'mendung', 'mendung', 'mendung', 'mendung', 'mendung', 'mendung', 'mendung', 'hujan']	awan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Makanannya menunggu waktu habis?\
+	['tidak dapat dijawab', 'spaghetti', 'spaghetti', 'tidak dapat dijawab', 'tidak dapat dijawab', 'spaghetti', 'spaghetti', 'mirror', 'makan malam', 'Pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['bunga', 'bunga', 'bunga', 'bunga', 'bunga', 'bunga', 'tanaman', 'bunga', 'bunga', 'iris']	buket bunga ungu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Teh longgar', 'Teh', 'tidak dapat dijawab', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh', 'Teh']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna dan pola celana pendek ini?\
+	['berlapis', 'biru berlapis kuning', 'biru oranye hijau', 'biru cokelat putih berlapis', 'biru di atas berlapis kuning di bawah', 'berwarna-warni', 'warna biru cokelat putih berlapis', 'berlapis', 'warna biru berlapis', 'biru putih hijau kuning berlapis']	multicolor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. warna tasnya apa?\
+	['hijau', 'hijau', 'hijau jeruk nipis', 'warna hijau', 'hijau', 'hijau', 'hijau', 'hijau', 'hijau terang', 'hijau']	hijau
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini Coca-Cola biasa atau Coca-Cola diet?\
+	['Diet coke', 'diet', 'diet', 'diet', 'diet', 'diet', 'Diet coke', 'diet', 'Diet coke', 'diet']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Pen', 'Pen keyboard', 'Pen', 'Pen', 'Pen', 'Pen', 'Pen', 'Pen', 'Pen', 'Bic pen']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['lampu bisa pringles', 'lampu', 'lampu', 'lampu', 'Pringle bisa di sebelah lampu cd', 'lampu tanpa bayangan', 'lampu', 'Pemanas mulut lampu meja', 'lampu', 'lampu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang dilakukan komputer ini?\
+	['sistem pemeriksaan', 'tidak dapat dijawab', 'Periksa cakram', 'Disk pemeriksaan', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Pengisian', 'mengkonfigurasi', 'Pemeriksaan konsistensi', 'Reboot']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis soda ini?\
+	['Diet coke', 'suara', 'Diet coke', 'Diet coke', 'Diet coke', 'Diet coke', 'Diet coke', 'Diet Coke lemon', 'Diet coke', 'Diet coke']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong ceritakan padaku tentang buku ini\
+	['Clive Cussler Dirk Cussler', 'tidak dapat dijawab', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'ilmu pengetahuan', 'ketegangan', 'Olive Cussler Dirk Cussler', 'tindakan', 'tidak dapat dijawab', 'Clive Cussler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Anggur apa ini?\
+	['tidak dapat dijawab', 'Merayakan pernikahan David Emma anggur merah', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Nash wine']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['yogurt', 'tidak dapat dijawab', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa judul buku ini?\
+	['tahun anjing', 'tahun anjing', 'tahun anjing', 'tahun anjing', 'tidak dapat dijawab', 'tahun anjing', 'tidak dapat dijawab', 'tahun anjing', 'tahun anjing', 'tahun anjing']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['laptop sony', 'laptop', 'laptop', 'komputer', 'laptop', 'laptop Sony Vaio', 'laptop', 'Sony Vaio', 'laptop sony', 'laptop']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku ingin tahu merek komputer ini.\
+	['Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau katakan apa ini?\
+	['pertempuran', 'Label belakang tidak mengatakan', 'tidak dapat dijawab', 'tomat', 'tomat', 'tomat', 'tidak dapat dijawab', 'tomat', 'gambar yang tidak jelas', 'tomat']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Puding', 'makanan ringan puding', 'Puding vanila', 'Puding', 'Puding vanila', 'Puding', '6 bungkus makanan ringan bungkus vanilla puding', 'cangkir puding', 'Puding', 'puding makanan ringan']	snack pack pudding
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['20 dolar Kanada', '20 dolar Kanada', '20 Kanada', 'uang', 'uang pada renda', '20 tagihan', 'uang', '20 dolar Kanada uang kertas', '$ 20 dolar', 'uang']	20 dollar canada
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['Lasagna', 'Lasagna', 'Lasagna khusus', 'Lasagna', 'Lasagna khusus', 'Lasagna khusus', 'Lasagne', 'Lasagna', 'Lasagna', 'Lasagna']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kopi macam apa ini?\
+	['Espresso', 'Espresso', 'timothy expresso', 'Espresso hutan hujan', 'Espresso hutan hujan', 'Espresso', 'ekstra tebal', 'Espresso Forest tropis', 'Espresso yang sangat tebal untuk daerah tropis', 'Timotius']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu gambarnya?\
+	['gelas anggur keyboard', 'laptop', 'keyboard laptop anggur bir', 'tidak dapat dijawab', 'komputer', 'komputer', 'minuman laptop', 'komputer laptop di meja di samping cairan kaca', 'Laptop kaca', 'Laptop kaca']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['judul buku', 'buku', 'brosur', 'Catatan', 'Demon rum buku uang mudah', 'Demon rum uang mudah: pemerintah kontrol minuman keras di British Columbia', 'buku', 'buku', 'halaman judul buku', 'brosur']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di atas meja?\
+	['buku catatan', 'pena notebook kertas lainnya', 'notebook bercincin spiral', 'pena kertas', 'buku catatan', 'pena notebook', 'buku catatan', 'pena notebook', 'pena kertas', 'buku catatan']	notebook
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. warna baju apa ini?\
+	['warna biru putih berlapis', 'biru putih', 'warna biru putih berlapis', 'biru putih', 'biru', 'biru putih', 'warna biru putih berlapis', 'warna biru berlapis', 'biru', 'biru']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Andre Chardonnay', 'Champagne', 'Andre', 'Champagne', 'anggur', 'Champagne', 'Champagne', 'Champagne', 'botol sampanye', 'Champagne']	wine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa nama produk dalam kaleng di gambar?\
+	['Lisole', 'Lisole', 'Lisole', 'Lisole', 'Lisole', 'Lisole', 'Lisole', 'Lisole', 'Lisole', 'Lisole']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kopi macam apa ini?\
+	['Gelato', 'Maksimum Gevalia Kafe', 'Maksimum', 'Gevalia espresso', 'Maksimum', 'Kopi hitam', 'Maksimum', 'tidak dapat dijawab', 'Gelato', 'Gelato']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Dr. Pepper', 'bisa dr soda lada', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'dr soda lada', 'Dr. Pepper', 'bisa dr soda lada', 'Dr. Pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau tolong katakan apa ini, terima kasih?\
+	['Kopi instan', 'Kopi instan', 'kopi klasik', 'Paket kopi', 'tidak dapat dijawab', 'kopi', 'kopi', 'Kopi bubuk', 'kopi', 'Nescafe klasik']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa warna tiga kawat dari kiri ke kanan?\
+	['merah hitam putih', 'merah hitam putih', 'merah hitam tan', 'merah hitam putih', 'merah hitam putih', 'merah hitam putih', 'merah hitam putih', 'merah hitam putih', 'merah biru putih', 'merah hitam putih']	merah, hitam, dan putih.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ditunjukkan tes kehamilan ini?\
+	['1 baris', 'negatif', 'negatif', 'Satu garis tapi pencetak bercampur coba lain', 'tidak dapat dijawab', '1 garis', 'Tidak ada gambar', 'garis merah', 'tidak dapat dijawab', 'tanda biru tanda merah']	test kehamilan tidak menunjukkan tanda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa nama bumbu ini?\
+	['Mrs. Campuran lada segar', 'berkas', 'Nyonya Dash', 'Mrs. Dash lemon pepper', 'Nyonya Dash', 'Nyonya Dash', 'Buah paprika', 'Nyonya Dash', 'Nyonya Dash', 'Nyonya Dash']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Hai, minuman apa yang ada di botol di tangan kananku?\
+	['Pepsi', 'Pepsi soda', 'Pepsi diet', 'Pepsi diet', 'Pepsi diet', 'Pepsi', 'Pepsi diet', 'Diet pepsi', 'Pepsi diet', 'Pepsi diet']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['video game', 'video game', 'permainan bola basket', 'video game', 'tidak dapat dijawab', 'DVD', 'tidak dapat dijawab', 'permainan', 'video game', 'DVD']	bukan saya dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Kecap', 'Kecap', 'Heinz tomat ketchup', 'Paket ketchup', 'Paket ketchup', 'Kecap', 'Kecap', 'Paket ketchup', 'Kecap', 'Kecap']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa yang ada di baju ini?\
+	['merah putih', 'warna coklat', 'merah putih', 'garis putih merah', 'garis putih merah', 'merah putih', 'merah putih', 'merah putih', 'merah putih', 'merah putih']	merah
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi bungkus ini?\
+	['gambar parlemen', 'album musik', 'rokok', 'rokok', 'rokok', 'rokok', 'filter pengendap pahament', 'rokok parlemen', 'kartu', 'Rokok']	asap
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa tikar ini?\
+	['ungu', 'ungu', 'ungu', 'ungu', 'ungu', 'ungu', 'ungu', 'ungu', 'ungu', 'ungu']	ungu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah dialognya lebih terlihat di gambar itu?\
+	['bosan', 'Ya, aku tahu.', 'Tidak ada', 'Ya, aku tahu.', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Ya, aku tahu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa produk ini?\
+	['kacang hijau', 'kacang hijau', 'kacang hijau', 'bisa', 'kacang', 'kacang polong', 'tidak dapat dijawab', 'kacang hijau', 'Fg', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini bisa?\
+	['kacang babi', 'kacang babi', 'Daging babi dan kacang', 'kacang babi', 'kacang babi', 'kacang babi', 'kacang babi', 'kacang babi', 'kacang babi', 'kacang babi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini anggur?\
+	['tidak dapat dijawab', 'Aewfdsaedf', 'Vintage 2008 produk Nash', 'Nash', 'Nash', 'Souvenir pernikahan', 'Nash merayakan pernikahan David Emma 16 Juli 2011', 'Nash', 'Nash', 'pernikahan perayaan']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Makanan macam apa ini?\
+	['saus tomat', 'saus tomat', 'saus tomat organik', 'saus tomat', 'saus tomat', 'saus tomat', 'Muir Glen saus tomat organik', 'saus tomat', 'Muir Glen saus tomat organik', 'tomoto']	saus tomat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Rasa apa ini?\
+	['Buah stroberi', 'Buah stroberi', 'Buah stroberi', 'Buah stroberi', 'Buah stroberi', 'Buah stroberi', 'Buah stroberi', 'Buah stroberi', 'Buah stroberi', 'Buah stroberi']	strawberry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan warna ini?\
+	['hitam', 'hitam', 'hitam', 'hitam', 'hitam', 'hitam', 'hitam', 'hitam', 'hitam', 'hitam']	hitam
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['tanaman', 'tanaman hias', 'lidah buaya', 'tanaman rumah', 'tanaman rumah', 'tanaman rumah', 'tanaman', 'tanaman rumah', 'tanaman', 'tanaman rumput']	tanaman
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['majalah', 'buku komik', 'buku komik', 'permainan papan dewasa', 'majalah', 'buku mewarnai', 'buku natal aneh', 'Aku tidak yakin aku tidak bisa membaca bahasa itu', 'Kartu ucapan natal', 'komik']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['ayam dijon makan malam', 'makanan', 'ayam dijon', 'ayam dijon', 'ayam dijon', 'makanan', 'ayam dijon', 'ayam', 'ayam dijon', 'ayam dijon']	chicken dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kopi macam apa ini?\
+	['Gevalia', 'Gelato', 'vanila Prancis', 'vanila Prancis', 'Gevalia', 'Gevalia', 'vanila Prancis', 'vanila Prancis', 'bahasa Prancis', 'Gevaliaa vanilla Prancis']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa benda ini?\
+	['iPhone', 'telepon', 'telepon', 'iPhone', 'ponsel', 'ponsel', 'telepon genggam', 'Aku telepon', 'smartphone', 'smartphone']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini? Apa ini?\
+	['tidak dapat dijawab', 'rokok', 'Rokok kemasan', 'rokok', 'Rokok kemasan', 'rokok', 'rokok', 'tidak dapat dijawab', 'rokok', 'rokok']	bukan saya dapat menjawab ini.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Rasa apa ini?\
+	['daging sapi', 'daging sapi', 'daging sapi', 'kaldu dengan rasa daging sapi', 'daging sapi', 'Rasa daging sapi', 'kaldu dengan rasa daging sapi', 'daging sapi', 'rasa daging sapi ini', 'daging sapi']	beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['cangkir besar', 'gelas', 'gelas', 'gelas', 'Cintai piala Togo', 'gelas', 'Pop cup beberapa hal lain', 'cangkir styrofoam', 'gelas', 'cangkir ini']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini Pepsi diet atau Pepsi biasa?\
+	['Pepsi diet', 'diet', 'tidak dapat dijawab', 'diet', 'Pepsi diet', 'diet', 'diet', 'diet', 'Pepsi diet', 'diet']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar?\
+	['perangkat lunak avast', 'pemindaian drive lokal', 'jendela', 'pesan kesalahan', 'pemindaian', 'Avast software scanning windows xp', 'jendela', 'tidak dapat dijawab', 'Windows XP', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong katakan pada layar mana saya berada? Saya mencoba mengakses menu boot dan saya mencoba untuk boot dari USB drive. Lihat apakah Anda bisa memberi tahu saya layar apa yang terbuka dan pilihan apa?\
+	['Tekan panah ke bawah sekali lalu masukkan untuk usb', 'Menu boot pada boot dari pilihan hdd', 'tidak dapat dijawab', 'U bootmood', 'Silakan pilih perangkat boot', 'Silakan pilih perangkat boot:', 'Silakan pilih perangkat boot hdd: pm st9250315as', 'Silakan pilih perangkat boot', 'Header layar: silahkan pilih perangkat boot pindahkan panah ke bawah 1 titik ke usb:usb disk pro', 'Silakan pilih perangkat boot']	hard drive
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan rasa apa ini?\
+	['Diet dr lada', 'Diet dr lada', 'Diet lada', 'Dr. Pepper', 'Diet dr lada', 'Diet dr lada', 'Diet dr lada', 'Coca-Cola', 'Diet dr lada', 'Diet dr lada']	diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis sup ini?\
+	['sup sayuran', 'progresso', 'progresif', 'tidak dapat dijawab', 'Sayuran progresso', 'tidak dapat dijawab', 'Sayuran', 'Sayuran progresso', 'Sayuran', 'progresso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan mobil macam apa ini?\
+	['tidak dapat dijawab', 'Lincoln Crown Victoria', 'semacam 4 pintu sedan', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'mobil Chevrolet', 'Victoria mahkota', 'tidak dapat dijawab', 'Ford']	sedan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Ini kopi?\
+	['Gelato', 'Gelato', 'Gelato', 'Gevalia Swiss hazelnut', 'Gelato', 'Gelato', 'Gelato', 'Gelato', 'Gelato', 'Gelato']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'germx', 'sanitizer tangan kuman x', 'sanitizer tangan kuman x']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu kaleng?\
+	['sup', 'buah', 'tidak dapat dijawab', 'tidak dapat dijawab', 'sup', 'tidak dapat dijawab', 'sup', 'tidak dapat dijawab', 'laci', 'sup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa ini?\
+	['coklat', 'coklat', 'coklat', 'Oak cokelat', 'coklat', 'Pohon maple', 'kayu', 'coklat', 'coklat', 'coklat']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tangan', 'tangan', 'tidak dapat dijawab', 'tangan', 'tangan', '1 tangan kanan', 'tangan', 'tangan', 'tangan']	bukan saya dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa pengaturan pot keran?\
+	['gelas', 'tinggi', 'tinggi', 'tinggi', 'tinggi', 'tinggi', 'rendah', 'tinggi', 'tinggi', 'tinggi']	rendah
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau ceritakan apa ini?\
+	['barang untuk orang buta', 'cd', 'CD terbalik', 'barang untuk cakram buta', 'cd', 'disk', 'buku di CD', 'cd', 'Barang cd untuk orang buta', 'Tombak oleh James Herbert DVD']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['komputer monitor keyboard', 'monitor', 'monitor komputer', 'layar komputer', 'komputer', 'monitor komputer', 'layar komputer', 'desktop', 'grafik', 'grafik']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan apa yang tertulis di botol ini?\
+	['gula vanila hangat', 'gula', 'gula vanila hangat', 'gula vanila hangat', 'lotion tubuh gula vanila hangat', 'gula vanila hangat', 'lotion tubuh gula vanila hangat', 'gula vanila hangat', 'lotion tubuh gula vanila hangat', 'gula vanila hangat']	lotion tubuh
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di layar?\
+	['layar instalasi windows', 'tidak dapat dijawab', 'memasang jendela', 'menginstal layar status windows', 'Windows menginstal', 'memasang jendela', 'instruksi untuk memasang jendela', 'kemajuan memasang jendela', 'Menginstal Windows Info', 'jendela']	informasi yang disediakan tidak cukup untuk menjawab.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['bisa', 'bisa', 'tidak dapat dijawab', 'kacang kaleng', 'bisa', 'kacang', 'tidak dapat dijawab', 'kacang', 'Bumbu', 'Bumbu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Minuman macam apa itu?\
+	['jus jeruk', 'jus jeruk', 'jus jeruk', 'jus jeruk', 'jus jeruk', 'jus jeruk', 'jus jeruk', 'jus jeruk', 'jeruk', 'jus jeruk']	jus jeruk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis pop yang ada di dalam kaleng ini?\
+	['Teh', 'Nestaa', 'Nestea lemon', 'teh es', 'Nestaa', 'Nestaa', 'Nestaa', 'teh es', 'teh es nestle', 'bertelur']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini pizza pepperoni, pepperoni dan sosis, supreme, jenis apa?\
+	['Pepperoni', 'Pepperoni', 'Pepperoni', 'Pepperoni', 'Pepperoni', 'Pepperoni', 'Ya, aku tahu.', 'Pepperoni', 'Mama cozzis pepperoni kerak tipis', 'Pepperoni']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah Anda memiliki ide apa jenis tanaman yang di tengah adalah?\
+	['Tidak ada', 'rumput', 'rumput', 'rumput', 'rumput', 'rumput', 'Tidak ada', 'Tidak ada', 'rumput', 'rumput']	waspada
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Kacamata', 'Kacamata', 'Kacamata', 'Kacamata', 'Sepasang kacamata', 'Kacamata', 'Sepasang kacamata', 'Kacamata', 'Kacamata mata', 'Sepasang kacamata']	kacamata
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Jelaskan tempat ini.\
+	['kantor', 'ruang kantor', 'kantor', 'kantor 2 meja lemari 2 kursi', 'kantor', 'kantor', 'meja hitam kursi kantor', 'meja kantor', 'kantor 2 meja', 'kantor']	kantor dengan meja dan kursi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['buku catatan', 'perencana', 'buku', 'buku', 'kartu', 'buku catatan', 'perencana', 'buku catatan', 'Lilly Pulitzer agenda spiral', 'buku catatan']	buletin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Teddy bear mawar', 'beruang teddy', 'beruang teddy', 'beruang teddy', 'beruang teddy', 'beruang teddy', 'beruang', 'beruang teddy', 'beruang teddy', 'beruang teddy']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis rempah ini?\
+	['garam laut bawang', 'garam laut bawang', 'garam laut bawang', 'garam laut bawang', 'garam laut', 'garam bawang', 'garam laut bawang', 'garam laut bawang', 'garam laut bawang', 'garam laut bawang']	onion sea salt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di dalam kaleng ini?\
+	['Diet dr lada', 'Diet dr lada', 'Diet dr lada', 'Diet dr lada', 'Dr. Pepper', 'Diet dr lada', 'Diet dr lada', 'Diet dr lada', 'Diet lada', 'Diet dr lada']	soda diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa gambar di cangkir ini?\
+	['kartun', 'karakter kartun', 'kartun', 'Pria melihat burung', 'ayam manusia', 'Pria', 'Pria kartun', 'sketsa burung manusia pohon bulan', 'hewan', 'kartun']	gambar di cangkir tidak terlihat dalam teks yang disediakan.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['orang kembali', 'anak laki-laki', 'kepala manusia', 'orang', 'Kembali seseorang kepala bahu', 'kembalilah', 'tidak dapat dijawab', 'Kaos abu-abu', 'anak laki-laki', 'gambar orang belakang']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['pembicara', 'pembicara', 'Speaker di dinding', 'pembicara', 'pembicara', 'pembicara', 'speaker dinding', 'pembicara', 'Cat mount', 'pembicara']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['nomor telepon taksi', 'Tidak ada', 'Tidak ada', 'telepon', 'taksi kota', 'tanda terima', 'tidak dapat dijawab', 'Sepertinya tanda terima', 'garis', 'taksi kota']	informasi yang disediakan tidak lengkap, menjawab tidak dapat dijawab.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['New Orleans gaya jambalaya campuran', 'campuran jambalaya', 'campuran jambalaya', 'beras', 'jambalaya', 'campuran jambalaya', 'campuran jambalaya', 'beras jambalaya', 'kotak campuran siap untuk gaya New Orleans jambalaya beras', 'campuran jambalaya']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa Macku?\
+	['perak', 'putih', 'Beige hitam', 'putih', 'perak', 'perak', 'perak', 'perak', 'putih', 'perak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di dalam kaleng?\
+	['kacang organik yang dipanggang', 'kacang bakar', 'kacang organik yang dipanggang', 'kacang bakar', 'kacang bakar', 'kacang bakar', 'kacang bakar', 'kacang bakar', 'kacang bakar', 'kacang bakar']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['keju makaroni', 'tidak dapat dijawab', 'keju makaroni', '3 keju makaroni', 'keju makaroni', 'Keju mac', 'keju makaroni', 'makan malam', 'Keju dan pasta', 'keju kerang']	pasta dan keju
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['zatarains new orleans gaya jambalaya campuran', 'campuran jambalaya', 'campuran jambalaya', 'campuran jambalaya', 'campuran jambalaya', 'beras', 'zatarains jambalaya campuran', 'jambalaya', 'zatarains jambalaya campuran', 'campuran jambalaya']	jambalaya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['permen jalanan berkualitas', 'permen kotak', 'permen', 'permen', 'permen keras', 'permen', 'permen', 'permen', 'kualitas jalan', 'permen']	bukan saya dapat menjawab pertanyaan ini.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Maaf, katakan apa yang bisa kau lihat di gambar ini.\
+	['kulkas', 'kulkas', 'kulkas', 'lemari es kecil wicker lampu ubin stiker pegangan dinding pada kulkas', 'kulkas', 'kulkas mini', 'kulkas mini', 'pintu lemari', 'kulkas putih', 'kulkas']	gambar lemari es
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan apa yang tertulis di dalam kotak itu?\
+	['cucu-cucu yang indah', 'sesuatu tentang cucu yang indah', 'menyenangkan', 'Tidak ada yang lebih menyenangkan dari cucu', 'Beberapa hal yang lebih menyenangkan dari cucu bertengkar di pangkuanmu', 'cucu-cucu yang indah', 'cucu-cucu yang indah', 'Beberapa hal yang lebih menyenangkan dari cucu bertengkar di pangkuanmu', 'tidak dapat dijawab', 'cucu-cucu yang indah']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Seperti apa langit?\
+	['jelas', 'matahari terbenam matahari terbit', 'biru', 'senja', 'biru', 'jelas', 'jelas', 'tenang', 'biru muda', 'Biru lebih terang biru dekat cakrawala']	clear
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa baju ini?\
+	['Kecokelatan', 'coklat', 'Kecokelatan', 'warna beige', 'warna beige', 'berwarna merah muda', 'coklat', 'Kecokelatan', 'emas', 'warna abu-abu']	coklat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah dia anak laki-laki atau perempuan?\
+	['tidak dapat dijawab', 'anak laki-laki', 'anak laki-laki', 'gadis', 'anak laki-laki', 'anak laki-laki', 'anak laki-laki', 'anak laki-laki', 'anak laki-laki', 'anak laki-laki']	laki
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong katakan barang apa ini?\
+	['sereal', 'Cheerios', 'sereal', 'Cheerios', 'tidak dapat dijawab', 'sereal', 'madu cheerios', 'Cheerios sekarang lebih lezat madu', 'Sayang', 'Sayang']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa ini?\
+	['merah berlapis kuning putih biru', 'berlapis', 'warna hijau biru putih merah berlapis', 'berwarna-warni', 'berwarna pucat', 'berlapis', 'biru hijau putih merah', 'berlapis', 'biru putih hijau berlapis', 'biru hijau merah putih']	baju kotak-kotak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['cokelat panas', 'campuran cokelat panas', 'campuran cokelat panas', 'campuran cokelat panas', 'campuran kakao', 'cokelat panas', 'cokelat panas', 'campuran cokelat panas', 'Paket cokelat panas', 'cokelat panas']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['tidak dapat dijawab', 'hams bir ringan khusus', 'Bir', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Bir', 'Bir', 'Bir', 'Bir', 'lampu khusus']	bir
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Ini ayam atau seledri?\
+	['tomat', 'tomat', 'tomat', 'tomat', 'Tidak ada', 'tomat', 'sup tomat', 'tomat', 'tomat', 'Tidak ada']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Macbook Pro', 'Airbook Pro', 'Macbookpro', 'Macbook Pro']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku ingin tahu apa isi kaleng ini\
+	['kacang bakar', 'kacang bakar', 'kacang', 'kacang panggang dalam saus tomat', 'gadis petani kacang panggang', 'kacang bakar', 'kacang bakar', 'kacang', 'kacang bakar', 'kacang']	farmgirl kacang panggang dalam saus tomat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['ayam', 'tidak dapat dijawab', 'ayam parmesan creamy', 'makanan', 'Makan malam TV', 'makanan', 'Keju mac', 'makanan', 'Marie Collenders makanan', 'ayam parmesan creamy']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['uang kertas dolar', '1 dolar', 'Dolar', '1 dolar', '1', '1 dolar', 'uang kertas dolar', 'Uang kertas $ 1', '1 dolar', '1 US dolar kertas']	uang 1 dollar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini.\
+	['kartu bermain', '2 raja', 'Raja pasangan', 'kartu bermain', 'kartu', 'kartu', 'kartu bermain', 'pasangan', 'kartu', 'kartu bermain']	bukan pertanyaan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini hitam atau biru?\
+	['tidak dapat dijawab', 'hitam', 'hitam', 'hitam', 'hitam', 'hitam', 'hitam', 'abu-abu', 'hitam abu-abu', 'hitam']	hitam
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar?\
+	['kotak teks pencarian google', 'google', 'google', 'Google Google search aku merasa beruntung', 'google', 'cari di google', 'tidak dapat dijawab', 'google', 'google', 'tidak dapat dijawab']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang', 'makanan', 'daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang', 'daging sapi panggang tradisional', 'daging sapi panggang tradisional']	roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis soda ini?\
+	['Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper', 'Dr. Pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['remote tv', 'remote control', 'remote control', 'jarak jauh', 'remote control', 'jarak jauh', 'remote control', 'remote control', 'jarak jauh', 'remote control']	remote
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tanaman rumah', 'tanaman', 'tanaman rumah', 'tanaman', 'tanaman', 'tanaman', 'tanaman', 'tanaman pot', 'tanaman', 'tanaman rumah']	tanaman
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['meja', 'komputer', 'meja', 'meja', 'meja', 'meja', 'meja komputer', 'meja', 'meja', 'komputer desktop di']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di meja saya?\
+	['iPod touch', 'aplikasi', 'telepon', 'kertas ponsel pintar', 'kertas ponsel pintar', 'telepon', 'telepon', 'telepon', 'ponsel', 'telepon']	smartphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Foto apa yang aku ambil?\
+	['Ipad', 'pic ipad tas kopi di sebelah', 'tablet', 'Ipad', 'Hulu login layar', 'Huluplus', 'tablet yang menunjukkan hulu plus', 'tablet hulu plus login', 'layar huluplus', 'layar login untuk hulu plus pada tablet']	tablet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Botol apa ini?\
+	['Sampo', 'Sampo', 'tidak dapat dijawab', 'treseme', 'Tresemme', 'tidak dapat dijawab', 'perawatan rambut tresemme', 'Sampo', 'parfum', 'Tresemme shampoo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini modelnya?\
+	['soda', 'sprite', 'botol soda', 'sprite', 'tidak dapat dijawab', 'soda sprite', 'sprite', 'botol sprite', 'tidak dapat dijawab', 'sprite']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa produk ini?\
+	['Chex campuran', 'Chex campuran', 'Chex campuran', 'Chex Mix Cheddar', 'Chex campuran', 'Chex campuran', 'chef mix', 'Chex campuran', 'Chex campuran', 'Chex']	cheddar chex
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['kalkun asap', 'Panini kalkun asap', 'Panini kalkun asap', 'panini kalkun', 'Panini kalkun asap', 'Panini kalkun asap', 'isian dari kain', 'Panini', 'kalkun asap', 'Panini kalkun asap']	panini kalkun asap
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Surat apa yang harus kucetak untuk memenangkan hadiah?\
+	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis kaleng ini?\
+	['tomat', 'saus', 'tomat', 'tomat yang hancur', 'kaleng', 'tomat', 'tomat', 'tomat kaleng', 'tomat', 'tomat']	tomat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis cangkir Keurig ini?\
+	['Rumah donat', 'kopi', 'kotak', 'Donut', 'koleksi rumah donat', 'Donut', 'Donut', 'koleksi donut hut', 'lubang donat', 'koleksi lubang donat']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong katakan nama buku ini?\
+	['fajar bulan sabit', 'tidak dapat dijawab', 'Penulis Clive Cussler Dirk Cussler', 'Hanya nama penulis yang ditampilkan tanpa judul', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['uang', 'uang', '20 dolar', 'uang', '20 dolar', '20 dolar', '20 dolar', 'uang kertas dua puluh dolar', 'RUU 20.00', '20 dolar']	uang 20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini sampo atau body wash?\
+	['lotion', 'lotion tubuh', 'lotion', 'lotion tubuh', 'lotion tubuh berkilau', 'lotion tubuh', 'lotion tubuh', 'lotion', 'lotion tubuh', 'lotion tubuh']	body wash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di foto ini?\
+	['Kerupuk', 'Keker kotak', 'kotak kerupuk', 'kotak kerupuk', 'Kerupuk', 'Kerupuk', 'Kerupuk', 'Kerupuk', 'Kerupuk', 'Kerupuk']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa gambar ini?\
+	['telepon', 'Macbook Pro', 'Macbook Pro', 'monitor komputer', 'tidak dapat dijawab', 'laptop', 'komputer', 'Macbook Pro', 'layar macbook pro', 'komputer laptop']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['air', 'air', 'air kristal alami', 'alam air kristal', 'botol air', 'botol air', 'botol air', 'air', 'botol air', 'air']	botol air
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Pizza macam apa ini?\
+	['Pepperoni', 'Mama cozzis', 'Mama menggemaskan pizza tipis', 'Pepperoni', 'Pizza beku', 'Pepperoni', 'tipis', 'Pepperoni kerak tipis dari Mama Cozzis', 'Mama cozzis tipis kulit pepperoni', 'Mama cozzis']	thin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kaleng ini?\
+	['jagung utuh', 'jagung', 'jagung', 'jagung', 'jagung biji utuh', 'jagung biji utuh', 'jagung', 'makanan yang sangat berharga dapat', 'jagung', 'jagung']	jagung
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tikus', 'mouse komputer', 'mouse komputer', 'mouse komputer', 'mouse komputer', 'HP mouse berkabel', 'mouse komputer', 'PC mouse', 'HP mouse', 'tikus']	mouse komputer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['kantor', 'kursi', 'kantor', 'kursi kantor', 'kursi', 'kursi meja', 'kantor rumah', 'kantor', '2 kursi meja', 'kursi']	bukan saya dapat menjawab pertanyaan ini.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['televisi', 'televisi', 'televisi', 'monitor TV lama', 'televisi', 'televisi', 'monitor', 'layar televisi', 'televisi', 'monitor']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. warna baju saya apa?\
+	['hitam putih', 'biru putih hitam', 'hitam', 'biru', 'angkatan laut', 'lambang hitam putih', 'hitam putih', 'biru', 'biru', 'hitam putih']	navy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa ini?\
+	['merah', 'merah', 'merah', 'merah', 'merah muda', 'merah', 'merah', 'merah', 'merah', 'merah']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini chips biasa atau chips garam dan cuka?\
+	['garam', 'biasa', 'biasa', 'Kripik biasa', 'biasa', 'biasa', 'tidak dapat dijawab', 'tidak dapat dijawab', 'biasa', 'tidak dapat dijawab']	chips garam dan cuka
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kotak apa ini, jus jeruk atau susu?\
+	['jus jeruk', 'jus jeruk', '- Apa?', 'jus jeruk', 'jus jeruk', 'jus jeruk', 'jus jeruk', 'jeruk', 'jus jeruk', 'kertas karton jus jeruk']	jus jeruk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau ceritakan apa ini?\
+	['Kripik', 'Kripik', 'Kripik', 'Kentang goreng', 'Kentang goreng', 'Cips bawang asam', 'Kripik', 'Kentang goreng', 'Kripik', 'Kentang goreng']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di tas ini?\
+	['tidak dapat dijawab', 'Sayuran beku', 'Sayuran', 'wortel kacang polong jagung kacang hijau', 'Sayuran', 'kacang polong wortel jagung', 'Sayuran campuran', 'Sayuran', 'Sayuran campuran', 'jagung wortel kacang polong kacang polong']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Spark ini rasanya apa?\
+	['Lemonade merah muda', 'Lemonade merah muda', 'tidak dapat dijawab', 'Lemonade merah muda', 'tidak dapat dijawab', 'Lemonade merah muda', 'jeruk', 'Buah stroberi', 'tidak dapat dijawab', 'Lemonade merah muda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis ini?\
+	['Manwich', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Manwich', 'Manwich', 'Manwich', 'tomat', 'Manwich', 'Manwich', 'Joe yang ceroboh']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Musim apa ini?\
+	['spaghetti', 'spaghetti', 'Bumbu spaghetti', 'Bumbu spaghetti', 'spaghetti', 'Bumbu spaghetti', 'Bumbu spaghetti', 'spaghetti', 'spaghetti', 'Bumbu spaghetti']	spaghetti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['buku', 'majalah', 'majalah vertikal', 'majalah', 'majalah vertikal', 'majalah', 'majalah', 'majalah vertigo', 'majalah', 'majalah']	magazine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa benda ini?\
+	['dinding', 'dinding', 'dinding', 'dinding', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'dinding', 'dinding', 'dinding']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['permen', 'permen keras stroberi', 'permen', 'permen keras stroberi', 'Permen', 'permen stroberi', 'Sdgaegr', 'permen stroberi', 'permen', 'permen keras stroberi']	permen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa sepatu ini?\
+	['coklat', 'hitam', 'coklat', 'coklat', 'coklat', 'coklat', 'coklat', 'kaki', 'coklat', 'berwarna putih']	brown
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['layar komputer', 'halaman web', 'tidak dapat dijawab', 'tidak dapat dijawab', 'situs web', 'layar komputer', 'monitor komputer', 'artikel', 'file pdf untuk vizwiz', 'vizwizpdf kabur tapi bisa melihat bagian kontributor']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa gambar ini?\
+	['monitor', 'laptop', 'televisi', 'komputer', 'laptop', 'televisi', 'TV layar datar', 'layar laptop', 'televisi', 'tidak dapat dijawab']	monitor komputer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['ponsel', 'ponsel', 'pager', 'tidak dapat dijawab', 'telepon', 'ponsel', 'ponsel blackberry', 'ponsel', 'ponsel', 'ponsel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini? Apa ini?\
+	['kulkas', 'tidak dapat dijawab', 'kulkas', 'kulkas asrama', 'kulkas', 'kulkas', 'kulkas', 'kulkas mini', 'Pendinginan', 'kulkas mini']	kulkas kecil putih
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Perhiasan warna apa yang harus ku pakai dengan pakaian ini?\
+	['perak', 'perak', 'putih', 'emas', 'hitam', 'perak', 'perak', 'perak', 'perak', 'perak']	pink
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['kaki', 'celana jeans', 'paha', 'kaki celana', 'kursi lengan', 'celana', 'bantal', 'tidak dapat dijawab', 'kaki celana', 'kaki']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['anjing', 'tidak dapat dijawab', 'anjing', 'anjing', 'anjing', 'anjing', 'anjing', 'anjing', 'tidak dapat dijawab', 'anjing di lantai']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['jarak jauh', 'jarak jauh', 'remote control', 'Pengontrol televisi', 'remote tv', 'remote control', 'jarak jauh', 'jarak jauh', 'remote control', 'remote control']	remote control
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah pisang ini hijau atau kuning?\
+	['hijau ringan', 'kuning', 'kuning', 'kuning', 'hijau', 'kuning', 'kuning', 'kuning', 'kuning', 'kuning']	kuning
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa produk ini?\
+	['sereal', 'kashi go lean crunch madu almond linen', 'kashi pergi lean crunch', 'Golean crunch kashi', 'sereal', 'pergi lean crunch sereal', 'pergi lean crunch', 'kashi go lean crunch madu almond linen', 'sereal', 'sereal']	cereal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang sedang ditampilkan di layar TV?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada yang hilang', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'tidak dapat dijawab', 'Tidak ada']	blank
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['daging', 'daging sapi', 'daging sapi', 'Paket steak', 'daging', 'daging', 'tidak dapat dijawab', 'daging sapi', 'daging sapi', 'daging']	tidak dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis dalam pesan ini?\
+	['tidak dapat dijawab', 'mengembalikan lengkap', 'tidak dapat dijawab', 'restorasi selesai', 'restorasi selesai', 'tidak dapat dijawab', 'restorasi selesai', 'restorasi selesai', 'restorasi selesai', 'restorasi selesai']	informasi yang disediakan tidak cukup untuk menjawab.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis makanan yang ada di dalam kaleng ini?\
+	['sup', 'Progreso sup sayuran kebun', 'sup sayuran kebun', 'sup sayuran', 'sup sayuran kebun', 'sup sayuran kebun', 'sup', 'Progreso sup sayuran kebun', 'Sayuran kebun', 'sup sayuran kebun']	sup sayuran
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'bisa', 'sup kacang polong', 'sup kacang polong', 'sup kacang polong', 'sup kacang polong', 'sup', 'bisa membagi sup kacang polong', 'sup kacang polong', 'sup']	tidak dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah itu sofa atau meja?\
+	['tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'meja ini']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa makanan yang ada di dalam kaleng ini?\
+	['buah ravioli', 'buah ravioli', 'buah ravioli', 'jagung', 'buah ravioli', 'buah ravioli', 'buah ravioli', 'buah ravioli', 'makanan ravioli', 'buah ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di layar?\
+	['pesan kesalahan', 'pop up untuk startup perbaikan komputer restart', 'Mulai kembali', 'kotak dialog yang mengatakan Anda yakin ingin keluar startup perbaikan restart komputer Anda', 'Perbaikan startup', 'Windows Update instruksi', 'tidak dapat dijawab', 'Perbaikan startup', 'Opsi restart komputer', 'Perbaikan startup']	pop up untuk restart komputer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Mari kita coba ini, bisa kau katakan apa ini?\
+	['kacang', 'kacang bakar', 'kacang', 'kacang bakar', 'semak kacang bakar', 'bisa', 'kacang kaleng', 'semak kacang bakar', 'kacang bakar', 'kacang']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan jenis ponsel apa ini?\
+	['Aku', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'android', 'lg', 'Ya, aku tahu.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['smartphone', 'ponsel', 'ponsel', 'telepon', 'ponsel', 'ponsel', 'ponsel', 'smartphone', 'telepon', 'telepon']	bukan saya dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['laptop', 'tangan', 'keyboard laptop', 'tangan', 'jari', 'tangan', 'tidak dapat dijawab', 'tidak dapat dijawab', 'meja', 'tangan']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Cabernet 2009', 'anggur', 'anggur', 'anggur', 'Cabernet sauvignon', 'anggur botol', 'anggur', 'anggur', 'kuda surga anggur Columbia Cabernet 2007', 'anggur']	botol anggur
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi botol itu?\
+	['kokain', 'soda pop mungkin coca cola', 'soda', 'Coca-Cola soda', 'soda', 'soda', 'kokain', 'soda', 'kokain', 'soda']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa ini?\
+	['garis putih merah', 'merah', 'garis putih merah', 'garis putih merah', 'merah putih', 'putih merah', 'Kaos', 'merah putih', 'merah putih', 'merah putih']	merah putih
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di tas ini?\
+	['Buah brokoli', 'Buah brokoli', 'Buah brokoli', 'Buah brokoli', 'Buah brokoli', 'tapi brokoli', 'Buah brokoli', 'Brokoli potong', 'uap n melayani potong brokoli', 'Buah brokoli']	brokoli dipotong di microwave
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Untuk apa kupon itu?\
+	['yogurt', 'yogurt', 'yogurt yoplait', 'Yogurt yoplait 10 $5', 'Yoplait', 'Yogurt yoplait 10 $5', 'yogurt yoplait', 'yogurt', 'diskon', 'yogurt']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Nestaa', 'Teh es kaleng', 'lemon', 'Nestea lemon', 'Nestaa', 'Nestaa', 'Nestaa', 'Nestaa', 'pesta', 'Nestaa']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Ipad', 'tablet', 'komputer', 'Ipad', 'mouse pad', 'laptop', 'jendela', 'tablet', 'tidak dapat dijawab', 'Ipad']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di layar?\
+	['Apakah Anda ingin mengembalikan comp Anda menggunakan sistem memulihkan muncul', 'pesan kesalahan', 'Apakah Anda ingin mengembalikan komputer Anda menggunakan pemulihan sistem', 'memulai', 'layar diagnostik yang dibayarkan untuk memulai', 'sistem mengembalikan pertanyaan: apakah Anda ingin menggunakan untuk mengembalikan komputer Anda', 'Perbaikan startup', 'Perbaikan startup', 'Pertanyaan untuk mengembalikan komputer', 'Apakah Anda ingin mengembalikan komputer Anda menggunakan pemulihan sistem']	pop up untuk mengembalikan komputer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Dan terima kasih banyak atas waktu Anda untuk menjawab.\
+	['sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar?\
+	['Apakah Anda ingin mengembalikan komputer Anda menggunakan sistem cd', 'memulihkan', 'Apakah Anda ingin mengembalikan komputer Anda menggunakan sistem', 'komputer Anda tidak dapat memulai memulai perbaikan memeriksa sistem Anda untuk masalah', 'Apakah Anda ingin mengembalikan komputer Anda menggunakan sistem', 'Perbaikan startup', 'komputer Anda tidak dapat memulai', 'komputer Anda tidak dapat memulai start up repair memeriksa sistem Anda untuk masalah', 'komputer tidak bisa memulai', 'memulihkan']	restart
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di dalam kaleng ini\
+	['Sayuran', 'Wrgrweg', 'Sayuran campuran', 'Veggie asli', 'Sayuran campuran', 'Sayuran', 'Vegall', 'Sayuran', 'Sayuran', 'Sayuran campuran']	vegetable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. apa yang bisa Anda lihat di gambar apa yang dapat Anda lihat di gambar\
+	['Tidak ada', 'langit', 'wastafel', 'langit', 'tidak dapat dijawab', 'langit', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'langit']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis soda pop?\
+	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca Cola 0', 'Coca Cola 0', 'kokain 0', 'Coca Cola 0', 'Coca Cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Sistem macam apa ini?\
+	['desktop', 'tidak dapat dijawab', 'jendela', 'komputer desktop', 'jendela', 'jendela', 'jendela', 'Windows PC', 'jendela', 'jendela']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['pembicara', 'pembicara', 'lantai', 'pembicara', 'sistem speaker keras', 'pembicara', 'pembicara', 'pembicara', 'pembicara', 'pembicara']	speaker
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Itu memantau cahaya di laptop?\
+	['Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Tidak ada', 'Ya, aku tahu.']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau memberitahuku apa yang tertulis di botol ini?\
+	['lotion tubuh gula vanila hangat', 'gula vanila hangat', 'gula vanila hangat', 'gula vanila hangat', 'lotion tubuh gula vanila hangat', 'gula vanila hangat', 'lotion gula vanila hangat', 'gula vanila hangat', 'lotion tubuh gula vanila hangat', 'gula hangat vanila']	lotion badan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau bilang nomor 1-800 dari kartu ini, dan apakah kau bisa mendengar pertanyaan ini?\
+	['1 800 735 2929 tidak bisa mendengar q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 tidak', '18773289677 tidak', '1 877 328 9677', '8007352929 tidak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Lampu di ruangan menyala atau mati?\
+	['Lampu mati', '- Tidak', 'pada', '- Tidak', 'pada', 'tidak dapat dijawab', 'pada', 'pada', 'pada', 'pada']	mati
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Rasa apa ini?\
+	['buah ceri', 'Lemonade merah muda', 'buah punch', 'Lemonade merah muda', 'Lemonade merah muda', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Lemonade merah muda', 'buah ceri', 'Lemonade merah muda']	strawberry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis dalam pesan ini?\
+	['restorasi selesai', 'tidak dapat dijawab', 'restorasi berhasil selesai', 'restorasi selesai', 'restorasi selesai', 'restorasi selesai', 'restorasi selesai', 'pendaftaran selesai', 'restorasi selesai', 'restorasi selesai']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa baju saya?\
+	['putih', 'putih', 'putih', 'putih', 'putih', 'putih', 'putih', 'putih', 'putih', 'putih']	putih
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Shampoo terapi warna lanjutan', 'Sampo', 'Shampoo terapi warna lanjutan', 'Sampo', 'Sampo terapi warna', 'Sampo', 'terapi warna', 'Sampo', 'ovasi terapi warna lanjutan', 'terapi warna']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['kaleng', 'Makanan kucing', 'tidak dapat dijawab', 'wastafel', 'bisa', 'wastafel', 'mencuci', 'wastafel', 'wastafel', 'bisa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Permainan video apa ini?\
+	['Spanyol NFL 2k', 'sepak bola', 'Nfl 2k', 'Spanyol NFL 2K5', 'Spn 2k5', 'Sepn 2k sepak bola', 'Nfl 2k', 'sepak bola', 'Nfl 2k', 'sepak bola']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['Panini', 'Panini', 'Panini kalkun asap', 'Panini kalkun asap', 'Panini kalkun asap', 'Stouffer panini kalkun asap', 'panini kalkun', 'tidak dapat dijawab', 'Panini kalkun asap', 'Panini kalkun asap']	panini kalkun asap
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kotak ini?\
+	['Lasagna', 'Makan malam beku', 'Lasagna khusus', 'Lasagna khusus', 'Lasagna', 'Lasagna khusus', 'Lasagna', 'Lasagna', 'Lasagna', 'Lasagna']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa benda ini?\
+	['alam lembah oats cokelat gelap granola bar', 'Crunch bar', 'Bar granola', 'Bar granola', 'Bar granola', 'Bar granola', 'Oat lembah alam n cokelat hitam bar', 'Oat n cokelat hitam bar renyah', 'Bar granola cokelat gelap', 'Bar granola']	granola bar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['video game', 'game playstation 2', 'Playstation 2 Star Wars Battlefront game', 'Playstation Star Wars game', 'video game', 'video game', 'Star Wars Battlefront 2', 'permainan', 'game playstation 2', 'permainan psi']	game
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini jenis teman kopi?\
+	['vanila Prancis', 'vanila Prancis', 'vanila Prancis', 'bertelur', 'Vinyl', 'vanila Prancis', 'Kopi mate', 'vanila Prancis', 'vanila Prancis', 'vanila Prancis']	vanila
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['jus jeruk', 'jus', 'jus', 'jus jeruk', 'jus', 'halus berair', 'halus n berair', 'jus', 'jus jeruk', 'jus']	bukan saya dapat menjawab pertanyaan ini.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa batu-batu di anting ini?\
+	['merah muda', 'merah muda', 'merah', 'merah muda', 'ungu', 'merah muda', 'merah muda', 'merah muda', 'merah muda', 'merah muda']	pink
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di label perangkat elektronik ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	label perangkat elektronik tidak jelas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ditulis di layar ini, jika kau bisa membacanya?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak bisa membaca layar', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak bisa membaca', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi botol ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'lotion', 'vitamin', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak yakin', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Rasa apa ini bar energi?\
+	['Buah stroberi', 'Berry almond crunch', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'buah apel', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Berry almond crunch']	berry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Perhatikan', 'n', 'tidak dapat dijawab', 'tidak dapat dijawab', 'berita', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. makanan macam apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Jadi um saya mencoba untuk mencari tahu apa jenis radio ini, jadi informasi apapun sehingga saya bisa mendapatkan satu sendiri, itu akan menjadi besar, terima kasih. \
+	['Aku tidak tahu.', 'tidak dapat dijawab', 'tidak dapat dijawab', 'mungkin rumah ip9 speaker dock', 'tidak dapat dijawab', 'daging ayam', 'tidak dapat dijawab', 'portabel', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Maaf, aku tak tahu bagaimana... aku belum pernah mengambil foto seperti ini sebelumnya.\
+	['Pindah sedikit lebih jauh sehingga kamera fokus', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Mana yang terbaik?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'sederhana']	bukan saya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['Slide ini', 'merah muda', 'tidak dapat dijawab', 'ungu', 'tidak dapat dijawab', 'tidak dapat dijawab', 'bercahaya', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa nama lotion ini?\
+	['tidak dapat dijawab', 'Noxema', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kapan ini berakhir?\
+	['9.27.13', 'tidak dapat dijawab', 'tidak dapat dijawab', '23 Sep 2013', '23 September 2013', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '23 September 2013', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa lama aku memasak ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', '5 menit', 'tidak dapat dijawab', 'tidak dapat dijawab', '5 menit', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	5 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['kain batik', 'sudut', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'telepon', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	Gambar tidak jelas.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Lagu apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Bug dalam foto', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'kumbang']	invertebrate dengan kepala panjang dan kaki
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di bawah jendela tidak bisa memperbaiki sistem ini secara otomatis?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Perbaikan startup tidak dapat memperbaiki komputer ini secara otomatis', 'tidak dapat dijawab', 'memulai', 'Memulai perbaikan tidak dapat memperbaiki komputer ini secara otomatis', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa banyak natrium yang ada di dalam bungkus ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Samoa', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Di layarnya tertulis bahwa itu sedang pulih?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	bukan saya dapat melihat gambarnya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tirai apa?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Terus belajar', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa nama mediasi ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '0', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa?\
+	['merah putih', 'tidak dapat dijawab', 'putih', 'putih', 'tidak dapat dijawab', 'merah putih', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong jelaskan apa yang tertulis di label routerku. Terima kasih.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa tanggal kadaluarsa tiket bus ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Katakan saja.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'ZnO', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini, apa yang tertulis di sini\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'baris kolom angka kabur', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Jam berapa sekarang?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Flash pada kamera rendering jam tidak dapat dibaca', 'Tidak terlihat', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak bisa mengatakan', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah Anda memberi tahu saya instruksi penggunaan untuk sampo ini? terima kasih.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'edfcfd', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ada tombol yang harus kucetak untuk melanjutkan atau aku hanya menunggu?\
+	['sistem resume', 'tidak dapat dijawab', 'Ya, aku tahu.', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'Tunggu dulu.', 'Pasang']	system resume
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Jika kartu ini ditampilkan dalam gambar ini, apa yang ditulis?\
+	['tidak dapat dijawab', 'Tidak ditampilkan', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada kata-kata', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tesnya?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'jarak jauh', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Surround sound remote', 'Pertanyaan tidak berlaku untuk gambar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kata-kata yang benar.\
+	['tidak dapat dijawab', 'tidak diketahui', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Saya sedang berurusan dengan sebuah captcha tapi saya tidak bisa melihat layar dan saya membutuhkannya untuk meminta sesuatu dari sebuah situs web. Bisakah Anda memberitahu saya apa itu captcha?\
+	['Tidak 1', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku tahu ada 10 perintah, tapi apa 10 perintah itu?\
+	['menetapkan aturan yang diberikan oleh Allah kepada orang-orang yang percaya', 'tidak dapat dijawab', 'tidak dapat dijawab', 'aturan moral', 'tidak dapat dijawab', 'perintah dewa', 'tidak dapat dijawab', 'tidak dapat dijawab', 'hukum', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar komputerku?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'terlalu kabur', 'layar kosong']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis susu bayi ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'aku tidak melihat susu bayi', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Obat apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kartu apa ini?\
+	['tidak dapat dijawab', 'kartu kredit merah', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'kartu kredit', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di kartu ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'hanya 16 12 terlihat', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', '1 6 12', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['sabun', 'produk', 'tidak dapat dijawab', 'susu', 'tidak dapat dijawab', 'tidak dapat dijawab', 'obat tetes mata', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Oke, jenis daging yang mana ini lagi?\
+	['Link jack', 'ds', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'daging sapi', 'tidak dapat dijawab', 'daging sapi', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Untuk apa kartu hadiah ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'citra yang tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak bisa mengatakan', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis makanan kaleng ini?\
+	['buah jeruk nipis', 'tidak dapat dijawab', 'buah jeruk nipis', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'buah jeruk nipis', 'tidak dapat dijawab', 'jeruk nipis']	lemon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Jam berapa sekarang?\
+	['tidak dapat dijawab', '532', 'tidak dapat dijawab', 'tidak dapat dijawab', '5:13', '5:13', 'tidak dapat dijawab', '5:10', 'tidak dapat dijawab', 'tidak dapat dijawab']	11:12
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa produk dalam kaleng ini?\
+	['Tidak bisa mengatakan', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau beritahu suhu oven konvensional dan berapa menit dan apakah aku perlu menusuk tutupnya?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Asdd', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah oven ini tampak siap?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak oven', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Ya, aku pikir siap.', 'Tidak ada', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu membantu?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa kode yang harus diketik?\
+	['tidak dapat dijawab', 'email', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Baju apa yang aku pakai?\
+	['tidak dapat dijawab', 'sutra', 'tidak dapat dijawab', 'tidak dapat dijawab', 'putih', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan makanan beku apa itu?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'gambar kosong', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Merek apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Sanyo', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa pengaturan suhu oven?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Gfdsg', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau katakan apa isi botol ini?\
+	['saus tomat', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'saus pasta', 'tidak dapat dijawab', 'tidak dapat dijawab', 'saus tomat', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['tidak dapat dijawab', 'Azithromycin tablet 250 mg', 'obat-obatan', 'tidak dapat dijawab', 'tidak dapat dijawab', '250 mg', 'Azithromycin tablet', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau membaca kata-kata ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada kata']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini Valium?\
+	['Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak bisa membaca nama obat']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Lagu apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'catatan musik', 'tidak dapat dijawab', 'album', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'jingle jingle', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Ya ini laptop hp, saya perlu tahu di mana pembaca kartu relatif ke keyboard. tolong jadilah se spesifik mungkin. terima kasih.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'di sisi', 'tidak dapat dijawab', 'Saya tidak bisa melihat pembaca kartu SD pembaca kartu biasanya di sudut kiri tepi depan', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	keyboard
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa nama parfum itu?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada nama', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis RAM ini?\
+	['tidak dapat dijawab', 'dan o444', 'tidak dapat dijawab', 'tidak dapat dijawab', 'DDR SDRAM PC3200', 'Aku tidak tahu.', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku mengerti itu tapi apakah bagian belakang truk putih terlihat berlubang\
+	['tidak dapat dijawab', 'Tidak ada', 'Gambar dari depan saya tidak melihat apa-apa yang tidak biasa', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'n0', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis sup ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'ayam', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang terlihat di layar laptop?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'sup', 'sup', 'sup kaleng', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'sup', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['karpet', 'handuk kertas', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'handuk kertas', 'tidak dapat dijawab', 'tidak dapat dijawab']	bukan saya dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Rasa apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'biasa', 'asli', 'tidak dapat dijawab', 'Berbaliklah', 'keju', 'Pembuat gambar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Mana dari tiga gambar itu adalah logo Google?\
+	['tidak dapat dijawab', '0', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'gambar pertama', 'kiri']	gambar di sebelah kanan adalah logo google.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tidak yakin', 'kabur', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'label', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ada batu yang hilang dari ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'kualitas gambar yang tidak cukup', 'tidak dapat dijawab', 'Tidak ada']	bukan saya tahu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku ingin tahu merek parfum apa ini.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa tanggal kadaluarsa keju ini?\
+	['Tidak', 'tidak bisa dibaca', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu yang diatur termostat?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', '75', 'tidak dapat dijawab', '75', 'tidak dapat dijawab', '75', '75', 'tidak dapat dijawab', 'Tidak terlihat']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warna apa baju ini.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'hitam', 'tidak dapat dijawab', 'hitam', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'hitam', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar?\
+	['pesan kesalahan reboot', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Sys', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	Teks biru tidak dapat dijawab.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa jenis soda ini, tolong?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak yakin', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'rambut', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong katakan apa yang tertulis di sini.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'kotak', 'tidak dapat dijawab', 'kotak kecil', 'tidak dapat dijawab']	bukan saya dapat menjawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu termostat diatur pada?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak bisa membaca', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. botol apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'Aku tidak tahu.', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah aku mendapatkan semua karakter di sini?\
+	['Arobergy Chavez', 'tidak dapat dijawab', 'Ya, aku tahu.', 'Ya, aku tahu.', 'tidak dapat dijawab', 'Arobergy Chavez', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'Ya, aku tahu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kunci produk untuk versi ini off\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Ayolah, aku akan menunggu.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Sepatu', 'tidak dapat dijawab', 'Sepatu', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Dan, berapa suhu di Dallas Texas?\
+	['3:40 54', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '9:17 malam 96 derajat', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	85
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bagaimana kabarmu?\
+	['tidak dapat dijawab', 'Bagus sekali', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Bagus sekali', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini? Apa jawaban yang kau dapatkan?\
+	['tidak dapat dijawab', 'tidak yakin', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'log pada layar', 'komputer', 'tidak dapat dijawab', 'screenencast matic']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['botol penutup kain', 'tidak dapat dijawab', 'selimut', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Merek apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'seiko', 'tidak dapat dijawab', 'kabur', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'menonton', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Situs web apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Situs tentang iPhone dalam pembelian aplikasi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'matahari', 'tidak dapat dijawab', 'tidak dapat dijawab', 'suavetel', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ada di dalam toples ini?\
+	['Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'sup', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'makanan', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini tanda terima?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang benar bahwa aku memiliki tanganku\
+	['kartu nama', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Selamat Natal', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang bisa kuambil gambar?\
+	['Jam di lembar', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'menonton', 'Mickey mouse jam tangan saku', 'Jam tangan saku ini headphone']	jam saku
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'syarat lisensi windows', 'istilah sebagian off screen', 'tidak dapat dijawab', 'tidak dapat dijawab']	informasi yang disediakan tidak lengkap, menjawab tidak dapat dijawab.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tapi ya aku akan melipatnya.\
+	['tidak dapat dijawab', 'lipat', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tangan', 'kotak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Warnanya apa ini?\
+	['putih abu-abu', 'ungu', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'merah putih', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'dapur', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Gambar pria di meja di komputer', 'Aku melihat ruang tamu di gambar', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa namanya?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'euforia', 'euforia', 'euphony', 'tidak dapat dijawab', 'tidak dapat dijawab']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['tidak dapat dijawab', 'cahaya', 'tidak dapat dijawab', 'tidak dapat dijawab', 'cahaya', 'Kebutaan', 'tidak dapat dijawab', 'tidak jelas', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong baca teks pada kotak ini yang merupakan kotak lain.\
+	['wd', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku mencari nomor identitas delapan digit.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Aku tidak melihat apa-apa. Maaf.', 'tidak dapat dijawab', 'kosong', 'Aku tidak bisa melihat hal seperti itu', 'tidak dapat dijawab', '0', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Speaker: Bisakah Anda memberi tahu saya judul buku ini?\
+	['tidak dapat dijawab', 'bahan harmonik dalam musik tonal', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['Deberman', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Paket yang bisa di pegang']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Beberapa waktu ya tahu\
+	['Aku tak bisa mengerti.', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau beritahu aku apa pertanyaan keamanan, atau nomor keamanan dan hurufnya agar aku bisa menambahkan ini ke bidang suntinganku?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Uang kertas dolar ini denominasi berapa?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'gambar yang tidak dapat digunakan', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang diatur?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'counter', 'counter', 'meja dapur', 'counter top']	countertop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini gigitan ular?\
+	['tidak dapat dijawab', 'mungkin', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Mungkin saja.', 'Mungkin saja.', 'Tidak ada', 'tidak dapat dijawab']	gigitan ular adalah reaksi tubuh terhadap gigitan ular.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah Anda ceritakan secara rinci apa yang ada di layar komputer ini? Terima kasih banyak. \
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'Pesan komputer tidak bisa memulai', 'tidak dapat dijawab', 'komputer Anda tidak dapat memulai', 'tidak dapat dijawab', 'komputer Anda tidak dapat memulai perbaikan startup memeriksa sistem Anda untuk masalah', 'memulai', 'tidak dapat dijawab', 'kotak dialog tidak diketahui']	startup repair
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa karakter di captcha ini?\
+	['tidak dapat dijawab', 'menikah', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'kotak hitam']	blank
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa kau tahu cara memasak ini?\
+	['tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Ya, aku tahu.', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'layar komputer', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa lama aku memasak ini di microwave?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '8 menit', 'tidak dapat dijawab', 'tidak dapat dijawab']	8 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bagaimana cara memasaknya?\
+	['oven', 'tidak dapat dijawab', 'Bake', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bagaimana dengan penandatanganan.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'politik', 'Pria', 'tidak dapat dijawab', 'Tidak ada petunjuk', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Pria biru di gedung']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong ceritakan petunjuk pada botol sampo ini.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tambahkan ke rambut basah penyiram bius ulangi jika diinginkan']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa foto ini?\
+	['langit-langit', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'telepon', 'tidak dapat dijawab', 'Pria berbicara di ponsel', 'tidak dapat dijawab', 'orang', 'tidak dapat dijawab', 'tidak dapat dijawab']	Gambar tidak jelas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa isi kaleng ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'kacang', 'tidak dapat dijawab', 'tidak dapat dijawab', 'gambar ini kabur', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan warna bajuku?\
+	['Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu? Apa itu?\
+	['tidak dapat dijawab', 'kawat', 'tidak dapat dijawab', 'mainan anjing karet hitam', 'tanaman', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kapan ini berakhir?\
+	['tidak', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak ada gambar', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tahun 2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa kartu ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada kartu', 'tidak dapat dijawab', 'tidak dapat dijawab', 'hitam', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang terjadi di film ini?\
+	['tidak dapat dijawab', 'kosong', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	Gambar tidak jelas.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Pakaian kulit', 'anjing', 'tas', 'tidak dapat dijawab', 'Pakaian anjing', 'hewan']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa resepnya?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Pelacakan macam apa ini?\
+	['tidak dapat dijawab', 'pensil', 'pola daun', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'daun', 'tidak dapat dijawab', 'rumput liar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Hai, bisakah kau tolong beritahu apa yang ada di dalam kaleng di tangan kananku?\
+	['tidak dapat dijawab', 'semacam daging tapi label tidak sepenuhnya dalam gambar', 'makanan kaleng', 'tidak dapat dijawab', 'daging sapi rebus', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan dari siapa ini?\
+	['Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'surat kembali dari pos', 'Amplop belakang tidak ada tulisan', 'tidak dapat dijawab']	envelope
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Rasa apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Newman campuran khusus', 'campuran khusus nemans', 'kopi', \"Newman's campuran khusus\", 'tidak dapat dijawab', 'Newman sendiri', 'tidak dapat dijawab']	keurig
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa tekanan darah saya membaca?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', '105', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '109 selesai', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak dapat membaca gambar dipotong']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. kami memanggil apa rasanya \
+	['lemon', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau tolong katakan apa yang tertulis di dalam kaleng ini agar aku bisa tahu isinya?\
+	['tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Nomor ke teks yang disorot.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Itu seharusnya di belakang kartu mengatakan apa jenis tongkat itu, apa yang dibuatnya dan sebagainya.\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'sesuatu kayu 14', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku sudah menekan tombol OK, dan sudah lebih jauh, terima kasih.\
+	['tombol berikutnya untuk diklik sekarang tekan enter', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini? Apa ini?\
+	['tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'flash', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Suhu apa?\
+	['tidak dapat dijawab', '57', 'dua puluh', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '20', '20.7c', 'tidak dapat dijawab']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ini?\
+	['tidak dapat dijawab', 'tanda selamat datang', 'Plak sambutan', 'tidak dapat dijawab', 'tanda selamat datang', 'tanda selamat datang', 'tidak dapat dijawab', 'Bendera selamat datang', 'tidak dapat dijawab', 'tidak dapat dijawab']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Wajah siapa ini?\
+	['Tidak ada wajah', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '0', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa nomor pada kunci produk ini?\
+	['tidak dapat dijawab', 'tidak bisa dibaca', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak bisa dibaca', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa nomor bangunan yang baru saja aku foto? Ini adalah Yappapi College.\
+	['3', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '3', 'tidak dapat dijawab', '9', 'tidak dapat dijawab', 'tidak dapat dijawab', '3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong beritahu apa isi bungkus ini.\
+	['tidak dapat dijawab', 'Salad sensasi panen', 'tidak dapat dijawab', 'bit', 'permen', 'buah beri', 'sulit untuk mengatakan mungkin beberapa jenis kacang', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	tomat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah layar desktopku muncul?\
+	['Sdfgh', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Kau bisa membaca ini?\
+	['Ya, aku tahu.', 'tidak dapat dijawab', 'Ya, aku tahu.', 'Memorandum informasi impor untuk juicer', 'Tidak ada', 'informasi penting', 'Beberapa', 'baik hati', 'Tidak ada', 'tidak dapat dijawab']	informasi penting
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau lihat dari labelnya, apa itu? Kurasa itu sebuah DVD.\
+	['Ya, aku tahu.', 'Ya DVD', 'Tidak ada', 'DVD', 'DVD', 'tidak dapat dijawab', 'Label tidak jelas tapi cd', 'Ya, aku tahu.', 'tidak dapat dijawab', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa kamera saya tersembunyi?\
+	['Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'bahasa Indonesia', 'Ya, aku tahu.', 'Tidak ada', 'Ya, aku tahu.', 'Tidak ada', 'Ya, aku tahu.', 'Ya, aku tahu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini sup ayam?\
+	['tidak dapat dijawab', 'Tidak ada', 'Ya, aku tahu.', 'Mungkin tidak bisa melihat semua label', 'Ya, aku tahu.', 'tidak dapat dijawab', 'Ya, aku tahu.', 'Ya, aku tahu.', 'tidak dapat dijawab', 'Ya, aku tahu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini seni?\
+	['Ya, aku tahu.', 'seni foil aluminium', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'tidak dapat dijawab', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Halo, aku hanya ingin memastikan bahwa ini memang daging babi.\
+	['Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, Kirkland tanda tangan daging babi', 'Ya, daging babi', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, daging panggang', 'Ya, aku tahu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah awan terlihat seperti awan badai? Apa yang saya katakan adalah apakah terlihat seperti akan hujan di sini atau badai?\
+	['Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Tidak ada', 'Tidak ada', 'Tidak ada']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah wajah Buddy terlihat lucu atau tidak?\
+	['Ya, aku tahu.', 'Ya, aku tahu.', 'lucu', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Tidak ada', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.']	buram
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah dialog ada sekarang?\
+	['Tidak ada', 'Ya, aku tahu.', 'Ya, aku tahu.', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah aku masih punya semua jari kaki saya?\
+	['Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.', 'Ya, aku tahu.']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah Anda melihat botol di gambar ini dan jika demikian apa itu?\
+	['tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada botol', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ada teks di sisi kertas ini?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'tidak dapat dijawab', 'Tidak ada']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah itu faks?\
+	['tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ada bagian dada di foto ini?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ada potongan catur di sini?\
+	['Tidak ada', 'Ya, aku tahu.', 'Tidak ada', 'hanya papan', 'Tidak ada', 'Tidak ada', 'Ya, aku tahu.', 'Tidak ada', 'Tidak ada', 'Tidak ada']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah kaus kaki ini cocok?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu kertas?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'tidak dapat dijawab', 'Tidak ada', 'Tidak ada', 'tidak dapat dijawab', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa itu laptop?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', '0 yang pernah kulihat sebelumnya', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau membaca semua di layar TVku?\
+	['Tidak ada', 'Tidak ada', 'Ya, aku tahu.', 'Tidak ada', 'tidak dapat dijawab', 'Tidak ada', 'DVR kapasitas penggunaan DVR Anda 89% penuh', 'Ya, aku tahu.', 'Tidak ada', 'Tidak ada']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa kau melihat aroma di botol Freebeze ini?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak bisa melihat label', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah layarnya menyala?\
+	['Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada', 'Tidak ada']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Hewan apa yang ada di layar komputer ini?\
+	['Tidak ada hewan', '0', '0', '0', '0', 'Tidak ada hewan di layar', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Baiklah. Aku mencoba mendapatkan nomor dari kartu ini dan aku ingin tahu apakah Anda bisa membacanya untuk saya. \
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tolong baca di konter.\
+	['261627.2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	intergaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu termostat diatur untuk?\
+	['72 orang', '72 orang', '72 orang', '72 derajat', '72 orang', '72 orang', '72 orang', '72 orang', '72 orang', '72 orang']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Tombol apa Mountain Dew?\
+	['5', '6 dari atas', 'Tombol ke-6', '6th 1 turun', '5', '6', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Aku percaya ini adalah pohon ek perak.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa watt pada sumber daya ini\
+	['350', 'tidak dapat dijawab', '350', '350w maksimal', 'tidak dapat dijawab', '350', '350', 'tidak dapat dijawab', 'berputar', '350w maksimal']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sana?\
+	['77 derajat', '77', '77', '77', '77 derajat', '77', '77', '77', '77', '77']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau bilang medali ini dari regimen mana?\
+	['47', '47', '47', '47th', 'memiliki nomor 47', '47', '47', 'tidak dapat dijawab', '47', 'Tidak ada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa harganya?\
+	['5', '5', '5', '5', '5', '5 dolar', '5', '5 dolar Singapura', '5', '5 dolar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang ditunjukkan dial sebagai nomor yang menghadap ke atas?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	500
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Uang kertas ini denominasi berapa?\
+	['20', 'Rgreg', '20', '20', 'tidak dapat dijawab', 'tidak dapat dijawab', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang saat ini ditampilkan di layar?\
+	['452940', '452940', 'Wakie talkie', 'jumlah', 'radio', '452940', 'walkie talkie', '452940', 'tidak dapat dijawab', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa 465 dikurangi 55?\
+	['410', '410', '410', 'tidak dapat dijawab', '410', 'tidak dapat dijawab', '410', '410', '410', '410']	100
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa angka kelima?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa tagihan ini?\
+	['2 .', '2 .', '2 .', '2 .', '$ 2', 'uang', '2 .', '2 .', 'tidak dapat dijawab', '2 .']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa banyak kalori dalam porsi Cheerios?\
+	['110', 'gambar plurry', '104', '110', '100', 'tidak dapat dijawab', '10', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu oven diatur di?\
+	['Kekuat oven', 'suhu oven 400', '425', '450', '400', '425', '425', '400', '425', '400']	300
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu termostat? \
+	['78', '78', '78 derajat', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa banyak uang ini?\
+	['20 dolar Kanada', '20', '20', '20', '20 euro', '20', '20 dolar Kanada', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu yang diatur?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu pada termostat ini?\
+	['50', '50', '55', '64 derajat', '55', 'tidak dapat dijawab', 'tidak dapat dijawab', '54', 'tidak dapat dijawab', '56']	60
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa denominasi ini?\
+	['5', '5', '5', '5', 'Kanada', '5', '5', 'Telur', '5', '5']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Katakan padaku nilai kartu ini.\
+	['6 berlian', '9 berlian', '6 berlian', '6', '6', '6', '6', '6', '6', '6']	9 berlian
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah kau bilang berapa beratku?\
+	['210', '200 orang', 'Ya, 200', '198', '200 orang', '200 orang', '200 orang', '250', '200 orang', '200 orang']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Halo, aku mencoba lagi. bisakah Anda memberitahu saya berapa banyak derajat pada pengukur ini?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisakah Anda memberitahu saya apa suhu diatur pada baik\
+	['78', '78', '78', '78', '78', '78', '78 derajat', '78 derajat', '78 derajat Fahrenheit', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa porsi yang ada di dalam permen ini?\
+	['tidak dapat dijawab', '2 .', '4', 'tidak dapat dijawab', '4', '4 cangkir selai kacang', '2 .', '2 .', 'tidak dapat dijawab', 'tidak dapat dijawab']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa banyak kalori dalam satu porsi?\
+	['120', '120', '120 kering 220 disiapkan jika disiapkan 1 1 4 cangkir susu bebas lemak', '120', '120', '120', '120', '120', '220', '120 sereal kering 220 susu']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau katakan ini uang kertas apa? karena aku mencari uang 20 dan aku pikir ini uang 10 tapi aku tidak bisa mengatakan.\
+	['10 euro', '10', '10', 'tidak dapat dijawab', '10', '10', '10 berbaring di baju merah putih', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah strip ini memiliki satu atau dua garis merah muda? Satu bisa lebih terang dari yang lain.\
+	['biue', '1', '1 baris', '1 garis gelap', '1', '1', '1', '1', '1', '1']	1 garis merah muda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau bilang nomornya, terima kasih?\
+	['3248849064', '3248849084', 'tidak dapat dijawab', '3248849084', 'tidak dapat dijawab', 'tidak dapat dijawab', '3248849084', 'tidak dapat dijawab', 'tidak dapat dijawab', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Bisa kau bilang berapa beratku?\
+	['1', '1', 'tidak dapat dijawab', '1', '1', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', 'skala kosong', '1']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa pengaturan suhu saat ini pada termostat ini?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'termostat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apakah ini uang kertas 5 atau 10 dolar Kanada?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 Kanada']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa ID pelaku? ID pelaku? Terima kasih.\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'tidak dapat dijawab', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa angka lima digitnya?\
+	['23442', '23442', '23442', 'tidak dapat dijawab', 'tidak dapat dijawab', 'hanya melihat 2 digit 69', '23442', 'tidak dapat dijawab', 'tidak dapat dijawab', '23442']	43442
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa ons ini?\
+	['23,6', '20', '20', '24', 'tidak dapat dijawab', 'tidak dapat dijawab', 'tidak dapat dijawab', '33', 'tidak dapat dijawab', 'Gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa suhu yang tertulis di termometer ini?\
+	['72 orang', '72 orang', '72 orang', '72 orang', '72 orang', '72 orang', '72 orang', '72 derajat', '72 orang', '72 derajat']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Nomor halaman apa ini?\
+	['2 .', '2 .', '2 .', '2 .', '2 .', '2 .', '2 .', 'tidak dapat dijawab', '2 .', '2 .']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di layar ini?\
+	['8888', 'tidak dapat dijawab', 'Tidak ada', '8888', 'tidak dapat dijawab', 'tidak dapat dijawab', '8888', '888', 'Tidak ada', 'kosong']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Nomor halaman apa yang ditampilkan?\
+	['123', '121', '121', '121', 'tidak dapat dijawab', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Nomor apa ini?\
+	['26', '26', '26', '26', '26', 'kertas', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Apa yang tertulis di sini?\
+	['tidak dapat dijawab', '40', '40', 'tidak dapat dijawab', 'tidak dapat dijawab', 'jumlah', '40', '40', '40 lbs udara', '30']	tidak dapat dijawab
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer id When the provided information is insufficient, respond with 'tidak dapat dijawab'. Berapa banyak tablet yang ada di dalam kotak ini?\
+	['8 tablet', '8', '8', '8', '8', '8', '8', '8 tablet', '8', '8']	8

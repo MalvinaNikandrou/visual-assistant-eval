@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det på papiret?\
+	['kan ikke besvares.', 'Australia Post', 'post', 'kan ikke besvares.', 'Australia Post', 'australsk post', 'Australia Post', 'Australia Post', 'kan ikke besvares.', 'Australia Post']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva som er på denne skjermen?\
+	['ikoner for klokken vær osv', 'Start vinduet', 'skrivebordet', 'klokke', 'klokke', 'ikonene', 'Skrivebordsikoner', 'kan ikke besvares.', 'Skrivebordsikoner', 'ikonene']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken CD er dette?\
+	['tomt', 'tom cd', 'Maxwell', 'Maxell CD r', 'tomt', 'tomt', 'dekke', 'tomt', 'tomt', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det bildet av?\
+	['fot', 'fot', 'fotkrampe på', 'fot', 'fot', 'fot', 'fot', 'fot', 'fot', 'fot']	fot
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva denne kannen er?\
+	['jakt s', 'mannvekt', 'mannvekt', 'jakt sloppy joe saus', 'sloppy joe saus', 'mannvekt', 'Mannen som er dristig sloppy Joe sauce', 'unwich', 'mannvekt', 'sloppy joe']	hunts old joe sauce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Diet coke soda', 'Diet coke kan', 'Diet kokos', 'kan diettkoke', 'Diet kokos', 'Diet kokos', 'Diet kokos', 'kokse', 'Soda', 'kan diettkoke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette krydder?\
+	['Fru Dash', 'kan ikke besvares.', 'Fru Dash', 'kan ikke besvares.', 'Kan ikke fortelle', 'alle krydder', 'Basil blanding', 'mrs dash bord blanding', 'trekk', 'Fru Dash']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['MTN-døflaske', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'mt dagg']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det i denne boksen?\
+	['kaffe', 'kan ikke besvares.', 'kaffe', 'kaffe', 'kaffe', 'kaffe', 'kaffe', 'kaffe', 'kaffe', 'kan ikke besvares.']	kaffe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva ser du?\
+	['hud', 'Finger gulvdører', 'dør', 'dør', 'finger dør', 'dør', 'kan ikke besvares.', 'dør', 'hus', 'Finger svart pels']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva viser skjermen på datamaskinen min?\
+	['Vil du gjenopprette datamaskinen din ved hjelp av systemgjenoppretting', 'System gjenoppretting popper opp', 'system gjenoppretting melding', 'spør om du vil gjenopprette datamaskinen din ved hjelp av systemgjenoppretting', 'boks', 'systemgjenoppretting', 'Vil du gjenopprette datamaskinen din ved hjelp av systemgjenoppretting', 'datamaskinen ikke startet bruk system gjenoppretting', 'gjenopprette innstilling', 'systemgjenoppretting']	system restore
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['varm kakao', 'varm kakao blanding', 'varm sjokolade', 'varm kakao blanding', 'kakao', 'varm kakao blanding', 'varm kakao', 'varm sjokolade blanding', 'kakao', 'Kakao blanding']	hot cocoa mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg 1-800 nummeret på dette kortet?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['datamaskinskjerm', 'datamaskinskjerm', 'datamaskinskjerm', 'bærbar datamaskin', 'Dataskjerm som viser søkeresultater', 'skjerm', 'datamaskinskjerm', 'datamaskinskjerm', 'skjerm', 'datamaskinskjerm']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Salat dressing bakside', 'forbindelse', 'salladdressing', 'salladdressing', 'Balsamisk salatdressing', 'salladdressing', 'kan ikke besvares.', 'salladdressing', 'salladdressing', 'salladdressing']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva viser bildet?\
+	['vindu', 'design', 'frostet glass vindu svart design', 'glass vindu ruten i døren', 'Glasvindu i dør', 'dør', 'glassmaleri', 'dør', 'vindu', 'vindu']	glasskunst
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan noen fortelle meg hva sikkerhetsspørsmålet er på skjermen, takk?\
+	['hvaler', 'kan ikke besvares.', 'hvaler', 'hvaler', 'hvaler', 'hvaler', 'kan ikke besvares.', 'kan ikke besvares.', 'hvaler', 'hvaler']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['vin', 'sølvøkk', 'sølvøkk', 'vin av sølvøkk', 'vin', 'flaske', 'vin', 'vin', 'sølvøk 2003 cabernet sauvignon', 'sølvøke 2003']	silver oak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags skjerm er dette?\
+	['lg', 'kan ikke besvares.', 'kan ikke besvares.', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	monitor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags drink er dette?\
+	['Soda', 'Ingefærøl', 'generelle', 'Ingefærssoda', 'Canada tørr', 'Canada tørr', 'Ingefærøl', 'Canada tørr', 'Ingefærøl', 'Ingefærøl']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er teppet?\
+	['beige', 'beige', 'brun', 'grått', 'blå', 'krem', 'brun', 'brun', 'beige', 'blå']	beige
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'digital telefon', 'telefon', 'kontortelefon', 'telefon']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette bildet?\
+	['fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'fjellsgys', 'MTN-døflaske', 'fjellsgus-soda', 'Mtn dagg']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette flasken?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'krydder', 'Soda', 'kan ikke besvares.', 'krydder', 'krydder', 'krydder', 'kan ikke besvares.', 'krydder']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['akvafinvann', 'flaske aquafina vann', 'vann', 'vann', 'plastflaske med vann av merket aquafina', 'flaskevann', 'vannflaske', 'akvafinvann', 'vann', 'Plastikkflaske med vann']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Google søk', 'Google søkemotor fane', 'Google søk side', 'google', 'google', 'datamaskin', 'Google-hjemmeside', 'google side', 'datamaskinskjerm', 'datamaskinskjerm']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['nøklene', 'nøklene', 'nøklene', 'nøklene', 'nøklene', 'nøklene', 'nøklene', 'nøklene', 'nøklene', 'nøklene']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Vennligst les feilmeldingen på skjermen.\
+	['kan ikke besvares.', 'ugyldig produktnøkkel', 'ugyldig produktnøkkel', 'kan ikke besvares.', 'ugyldig produktnøkkel', 'ugyldig produktnøkkel', 'ugyldig produktnøkkel', 'ugyldig produktnøkkel enten fjerne produktnøkkel i unattend svarfil for å fortsette', 'ugyldig produktnøkkel enten fjerne produktnøkkel i unattend svar filen for å fortsette', 'ugyldig produktnøkkel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor er min bærbare?\
+	['skrivebord', 'på skrivebordet', 'øverste skrivebord ved siden av sengen', 'på skrivebordet', 'skrivebord', 'skrivebord', 'på skrivebordet', 'på skrivebordet', 'øverste skrivebord', 'skrivebord']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter denne boken?\
+	['hundår', 'Hundes år: memoarer', 'hundår', 'hundår', 'hundår', 'hundår', 'hundår', 'hundår', 'hundår', 'hundår']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Macbook', 'tastatur', 'tastatur', 'tastatur', 'datamaskin', 'tastatur', 'bærbar datamaskin', 'bærbar datamaskin', 'bærbar datamaskin', 'datamaskinskjerm tastatur']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva ser du?\
+	['bordvinduet', 'blomster', 'kan ikke besvares.', 'bordvinduet', 'bok notatbok penn', 'blomster', 'opp', 'bok', 'vindu', 'blomster']	Et bord med en bok og hatt på
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken pakke inneholder vanlig mel?\
+	['rødt hvit pakke', 'venstre', 'at 1', 'rød 1 til venstre', 'venstre', 'kan ikke besvares.', 'venstre', 'venstre', 'rødt hvitt 1', 'rødt 1']	plain flour
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['fotball', 'fotball', 'fotball', 'lila oransje plush fotball alligator på', 'Alligatorer fotball', 'alligatorer myk fotball', 'oppstoppede fotball', 'fylt oransje blå fotball', 'purpur fotball', 'Alligatorer']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er det?\
+	['grått', 'gull', 'gull', 'beige', 'rødt', 'gull', 'kan ikke besvares.', 'kan ikke besvares.', 'gull', 'kan ikke besvares.']	rød
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Spismenyen', 'kan ikke besvares.', 'Spismenyen', 'Spismenyen', 'Spismenyen', 'Tabellinnhold', 'Spismenyen', 'Spismenyen', 'Prisliste', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['vannflaske', 'springvurne', 'Springbourne vann', 'Springbourne', 'flaskevann', 'vann', 'vannflaske', 'flaskevann', 'vann i flaske', 'vann']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags suppe er dette?\
+	['progresso', 'progresso', 'progresso', 'kan ikke besvares.', 'progresso', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'progresso', 'progresso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg vet at dette er en matburk.\
+	['grønne bønner', 'grønne bønner', 'grønne bønner', 'grønne bønner', 'grønne bønner', 'kan ikke besvares.', 'grønne bønner', 'eef', 'grønne bønner', 'grønne bønner']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det?\
+	['chex blanding', 'Hvaler', 'chex blanding datamaskin', 'kan ikke besvares.', 'chex blanding', 'mat', 'chex blanding', 'chex blanding', 'chex blanding', 'chekmix']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det? - Det er ikke noe problem.\
+	['mikrobølgeovn', 'mikrobølgeovn', 'medisiner', 'apparater gelébønner suppe', 'kan suppe', 'suppe til drikk', 'kjøkken', 'kjøkkenbord', 'kremer', 'suppe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette kan?\
+	['blandet grønnsak', 'blandet grønnsak', 'blandet grønnsak', 'blandet grønnsak', 'blandet grønnsak', 'Effgrfg', 'blandet grønnsak', 'blandede grønnsaker', 'blandet grønnsak', 'blandet grønnsak']	mixed vegetables
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags er dette?\
+	['kakeglasur', 'Vanilje', 'Vanilje', 'Vaniljefrost', 'Betty Crocker', 'Vaniljefrost', 'vanilje', 'Vaniljefrost', 'Vanilje', 'Vanilje']	whipped cream
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken boks ser jeg på, som i hva inneholder boksen?\
+	['Granola barkasse', 'Naturdalens stegte mandelgranola barer', 'Granola barer', 'natur dal', 'Roste mandelgranola barer', 'Naturdalens stegte mandelgranola barer', 'Naturdal krystrende granola barer steikt mandel smak', 'Granola barer', 'Granola barer', 'Roste mandelkrystne granola barer']	nature valley crunchy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva med farge stoffet.\
+	['grønn hvit', 'hvit mørkgrønn trykk', 'hvitgrønn', 'hvitgrønn', 'rosa grønn', 'tøy hvitt kremgrønn på', 'rosa svart', 'grønn hvit', 'blått svart slipsfarg', 'hvite grønne sprutter']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva viser datamaskinskjermen?\
+	['musen pil', 'markør', '- Ingenting.', 'blått', 'blå skjerm', 'Pile', 'tomt', 'blå pil', 'tomt', 'blå skjerm']	blank
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hei, hvem er det?\
+	['hvit katt', 'katt', 'katt', 'hvit katt', 'katt', 'kan ikke besvares.', 'katt', 'katt', 'denne katten', 'katt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['purell avansert håndrensende middel', 'håndrensende', 'håndrensende', 'purell håndrensende middel', 'håndrensende', 'håndrensende', 'håndrensende', 'håndrensende', 'håndrensende', 'purell håndrensende middel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det i feilmeldingen?\
+	['ugyldig produktnøkkel', 'ugyldig produktnøkkel', 'ugyldig produktnøkkel', 'ugyldig produktnøkkel', 'ugyldig produkt', 'Ugyldig produktnøkkel klikk OK for å fortsette', 'Ugyldig produktnøkkel enten fjerne produktnøkkelen i unattend svar filen for å fortsette', 'ugyldig produkt', 'ugyldig produktnøkkel', 'ugyldig produktnøkkel']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva denne meldingen sier på skjermen på datamaskinen min?\
+	['en eller annen form for reparasjon sluttknapp i nedre høyre', 'Start reparasjon siste vellykkede boot 9 20 2012 1 reparasjonsforsøk close back finish avbryte', 'kan ikke besvares.', 'ikke', 'oppstart reparasjon', 'oppstart reparasjon', 'oppstart reparasjon', 'kan ikke besvares.', 'Start reparasjon fullført diagnostisk skjerm lukke knappen', 'oppstart reparasjon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags kjøtt er det? Er det kylling eller pølse eller hva slags kjøtt?\
+	['kylling', 'kylling', 'kylling', 'kylling', 'kylling', 'kylling', 'kylling', 'kylling lår', 'kan ikke besvares.', 'kylling']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er dette?\
+	['elektrisk blått', 'blått', 'blått', 'blått', 'blått', 'blått', 'blått', 'blått', 'blått', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva sier skjermen?\
+	['montering av vinduer', 'Installerer vinduer pluss mer ulæselig', 'montering av vinduer', 'montering av vinduer', 'montering av vinduer', 'Dette skjermen sier at Windows installerer lister trinn installasjon', 'montering av vinduer', 'montering av vinduer', 'montering av vinduer', 'montering av vinduer']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Sky ser ut som på dette bildet.\
+	['delvis overskyet', 'mørke skyer', 'stor sky', 'stor sky sky mørk himmel', 'overskyet', 'skyet', 'blå mye skyer', 'kan ikke besvares.', 'gigantisk regn sky litt blå til siden', 'skyet']	overskyet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['veranda', 'stol', 'stol', 'stol', 'kan ikke besvares.', 'benk', 'stol', 'stol', 'benke metallramvindu', 'stol']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Fotografi', 'dør', 'dør', 'bar', 'Dører med glasspaneler', 'dør', 'restaurant', 'restaurant', 'Dører', 'Dører']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det på skjermen?\
+	['Velg oppstartsenhet', 'Vennligst velg oppstart enhet 3 valg', 'kan ikke besvares.', 'Vennligst velg oppstart enhet', 'oppstartskjerm', 'Vennligst velg oppstart enhet', 'feil', 'Vennligst velg oppstart enhet', 'enhet velge melding', 'Vennligst velg oppstart enhet']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette objektet?\
+	['askebakke', 'dekorativ bronse skulptur løve', 'statue', 'ikke', 'askebakke', 'askebakke', 'statue', 'hundeskuppe', 'askebakke', 'pest tiger på toppen']	skulptur
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags sigaretter er dette?\
+	['amerikansk ånd', 'amerikansk ånd', 'amerikansk ånd', 'amerikansk ånd', 'amerikansk ånd', 'svartpakket amerikansk sprit', 'amerikansk ånd', 'amerikansk ånd', 'amerikansk ånd', 'amerikansk ånd']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Guayava ginseng', 'te', 'te', 'te', 'te', 'te', 'te', 'te', 'te', 'te']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne flasken?\
+	['Kroppslotion', 'Kroppslotion', 'Kroppslotion', 'krydder', 'Shea kroppslotion vitamin E', 'Måneskinnsvei Shea vitamin E kroppslotion', 'Kroppslotion', 'Måneskinnsvei kroppslotion', 'Måneskinnsvei kroppslotion', 'krydder']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette et bilde av?\
+	['briller', 'rammer', 'glass', 'øyenbriller sølvrammer', 'øyenbriller', 'glass', 'Briller rammen', 'glass', 'glass', 'glass']	briller
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Dette er et produkt.\
+	['- Ja, det er jeg.', 'tomat suppe', 'tomat suppe', 'suppe', 'konservert suppe', 'tomat suppe', 'tomat suppe', 'tomat suppe', 'suppe', 'velge høst tomat suppe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['telefonboksen', 'iphone', 'iphone boks', 'telefon', 'mobiltelefon', 'mobiltelefon boks', 'smarttelefon', 'telefon', 'smarttelefon', 'iphone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette et bilde av?\
+	['godteribeholder', 'feiring rød boks', 'ansvarlig', 'sier feiring', 'boks', 'søtsaker', 'partiet favor', 'feiringer', 'boks', 'kan ikke besvares.']	feiring
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['champagne', 'Vinklassestepot', 'glass', 'glassvin', 'glass champagne vin ved siden av kaffekopp sitter på tallerkenen', 'drikk i glass på bordet', 'champagne', 'tecup glass', 'Teedås champagneglass', 'champagne glass tallerken på bordet i vinduet foran utsikt over byen']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva smaker det her?\
+	['oransje', 'oransje grønn gul rød', 'appelsinmynte', 'oransje', 'kan ikke besvares.', 'kan ikke besvares.', 'oransje', '2 på venstre oransje kirsebær sitron på øverste nederste høyre vintergrønn', 'oransje', 'oransje']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hei, jeg lurte på hva som var i denne burken?\
+	['Coca-Cola', 'Coca-Cola', 'Soda', 'Coca-Cola', 'Soda', 'Soda kokse', 'Soda', 'Soda', 'Coca-Cola', 'Soda']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er innstillingen på denne tørketræren?\
+	['mot urreturens retning regelmessig rynke kontroll tid tørr delikat rynke frigjøring luft fluff', 'regelmessig', 'av', 'av', 'av', 'regelmessig', 'av', 'ikke på innstilling', '- Ingenting.', 'av']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Tablett', 'Tablett', 'telefonapper', 'skjerm', 'liste apps', 'app butikk', 'Tablett', 'liste over apper som skal lastes ned', 'kan ikke besvares.', 'App nedlastinger']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det jeg ser på?\
+	['TV-er', 'TV-skåp', 'TV-er', 'TV', 'TV-skjerm', 'TV-er', 'Tom Selleck på TV', 'TV', 'TV', 'TV med åpen dør']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er dette?\
+	['hvit', 'hvit', 'hvit', 'hvit', 'beige', 'hvit', 'elfenben', 'kan ikke besvares.', 'beige', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['dette matvaren', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'kokk boyardee mini raviolis', 'konservert mini ravioli', 'Ravioli', 'kokk boya mini ravioli', 'mini ravioli']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['Rostekjøttmel', 'Rostekjøtt', 'Rostekjøtt', 'Rostekjøtt', 'tradisjonell ristekjøtt', 'Rostekjøtt', 'Rostekjøtt', 'tradisjonell ristekjøtt', 'Rostekjøtt', 'Rostekjøtt']	tradisjonell biffbrødrister
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette produktet?\
+	['Diet pepsi', 'Koffeinfri diett pepsi', 'pepsi', 'pepsi', 'Diet pepsi', 'Diet pepsi', 'Diet pepsi', 'Diet koffeinfri pepsi', 'Diet pepsi', 'Diet pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter dette?\
+	['østlige', 'Bønner', 'kan ikke besvares.', 'kan ikke besvares.', 'mat', 'Bønner', 'spor blanding', 'korn', 'nøtter', 'Punge jordnøtter']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette vanlig eller koffeinfri kaffe?\
+	['regelmessig', 'kan ikke besvares.', 'regelmessig', 'regelmessig', 'regelmessig', 'regelmessig', 'kan ikke besvares.', 'kan ikke besvares.', 'regelmessig', 'regelmessig']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['makaronost', 'makaronost', 'makaronost', 'makaronost', 'makaronost', 'Macost', 'makaronost', 'makaronost', 'makaronost', 'makaronost']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne flasken?\
+	['mykende lotion', 'krydder', 'krydder', 'krydder', 'mykende krem', 'krydder', 'fuktighetsgivende kremer', 'Krem for kroppen', 'dyp fuktighet kroppsvask', 'kroppsvask']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det? - Det er ikke noe problem.\
+	['skrivebordstol', 'stol', 'stol', 'kontorstol', 'kontorstol', 'denne kontorstolen', 'stol', 'skrivebordstol', 'stol', 'grå kontorstol']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva var det jeg tok et bilde av?\
+	['datamaskinmonitor', 'datamaskin', 'datamaskinskjerm', 'kan ikke besvares.', 'kan ikke besvares.', 'bærbar datamaskin', 'datamaskinskjerm', 'bærbar datamaskin', 'datamaskinmonitor', 'bærbar datamaskin']	dataskjerm
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Fortell meg hva dette er.\
+	['svinekjøttkotletter', 'kjøtt', 'noe slags rødt kjøtt', 'pakket kjøtt', 'svinekjøtt', 'svinekjøtt', 'kan ikke besvares.', 'kjøtt', 'Fg', 'svinekjød']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvordan ser himmelen ut på dette bildet?\
+	['skyet dag', 'delvis overskyet', 'skyet', 'skyet', 'skyet', 'skyet', 'skyet', 'skyet', 'skyet', 'regn']	overskyet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. -Venter det på at tiden løper ut?\
+	['kan ikke besvares.', 'Spaghetti', 'Spaghetti', 'kan ikke besvares.', 'kan ikke besvares.', 'Spaghetti', 'Spaghetti', 'speil', 'middag', 'pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['blomster', 'blomst', 'blomster', 'blomster', 'blomst', 'blomster', 'planter', 'blomster', 'blomst', 'iris']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['løs te', 'te', 'kan ikke besvares.', 'te', 'te', 'te', 'te', 'te', 'te', 'te']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge og mønster er disse shorts?\
+	['rullestrimler', 'Karetblå gul', 'blå oransje grønn', 'blå brun hvit plaid', 'blå plisset på toppen gul plisset på bunnen', 'flerfarget', 'blåbrun hvit plaid', 'rullestrimler', 'blå plaid', 'blå, hvit, grønn, gul, plaid']	plaid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge var kofferten?\
+	['grønn', 'grønn', 'limegrønn', 'case grønn farge', 'grønn', 'grønn', 'grønn', 'grønn', 'lysgrønn', 'grønn']	limegrøn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette vanlig cola eller diet cola?\
+	['Diet kokos', 'diett', 'diett', 'diett', 'diett', 'diett', 'Diet kokos', 'diett', 'Diet kokos', 'diett']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['penne', 'tastaturpenne', 'penne', 'penne', 'penne', 'penne', 'penne', 'penne', 'penne', 'Bi- pen']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['lampe kan pringles', 'lampe', 'lampe', 'lampe', 'Pringle kan ved siden av cd lampe', 'lampe uten skygge', 'lampe', 'Bordspringles lampe munnvann', 'lampe', 'lampe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva gjør denne datamaskinen?\
+	['kontrollsystem', 'kan ikke besvares.', 'Diskkontroll', 'sjekk disk', 'kan ikke besvares.', 'kan ikke besvares.', 'lasting', 'konfigurere', 'Kontrollering av konsistens', 'gjenopptak']	sjekker disk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags brus er dette?\
+	['Diet kokos', 'lør', 'Diet kokos', 'Diet kokos', 'Diet kokos', 'Diet kokos', 'Diet kokos', 'Diet Coke sitron', 'Diet kokos', 'Diet kokos']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Fortell meg hva boken handler om.\
+	['Clive Cussler Dirk Cussler', 'kan ikke besvares.', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'vitenskap', 'spenning', 'Olive Cussler Dirk Cussler', 'handling', 'kan ikke besvares.', 'Clive Cussler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette for en vin?\
+	['kan ikke besvares.', 'feirer ekteskap David Emma rødvin', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'kan ikke besvares.', 'kan ikke besvares.', 'Nash vin']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['yoghurt', 'kan ikke besvares.', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt', 'yoghurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er tittelen på denne boken?\
+	['hundår', 'hundår', 'hundår', 'hundår', 'kan ikke besvares.', 'hundår', 'kan ikke besvares.', 'hundår', 'hundår', 'hundår']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Sony bærbar', 'bærbar datamaskin', 'bærbar datamaskin', 'datamaskin', 'bærbar datamaskin', 'Sony Vaio bærbar', 'bærbar datamaskin', 'sony vaio', 'Sony bærbar', 'bærbar datamaskin']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg lurer på hvilket merke denne datamaskinen er.\
+	['sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva dette er?\
+	['kamp', 'Baksiden sier ikke det.', 'kan ikke besvares.', 'tomater', 'tomater', 'tomater', 'kan ikke besvares.', 'tomater', 'uklart bilde', 'tomater']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['pudding', 'pudding snacks', 'Vaniljepudding', 'pudding', 'Vaniljepudding', 'pudding', '6 pakker med vaniljepudding', 'puddingkopper', 'pudding', 'snackpakke pudding']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['20 dollar kanadisk seddel', '20 dollar kanadisk seddel', '20 kanadiske', 'penger', 'penger på blonder', '20 regning', 'penger', '20 dollar kanadisk seddel', '20 dollar', 'penger']	20 kanadiske dollar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['Lasagne', 'Lasagne', 'spesiell lasagne', 'Lasagne', 'spesiell lasagne', 'spesiell lasagne', 'Lasgne', 'Lasagne', 'Lasagne', 'Lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags kaffe er dette?\
+	['espresso', 'espresso', 'timothy expresso', 'regnskog esspresso', 'regnskogs espresso', 'espresso', 'ekstra fet', 'espresso foret tropisk', 'ekstra dristig espresso for tropisk', 'Timoteus']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det et bilde av?\
+	['tastatur vin glass', 'bærbar datamaskin', 'Laptop tastatur vin øl', 'kan ikke besvares.', 'datamaskin', 'datamaskin', 'laptop drikk', 'bærbar datamaskin på skrivebordet ved siden av glass væske', 'Laptop glass', 'Laptop med glass']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['tittel bok', 'bok', 'brosjyre', 'notat', 'demon rom lett penger bok', 'Demon rum lett penger: Regjeringskontroll alkohol i British Columbia', 'bok', 'bok', 'Titelbladet bok', 'brosjyre']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva var det på bordet?\
+	['notatbok', 'Notebook pen andre papirer', 'spiral ringed notatbok', 'papirpenne', 'notatbok', 'notatpenne', 'notatbok', 'notatpenne', 'papirpenne', 'notatbok']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er denne skjorten?\
+	['blå hvitt plaid', 'blått hvitt', 'blå hvitt plaid', 'blått hvitt', 'blått', 'blått hvitt', 'Karetblå hvitt', 'blå plaid', 'blått', 'blått']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Andre Chardonnay', 'champagne', 'andre', 'champagne', 'vin', 'champagne', 'champagne', 'champagne', 'flaske champagne', 'champagne']	andre
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter produktet i buren på bildet?\
+	['lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags kaffe er dette?\
+	['Gevalia', 'maksimalt gevalje kaffe', 'maksimalt', 'Gevalia espresso', 'maksimalt', 'svart kaffe', 'maksimalt', 'kan ikke besvares.', 'Gevalia', 'Gevalia']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Dr pepper', 'kan dr peppersoda', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'dr peppersoda', 'Dr pepper', 'kan dr peppersoda', 'Dr pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva dette er?\
+	['rask kaffe', 'rask kaffe', 'klassisk kaffe', 'Kaffepakke', 'kan ikke besvares.', 'kaffe', 'kaffe', 'kaffepulver', 'kaffe', 'Nescafe klassisk']	kaffekopp
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge har de tre ledningene fra venstre til høyre?\
+	['rødt svart hvitt', 'rødt svart hvitt', 'rød svart brun', 'rødt svart hvitt', 'rødt svart hvitt', 'rødt svart hvitt', 'rødt svart hvitt', 'rødt svart hvitt', 'rød blå hvit', 'rødt svart hvitt']	rød, sort og hvid.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva viser denne graviditetstesten?\
+	['1 linje', 'negativt', 'negativt', '1 linje, men farge spredt prøv en annen', 'kan ikke besvares.', '1 stripe', 'Ingen bilde', 'rød linje', 'kan ikke besvares.', 'blått merke rødt merke']	negative
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter denne krydden?\
+	['Frøken friske sitronpepper blanding', 'trekk', 'Fru Dash', 'Mrs. Dash sitronpepper', 'Fru Dash', 'Fru Dash', 'pepper', 'Fru Dash', 'Fru Dash', 'Fru Dash']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags drikke er i flasken i høyre hånd?\
+	['pepsi', 'Pepsi soda', 'Diet pepsi', 'Diet pepsi', 'Diet pepsi', 'pepsi', 'Diet pepsi', 'pepsi diett', 'Diet pepsi', 'Diet pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['videospill', 'videospill', 'basketballspill', 'videospill', 'kan ikke besvares.', 'DVD-er', 'kan ikke besvares.', 'spill', 'videospill', 'DVD-er']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['ketchup', 'ketchup', 'Heinz tomat ketchup', 'ketchuppakke', 'ketchuppakke', 'ketchup', 'ketchup', 'ketchuppakke', 'ketchup', 'ketchup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilke farger har denne skjorten?\
+	['rødt hvitt', 'brun', 'rødt hvitt', 'røde hvite striper', 'røde hvite striper', 'rødt hvitt', 'rødt hvitt', 'rødt hvitt', 'rødt hvitt', 'rødt hvitt']	rød hvid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det i denne pakken?\
+	['parlament bilde', 'musikkalbum', 'sigaretter', 'sigaretter', 'sigaretter', 'sigaretter', 'Pahament innskuddsfiltre', 'parlament sigaretter', 'kort', 'sigaretter']	cigarette
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er denne matten?\
+	['purpur', 'purpur', 'purpur', 'purpur', 'purpur', 'purpur', 'purpur', 'purpur', 'purpur', 'purpur']	violet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dialogen mer synlig på det bildet?\
+	['kjedelig', '- Ja, det er jeg.', 'ikke', '- Ja, det er jeg.', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette produktet?\
+	['grønne bønner', 'grønne bønner', 'grønne bønner', 'kan', 'Bønner', 'hvitbær', 'kan ikke besvares.', 'grønne bønner', 'Fg', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette kan?\
+	['svinekjøtt', 'svinekjøtt', 'svinekjøtt og bønner', 'svinekjøtt', 'svinekjøtt', 'svinekjøtt', 'svinekjøtt', 'svinekjøtt', 'svinekjøtt', 'svinekjøtt']	pork beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette for en vin?\
+	['kan ikke besvares.', 'Åh, hva er det?', 'Vintage 2008 produserer Nash', 'Nash', 'Nash', 'bryllups souvenir', 'Nash feirer ekteskapet David Emma 16. juli 2011', 'Nash', 'Nash', 'feiring ekteskap']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags mat er dette?\
+	['tomatoss', 'tomatoss', 'økologisk tomatoss', 'tomatoss', 'tomatoss', 'tomatoss', 'Muir Glen økologisk tomatoss', 'tomatoss', 'Muir Glen økologisk tomatoss', 'tomoto']	tomatosaus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags smak er dette?\
+	['jordbær', 'jordbær', 'jordbær', 'jordbær', 'jordbær', 'jordbær', 'jordbær', 'jordbær', 'jordbær', 'jordbær']	strawberry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hvilken farge dette er?\
+	['svart', 'svart', 'svart', 'svart', 'svart', 'svart', 'svart', 'svart', 'svart', 'svart']	sort
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det?\
+	['plante', 'dekorativ plante', 'aloe', 'romplant', 'romplant', 'husplante', 'plante', 'husplante', 'plante', 'gressplant']	plant
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['magasinet', 'tegneserie', 'tegneserie', 'bordspill for voksne', 'magasinet', 'fargebok', 'Merkelig julebok', 'Jeg er ikke sikker på om jeg kan lese det språket', 'julen gratulasjonskort', 'tegneserie']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['kylling Dijon middag', 'mat', 'kylling dijon', 'kylling dijon', 'kylling dijon', 'mat', 'kylling dijon', 'kylling', 'kylling dijon', 'kylling dijon']	kylling dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags kaffe er dette?\
+	['gevalja', 'Gevalia', 'fransk vanilje', 'fransk vanilje', 'gevalja', 'gevalja', 'fransk vanilje', 'fransk vanilje', 'fransk', 'Gevaliaa fransk vanilje']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette objektet?\
+	['iphone', 'telefon', 'telefon', 'iphone', 'mobiltelefon', 'mobiltelefon', 'mobiltelefon', 'Jeg ringer', 'smarttelefon', 'smarttelefon']	smarttelefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'sigaretter', 'pakke sigaretter', 'sigaretter', 'pakke sigaretter', 'sigaretter', 'sigaretter', 'kan ikke besvares.', 'sigaretter', 'sigaretter']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags smak er dette?\
+	['kjøtt', 'Rødt', 'kjøtt', 'Rødt og skinn', 'kjøtt', 'Rødt', 'Rødt og skinn', 'kjøtt', 'denne oksekjøtt smak', 'kjøtt']	ok
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['stor kopp', 'glass', 'glass', 'glass', 'elsker togo cup', 'glass', 'pop cup noen andre ting', 'Styrospumkopper', 'glass', 'denne koppen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette diet Pepsi eller vanlig Pepsi?\
+	['Diet pepsi', 'diett', 'kan ikke besvares.', 'diett', 'Diet pepsi', 'diett', 'diett', 'diett', 'Diet pepsi', 'diett']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva sier skjermen?\
+	['Avast programvare', 'skanning av lokale stasjoner', 'vinduer', 'feilmelding', 'skanning', 'Avast programvare skanner Windows XP', 'vinduer', 'kan ikke besvares.', 'Windows XP', 'kan ikke besvares.']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg prøver å få tilgang til oppstartmenyen og jeg prøver å starte fra en USB-stasjon.\
+	['Trykk ned pil en gang og deretter skrive for usb', 'oppstart-menyen på oppstart fra hdd alternativet', 'kan ikke besvares.', 'U bootmood', 'Vennligst velg oppstart enhet', 'Vennligst velg oppstartsenhet:', 'Vennligst velg oppstart enhet hdd: pm st9250315as', 'Vennligst velg oppstart enhet', 'skjermoverskrift: Vennligst velg oppstart enhet flytte pil ned 1 sted til usb:usb disk pro', 'Vennligst velg oppstart enhet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva slags smak dette er?\
+	['Diett dr pepper', 'Diett dr pepper', 'dr pepper diett', 'Dr pepper', 'Diett dr pepper', 'Diett dr pepper', 'Diett dr pepper', 'cola', 'Diett dr pepper', 'Diett dr pepper']	diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags suppe er dette?\
+	['Vegetabilsk suppe', 'progresso', 'progressiv', 'kan ikke besvares.', 'progresso grønnsak', 'kan ikke besvares.', 'grønnsaker', 'progresso grønnsak', 'grønnsaker', 'progresso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva slags bil dette er?\
+	['kan ikke besvares.', 'Lincoln Crown Victoria', 'en slags 4-dørs sedan', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'Chevrolet', 'krone Victoria', 'kan ikke besvares.', 'Ford']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette kaffe?\
+	['Gevalia', 'Gevalia', 'Gevalia', 'Gevalia svensk hasselnøtt', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['håndrensende', 'håndrensende', 'håndrensende', 'håndrensende', 'håndrensende', 'håndrensende', 'håndrensende', 'spore', 'bakterier x håndrensende', 'bakterier x håndrensende']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det kan?\
+	['suppe', 'frukt', 'kan ikke besvares.', 'kan ikke besvares.', 'suppe', 'kan ikke besvares.', 'suppe', 'kan ikke besvares.', 'skuff', 'suppe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er dette?\
+	['brun', 'brun', 'brun', 'brun eik', 'brun', 'brun mapl', 'av tre', 'brun', 'brun', 'brun']	brun
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'hånd', 'hånd', 'kan ikke besvares.', 'hånd', 'hånd', '1 høyre hånd', 'hånd', 'hånd', 'hånd']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er krakk potten innstillingen?\
+	['glass', 'høy', 'høy', 'høy', 'høy', 'høy', 'lav', 'høy', 'høy', 'høy']	low
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva dette er?\
+	['varer for blinde', 'cd', 'omvendt cd', 'varer til blinddisk', 'cd', 'disk', 'bok på cd', 'cd', 'cd-artikler for blinde', 'Spear av James Herbert DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det?\
+	['datamaskiner monitor tastatur', 'monitor', 'datamaskinmonitor', 'datamaskinskjerm', 'datamaskin', 'datamaskinmonitor', 'datamaskinskjerm', 'skrivebordet', 'graf', 'graf']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva flasken sier?\
+	['Varm vaniljesukker', 'sukker', 'Varm vaniljesukker', 'Varm vaniljesukker', 'Varm vaniljesukker kroppslotion', 'Varm vaniljesukker', 'Varm vaniljesukker kroppslotion', 'Varm vaniljesukker', 'Varm vaniljesukker kroppslotion', 'Varm vaniljesukker']	body lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det på skjermen?\
+	['Windows installasjonsskjerm', 'kan ikke besvares.', 'montering av vinduer', 'Installerer Windows status skjerm', 'Windows installer', 'montering av vinduer', 'Instruksjoner for installasjon av vinduer', 'Fremgang med å installere vinduer', 'Installerer Windows info', 'vinduer']	installeringsskjermen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan', 'kan', 'kan ikke besvares.', 'Bønner i bur', 'kan', 'Bønner', 'kan ikke besvares.', 'Bønner', 'gryting', 'gryting']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags drink er det?\
+	['appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'oransje', 'appelsinjuice']	appelsinjuice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags pop er i denne kansen?\
+	['te', 'nestea', 'Nestea sitron', 'iste te', 'nestea', 'nestea', 'nestea', 'iste te', 'Nestle is te', 'nestle']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette en pepperoni pizza, pepperoni og pølse, Supreme, hva slags?\
+	['pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', '- Ja, det er jeg.', 'pepperoni', 'Mama Cozzis pepperoni tynn skorpe', 'pepperoni']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Har du noen anelse om hva slags plante den i midten er?\
+	['ikke', 'gress', 'gress', 'gress', 'gress', 'gress', 'ikke', 'ikke', 'gress', 'gress']	gress
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['glass', 'glass', 'glass', 'briller', 'par briller', 'glass', 'par briller', 'glass', 'øyenbriller', 'par briller']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Beskriv dette stedet.\
+	['kontor', 'kontorrom', 'kontor', 'kontor 2 skrivebord skap 2 stoler', 'kontor', 'kontor', 'skrivebord, kontorstol, svart', 'kontorbord', 'kontor 2 skrivebord', 'kontor']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['notatbok', 'planlegger', 'bok', 'bok', 'kort', 'notatbok', 'planlegger', 'notatbok', 'Lilly Pulitzer agenda spiral', 'notatbok']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Teddybjørn Rose', 'Teddybjørn', 'Teddybjørn', 'Teddybjørn', 'Teddybjørn', 'Teddybjørn', 'bjørn', 'Teddybjørn', 'Teddybjørn', 'Teddybjørn']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags krydder er dette?\
+	['løk, havsalt', 'løk, havsalt', 'løk, havsalt', 'løk, havsalt', 'salt fra sjøen', 'løkessalt', 'løk, havsalt', 'løk, havsalt', 'løk, havsalt', 'løk, havsalt']	onion sea salt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne kansen?\
+	['Diett dr pepper', 'Diett dr pepper', 'Diett dr pepper', 'Diett dr pepper', 'Dr pepper', 'Diett dr pepper', 'Diett dr pepper', 'Diett dr pepper', 'dr pepper diett', 'Diett dr pepper']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er bildet på denne koppen?\
+	['tegneserie', 'tegneseriegneser', 'tegneserie', 'mann ser på fugl', 'mann kylling', 'mann', 'tegneserie mann', 'skisse fugl mann tre måne', 'person dyr', 'tegneserie']	te
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['personer tilbake', 'gutt', 'mannens hode', 'person', 'bak noen hodet skuldrene', 'bak mannen', 'kan ikke besvares.', 'grå skjorte', 'gutt', 'Bildet bak person']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['taler', 'taler', 'høyttaler på veggen', 'taler', 'taler', 'taler', 'veggspråk', 'taler', 'kattmontering', 'taler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['telefonnummeret til taxien', '- Ingenting.', '- Ingenting.', 'telefon', 'byens taxi', 'kvittering', 'kan ikke besvares.', 'ser ut som kvittering', 'linjer', 'bytaxi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['New Orleans stil jambalaya blanding', 'Jambalaya blanding', 'Jambalaya blanding', 'ris', 'jambalaya', 'Jambalaya blanding', 'Jambalaya blanding', 'Jambalaya ris', 'bokser tilberedt blanding for jambalaya ris i New Orleans stil', 'Jambalaya blanding']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge har Mac?\
+	['sølv', 'hvit', 'beige svart', 'hvit', 'sølv', 'sølv', 'sølv', 'sølv', 'hvit', 'sølv']	hvid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det i buret?\
+	['økologisk bakket bønne', 'bakte bønner', 'økologisk bakket bønne', 'bakte bønner', 'bakte bønner', 'bakte bønner', 'bakte bønner', 'bakte bønner', 'bakte bønner', 'bakte bønner']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['makaronost', 'kan ikke besvares.', 'makaronost', '3 ostmakaroner', 'makaronost', 'Macost', 'makaronost', 'middag', 'makaron og ost', 'skaller ost']	kraft mat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Zatarains New Orleans stil jambalaya blanding', 'Jambalaya blanding', 'Jambalaya blanding', 'Jambalaya blanding', 'Jambalaya blanding', 'ris', 'zatarains jambalaya blanding', 'jambalaya', 'zatarains jambalaya blanding', 'Jambalaya blanding']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Godt kvalitet gatesøtsaker', 'bokser med slikker', 'søtsaker', 'søtsaker', 'hardt slik', 'søtsaker', 'søtsaker', 'søtsaker', 'kvalitet gaten', 'søtsaker']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Unnskyld, si meg hva du ser på dette bildet.\
+	['kjøleskap', 'kjøleskap', 'kjøleskap', 'lite kjøleskap vike bakke lys fliser vegghåndtak klistermærke på kjøleskap', 'kjøleskap', 'mini kjøleskap', 'mini kjøleskap', 'skapdører', 'hvit kjøleskap', 'kjøleskap']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva ting i boksen sier?\
+	['herlige barnebarn', 'noe om herlige barnebarn', 'herlig', 'Ingenting er mer herlig enn barnebarn.', 'Få ting er mer herlige enn barnebarn som kjemper om deg.', 'herlige barnebarn', 'herlige barnebarn', 'Få ting er mer herlige enn barnebarn som kjemper om deg.', 'kan ikke besvares.', 'herlige barnebarn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvordan ser himmelen ut?\
+	['klar', 'solnedgang soloppgang', 'blått', 'skumring', 'blått', 'klar', 'klar', 'rolig', 'lyseblå', 'blå lysere blå nær horisonten']	over skyet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er denne skjorten?\
+	['brun', 'brun', 'brun', 'beige', 'beige', 'rosa', 'brun', 'brun', 'gull', 'grått']	brun
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er han en gutt eller en jente?\
+	['kan ikke besvares.', 'gutt', 'gutt', 'jente', 'gutt', 'gutt', 'gutt', 'gutt', 'gutt', 'gutt']	gutt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva dette er?\
+	['korn', 'cheerios', 'korn', 'cheerios', 'kan ikke besvares.', 'korn', 'honning cheerios', 'Cheerios nå mer deilig honning', 'kjære', 'kjære']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er dette?\
+	['rektanserte røde gule hvite blå', 'rullestrimler', 'grønn blå hvit rød plaid', 'flerfarget', 'blek', 'rullestrimler', 'blå grønn hvit rød', 'rullestrimler', 'blå, hvit, grønn plaid', 'blå grønn rød hvit']	grønn blå rød
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['varm kakao', 'varm kakao blanding', 'varm kakao blanding', 'varm kakao blanding', 'Kakao blanding', 'varm kakao', 'varm sjokolade', 'varm sjokolade blanding', 'varm sjokoladepakke', 'varm sjokolade']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['kan ikke besvares.', 'hammer spesial lett øl', 'øl', 'kan ikke besvares.', 'kan ikke besvares.', 'øl', 'øl', 'øl', 'øl', 'spesiell lys']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette kylling eller selleri?\
+	['tomat', 'tomat', 'tomat', 'tomat', 'ikke', 'tomat', 'tomat suppe', 'tomat', 'tomat', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['Macbook Pro', 'Macbook Pro', 'Mac Book Pro', 'Macbook Pro', 'Mac Book Pro', 'Macbook Pro', 'Macbook Pro', 'fly bok pro', 'macbookpro', 'Macbook Pro']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg vil vite hva som er i denne kansen\
+	['bakte bønner', 'bakte bønner', 'Bønner', 'bakte bønner i tomatoss', 'Bøndene bakte av bonden', 'bakte bønner', 'bakte bønner', 'Bønner', 'bakte bønner', 'Bønner']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kylling', 'kan ikke besvares.', 'kremet parmesan kylling', 'mat', 'TV middag', 'mat', 'Macost', 'mat', 'Marie Collenders måltid', 'kremet parmesan kylling']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['dollarsedel', '1 dollarsedel', 'dollar', '1 dollarsedel', '1', '1 dollarsedel', 'dollarsedel', '$1 seddel', '1 dollarsedel', '1 dollarsedel']	us dollar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['spillekort', '2 konger', 'par konger', 'spillekort', 'kort', 'kort', 'spillekort', 'par', 'kort', 'spillekort']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette svart eller blått?\
+	['kan ikke besvares.', 'svart', 'svart', 'svart', 'svart', 'svart', 'svart', 'grått', 'svart grått', 'svart']	black
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det på skjermen?\
+	['Google søk tekstboksen', 'google', 'google', 'Google Google søk Jeg føler meg heldig', 'google', 'Google søk', 'kan ikke besvares.', 'google', 'google', 'kan ikke besvares.']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['Rostekjøtt', 'Rostekjøtt', 'Rostekjøtt', 'Rostekjøtt', 'mat', 'Rostekjøtt', 'Rostekjøtt', 'Rostekjøtt', 'tradisjonell ristekjøtt', 'tradisjonell ristekjøtt']	tradisjonell biffsteke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags brus er dette?\
+	['Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper', 'Dr pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['TV-fjernkontroll', 'fjernkontroll', 'fjernkontroll', 'fjernstyring', 'fjernkontroll', 'fjernstyring', 'fjernkontroll', 'fjernkontroll', 'fjernstyring', 'fjernkontroll']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['husplante', 'plante', 'husplante', 'plante', 'plante', 'plante', 'plante', 'potteplant', 'plante', 'romplant']	plant
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['skrivebord', 'datamaskin', 'skrivebord', 'skrivebord', 'skrivebord', 'skrivebord', 'dataskjerm', 'skrivebord', 'skrivebord', 'skrivebordskomputer på']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det på bordet mitt?\
+	['iPod touch', 'apper', 'telefon', 'Smarttelefonpapir', 'Smarttelefonpapir', 'telefon', 'telefon', 'telefon', 'mobiltelefon', 'telefon']	telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva var det jeg tok et bilde av?\
+	['iPad', 'Bildet av iPad kaffeskuffe ved siden av', 'Tablett', 'iPad', 'hulu logg inn skjerm', 'huluplus', 'Tablett som viser hulu plus', 'Hulu plus innloggingsnummer', 'huluplus skjerm', 'Logginskjerm for Hulu plus på nettbrett']	hulu plus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette flasken?\
+	['sjampo', 'sjampo', 'kan ikke besvares.', 'treeme', 'tresemme', 'kan ikke besvares.', 'tresemme hårpleie', 'sjampo', 'parfyme', 'tresemme sjampo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette en modell av?\
+	['Soda', 'sprite', 'Sodavandflaske', 'sprite', 'kan ikke besvares.', 'Sprit soda', 'sprite', 'Sprite flaske', 'kan ikke besvares.', 'sprite']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette produktet?\
+	['chex blanding', 'chex blanding', 'chex blanding', 'Chex blanding cheddar', 'chex blanding', 'chex blanding', 'kokk blanding', 'chex blanding', 'chex blanding', 'tjekke']	cheddar chex mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['røyket kalkun', 'røyket kalkun panini', 'røyket kalkun panini', 'kalkun panini', 'røyket kalkun panini', 'røyket kalkun panini', 'Stoffere', 'panini', 'røyket kalkun', 'røyket kalkun panini']	panini
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilke bokstaver skal jeg skrive for å vinne prisen?\
+	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags bur er dette?\
+	['tomater', 'sals', 'tomat', 'knuste tomater', 'tynn', 'tomat', 'tomater', 'tomater i konserver', 'tomat', 'tomater']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags Keurig kopp er dette?\
+	['donut hus', 'kaffe', 'boks', 'donut', 'donut hus samling', 'donut', 'donut', 'donut hut samling', 'donut hull', 'donut hull samling']	donut hole
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Fortell meg navnet på denne boken.\
+	['halvmånedag', 'kan ikke besvares.', 'Forfatter Clive Cussler Dirk Cussler', 'Bare forfatterens navn vises ingen tittel', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['penger', 'penger', '20 dollar', 'penger', '20 dollar', '20 dollar', '20 dollar', 'tjue dollarsedel', '20.00 regning', '20 dollarsedel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette sjampo eller kroppsvask?\
+	['krydder', 'Kroppslotion', 'krydder', 'Kroppslotion', 'muskelfylt kroppslotion', 'Kroppslotion', 'Kroppslotion', 'krydder', 'Kroppslotion', 'Kroppslotion']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det på dette bildet?\
+	['kraker', 'Keksekaker', 'kraker boks', 'kraker boks', 'kraker', 'kraker', 'kraker', 'kraker', 'kraker', 'kraker']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette bildet av?\
+	['telefon', 'Macbook Pro', 'Macbook Pro', 'datamaskinmonitor', 'kan ikke besvares.', 'bærbar datamaskin', 'datamaskin', 'Macbook Pro', 'Macbook Pro skjerm', 'bærbar datamaskin']	bærbar datamaskin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['vann', 'vann', 'naturlig krystallvann', 'naturer krystallvann', 'vannflaske', 'vannflaske', 'vannflaske', 'vann', 'vannflaske', 'vann']	vannflaske
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags pizza er dette?\
+	['pepperoni', 'mamma cozzis', 'Mamma er koselig med tynn pizza.', 'pepperoni', 'frosset pizza', 'pepperoni', 'tynn', 'tynn skorpe pepperoni fra mamma Cozzis', 'Mamma er koselig med tynn skorpe pepperoni', 'mamma cozzis']	thin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne kansen?\
+	['hele mais', 'majs', 'majs', 'majs', 'hele kjerne mais', 'hele kjerne mais', 'majs', 'store verdi mat kan', 'majs', 'majs']	golden sweet whole kernel corn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['mus', 'datamaskinmus', 'datamaskinmus', 'datamaskinmus', 'datamaskinmus', 'HP trådkoblet mus', 'datamaskinmus', 'pc mus', 'hp mus', 'mus']	computermus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kontor', 'stoler', 'kontor', 'kontorstol', 'stol', 'skrivebordstol', 'hjemmekontor', 'kontor', '2 skrivebordssetler', 'stol']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['TV', 'TV-er', 'TV-er', 'gammel TV-skjerm', 'TV', 'TV', 'monitor', 'TV-skjerm', 'TV', 'monitor']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge har jeg på skjorten?\
+	['svart hvit', 'blått hvitt svart', 'svart', 'blått', 'marine', 'svart-hvitt emblem', 'svart hvit', 'blått', 'blått', 'svart hvit']	sort
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er dette?\
+	['rødt', 'rødt', 'rødt', 'rødt', 'rosa', 'rødt', 'rødt', 'rødt', 'rødt', 'rødt']	rød
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det vanlige chips eller salt-og-eddike chips?\
+	['salt', 'regelmessig', 'regelmessig', 'vanlige chips', 'regelmessig', 'regelmessig', 'kan ikke besvares.', 'kan ikke besvares.', 'regelmessig', 'kan ikke besvares.']	salt eddike
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags kartong er dette?\
+	['appelsinjuice', 'appelsinjuice', 'Å', 'appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'appelsinjuice', 'oransje', 'appelsinjuice', 'Papirkartong appelsinjuice']	orange juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva dette er?\
+	['chips', 'chips', 'chips', 'potetkrem', 'potetkrem', 'sirupløkschips', 'chips', 'potetchips', 'chips', 'potetkrem']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det i denne posen?\
+	['kan ikke besvares.', 'frosne grønnsaker', 'grønnsaker', 'gulrøtter erter mais grønne bønner', 'grønnsaker', 'hvitbær, gulrøtter og majs', 'blandet grønnsak', 'grønnsaker', 'blandet grønnsak', 'mais gulrøtter gress bønner erter']	grønnsaker
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags smak av Spark er dette?\
+	['rosa lemonade', 'rosa lemonade', 'kan ikke besvares.', 'rosa lemonade', 'kan ikke besvares.', 'rosa lemonade', 'oransje', 'jordbær', 'kan ikke besvares.', 'rosa lemonade']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags er dette?\
+	['mannvekt', 'kan ikke besvares.', 'kan ikke besvares.', 'mannvekt', 'mannvekt', 'mannvekt', 'tomat', 'mannvekt', 'mannvekt', 'sloppy joe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken sesong er det?\
+	['Spaghetti', 'Spaghetti', 'Spaghetti krydder', 'Spaghetti krydder', 'Spaghetti', 'Spaghetti krydder', 'Spaghetti krydder', 'Spaghetti', 'Spaghetti', 'Spaghetti krydder']	spaghetti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['bok', 'magasinet', 'vertikal magasin', 'magasinet', 'vertikal magasin', 'magasinet', 'magasinet', 'Vertigo magasinet', 'magasinet', 'magasinet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette objektet?\
+	['vegg', 'vegg', 'vegg', 'vegg', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'vegg', 'vegg', 'vegg']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['søtsaker', 'jordbærsugg', 'søtsaker', 'jordbærsugg', 'biter slik', 'jordbærsødteri', 'svegger', 'jordbærsødteri', 'søtsaker', 'jordbærsugg']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er disse skoene?\
+	['brun', 'svart', 'brun', 'brun', 'brun', 'brun', 'brun', 'fot', 'brun', 'brun']	brun
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['datamaskinskjerm', 'Nettsted', 'kan ikke besvares.', 'kan ikke besvares.', 'Nettsted', 'datamaskinskjerm', 'datamaskinmonitor', 'Artikkel', 'pdf-fil for vizwiz', 'vizwizpdf uklar, men kan se bidragsytere seksjon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette bildet?\
+	['monitor', 'bærbar datamaskin', 'TV-er', 'datamaskin', 'bærbar datamaskin', 'TV-er', 'Flatskjerm-tv', 'Laptop skjerm', 'TV-er', 'kan ikke besvares.']	skjermen på en datamaskin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['mobiltelefon', 'mobiltelefon', 'pager', 'kan ikke besvares.', 'telefon', 'mobiltelefon', 'Blackberry mobiltelefon', 'mobiltelefon', 'mobiltelefon', 'mobiltelefon']	ikke kan besvare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kjøleskap', 'kan ikke besvares.', 'kjøleskap', 'kjøleskap på sovesallet', 'kjøleskap', 'kjøleskap', 'kjøleskap', 'mini kjøleskap', 'kjøleskap', 'mini kjøleskap']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge smykker skal jeg ha på meg med dette antrekket?\
+	['sølv', 'sølv', 'hvit', 'gull', 'svart', 'sølv', 'sølv', 'sølv', 'sølv', 'sølv']	hvit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['benet', 'Jeans', 'lår', 'bukser ben', 'arm sofa', 'bukser', 'kjulle', 'kan ikke besvares.', 'buksebein', 'benet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['hund', 'kan ikke besvares.', 'hund', 'hund', 'hund', 'hund', 'hund', 'hund', 'kan ikke besvares.', 'hund på gulvet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['fjernstyring', 'fjernstyring', 'fjernkontroll', 'TV-kontrollen', 'TV-fjernkontroll', 'fjernkontroll', 'fjernstyring', 'fjernstyring', 'fjernkontroll', 'fjernkontroll']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er disse bananene grønne eller gule?\
+	['litt grønt', 'gul', 'gul', 'gul', 'grønn', 'gul', 'gul', 'gul', 'gul', 'gul']	gule
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette produktet?\
+	['korn', 'kashi gå magert kryst med mandel lin', 'kashi gå magert krans', 'Golean kransje kashi', 'korn', 'gå magert krystere korn', 'gå magert kramp', 'kashi gå magert kryst med mandel lin', 'korn', 'korn']	go lean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det som vises på TV-skjermen akkurat nå?\
+	['- Ingenting.', '- Ingenting.', 'ingenting av', '- Ingenting.', '- Ingenting.', '- Ingenting.', '- Ingenting.', '- Ingenting.', 'kan ikke besvares.', '- Ingenting.']	blank
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kjøtt', 'Beef steak', 'kjøtt', 'pakke bøtte', 'kjøtt', 'kjøtt', 'kan ikke besvares.', 'Beef steak', 'Steak', 'kjøtt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det i denne meldingen?\
+	['kan ikke besvares.', 'gjenopprette komplett', 'kan ikke besvares.', 'gjenoppbygging fullført', 'gjenoppbygging fullført', 'kan ikke besvares.', 'gjenoppbygging fullført', 'gjenoppbygging fullført', 'gjenoppbygging fullført', 'gjenoppbygging fullført']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags mat er i denne kansen?\
+	['suppe', 'Progreso grønnsakssuppe', 'grønnsakssuppe', 'grønnsakssuppe', 'grønnsakssuppe', 'grønnsakssuppe', 'suppe', 'Progreso grønnsakssuppe', 'grønnsaker', 'grønnsakssuppe']	grønnsaker
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan', 'Splittet erter suppe', 'Splittet erter suppe', 'Splittet erter suppe', 'Splittet erter suppe', 'suppe', 'kan dele ertssuppe', 'Splittet erter suppe', 'suppe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det en sofa eller et bord?\
+	['tabell', 'tabell', 'tabell', 'tabell', 'tabell', 'tabell', 'tabell', 'tabell', 'tabell', 'dette bordet']	bord
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det for mat i denne dåsen?\
+	['Ravioli', 'Ravioli', 'Ravioli', 'majs', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli mat', 'Ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det på skjermen?\
+	['feilmelding', 'pop-ups for oppstart reparasjon datamaskinen gjenopptak', 'gjenopptak', 'dialogboksen som sier at du er sikker på at du vil avslutte oppstart reparasjon starte datamaskinen på nytt', 'oppstart reparasjon', 'Windows oppdatering instruksjoner', 'kan ikke besvares.', 'oppstart reparasjon', 'Oppstart datamaskinen alternativ', 'oppstart reparasjon']	start opp reparasjon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. La oss prøve dette, kan du fortelle meg hva dette er?\
+	['Bønner', 'bakte bønner', 'Bønner', 'bakte bønner', 'busker, bakte bønner', 'kan', 'Bønner i bur', 'busker, bakte bønner', 'bakte bønner', 'Bønner']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva slags telefon dette er?\
+	['L g', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'Android', 'lg', '- Ja, det er jeg.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['smarttelefon', 'mobiltelefon', 'mobiltelefon', 'telefon', 'mobiltelefon', 'mobiltelefon', 'mobiltelefon', 'smarttelefon', 'telefon', 'telefon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['bærbar datamaskin', 'hånd', 'Laptop tastatur', 'hånd', 'fingre', 'hånd', 'kan ikke besvares.', 'kan ikke besvares.', 'skrivebord', 'hånd']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Cabernet 2009', 'vin', 'vin', 'vin', 'Cabernet sauvignon', 'flaskevin', 'vin', 'vin', 'hestehimmel Columbian Cabernet 2007 vin', 'vin']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det i flasken?\
+	['kokse', 'Soda pop kanskje Coca Cola', 'Soda', 'Coca-Cola soda', 'Soda', 'Soda', 'kokse', 'Soda', 'kokse', 'Soda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er dette?\
+	['rød hvit stripe', 'rødt', 'røde hvite striper', 'røde hvite striper', 'rødt hvitt', 'hvit rød', 'skjorte', 'rødt hvitt', 'rødt hvitt', 'rødt hvitt']	rød hvid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne posen?\
+	['brokoliet', 'brokoliet', 'brokoliet', 'brokoliet', 'brokoliet', 'men brokkoli', 'brokoliet', 'kuttet brokkoli', 'damp n servere kuttet broccoli', 'brokoliet']	brokkoli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det en kupong for?\
+	['yoghurt', 'yoghurt', 'Yoplait yoghurt', 'Yoplait yoghurt 10 $5', 'Yoplait', 'Yoplait yoghurt 10 $5', 'Yoplait yoghurt', 'yoghurt', 'rabatt', 'yoghurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags pop er dette?\
+	['nestea', 'Iste te i konserver', 'sitron', 'Nestea sitron', 'nestea', 'nestea', 'nestea', 'nestea', 'fest', 'nestea']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['iPad', 'Tablett', 'datamaskin', 'iPad', 'museklapper', 'bærbar datamaskin', 'vindu', 'Tablett', 'kan ikke besvares.', 'iPad']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det på skjermen?\
+	['Vil du gjenopprette din komp med system gjenoppretting popper opp', 'feilmelding', 'Vil du gjenopprette datamaskinen din ved hjelp av systemgjenoppretting', 'oppstart', 'Start avlønnet diagnostisk skjerm', 'system gjenoppretting spørsmål: vil du bruke til å gjenopprette datamaskinen', 'oppstart reparasjon', 'oppstart reparasjon', 'Spørsmål om å gjenopprette datamaskinen', 'Vil du gjenopprette datamaskinen din ved hjelp av systemgjenoppretting']	system restore
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Og takk for at du svarte.\
+	['sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det på skjermen?\
+	['Vil du gjenopprette datamaskinen din ved hjelp av system cd', 'gjenopprette', 'Vil du gjenopprette datamaskinen din ved hjelp av system', 'datamaskinen din kunne ikke starte start reparasjon sjekke systemet for problemer', 'Vil du gjenopprette datamaskinen din ved hjelp av system', 'oppstart reparasjon', 'datamaskinen din kan ikke starte', 'datamaskinen din kunne ikke starte start reparasjon sjekker systemet for problemer', 'datamaskinen kan ikke starte', 'gjenopprette']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne kansen\
+	['grønnsaker', 'Wrgrweg', 'blandet grønnsak', 'veggie opprinnelig', 'blandet grønnsak', 'grønnsaker', 'vegall', 'grønnsaker', 'grønnsaker', 'blandet grønnsak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva kan du se på bildet?\
+	['- Ingenting.', 'himmel', 'vask', 'himmel', 'kan ikke besvares.', 'himmel', '- Ingenting.', 'kan ikke besvares.', 'kan ikke besvares.', 'himmel']	uklar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags brus?\
+	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola 0', 'Coca-Cola 0', 'kokse 0', 'Coca-Cola 0', 'Coca-Cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags system er dette?\
+	['skrivebordet', 'kan ikke besvares.', 'vinduer', 'skrivebordskomputer', 'vinduer', 'vinduer', 'vinduer', 'Windows PC', 'vinduer', 'vinduer']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det? - Det er ikke noe problem.\
+	['taler', 'talere', 'gulv', 'talere', 'høyttalersystem', 'taler', 'taler', 'taler', 'taler', 'talere']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Det overvåker lyset på bærbaren?\
+	['- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', 'ikke', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva flasken sier?\
+	['Varm vaniljesukker kroppslotion', 'Varm vaniljesukker', 'Varm vaniljesukker', 'Varm vaniljesukker', 'Varm vaniljesukker kroppslotion', 'Varm vaniljesukker', 'Varm vaniljesukkerlotion', 'Varm vaniljesukker', 'Varm vaniljesukker kroppslotion', 'varm vanilje med sukker']	body lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg 1-800 nummeret på dette kortet, og er du i stand til å høre dette spørsmålet?\
+	['1 800 735 2929 kan ikke høre Q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 nei', '18773289677 nei', '1 877 328 9677', '8007352929 nei']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Lyset i rommet slått på eller av?\
+	['lys av', 'av', 'på', 'av', 'på', 'kan ikke besvares.', 'på', 'på', 'på', 'på']	on
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags smak er dette?\
+	['kirsebær', 'rosa lemonade', 'fruktpunch', 'rosa lemonade', 'rosa lemonade', 'kan ikke besvares.', 'kan ikke besvares.', 'rosa lemonade', 'kirsebær', 'rosa lemonade']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det i denne meldingen?\
+	['gjenoppbygging fullført', 'kan ikke besvares.', 'vellykket restaurering fullført', 'gjenoppbygging fullført', 'gjenoppbygging fullført', 'gjenoppbygging fullført', 'gjenoppbygging fullført', 'registrering fullført', 'gjenoppbygging fullført', 'gjenoppbygging fullført']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge har jeg på skjorten?\
+	['hvit', 'hvit', 'hvit', 'hvit', 'hvit', 'hvit', 'hvit', 'hvit', 'hvit', 'hvit']	hvid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['avansert fargeterapi sjampo', 'sjampo', 'avansert fargeterapi sjampo', 'sjampo', 'Fargeterapi sjampo', 'sjampo', 'Fargebehandling', 'sjampo', 'Applaus avansert fargeterapi', 'Fargebehandling']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kanner', 'kattemat', 'kan ikke besvares.', 'vask', 'kan', 'vask', 'vasking', 'vask', 'vask', 'kan']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette for et videospill?\
+	['spn nfl 2k', 'fotball', 'Nfl 2k', 'ESPN NFL 2k5', 'espn 2k5', 'ESPN 2K fotball', 'Nfl 2k', 'fotball', 'Nfl 2k', 'fotball']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['panini', 'panini', 'røyket kalkun panini', 'røyket kalkun panini', 'røyket kalkun panini', 'Stouffer røykt kalkun panini', 'kalkun panini', 'kan ikke besvares.', 'røyket kalkun panini', 'røyket kalkun panini']	panini med kalkun og grønnsaker
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne boksen?\
+	['Lasagne', 'frosset middag', 'spesiell lasagne', 'spesiell lasagne', 'Lasagne', 'spesiell lasagne', 'Lasagne', 'Lasagne', 'Lasagne', 'Lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette objektet?\
+	['Natur dal havregryn mørk sjokolade granola bar', 'krysser bar', 'granola bar', 'granola bar', 'granola bar', 'granola bar', 'Naturen dal havre n mørk sjokolade bar', 'Havre og mørk sjokolade', 'Granola med mørk sjokolade', 'granola bar']	granola bar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['videospill', 'spill for PlayStation 2', 'PlayStation 2 Star Wars Battlefront spill', 'spille stasjon Star Wars spill', 'videospill', 'videospill', 'Star Wars Battlefront 2', 'spill', 'spill for PlayStation 2', 'psi spill']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette en slags kaffekamerat?\
+	['fransk vanilje', 'fransk vanilje', 'fransk vanilje', 'nestle', 'Vanilje', 'fransk vanilje', 'kaffe mate', 'fransk vanilje', 'fransk vanilje', 'fransk vanilje']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['appelsinjuice', 'juice', 'juice', 'appelsinjuice', 'juice', 'myk saftig', 'myk og saftig', 'juice', 'appelsinjuice', 'juice']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge har steinene i øreringen?\
+	['rosa', 'blå', 'rødt', 'rosa', 'purpur', 'rosa', 'rosa', 'rosa', 'rosa', 'rosa']	pink
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det på etiketten på denne elektroniske enheten?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva sier skjermen, hvis du kan lese det?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Kan ikke lese skjermen', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Kan ikke lese', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne flasken?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'krydder', 'vitaminer', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke sikker', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva smaker denne energibaren av?\
+	['jordbær', 'Bær mandelkrunch', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'eplekrust', 'kan ikke besvares.', 'kan ikke besvares.', 'Bær mandelkrunch']	berry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'oppmerksomhet', 'n', 'kan ikke besvares.', 'kan ikke besvares.', 'nyheter', 'kan ikke besvares.']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags måltid er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg prøver å finne ut hva slags radio dette er, så hvis jeg får informasjon så jeg kan få en egen, ville det være flott, takk.\
+	['Jeg vet ikke.', 'kan ikke besvares.', 'kan ikke besvares.', 'muligens hjemme IP9 høyttaler dock', 'kan ikke besvares.', 'skinn', 'kan ikke besvares.', 'bærbar', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg har aldri tatt et bilde av noe slikt før.\
+	['flytte litt lenger unna slik at kameraet fokuserer', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken av disse er den beste filmen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'enkel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['dette lysbildet', 'rosa', 'kan ikke besvares.', 'purpur', 'kan ikke besvares.', 'kan ikke besvares.', 'lyser', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	ukjent
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter denne lotionen?\
+	['kan ikke besvares.', 'Noxema', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Når utløper dette?\
+	['9.27.13', 'kan ikke besvares.', 'kan ikke besvares.', 'september 23 2013', '23. september 2013', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '23. september 2013', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor lenge skal jeg lage dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', '5 minutter', 'kan ikke besvares.', 'kan ikke besvares.', '5 minutter', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Kleenex', 'hjørne', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'telefon', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det for en sang?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'bug i bildet', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'svamp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Det står under vinduene at systemet ikke kan repareres automatisk.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Start reparasjon kan ikke reparere denne datamaskinen automatisk', 'kan ikke besvares.', 'oppstart', 'Start reparasjon kan ikke reparere denne datamaskinen automatisk', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mye natrium er i denne pakken?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Samoa', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. På skjermen står det at det er gjenoppretting?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilket gardin?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'fortsett å studere', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter denne formålet med?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '0', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er fargen?\
+	['rødt hvitt', 'kan ikke besvares.', 'hvit', 'hvit', 'kan ikke besvares.', 'rødt hvitt', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Vennligst forklar hva etiketten på ruteren min sier takk.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er utløpsdatoen på dette busskortet?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Bare si det.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'sjone', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva sier dette, hva sier dette\
+	['kan ikke besvares.', 'kan ikke besvares.', 'rader kolonner uklare tall', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor er klokken?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Blinker på kameraet, og klokken kan ikke leses', 'ikke synlig', 'kan ikke besvares.', 'kan ikke besvares.', 'Kan ikke fortelle', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg bruksanvisningen for denne sjampoen? takk.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Eddfcfd', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det en knapp jeg må trykke for å gjenoppta, eller skal jeg bare vente?\
+	['systemforløp', 'kan ikke besvares.', '- Ja, det er jeg.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'ikke', 'Vent litt.', 'stikk i']	system resume
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvis kortet er vist på dette bildet, hva står det?\
+	['kan ikke besvares.', 'ikke vist', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Ingen ord', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. - Testen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'fjernstyring', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Rund lyd fjernstyring', 'Spørsmålet gjelder ikke for bildet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Riktig ordspill.\
+	['kan ikke besvares.', 'ukjent', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg har å gjøre med en Captcha, men jeg kan ikke se skjermen og jeg trenger den for å be om noe fra et nettsted. Kan du fortelle meg hva Captcha er?\
+	['ikke 1', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg vet det står de ti budene, men hva er de ti budene?\
+	['sette regler gitt av Gud til hans troende', 'kan ikke besvares.', 'kan ikke besvares.', 'moralske regler', 'kan ikke besvares.', 'guder bud', 'kan ikke besvares.', 'kan ikke besvares.', 'lovene', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva sier skjermen på datamaskinen min?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'for uklar', 'tomt skjerm']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags babyformel er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'Jeg ser ikke babyformel.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	ukjent
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette for en medisin?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags kort er dette?\
+	['kan ikke besvares.', 'rødt kredittkort', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kredittkort', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det på dette kortet?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Kun 16 12 synlig', 'kan ikke besvares.', '- Ingenting.', 'kan ikke besvares.', '1 6 12', 'kan ikke besvares.', 'kan ikke besvares.']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['såpe', 'produkt', 'kan ikke besvares.', 'melk', 'kan ikke besvares.', 'kan ikke besvares.', 'øyedråper', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags kjøtt er dette?\
+	['Jack-koblinger', 'ds', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kjøtt', 'kan ikke besvares.', 'kjøtt', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette et gavekort for?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'et uoppklarlig bilde', 'kan ikke besvares.', 'Kan ikke fortelle', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags konserver er dette?\
+	['Limer', 'kan ikke besvares.', 'Limer', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Limer', 'kan ikke besvares.', 'lime']	lime
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor er klokken?\
+	['kan ikke besvares.', '532', 'kan ikke besvares.', 'kan ikke besvares.', '5:13', '5:13', 'kan ikke besvares.', '5:10', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er produktet i denne kansen?\
+	['Kan ikke fortelle', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva temperaturen i ovnen er og hvor lenge og om jeg må punktere lokket?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'asdd', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Ser ovnen ut til å være klar?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke ovn', 'kan ikke besvares.', 'kan ikke besvares.', 'Ja, jeg tror jeg er klar.', 'ikke', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hjelpet det noe?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er koden som skal skrives?\
+	['kan ikke besvares.', 'e-post', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags skjorte har jeg på meg?\
+	['kan ikke besvares.', 'silke', 'kan ikke besvares.', 'kan ikke besvares.', 'hvit', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags frosset middag er det?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Bildet er tomt', '- Ingenting.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	blank
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags merke er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Sanyo', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er temperaturinnstillingen i ovnen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'gfdsg', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle hva som er i flasken?\
+	['tomatoss', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'pasta sauce', 'kan ikke besvares.', 'kan ikke besvares.', 'tomatoss', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['kan ikke besvares.', 'Azitromycin tabletter 250 mg', 'Tabletter', 'kan ikke besvares.', 'kan ikke besvares.', '250 mg', 'Azitromycin tabletter', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du lese disse ordene?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'Ingen ord']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette valium?\
+	['ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke kan lese legemidlet navn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er sangen er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'Nøttene', 'kan ikke besvares.', 'album', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'jingle jingle', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Ja dette er en HP bærbar datamaskin, jeg trenger å vite hvor kortleseren er i forhold til tastaturet. vær så spesifikk som mulig. takk. \
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'på siden', 'kan ikke besvares.', 'Jeg kan ikke se kortleser SD kortleser vanligvis på venstre hjørne front kant', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter parfymen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ingen navn', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags RAM er dette?\
+	['kan ikke besvares.', 'og o444', 'kan ikke besvares.', 'kan ikke besvares.', 'DDR-SDRAM PC3200', 'Jeg vet ikke.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg forstår det, men ser baksiden av den hvite lastebilen ut til å være dented\
+	['kan ikke besvares.', 'ikke', 'Bildet fra forsiden Jeg ser ikke noe uvanlig', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'N0', 'kan ikke besvares.', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags suppe er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kylling', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det som vises på skjermen på bærbare datamaskiner?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'suppe', 'suppe', 'kan suppe', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'suppe', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['tepper', 'Papirhåndklær', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'papirhåndkle', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags smak er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'regelmessig', 'original', 'kan ikke besvares.', 'Vend deg om', 'ost', 'billedkunstner']	pringles
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilket av de tre bildene er Googles logo?\
+	['kan ikke besvares.', '0', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'første bilde', 'venstre']	sentralen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'usikker', 'uklar', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Etikett', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Mangler det noen steiner?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'utilstrekkelig bildekvalitet', 'kan ikke besvares.', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg vil vite hva slags parfym dette er.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er utløpsdatoen på denne osten?\
+	['ikke', 'ikke kan leses', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken temperatur er termostaten satt?\
+	['kan ikke besvares.', 'kan ikke besvares.', '75', 'kan ikke besvares.', '75', 'kan ikke besvares.', '75', '75', 'kan ikke besvares.', 'ikke synlig']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er denne skjorten?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'svart', 'kan ikke besvares.', 'svart', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'svart', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det på skjermen?\
+	['feil omstart melding', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'sys', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags brus er dette, takk?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke sikker', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det? - Det er ikke noe problem.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'hår', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Fortell meg hva dette sier.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	ikke klart
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'boks', 'kan ikke besvares.', 'liten boks', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken temperatur er termostaten satt på?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Kan ikke lese', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette flasken?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'Jeg vet ikke.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan jeg få alle tegnene i denne?\
+	['Arobergy Chavez', 'kan ikke besvares.', '- Ja, det er jeg.', '- Ja, det er jeg.', 'kan ikke besvares.', 'Arobergy Chavez', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Produktnøkkel for denne versjonen av\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kom, jeg får det med ventetiden.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'sko', 'kan ikke besvares.', 'sko', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er klokken og temperaturen i Dallas, Texas?\
+	['3:40 54', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '21.17 96 grader', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvordan går det?\
+	['kan ikke besvares.', 'godt', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'godt', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva var svaret du fikk?\
+	['kan ikke besvares.', 'usikker', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'logg på skjermen', 'datamaskin', 'kan ikke besvares.', 'skjermkasting matisk']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['Stoff som dekker flasken', 'kan ikke besvares.', 'dekke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags merke er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'seiko', 'kan ikke besvares.', 'uklar', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'se opp', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags nettsted er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Nettsted om iPhone i app kjøp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags vaskesuppe er dette?\
+	['kan ikke besvares.', 'sol', 'kan ikke besvares.', 'kan ikke besvares.', 'Suavetel', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne krukken?\
+	['- Ingenting.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'suppe', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'mat', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. - Hva er dette en kvittering for?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det som er riktig at jeg har en hånd\
+	['Visittkort', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'God jul', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva kan jeg ta et bilde av?\
+	['klokke på ark', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'se opp', 'Mickey Mouse lommeur', 'dette lommeur hodetelefoner']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva sier skjermen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Windows lisensvilkår', 'Begreper delvis utenfor skjermen', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Men ja, jeg kan legge den.\
+	['kan ikke besvares.', 'fold', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'hånd', 'boks']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken farge er dette?\
+	['hvit grått', 'purpur', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'rødt hvitt', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det? - Det er ikke noe problem.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kjøkken', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Bildet av mannen ved skrivebordet på datamaskinen', 'Jeg ser stue på bildet', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva heter du?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'eufori', 'eufori', 'euphony', 'kan ikke besvares.', 'kan ikke besvares.']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det? - Det er ikke noe problem.\
+	['kan ikke besvares.', 'lys', 'kan ikke besvares.', 'kan ikke besvares.', 'lys', 'lysvage', 'kan ikke besvares.', 'uklart', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Les teksten på denne boksen som er en annen boks.\
+	['hd', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg leter etter et åttesifret ID-nummer.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Jeg ser ikke noe. Beklager.', 'kan ikke besvares.', 'tomt', 'Jeg er ikke i stand til å se noe slikt', 'kan ikke besvares.', '0', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg tittelen på denne boken?\
+	['kan ikke besvares.', 'harmoniske materialer i tonalmusikk', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['Deberman', '- Ingenting.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'håndholdende pakke']	kan ikke besvares
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva sier skjermen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. En stund, du vet.\
+	['Jeg forstår ikke.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva sikkerhetsspørsmålet er, eller sikkerhetsnummer og bokstav, så jeg kan legge dette til i redigeringsfeltet mitt?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken verdi er denne dollarsedelen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ubrukelig bilde', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det satt på?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Telling', 'Telling', 'kjøkkenbord', 'Topp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette et slangebitt?\
+	['kan ikke besvares.', 'muligens', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'Kanskje.', 'Kanskje.', 'ikke', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg i detalj hva som er på denne skjermen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'datamaskinen kan ikke starte melding', 'kan ikke besvares.', 'datamaskinen din klarte ikke å starte', 'kan ikke besvares.', 'datamaskinen din kunne ikke starte oppstart reparasjon sjekker systemet for problemer', 'oppstart', 'kan ikke besvares.', 'ukjent dialogboksen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er tegnene i denne captcha?\
+	['kan ikke besvares.', 'gift', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'svart boks']	ingen bilde
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Vet du hvordan man lager disse?\
+	['kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', '- Ja, det er jeg.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'datamaskinskjerm', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor lenge skal jeg lage dette i mikrobølgeovnen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '8 minutter', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvordan lager du dette?\
+	['ovn', 'kan ikke besvares.', 'bake', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva med signaturet?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'politisk', 'mann', 'kan ikke besvares.', 'Ingen anelse', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'blå mann i bygningen']	kan ikke besvares.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Fortell meg instruksjonene på denne sjampoflasken.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Legg til vått hår skum skylle gjenta hvis ønskelig']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette bildet av?\
+	['tak', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'telefon', 'kan ikke besvares.', 'mann snakker på mobiltelefon', 'kan ikke besvares.', 'person', 'kan ikke besvares.', 'kan ikke besvares.']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er i denne kansen?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Bønner', 'kan ikke besvares.', 'kan ikke besvares.', 'dette bildet sløret', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hvilken farge skjorten min er?\
+	['ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det? - Det er ikke noe problem.\
+	['kan ikke besvares.', 'tråde', 'kan ikke besvares.', 'svart gummi hundespill', 'plante', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Når utløper dette?\
+	['ikke gjør', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke på bildet', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette kortet?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'Ingen kort', 'kan ikke besvares.', 'kan ikke besvares.', 'svart', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva handler dette bildet om?\
+	['kan ikke besvares.', 'tomt', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	Et uskarpt bilde
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Lederbånd', 'hund', 'lommebok', 'kan ikke besvares.', 'Hundebånd', 'dyr']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er matlagingsanvisningen for disse?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags sporing er dette?\
+	['kan ikke besvares.', 'blyant', 'bladmønster', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'blad', 'kan ikke besvares.', 'ugress']	pine cone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det i beholderen i høyre hånd?\
+	['kan ikke besvares.', 'noe kjøtt, men etiketten er ikke helt i bildet.', 'konservert mat', 'kan ikke besvares.', 'Røddekjøtt', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hvem dette er fra?\
+	['ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'returbrev fra posten', 'bakkonvolutt uten skrift', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva slags smak er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Newmans spesialblanding', 'Nemans spesialblanding', 'kaffe', \"Newman's spesielle blanding\", 'kan ikke besvares.', 'Newman egen', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	ikke kan svare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er mitt blodtrykk?\
+	['kan ikke besvares.', 'kan ikke besvares.', '105', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '109 over', 'kan ikke besvares.', 'kan ikke besvares.', 'Kan ikke lese bilde kuttet']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Vi kalte hva smaken er \
+	['sitron', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva dette kansen sier så jeg kan finne ut hva som er i den?\
+	['kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Nummer til den markerte teksten.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Det skal stå på baksiden av kortet hva slags stav det er, hva den er laget av osv. Jeg ville bare vite hva det var.\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'noe tre 14', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg trykkte vel på OK-knappen?\
+	['neste knapp som skal klikkes nå trykk enter', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'blink', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken temperatur?\
+	['kan ikke besvares.', '57', 'tjue', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '20', '20.7c', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette?\
+	['kan ikke besvares.', 'Velkomstskilt', 'Velkomstplakett', 'kan ikke besvares.', 'Velkomstskilt', 'Velkomstskilt', 'kan ikke besvares.', 'Velkomstbanner', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette for et ansikt?\
+	['Ingen ansikt', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '0', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er tallene på denne produktnøkkelen?\
+	['kan ikke besvares.', 'ikke kan leses', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke kan leses', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er nummeret på bygningen jeg nettopp fotograferte?\
+	['3', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '3', 'kan ikke besvares.', '9', 'kan ikke besvares.', 'kan ikke besvares.', '3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Fortell meg hva som er i pakken.\
+	['kan ikke besvares.', 'høst sensasjoner salat', 'kan ikke besvares.', 'Biter', 'søtsaker', 'Bær', 'vanskelig å si kanskje noen slags nøtter', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. - Vises skjermen på skrivebordet mitt?\
+	['sdfgh', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du lese dette?\
+	['- Ja, det er jeg.', 'kan ikke besvares.', '- Ja, det er jeg.', 'Importinformasjonsbrev for juicer', 'ikke', 'viktig informasjon', 'noen', 'vennlig', 'ikke', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du se på etiketten, hva det er? Jeg tror det er en DVD i posten.\
+	['- Ja, det er jeg.', 'Ja, dvd', 'ikke', 'DVD-er', 'DVD-er', 'kan ikke besvares.', 'Etikett uklart, men cd', '- Ja, det er jeg.', 'kan ikke besvares.', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er kameraet mitt skjult?\
+	['- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', 'sv', '- Ja, det er jeg.', 'ikke', '- Ja, det er jeg.', 'ikke', '- Ja, det er jeg.', '- Ja, det er jeg.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette kylling?\
+	['kan ikke besvares.', 'ikke', '- Ja, det er jeg.', 'sannsynligvis ikke i stand til å se alle etiketter', '- Ja, det er jeg.', 'kan ikke besvares.', '- Ja, det er jeg.', '- Ja, det er jeg.', 'kan ikke besvares.', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette kunst?\
+	['- Ja, det er jeg.', 'aluminiumfolie', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', 'kan ikke besvares.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg ville bare bekrefte at det er fløtkjøtt, og jeg ville sette pris på all annen informasjon.\
+	['- Ja, det er jeg.', '- Ja, det er jeg.', 'Ja, Kirkland signatur svinekotletter', 'Ja, svinekopper', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', 'Ja, lunge kotter', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Ser det ut som det kommer regn eller storm?\
+	['- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', 'ikke', 'ikke', 'ikke']	regn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Ser Buddies ansikt søtt ut eller ikke?\
+	['- Ja, det er jeg.', '- Ja, det er jeg.', 'søt', '- Ja, det er jeg.', '- Ja, det er jeg.', 'ikke', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.']	kan ikke besvares. ser søtt ut
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dialogen der nå?\
+	['ikke', '- Ja, det er jeg.', '- Ja, det er jeg.', 'kan ikke besvares.', 'ikke', 'ikke', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Har jeg alle mine tær fortsatt?\
+	['- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.', '- Ja, det er jeg.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du se en flaske på dette bildet, og i så fall hva er det?\
+	['kan ikke besvares.', 'ikke', 'ikke', 'ikke', 'ikke', 'Ingen flaske', 'ikke', 'ikke', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det noen tekst på denne siden av avisen?\
+	['ikke', 'ikke', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'ikke', 'kan ikke besvares.', 'ikke']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det en faks?\
+	['kan ikke besvares.', 'ikke', 'ikke', 'ikke', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'ikke', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det et bryst på dette bildet?\
+	['ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det en sjakkbit her?\
+	['ikke', '- Ja, det er jeg.', 'ikke', 'bare bord', 'ikke', 'ikke', '- Ja, det er jeg.', 'ikke', 'ikke', 'ikke']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Passer disse sokkene?\
+	['ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det en avis?\
+	['ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'kan ikke besvares.', 'ikke', 'ikke', 'kan ikke besvares.', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er det en bærbar?\
+	['ikke', 'ikke', 'ikke', 'ikke', '0 som jeg har sett før', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du lese alt på TV-skjermen min?\
+	['ikke', 'ikke', '- Ja, det er jeg.', 'ikke', 'kan ikke besvares.', 'ikke', 'DVR-brukerkapacitet din DVR 89% full', '- Ja, det er jeg.', 'ikke', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du se duften på denne flasken med Freebeze?\
+	['ikke', 'ikke', 'ikke', 'ikke', 'Kan ikke se etiketten', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er skjermen på?\
+	['ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke', 'ikke']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilket dyr er på denne datamaskinskjermen?\
+	['ikke dyr', '0', '0', '0', '0', 'ingen dyr på skjermen', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg prøver å få et nummer fra dette kortet og jeg lurte på om du kunne lese det for meg.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Les oppskriften.\
+	['261627,2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken temperatur er termostaten satt til?\
+	['72', '72', '72', '72 grader', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken knapp er Mountain Dew?\
+	['5', '6 fra toppen', '6. knappen', '6th 1 ned', '5', '6', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg tror dette er sølvøk.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	silver oak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er wattage på denne strømforsyningen\
+	['350', 'kan ikke besvares.', '350', '350w maksimalt', 'kan ikke besvares.', '350', '350', 'kan ikke besvares.', 'tråden', '350w maksimalt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det?\
+	['77 grader', '77', '77', '77', '77 grader', '77', '77', '77', '77', '77']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle hvilken medaljon dette er fra?\
+	['47', '47', '47', '47th', 'har nummer 47', '47', '47', 'kan ikke besvares.', '47', 'ikke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mye koster dette?\
+	['5', '5', '5', '5', '5', '5 dollar', '5', '5 singapore dollar', '5', '5 dollar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det som står på ruten som nummeret som er vendt mot toppen?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken verdi er denne regningen?\
+	['20', 'Rgreg', '20', '20', 'kan ikke besvares.', 'kan ikke besvares.', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva vises for tiden på skjermen?\
+	['452940', '452940', 'Wakie talkie', 'tallene', 'radio', '452940', 'Walkie talkie', '452940', 'kan ikke besvares.', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er 465 minus 55?\
+	['410', '410', '410', 'kan ikke besvares.', '410', 'kan ikke besvares.', '410', '410', '410', '410']	410
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det femte tallet?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette regningen?\
+	['2', '2', '2', '2', '$2', 'penger', '2', '2', 'kan ikke besvares.', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mange kalorier er det i en porsjon Cheerios?\
+	['110', 'bilde plurry', '104', '110', '100', 'kan ikke besvares.', '10', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilken temperatur er ovnen satt til?\
+	['ovnknapp', 'ovnetemperatur 400', '425', '450', '400', '425', '425', '400', '425', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er temperaturen på termostat? \
+	['78', '78', '78 grader', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mye penger er dette?\
+	['20 kanadiske dollar', '20', '20', '20', '20 euro', '20', '20 kanadiske dollar', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor er temperaturen satt?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er temperaturen på denne termostaten?\
+	['50', '50', '55', '64 grader', '55', 'kan ikke besvares.', 'kan ikke besvares.', '54', 'kan ikke besvares.', '56']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er dette for en denominasjon?\
+	['5', '5', '5', '5', 'Canada', '5', '5', 'eggthg', '5', '5']	5 kanadiske dollar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Fortell meg verdien av dette kortet.\
+	['6 diamanter', '9 diamanter', '6 diamanter', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du se hvor mye dette sier jeg veier?\
+	['210', '200', 'Ja, 200', '198', '200', '200', '200', '250', '200', '200']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hvor mange grader er på dette måleren?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	59
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hva temperatur satt på fine\
+	['78', '78', '78', '78', '78', '78', '78 grader', '78 grader', '78 grader Fahrenheit', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mange porsjoner er det i denne sjokoladebaren?\
+	['kan ikke besvares.', '2', '4', 'kan ikke besvares.', '4', '4 kopper jordnøttesmør', '2', '2', 'kan ikke besvares.', 'kan ikke besvares.']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mange kalorier er det i en porsjon?\
+	['120', '120', '120 tørr 220 tilberedt hvis tilberedt 1 1 4 kopper fettfri melk', '120', '120', '120', '120', '120', '220', '120 tørr korn 220 melk']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Jeg ser etter en tjue, og jeg tror det er en ti, men jeg kan ikke si det.\
+	['10 euro', '10', '10', 'kan ikke besvares.', '10', '10', '10 som ligger på rød hvit skjorte', '10', '10', '10']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Har denne strimlen en eller to rosa linjer? Den ene kan være lysere enn den andre.\
+	['biue', '1', '1 linje', '1 mørk linje', '1', '1', '1', '1', '1', '1']	1 rosa linje
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hvilket nummer det er, takk?\
+	['3248849064', '3248849084', 'kan ikke besvares.', '3248849084', 'kan ikke besvares.', 'kan ikke besvares.', '3248849084', 'kan ikke besvares.', 'kan ikke besvares.', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Kan du fortelle meg hvor mye jeg veier?\
+	['1', '1', 'kan ikke besvares.', '1', '1', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', 'Blank skala', '1']	127
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er den nåværende temperaturinnstillingen på denne termostaten?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'termostat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Er dette en fem eller ti kanadisk dollarsedel?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 kanadisk']	ti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det som ringer?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'kan ikke besvares.', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186 08/07 23:39
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er det femsifrede tallet?\
+	['23442', '23442', '23442', 'kan ikke besvares.', 'kan ikke besvares.', 'Bare se to siffer 69', '23442', 'kan ikke besvares.', 'kan ikke besvares.', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mange gram er dette?\
+	['23,2', '20', '20', '24', 'kan ikke besvares.', 'kan ikke besvares.', 'kan ikke besvares.', '33', 'kan ikke besvares.', 'gfdsgsdf']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva er temperaturen på dette termometeret?\
+	['72', '72', '72', '72', '72', '72', '72', '72 grader', '72', '72 grader']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilket side nummer er dette?\
+	['2', '2', '2', '2', '2', '2', '2', 'kan ikke besvares.', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det på skjermen?\
+	['8888', 'kan ikke besvares.', '- Ingenting.', '8888', 'kan ikke besvares.', 'kan ikke besvares.', '8888', '888', '- Ingenting.', 'tomt']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilket sidenummer vises?\
+	['123', '121', '121', '121', 'kan ikke besvares.', '121', '121', '128', '321', '121']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvilket nummer er dette?\
+	['26', '26', '26', '26', '26', 'papir', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hva står det her?\
+	['kan ikke besvares.', '40', '40', 'kan ikke besvares.', 'kan ikke besvares.', 'tallene', '40', '40', '40 lbs luft', '30']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer no When the provided information is insufficient, respond with 'kan ikke besvares.'. Hvor mange tabletter er i denne esken?\
+	['8 tabletter', '8', '8', '8', '8', '8', '8', '8 tabletter', '8', '8']	8

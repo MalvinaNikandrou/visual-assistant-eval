@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie pe hârtie?\
+	['fără răspuns', 'Australia Post', 'post', 'fără răspuns', 'Australia Post', 'Australia Post', 'Australia Post', 'Australia Post', 'fără răspuns', 'Australia Post']	post australia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce e pe ecranul computerului, vă rog?\
+	['pictogramele pentru vremea etc.', 'Fereastra de pornire', 'desktop', 'ceas', 'ceas', 'pictogramele', 'pictogramele desktopului', 'fără răspuns', 'pictogramele desktopului', 'pictogramele']	un ecran computer cu diverse icone pe el
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce CD e ăsta?\
+	['în gol', 'CD-ul gol', 'Maxwell', 'Maxell CD r', 'în gol', 'în gol', 'pătura', 'în gol', 'în gol', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e poza?\
+	['picior', 'picior', 'zgârietura piciorului', 'picior', 'picior', 'picior', 'picior', 'picior', 'picior', 'picior']	picior
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce e cu asta, vă rog?\
+	['vânătoare', 'Manwich', 'Manwich', 'Vânătoare sloppy Joe sos', 'sosul Joe neglijent', 'Manwich', 'Omul care îndrăzneşte să-l lase pe Joe să-l mănânce .', 'unwich', 'Manwich', 'Joe neglijent']	un sandviș cu sos de joe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Coca-Cola dietetică', 'Coca-Cola dietetică poate', 'Cocaină dietetică', '- Pot să iau cocaină dietetică.', 'Cocaină dietetică', 'Cocaină dietetică', 'Cocaină dietetică', 'coacăze', 'Soda', '- Pot să iau cocaină dietetică.']	un răspuns este neclar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce condiment e ăsta?\
+	['Dnă Dash.', 'fără răspuns', 'Dnă Dash.', 'fără răspuns', 'Nu pot să-ţi spun.', 'toate condiment', 'amestec de busuioc', '- Doamna Dash Table .', 'scârţâit', 'Dnă Dash.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['sticlă de rouă mtn', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'mt rouă']	un răspuns nu este inclus în textul furnizat.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutie?\
+	['cafea', 'fără răspuns', 'cafea', 'cafea', 'cafea', 'cafea', 'cafea', 'cafea', 'cafea', 'fără răspuns']	cafea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce vezi? - Ce?\
+	['piele', 'uși cu deget', 'ușă', 'ușă', 'ușă cu deget', 'ușă', 'fără răspuns', 'ușă', 'casa', 'blană neagră']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce arată ecranul calculatorului meu?\
+	['Vrei să-ţi restauri computerul folosind sistemul de restaurare', 'Refacerea sistemului', 'Mesajul de restabilire a sistemului', 'întrebând dacă doriți să restabiliți computerul folosind sistemul de restabilire', 'cutie', 'Refacerea sistemului', 'Vrei să-ţi restauri computerul folosind sistemul de restaurare', 'computerul nu a început să folosească sistemul de restabilire', 'restabilirea setată', 'Refacerea sistemului']	un ecran de computer cu un mesaj de sistem restore
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['cacao fierbinte', 'amestec de cacao fierbinte', 'ciocolată fierbinte', 'amestec de cacao fierbinte', 'cacao', 'amestec de cacao fierbinte', 'cacao fierbinte', 'amestec de ciocolată fierbinte', 'cacao', 'amestec de cacao']	cacao prajit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui numărul 1-800 de pe acest card?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	1-877-328-9677
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['ecranul calculatorului', 'ecranul calculatorului', 'ecranul calculatorului', 'laptop', 'ecranul calculatorului care afișează rezultatele căutării', 'ecran', 'ecranul calculatorului', 'ecranul calculatorului', 'ecranul monitorului', 'ecranul calculatorului']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['sos de salată pe partea din spate', 'înfăşurarea', 'sos de salată', 'sos de salată', 'Sală de salată balsamică', 'sos de salată', 'fără răspuns', 'sos de salată', 'sos de salată', 'sos de salată']	un răspuns nu este inclus în textul furnizat.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce arată poza?\
+	['fereastră', 'proiectare', 'design negru pentru ferestrele din sticlă glacată', 'geam de sticlă în ușă', 'fereastră de sticlă în ușă', 'ușă', 'vitralii', 'ușă', 'fereastră', 'fereastră']	fereastra
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi poate spune cineva care e întrebarea de securitate de pe ecran, vă rog?\
+	['Arăwak', 'fără răspuns', 'Arăwak', 'Arăwak', 'Arăwak', 'Arăwak', 'fără răspuns', 'fără răspuns', 'Arăwak', 'Arăwak']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['vin', 'stejar argintiu', 'stejar argintiu', 'vin de stejar argintiu', 'vin', 'sticlă', 'vin', 'vin', 'Stejar argintiu 2003 Cabernet sauvignon', 'stejar argintiu 2003']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce marcă de monitor este asta?\
+	['lg', 'fără răspuns', 'fără răspuns', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de băutură e asta?\
+	['Soda', 'Ginger ale', 'generale', 'Soda de ghimbir', 'Canada uscat', 'Canada uscat', 'Ginger ale', 'Canada uscat', 'Ginger ale', 'Ginger ale']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are covorul?\
+	['de culoare beige', 'de culoare beige', 'bronz', 'gri', 'de culoare roşie', 'Cremă', 'bronz', 'bronz', 'de culoare beige', 'de culoare roşie']	beige
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'telefon digital', 'telefon', 'telefon de birou', 'telefon']	telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este această imagine?\
+	['roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'roua de munte', 'sticlă de rouă mtn', 'Sode de rouă de munte', 'râs']	un pahar de sifon verde cu un logo roșu și alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu sticla asta?\
+	['fără răspuns', 'fără răspuns', 'loţiune', 'Soda', 'fără răspuns', 'loţiune', 'loţiune', 'loţiune', 'fără răspuns', 'loţiune']	un capac
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['apă aquafina', 'sticlă de apă aquafina', 'apă', 'apă', 'sticlă de plastic cu apă de marcă aquafina', 'apă din sticlă', 'sticlă de apă', 'apă aquafina', 'apă', 'sticlă de apă din plastic']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['Căutare pe Google', 'Google afişează afişul', 'Pagina de căutare pe Google', 'Google', 'Google', 'calculator', 'Pagina de pornire Google', 'Pagina Google', 'ecranul calculatorului', 'ecranul calculatorului']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce sunt astea?\
+	['cheie', 'cheie', 'cheie', 'cheie', 'cheie', 'cheie', 'cheie', 'cheie', 'cheie', 'cheie']	cheile
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vă rog să-mi citiţi mesajul de eroare de pe ecran.\
+	['fără răspuns', 'cheie de produs invalidă', 'cheie de produs invalidă', 'fără răspuns', 'cheie de produs invalidă', 'cheie de produs invalidă', 'cheie de produs invalidă', 'Cheia de produs nu este validă fie elimină cheia de produs din fişierul de răspuns pentru a continua', 'Cheie de produs invalidă fie eliminați cheia de produs din fișierul de răspuns de neasistat pentru a continua', 'cheie de produs invalidă']	mesaj de eroare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Unde e laptopul meu?\
+	['biroul', 'pe birou', 'biroul de sus lângă pat', 'pe birou', 'biroul', 'biroul', 'pe birou', 'pe birou', 'biroul de sus', 'biroul']	pe birou
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este titlul acestei cărţi?\
+	['ani de câine', 'Anii câinelui: memorii', 'ani de câine', 'ani de câine', 'ani de câine', 'ani de câine', 'ani de câine', 'ani de câine', 'ani de câine', 'ani de câine']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Macbook', 'tastatură', 'tastatură', 'tastatură', 'calculator', 'tastatură', 'laptop', 'laptop', 'laptop', 'tastatură pe ecranul calculatorului']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce vezi? - Ce?\
+	['fereastră de masă', 'flori', 'fără răspuns', 'fereastră de masă', 'stiloul de carte', 'flori', 'destop', 'carte', 'fereastră', 'flori']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care pachet conţine făină simplă?\
+	['pachet roşu alb', 'stânga', 'că 1', 'roşu 1 pe stânga', 'stânga', 'fără răspuns', 'stânga', 'stânga', 'roşu alb 1', 'roşu 1']	pachetul conţine făină simplă.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fotbal', 'fotbal', 'fotbal', 'Alligator de fotbal purpuriu portocaliu plush pe', 'Alligatori fotbal', 'Alligatori de fotbal moale', 'fotbal de plumb', 'Foarte bine.', 'fotbalul violet', 'Flori de alligator']	un animal cu dinți ascuțiți
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['gri', 'aur', 'aur', 'de culoare beige', 'roşu', 'aur', 'fără răspuns', 'fără răspuns', 'aur', 'fără răspuns']	roșu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['meniu', 'fără răspuns', 'meniu', 'meniu', 'meniu', 'conținutul tabelului', 'meniu', 'meniu', 'lista de preţuri', 'fără răspuns']	un meniu de restaurant cu multe prețuri
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['sticlă de apă', 'cuţitul de primăvară', 'apă Springbourne', 'Springbourne', 'apă îmbuteliată', 'apă', 'sticlă de apă', 'apă îmbuteliată', 'apă în sticlă', 'apă']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de supă e asta?\
+	['progreso', 'progreso', 'progreso', 'fără răspuns', 'progreso', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'progreso', 'progreso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ştiu că e o conservă de mâncare, dar îmi poţi spune ce e în ea?\
+	['fasole verzi', 'fasole verzi', 'fasole verzi', 'fasole verzi', 'fasole verzi', 'fără răspuns', 'fasole verzi', 'eef', 'fasole verzi', 'fasole verzi']	un fel de fasole verde
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este?\
+	['amestec de chex', 'mașini de tăiere', 'calculator chex mix', 'fără răspuns', 'amestec de chex', 'alimente', 'amestec de chex', 'amestec de chex', 'amestec de chex', 'chekmix']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este? Ce este?\
+	['microunde', 'microunde', 'medicamente', 'aparate electrice supa de fructe de mare', 'supă de conserve', 'supă de ceaşcă de băut', 'bucătărie', 'bucătărie', 'Cremă', 'supă']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu asta?\
+	['legume amestecate', 'legume amestecate', 'legume amestecate', 'legume amestecate', 'legume amestecate', 'efgrfg', 'legume amestecate', 'legume amestecate', 'legume amestecate', 'legume amestecate']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de lucru e asta?\
+	['glazură pentru prăjituri', 'vanilă', 'vanilă', 'glazură de vanilie', 'Betty Crocker', 'glazură de vanilie', 'vanilă bătută', 'glazură de vanilie', 'vanilă', 'vanilă']	un răspuns nu este inclus în textul furnizat.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. La ce cutie mă uit, cum ar fi ce conţine cutia?\
+	['cutie de grâuri', 'Băuturi de granola de migdale prăjite din natura valeului', 'barele de granole', 'Valea naturii', 'Barele de granola de migdale prăjite', 'Băuturi de granola de migdale prăjite din natura valeului', 'Nature Valley, grânare crocantă, grânare prăjită, aromă de migdale', 'barele de granole', 'barele de granole', 'Barele de granola crocantă de migdale prăjite']	nature valley crunchy migdale prăjite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce zici de pânza de culoare?\
+	['verde alb', 'imprimare albă verde închisă', 'alb-verde', 'alb-verde', 'roz verde', 'pânză albă cu culoare verde cremă', 'roz negru', 'verde alb', 'culoare violetă negru', 'stropuri de apă albă-verde']	roz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce arată ecranul calculatorului?\
+	['săgeată de mouse', 'cursor', 'Nimic.', 'albastru', 'ecran albastru', 'săgeată', 'în gol', 'săgeată albastră', 'în gol', 'ecran albastru']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Bună ziua, cine e?\
+	['pisica albă', 'pisica', 'pisica', 'pisica albă', 'pisica', 'fără răspuns', 'pisica', 'pisica', 'pisica asta', 'Pisica']	un răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['dezinfectant de mână purell avansat', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mână purell', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mână purell']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune mesajul de eroare?\
+	['cheie de produs invalidă', 'cheie de produs invalidă', 'cheie de produs invalidă', 'cheie de produs invalidă', 'produs invalid', 'Cheia de produs nu este valabilă.', 'Cheia de produs nu este valabilă.', 'produs invalid', 'cheie de produs invalidă', 'cheie de produs invalidă']	mesaj de eroare: nu este un cheia de produs invalid.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce scrie pe ecranul calculatorului meu?\
+	['Un fel de buton de reparare în partea dreaptă jos', 'reparaţie de pornire ultima deschidere cu succes 9 20 2012 1 încercare de reparaţie închiderea înapoi termină anula', 'fără răspuns', 'Nu', 'reparaţie de pornire', 'reparaţie de pornire', 'reparaţie de pornire', 'fără răspuns', 'reparaţie de pornire completă diagnostic ecran buton de închidere', 'reparaţie de pornire']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de carne e asta?\
+	['pui', 'pui', 'pui', 'pui', 'pui', 'pui', 'pui', 'coapsa de pui', 'fără răspuns', 'pui']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['albastru electric', 'albastru', 'albastru', 'albastru', 'albastru', 'albastru', 'albastru', 'albastru', 'albastru', 'fără răspuns']	alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune ecranul?\
+	['instalare de ferestre', 'instalare de ferestre plus mai irezistibil', 'instalare de ferestre', 'instalare de ferestre', 'instalare de ferestre', 'Acest ecran spune că Windows instalarea listează pașii de instalație', 'instalare de ferestre', 'instalare de ferestre', 'instalare de ferestre', 'instalare de ferestre']	instalare windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cerul arată ca în această imagine.\
+	['Parțial înnorat', 'nori întunecaţi', 'nor mare', 'Un nor imens , cer întunecat .', 'Înnorat', 'în nori', 'Nori albastre', 'fără răspuns', 'un nor uriaş de ploaie, puţin albastru pe lateral.', 'în nori']	niste nori gri
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Portică', 'scaun', 'scaun', 'scaun', 'fără răspuns', 'bancă', 'scaun', 'scaun', 'fereastră cu cadru de bancă din metal', 'scaun']	un scaun de lemn si o fereastra
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Fotografie', 'ușă', 'ușă', 'bară', 'uși cu panouri de sticlă', 'ușă', 'restaurant', 'restaurant', 'uși', 'uși']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pe ecran?\
+	['selectaţi dispozitivul de pornire', 'Selectaţi dispozitivul de pornire 3 opţiuni', 'fără răspuns', 'Selectaţi dispozitivul de pornire', 'ecran de pornire', 'Selectaţi dispozitivul de pornire', 'eroare', 'Selectaţi dispozitivul de pornire', 'Mesajul de selectare a dispozitivului', 'Selectaţi dispozitivul de pornire']	un ecran albastru cu text alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest obiect?\
+	['scrumieră', 'sculptură de bronz decorativă de leu', 'statuie', 'nu', 'scrumieră', 'Tava cu cenușă', 'statuie', 'cupa pentru câini', 'scrumieră', 'Tigrul de ciumă pe vârf.']	statuie
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de ţigări sunt astea?\
+	['Spirit american', 'Spirit american', 'Spirit american', 'Spirit american', 'Spirit american', 'Spirite americane în ambalaje negre', 'Spirit american', 'Spirit american', 'Spirit american', 'Spirit american']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['ginseng de guava', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai']	ceai
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în sticlă asta?\
+	['loţiune pentru corp', 'loţiune pentru corp', 'loţiune pentru corp', 'loţiune', 'Loţiune pentru corp din shea vitamina E', '\"Calea luminii lunii\", \"vitamina shea\", \"loţiunea pentru corp\".', 'loţiune pentru corp', 'Loţiune pentru corp', 'Loţiune pentru corp', 'loţiune']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu poza asta?\
+	['ochelari', 'cadre', 'paharele', 'ochelari de ochi cadre argintice', 'ochelari de ochi', 'paharele', 'cadru pentru ochelari', 'paharele', 'paharele', 'paharele']	ochelari
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Asta e produsul.\
+	['Da, este.', 'supă de roşii', 'supă de roşii', 'supă', 'supă conservată', 'supă de roşii', 'supă de roşii', 'supă de roşii', 'supă', 'Selectați supa de roșii de recoltă']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['telefon cutie', 'iPhone', 'cutie iphone', 'telefon', 'telefon mobil', 'cutie de telefonie mobilă', 'smartphone', 'telefon', 'telefon inteligent', 'iPhone']	un telefon mobil
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu poza asta?\
+	['recipient cu bomboane', 'cutie roşie de sărbătoare', 'răspunzător', 'Spune sărbătoarea', 'cutie', 'bomboane', 'favoarea partidului', 'sărbători', 'cutie', 'fără răspuns']	un recipient roșu alb și albastru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['şampanie', 'o ceașcă de ceai din sticlă de vin', 'sticlă', 'vin de sticlă', 'un pahar de vin de șampanie lângă o cană de cafea, aşezat pe farfurie', 'băutură în pahar pe masă', 'şampanie', 'sticlă de ceai', 'Capa de ceai cu șampanie', 'farfurie de sticlă de șampanie pe masă în fereastra din față vedere la oraș']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce gust are asta?\
+	['portocaliu', 'portocaliu verde galben roșu', 'menta portocalie', 'portocaliu', 'fără răspuns', 'fără răspuns', 'portocaliu', '2 pe stânga portocaliu, cirese, lămâie, sus, jos, dreapta, verde de iarnă.', 'portocaliu', 'portocaliu']	un răspuns este necesar pentru a răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Bună ziua, mă întrebam ce e în conservă?\
+	['Coca-Cola', 'Coca-Cola', 'Soda', 'Coca-Cola', 'Soda', 'Cocaină', 'Soda', 'Soda', 'Coca-Cola', 'Soda']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este setarea pe acest uscător?\
+	['contrar direcției ceasornicului, timp regulat de control al ridurilor, uscat, delicate riduri, eliberare de aer, fluf', 'obişnuit', 'încet', 'încet', 'încet', 'obişnuit', 'încet', 'nu la setare', 'Nimic.', 'încet']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['tablete', 'tablete', 'aplicații de telefon', 'ecran', 'lista aplicațiilor', 'App Store', 'tablete', 'lista aplicaţiilor de descărcat', 'fără răspuns', 'Descărcări de aplicații']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. La ce mă uit?\
+	['televiziune', 'TV de dulap', 'televiziune', 'Televiziune', 'ecranul de televizor', 'televiziune', 'Tom Selleck la televizor', 'Televiziune', 'Televiziune', 'Televizor cu ușă deschisă']	un televizor pe un stand de lemn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['albă', 'albă', 'albă', 'albă', 'de culoare beige', 'albă', 'fildeş', 'fără răspuns', 'de culoare beige', 'fără răspuns']	alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['acest produs alimentar', 'ravioane', 'ravioane', 'ravioane', 'ravioane', 'Chef Boyardee mini ravioli', 'mini-raviolii în conserve', 'ravioane', 'Chef Boya mini ravioli', 'ravioane mici']	un răspuns nu este inclus în textul furnizat.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['făină de carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită tradițională', 'carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită tradițională', 'carne de vită prăjită', 'carne de vită prăjită']	roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest produs?\
+	['Pepsi dietetic', 'Pepsi fără cofeină', 'pepsina', 'pepsina', 'Pepsi dietetic', 'Pepsi dietetic', 'Pepsi dietetic', 'Pepsi fără cofeină', 'Pepsi dietetic', 'Pepsi dietetic']	pepsi diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum se numeşte asta?\
+	['de est', 'fasole', 'fără răspuns', 'fără răspuns', 'alimente', 'fasole', 'amestec de traseu', 'cereale', 'nuci', 'Punga de arahide']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E cafea normală sau fără cofeină?\
+	['obişnuit', 'fără răspuns', 'obişnuit', 'obişnuit', 'obişnuit', 'obişnuit', 'fără răspuns', 'fără răspuns', 'obişnuit', 'obişnuit']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Brânză cu pasta', 'Brânză cu pasta', 'Brânză cu pasta', 'Brânză cu pasta', 'Brânză cu pasta', 'Brânză mac', 'Brânză cu pasta', 'Brânză cu pasta', 'Brânză cu pasta', 'Brânză cu pasta']	macaroni și brânză
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în sticlă asta?\
+	['loţiune de înmuiere', 'loţiune', 'loţiune', 'loţiune', 'Cremă de înmuiere', 'loţiune', 'Creme hidratante', 'Cremă pentru corp', 'spălare corporală cu umiditate adâncă', 'spălare corporală']	un produs de îngrijire a corpului
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este? Ce este?\
+	['scaun de birou', 'scaun', 'scaun', 'scaun de birou', 'scaun de birou', 'acest scaun de birou', 'scaun', 'scaun de birou', 'scaun', 'scaun gri de birou']	un scaun gri
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce era acel obiect pe care tocmai l-am fotografiat?\
+	['monitor de calculator', 'calculator', 'ecranul calculatorului', 'fără răspuns', 'fără răspuns', 'laptop', 'ecranul calculatorului', 'laptop', 'monitor de calculator', 'calculator laptop']	monitor computer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Spune-mi ce e asta.\
+	['Cotețe de porc', 'carne', 'un fel de carne roşie', 'carne de ambalare', 'carne de porc', 'carne de porc', 'fără răspuns', 'carne', 'fg', 'din carne de porc']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum arată cerul în această fotografie?\
+	['zi înnorată', 'Parțial înnorat', 'în nori', 'în nori', 'în nori', 'în nori', 'în nori', 'în nori', 'în nori', 'ploaie']	niste nori
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce masă e asta?\
+	['fără răspuns', 'Spaghetti', 'Spaghetti', 'fără răspuns', 'fără răspuns', 'Spaghetti', 'Spaghetti', 'oglinzi', 'cina', 'pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['flori', 'floare', 'flori', 'flori', 'floare', 'flori', 'plante', 'flori', 'floare', 'iris']	flori violete cu frunze verzi in fundal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest lucru?\
+	['ceai liber', 'ceai', 'fără răspuns', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai', 'ceai']	ceai negru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare şi model au pantalonii ăştia?\
+	['cu plăci', 'albastru cu plăci galben', 'albastru portocaliu verde', 'albastru maro alb cu plăcuțe', 'Plaid albastru pe partea de sus plaid galben pe partea de jos', 'multicolor', 'albastru brun alb cu plăcuțe', 'cu plăci', 'cu plăcuţe albastre', 'albastru alb verde galben plaid']	carouri multicolora
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare avea valiza?\
+	['verde', 'verde', 'verde lămâie', 'culoarea verde', 'verde', 'verde', 'verde', 'verde', 'verde strălucitor', 'verde']	neon verde
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E o Coca-Cola obişnuită sau o Coca-Cola dietetică?\
+	['Cocaină dietetică', 'dietă', 'dietă', 'dietă', 'dietă', 'dietă', 'Cocaină dietetică', 'dietă', 'Cocaină dietetică', 'dietă']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['stiloul', 'stiloul de tastatură', 'stiloul', 'stiloul', 'stiloul', 'stiloul', 'stiloul', 'stiloul', 'stiloul', 'bi- pen']	nu pot vedea imaginea.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Lampa poate pringles', 'Lămpi', 'Lămpi', 'Lămpi', 'Pringle poate lângă lampa CD-urilor', 'Lămpi fără umbră', 'Lămpi', 'Lămpi de masă cu apă de gură', 'Lămpi', 'Lămpi']	un prim plan al unui pringles can
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce face acest computer?\
+	['sistem de verificare', 'fără răspuns', 'verificarea discului', 'Discul de verificare', 'fără răspuns', 'fără răspuns', 'încărcare', 'configurarea', 'verificarea coerenței', 'Reluare']	answering does not require reading text in the image
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de suc e asta?\
+	['Cocaină dietetică', 'din', 'Cocaină dietetică', 'Cocaină dietetică', 'Cocaină dietetică', 'Cocaină dietetică', 'Cocaină dietetică', 'Coca-Cola dietetică, lămâie', 'Cocaină dietetică', 'Cocaină dietetică']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Te rog spune-mi ce e în această carte.\
+	['Clive Cussler , Dirk Cussler .', 'fără răspuns', 'Clive Cussler , Dirk Cussler .', 'Clive Cussler , Dirk Cussler .', 'ştiinţifică', 'suspensie', 'Olive Cussler, Dirk Cussler', 'acţiune', 'fără răspuns', 'Clive Cussler']	un roman
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce vin e ăsta?\
+	['fără răspuns', 'Sărbătorim nunta David Emma Vin roşu', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'fără răspuns', 'fără răspuns', 'Vin de Nash']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['iogurt', 'fără răspuns', 'iogurt', 'iogurt', 'iogurt', 'iogurt', 'iogurt', 'iogurt', 'iogurt', 'iogurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este titlul acestei cărţi?\
+	['ani de câine', 'ani de câine', 'ani de câine', 'ani de câine', 'fără răspuns', 'ani de câine', 'fără răspuns', 'ani de câine', 'ani de câine', 'ani de câine']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['laptop Sony', 'laptop', 'laptop', 'calculator', 'laptop', 'laptopul Sony Vaio', 'laptop', 'Sony Vaio', 'laptop Sony', 'laptop']	laptop sony vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Mă întreb ce marcă are acest calculator.\
+	['- Da, sunt.', '- Da, sunt.', '- Da, sunt.', '- Da, sunt.', '- Da, sunt.', '- Da, sunt.', '- Da, sunt.', '- Da, sunt.', '- Da, sunt.', '- Da, sunt.']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce e asta, roşii sau sos de enchilada?\
+	['luptă', 'Pe eticheta din spate nu scrie', 'fără răspuns', 'roșii', 'roșii', 'roșii', 'fără răspuns', 'roșii', 'imaginea neclară', 'roșii']	roşii
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Pudding', 'mâncăruri gustative cu budincă', 'Pudding de vanilie', 'Pudding', 'Pudding de vanilie', 'Pudding', '6 pachete de gustări pachete de budincă de vanilie', 'cupe de budincă', 'Pudding', 'Pudding pentru snack-uri']	un desert care este făcut din lapte
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['20 de dolari canadieni', '20 de dolari canadieni', '20 canadieni', 'bani', 'bani pe dantelă', '20 de lei', 'bani', '20 de dolari canadieni', '20 de dolari.', 'bani']	20 dolari canadieni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['lasagne', 'lasagne', 'lasagne speciale', 'lasagne', 'Lasagna specială', 'lasagne speciale', 'lasgne', 'lasagne', 'Lasagne', 'lasagne']	lasagna specială
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de cafea e asta?\
+	['espresso', 'espresso', 'Timothy expresso', 'Espresso din pădurea tropicală', 'espresso din pădurea tropicală', 'espresso', 'extra în greutate', 'espresso Forest tropical', 'Expresso extra bold, cu aromă tropicală', 'Timotei']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e poza aia?\
+	['sticlă de vin cu tastatură', 'laptop', 'tastatură laptop vin bere', 'fără răspuns', 'calculator', 'calculator', 'băutură pentru laptop', 'laptop pe birou lângă lichid de sticlă', 'sticlă pentru laptop', 'laptop din sticlă']	un laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['titlu carte', 'carte', 'broşură', 'Notă', 'Demon rom , carte cu bani uşoari .', 'Demon rum bani uşori: controlul guvernului asupra băuturilor în British Columbia', 'carte', 'carte', 'Pagina de titlu', 'broşură']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce era pe masă?\
+	['carnet de note', 'alte hârtii', 'Carnet cu inel în spirală', 'stiloul de hârtie', 'carnet de note', 'stiloul de notă', 'carnet de note', 'stiloul de notă', 'stiloul de hârtie', 'carnet de note']	cartiță de scris
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are tricoul ăsta?\
+	['albastru alb cu plăcuțe', 'albastru alb', 'albastru alb cu plăcuțe', 'albastru alb', 'albastru', 'albastru alb', 'albastru alb', 'cu plăcuţe albastre', 'albastru', 'albastru']	albastru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Andre Chardonnay', 'şampanie', 'Andre', 'şampanie', 'vin', 'şampanie', 'şampanie', 'şampanie', 'sticlă de şampanie', 'şampanie']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care e numele produsului din cutie din imagine?\
+	['lizolă', 'lizolă', 'lizolă', 'lizolă', 'lizolă', 'lizolă', 'lizolă', 'lizolă', 'lizolă', 'lizolă']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de cafea e asta?\
+	['Gealia', 'maximul de cafea', 'Maximo', 'Gealia espresso', 'Maximo', 'cafea neagră', 'Maximo', 'fără răspuns', 'Gealia', 'Gealia']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta ?\
+	['Dr. piper', 'poate dr soda de piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'dr sodiu de piper', 'Dr. piper', 'poate dr soda de piper', 'Dr. piper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui ce e asta, te rog?\
+	['cafea instant', 'cafea instant', 'cafea clasică', 'pachet de cafea', 'fără răspuns', 'cafea', 'cafea', 'cafea praf', 'cafea', 'Nescafe Classic']	un pachet de cafea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare au cele trei fire de la stânga la dreapta?\
+	['roşu negru alb', 'roşu negru alb', 'roşu negru bronzat', 'roşu negru alb', 'roşu negru alb', 'roşu negru alb', 'roşu negru alb', 'roşu negru alb', 'roşu albastru alb', 'roşu negru alb']	roșu, negru și crem.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce arată acest test de sarcină?\
+	['1 linie', 'negativ', 'negativ', '1 linie dar vopseaua se răspândește încercați altul', 'fără răspuns', '1 bandă', 'Nu e nici o imagine.', 'linie roşie', 'fără răspuns', 'semn albastru semn roşu']	test de sarcină
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum se numeşte acest condiment?\
+	['Doamna amestec proaspăt cu piper şi lămâie', 'scârţâit', 'Dnă Dash.', 'Doamna Dash, piper cu lămâie.', 'Dnă Dash.', 'Dnă Dash.', 'Pfeier', 'Dnă Dash.', 'Dnă Dash.', 'Dnă Dash.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de băutură e în sticla din mâna mea dreaptă?\
+	['pepsina', 'Pepsi soda', 'Pepsi dietetic', 'Pepsi dietetic', 'Pepsi dietetic', 'pepsina', 'Pepsi dietetic', 'Dieta cu pepsi', 'Pepsi dietetic', 'Pepsi dietetic']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['jocuri video', 'jocuri video', 'meci de baschet', 'jocuri video', 'fără răspuns', 'DVD', 'fără răspuns', 'joc', 'jocuri video', 'DVD']	un răspuns nu este inclus în textul furnizat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['suc de păstă', 'suc de păstă', 'Ketchup de roşii Heinz', 'pachet cu ketchup', 'pachet cu ketchup', 'suc de păstă', 'suc de păstă', 'pachet cu ketchup', 'suc de păstă', 'suc de păstă']	ingredientele ketchup-ului sunt: rosii, oцет, sirop de porumb, sare, condimente si aromă naturală.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culori au tricoul ăsta?\
+	['roşu alb', 'maroniu', 'roşu alb', 'dungi albe roșii', 'dungi albe roșii', 'roşu alb', 'roşu alb', 'roşu alb', 'roşu alb', 'roşu alb']	roșu alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este în pachet?\
+	['Parlamentul', 'album muzical', 'țigări', 'țigări', 'țigări', 'țigări', 'filtre cu înăuntru încorporate', 'ţigări parlamentare', 'cărţi', 'Cigarete']	pachet sigara
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are covorul ăsta?\
+	['purpuriu', 'purpuriu', 'purpuriu', 'purpuriu', 'purpuriu', 'purpuriu', 'purpuriu', 'purpuriu', 'purpuriu', 'purpuriu']	violet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Dialogul e mai vizibil în poza asta?\
+	['plictisită', 'Da, este.', 'nu', 'Da, este.', 'nu', 'nu', 'nu', 'nu', 'nu', 'Da, este.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest produs?\
+	['fasole verzi', 'fasole verzi', 'fasole verzi', 'poate', 'fasole', 'păstă', 'fără răspuns', 'fasole verzi', 'fg', 'fără răspuns']	un produs alimentar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu asta?\
+	['fasole de carne de porc', 'fasole de carne de porc', 'carne de porc și fasole', 'fasole de carne de porc', 'fasole de carne de porc', 'fasole de carne de porc', 'fasole de carne de porc', 'fasole de carne de porc', 'fasole de carne de porc', 'fasole de carne de porc']	un răspuns nu este inclus în textul furnizat.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este cu vinul ăsta?\
+	['fără răspuns', '- Nu , nu , nu .', 'Vintage 2008 produce Nash', 'Nash', 'Nash', 'Suvenir de nuntă', 'Nash sărbătorind căsătoria cu David Emma 16 iulie 2011', 'Nash', 'Nash', 'sărbătoare căsătorie']	un vin de epocă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de mâncare e asta?\
+	['sos de roșii', 'sos de roșii', 'sos de roșii ecologice', 'sos de roșii', 'sos de roșii', 'sos de roșii', 'Muir Glen sos de roșii ecologic', 'sos de roșii', 'Muir Glen sos de roșii ecologic', 'Tomoto']	sos de rosii
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce aromă are asta?\
+	['căpșuni', 'căpșuni', 'căpșuni', 'căpșuni', 'căpșuni', 'căpșuni', 'căpșuni', 'căpșuni', 'căpșuni', 'căpșuni']	capsuni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce culoare are?\
+	['negru', 'negru', 'negru', 'negru', 'negru', 'negru', 'negru', 'negru', 'negru', 'negru']	negru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['planta', 'plante decorative', 'aloe', 'plante de casă', 'plante de casă', 'planta de casă', 'planta', 'planta de casă', 'planta', 'plante de iarbă']	plant
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Revista', 'benzi desenate', 'benzi desenate', 'joc de masă pentru adulţi', 'Revista', 'cartea de colorat', 'Cărţi ciudate de Crăciun', 'Nu sunt sigur că pot citi limba aia.', 'Carte de Crăciun', 'comic']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['Pui de Dijon pentru cină.', 'alimente', 'pui de dijon', 'pui de dijon', 'pui de dijon', 'alimente', 'pui de dijon', 'pui', 'pui de dijon', 'pui de dijon']	un pui dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de cafea e asta?\
+	['Gealia', 'Gealia', 'Vanilă franceză', 'Vanilă franceză', 'Gealia', 'Gealia', 'Vanilă franceză', 'Vanilă franceză', 'franceză', 'Gevaliaa vanilă franceză']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest obiect?\
+	['iPhone', 'telefon', 'telefon', 'iPhone', 'telefon mobil', 'telefon mobil', 'telefon mobil', 'Te sun.', 'smartphone', 'smartphone']	un telefon mobil
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'țigări', 'țigări de pachet', 'țigări', 'țigări de pachet', 'țigări', 'țigări', 'fără răspuns', 'țigări', 'țigări']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce aromă are asta?\
+	['carne de vită', 'cu aromă de carne de vită', 'carne de vită', 'supă cu aromă de carne de vită', 'carne de vită', 'aromă de carne de vită', 'supă cu aromă de carne de vită', 'carne de vită', 'asta e gustul de carne de vită.', 'carne de vită']	vitel
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['cupa mare', 'cupa', 'cupa', 'cupa', 'Iubeşte Togo Cup', 'cupa', 'Ceaţă pop şi alte lucruri.', 'cupa din poliestirol', 'cupa', 'cupa asta.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Este acest Pepsi dieta sau Pepsi obișnuit?\
+	['Pepsi dietetic', 'dietă', 'fără răspuns', 'dietă', 'Pepsi dietetic', 'dietă', 'dietă', 'dietă', 'Pepsi dietetic', 'dietă']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune ecranul?\
+	['software avast', 'scanarea unităților locale', 'ferestre', 'mesaj de eroare', 'scanare', 'Avast software scanarea Windows XP', 'ferestre', 'fără răspuns', 'Windows XP', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vă rog să-mi spuneţi pe ce ecran sunt? Încerc să accesez meniul de pornire şi încerc să pornesc de pe o unitate USB.\
+	['Apasă săgeata jos o dată apoi introduce pentru usb', 'Menu de pornire la pornire din opțiunea hdd', 'fără răspuns', '- Nu !', 'Selectaţi dispozitivul de pornire', 'selectaţi dispozitivul de pornire:', 'Selectaţi dispozitivul de pornire hdd: pm st9250315as', 'Selectaţi dispozitivul de pornire', 'Încapsulă ecranului: selectați dispozitivul de pornire mută săgeata în jos 1 loc la usb:usb disk pro', 'Selectaţi dispozitivul de pornire']	hdd: pm-st9250315as
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce aromă are?\
+	['Dieta dr piper', 'Dieta dr piper', 'dr dieta cu piper', 'Dr. piper', 'Dieta dr piper', 'Dieta dr piper', 'Dieta dr piper', 'Cola', 'Dieta dr piper', 'Dieta dr piper']	dr pepper diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de supă e asta?\
+	['supă de legume', 'progreso', 'progresivă', 'fără răspuns', 'legume progresso', 'fără răspuns', 'legume', 'legume progresso', 'legume', 'progreso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi spui ce fel de maşină e asta?\
+	['fără răspuns', 'Lincoln Crown Victoria', 'Un fel de sedan cu 4 uşi .', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'Chevrolet', 'coroana Victoria', 'fără răspuns', 'Ford']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Asta e cafea?\
+	['Gealia', 'Gealia', 'Gealia', 'Gevalia nucă de pădure', 'Gealia', 'Gealia', 'Gealia', 'Gealia', 'Gealia', 'Gealia']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'dezinfectant de mâini', 'germx', 'dezinfectant de mână germ x', 'dezinfectant de mână germ x']	un gel de curățare a mâinilor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cutia aia?\
+	['supă', 'fructe', 'fără răspuns', 'fără răspuns', 'supă', 'fără răspuns', 'supă', 'fără răspuns', 'sertar', 'supă']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['maroniu', 'maroniu', 'maroniu', 'brun stejar', 'maroniu', 'arţar brun', 'din lemn', 'maroniu', 'maroniu', 'maroniu']	light brown
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'mână', 'mână', 'fără răspuns', 'mână', 'mână', '1 mână dreaptă', 'mână', 'mână', 'mână']	answerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este setarea vasului de crock?\
+	['cupa', 'ridicat', 'ridicat', 'ridicat', 'ridicat', 'ridicat', 'scăzută', 'ridicat', 'ridicat', 'ridicat']	low
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi poţi spune ce e asta?\
+	['articole pentru orbi', 'cd', 'cd invers', 'articole pentru discuri neobservate', 'cd', 'Discul', 'Carte pe CD', 'cd', 'articole pentru persoanele cu deficiențe de vedere', 'Spear de James Herbert DVD']	nu pot vedea imaginea.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['calculatoare cu tastatură de monitorizare', 'monitor', 'monitor de calculator', 'ecranul calculatorului', 'calculator', 'monitor de calculator', 'ecranul calculatorului', 'desktop', 'grafică', 'grafică']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui ce scrie în sticlă?\
+	['zahăr de vanilie cald', 'zahăr', 'zahăr de vanilie cald', 'zahăr de vanilie cald', 'Cremă de corp cu zahăr cald de vanilie', 'zahăr cald de vanilie', 'Cremă de corp cu zahăr cald de vanilie', 'zahăr de vanilie cald', 'Cremă de corp cu zahăr cald de vanilie', 'zahăr de vanilie cald']	lotion pentru corp
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pe ecran?\
+	['ecran de instalare a ferestrelor', 'fără răspuns', 'instalare de ferestre', 'instalare ecran de stare a ferestrelor', 'Windows instalat', 'instalare de ferestre', 'instrucțiuni pentru instalarea ferestrelor', 'progresul în instalarea ferestrelor', 'Instalarea Windows Info', 'ferestre']	text
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['poate', 'poate', 'fără răspuns', 'fasole din conserve', 'poate', 'fasole', 'fără răspuns', 'fasole', 'tocană', 'tocană']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de băutură e asta?\
+	['suc de portocale', 'suc de portocale', 'suc de portocale', 'suc de portocale', 'suc de portocale', 'suc de portocale', 'suc de portocale', 'suc de portocale', 'portocaliu', 'suc de portocale']	suc de portocale
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de băutură e în conservă?\
+	['ceai', 'Neastă', 'Lămâie', 'ceai rece', 'Neastă', 'Neastă', 'Neastă', 'ceai rece', 'ceai cu gheaţă', 'năstase']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E o pizza cu pepperoni, pepperoni şi cârnaţi, Supreme, ce fel?\
+	['Pârtie de piper', 'Pârtie de piper', 'Pârtie de piper', 'Pârtie de piper', 'Pârtie de piper', 'Pârtie de piper', 'Da, este.', 'Pârtie de piper', 'Mama cozzis pepperoni crustă subţire', 'Pârtie de piper']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ai idee ce fel de plantă e cea din mijloc?\
+	['nu', 'iarbă', 'iarbă', 'iarbă', 'iarbă', 'iarbă', 'nu', 'nu', 'iarbă', 'buruieni']	iarbă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['paharele', 'paharele', 'paharele', 'ochelari', 'pereche de ochelari', 'paharele', 'pereche de ochelari', 'paharele', 'ochelari de ochi', 'pereche de ochelari']	un pervaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Descrieţi locul ăsta.\
+	['biroul', 'spațiu de birouri', 'biroul', 'biroul 2 birouri dulap 2 scaune', 'biroul', 'biroul', 'birouri negre scaune de birou', 'birouri', 'biroul 2 birouri', 'biroul']	un birou cu un scaun negru și un birou din lemn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['carnet de note', 'planificator', 'carte', 'carte', 'card', 'carnet de note', 'planificator', 'carnet de note', 'Lilly Pulitzer agenda spirală', 'carnet de note']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['ursuleţul de pluş roz', 'urs de pluş', 'urs de pluş', 'urs de pluş', 'urs de pluş', 'urs de pluş', 'urs', 'urs de pluş', 'urs de pluş', 'urs de pluş']	un ursuleț de pluș alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de condiment e ăsta?\
+	['sare de mare ceapă', 'sare de mare ceapă', 'sare de mare ceapă', 'sare de mare ceapă', 'sare de mare', 'sare de ceapă', 'sare de mare ceapă', 'sare de mare ceapă', 'sare de mare ceapă', 'sare de mare ceapă']	condiment de sare și ceapă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în conservă?\
+	['Dieta dr piper', 'Dieta dr piper', 'Dieta dr piper', 'Dieta dr piper', 'Dr. piper', 'Dieta dr piper', 'Dieta dr piper', 'Dieta dr piper', 'dr dieta cu piper', 'Dieta dr piper']	dr pepper diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pictura de pe paharul ăsta?\
+	['desen animat', 'personaje de desene animate', 'desen animat', 'Omul se uită la pasăre', 'pui de om', 'Omul', 'Omul de desene animate', 'Desenul păsării, omului, copacului, lunii.', 'persoana animală', 'desen animat']	un desen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['persoanele înapoi', 'băiat', 'Capul omului', 'persoana', 'În spatele cuiva cap umeri', 'Înapoi, omule.', 'fără răspuns', 'cămaşă gri', 'băiat', 'Persoana din spate']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['vorbitor', 'vorbitor', 'difuzor pe perete', 'vorbitor', 'vorbitor', 'vorbitor', 'difuzor de perete', 'vorbitor', 'montat de pisici', 'vorbitor']	un raft pe perete
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['Numărul de telefon al taxiului', 'Nimic.', 'Nimic.', 'telefon', 'taxiul oraşului', 'chitanţă', 'fără răspuns', 'Se pare că e o chitanţă .', 'linii', 'taxiuri']	nu pot vedea imaginea de mai sus.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['New Orleans stil jambalaya mix', 'amestec de jambalaya', 'amestec de jambalaya', 'orez', 'jambalaya', 'amestec de jambalaya', 'amestec de jambalaya', 'orez jambalaya', 'amestec preparat cutie pentru orez jambalaya stil New Orleans', 'amestec de jambalaya']	un răspuns este necesar pentru această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are Mac-ul meu?\
+	['argint', 'albă', 'negru beige', 'albă', 'argint', 'argint', 'argint', 'argint', 'albă', 'argint']	gri
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutie?\
+	['fasole de la cuptor ecologice', 'fasole la cuptor', 'fasole de la cuptor ecologice', 'fasole la cuptor', 'fasole la cuptor', 'fasole la cuptor', 'fasole la cuptor', 'fasole la cuptor', 'fasole la cuptor', 'fasole la cuptor']	fasole prajita
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['Brânză cu pasta', 'fără răspuns', 'Brânză cu pasta', '3 bucăți de brânză cu macaroane', 'Brânză cu pasta', 'Brânză mac', 'Brânză cu pasta', 'cina', 'Brânză', 'brânză cu cochilie']	macaroni si branza
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Zatarine New Orleans stil jambalaya mix', 'amestec de jambalaya', 'amestec de jambalaya', 'amestec de jambalaya', 'amestec de jambalaya', 'orez', 'Zatarine jambalaya mix', 'jambalaya', 'Zatarine jambalaya mix', 'amestec de jambalaya']	un amestec de orez pentru orez cu carne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e chestia asta?\
+	['bomboane de calitate de stradă', 'bomboane cutie', 'bomboane', 'bomboane', 'bomboane dure', 'bomboane', 'bomboane', 'bomboane', 'Stradă de calitate', 'bomboane']	caramele
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Scuzaţi-mă, spuneţi-mi ce vedeţi exact în această poză.\
+	['frigider', 'frigider', 'frigider', 'mic frigider de vâscă tavă lumină plăci de perete sticker mâner pe frigider', 'frigider', 'frigider mini', 'frigider mini', 'ușile de dulap', 'frigider alb', 'frigider']	un frigider alb într-o bucătărie
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui ce scrie în cutie?\
+	['nepoţi încântători .', 'Ceva despre nepoţi încântători .', 'încântătoare', 'Nimic nu e mai plăcut decât nepoţii.', 'Puţine lucruri sunt mai încântătoare decât nepoţii luptându-se în poala ta .', 'nepoţi încântători .', 'nepoţi încântători .', 'Puţine lucruri sunt mai încântătoare decât nepoţii luptându-se în poala ta .', 'fără răspuns', 'nepoţi încântători .']	felicitari
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum arată cerul?\
+	['clară', 'apus de soare răsărit de soare', 'albastru', 'seară', 'albastru', 'clară', 'clară', 'liniştit', 'albastru deschis', 'albastru , mai deschis albastru , aproape de orizont .']	cerul este albastru deschis
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are cămaşa asta?\
+	['bronz', 'maroniu', 'bronz', 'de culoare beige', 'de culoare beige', 'rozăroasă', 'maroniu', 'bronz', 'aur', 'culoare gri']	crem
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E băiat sau fată?\
+	['fără răspuns', 'băiat', 'băiat', 'Fata', 'băiat', 'băiat', 'băiat', 'băiat', 'băiat', 'băiat']	fată
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vă rog, îmi puteţi spune ce este?\
+	['cereale', 'Încântaţi-vă !', 'cereale', 'Încântaţi-vă !', 'fără răspuns', 'cereale', '\"Cherie\" de miere', 'Acum mai delicioase, miere.', 'miere', 'miere']	nu pot vedea imaginea de mai sus.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['roșu cu plăci galben alb albastru', 'cu plăci', 'verde albastru alb roșu cu plăci', 'multicolor', 'palidă', 'cu plăci', 'albastru verde alb roșu', 'cu plăci', 'albastru alb verde cu plăcuțe', 'albastru verde roşu alb']	carouri albastre verzi portocalii si albe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['cacao fierbinte', 'amestec de cacao fierbinte', 'amestec de cacao fierbinte', 'amestec de cacao fierbinte', 'amestec de cacao', 'cacao fierbinte', 'ciocolată fierbinte', 'amestec de ciocolată fierbinte', 'pachet de ciocolată caldă', 'ciocolată fierbinte']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['fără răspuns', 'hams bere specială ușoară', 'bere', 'fără răspuns', 'fără răspuns', 'bere', 'bere', 'bere', 'bere', 'lumină specială']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E pui sau ţelină?\
+	['roșii', 'roșii', 'roșii', 'roșii', 'nu', 'roșii', 'supă de roşii', 'roșii', 'roșii', 'nu']	un răspuns este necesar pentru a răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['Macbook Pro', 'Macbook Pro', 'Mac Book Pro', 'Macbook Pro', 'Mac Book Pro', 'Macbook Pro', 'Macbook Pro', 'Airbook pro', 'macbookpro', 'Macbook Pro']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Aş vrea să ştiu ce e în cutie.\
+	['fasole la cuptor', 'fasole la cuptor', 'fasole', 'fasole la cuptor în sos de roșii', 'Fermieră, fasole coapte.', 'fasole la cuptor', 'fasole la cuptor', 'fasole', 'fasole la cuptor', 'fasole']	fasole prajite in sos de rosii
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta ?\
+	['pui', 'fără răspuns', 'pui parmezan cu cremă', 'alimente', 'cină TV', 'alimente', 'Brânză mac', 'alimente', 'mâncare Marie Collenders', 'pui parmezan cu cremă']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['bancnota de dolar', '1 banknot de dolar', 'dolari', '1 banknot de dolar', '1', '1 banknot de dolar', 'bancnota de dolar', 'Bilet de 1 dolar', '1 banknot de dolar', '1 bancnotă de dolar american']	un dollar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['cărţi de joc', '2 regi', 'perechi de regi', 'cărţi de joc', 'cărţi', 'cărţi', 'cărţi de joc', 'pereche', 'cărţi', 'cărţi de joc']	nu pot vedea imaginea.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E negru sau albastru?\
+	['fără răspuns', 'negru', 'negru', 'negru', 'negru', 'negru', 'negru', 'gri', 'negru gri', 'negru']	negru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie pe ecran?\
+	['caseta de text pentru căutarea pe google', 'Google', 'Google', 'Google caută pe Google mă simt norocos', 'Google', 'Căutare pe Google', 'fără răspuns', 'Google', 'Google', 'fără răspuns']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită', 'alimente', 'carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită', 'carne de vită prăjită tradițională', 'carne de vită prăjită tradițională']	roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de suc e asta?\
+	['Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper', 'Dr. piper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['telecomanda de la televizor', 'telecomandă', 'telecomandă', 'îndepărtat', 'telecomandă', 'îndepărtat', 'telecomandă', 'telecomandă', 'îndepărtat', 'control de la distanță']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['planta de casă', 'planta', 'planta de casă', 'planta', 'planta', 'planta', 'planta', 'plante în ghiveci', 'planta', 'plante de casă']	plant
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e chestia asta?\
+	['biroul', 'calculator', 'biroul', 'biroul', 'biroul', 'biroul', 'biroul de calculator', 'biroul', 'biroul', 'computer de birou']	un birou cu un computer pe el
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pe masa mea?\
+	['iPod touch', 'aplicații', 'telefon', 'hârtii pentru telefoane inteligente', 'hârtii pentru telefoane inteligente', 'telefon', 'telefon', 'telefon', 'telefon mobil', 'telefon']	telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fotografie am făcut?\
+	['iPad', 'pic iPad poşeta de cafea lângă', 'tablete', 'iPad', 'hulu ecran de logare', 'mai multă', 'tabletă cu afişarea hulu plus', 'tablet hulu plus login', 'ecranul huluplus', 'ecran de conectare pentru hulu plus pe tabletă']	un ecran de computer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu sticla asta?\
+	['şampon', 'şampon', 'fără răspuns', 'treime', '- Ce vrei să spui ?', 'fără răspuns', 'Trezeam îngrijirea părului', 'şampon', 'parfum', 'şampon de tresemme']	un produs de par
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e modelul ăsta?\
+	['Soda', 'spirite', 'sticlă cu suc', 'spirite', 'fără răspuns', 'Sodiu de spirită', 'spirite', 'sticlă de sprite', 'fără răspuns', 'spirite']	un model de spirt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest produs?\
+	['amestec de chex', 'amestec de chex', 'amestec de chex', 'Chex Mix Cheddar', 'amestec de chex', 'amestec de chex', 'Mix de bucătari', 'amestec de chex', 'amestec de chex', 'Chex']	mix de cereale chel
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['curcan afumat', 'Păstă de curcan afumat', 'Păstă de curcan afumat', 'Păneci de curcan', 'Păstă de curcan afumat', 'Păstă de curcan afumat', 'Plăcările de stuf', 'Pânini', 'curcan afumat', 'Păstă de curcan afumat']	un prim plan al unui etichetă cu mâncare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrisori scriu ca să câştig premiul?\
+	['Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de cutie e asta?\
+	['roșii', 'sos', 'roșii', 'roșii zdrobite', 'staniu', 'roșii', 'roșii', 'tomate conservate', 'roșii', 'roșii']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de Keurig cup este asta?\
+	['Casa gogoşilor', 'cafea', 'cutie', 'ciorapi', 'Colecţia de gogoşi', 'ciorapi', 'ciorapi', 'colecţia de gogoşi', 'gaura de gogoşi', 'colectarea de gogoşi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Te rog spune-mi numele acestei cărţi.\
+	['creșterea lunar', 'fără răspuns', 'Autorul: Clive Cussler', 'Numai numele autorilor nu sunt prezentate', 'Clive Cussler , Dirk Cussler .', 'Clive Cussler', 'Clive Cussler , Dirk Cussler .', 'Clive Cussler , Dirk Cussler .', 'Clive Cussler , Dirk Cussler .', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['bani', 'bani', 'O bancnotă de 20 de dolari.', 'bani', '20 de dolari.', '20 de dolari.', '20 de dolari.', 'bancnota de 20 de dolari', 'O factură de 20.00', '20 de dolari']	10 dollars
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E un şampon sau o spălare corporală?\
+	['loţiune', 'loţiune pentru corp', 'loţiune', 'loţiune pentru corp', 'Creme de corp spumante', 'loţiune pentru corp', 'loţiune pentru corp', 'loţiune', 'loţiune pentru corp', 'loţiune pentru corp']	spălare corporală
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în poza asta?\
+	['biscuiți', 'biscuiți cutie', 'cutie de biscuiți', 'cutie de biscuiți', 'biscuiți', 'biscuiți', 'biscuiți', 'biscuiți', 'biscuiți', 'biscuiți']	un carton de biscuiti cu o legenda de \"Baked not fried\".
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu poza asta?\
+	['telefon', 'Macbook Pro', 'Macbook Pro', 'monitor de calculator', 'fără răspuns', 'laptop', 'calculator', 'Macbook Pro', 'ecranul macbook pro', 'calculator laptop']	un laptop cu o lumină strălucitoare pe ecran
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['apă', 'apă', 'apă naturală cristalină', 'Natura apă cristalină', 'sticlă de apă', 'sticlă de apă', 'sticlă de apă', 'apă', 'sticlă de apă', 'apă']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de pizza e asta?\
+	['Pârtie de piper', 'Mama e drăguţă.', 'Mama e o pizza frumoasa .', 'Pârtie de piper', 'pizza congelată', 'Pârtie de piper', 'subţire', 'Pepperoni cu crustă subţire de la mama Cozzis', 'Mama e drăguţă cu piperoni cu crustă subţire.', 'Mama e drăguţă.']	mama cozzis
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în conservă?\
+	['porumb întreag', 'porumb', 'porumb', 'porumb', 'porumb întreag', 'porumb întreag', 'porumb', 'Mâncare de mare valoare poate', 'porumb', 'porumb']	porumb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['şoarece', 'mouse-ul pentru calculator', 'mouse-ul pentru calculator', 'mouse-ul pentru calculator', 'mouse-ul pentru calculator', 'mouse cu cablu hp', 'mouse-ul pentru calculator', 'mouse-ul pentru calculator', 'şoarece HP', 'şoarece']	mouse
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['biroul', 'scaune', 'biroul', 'scaun de birou', 'scaun', 'scaun de birou', 'biroul de acasă', 'biroul', '2 scaune de birou', 'scaun']	un birou cu un scaun si un fax
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['Televiziune', 'televiziune', 'televiziune', 'monitor vechi de televizor', 'Televiziune', 'Televiziune', 'monitor', 'ecranul de televiziune', 'Televiziune', 'monitor']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are tricoul meu?\
+	['alb negru', 'albastru alb negru', 'negru', 'albastru', 'Marină', 'emblema alb-negru', 'alb negru', 'albastru', 'albastru', 'alb negru']	negru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['roşu', 'roşu', 'roşu', 'roşu', 'roz', 'roşu', 'roşu', 'roşu', 'roşu', 'roşu']	roșu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Sunt chips-uri obişnuite sau chips-uri cu sare şi oţet?\
+	['sare', 'obişnuit', 'obişnuit', 'chipsuri obișnuite', 'obişnuit', 'obişnuit', 'fără răspuns', 'fără răspuns', 'obişnuit', 'fără răspuns']	chips-uri obişnuite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de cutie e asta?\
+	['suc de portocale', 'suc de portocale', '- Nu !', 'suc de portocale', 'suc de portocale', 'suc de portocale', 'suc de portocale', 'portocaliu', 'suc de portocale', 'carton de hârtie cu suc de portocale']	suc de portocale
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi poţi spune ce e asta?\
+	['chipsuri', 'chipsuri', 'chipsuri', 'chipsuri de cartofi', 'chipsuri de cartofi', 'chipsuri de ceapă cu smântână', 'chipsuri', 'chipsuri de cartofi', 'chipsuri', 'chipsuri de cartofi']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în geanta asta ?\
+	['fără răspuns', 'legume congelate', 'legume', 'morcovi mazăre porumb fasole verzi', 'legume', 'porumb, porumb, porumb', 'legume amestecate', 'legume', 'legume amestecate', 'porumb morcovi fasole de sărbătoare mazăre']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce aromă de Spark e asta?\
+	['limonadă roz', 'limonadă roz', 'fără răspuns', 'limonadă roz', 'fără răspuns', 'limonadă roz', 'portocaliu', 'căpșuni', 'fără răspuns', 'limonadă roz']	un răspuns nu este inclus în text, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de lucru e asta?\
+	['Manwich', 'fără răspuns', 'fără răspuns', 'Manwich', 'Manwich', 'Manwich', 'roșii', 'Manwich', 'Manwich', 'Joe neglijent']	un lucru neclar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce anotimp e?\
+	['Spaghetti', 'Spaghetti', 'condimente pentru spaghetti', 'condimente pentru spaghetti', 'Spaghetti', 'condimente pentru spaghetti', 'condimente pentru spaghetti', 'Spaghetti', 'Spaghetti', 'condimente pentru spaghetti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['carte', 'Revista', 'Magazin vertical', 'Revista', 'Magazin vertical', 'Revista', 'Revista', 'revista Vertigo', 'Revista', 'Revista']	un semn de circulație
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest obiect?\
+	['perete', 'perete', 'perete', 'perete', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'perete', 'perete', 'perete']	un obiect neclar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['bomboane', 'bomboane de căpșuni', 'bomboane', 'bomboane de căpșuni', 'bomboane', 'bomboane de căpșuni', '- Nu !', 'bomboane de căpșuni', 'bomboane', 'bomboane de căpșuni']	un bomboane roșu în formă de căpșuni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare au pantofii ăştia?\
+	['maroniu', 'negru', 'maroniu', 'maroniu', 'maroniu', 'maroniu', 'maroniu', 'picior', 'maroniu', 'brun']	negru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['ecranul calculatorului', 'Pagina web', 'fără răspuns', 'fără răspuns', 'site-ul web', 'ecranul calculatorului', 'monitor de calculator', 'Articolul', 'Fişier pdf pentru vizwiz', 'vizwizpdf este neclar, dar se poate vedea secţiunea contribuitori']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu poza asta?\
+	['monitor', 'laptop', 'televiziune', 'calculator', 'laptop', 'televiziune', 'televizor cu ecran plat', 'ecranul laptopului', 'televiziune', 'fără răspuns']	un ecran de computer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['telefon mobil', 'telefon mobil', 'pager', 'fără răspuns', 'telefon', 'telefon mobil', 'telefon mobil blackberry', 'telefon mobil', 'telefon mobil', 'telefon mobil']	un telefon mobil roșu cu ecranul închis
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['frigider', 'fără răspuns', 'frigider', 'frigiderul dormitorului', 'frigider', 'frigider', 'frigider', 'frigider mini', 'frigider', 'frigider mini']	un frigider alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare de bijuterii ar trebui să port cu această îmbrăcăminte?\
+	['argint', 'argint', 'albă', 'aur', 'negru', 'argint', 'argint', 'argint', 'argint', 'argint']	alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['picior', 'blugi', 'coapsa', 'pantaloni picioare', 'canapea de braţ', 'pantaloni', 'perna', 'fără răspuns', 'picior pantaloni', 'picior']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['câine', 'fără răspuns', 'câine', 'câine', 'câine', 'câine', 'câine', 'câine', 'fără răspuns', 'câine pe podea']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['îndepărtat', 'îndepărtat', 'telecomandă', 'controler de televizor', 'telecomanda de la televizor', 'telecomandă', 'îndepărtat', 'îndepărtat', 'telecomandă', 'telecomandă']	un controler de la distanță alb negru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Sunt aceste banane verzi sau galbene?\
+	['verde ușor', 'galben', 'galben', 'galben', 'verde', 'galben', 'galben', 'galben', 'galben', 'galben']	galbene
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest produs?\
+	['cereale', 'kashi go crunch slab miere migdale inel', 'Kashi , du-te şi fă-ţi un pic de greutate .', 'Golean crunch kashi', 'cereale', 'Du-te cereale slabe .', 'Du-te slab crunch', 'kashi go crunch slab miere migdale inel', 'cereale', 'cereale']	cereal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pe ecranul televizorului în acest moment?\
+	['Nimic.', 'Nimic.', 'Nu e nimic .', 'Nimic.', 'Nimic.', 'Nimic.', 'Nimic.', 'Nimic.', 'fără răspuns', 'Nimic.']	un ecran negru
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['carne', 'friptură de carne de vită', 'carne de vită', 'friptură', 'carne', 'carne', 'fără răspuns', 'friptură de carne de vită', 'friptură', 'carne']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune mesajul ăsta?\
+	['fără răspuns', 'restabili complet', 'fără răspuns', 'restaurarea completă', 'restaurarea completă', 'fără răspuns', 'restaurarea completă', 'restaurarea completă', 'restaurarea completă', 'restaurarea completă']	restaurarea este completă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de mâncare e în conservă?\
+	['supă', 'supă de legume progresso', 'supă de legume de grădină', 'supă de legume', 'supă de legume de grădină', 'supă de legume de grădină', 'supă', 'supă de legume progresso', 'legume de grădină', 'supă de legume de grădină']	un fel de mâncare verdeață
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'poate', 'supă de mazăre', 'supă de mazăre', 'supă de mazăre', 'supă de mazăre', 'supă', 'poate împărţi supa de mazăre', 'supă de mazăre', 'supă']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E o canapea sau o masă?\
+	['tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'tabel', 'această masă']	masă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce mâncare e în conservă?\
+	['ravioane', 'ravioane', 'ravioane', 'porumb', 'ravioane', 'ravioane', 'ravioane', 'ravioane', 'Ravioli', 'ravioane']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pe ecran?\
+	['mesaj de eroare', 'pop-up-uri pentru pornire reparaţie computerul repornire', 'Reluare', 'caseta de dialog care spune sigur vrei să ieșiți de la repararea de pornire reinițiați computerul', 'reparaţie de pornire', 'instrucţiuni de actualizare a sistemului Windows', 'fără răspuns', 'reparaţie de pornire', 'Opţiunea de redeschidere a calculatorului', 'reparaţie de pornire']	un ecran de computer cu un mesaj de alertă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Hai să încercăm, îmi poţi spune ce e asta?\
+	['fasole', 'fasole la cuptor', 'fasole', 'fasole la cuptor', 'arbuști fasole la cuptor', 'poate', 'fasole din conserve', 'arbuști fasole la cuptor', 'fasole la cuptor', 'fasole']	un mesaj de familie pentru bush's baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce fel de telefon e ăsta?\
+	['G', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'android', 'lg', 'Da, este.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['smartphone', 'telefon mobil', 'telefon mobil', 'telefon', 'telefon mobil', 'telefon mobil', 'telefon mobil', 'smartphone', 'telefon', 'telefon']	un telefon mobil
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['laptop', 'mână', 'tastatură laptop', 'mână', 'degete', 'mână', 'fără răspuns', 'fără răspuns', 'biroul', 'mână']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Cabernet 2009', 'vin', 'vin', 'vin', 'Cabernet sauvignon', 'vin în sticlă', 'vin', 'vin', 'Vin de paradis pentru cai, Columbia Cabernet 2007', 'vin']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în sticlă?\
+	['coacăze', 'Poate Coca-Cola.', 'Soda', 'Coca-Cola și soda', 'Soda', 'Soda', 'coacăze', 'Soda', 'coacăze', 'Soda']	un răspuns nu este inclus în text, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are, te rog?\
+	['dungi alb-roșu', 'roşu', 'dungi albe roșii', 'dungi albe roșii', 'roşu alb', 'alb roşu', 'cămaşă', 'roşu alb', 'roşu alb', 'roşu alb']	roșu alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în geanta asta?\
+	['brokoli', 'brokoli', 'brokoli', 'brokoli', 'brokoli', 'dar broccoli', 'brokoli', 'broccoli tăiate', 'cu abur, serviţi broccoli tăiate', 'brokoli']	brocoli feliat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Pentru ce e cupoanele alea?\
+	['iogurt', 'iogurt', 'iaurt de tip yoplait', 'Iaurt de yiplait 10$', 'Yoplait', 'Iaurt de yiplait 10$', 'iaurt de tip yoplait', 'iogurt', 'reducere', 'iogurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de pop este asta?\
+	['Neastă', 'ceai rece în conservă', 'Lămâie', 'Lămâie', 'Neastă', 'Neastă', 'Neastă', 'Neastă', 'Fiesta', 'Neastă']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['iPad', 'tablete', 'calculator', 'iPad', 'pad-ul pentru mouse', 'laptop', 'fereastră', 'tablete', 'fără răspuns', 'iPad']	tablet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pe ecran?\
+	['Vrei să-ţi restauri comp utilizând sistemul de restaurare pop-up', 'mesaj de eroare', 'Vrei să-ţi restauri computerul folosind sistemul de restaurare', 'pornire', 'ecranul de diagnosticare cu rambursare de pornire', 'Sistemele restabilirea întrebarea: doriți să utilizați pentru a restabili computerul', 'reparaţie de pornire', 'reparaţie de pornire', 'Întrebare pentru a restabili calculatorul', 'Vrei să-ţi restauri computerul folosind sistemul de restaurare']	pop up pentru a restabili computerul cu sistemul
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Şi vă mulţumesc mult pentru timpul acordat.\
+	['spirite', 'spirite', 'spirite', 'spirite', 'spirite', 'spirite', 'spirite', 'spirite', 'spirite', 'spirite']	un răspuns este necunoscut
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie pe ecran?\
+	['Vrei să-ţi restauri computerul folosind sistemul CD?', 'să restabilească', 'Vrei să-ţi restauri computerul folosind sistemul', 'computerul nu a putut să pornească start reparare verificarea sistemului pentru probleme', 'Vrei să-ţi restauri computerul folosind sistemul', 'reparaţie de pornire', 'computerul nu poate fi pornit', 'computerul nu a putut să pornească start repararea verificarea sistemului pentru probleme', 'computerul nu poate fi pornit', 'să restabilească']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în această cutie\
+	['legume', 'Wrgrweg', 'legume amestecate', 'Veggie originală', 'legume amestecate', 'legume', 'Vegall', 'legume', 'legume', 'legume amestecate']	un fel de legume
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce vezi pe poză ? Ce vezi pe poză ?\
+	['Nimic.', 'cerul', 'chiuveta', 'cerul', 'fără răspuns', 'cerul', 'Nimic.', 'fără răspuns', 'fără răspuns', 'cerul']	un image blank
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de suc?\
+	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola 0', 'Coca-Cola 0', 'coc 0', 'Coca-Cola 0', 'Coca-Cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de sistem e ăsta?\
+	['desktop', 'fără răspuns', 'ferestre', 'calculator de pe desktop', 'ferestre', 'ferestre', 'ferestre', 'Windows PC', 'ferestre', 'ferestre']	un sistem de operare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este? Ce este?\
+	['vorbitor', 'vorbitori', 'podea', 'vorbitori', 'sistem de difuzoare', 'vorbitor', 'vorbitor', 'vorbitor', 'vorbitor', 'vorbitori']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Monitorizează lumina pe laptop?\
+	['Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'nu', 'Da, este.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui ce scrie în sticlă?\
+	['Cremă de corp cu zahăr cald de vanilie', 'zahăr de vanilie cald', 'zahăr de vanilie cald', 'zahăr de vanilie cald', 'Cremă de corp cu zahăr cald de vanilie', 'zahăr de vanilie cald', 'Loțiune cu zahăr de vanilie caldă', 'zahăr de vanilie cald', 'Cremă de corp cu zahăr cald de vanilie', 'zahăr cald, vanilie']	lotion pentru corp
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune numărul 1-800 de pe acest card, şi sunteţi capabil să auziţi această întrebare?\
+	['1 800 735 2929 nu aud q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677', '18773289677', '1 877 328 9677', '8007352929']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Luminile din cameră sunt aprinse sau stinse?\
+	['lumini stinse', 'încet', 'pe', 'încet', 'pe', 'fără răspuns', 'pe', 'pe', 'pe', 'pe']	stinse
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce aromă are asta?\
+	['cereza', 'limonadă roz', 'punch de fructe', 'limonadă roz', 'limonadă roz', 'fără răspuns', 'fără răspuns', 'limonadă roz', 'cereza', 'limonadă roz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune mesajul ăsta?\
+	['restaurarea completă', 'fără răspuns', 'restaurarea cu succes completă', 'restaurarea completă', 'restaurarea completă', 'restaurarea completă', 'restaurarea completă', 'înregistrarea completă', 'restaurarea completă', 'restaurarea completă']	restaurarea este completă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are cămaşa mea?\
+	['albă', 'albă', 'albă', 'albă', 'albă', 'albă', 'albă', 'albă', 'albă', 'albă']	alb
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['şampon pentru terapie prin culoare avansată', 'şampon', 'şampon pentru terapie prin culoare avansată', 'şampon', 'şampon pentru terapie color', 'şampon', 'Terapie prin culoare', 'şampon', 'Terapia avansată a culorilor', 'Terapie prin culoare']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['conserve', 'hrană pentru pisici', 'fără răspuns', 'chiuveta', 'poate', 'chiuveta', 'spălarea', 'chiuveta', 'chiuveta', 'poate']	un răspuns nu este inclus în textul furnizat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce joc video e ăsta?\
+	['Spn nfl 2k', 'fotbal', 'Nfl 2k', 'Spn nfl 2k5', 'Spn 2k5', 'fotbalul spn 2k', 'Nfl 2k', 'fotbal', 'Nfl 2k', 'fotbal']	un joc video nfl 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['Pânini', 'Pânini', 'Păstă de curcan afumat', 'Păstă de curcan afumat', 'Păstă de curcan afumat', 'Stuffer, panini de curcan afumat.', 'Păneci de curcan', 'fără răspuns', 'Păstă de curcan afumat', 'Păstă de curcan afumat']	un sandviș cu pui afumat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în cutia asta?\
+	['lasagne', 'cină congelată', 'lasagne speciale', 'lasagne speciale', 'lasagne', 'lasagne speciale', 'lasagne', 'lasagne', 'lasagne', 'lasagne']	un fel de mâncare
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest obiect?\
+	['Natura vale de ovăz ciocolată neagră granola bar', 'bară de crunch', 'bară de granole', 'bară de granole', 'bară de granole', 'bară de granole', 'Orez de natură din vale n bar de ciocolată neagră', 'Ovăz n ciocolată neagră, bară crocantă', 'bară de granola cu ciocolată neagră', 'bară de granole']	un baton de ciocolata neagra si cereale
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['jocuri video', 'joc pentru PlayStation 2', 'PlayStation 2 Star Wars Battlefront joc', 'joacă jocul Star Wars', 'jocuri video', 'jocuri video', 'Star Wars Battlefront 2', 'joc', 'joc pentru PlayStation 2', 'Joc psi']	un joc video pentru playstation 2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de prieten de cafea e asta?\
+	['Vanilă franceză', 'Vanilă franceză', 'Vanilă franceză', 'năstase', 'vanilă', 'Vanilă franceză', 'cafeaua mate', 'Vanilă franceză', 'Vanilă franceză', 'Vanilă franceză']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['suc de portocale', 'suc de fructe', 'suc de fructe', 'suc de portocale', 'suc de fructe', 'dulce, suculent', 'netedă şi suculentă', 'suc de fructe', 'suc de portocale', 'suc de fructe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare au pietrele din cercelul ăsta?\
+	['roz', 'roșu', 'roşu', 'roz', 'purpuriu', 'roz', 'roz', 'roz', 'roz', 'roz']	roz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie pe eticheta acestui dispozitiv electronic?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune exact acest ecran, dacă puteţi citi asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu pot citi ecranul', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Nu pot citi .', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în sticlă asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'loţiune', 'vitamine', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Nu sunt sigură.', 'fără răspuns']	un răspuns nu este inclus în text, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce aromă are bara asta de energie?\
+	['căpșuni', 'Crunch de boabe de migdale', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Crunch de mere', 'fără răspuns', 'fără răspuns', 'Crunch de boabe de migdale']	demurrer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Atenţie !', 'n', 'fără răspuns', 'fără răspuns', 'ştiri', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de masă e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Încerc să-mi dau seama ce fel de radio este, deci orice informaţie ca să pot să-mi iau unul, ar fi grozav, mulţumesc.\
+	['Nu ştiu.', 'fără răspuns', 'fără răspuns', 'posibil de la IP9 speaker dock acasă', 'fără răspuns', 'şuncă', 'fără răspuns', 'portabile', 'fără răspuns', 'fără răspuns']	un radio portabil
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Nu ştiu cum să... n-am mai făcut niciodată o poză cu aşa ceva.\
+	['Mişcă-te puţin mai departe ca să se concentreze camera.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care dintre acestea este cel mai bun film?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'simplu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['acest tobogan', 'roz', 'fără răspuns', 'purpuriu', 'fără răspuns', 'fără răspuns', 'strălucire', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum se numeşte loţiunea asta?\
+	['fără răspuns', 'noxema', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Când expiră?\
+	['9.27.13', 'fără răspuns', 'fără răspuns', '23 septembrie 2013', '23 septembrie 2013', 'fără răspuns', 'fără răspuns', 'fără răspuns', '23 septembrie 2013', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cât timp să gătesc asta?\
+	['fără răspuns', 'fără răspuns', '5 minute.', 'fără răspuns', 'fără răspuns', '5 minute.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	5 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['Piele de la clădire', 'colţ', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'telefon', 'fără răspuns', 'fără răspuns']	un răspuns este necesar pentru această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este acest cântec?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Bug în fotografie', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'cuibăru']	insecte
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune sub ferestre nu poate repara acest sistem automat?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'reparaţia de pornire nu poate repara acest computer automat', 'fără răspuns', 'pornire', 'reparaţia de pornire nu poate repara acest computer automat', 'fără răspuns']	nu răspunde
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cât sodiu e în pachetul ăsta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Samoa', 'fără răspuns', 'fără răspuns']	un răspuns nu este inclus în această imagine, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Pe ecran scrie că se restabileşte?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce cortină?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'continuă să studiezi', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum se numeşte această mediere?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', '0', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['roşu alb', 'fără răspuns', 'albă', 'albă', 'fără răspuns', 'roşu alb', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Te rog să-mi explici ce scrie pe eticheta routerului meu.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un nume
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care e data expirării acestui bilet de autobuz?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Spune-mi.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', '- Nu !', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune asta, ce spune asta\
+	['fără răspuns', 'fără răspuns', 'rânduri coloane numere neclară', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Ce oră e? - Nu ştiu.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Flash pe camera de filmare ceasul nu poate citi', 'nu este vizibil', 'fără răspuns', 'fără răspuns', 'Nu pot să-ţi spun.', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune instrucţiunile de utilizare pentru acest şampon?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'ETF-uri', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	nu pot
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Trebuie să apăs un buton ca să reia sau să aştept?\
+	['sistemul de reîncepere', 'fără răspuns', 'Da, este.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'nu', 'Stai puţin.', 'Puneti-l in']	reia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Dacă în această imagine este prezentată cartea, ce spune?\
+	['fără răspuns', 'nu este prezentată', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Nu sunt cuvinte.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Testul?\
+	['fără răspuns', 'fără răspuns', 'îndepărtat', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Remote cu sunet de înconjurare', 'Întrebarea nu se aplică imaginii']	un răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Un adevărat joc de cuvinte.\
+	['fără răspuns', 'Necunoscut', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Am de-a face cu un captcha dar nu pot vedea ecranul şi am nevoie de el pentru a solicita ceva de pe un site.\
+	['nu 1', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'nu', 'nu']	un răspuns nu este furnizat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ştiu că scrie Zece Porunci, dar care sunt Zece Porunci?\
+	['să stabilească regulile date de Dumnezeu credincioşilor săi', 'fără răspuns', 'fără răspuns', 'reguli morale', 'fără răspuns', 'poruncile zeilor', 'fără răspuns', 'fără răspuns', 'legi', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune ecranul calculatorului meu?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'prea neclară', 'ecranul gol']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de formule pentru copii e asta?\
+	['fără răspuns', 'fără răspuns', 'Nu văd lapte de pui .', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns nu este prezentat în imagine, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce medicament e ăsta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce carte e asta?\
+	['fără răspuns', 'card de credit roşu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'card de credit', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie pe acest card?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'numai 1 6 12 vizibil', 'fără răspuns', 'Nimic.', 'fără răspuns', '1 6 12', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['săpun', 'produs', 'fără răspuns', 'lapte', 'fără răspuns', 'fără răspuns', 'picături pentru ochi', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns nu este inclus în textul furnizat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de carne e asta?\
+	['conexiuni de priză', 'Ds', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'carne de vită', 'fără răspuns', 'carne de vită', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Pentru ce e cartea asta de cadouri?\
+	['fără răspuns', 'fără răspuns', 'Imagem de necontestat', 'fără răspuns', 'Nu pot să-ţi spun.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	nu pot vedea imaginea de sus, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de conserve e asta?\
+	['Lime', 'fără răspuns', 'Lime', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Lime', 'fără răspuns', 'Lime']	limes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Ce oră e? - Nu ştiu.\
+	['fără răspuns', '532', 'fără răspuns', 'fără răspuns', 'La ora 5:13', 'La ora 5:13', 'fără răspuns', 'La ora 5:10', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce produs e în această cutie?\
+	['Nu pot să-ţi spun.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un produs neclar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce temperatură are cuptorul şi cât timp şi dacă trebuie să sparg capacul?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'Asda', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Furnitură pare gata?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu cuptor', 'fără răspuns', 'fără răspuns', 'Da , cred că sunt gata .', 'nu', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. A ajutat asta?\
+	['fără răspuns', 'fără răspuns', 'nu', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este codul care trebuie să fie scris?\
+	['fără răspuns', 'e-mail', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns este necesar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de tricou port?\
+	['fără răspuns', 'mătase', 'fără răspuns', 'fără răspuns', 'albă', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un tricou
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Ce fel de cină îngheţată e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'imaginea este goală', 'Nimic.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns este nu este prezentat în imagine.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce marcă e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'Sanyo', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este setarea temperaturii cuptorului?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'Gfdsg', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	400
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui ce e în sticlă?\
+	['sos de roșii', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'sos de paste', 'fără răspuns', 'fără răspuns', 'sos de roșii', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['fără răspuns', 'Azitromicină comprimate 250 mg', 'tablete', 'fără răspuns', 'fără răspuns', '250 mg', 'tablete de azitromicină', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să citeşti aceste cuvinte, te rog?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'Nici un cuvânt .']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E Valium?\
+	['nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'nu poate citi numele medicamentului']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce cântec e ăsta?\
+	['fără răspuns', 'fără răspuns', 'muzică de notă', 'fără răspuns', 'album', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'jingle jingle', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Da, acesta este un laptop HP, trebuie să ştiu unde se află cititorul de cărţi în raport cu tastatura.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'pe partea', 'fără răspuns', 'Nu pot vedea cititorul de carduri SD cititorul de carduri de obicei pe colţul stâng de la marginea din faţă', 'fără răspuns', 'fără răspuns', 'fără răspuns']	deasupra tastaturii
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum se numeşte parfumul?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Nu are nume.', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de memorie RAM este asta?\
+	['fără răspuns', 'Cn o444', 'fără răspuns', 'fără răspuns', 'DDR sdram pc3200', 'Nu ştiu.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Înţeleg asta, dar spatele camionului alb arată dărâmat?\
+	['fără răspuns', 'nu', 'Imaginea din faţă nu vede nimic neobişnuit.', 'nu', 'fără răspuns', 'fără răspuns', 'n0', 'fără răspuns', 'nu', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de supă e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'pui', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce se vede pe ecranul laptopului?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta, te rog?\
+	['fără răspuns', 'supă', 'supă', 'supă de conserve', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'supă', 'fără răspuns']	un răspuns este necesar pentru a răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['covor', 'Pânătușe de hârtie', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Pânătură de hârtie', 'fără răspuns', 'fără răspuns']	nu pot vedea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce aromă au astea?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'obişnuit', 'originală', 'fără răspuns', 'Întoarce-te !', 'brânză', 'pictor']	un răspuns este necesar pentru această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care dintre cele trei imagini este logo-ul Google?\
+	['fără răspuns', '0', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Prima imagine', 'stânga']	al treilea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta ?\
+	['fără răspuns', 'nesigură', 'neclară', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'etichetă', 'fără răspuns']	nu pot vedea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Lipseşte vreo piatră?\
+	['fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'calitate insuficientă a imaginii', 'fără răspuns', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vreau să ştiu ce brand de parfum e ăsta.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care e data de expirare a brânzei?\
+	['nu', 'necitit', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce temperatură este termostatul setat?\
+	['fără răspuns', 'fără răspuns', '75', 'fără răspuns', '75', 'fără răspuns', '75', '75', 'fără răspuns', 'nu este vizibil']	un răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are tricoul ăsta?\
+	['fără răspuns', 'fără răspuns', 'negru', 'fără răspuns', 'negru', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'negru', 'fără răspuns']	un răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie pe afiş?\
+	['Mesajul de eroare de redeschidere', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'sys', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de suc e asta, te rog?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Nu sunt sigură.', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este? Ce este?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'părul', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns nu este prezentat în imagine.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Te rog spune-mi ce spune asta.\
+	['fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'cutie', 'fără răspuns', 'cutie mică', 'fără răspuns']	un carton
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. La ce temperatură e setat termostatul?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Nu pot citi .', 'fără răspuns', 'fără răspuns']	un răspuns nu este furnizat în această imagine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu sticla asta?\
+	['fără răspuns', 'fără răspuns', 'Nu ştiu.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Pot să iau toate personajele din asta?\
+	['Arobergy Chavez', 'fără răspuns', 'Da, este.', 'Da, este.', 'fără răspuns', 'Arobergy Chavez', 'fără răspuns', 'nu', 'fără răspuns', 'Da, este.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cheia produsului pentru această versiune oprită\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Haide, am să-mi iau chestia cu aşteptarea.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'pantofi', 'fără răspuns', 'pantofi', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un pereche pantofi maro
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Şi, care e temperatura în Dallas, Texas?\
+	['3:40 54', 'fără răspuns', 'fără răspuns', 'fără răspuns', '9:17 pm 96 de grade', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Ce mai faci? - Bine.\
+	['fără răspuns', '- Bine .', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', '- Bine .', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['fără răspuns', 'nesigură', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'log pe ecran', 'calculator', 'fără răspuns', 'filmare']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta, te rog?\
+	['sticlă cu acoperire din pânză', 'fără răspuns', 'pătura', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns este neclar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce marcă e asta?\
+	['fără răspuns', 'fără răspuns', 'seiko', 'fără răspuns', 'neclară', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'să priveşti', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce site e ăsta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Site despre iPhone în achiziții de aplicații']	un site de cumpărături online
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de supă de spălat e asta?\
+	['fără răspuns', 'Soare', 'fără răspuns', 'fără răspuns', 'suavetel', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în borcanul ăsta?\
+	['Nimic.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'supă', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'alimente', 'fără răspuns']	un răspuns nu este inclus în text, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Pentru ce e chitanţa asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este corect că am o mână\
+	['card de vizită', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'Crăciun fericit !', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce pot face o poză?\
+	['ceas pe foaie', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'să priveşti', 'Mickey mouse ceas de buzunar', 'Acest ceas de buzunar au telefoane']	un ceas de buzunar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune ecranul?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Termenii de licență Windows', 'termeni parţial off-screen', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Da, dar o voi îndoi.\
+	['fără răspuns', 'pliu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'mână', 'cutie']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce culoare are?\
+	['alb gri', 'purpuriu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'roşu alb', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este? Ce este?\
+	['fără răspuns', 'fără răspuns', 'bucătărie', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Fotografia omului la birou pe calculator', 'Văd camera de zi în poză.', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum te cheamă?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'euforie', 'euforie', 'eufonie', 'fără răspuns', 'fără răspuns']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este? Ce este?\
+	['fără răspuns', 'lumină', 'fără răspuns', 'fără răspuns', 'lumină', 'lumină neclară', 'fără răspuns', 'nu este clar', 'fără răspuns', 'fără răspuns']	un răspuns nu este oferit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vă rog să citiţi textul de pe această casetă care este o altă casetă.\
+	['wd', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E greu de spus, caut un număr de identificare de opt cifre.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'Nu văd nimic. Îmi pare rău.', 'fără răspuns', 'în gol', 'Nu pot să văd aşa ceva.', 'fără răspuns', '0', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Spiker: Îmi puteţi spune titlul acestei cărţi?\
+	['fără răspuns', 'materiale armonice în muzica tonală', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['- Debi', 'Nimic.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'pachet de ținut în mână']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce spune ecranul?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cândva, ştii.\
+	['Nu înţeleg.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune care e întrebarea de securitate sau care sunt numerele de securitate şi litera, ca să pot adăuga asta în câmpul meu de editare?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce denominaţie are bancnota asta de un dolar?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'imaginea inutilizabilă', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e pus pe?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'numărător', 'numărător', 'bucătărie', 'suprafața de masă']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E o muşcătură de şarpe?\
+	['fără răspuns', 'Poate', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'Poate că...', 'Poate că...', 'nu', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui în detaliu ce e pe ecranul computerului?\
+	['fără răspuns', 'fără răspuns', 'Computerul nu poate începe mesajul', 'fără răspuns', 'computerul nu a putut să pornească', 'fără răspuns', 'computerul nu a putut începe reparaţia de pornire verificarea sistemului pentru probleme', 'pornire', 'fără răspuns', 'caseta de dialog necunoscută']	un mesaj de pe ecranul computerului
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce caractere sunt în captcha?\
+	['fără răspuns', '- Nu.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'cutie neagră']	Caractere care nu sunt în captcha nu pot fi văzute în imagine.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ştii să găteşti astea?\
+	['fără răspuns', 'nu', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'Da, este.', 'fără răspuns', 'fără răspuns', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'ecranul calculatorului', 'fără răspuns', 'fără răspuns']	un răspuns nu este prezentat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cât timp să gătesc asta în cuptorul cu microunde?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', '8 minute.', 'fără răspuns', 'fără răspuns']	8 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cum găteşti asta?\
+	['cuptor', 'fără răspuns', 'să găteşti', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns este necesar pentru a răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce zici de firma de semnături?\
+	['fără răspuns', 'fără răspuns', 'politică', 'Omul', 'fără răspuns', 'Nu ştiu.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Omul albastru în clădire']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Te rog spune-mi instrucţiunile de pe sticla asta de şampon.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'se adaugă la păr umed spuma clătiți, se repetă dacă doriți']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e cu poza asta?\
+	['plafon', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Asta e?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'telefon', 'fără răspuns', 'Un bărbat vorbeşte la telefon.', 'fără răspuns', 'persoana', 'fără răspuns', 'fără răspuns']	Imaginea nu este clara.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e în conservă?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fasole', 'fără răspuns', 'fără răspuns', 'imaginea asta este neclară.', 'fără răspuns']	un răspuns nu este inclus în text, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce culoare are tricoul meu?\
+	['nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este? Ce este?\
+	['fără răspuns', 'sârmă', 'fără răspuns', 'jucărie de câine din cauciuc negru', 'planta', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns nu este inclus în textul furnizat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Când expiră?\
+	['nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu este în fotografie', 'fără răspuns', 'fără răspuns', 'fără răspuns', '2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este această carte?\
+	['fără răspuns', 'fără răspuns', 'Nu există card', 'fără răspuns', 'fără răspuns', 'negru', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Despre ce e filmul ăsta?\
+	['fără răspuns', 'în gol', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un film neclar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'Armele de piele', 'câine', 'poşetă', 'fără răspuns', 'Armele pentru câini', 'animal']	un răspuns nu este inclus în textul furnizat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care sunt instrucţiunile de gătit pentru astea?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce fel de urmărire este asta?\
+	['fără răspuns', 'creion', 'modelul frunzelor', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'frunze', 'fără răspuns', 'buruieni']	un răspuns nu este necesar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Bună, îmi puteţi spune ce e în cutie în mâna mea dreaptă?\
+	['fără răspuns', 'Un fel de carne , dar eticheta nu e în întregime în imagine .', 'alimente conservate', 'fără răspuns', 'Fierte de carne de vită', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un fel de carne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui de la cine e asta?\
+	['nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'scrisoare de la poştă', 'În plicul din spate nu scrie nimic.', 'fără răspuns']	un plic
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce aromă are asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'Newman amestec special', 'amestecul special al lui Nemans', 'cafea', \"Newman's special blend\", 'fără răspuns', 'Newman propriu', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este tensiunea mea?\
+	['fără răspuns', 'fără răspuns', '105', 'fără răspuns', 'fără răspuns', 'fără răspuns', '109 peste', 'fără răspuns', 'fără răspuns', 'nu pot citi imaginea tăiată']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Am numit ce este aroma \
+	['Lămâie', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns nu este furnizat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui ce scrie în cutie ca să-mi dau seama ce e în ea?\
+	['fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un nume de produs
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Numărul textului subliniat.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns este necesar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ar trebui să scrie pe spatele cărţii ce fel de baghetă e, din ce este făcută şi aşa mai departe.\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'ceva lemn 14', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un răspuns nu este furnizat în această imagine, prin urmare nu pot răspunde la această întrebare.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cred că am apăsat pe butonul OK?\
+	['Acum apăsaţi Enter.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta? Ce e asta?\
+	['fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fulger', 'fără răspuns']	un răspuns este necesar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce temperatură?\
+	['fără răspuns', '57', 'douăzeci', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', '20', '20.7c', 'fără răspuns']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce e asta?\
+	['fără răspuns', 'Semnul de bun venit', 'Placă de bun venit', 'fără răspuns', 'Semnul de bun venit', 'Semnul de bun venit', 'fără răspuns', 'Banner de bun venit', 'fără răspuns', 'fără răspuns']	un răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce faţă e asta?\
+	['Nu are faţă.', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', '0', 'fără răspuns', 'fără răspuns']	nu pot vedea imaginea.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care sunt numerele de pe cheia produsului?\
+	['fără răspuns', 'necitit', 'fără răspuns', 'fără răspuns', 'necitit', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care e numărul clădirii pe care tocmai am fotografiat-o?\
+	['3 .', 'fără răspuns', 'fără răspuns', 'fără răspuns', '3 .', 'fără răspuns', '9 .', 'fără răspuns', 'fără răspuns', '3 .']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vă rog să-mi spuneţi ce e în pachet.\
+	['fără răspuns', 'Salata de recoltă', 'fără răspuns', 'sfeclă', 'bomboane', 'fructe de pădure', 'greu de spus poate un fel de nuci', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un pachet roșu de alimente cu etichetă albă
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Ecranele de pe desktop apar?\
+	['sdfgh', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să citeşti asta?\
+	['Da, este.', 'fără răspuns', 'Da, este.', 'Memorandum de informații privind importul pentru exprimatori', 'nu', 'informaţii importante', 'unele', 'bună', 'nu', 'fără răspuns']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vă daţi seama uitându-vă la asta, la etichetă, ce este, cred că e o piesă, un DVD în poştă.\
+	['Da, este.', 'Da, DVD', 'nu', 'DVD', 'DVD', 'fără răspuns', 'Eticheta nu este clară, dar cd.', 'Da, este.', 'fără răspuns', 'nu']	un dvd
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Camera mea e obscurată?\
+	['Da, este.', 'Da, este.', 'Da, este.', 'rt', 'Da, este.', 'nu', 'Da, este.', 'nu', 'Da, este.', 'Da, este.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E carne de pui?\
+	['fără răspuns', 'nu', 'Da, este.', 'Probabil nu pot vedea toate etichetele', 'Da, este.', 'fără răspuns', 'Da, este.', 'Da, este.', 'fără răspuns', 'Da, este.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Asta e artă?\
+	['Da, este.', 'articole din folie de aluminiu', 'Da, este.', 'Da, este.', 'Da, este.', 'fără răspuns', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.']	art
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Bună, voiam să confirm că sunt chiar cotlete de porc, orice altă informaţie clară ar fi apreciată.\
+	['Da, este.', 'Da, este.', 'Da , cotlete de porc cu semnătura Kirkland .', 'Da, porc-coate', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, cotlete de coapse', 'Da, este.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Norii arată ca nori de furtună? Ceea ce spun este că se pare că aici va ploua sau va furtuni?\
+	['Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'nu', 'nu', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Faţa lui Buddy arată drăguţă sau nu?\
+	['Da, este.', 'Da, este.', 'drăguţ.', 'Da, este.', 'Da, este.', 'nu', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.']	nu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Dialogul e acolo acum?\
+	['nu', 'Da, este.', 'Da, este.', 'fără răspuns', 'nu', 'nu', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Mai am toate degetele de la picioare?\
+	['Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.', 'Da, este.']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Puteţi vedea o sticlă în această imagine şi dacă da, ce este?\
+	['fără răspuns', 'nu', 'nu', 'nu', 'nu', 'fără sticlă', 'nu', 'nu', 'nu', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Este vreun text pe această parte a hârtiei, vă rog?\
+	['nu', 'nu', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'nu', 'fără răspuns', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E un fax, o cutie?\
+	['fără răspuns', 'nu', 'nu', 'nu', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'nu', 'nu', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Este o bucată de piept în această poză?\
+	['nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E vreo piesă de şah aici?\
+	['nu', 'Da, este.', 'nu', 'numai bord', 'nu', 'nu', 'Da, este.', 'nu', 'nu', 'nu']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cauciucurile astea se potrivesc?\
+	['nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E un ziar?\
+	['nu', 'nu', 'nu', 'nu', 'nu', 'fără răspuns', 'nu', 'nu', 'fără răspuns', 'nu']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. E un laptop?\
+	['nu', 'nu', 'nu', 'nu', '0 pe care le-am văzut vreodată înainte', 'nu', 'nu', 'nu', 'nu', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi citi totul de pe ecranul televizorului meu?\
+	['nu', 'nu', 'Da, este.', 'nu', 'fără răspuns', 'nu', 'Capacitatea de utilizare a DVR-ului DVR-ul dvs. este plin 89%', 'Da, este.', 'nu', 'nu']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vezi parfumul de pe sticla asta de Freebeze?\
+	['nu', 'nu', 'nu', 'nu', 'Nu văd eticheta.', 'nu', 'nu', 'nu', 'nu', 'nu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ecranele sunt aprinse?\
+	['nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu', 'nu']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce animal este pe ecranul computerului?\
+	['nu există animale', '0', '0', '0', '0', 'nu există animale pe ecran', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'fără răspuns']	un animal nu este pe ecranul computerului.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Încerc să iau un număr de pe acest card şi mă întrebam dacă ai putea să-mi citeşti.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Vă rog citiţi numărătorul.\
+	['261627,2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	02616272
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. La ce temperatură este setat termostatul?\
+	['72', '72', '72', '72 de grade.', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce buton este Mountain Dew?\
+	['5 .', '6 de sus', 'Al şaselea buton', '6 1 jos', '5 .', '6 .', 'fără răspuns', 'fără răspuns', 'fără răspuns', '5 .']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cred că e stejar argintiu.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	stejar argintiu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este puterea de pe această sursă de alimentare cu energie\
+	['350', 'fără răspuns', '350', '350w max.', 'fără răspuns', '350', '350', 'fără răspuns', 'înălţime', '350w max.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie acolo?\
+	['77 de grade.', '77', '77', '77', '77 de grade.', '77', '77', '77', '77', '77']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Poţi să-mi spui de la ce medalion e?\
+	['47', '47', '47', '47-a', 'are numărul 47', '47', '47', 'fără răspuns', '47', 'nu']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cât costă asta?\
+	['5 .', '5 .', '5 .', '5 .', '5 .', '5 dolari.', '5 .', '5 dolari din Singapore', '5 .', '5 dolari.']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce indică cadranul ca număr în fața de sus?\
+	['400', '550', '500 de lei', '475', '475', '475', '475', '500 de lei', '550', '500 de lei']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce denominaţie are bancnota asta?\
+	['20', 'Rgreg', '20', '20', 'fără răspuns', 'fără răspuns', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este afişat în acest moment pe ecran?\
+	['452940', '452940', '\"Victorie\"', 'numere', 'radio', '452940', 'radio-talkie', '452940', 'fără răspuns', '452940']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Cât este 465 minus 55?\
+	['410', '410', '410', 'fără răspuns', '410', 'fără răspuns', '410', '410', '410', '410']	30
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care e al cincilea număr?\
+	['8 .', '8 .', '8 .', '8 .', '8 .', '8 .', '8 .', '8 .', '8 .', '8 .']	8
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce este această factură?\
+	['2 .', '2 .', '2 .', '2 .', '2 dolari', 'bani', '2 .', '2 .', 'fără răspuns', '2 .']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Câte calorii într-o porţie de Cheerios?\
+	['110', 'imaginea plurry', '104', '110', '100 de', 'fără răspuns', '10', 'fără răspuns', 'fără răspuns', 'fără răspuns']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. La ce temperatură este setat cuptorul?\
+	['buton de cuptor', 'temperatura cuptorului 400', '425', '450', '400', '425', '425', '400', '425', '400']	300
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este temperatura termostatului?\
+	['78', '78', '78 de grade.', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Câţi bani sunt ăştia?\
+	['20 de dolari canadieni', '20', '20', '20', '20 de euro', '20', '20 de dolari canadieni', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. La ce temperatură e stabilită?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care e temperatura pe acest termostat?\
+	['50 de', '50 de', '55', '64 de grade.', '55', 'fără răspuns', 'fără răspuns', '54', 'fără răspuns', '56']	55
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce denominaţie e asta?\
+	['5 .', '5 .', '5 .', '5 .', 'Canada', '5 .', '5 .', 'oua', '5 .', '5 .']	5 dolari canadieni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Spune-mi valoarea acestei cărţi.\
+	['6 diamante', '9 diamante', '6 diamante', '6 .', '6 .', '6 .', '6 .', '6 .', '6 .', '6 .']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-ţi dai seama cât de mult cântăresc?\
+	['210', '200 de dolari', 'Da, 200 de dolari.', '198', '200 de dolari', '200 de dolari', '200 de dolari', '250 de lei', '200 de dolari', '200 de dolari']	100 kg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Bună, încerc din nou.\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune ce temperatură e stabilită pe OK ?\
+	['78', '78', '78', '78', '78', '78', '78 de grade.', '78 de grade.', '78 de grade Fahrenheit', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Câte porţii sunt în barul ăsta de bomboane?\
+	['fără răspuns', '2 .', '4 .', 'fără răspuns', '4 .', '4 ceşti cu unt de arahide', '2 .', '2 .', 'fără răspuns', 'fără răspuns']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Câte calorii sunt într-o porţie?\
+	['120', '120', '120 sec 220 preparat dacă preparat 1 1 4 cani lapte fără grăsimi', '120', '120', '120', '120', '120', '220', '120 cereale uscate 220 lapte']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Pentru că caut o bancă de 20 de dolari şi cred că e o bancă de 10 de dolari, dar nu pot să-mi dau seama.\
+	['10 euro', '10', '10', 'fără răspuns', '10', '10', '10 de pe tricoul roşu alb', '10', '10', '10']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - E o bandă cu două linii roz?\
+	['biue', '1', '1 linie', '1 linie neagră', '1', '1', '1', '1', '1', '1']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Îmi puteţi spune care e numărul, mulţumesc?\
+	['3248849064', '3248849084', 'fără răspuns', '3248849084', 'fără răspuns', 'fără răspuns', '3248849084', 'fără răspuns', 'fără răspuns', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Poţi să-mi spui cât cântăresc, te rog?\
+	['1', '1', 'fără răspuns', '1', '1', 'fără răspuns', 'fără răspuns', 'fără răspuns', 'scară în gol', '1']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este setarea actuala a temperaturii pe acest termostat?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'termostat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Este o bancnotă de 5 sau 10 dolari canadieni?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 canadiene']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. - Care e identificatorul apelantului?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'fără răspuns', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186 08/07 23:39
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Care este numărul de cinci cifre?\
+	['23442', '23442', '23442', 'fără răspuns', 'fără răspuns', 'Vezi doar 2 cifre 69', '23442', 'fără răspuns', 'fără răspuns', '23442']	43442
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Câte uncii e asta?\
+	['23,2%', '20', '20', '24', 'fără răspuns', 'fără răspuns', 'fără răspuns', '33', 'fără răspuns', 'Gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce arată temperatura pe acest termometru?\
+	['72', '72', '72', '72', '72', '72', '72', '72 de grade.', '72', '72 de grade.']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce pagina este asta?\
+	['2 .', '2 .', '2 .', '2 .', '2 .', '2 .', '2 .', 'fără răspuns', '2 .', '2 .']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie pe afiş?\
+	['8888', 'fără răspuns', 'Nimic.', '8888', 'fără răspuns', 'fără răspuns', '8888', '888', 'Nimic.', 'în gol']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce număr de pagină este afişat?\
+	['123', '121', '121', '121', 'fără răspuns', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce număr e ăsta?\
+	['26', '26', '26', '26', '26', 'hârtie', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Ce scrie aici?\
+	['fără răspuns', '40', '40', 'fără răspuns', 'fără răspuns', 'numere', '40', '40', '40 de lire sterline de aer', '30 de ani']	fără răspuns
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer ro When the provided information is insufficient, respond with 'fără răspuns'. Câte pastile sunt în cutia asta?\
+	['8 comprimate', '8 .', '8 .', '8 .', '8 .', '8 .', '8 .', '8 comprimate', '8 .', '8 .']	8

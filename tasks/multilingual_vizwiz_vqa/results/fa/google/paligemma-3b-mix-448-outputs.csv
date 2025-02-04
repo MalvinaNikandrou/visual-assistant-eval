@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی کاغذ چی نوشته شده؟\
+	['قابل به پاسخ نیست', 'پست استرالیا', 'پست', 'قابل به پاسخ نیست', 'پست استرالیا', 'پست استرالیا', 'پست استرالیا', 'پست استرالیا', 'قابل به پاسخ نیست', 'پست استرالیا']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. میشه بهم بگید روی این صفحه ی کامپیوتری چی هست لطفاً؟\
+	['آیکون های ساعت هوا و غیره', 'پنجره شروع', 'دسکتاپ', 'ساعت', 'ساعت', 'آیکون ها', 'آیکون های دسکتاپ', 'قابل به پاسخ نیست', 'آیکون های دسکتاپ', 'آیکون ها']	صفحه کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه؟\
+	['خالی', 'سی دی خالی', 'مکسول', 'ماکسل سی دی آر', 'خالی', 'خالی', 'پتو', 'خالی', 'خالی', 'مکسل']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. عکس چیه؟\
+	['پا', 'پا', 'خراش پا', 'پا', 'پا', 'پا', 'پا', 'پا', 'پا', 'پا']	عکس پا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين ظرف چيه؟\
+	['شکار', 'مانویچ', 'مانویچ', 'شکار ميکنه .', 'سس جوي', 'مانویچ', 'مردي که جرئت داره', 'بی حیا', 'مانویچ', 'جو بی احتیاط']	سس جو
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['نوشابه کوک رژیمی', 'کولا رژیمی', 'کوک رژیم غذایی', 'مي تونم کک رژيم کنم', 'کوک رژیم غذایی', 'کوک رژیم غذایی', 'کوک رژیم غذایی', 'کوک', 'نوشابه', 'مي تونم کک رژيم کنم']	تصویر بسیار تاریک است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چجور ادویه ايه؟\
+	['خانم \"داش\"', 'قابل به پاسخ نیست', 'خانم \"داش\"', 'قابل به پاسخ نیست', 'نميتونم بگم', 'همه داروخانه', 'مخلوط باسل', 'خانم میز میز مخلوط', 'ديش', 'خانم \"داش\"']	ادویه ها
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['بطری طحمی', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'طغيان']	مادونات
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['قهوه', 'قابل به پاسخ نیست', 'قهوه', 'قهوه', 'قهوه', 'قهوه', 'قهوه', 'قهوه', 'قهوه', 'قابل به پاسخ نیست']	قهوه سبز کوه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چی می بینی؟\
+	['پوست', 'درب های کف انگشت', 'در', 'در', 'درب انگشت', 'در', 'قابل به پاسخ نیست', 'در', 'خانه', 'پوست سیاه انگشت']	تصویر بسیار تاریک است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه کامپيوتر من چي نشون ميده؟\
+	['آیا می خواهید کامپیوتر خود را با استفاده از سیستم بازگرداندن بازگردانی', 'بازگردان سيستم ظاهر ميشه', 'پیام بازگرداندن سیستم', 'پرسیدن اینکه آیا می خواهید کامپیوتر خود را با استفاده از سیستم بازگردانی بازگردانی', 'جعبه', 'بازپس گرفتن سیستم', 'آیا می خواهید کامپیوتر خود را با استفاده از سیستم بازگرداندن بازگردانی', 'کامپیوتر شروع به کار نکرد', 'تنظیم مجدد', 'بازپس گرفتن سیستم']	نمی توانم پاسخ دهم
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['کاکائو داغ', 'مخلوط کاکائو داغ', 'شکلات داغ', 'مخلوط کاکائو داغ', 'کاکائو', 'مخلوط کاکائو داغ', 'کاکائو داغ', 'مخلوط شکلات داغ', 'کاکائو', 'مخلوط کاکائو']	کاکو
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه لطفاً شماره ي 800 رو به من بگي؟\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '۱۸۷۷۳۲۸۹۶۷۷', '1 877 328 9677', '18007352929']	08007352929
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه؟\
+	['صفحه نمایش کامپیوتر', 'صفحه نمایش کامپیوتر', 'صفحه نمایش کامپیوتر', 'لپ تاپ', 'صفحه نمایش کامپیوتر نشان دهنده نتایج جستجو', 'صفحه نمایش', 'صفحه نمایش کامپیوتر', 'صفحه نمایش کامپیوتر', 'صفحه نمایش مانیتور', 'صفحه نمایش کامپیوتر']	unable to answer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه؟\
+	['سس سالاد پشت', 'لباس پوشیدن', 'سس سالاد', 'سس سالاد', 'سس سالاد بالزمی', 'سس سالاد', 'قابل به پاسخ نیست', 'سس سالاد', 'سس سالاد', 'سس سالاد']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. عکس چه چیزی رو نشان میده؟\
+	['پنجره', 'طراحی', 'طرح پنجره شیشه ای سیاه', 'شیشه پنجره در در', 'پنجره شیشه ای در در', 'در', 'شیشه رنگ آمیزی', 'در', 'پنجره', 'پنجره']	پنجره شیشه ای رنگ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه کسي بهم بگه که سوال امنيتي که روي صفحه هست چيه؟\
+	['آراوک', 'قابل به پاسخ نیست', 'آراوک', 'آراوک', 'آراوک', 'آراوک', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آراوک', 'آراوک']	سوال امنيتي که روي صفحه هست، \"آراواک\" است.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['شراب', 'بلوط نقره ای', 'بلوط نقره ای', 'شراب بلوط نقره ای', 'شراب', 'بطری', 'شراب', 'شراب', 'بلوط نقره ای 2003 کابرنت ساوینون', 'بلوط نقره ای 2003']	شراب
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين مانيتور چه مارکيه؟\
+	['lg', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع مشروبيه؟\
+	['نوشابه', 'آبجو زنجبیل', 'جنرال', 'نوشابه زنجبیل', 'کانادا خشک', 'کانادا خشک', 'آبجو زنجبیل', 'کانادا خشک', 'آبجو زنجبیل', 'آبجو زنجبیل']	sodada
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. فرش چه رنگیه؟\
+	['رنگ بیج', 'رنگ بیج', 'رنگ قرمز', 'خاکستری', 'رنگ قرمز', 'کرم', 'رنگ قرمز', 'رنگ قرمز', 'رنگ بیج', 'رنگ قرمز']	کرم رنگ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['تلفن', 'تلفن', 'تلفن', 'تلفن', 'تلفن', 'تلفن', 'تلفن دیجیتال', 'تلفن', 'تلفن دفتر', 'تلفن']	پاسخ نادرست است. اطلاعات موجود کافی نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این تصویر چیه؟\
+	['شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوه', 'شبنم کوهستانی', 'شبنم کوه', 'بطری طحمی', 'سودا طحالب کوه', 'طحالب']	تصویر بطری مایع
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين بطري چيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کرم', 'نوشابه', 'قابل به پاسخ نیست', 'کرم', 'کرم', 'کرم', 'قابل به پاسخ نیست', 'کرم']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['آب آکوافینا', 'آب آب آب', 'آب', 'آب', 'بطری پلاستیکی آب مارک aquafina', 'آب بطری', 'بطری آب', 'آب آکوافینا', 'آب', 'آب بطری پلاستیکی']	این بطری آب است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['جستجو گوگل', 'برگه موتور جستجو گوگل', 'صفحه جستجو گوگل', 'گوگل', 'گوگل', 'کامپیوتر', 'صفحه اصلی گوگل', 'صفحه گوگل', 'صفحه نمایش کامپیوتر', 'صفحه نمایش کامپیوتر']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اینا چی هستن؟\
+	['کلید ها', 'کلید ها', 'کلید ها', 'کلید ها', 'کلید ها', 'کلید ها', 'کلید ها', 'کلید ها', 'کلید ها', 'کلید ها']	دسته کلید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً پیام خطای روی صفحه را برایم بخونید.\
+	['قابل به پاسخ نیست', 'کلید محصول نامعتبر', 'کلید محصول نامعتبر', 'قابل به پاسخ نیست', 'کلید محصول نامعتبر', 'کلید محصول نامعتبر', 'کلید محصول نامعتبر', 'کلید محصول نامعتبر یا حذف کلید محصول در فایل پاسخ بدون حضور برای ادامه', 'کلید محصول نامعتبر یا کلید محصول را از فایل پاسخ غیردست حذف کنید تا ادامه دهید', 'کلید محصول نامعتبر']	خطای روی صفحه قابل به پاسخ نیست. لطفاً پیام خطای روی صفحه را برایم بخونید.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لپ تاپم کجاست؟\
+	['میز', 'روی میز', 'میز بالای کنار تخت', 'روی میز', 'میز', 'میز', 'روی میز', 'روی میز', 'میز بالا', 'میز']	روی میز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. عنوان این کتاب چیه؟\
+	['سال های سگ', 'سال های سگ: خاطرات', 'سال های سگ', 'سال های سگ', 'سال های سگ', 'سال های سگ', 'سال های سگ', 'سال های سگ', 'سال های سگ', 'سال های سگ']	10 years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['مک بوک', 'صفحه کلید', 'صفحه کلید', 'صفحه کلید', 'کامپیوتر', 'صفحه کلید', 'لپ تاپ', 'لپ تاپ', 'لپ تاپ', 'صفحه کلید صفحه نمایش کامپیوتر']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چی می بینی؟\
+	['پنجره میز', 'گل', 'قابل به پاسخ نیست', 'پنجره میز', 'قلم دفترچه', 'گل', 'از دست', 'کتاب', 'پنجره', 'گل']	این تصویر اطلاعاتی در مورد این که این عکس چه نوعی است ارائه نمی دهد، بنابراین نمی توانم به این سوال پاسخ دهم.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. کدوم بسته اونار ساده داره؟\
+	['بسته قرمز سفید', 'چپ', 'که 1', 'قرمز 1 سمت چپ', 'چپ', 'قابل به پاسخ نیست', 'چپ', 'چپ', 'قرمز سفید 1', 'قرمز 1']	پشت بسته
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['فوتبال', 'فوتبال', 'فوتبال', 'گيتار فوتبال پرش رنگ قرمز نارنجي', 'فوتبال تمساح', 'فوتبال نرم آلیکاتورها', 'فوتبال پر شده', 'فوتبال پر شده نارنجی آبی', 'فوتبال بنفش', 'گل گیتار']	تصویر توپ فوتبال
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه رنگیه؟\
+	['خاکستری', 'طلا', 'طلا', 'رنگ بیج', 'قرمز', 'طلا', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'طلا', 'قابل به پاسخ نیست']	قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['منوی', 'قابل به پاسخ نیست', 'منوی', 'منوی', 'منوی', 'محتوای جدول', 'منوی', 'منوی', 'لیست قیمت', 'قابل به پاسخ نیست']	این منوی رستوران است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['بطری آب', 'آب نبات', 'آب اسپرينگبورن', 'اسپرينگبورن', 'آب بطری شده', 'آب', 'بطری آب', 'آب بطری شده', 'آب در بطری', 'آب']	این بطری آب است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور سوپيه؟\
+	['پیشرفت', 'پیشرفت', 'پیشرفت', 'قابل به پاسخ نیست', 'پیشرفت', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'پیشرفت', 'پیشرفت']	پروگريس
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميدونم که اين يه قوطي غذاست ميشه بهم بگي که تويش چي هست؟\
+	['لوبیا سبز', 'لوبیا سبز', 'لوبیا سبز', 'لوبیا سبز', 'لوبیا سبز', 'قابل به پاسخ نیست', 'لوبیا سبز', 'eef', 'لوبیا سبز', 'لوبیا سبز']	قوطي سبز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چي هست؟\
+	['مخلوط چکس', 'آسیاب های خردکننده', 'کامپیوتر مخلوط چکس', 'قابل به پاسخ نیست', 'مخلوط چکس', 'غذا', 'مخلوط چکس', 'مخلوط چکس', 'مخلوط چکس', 'چکمیکس']	چي میکس
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه خبر شده؟\
+	['مایکروویو', 'مایکروویو', 'داروها', 'لوازم خانگی سوپ ژله', 'سوپ قوطي', 'سوپ فنجان', 'آشپزخانه', 'میز آشپزخانه', 'کرم', 'سوپ']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه؟\
+	['سبزیجات مخلوط', 'سبزیجات مخلوط', 'سبزیجات مخلوط', 'سبزیجات مخلوط', 'سبزیجات مخلوط', 'ايفگرفگ', 'سبزیجات مخلوط', 'سبزیجات مخلوط', 'سبزیجات مخلوط', 'سبزیجات مخلوط']	مخلوط سبزیجات
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جوريه؟\
+	['گلاس کلوچه', 'وانیل', 'وانیل', 'آبمیوه وانیلی', 'بتي کروکر', 'آبمیوه ونیل', 'وانیل بزد', 'آبمیوه ونیل', 'وانیل', 'وانیل']	whipped
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. به کدوم جعبه نگاه میکنم، مثلاً چه چیزی در جعبه هست؟\
+	['جعبه ی بار دانه های دانه', 'تکه های دانه بادام سرخ شده طبیعت دره', 'میله های دانه', 'دره طبیعت', 'میله های دانه بادام سرخ شده', 'تکه های دانه بادام سرخ شده طبیعت دره', 'طبیعت دره تکه های غلتکی دانه های دانه دار طعم بادام سرخ شده', 'میله های دانه', 'میله های دانه', 'میله های دانه های بادام سرخ شده']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. و اون پارچه رنگي چي؟\
+	['سبز سفید', 'چاپ سبز سفید', 'سفید سبز', 'سفید سبز', 'رنگ صورتی سبز', 'پارچه سفید سبز کرم', 'رنگ صورتی سیاه', 'سبز سفید', 'رنگ قرطاس قرمز سیاه', 'اسپرت های سفید سبز']	بنفش
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه ي کامپيوتر چي نشون ميده؟\
+	['تیر موش', 'کرسر', 'هیچ چیز', 'آبی', 'صفحه آبی', 'تیر', 'خالی', 'تیر آبی', 'خالی', 'صفحه آبی']	صفحه آبی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سلام، کيه؟\
+	['گربه سفید', 'گربه', 'گربه', 'گربه سفید', 'گربه', 'قابل به پاسخ نیست', 'گربه', 'گربه', 'اين گربه', 'گربه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['ضدعفونی کننده دست های پیشرفته', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست های خالص', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست های خالص']	این دستشویی ضد باکتری است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. پیام خطا چی میگه؟\
+	['کلید محصول نامعتبر', 'کلید محصول نامعتبر', 'کلید محصول نامعتبر', 'کلید محصول نامعتبر', 'محصول بی اعتبار', 'کلید محصول نامعتبر برای ادامه کلیک کنید', 'کلید محصول نامعتبر یا کلید محصول را از فایل پاسخ بدون حضور حذف کنید تا ادامه دهید', 'محصول بی اعتبار', 'کلید محصول نامعتبر', 'کلید محصول نامعتبر']	پاسخ خطا این است که اطلاعات ارائه شده کافی نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين پيغام روي صفحه کامپيوتر من چي ميگه؟\
+	['يه جور دکمه ي تعمير در سمت راست پايين', 'تعمیر راه اندازی آخرین راه اندازی موفق 9 20 2012 1 تلاش تعمیر نزدیک به پایان لغو', 'قابل به پاسخ نیست', 'نه', 'تعمیر راه اندازی', 'تعمیر راه اندازی', 'تعمیر راه اندازی', 'قابل به پاسخ نیست', 'راه اندازی تعمیر کامل دکمه بسته شدن صفحه تشخیصی', 'تعمیر راه اندازی']	پيغام روي صفحه کامپيوتر من پاسخ داده نشده است.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه نوع گوشتي هست؟ اين جوجه يا سويسه يا چه نوع گوشتي؟ ممنون\
+	['مرغ', 'مرغ', 'مرغ', 'مرغ', 'مرغ', 'مرغ', 'مرغ', 'ران مرغ', 'قابل به پاسخ نیست', 'مرغ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه رنگيه؟\
+	['آبی برق', 'آبی', 'آبی', 'آبی', 'آبی', 'آبی', 'آبی', 'آبی', 'آبی', 'قابل به پاسخ نیست']	آبی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه نمایش چی میگه؟\
+	['نصب پنجره ها', 'نصب پنجره ها به علاوه بیشتر غیرقابل خواندن', 'نصب پنجره ها', 'نصب پنجره ها', 'نصب پنجره ها', 'این صفحه نشان می دهد که پنجره ها نصب لیست مراحل نصب', 'نصب پنجره ها', 'نصب پنجره ها', 'نصب پنجره ها', 'نصب پنجره ها']	نمی توانم پاسخ دهم
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. آسمان در این عکس شبیه به هم هست.\
+	['نیم ابری', 'ابرهای تیره', 'ابر بزرگ', 'ابر بزرگ آسمان تاریک', 'ابر آلود', 'ابری', 'ابر های آبی', 'قابل به پاسخ نیست', 'ابر باران غول پیکر کمی آبی به سمت', 'ابری']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['ورودی', 'صندلی', 'صندلی', 'صندلی', 'قابل به پاسخ نیست', 'صندلی', 'صندلی', 'صندلی', 'پنجره ی قاب فلزی بنچ', 'صندلی']	این تصویر برای توصیف اطلاعات موجود نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['عکس', 'در', 'در', 'بار', 'درب های شیشه ای', 'در', 'رستوران', 'رستوران', 'درها', 'درها']	این در است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی صفحه من چی هست؟\
+	['دستگاه بوت را انتخاب کنید', 'لطفاً گزینه ی boot device 3 را انتخاب کنید', 'قابل به پاسخ نیست', 'لطفا دستگاه بوت را انتخاب کنید', 'صفحه ی بوت', 'لطفا دستگاه بوت را انتخاب کنید', 'خطای', 'لطفا دستگاه بوت را انتخاب کنید', 'پیام انتخاب دستگاه', 'لطفا دستگاه بوت را انتخاب کنید']	دستورهای کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیز چیه؟\
+	['خاکستر', 'مجسمه برنز تزئيني از شیر زن', 'مجسمه', 'نه', 'خاکستر', 'سینی خاکستر', 'مجسمه', 'کاسه سگ', 'خاکستر', 'ببر طاعون در بالا']	مجسمه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اينا چه جور سيگاره؟\
+	['روح آمريکايي', 'روح آمريکايي', 'روح آمريکايي', 'روح آمريکايي', 'روح آمريکايي', 'شراب هاي سياه بسته بندي شده آمريکايي', 'روح آمريکايي', 'روح آمريکايي', 'روح آمريکايي', 'روح آمريکايي']	افرادی که سیگار می کشند
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['ژینسنگ گوآوا', 'چای', 'چای', 'چای', 'چای', 'چای', 'چای', 'چای', 'چای', 'چای']	چای
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين بطري چي هست؟\
+	['کرم بدن', 'کرم بدن', 'کرم بدن', 'کرم', 'کرم بدن شی ویتامین E', 'راه نور ماه ويتامين هاي شي و کرم بدن', 'کرم بدن', 'کرم بدن راه نور ماه', 'کرم بدن راه نور ماه', 'کرم']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این عکس چیه؟\
+	['عینک', 'قاب ها', 'عینک', 'عینک های چشم قاب نقره ای', 'عینک چشم', 'عینک', 'قاب عینک', 'عینک', 'عینک', 'عینک']	عینک
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این محصوله\
+	['آره', 'سوپ گوجه فرنگی', 'سوپ گوجه فرنگی', 'سوپ', 'سوپ کنسرو', 'سوپ گوجه فرنگی', 'سوپ گوجه فرنگی', 'سوپ گوجه فرنگی', 'سوپ', 'سوپ گوجه فرنگی محصول را انتخاب کنید']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['جعبه تلفن', 'آیفون', 'جعبه آیفون', 'تلفن', 'تلفن همراه', 'جعبه تلفن همراه', 'گوشی هوشمند', 'تلفن', 'تلفن هوشمند', 'آیفون']	تصویر گوشی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این عکس چیه؟\
+	['ظرف آب نبات', 'جعبه قرمز جشن', 'پاسخگو', 'گفت جشن', 'جعبه', 'آب نبات', 'طرفدار حزب', 'جشن ها', 'جعبه', 'قابل به پاسخ نیست']	تصویر یک ظرف غذا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['شامپاین', 'قوری چای شیشه ای شراب', 'شیشه', 'شراب شیشه ای', 'یک لیوان شراب شامپاین کنار فنجان قهوه روی بشقاب نشسته است', 'در شیشه روی میز بنوشید', 'شامپاین', 'شیشه فنجان چای', 'آبجوچهاي آبجوچهاي شامپاني', 'شيشه شامپاني روي ميز پنجره جلوي شهر']	این عکس کامل نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه مزه اي داره؟\
+	['نارنجی', 'نارنجی سبز زرد قرمز', 'نعناع نارنجی', 'نارنجی', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نارنجی', '2 در سمت چپ پرتقال گل آلا لیمو در بالا پایین راست زمستانیسبز', 'نارنجی', 'نارنجی']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سلام، داشتم فکر ميکردم تو اين قوطي چي بود؟ ممنون. داشتم فکر ميکردم که آبجو يا يک قوطي نوشيدني هست؟ ممنون.\
+	['کوکا کولا', 'کوکا کولا', 'نوشابه', 'کوکا کولا', 'نوشابه', 'کوک سودا', 'نوشابه', 'نوشابه', 'کوکاکولا', 'نوشابه']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تنظیمات این خشک کن چیه؟\
+	['در جهت معکوس ساعت، زمان کنترل چروک منظم، خشکی، حساسیت چروک، آزاد شدن هوا', 'منظم', 'از کار', 'از کار', 'از کار', 'منظم', 'از کار', 'نه روی تنظیم', 'هیچ چیز', 'از کار']	زمان خشک کردن
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قرص', 'قرص', 'برنامه های تلفن', 'صفحه نمایش', 'برنامه های لیست', 'فروشگاه اپلیکیشن', 'قرص', 'لیست برنامه های دانلود شده', 'قابل به پاسخ نیست', 'دانلود اپلیکیشن']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دارم به چي نگاه ميکنم؟\
+	['تلویزیون', 'تلویزیون کمد', 'تلویزیون', 'تلویزیون', 'صفحه تلویزیون', 'تلویزیون', 'تام سلیک در تلویزیون', 'تلویزیون', 'تلویزیون', 'تلویزیون درب باز']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه رنگيه؟\
+	['سفید', 'سفید', 'سفید', 'سفید', 'رنگ بیج', 'سفید', 'عاج', 'قابل به پاسخ نیست', 'رنگ بیج', 'قابل به پاسخ نیست']	سفید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['این ماده غذایی', 'راديويل', 'راديويل', 'راديويل', 'راديويل', 'سرآشپز بواردي ميني راويلي', 'مینی راویولی کنسرو شده', 'راديويل', 'سرآشپز بویا مینی راویولی', 'مینی راویولی']	این راویو راب با گوجه فرنگی و گوشت است.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['آرد گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت کباب شده سنتی', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت کباب شده سنتی', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده']	گوشت بوفه سنتی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين محصول چي هست؟\
+	['پپسی رژیمی', 'پپسی بدون کافئین', 'پپسی', 'پپسی', 'پپسی رژیمی', 'پپسی رژیمی', 'پپسی رژیمی', 'پپسی بدون کافئین', 'پپسی رژیمی', 'پپسی رژیمی']	پپسی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اسمش چيه؟\
+	['شرق', 'لوبیا', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'غذا', 'لوبیا', 'ترکیب مسیر', 'غلات', 'آجیل', 'بادام زمینی']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این قهوه ی عادی است یا بدون کافئین؟\
+	['منظم', 'قابل به پاسخ نیست', 'منظم', 'منظم', 'منظم', 'منظم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'منظم', 'منظم']	بدون کافئین
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['پنیر ماکارونی', 'پنیر ماکارونی', 'پنیر ماکارونی', 'پنیر ماکارونی', 'پنیر ماکارونی', 'پنیر مک', 'پنیر ماکارونی', 'پنیر ماکارونی', 'پنیر ماکارونی', 'پنیر ماکارونی']	این غذا در بشقاب است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين بطري چي هست؟\
+	['کرم نرم کننده', 'کرم', 'کرم', 'کرم', 'کرم نرم کننده', 'کرم', 'مرطوب کننده', 'کرم بدن', 'شستشوی بدن با رطوبت عمیق', 'شستشوی بدن']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه خبر شده؟\
+	['صندلی میز', 'صندلی', 'صندلی', 'صندلی اداری', 'صندلی اداری', 'اين صندلي دفتر', 'صندلی', 'صندلی میز', 'صندلی', 'صندلی اداری خاکستری']	صندلی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اون چيزي که همين الان عکس گرفتم چي بود؟\
+	['مانیتور کامپیوتر', 'کامپیوتر', 'صفحه نمایش کامپیوتر', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'لپ تاپ', 'صفحه نمایش کامپیوتر', 'لپ تاپ', 'مانیتور کامپیوتر', 'کامپیوتر لپ تاپ']	صفحه کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. بهم بگو این چیه\
+	['گوشت خوک', 'گوشت', 'يه جور گوشت قرمز', 'گوشت بسته بندی شده', 'گوشت خوک', 'گوشت خوک', 'قابل به پاسخ نیست', 'گوشت', 'fg', 'گوشت خوک']	این عکس گوشت است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. در این عکس آسمان چطوره؟\
+	['روزي ابري', 'نیم ابری', 'ابری', 'ابری', 'ابری', 'ابری', 'ابری', 'ابری', 'ابری', 'باران']	خاکستری
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين غذا منتظر تموم شدن زمانه؟\
+	['قابل به پاسخ نیست', 'اسپگتی', 'اسپگتی', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'اسپگتی', 'اسپگتی', 'آینه', 'شام', 'پیتزا']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['گل', 'گل', 'گل', 'گل', 'گل', 'گل', 'گیاهان', 'گل', 'گل', 'قوس قزح']	این گل بنفش است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چي هست؟\
+	['چای گشاد', 'چای', 'قابل به پاسخ نیست', 'چای', 'چای', 'چای', 'چای', 'چای', 'چای', 'چای']	چای
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين شورت ها چه رنگ و چه الگويي دارن؟\
+	['رنگ برقی', 'رنگ آبی رنگ زرد', 'آبی نارنجی سبز', 'رنگ آبی قهوه ای سفید', 'رنگ آبی روی بالا رنگ زرد روی پایین', 'رنگارنگ', 'رنگ آبی قهوه ای سفید', 'رنگ برقی', 'رنگ آبی', 'رنگ آبی سفید سبز زرد']	نارنجی سبز و آبی چهارخانه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. کيف چه رنگي بود؟\
+	['سبز', 'سبز', 'سبز نیل', 'رنگ سبز', 'سبز', 'سبز', 'سبز', 'سبز', 'سبز روشن', 'سبز']	سبز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این کوک معمولی است یا کوک رژیمی؟\
+	['کوک رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'کوک رژیم غذایی', 'رژیم غذایی', 'کوک رژیم غذایی', 'رژیم غذایی']	کودک
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قلم', 'قلم صفحه کلید', 'قلم', 'قلم', 'قلم', 'قلم', 'قلم', 'قلم', 'قلم', 'قلم دوقطبی']	این را نمی توانم پاسخ دهم.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['لامپ می تواند پرینگل', 'لامپ', 'لامپ', 'لامپ', 'قوطي پرينگل کنار چراغ سي دي اس', 'چراغ بدون سایه', 'لامپ', 'آب دهان لامپ پينگل ميز', 'لامپ', 'لامپ']	تصویر نامرتب
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين کامپيوتر داره چيکار ميکنه؟\
+	['سیستم کنترل', 'قابل به پاسخ نیست', 'چک دیسک', 'دیسک چک', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'بارگذاری', 'تنظیم', 'بررسی سازگاری', 'راه اندازی مجدد']	نفس
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور نوشيدنيه؟\
+	['کوک رژیم غذایی', 'دندون', 'کوک رژیم غذایی', 'کوک رژیم غذایی', 'کوک رژیم غذایی', 'کوک رژیم غذایی', 'کوک رژیم غذایی', 'کوک رژیمی لیمو', 'کوک رژیم غذایی', 'کوک رژیم غذایی']	کوکاکولا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً موضوع اين کتاب رو بهم بگو\
+	['کليف کالسلر ديرک کالسلر', 'قابل به پاسخ نیست', 'کليف کالسلر ديرک کالسلر', 'کليف کالسلر ديرک کالسلر', 'علمي', 'تعلیق', 'زيتون کالسلر ديرک کالسلر', 'عمل', 'قابل به پاسخ نیست', 'کليف کالسلر']	این کتاب رو به هم ریخته است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه شرابيه؟\
+	['قابل به پاسخ نیست', 'جشن ازدواج \"ديويد اما\" شراب قرمز', 'ناش', 'ناش', 'ناش', 'ناش', 'ناش', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'شراب ناش']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['ماست', 'قابل به پاسخ نیست', 'ماست', 'ماست', 'ماست', 'ماست', 'ماست', 'ماست', 'ماست', 'ماست']	این تصویر اطلاعاتی در مورد این که چه مقدار یوگurt وجود دارد ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. عنوان این کتاب چیه؟\
+	['سال های سگ', 'سال های سگ', 'سال های سگ', 'سال های سگ', 'قابل به پاسخ نیست', 'سال های سگ', 'قابل به پاسخ نیست', 'سال های سگ', 'سال های سگ', 'سال های سگ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['لپ تاپ سونی', 'لپ تاپ', 'لپ تاپ', 'کامپیوتر', 'لپ تاپ', 'لپ تاپ سونی وایو', 'لپ تاپ', 'سونی وایو', 'لپ تاپ سونی', 'لپ تاپ']	laptop vaio sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. من تعجب ميکنم که اين کامپيوتر چه مارکيه\
+	['سونی', 'سونی', 'سونی', 'سونی', 'سونی', 'سونی', 'سونی', 'سونی', 'سونی', 'سونی']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چيه؟ گوجه فرنگي يا سس انچيلادا؟\
+	['جنگ', 'برچسب پشتش نگفته', 'قابل به پاسخ نیست', 'گوجه فرنگی', 'گوجه فرنگی', 'گوجه فرنگی', 'قابل به پاسخ نیست', 'گوجه فرنگی', 'تصویر مبهم', 'گوجه فرنگی']	گوجه فرنگي
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['پودینگ', 'غذاهای ناشتیده پودینگ', 'پودینگ وانیلی', 'پودینگ', 'پودینگ وانیلی', 'پودینگ', 'بسته 6 نانک بسته پودینگ وانیلی', 'فنجان های پودینگ', 'پودینگ', 'پودینگ بسته بندی میان وعده']	این تصویر اطلاعاتی در مورد نوع پودینگ ناقص است.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['20 دلاری کانادا', '20 دلاری کانادا', '20 کانادایی', 'پول', 'پول روی دنده', '20 دلار', 'پول', '20 دلاری کانادا', '20 دلار', 'پول']	20 دلار کانادا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['لازانیا', 'لازانیا', 'لازانيه ي خاص', 'لازانیا', 'لازانیا مخصوص', 'لازانيه ي خاص', 'لزن', 'لازانیا', 'لازانیا', 'لازانیا']	لasaagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چه نوع قهوه ایه؟\
+	['اسپریسو', 'اسپریسو', 'تیموتای اکسپرسو', 'اسپرسو جنگل های بارانی', 'اسپرسو جنگل های بارانی', 'اسپریسو', 'با ضخامت بیشتر', 'اسپریسو فارست استوایی', 'اسپرسو فوق العاده جسورانه استرالی', 'تیموتائوس']	timothy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اون عکس چيه؟\
+	['شیشه شراب صفحه کلید', 'لپ تاپ', 'صفحه کلید لپ تاپ شراب آبجو', 'قابل به پاسخ نیست', 'کامپیوتر', 'کامپیوتر', 'نوشیدنی لپ تاپ', 'لپ تاپ روی میز کنار مایع شیشه ای', 'شیشه لپ تاپ', 'لپ تاپ شیشه ای']	تصویر لپ تاپ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['کتاب عنوان', 'کتاب', 'کتابچه', 'یادداشت', 'کتاب پول آسان', 'رم شیطان پول آسان: کنترل الکل در کلمبیا بریتانیا', 'کتاب', 'کتاب', 'صفحه اول کتاب', 'کتابچه']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی میز چی بود؟\
+	['دفترچه یادداشت', 'قلم دفترچه یادداشت کاغذ های دیگر', 'دفترچه یادداشت با حلقه های مارپیچی', 'قلم کاغذی', 'دفترچه یادداشت', 'قلم نوتی بوک', 'دفترچه یادداشت', 'قلم نوتی بوک', 'قلم کاغذی', 'دفترچه یادداشت']	یادداشت
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين پيراهن چه رنگيه؟\
+	['رنگ سفید آبی', 'آبی سفید', 'رنگ سفید آبی', 'آبی سفید', 'آبی', 'آبی سفید', 'رنگ آبی سفید', 'رنگ آبی', 'آبی', 'آبی']	آبی و سفید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['آندره شاردون', 'شامپاین', 'آندره', 'شامپاین', 'شراب', 'شامپاین', 'شامپاین', 'شامپاین', 'بطری شامپاین', 'شامپاین']	این بطری شراب است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اسم محصولي که تو ظرف تو عکس هست چيه؟\
+	['لیزول', 'لیزول', 'لیزول', 'لیزول', 'لیزول', 'لیزول', 'لیزول', 'لیزول', 'لیزول', 'لیزول']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چه نوع قهوه ایه؟\
+	['گفالی', 'مكسيمو گفالياي کافه', 'مکسيمو', 'گفالیاسپریسو', 'مکسيمو', 'قهوه سیاه', 'مکسيمو', 'قابل به پاسخ نیست', 'گفالی', 'گفالی']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چي هست؟\
+	['پفری', 'می تونم نوشابه فلفل رو مصرف کنم', 'پفری', 'پفری', 'پفری', 'پفری', 'سودا فلفل', 'پفری', 'می تونم نوشابه فلفل رو مصرف کنم', 'پفری']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه لطفاً بهم بگيد اين چي هست؟ ممنون\
+	['قهوه فوری', 'قهوه فوری', 'قهوه کلاسیک', 'بسته قهوه', 'قابل به پاسخ نیست', 'قهوه', 'قهوه', 'قهوه پودری', 'قهوه', '\"نسکافه کلاسيک\"']	قهوه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سه سيم از چپ به راست چه رنگي هستند؟\
+	['قرمز سیاه سفید', 'قرمز سیاه سفید', 'قرمز سیاه', 'قرمز سیاه سفید', 'قرمز سیاه سفید', 'قرمز سیاه سفید', 'قرمز سیاه سفید', 'قرمز سیاه سفید', 'قرمز آبی سفید', 'قرمز سیاه سفید']	قرمز، سیاه و سفید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين تست بارداری چي نشون ميده؟\
+	['1 خط', 'منفی', 'منفی', 'يه خط اما رنگ کشيده شده يه خط ديگه امتحان کن', 'قابل به پاسخ نیست', '1 نوار', 'هيچ عكسي نيست', 'خط قرمز', 'قابل به پاسخ نیست', 'علامت آبی علامت قرمز']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اسم اين ادویه چيه؟\
+	['خانم مخلوط فلفل ليمو تازه', 'ديش', 'خانم \"داش\"', 'خانم \"داش\" فلفل ليمو', 'خانم \"داش\"', 'خانم \"داش\"', 'فلفل', 'خانم \"داش\"', 'خانم \"داش\"', 'خانم \"داش\"']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سلام، چه نوع مشروبيه که تو بطري دست راست منه؟\
+	['پپسی', 'پپسی سودا', 'پپسی رژیمی', 'پپسی رژیمی', 'پپسی رژیمی', 'پپسی', 'پپسی رژیمی', 'رژیم غذایی پپسی', 'پپسی رژیمی', 'پپسی رژیمی']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['بازی های ویدئویی', 'بازی های ویدئویی', 'بازي بسکتبال', 'بازی های ویدئویی', 'قابل به پاسخ نیست', 'دی وی دی', 'قابل به پاسخ نیست', 'بازی', 'بازی های ویدئویی', 'دی وی دی']	پاسخ قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['کچاپ', 'کچاپ', 'کتشاپ گوجه فرنگی هاینز', 'بسته ي کتشاپ', 'بسته ی کتشاپ', 'کچاپ', 'کچاپ', 'بسته ي کتشاپ', 'کچاپ', 'کچاپ']	این کچاپ هینز است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين پيراهن چه رنگيه؟\
+	['قرمز سفید', 'رنگ قیر', 'قرمز سفید', 'نوارهای سفید قرمز', 'نوارهای سفید قرمز', 'قرمز سفید', 'قرمز سفید', 'قرمز سفید', 'قرمز سفید', 'قرمز سفید']	قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين بسته چي هست؟\
+	['تصویر پارلمان', 'آلبوم موسیقی', 'سیگاری', 'سیگاری', 'سیگاری', 'سیگاری', 'فیلترهای درهم شکسته', 'سيگار پارلمان', 'کارت ها', 'سیگاره']	سیگار پارلمان
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين فرش چه رنگيه؟\
+	['بنفش', 'بنفش', 'بنفش', 'بنفش', 'بنفش', 'بنفش', 'بنفش', 'بنفش', 'بنفش', 'بنفش']	بنفش
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. آیا در این تصویر دیالوگ بیشتر دیده می شود؟\
+	['خسته شدم', 'آره', 'نه', 'آره', 'نه', 'نه', 'نه', 'نه', 'نه', 'آره']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين محصول چي هست؟\
+	['لوبیا سبز', 'لوبیا سبز', 'لوبیا سبز', 'می تونه', 'لوبیا', 'نخود', 'قابل به پاسخ نیست', 'لوبیا سبز', 'fg', 'قابل به پاسخ نیست']	این محصول قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين دونه چي هست؟\
+	['لوبیا خوک', 'لوبیا خوک', 'گوشت خوک و لوبیا', 'لوبیا خوک', 'لوبیا خوک', 'لوبیا خوک', 'لوبیا خوک', 'لوبیا خوک', 'لوبیا خوک', 'لوبیا خوک']	قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين شراب چيه؟\
+	['قابل به پاسخ نیست', '. نه ، نه', 'محصول سال 2008 ناش', 'ناش', 'ناش', 'سوغات عروسی', 'نش جشن ازدواج با دیوید اما 16 جولای 2011', 'ناش', 'ناش', 'جشن ازدواج']	ن ash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع غذاه؟\
+	['سس گوجه فرنگی', 'سس گوجه فرنگی', 'سس گوجه فرنگی ارگانیک', 'سس گوجه فرنگی', 'سس گوجه فرنگی', 'سس گوجه فرنگی', 'سس گوجه فرنگی ارگانیک Muir Glen', 'سس گوجه فرنگی', 'سس گوجه فرنگی ارگانیک Muir Glen', 'تومو']	سس گوجه فرنگی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه طعميه؟\
+	['توت فرنگی', 'توت فرنگی', 'توت فرنگی', 'توت فرنگی', 'توت فرنگی', 'توت فرنگی', 'توت فرنگی', 'توت فرنگی', 'توت فرنگی', 'توت فرنگی']	توت فرنگی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. میشه بهم بگید این رنگ چیه؟ لطفاً این رنگ چیه؟\
+	['سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه']	مشکی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['گیاه', 'گیاه تزئینی', 'آلوئه', 'گیاه خانه', 'گیاه خانه', 'گیاه خانه', 'گیاه', 'گیاه خانه', 'گیاه', 'گیاه چمن']	این گیاه گلدانی است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['مجله', 'کتاب های کامیک', 'کتاب های کامیک', 'بازی های بزرگسالی', 'مجله', 'کتاب رنگ آمیزی', 'کتاب کریسمس عجیب', 'مطمئن نيستم که بتونم اون زبان رو بخونم', 'کارت تبریک کریسمس', 'کمیک']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['شام مرغ دیجان', 'غذا', 'مرغ دیجون', 'مرغ دیجون', 'مرغ دیجون', 'غذا', 'مرغ دیجون', 'مرغ', 'مرغ دیجون', 'مرغ دیجون']	چي در دايون
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع قهوه ايه؟\
+	['گفالیا', 'گفالی', 'وانیل فرانسوی', 'وانیل فرانسوی', 'گفالیا', 'گفالیا', 'وانیل فرانسوی', 'وانیل فرانسوی', 'فرانسه', 'گفالیا وانیل فرانسوی']	قهوه فرنچ وانیلا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیز چیه؟\
+	['آیفون', 'تلفن', 'تلفن', 'آیفون', 'تلفن همراه', 'تلفن همراه', 'تلفن همراه', 'من زنگ زدم', 'گوشی هوشمند', 'گوشی هوشمند']	تصویر گوشی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'سیگاری', 'سيگار هاي بسته', 'سیگاری', 'سيگار هاي بسته', 'سیگاری', 'سیگاری', 'قابل به پاسخ نیست', 'سیگاری', 'سیگاری']	تصویر موجود نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه طعميه؟\
+	['گوشت گاو', 'طعم گاو', 'گوشت گاو', 'آب شوروی با طعم گوشت گاو', 'گوشت گاو', 'طعم گوشت گاو', 'آب شوروی با طعم گوشت گاو', 'گوشت گاو', 'اين طعم گاو', 'گوشت گاو']	گوشت
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['فنجان بزرگ', 'فنجان', 'فنجان', 'فنجان', 'دوست داره توگو کوپ', 'فنجان', 'فنجان پاپ و چيزهاي ديگه', 'فنجان استایروپوم', 'فنجان', 'اين فنجان']	این فنجان قهوه است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این پپسی رژیمی است یا پپسی معمولی؟\
+	['پپسی رژیمی', 'رژیم غذایی', 'قابل به پاسخ نیست', 'رژیم غذایی', 'پپسی رژیمی', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'پپسی رژیمی', 'رژیم غذایی']	پپسی معمولی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه نمایش چی میگه؟\
+	['نرم افزار آواست', 'اسکن درایوهای محلی', 'پنجره ها', 'پیام خطای', 'اسکن', 'نرم افزار اسکن کردن ویندوز ایکس پی', 'پنجره ها', 'قابل به پاسخ نیست', 'ویندوز ایکس پی', 'قابل به پاسخ نیست']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً بگویید من در کدام صفحه هستم؟ من در حال دسترسی به منوی بوت هستم و در حال تلاش برای بوت کردن از یک درایو USB هستم. ببینید که می توانید به من بگویید کدام صفحه روشن است و کدام گزینه است؟\
+	['یکبار تیر پایین رو فشار بده بعد برای usb وارد کن', 'منوی بوت در بوت از گزینه hdd', 'قابل به پاسخ نیست', 'حالت بدنت', 'لطفا دستگاه بوت را انتخاب کنید', 'لطفا دستگاه بوت را انتخاب کنید:', 'لطفاً دستگاه بوت را انتخاب کنید: pm st9250315as', 'لطفا دستگاه بوت را انتخاب کنید', 'صفحه نمایش: لطفا دستگاه بوت را انتخاب کنید تیر را به سمت پایین حرکت دهید تا به usb:usb disk pro', 'لطفا دستگاه بوت را انتخاب کنید']	صفحه روشن: صفحه کلید کامپیوتر، صفحه دوم: صفحه کلید کامپیوتر، صفحه سوم: صفحه کلید کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چه طعميه؟\
+	['رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی فلفل', 'پفری', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'کولا', 'رژیم غذایی', 'رژیم غذایی']	دراپ پاپ دیا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور سوپيه؟\
+	['سوپ سبزیجات', 'پیشرفت', 'پیشرفت', 'قابل به پاسخ نیست', 'سبزیجات پروگرسو', 'قابل به پاسخ نیست', 'سبزیجات', 'سبزیجات پروگرسو', 'سبزیجات', 'پیشرفت']	پروگريس
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چه جور ماشينه؟\
+	['قابل به پاسخ نیست', 'لينکلن تاج ويكتوريا', 'يه جور سدان چهار در', 'لينکلن', 'فورد کراون ویکتوریا', 'لينکلن', 'شورولت', 'تاج ویکتوریا', 'قابل به پاسخ نیست', 'فورد']	ماشین نقره ای 4 pintu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این قهوه ست؟\
+	['گفالی', 'گفالی', 'گفالی', 'گفالیای هازل سوئیس', 'گفالی', 'گفالی', 'گفالی', 'گفالی', 'گفالی', 'گفالی']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'ضدعفونی کننده دست', 'جرمکس', 'ضدعفونی کننده ی دست', 'ضدعفونی کننده ی دست']	این دستشویی ضد باکتری است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اون ميله چي هست؟\
+	['سوپ', 'میوه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سوپ', 'قابل به پاسخ نیست', 'سوپ', 'قابل به پاسخ نیست', 'کشو', 'سوپ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه رنگیه؟\
+	['قهوه ای', 'قهوه ای', 'قهوه ای', 'قهوه ای بلوط', 'قهوه ای', 'خاردار قهوه ای', 'چوبی', 'قهوه ای', 'قهوه ای', 'قهوه ای']	رنگ قهوه ای
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'دست', 'دست', 'قابل به پاسخ نیست', 'دست', 'دست', '1 دست راست', 'دست', 'دست', 'دست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تنظیمات گلدان چرب چیه؟\
+	['فنجان', 'بالا', 'بالا', 'بالا', 'بالا', 'بالا', 'کم', 'بالا', 'بالا', 'بالا']	کم
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چيه؟\
+	['محصولات برای نابینایان', 'cd', 'cd معکوس', 'محصولات برای دیسک های کور', 'cd', 'دیسک', 'کتاب روی سی دی', 'cd', 'محصولات cd برای نابینا', '\"برنج\" توسط جیمز هربرت']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['صفحه کلید مانیتور کامپیوتر', 'مانیتور', 'مانیتور کامپیوتر', 'صفحه نمایش کامپیوتر', 'کامپیوتر', 'مانیتور کامپیوتر', 'صفحه نمایش کامپیوتر', 'دسکتاپ', 'نمودار', 'نمودار']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي که اين بطري چي ميگه؟\
+	['شکر وانیلی گرم', 'قند', 'شکر وانیلی گرم', 'شکر وانیلی گرم', 'کرم بدن با قند وانیلی گرم', 'شکر وانیلی گرم', 'کرم بدن با قند وانیلی گرم', 'شکر وانیلی گرم', 'کرم بدن با قند وانیلی گرم', 'شکر وانیلی گرم']	لوسيون بدن
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی صفحه چه چیزی هست؟\
+	['صفحه نصب پنجره', 'قابل به پاسخ نیست', 'نصب پنجره ها', 'نصب صفحه نمایش وضعیت ویندوز', 'نصب ویندوز', 'نصب پنجره ها', 'دستورالعمل نصب پنجره ها', 'پیشرفت نصب پنجره ها', 'نصب اطلاعات ویندوز', 'پنجره ها']	متن موجود در صفحه قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['می تونه', 'می تونه', 'قابل به پاسخ نیست', 'لوبیا کنسرو', 'می تونه', 'لوبیا', 'قابل به پاسخ نیست', 'لوبیا', 'پخته', 'پخته']	این تصویر برای پاسخ دادن به این سوال من استفاده نمی کند.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه نوع مشروبيه؟\
+	['آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'نارنجی', 'آب پرتقال']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين ظرف چه جور آب آشاميدني داره؟\
+	['چای', 'نستیا', 'آب لیمو', 'چای یخ زده', 'نستیا', 'نستیا', 'نستیا', 'چای یخ زده', 'چای یخ', 'نست']	چای
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين پيتزا پپپروني هست؟ پپپروني و سوسیس، فوق العاده، چه نوعي؟\
+	['پپپروونی', 'پپپروونی', 'پپپروونی', 'پپپروونی', 'پپپروونی', 'پپپروونی', 'آره', 'پپپروونی', 'مامان کوزيس پپروني پوسته نازک', 'پپپروونی']	پیتزا پپپروني
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اصلاً ميدوني اوني که وسطه چه جور گياهي هست؟\
+	['نه', 'چمن', 'چمن', 'چمن', 'چمن', 'چمن', 'نه', 'نه', 'چمن', 'علف']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['عینک', 'عینک', 'عینک', 'عینک', 'جفت عینک', 'عینک', 'جفت عینک', 'عینک', 'عینک چشم', 'جفت عینک']	عینک
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين جا رو توصيف کن\
+	['دفتر', 'فضای اداری', 'دفتر', 'دفتر 2 میز کابینت 2 صندلی', 'دفتر', 'دفتر', 'میز ها صندلی های اداری سیاه', 'میز های اداری', 'دفتر 2 میز', 'دفتر']	دفتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['دفترچه یادداشت', 'برنامه ریز', 'کتاب', 'کتاب', 'کارت', 'دفترچه یادداشت', 'برنامه ریز', 'دفترچه یادداشت', '\"ليلي پليتزر\" برنامه ي اسپيرايل', 'دفترچه یادداشت']	این کتاب برای من قابل خواندن نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['گل سرخ خرس تيدي', 'خرس تيدي', 'خرس تيدي', 'خرس تيدي', 'خرس تيدي', 'خرس تيدي', 'خرس', 'خرس تيدي', 'خرس تيدي', 'خرس تيدي']	این خرس عروسکی سفید است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع ادویه ايه؟\
+	['نمک دریایی پیاز', 'نمک دریایی پیاز', 'نمک دریایی پیاز', 'نمک دریایی پیاز', 'نمک دريايي', 'نمک پیاز', 'نمک دریایی پیاز', 'نمک دریایی پیاز', 'نمک دریایی پیاز', 'نمک دریایی پیاز']	مخلل و نمک دریا پیاز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين ظرف چي هست؟\
+	['رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'پفری', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی', 'رژیم غذایی فلفل', 'رژیم غذایی']	دتاکس
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. عکس روی این فنجان چیه؟\
+	['کارتون', 'شخصیت های کارتون', 'کارتون', 'مرد به پرنده نگاه مي کنه', 'مرغ مرد', 'مرد', 'مرد کارتون', 'طرح پرنده مرد درخت ماه', 'انسان حیوان', 'کارتون']	تصویری از یک فنجان سفید با طرح های مختلف.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['افراد به عقب', 'پسر', 'سر مرد', 'شخص', 'پشت سر يکي شونه ها', 'پشت مرد', 'قابل به پاسخ نیست', 'پیراهن خاکستری', 'پسر', 'عکس پشت شخص']	تصویر نامرتب
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['سخنران', 'سخنران', 'اسپیکر روی دیوار', 'سخنران', 'سخنران', 'سخنران', 'اسپیکر دیواری', 'سخنران', 'سوار گربه', 'سخنران']	این تصویر اطلاعاتی در مورد اتاق نشیمن من ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اینجا چی نوشته؟\
+	['شماره تلفن تاکسی', 'هیچ چیز', 'هیچ چیز', 'تلفن', 'تاکسی شهر', 'رسید', 'قابل به پاسخ نیست', 'به نظر رسید', 'خطوط', 'تاکسی شهر']	پاسخ نمی توانم آن را در متن ارائه شده ببینم.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['مکس جامبالایا سبک نیو اورلینز', 'مخلوط جامبالیا', 'مخلوط جامبالیا', 'برنج', 'جمالیا', 'مخلوط جامبالیا', 'مخلوط جامبالیا', 'برنج جمالیا', 'مخلوط آماده شده با جعبه برای برنج جمالیا سبک نیواورلینز', 'مخلوط جامبالیا']	این تصویر اطلاعاتی در مورد دستور غذا ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. مک من چه رنگیه؟\
+	['نقره', 'سفید', 'رنگ قرمز', 'سفید', 'نقره', 'نقره', 'نقره', 'نقره', 'سفید', 'نقره']	خاکستری
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اون قوطي چي هست؟\
+	['لوبیا های پخته شده ارگانیک', 'لوبیا پخته شده', 'لوبیا های پخته شده ارگانیک', 'لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا پخته شده']	لوبیا پخته ارگانیک
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['پنیر ماکارونی', 'قابل به پاسخ نیست', 'پنیر ماکارونی', '3 تا ماکارونی پنیر', 'پنیر ماکارونی', 'پنیر مک', 'پنیر ماکارونی', 'شام', 'پنیر', 'قشنگ پنیر']	ماکارونی و پنیر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['زاتارينز نيو اورلينز سبک جامبالايا مخلوط', 'مخلوط جامبالیا', 'مخلوط جامبالیا', 'مخلوط جامبالیا', 'مخلوط جامبالیا', 'برنج', 'مخلوط زاتاراین جمالیا', 'جمالیا', 'مخلوط زاتاراین جمالیا', 'مخلوط جامبالیا']	این تصویر اطلاعاتی در مورد مواد تشکیل دهنده مخلوط جامبالاوی ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['آب نبات خياباني با کيفيت', 'شیرینی های جعبه ای', 'آب نبات', 'آب نبات', 'آب نباتات سخت', 'آب نبات', 'آب نبات', 'آب نبات', 'خيابون هاي با کيفيت', 'آب نبات']	این تصویر اطلاعاتی در مورد اندازه این آب نبات ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ببخشيد، بگويد در اين عکس دقیقاً چه چيزي رو مي بينيد؟\
+	['یخچال', 'یخچال', 'یخچال', 'ساندویچ کوچک ساندویچ چوبی ساندویچ پرتاب شده در دیوار', 'یخچال', 'یخچال کوچک', 'یخچال کوچک', 'درب کابینت', 'یخچال سفید', 'یخچال']	یخچال کوچک سفید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اون چيزي که تو جعبه نوشته؟\
+	['نوه هاي خوشگلي', 'يه چيزي در مورد نوه هاي خوشگل', 'خوشمزه', 'هيچ چيز خوشگليتر از نوه ها نيست', 'چند چيز خوشگلي تر از نوه ها هستن که براي آغوشت ميجنگن', 'نوه هاي خوشگلي', 'نوه هاي خوشگلي', 'چند چيز خوشگلي تر از نوه ها هستن که براي آغوشت ميجنگن', 'قابل به پاسخ نیست', 'نوه هاي خوشگلي']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. آسمان چطوره؟\
+	['روشن', 'غروب آفتاب طلوع آفتاب', 'آبی', 'شب', 'آبی', 'روشن', 'روشن', 'آرام', 'آبی روشن', 'آبی روشن تر آبی نزدیک افق']	خاکستری
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين پيراهن چه رنگيه؟\
+	['رنگ قرمز', 'قهوه ای', 'رنگ قرمز', 'رنگ بیج', 'رنگ بیج', 'رنگ صورتی', 'قهوه ای', 'رنگ قرمز', 'طلا', 'رنگ خاکستری']	کرم رنگ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. پسر است یا دختر؟\
+	['قابل به پاسخ نیست', 'پسر', 'پسر', 'دختر', 'پسر', 'پسر', 'پسر', 'پسر', 'پسر', 'پسر']	boy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً مي تونيد بهم بگيد اين چه چيزيه؟\
+	['غلات', 'خوش حال باش', 'غلات', 'خوش حال باشيد', 'قابل به پاسخ نیست', 'غلات', 'عسل خوشمزه', 'حالا خوشمزه تر شده عسل', 'عسل', 'عسل']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه رنگيه؟\
+	['قرمز رنگ زرد سفید آبی', 'رنگ برقی', 'رنگ سبز آبی سفید قرمز', 'رنگ های مختلف', 'رنگ رنگ', 'رنگ برقی', 'آبی سبز سفید قرمز', 'رنگ برقی', 'رنگ آبی سفید سبز', 'آبی سبز قرمز سفید']	قرمز سبز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['کاکائو داغ', 'مخلوط کاکائو داغ', 'مخلوط کاکائو داغ', 'مخلوط کاکائو داغ', 'مخلوط کاکائو', 'کاکائو داغ', 'شکلات داغ', 'مخلوط شکلات داغ', 'بسته شکلات داغ', 'شکلات داغ']	کاکو داغ نستله
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['قابل به پاسخ نیست', 'آبجو سبک مخصوص همس', 'آبجو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آبجو', 'آبجو', 'آبجو', 'آبجو', 'نور ویژه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این مرغ یا کلر است؟\
+	['گوجه فرنگی', 'گوجه فرنگی', 'گوجه فرنگی', 'گوجه فرنگی', 'نه', 'گوجه فرنگی', 'سوپ گوجه فرنگی', 'گوجه فرنگی', 'گوجه فرنگی', 'نه']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چی میگه؟\
+	['مک بوک پرو', 'مک بوک پرو', 'مک بوک پرو', 'مک بوک پرو', 'مک بوک پرو', 'مک بوک پرو', 'مک بوک پرو', 'هواپیمایی کتاب پرو', 'مک بوک پرو', 'مک بوک پرو']	تصویر نام کامپیوتر را نشان نمی دهد
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دوست دارم بدونم که تو اين ظرف چي هست\
+	['لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا', 'لوبیا پخته شده در سس گوجه فرنگی', 'دختر مزرعه لوبيا پخته شده', 'لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا', 'لوبیا پخته شده', 'لوبیا']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چي هست؟\
+	['مرغ', 'قابل به پاسخ نیست', 'مرغ پارمزان کرم دار', 'غذا', 'شام تلویزیونی', 'غذا', 'پنیر مک', 'غذا', 'غذاي ماري کولندرز', 'مرغ پارمزان کرم دار']	تصویر موجود نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['اسکناس دلاری', '1 دلار', 'دلار', '1 دلار', '1', '1 دلار', 'اسکناس دلاری', 'اسکناس 1 دلاری', '1 دلار', '1 دلار آمریکا']	دلار آمریکا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه؟\
+	['کارت بازی', 'دو تا پادشاه', 'پادشاهان جفت', 'کارت بازی', 'کارت ها', 'کارت ها', 'کارت بازی', 'جفت', 'کارت ها', 'کارت بازی']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين سياه يا آبيه؟\
+	['قابل به پاسخ نیست', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'سیاه', 'خاکستری', 'خاکستری سیاه', 'سیاه']	خاکستری
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی صفحه چه نوشته شده؟\
+	['جعبه متن جستجو گوگل', 'گوگل', 'گوگل', 'گوگل گوگل جستجو احساس خوش شانس هستم', 'گوگل', 'جستجو گوگل', 'قابل به پاسخ نیست', 'گوگل', 'گوگل', 'قابل به پاسخ نیست']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'غذا', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت گاو سرخ شده', 'گوشت کباب شده سنتی', 'گوشت کباب شده سنتی']	گوشت کباب سنتی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور نوشيدنيه؟\
+	['پفری', 'پفری', 'پفری', 'پفری', 'پفری', 'پفری', 'پفری', 'پفری', 'پفری', 'پفری']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['ريموت تلويزيون', 'کنترل از راه دور', 'کنترل از راه دور', 'دوربين', 'کنترل از راه دور', 'دوربين', 'کنترل از راه دور', 'کنترل از راه دور', 'دوربين', 'کنترل از راه دور']	پاسخ نمی توانم به این سوال پاسخ دهم.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['گیاه خانه', 'گیاه', 'گیاه خانه', 'گیاه', 'گیاه', 'گیاه', 'گیاه', 'گیاه گلدان', 'گیاه', 'گیاه خانه']	این گیاه گلدانی است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['میز', 'کامپیوتر', 'میز', 'میز', 'میز', 'میز', 'میز کامپیوتری', 'میز', 'میز', 'کامپیوتر روی میز']	این تصویر اطلاعاتی در مورد اتاق ارائه نمی دهد
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی میز من چی هست؟\
+	['آیپاد تاچ', 'اپلیکیشن ها', 'تلفن', 'کاغذ تلفن هوشمند', 'کاغذ تلفن هوشمند', 'تلفن', 'تلفن', 'تلفن', 'تلفن همراه', 'تلفن']	تلفن همراه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه عکسی گرفتم؟\
+	['آیپد', 'عکس کیف قهوه ای آیپد کنار', 'قرص', 'آیپد', 'صفحه ورود به هولو', 'هولپلس', 'قرصی که نشان دهنده Hulu plus است', 'تبلت هولو پلاس وارد شوید', 'صفحه نمایش هولپلس', 'صفحه ورود به هولو پلاس در تبلت']	این تصویر صفحه نمایش کامپیوتر است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين بطري چيه؟\
+	['شامپو', 'شامپو', 'قابل به پاسخ نیست', 'سهمی', 'عزيزم', 'قابل به پاسخ نیست', 'مراقبت از موهای tresemme', 'شامپو', 'عطر', 'شامپو tresemme']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این مدل چیه؟\
+	['نوشابه', 'اسپریتی', 'بطری نوشابه', 'اسپریتی', 'قابل به پاسخ نیست', 'سودا اسپریتی', 'اسپریتی', 'بطری اسپریتی', 'قابل به پاسخ نیست', 'اسپریتی']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين محصول چي هست؟\
+	['مخلوط چکس', 'مخلوط چکس', 'مخلوط چکس', 'چدری مخلوط', 'مخلوط چکس', 'مخلوط چکس', 'مخلوط آشپز', 'مخلوط چکس', 'مخلوط چکس', 'چکس']	مخلوط چنای چدار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['بوقلمون دود شده', 'پانييني هندوانه دود شده', 'پانييني هندوانه دود شده', 'پانييني بوقلمون', 'پانييني هندوانه دود شده', 'پانييني هندوانه دود شده', 'پر کردن کفش', 'پاني', 'بوقلمون دود شده', 'پانييني هندوانه دود شده']	جایگزینی برای این تصویر موجود نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه نامه اي بايد تايپ کنم تا جايزه رو ببريم؟\
+	['.', '.', '.', '.', '.', '.', '.', '.', '.', '.']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور قوطي هست؟\
+	['گوجه فرنگی', 'سس', 'گوجه فرنگی', 'گوجه فرنگی خرد شده', 'قلع', 'گوجه فرنگی', 'گوجه فرنگی', 'گوجه فرنگی کنسرو شده', 'گوجه فرنگی', 'گوجه فرنگی']	قوطی فلزی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور فنجان کيرگيه؟\
+	['خونه دونات', 'قهوه', 'جعبه', 'دونات', 'مجموعه خانه دونات', 'دونات', 'دونات', 'مجموعه کلبه دونات', 'سوراخ دونات', 'جمع آوری سوراخ دونات']	دونات
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً اسم این کتاب رو بهم بگو؟\
+	['طلوع مهتاب', 'قابل به پاسخ نیست', 'نویسنده: کليف کالسلر', 'فقط نام نویسندگان بدون عنوان نشان داده شده است', 'کليف کالسلر ديرک کالسلر', 'کليف کالسلر', 'کليف کالسلر ديرک کالسلر', 'کليف کالسلر ديرک کالسلر', 'کليف کالسلر ديرک کالسلر', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['پول', 'پول', '20 دلار', 'پول', '20 دلار', '20 دلار', '20 دلار', 'اسکناس 20 دلاری', '20 دلار', '20 دلاری']	این پول 20 دلار است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این شامپو یا بدنشویی هست؟\
+	['کرم', 'کرم بدن', 'کرم', 'کرم بدن', 'کرم بدن فومن', 'کرم بدن', 'کرم بدن', 'کرم', 'کرم بدن', 'کرم بدن']	بدنشویی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين عکس چي هست؟\
+	['کریکر', 'کریکر های جعبه ای', 'جعبه کریکر', 'جعبه کریکر', 'کریکر', 'کریکر', 'کریکر', 'کریکر', 'کریکر', 'کریکر']	کلوچه های جادویی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این عکس چیه؟\
+	['تلفن', 'مک بوک پرو', 'مک بوک پرو', 'مانیتور کامپیوتر', 'قابل به پاسخ نیست', 'لپ تاپ', 'کامپیوتر', 'مک بوک پرو', 'صفحه نمایش مک بوک پرو', 'کامپیوتر لپ تاپ']	تصویر صفحه نمایش کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['آب', 'آب', 'آب بلور طبیعی', 'آب بلور', 'بطری آب', 'بطری آب', 'بطری آب', 'آب', 'بطری آب', 'آب']	این بطری آب است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع پيزايه؟\
+	['پپپروونی', 'مامان خوشگل', 'مامان پيتزا نازک خوشمزه اي داره', 'پپپروونی', 'پیتزا یخ زده', 'پپپروونی', 'نازک', 'پپروني پوست نازک از ماما کوزيس', 'مامان خوشمزه است', 'مامان خوشگل']	پیتزا پپرونی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين ظرف چي هست؟\
+	['ذرت کامل', 'ذرت', 'ذرت', 'ذرت', 'ذرت کامل', 'ذرت کامل', 'ذرت', 'غذاهاي با ارزش مي تونن', 'ذرت', 'ذرت']	ذرت
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['موش', 'موس کامپیوتر', 'موس کامپیوتر', 'موس کامپیوتر', 'موس کامپیوتر', 'ماوس با سیم HP', 'موس کامپیوتر', 'موس کامپیوتر', 'موش hp', 'موش']	ماوس کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['دفتر', 'صندلی ها', 'دفتر', 'صندلی اداری', 'صندلی', 'صندلی میز', 'دفتر خانگی', 'دفتر', 'دو تا صندلی میز', 'صندلی']	این اتاق خالی است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['تلویزیون', 'تلویزیون', 'تلویزیون', 'مانیتور تلویزیون قدیمی', 'تلویزیون', 'تلویزیون', 'مانیتور', 'صفحه تلویزیون', 'تلویزیون', 'مانیتور']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لباس من چه رنگیه؟\
+	['سیاه سفید', 'آبی سفید سیاه', 'سیاه', 'آبی', 'نیروی دریایی', 'نشان سیاه و سفید', 'سیاه سفید', 'آبی', 'آبی', 'سیاه سفید']	آبی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه رنگيه؟\
+	['قرمز', 'قرمز', 'قرمز', 'قرمز', 'صورتی', 'قرمز', 'قرمز', 'قرمز', 'قرمز', 'قرمز']	قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين ها چيپس هاي عادي هستن يا چيپس هاي نمک و سرکه؟\
+	['نمک', 'منظم', 'منظم', 'تراشه های معمولی', 'منظم', 'منظم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'منظم', 'قابل به پاسخ نیست']	چيپس عادي
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور جعبه ايه؟ آب پرتقال يا شير؟\
+	['آب پرتقال', 'آب پرتقال', '. .', 'آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'آب پرتقال', 'نارنجی', 'آب پرتقال', 'کارتونی کاغذی آب پرتقال']	آب پرتقال
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چيه؟\
+	['تراشه', 'تراشه', 'تراشه', 'چیپس سیب زمینی', 'چیپس سیب زمینی', 'چیپس پیاز خامه ترش', 'تراشه', 'چیپس سیب زمینی', 'تراشه', 'چیپس سیب زمینی']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين کيف چي هست؟\
+	['قابل به پاسخ نیست', 'سبزیجات منجمد', 'سبزیجات', 'هویج نخود ذرت لوبیا سبز', 'سبزیجات', 'نخود هویج ذرت', 'سبزیجات مخلوط', 'سبزیجات', 'سبزیجات مخلوط', 'ذرت هویج لوبیا نخود نخود']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع اسپارکيه؟\
+	['لیموناد صورتی', 'لیموناد صورتی', 'قابل به پاسخ نیست', 'لیموناد صورتی', 'قابل به پاسخ نیست', 'لیموناد صورتی', 'نارنجی', 'توت فرنگی', 'قابل به پاسخ نیست', 'لیموناد صورتی']	انسان
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جوريه؟\
+	['مانویچ', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مانویچ', 'مانویچ', 'مانویچ', 'گوجه فرنگی', 'مانویچ', 'مانویچ', 'جو بی احتیاط']	این تصویر اطلاعاتی در مورد دستور غذا ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. الان چه فصليه؟\
+	['اسپگتی', 'اسپگتی', 'داروخانه های اسپاگتی', 'داروخانه های اسپاگتی', 'اسپگتی', 'داروخانه های اسپاگتی', 'داروخانه های اسپاگتی', 'اسپگتی', 'اسپگتی', 'داروخانه های اسپاگتی']	سبز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['کتاب', 'مجله', 'مجله عمودی', 'مجله', 'مجله عمودی', 'مجله', 'مجله', 'مجله ی \" ورتیگو \"', 'مجله', 'مجله']	این مجله برای من قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیز چیه؟\
+	['دیوار', 'دیوار', 'دیوار', 'دیوار', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'دیوار', 'دیوار', 'دیوار']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['آب نبات', 'آب نباتات سخت توت فرنگی', 'آب نبات', 'آب نباتات سخت توت فرنگی', 'شیرینی', 'آب نباتات توت فرنگی', 'آذر', 'آب نباتات توت فرنگی', 'آب نبات', 'آب نباتات سخت توت فرنگی']	این تصویر یک آب نبات است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين کفش ها چه رنگي هستن؟\
+	['قهوه ای', 'سیاه', 'قهوه ای', 'قهوه ای', 'قهوه ای', 'قهوه ای', 'قهوه ای', 'پا', 'قهوه ای', 'رنگ برین']	رنگ قهوه ای
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['صفحه نمایش کامپیوتر', 'صفحه وب', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'وب سایت', 'صفحه نمایش کامپیوتر', 'مانیتور کامپیوتر', 'ماده', 'فایل pdf برای vizwiz', 'vizwizpdf مبهم است اما می تواند بخش مشارکت کنندگان را ببیند']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این عکس چیه؟\
+	['مانیتور', 'لپ تاپ', 'تلویزیون', 'کامپیوتر', 'لپ تاپ', 'تلویزیون', 'تلویزیون صفحه صاف', 'صفحه لپ تاپ', 'تلویزیون', 'قابل به پاسخ نیست']	صفحه نمایش کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['تلفن همراه', 'تلفن همراه', 'پيگر', 'قابل به پاسخ نیست', 'تلفن', 'تلفن همراه', 'تلفن همراه بلک بری', 'تلفن همراه', 'تلفن همراه', 'تلفن همراه']	تصویر تلفن همراه قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['یخچال', 'قابل به پاسخ نیست', 'یخچال', 'یخچال خوابگاه', 'یخچال', 'یخچال', 'یخچال', 'یخچال کوچک', 'یخچال', 'یخچال کوچک']	این یخچال کوچک سفید است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه رنگ جواهراتي بايد با اين لباس بپوشم؟\
+	['نقره', 'نقره', 'سفید', 'طلا', 'سیاه', 'نقره', 'نقره', 'نقره', 'نقره', 'نقره']	مشکی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['پا', 'شلوار جین', 'ران', 'پوتین پا', 'مبل دست', 'شلوار', 'بالش', 'قابل به پاسخ نیست', 'پاهاي شلوار', 'پا']	تصویر بسیار تاریک است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['سگ', 'قابل به پاسخ نیست', 'سگ', 'سگ', 'سگ', 'سگ', 'سگ', 'سگ', 'قابل به پاسخ نیست', 'سگ روی زمین']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['دوربين', 'دوربين', 'کنترل از راه دور', 'کنترل کننده تلویزیون', 'ريموت تلويزيون', 'کنترل از راه دور', 'دوربين', 'دوربين', 'کنترل از راه دور', 'کنترل از راه دور']	این کنترل از راه دور است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این موز ها سبز یا زرد هستند؟\
+	['رنگ سبز', 'زرد', 'زرد', 'زرد', 'سبز', 'زرد', 'زرد', 'زرد', 'زرد', 'زرد']	زرد
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين محصول چي هست؟\
+	['غلات', 'کاشی گو، گوشت نازک، عسل، بادام، کتان', 'کاشی برو \"چروک لاغری\"', 'گولان کرنچ کاشی', 'غلات', 'غلات لاغر', 'برو به \"لِن کرنچ\"', 'کاشی گو، گوشت نازک، عسل، بادام، کتان', 'غلات', 'غلات']	گرانولا
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. الان روی صفحه تلویزیون چی هست؟\
+	['هیچ چیز', 'هیچ چیز', 'هيچ چيز', 'هیچ چیز', 'هیچ چیز', 'هیچ چیز', 'هیچ چیز', 'هیچ چیز', 'قابل به پاسخ نیست', 'هیچ چیز']	صفحه تلویزیون خالی است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['گوشت', 'گوشت گاو', 'گوشت گاو', 'استیک بسته بندی شده', 'گوشت', 'گوشت', 'قابل به پاسخ نیست', 'گوشت گاو', 'استیک', 'گوشت']	این استیک است که برای فروش نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این پیام چی میگه؟\
+	['قابل به پاسخ نیست', 'به اتمام برميگردد', 'قابل به پاسخ نیست', 'بازسازی کامل', 'بازسازی کامل', 'قابل به پاسخ نیست', 'بازسازی کامل', 'بازسازی کامل', 'بازسازی کامل', 'بازسازی کامل']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين ظرف چه غذايي داره؟\
+	['سوپ', 'سوپ سبزیجات باغچه ای', 'سوپ سبزیجات باغ', 'سوپ سبزیجات', 'سوپ سبزیجات باغ', 'سوپ سبزیجات باغ', 'سوپ', 'سوپ سبزیجات باغچه ای', 'سبزیجات باغ', 'سوپ سبزیجات باغ']	سوپ سبزیجات
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'می تونه', 'سوپ نخود شکسته', 'سوپ نخود شکسته', 'سوپ نخود شکسته', 'سوپ نخود شکسته', 'سوپ', 'ميتونه سوپ نخود بخوره', 'سوپ نخود شکسته', 'سوپ']	این تصویر اطلاعاتی در مورد مواد تشکیل دهنده سوپ ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. مبل یا میز؟\
+	['جدول', 'جدول', 'جدول', 'جدول', 'جدول', 'جدول', 'جدول', 'جدول', 'جدول', 'اين ميز']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين ظرف چه غذايي داره؟\
+	['راديويل', 'راديويل', 'راديويل', 'ذرت', 'راديويل', 'راديويل', 'راديويل', 'راديويل', 'غذاهاي راويولي', 'راديويل']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی صفحه چه چیزی هست؟\
+	['پیام خطای', 'پاپ اپ برای راه اندازی تعمیر کامپیوتر راه اندازی مجدد', 'دوباره شروع', 'جعبه دیالوگ که می گوید شما مطمئن هستید که می خواهید از راه اندازی تعمیرات خارج شوید کامپیوتر خود را دوباره راه اندازی کنید', 'تعمیر راه اندازی', 'دستورالعمل های به روز رسانی ویندوز', 'قابل به پاسخ نیست', 'تعمیر راه اندازی', 'گزینه راه اندازی مجدد کامپیوتر', 'تعمیر راه اندازی']	صفحه کامپیوتر با اطلاعاتی در مورد تعمیر کامپیوتر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. بذار اینو امتحان کنیم، میشه بهم بگین این چیه؟\
+	['لوبیا', 'لوبیا پخته شده', 'لوبیا', 'لوبیا پخته شده', 'بوته ها لوبیا پخته شده', 'می تونه', 'لوبیا کنسرو', 'بوته ها لوبیا پخته شده', 'لوبیا پخته شده', 'لوبیا']	این عکس پشت قوطی غذا نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چه جور تلفنيه؟\
+	['ل', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'اندروید', 'lg', 'آره']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['گوشی هوشمند', 'تلفن همراه', 'تلفن همراه', 'تلفن', 'تلفن همراه', 'تلفن همراه', 'تلفن همراه', 'گوشی هوشمند', 'تلفن', 'تلفن']	تصویر تلفن همراه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['لپ تاپ', 'دست', 'صفحه کلید لپ تاپ', 'دست', 'انگشت ها', 'دست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'میز', 'دست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['کابرنت 2009', 'شراب', 'شراب', 'شراب', 'کابرنت ساوینون', 'شراب بطری', 'شراب', 'شراب', 'شراب آسمان اسب کلمبیا کابرنت 2007', 'شراب']	این بطری شراب است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اون بطری چی هست؟\
+	['کوک', 'نوشابه شاید کوکاکولا', 'نوشابه', 'نوشابه کوکا کولا', 'نوشابه', 'نوشابه', 'کوک', 'نوشابه', 'کوک', 'نوشابه']	cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً اين چه رنگیه؟\
+	['نوار قرمز سفید', 'قرمز', 'نوارهای سفید قرمز', 'نوارهای سفید قرمز', 'قرمز سفید', 'سفید قرمز', 'پیراهن', 'قرمز سفید', 'قرمز سفید', 'قرمز سفید']	قرمز و سفید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين کيف چي هست؟\
+	['بروکلی', 'بروکلی', 'بروکلی', 'بروکلی', 'بروکلی', 'اما بروکلي', 'بروکلی', 'بروکلی برش داده شده', 'بخار n سرو بروکلی برش داده شده', 'بروکلی']	این کلم بروکلی است که در مایکروویو پخته می شود.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اون کوپن واسه چي هست؟\
+	['ماست', 'ماست', 'ماست یپلايت', 'ماست يپلايت 10 دلار', 'یپلايت', 'ماست يپلايت 10 دلار', 'ماست یپلايت', 'ماست', 'تخفیف', 'ماست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور يه پاپه؟\
+	['نستیا', 'چای یخ کنسرو شده', 'لیمو', 'آب لیمو', 'نستیا', 'نستیا', 'نستیا', 'نستیا', 'فیستا', 'نستیا']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['آیپد', 'قرص', 'کامپیوتر', 'آیپد', 'پد موش', 'لپ تاپ', 'پنجره', 'قرص', 'قابل به پاسخ نیست', 'آیپد']	تصویر روشن نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی صفحه چه چیزی هست؟\
+	['میخوای با استفاده از سیستم بازیابی سیستم خود را بازیابی کنی؟', 'پیام خطای', 'آیا می خواهید کامپیوتر خود را با استفاده از سیستم بازگرداندن بازگردانی', 'راه اندازی', 'صفحه تشخیصی پرداخت شده برای راه اندازی', 'سیستم ها سوال بازگرداندن: آیا شما می خواهید برای بازگرداندن کامپیوتر خود را استفاده کنید', 'تعمیر راه اندازی', 'تعمیر راه اندازی', 'سوال برای بازگرداندن کامپیوتر', 'آیا می خواهید کامپیوتر خود را با استفاده از سیستم بازگرداندن بازگردانی']	صفحه کامپیوتر با اطلاعات کم و پاسخ نامرتب
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه جور نوشابه اي هست؟\
+	['اسپریتی', 'اسپریتی', 'اسپریتی', 'اسپریتی', 'اسپریتی', 'اسپریتی', 'اسپریتی', 'اسپریتی', 'اسپریتی', 'اسپریتی']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی صفحه چه نوشته؟\
+	['آیا می خواهید کامپیوتر خود را با استفاده از سی دی سیستم بازگردانی کنید؟', 'بازگردان', 'آیا می خواهید کامپیوتر خود را با استفاده از سیستم بازگردانی کنید', 'کامپیوتر شما قادر به شروع راه اندازی تعمیر نیست برای بررسی سیستم شما برای مشکلات', 'آیا می خواهید کامپیوتر خود را با استفاده از سیستم بازگردانی کنید', 'تعمیر راه اندازی', 'کامپیوتر شما نمی تواند شروع شود', 'کامپیوتر شما قادر به شروع نبود راه اندازی تعمیر بررسی سیستم شما برای مشکلات', 'کامپیوتر نمی تونه شروع بشه', 'بازگردان']	بازگشت
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين ظرف چي هست؟\
+	['سبزیجات', 'وگروگ', 'سبزیجات مخلوط', 'اصل سبزيجات', 'سبزیجات مخلوط', 'سبزیجات', 'گال', 'سبزیجات', 'سبزیجات', 'سبزیجات مخلوط']	سبزیجات مخلوط
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو چه چیزی در تصویر می بینی؟ تو چه چیزی در تصویر می بینی؟\
+	['هیچ چیز', 'آسمان', 'سینک', 'آسمان', 'قابل به پاسخ نیست', 'آسمان', 'هیچ چیز', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آسمان']	تصویر تار است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه جور نوشابه اي؟\
+	['کوکا کولا', 'کوکا کولا', 'کوکا کولا', 'کوکا کولا', 'کوکا کولا', 'کوکا کولا', 'کوکا کولا', 'کوک', 'کوکا کولا', 'کوکا کولا']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور سيستميه؟\
+	['دسکتاپ', 'قابل به پاسخ نیست', 'پنجره ها', 'کامپیوتر رومیزی', 'پنجره ها', 'پنجره ها', 'پنجره ها', 'ویندوز پی سی', 'پنجره ها', 'پنجره ها']	ويپ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه خبر شده؟\
+	['سخنران', 'سخنرانان', 'طبقه', 'سخنرانان', 'سیستم بلندگو', 'سخنران', 'سخنران', 'سخنران', 'سخنران', 'سخنرانان']	تصویر موجود نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روشنه رو روی لپ تاپ کنترل می کنه؟\
+	['آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'نه', 'آره']	پاسخ قابل به پاسخ نیست. روشنه رو روی لپ تاپ کنترل نمی کند.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي که اين بطري چي ميگه؟\
+	['کرم بدن با قند وانیلی گرم', 'شکر وانیلی گرم', 'شکر وانیلی گرم', 'شکر وانیلی گرم', 'کرم بدن با قند وانیلی گرم', 'شکر وانیلی گرم', 'کرم گرم شکر وانیل', 'شکر وانیلی گرم', 'کرم بدن با قند وانیلی گرم', 'وینیل گرم شکر']	لوسيون بدن
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه شماره ي 800 رو از اين کارت بهم بگي؟ و ميتوني اين سوال رو بشنوي؟\
+	['1 800 735 2929 نمی تونم بشنوم', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '۱۸۷۷۳۲۸۹۶۷۷', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 نه', '18773289677 نه', '1 877 328 9677', '8007352929 نه']	1-877-328-9677
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چراغ اتاق روشن بود يا خاموش؟\
+	['چراغ ها خاموش شده', 'از کار', 'در', 'از کار', 'در', 'قابل به پاسخ نیست', 'در', 'در', 'در', 'در']	خاموش
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه طعميه؟\
+	['گل گیلاس', 'لیموناد صورتی', 'پنچ میوه', 'لیموناد صورتی', 'لیموناد صورتی', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'لیموناد صورتی', 'گل گیلاس', 'لیموناد صورتی']	قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این پیام چی میگه؟\
+	['بازسازی کامل', 'قابل به پاسخ نیست', 'بازسازی موفق به اتمام رسید', 'بازسازی کامل', 'بازسازی کامل', 'بازسازی کامل', 'بازسازی کامل', 'ثبت نام کامل', 'بازسازی کامل', 'بازسازی کامل']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لباس من چه رنگیه؟\
+	['سفید', 'سفید', 'سفید', 'سفید', 'سفید', 'سفید', 'سفید', 'سفید', 'سفید', 'سفید']	سفید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['شامپو درمان رنگ پیشرفته', 'شامپو', 'شامپو درمان رنگ پیشرفته', 'شامپو', 'شامپو درمان رنگ', 'شامپو', 'درمان رنگ', 'شامپو', 'درمان رنگ پیشرفته', 'درمان رنگ']	این تصویر اطلاعاتی در مورد شامپو برای رنگ مو ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قوطی ها', 'غذاهای گربه', 'قابل به پاسخ نیست', 'سینک', 'می تونه', 'سینک', 'شستن', 'سینک', 'سینک', 'می تونه']	این تصویر برای پاسخ دادن به این سوال من استفاده نشده است.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين کدوم بازي است؟\
+	['اسپان nfl 2k', 'فوتبال', 'nfl 2k', 'اسپان nfl 2k5', 'اسپن 2k5', 'فوتبال اسپن 2K', 'nfl 2k', 'فوتبال', 'nfl 2k', 'فوتبال']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['پاني', 'پاني', 'پانييني هندوانه دود شده', 'پانييني هندوانه دود شده', 'پانييني هندوانه دود شده', 'پانييني بوقلمون دود شده', 'پانييني بوقلمون', 'قابل به پاسخ نیست', 'پانييني هندوانه دود شده', 'پانييني هندوانه دود شده']	جایگزینی برای این تصویر موجود نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين جعبه چي هست؟\
+	['لازانیا', 'شام يخ زده', 'لازانيه ي خاص', 'لازانيه ي خاص', 'لازانیا', 'لازانيه ي خاص', 'لازانیا', 'لازانیا', 'لازانیا', 'لازانیا']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیز چیه؟\
+	['طبیعت دره جوس شکلات تیره بار گرانولا', 'بار خیس', 'بار دانه', 'بار دانه', 'بار دانه', 'بار دانه', 'شیره ی طبیعت و شکلات تیره', 'شیره و شکلات تیره', 'بار گرانولا شکلات تیره', 'بار دانه']	شکلات تیره غلات و گندم
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['بازی های ویدئویی', 'بازی پلی استیشن 2', 'بازی جنگ ستارگان برای پلی استیشن 2', 'بازی جنگ ستارگان', 'بازی های ویدئویی', 'بازی های ویدئویی', 'جنگ ستارگان جنگ 2', 'بازی', 'بازی پلی استیشن 2', 'بازي پسي']	این بازی است که برای بازی های ویدیویی ساخته شده است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين يه جور دوست قهوه اي هست؟\
+	['وانیل فرانسوی', 'وانیل فرانسوی', 'وانیل فرانسوی', 'نست', 'وانیل', 'وانیل فرانسوی', 'قهوه ماته', 'وانیل فرانسوی', 'وانیل فرانسوی', 'وانیل فرانسوی']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['آب پرتقال', 'آبمیوه', 'آبمیوه', 'آب پرتقال', 'آبمیوه', 'خوشمزه آبدار', 'نرم و آبدار', 'آبمیوه', 'آب پرتقال', 'آبمیوه']	این تصویر اطلاعاتی در مورد نوشیدنی ارائه نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سنگ هاي اين گوشواره چه رنگي هستن؟\
+	['صورتی', 'قرمز', 'قرمز', 'صورتی', 'بنفش', 'صورتی', 'صورتی', 'صورتی', 'صورتی', 'صورتی']	قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. برچسب این دستگاه الکترونیک چه میگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اگه بتوني بخوني اين صفحه دقیقاً چي ميگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نميتونم صفحه رو بخونم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نميتونم بخونم', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين بطري چي هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کرم', 'ویتامین ها', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مطمئن نيستم', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين نوار انرژي چطوري داره؟\
+	['توت فرنگی', 'خمیر بادام', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آب نبات', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'خمیر بادام']	نوار انرژي چطوري توت فرنگی و آلو است.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چی میگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'توجه', 'n', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'اخبار', 'قابل به پاسخ نیست']	پاسخ قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع غذاه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. خب من دارم سعی می کنم بفهمم این چه نوع رادیویی است، پس هر اطلاعاتی که می توانم برای خودم داشته باشم، عالی خواهد بود، ممنون.\
+	['نميدونم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'احتمالاً در خانه IP9 است', 'قابل به پاسخ نیست', 'گوشت خوک', 'قابل به پاسخ نیست', 'قابل حمل', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. خیلی متاسفم نمی دونم چطور...\
+	['کمی دورتر حرکت کنید تا دوربین تمرکز کند', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. کدوم يکي از اينها بهترين فيلم هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ساده']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['این اسلاید', 'صورتی', 'قابل به پاسخ نیست', 'بنفش', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'درخشش', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اسم این کرم چیه؟\
+	['قابل به پاسخ نیست', 'نوکسما', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه وقت پايان ميده؟\
+	['۹.۲۷.۱۳', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '23 سپتامبر 2013', '23 سپتامبر 2013', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '23 سپتامبر 2013', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تا کي بايد اينو پخت؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'پنج دقیقه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'پنج دقیقه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	5 دقیقه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['لباس های کلان', 'گوشه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'تلفن', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر بسیار تاریک است و اطلاعات موجود نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر ناکارآمد
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این آهنگ چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'حشره در عکس', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سوسک']	این آهنگ برای پاسخ دادن به سوال استفاده نمی شود
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اون زير پنجره ها چي ميگه که نميتونه اين سيستم رو به طور خودکار تعمير کنه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'راه اندازی تعمیر نمی تواند به طور خودکار این کامپیوتر را تعمیر کند', 'قابل به پاسخ نیست', 'راه اندازی', 'راه اندازی تعمیر نمی تواند به طور خودکار این کامپیوتر را تعمیر کند', 'قابل به پاسخ نیست']	نمی توانم پاسخ دهم.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چقدر سديم تو اين بسته هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ساموا', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روي صفحه نشون ميده که داره بهبود مياره؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه پرده اي؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مطالعه کن', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اسم این میانجیگری چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '0', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. رنگش چيه؟\
+	['قرمز سفید', 'قابل به پاسخ نیست', 'سفید', 'سفید', 'قابل به پاسخ نیست', 'قرمز سفید', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً توضیح بده که برچسب روی روترم چی میگه ممنون\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تاریخ انقضا این کارت اتوبوس چقدره؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. فقط بگو\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'زنو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چي ميگه، اين چي ميگه\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ردیف ها ستون ها اعداد مبهم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unable to answer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ساعت چند شده؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'فلش در دوربین ساعت رندر کردن نمی تواند بخواند', 'نميشه ديد', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نميتونم بگم', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه دستورات استفاده از اين شامپو رو بهم بگي؟ ممنون.\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'EDFCFD', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. يه دکمه هست که بايد فشار بدم تا دوباره شروع بشه يا بايد صبر کنم؟\
+	['برنامه ریزی سیستم', 'قابل به پاسخ نیست', 'آره', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'نه', 'صبر کن', 'وصلش کن']	صفحه شروع
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اگر کارت در این تصویر نشان داده شده باشد، چه می گوید؟\
+	['قابل به پاسخ نیست', 'نمایان نشده', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'هیچ کلمه ای', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	این کارت قابل استفاده نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. آزمون؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'دوربين', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ريموت صداي محيطي', 'سوال به عکس مربوط نمیشه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. حرف زدن واقعی\
+	['قابل به پاسخ نیست', 'نامشخص', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. من با یک کاپچا کار می کنم اما نمی توانم صفحه نمایش را ببینم و برای درخواست چیزی از یک وب سایت به آن نیاز دارم. می توانید به من بگویید کاپچا چیست؟\
+	['نه 1', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'نه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميدونم که ميگه ده فرمان، اما ده فرمان چي هستن؟\
+	['قوانینی که خدا به مؤمنانش داده است.', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قوانین اخلاقی', 'قابل به پاسخ نیست', 'فرمان هاي خدا', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قوانین', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه کامپيوترم چي ميگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'خیلی تار', 'صفحه خالی']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور حليب نوزادي ست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'من فرمول نوزاد رو نمي بينم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين دارو چي هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين کارت چيه؟\
+	['قابل به پاسخ نیست', 'کارت اعتباری قرمز', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کارت اعتباری', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين کارت چي ميگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'فقط 1612 قابل مشاهده است', 'قابل به پاسخ نیست', 'هیچ چیز', 'قابل به پاسخ نیست', '1 6 12', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['صابون', 'محصول', 'قابل به پاسخ نیست', 'شیر', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قطره های چشم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	این تصویر اطلاعاتی در مورد محصول ارائه نمی دهد
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. خب، اين ديگه چه جور گوشتيه؟\
+	['جک لینک', 'ds', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'گوشت گاو', 'قابل به پاسخ نیست', 'گوشت گاو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين کارت هديه براي چي هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'تصویر بی جواب', 'قابل به پاسخ نیست', 'نميتونم بگم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه نوع غذاي قوطي هست؟\
+	['آب لیمو', 'قابل به پاسخ نیست', 'آب لیمو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آب لیمو', 'قابل به پاسخ نیست', 'آبنبات']	لیمو
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ساعت چند شده؟\
+	['قابل به پاسخ نیست', '532', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ساعت 5:13', 'ساعت 5:13', 'قابل به پاسخ نیست', 'ساعت 5:10', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	12:17
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين ظرف چه محصولي داره؟\
+	['نميتونم بگم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بگيد دماي فرون معمولي چقدره و چند دقيقه و بايد پوشش رو سوراخ کنم؟ ممنون.\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ASDD', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين فر آماده به نظر مياد؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه فر', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آره فکر کنم آماده', 'نه', 'قابل به پاسخ نیست']	فر آماده پختن نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. کمک کرد؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. کد که باید تایپ بشه چیه؟\
+	['قابل به پاسخ نیست', 'ایمیل', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه جور پیراهنی میپوشم؟\
+	['قابل به پاسخ نیست', 'ابریشم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سفید', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چه نوع شام يخ زده ايه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چی میگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'تصویر خالی', 'هیچ چیز', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر سیاه
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه مارکيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سانيو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تنظیمات دمای کوره چقدره؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'gfdsg', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه لطفا بگي تو اين بطري چي هست؟\
+	['سس گوجه فرنگی', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سس ماستا', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سس گوجه فرنگی', 'قابل به پاسخ نیست']	بطری مربعی شکل
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چی میگه؟\
+	['قابل به پاسخ نیست', 'قرص های آزیترومیسین 250mg', 'قرص', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '250 میلی گرم', 'قرص های آزیترومیسین', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه اين کلمات رو بخوني؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'هيچ خبري نيست']	تصویر سبز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این \"والیم\"ه؟\
+	['نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قادر به خواندن نام دارو نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چه آهنگیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نوار موسیقی', 'قابل به پاسخ نیست', 'آلبوم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'جينگل جينگل', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. بله این یک لپ تاپ HP است، من باید بدانم که خواننده کارت در رابطه با صفحه کلید کجاست. لطفاً تا حد ممکن دقیق باشید. ممنون.\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'در سمت', 'قابل به پاسخ نیست', 'من قادر به دیدن کارت خوان نیستم کارت خوان sd معمولا در گوشه چپ لبه جلو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	keyboard
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اسم عطر چيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'هيچ اسمي', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چه نوع حافظه ی حافظه ایه؟\
+	['قابل به پاسخ نیست', 'و o444', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'درام sdram pc3200', 'نميدونم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. درک میکنم ولی پشت کامیون سفید شکسته به نظر میاد\
+	['قابل به پاسخ نیست', 'نه', 'عکس از جلو من هیچ چیز غیرمعمولی نمی بینم', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'n0', 'قابل به پاسخ نیست', 'نه', 'نه']	تصویر شکسته
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور سوپيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مرغ', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه چیزی روی صفحه لپ تاپ دیده می شود؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	صفحه لپ تاپ دارای اطلاعات کمی است و پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه لطفاً؟\
+	['قابل به پاسخ نیست', 'سوپ', 'سوپ', 'سوپ قوطي', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سوپ', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['فرش', 'حوله های کاغذی', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'حوله کاغذی', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	این تصویر نام تجاری را نشان نمی دهد.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اينا چه طعميه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'منظم', 'اصلی', 'قابل به پاسخ نیست', 'برگرد', 'پنیر', 'تصویرگر']	طعم فلفل
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. کدام یک از این سه تصویر، لوگو گوگل است؟\
+	['قابل به پاسخ نیست', '0', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'اولین تصویر', 'چپ']	دومین تصویر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چي هست؟\
+	['قابل به پاسخ نیست', 'مطمئن نیستم', 'تار', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'برچسب', 'قابل به پاسخ نیست']	unable to answer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. از اين سنگ ها هم چيزي گم شده؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کیفیت تصویر ناکافی', 'قابل به پاسخ نیست', 'نه']	مخاط
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميخوام بدونم اين چه مارک عطر است\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تاریخ انقضا این پنیر چنده؟\
+	['نه', 'غیرقابل خواندن', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ترموستات چه دمايي تنظیم کرده؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', '75', 'قابل به پاسخ نیست', '75', 'قابل به پاسخ نیست', '75', '75', 'قابل به پاسخ نیست', 'نميشه ديد']	85
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين پيراهن چه رنگيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سیاه', 'قابل به پاسخ نیست', 'سیاه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سیاه', 'قابل به پاسخ نیست']	مشکی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. روی صفحه نمایش چی نوشته شده؟\
+	['پیام خطا راه اندازی مجدد', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'sys', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور نوشيدنيه لطفاً؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مطمئن نيستم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه خبر شده؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً بهم بگو که اينجا چي ميگه\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'جعبه', 'قابل به پاسخ نیست', 'جعبه کوچولو', 'قابل به پاسخ نیست']	پاسخ نمی توانم
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ترموستات چقدره؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نميتونم بخونم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين بطري چيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نميدونم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه همه ي کاراکترها رو در اين يکي بگيرم؟\
+	['\"آروبربري چاويز\"', 'قابل به پاسخ نیست', 'آره', 'آره', 'قابل به پاسخ نیست', '\"آروبربري چاويز\"', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'آره']	chavez
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. کلید محصول برای این نسخه خاموش\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. زود باش، دارم اون انتظار رو ميگيرم\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کفش', 'قابل به پاسخ نیست', 'کفش', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر موجود نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ساعت چند شده؟ و دمای دالاس تگزاس چقدره؟\
+	['ساعت 3:40', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ساعت 9:17 96 درجه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	13:20 79
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. حالتون چطوره؟\
+	['قابل به پاسخ نیست', 'خوب', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'خوب', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	مایل به زرد
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چي بود؟ جوابي که گرفتي چي بود؟\
+	['قابل به پاسخ نیست', 'مطمئن نیستم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'ثبت در صفحه', 'کامپیوتر', 'قابل به پاسخ نیست', 'برنامه ی نمایش']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه لطفاً؟\
+	['بطری پوششی پارچه ای', 'قابل به پاسخ نیست', 'پتو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه مارکيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سيكو', 'قابل به پاسخ نیست', 'تار', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نگاه کن', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه وبسايتيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سایت در مورد آیفون در خرید برنامه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور سوپ لباسشويي هست؟\
+	['قابل به پاسخ نیست', 'خورشید', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سوآویتل', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين بطري چي هست؟\
+	['هیچ چیز', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سوپ', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'غذا', 'قابل به پاسخ نیست']	تصویر در این متن قابل مشاهده نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين رسيدگي واسه چي هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه درستي هست که من دستم رو دارم\
+	['کارت ویزیت', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چی میگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کریسمس مبارک', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	پاسخ قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه چیزی میتونم عکس بگیرم؟\
+	['ساعت روی ورق', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نگاه کن', 'ساعت جیبی مایکی ماوس', 'اين ساعت جيبي گوشي هاي گوشي']	ساعت جیبی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه نمایش چی میگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'شرایط مجوز ویندوز', 'اصطلاحات جزئي خارج از صفحه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چيه؟\
+	['قابل به پاسخ نیست', 'جمع کردن', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'دست', 'جعبه']	unable to answer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه رنگيه؟\
+	['سفید خاکستری', 'بنفش', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قرمز سفید', 'قابل به پاسخ نیست']	خاکستری
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه خبر شده؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آشپزخانه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'عکس مرد پشت میز روی کامپیوتر', 'من اتاق نشیمن رو توی عکس میبینم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اسمش چيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'خوشبختی', 'خوشبختی', 'ايفوني', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه خبر شده؟\
+	['قابل به پاسخ نیست', 'نور', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نور', 'رنگ روشن', 'قابل به پاسخ نیست', 'نامشخص', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	پاسخ داده شده است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفا متن روی این جعبه را بخوانید که جعبه دیگری است.\
+	['wd', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سخته که بگم من به طور خاص دنبال يه شماره شناسايي هشت رقمي هستم ممنون\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'من چيزي نمي بينم ببخشيد', 'قابل به پاسخ نیست', 'خالی', 'من نميتونم چيزي مثل اين رو ببينم', 'قابل به پاسخ نیست', '0', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سخنران: میشه لطفاً عنوان این کتاب رو بهم بگید؟ ممنون.\
+	['قابل به پاسخ نیست', 'مواد هارمونیک در موسیقی تن', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چی میگه؟\
+	['دِرمن', 'هیچ چیز', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'بسته ی دستگیر']	پاسخ قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه نمایش چی میگه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. يه وقت ديگه\
+	['نمي تونم بفهمم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه به من بگي که سوال امنيتي يا شماره امنيتي و حرفش چيه تا بتونم اينو توي فيلدم اضافه کنم؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين اسکناس دلاري چه اسکناسيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'تصویر غیرقابل استفاده', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اون چيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'شمارنده', 'شمارنده', 'میز آشپزخانه', 'سقف کار']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين گاز ماريه؟\
+	['قابل به پاسخ نیست', 'احتمالا', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'شايد', 'شايد', 'نه', 'قابل به پاسخ نیست']	Sorry, as a base VLM I am not trained to answer this question.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. میشه لطفاً به من توضیح بدید که روی این صفحه ی کامپیوتری چه چیزی هست؟ خیلی ممنون.\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کامپیوتر نمیتونه شروع کنه', 'قابل به پاسخ نیست', 'کامپیوتر شما قادر به شروع نشد', 'قابل به پاسخ نیست', 'کامپیوتر شما قادر به شروع راه اندازی تعمیر نیست برای بررسی سیستم شما برای مشکلات', 'راه اندازی', 'قابل به پاسخ نیست', 'جعبه دیالوگ ناشناخته']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این کپچا چه کاراکتر هایی دارد؟\
+	['قابل به پاسخ نیست', 'ازدواج', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'جعبه ي سياه']	این کپچا اطلاعاتی در مورد کاراکترها، رنگ ها و طرح های موجود در تصویر ارائه نمی دهد، بنابراین نمی توانم به این سوال پاسخ دهم.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. میدونی چطور اینا رو بپزنی؟\
+	['قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'آره', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه']	اینا رو بپزنی که در این تصویر دیده نمی شود.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'صفحه نمایش کامپیوتر', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر نامرتب
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تا کي بايد اينو توي مايکروويو پخت کنم؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '8 دقیقه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	8 minutes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چطور اينو درست ميکني؟\
+	['فر', 'قابل به پاسخ نیست', 'پخت', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	Sorry, as a base VLM I am not trained to answer this question.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. و اون امضا نامه ها چي؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سیاسی', 'مرد', 'قابل به پاسخ نیست', 'هيچ سرنخي ندارم', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مرد آبی توی ساختمون']	قابل به پاسخ نیست. امضا نامه ها
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً دستورات روی این بطری شامپو رو بهم بگو\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'اگر می خواهید به موهای مرطوب اضافه کنید']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این عکس چیه؟\
+	['سقف', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اینه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'تلفن', 'قابل به پاسخ نیست', 'مردي که با تلفن همراه حرف ميزنه', 'قابل به پاسخ نیست', 'شخص', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تو اين ظرف چي هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'لوبیا', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'اين تصوير تار شده', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بگي لباسم چه رنگيه؟\
+	['نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه خبر شده؟\
+	['قابل به پاسخ نیست', 'سیم', 'قابل به پاسخ نیست', 'اسباب بازي سگ لاستيکي سياه', 'گیاه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر نامرتب است
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه وقت پايان ميده؟\
+	['نمیشه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'در عکس نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سال 2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين کارت چي هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'کارت نداره', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سیاه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين عکس در مورد چيست؟\
+	['قابل به پاسخ نیست', 'خالی', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر خالی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'سلف چرم', 'سگ', 'کیف پول', 'قابل به پاسخ نیست', 'هاردن سگ', 'حیوان']	تصویر داخلی کیف
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دستورات پخت اينها چيه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه جور ردپيشگري هست؟\
+	['قابل به پاسخ نیست', 'مداد', 'الگوی برگ', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'برگ', 'قابل به پاسخ نیست', 'علف های علف']	پشت بام
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سلام، ميشه بهم بگي تو دست راستم چي تو ظرف هست؟\
+	['قابل به پاسخ نیست', 'يه جور گوشت اما برچسب کاملا در عکس نيست', 'غذاهای کنسرو شده', 'قابل به پاسخ نیست', 'گوشت گاو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بگي اين از کيه؟\
+	['نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'نامه برگشت از پست', 'پاکت پشتي بدون نوشته', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه طعميه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مخلوط مخصوص نیومن', 'مخلوط مخصوص نمان', 'قهوه', 'مخلوط مخصوص \"نيومان\"', 'قابل به پاسخ نیست', 'خودِ \"نومن\"', 'قابل به پاسخ نیست']	قهوه سبز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	پاسخ نامرتب
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. فشار خون من چقدر هست؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', '105', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '109 تموم شد', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نميتونم تصویر رو بخونم قطع شده']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ما بهشون گفتيم که چه طعمي دارن\
+	['لیمو', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه لطفاً بهم بگي اين ظرف چي ميگه تا بتونم بفهمم که توي اون چي هست؟\
+	['قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. شماره به متن برجسته شده.\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. قرار بود پشت کارت نوشته بشه که چه جور عصا هستش از چي ساخته شده و غیره فقط ميخواستم بدونم چه نوع عصا هستش ممنون\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'يه چيزي چوب 14', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. فکر کنم دکمه ی \"اوکی\" رو فشار دادم؟\
+	['دکمه بعدی که باید روی آن کلیک کنید', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'فلاش', 'قابل به پاسخ نیست']	خورشید
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه دمايي؟\
+	['قابل به پاسخ نیست', '57', 'بیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '20', '20.7c', 'قابل به پاسخ نیست']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چیه؟\
+	['قابل به پاسخ نیست', 'علامت خوشامد', 'برچسب خوشامد', 'قابل به پاسخ نیست', 'علامت خوشامد', 'علامت خوشامد', 'قابل به پاسخ نیست', 'بنر خوشامد', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	تصویر تار
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه صورتيه؟\
+	['صورت نداره', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '0', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	پاسخ قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. شماره هاي روي اين کليد محصول چيه؟\
+	['قابل به پاسخ نیست', 'غیرقابل خواندن', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'غیرقابل خواندن', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. شماره ی این ساختمان که همین الان عکس گرفتم چیه؟ این کالج یاپاپی است.\
+	['3', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '3', 'قابل به پاسخ نیست', '9', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً به من بگويد که توي اين بسته چي هست\
+	['قابل به پاسخ نیست', 'سالاد حس برداشت', 'قابل به پاسخ نیست', 'چغندر', 'آب نبات', 'میوه های میوه', 'سخته که بفهمم شايد يه جورايي جوجه باشه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه دسکتاپم هم ظاهر میشه؟\
+	['sdfgh', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره']	نارنجی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. می تونی اینو بخونی؟\
+	['آره', 'قابل به پاسخ نیست', 'آره', 'اطلاعات وارداتی برای آبمیوه ساز', 'نه', 'اطلاعات مهم', 'بعضی ها', 'مهربون', 'نه', 'قابل به پاسخ نیست']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. میتونید با نگاه کردن به این، برچسب، بفهمید که چیه؟ فکر کنم یه قطعه باشه، یه دی وی دی در پست\
+	['آره', 'بله دی وی دی', 'نه', 'دی وی دی', 'دی وی دی', 'قابل به پاسخ نیست', 'برچسب مشخص نیست ولی سی دی', 'آره', 'قابل به پاسخ نیست', 'نه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دوربینم پوشیده شده؟\
+	['آره', 'آره', 'آره', 'sda', 'آره', 'نه', 'آره', 'نه', 'آره', 'آره']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين گوشت مرغيه؟\
+	['قابل به پاسخ نیست', 'نه', 'آره', 'احتمالاً نتونستم تمام برچسب ها رو ببينم', 'آره', 'قابل به پاسخ نیست', 'آره', 'آره', 'قابل به پاسخ نیست', 'آره']	قابل به پاسخ نیست.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این هنر است؟\
+	['آره', 'نقاشی از ورق آلومینیوم', 'آره', 'آره', 'آره', 'قابل به پاسخ نیست', 'آره', 'آره', 'آره', 'آره']	هنر
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سلام، فقط ميخواستم تاييد کنم که اينها واقعاً گوشت خوک هستن هر اطلاعات ديگه اي که واضح باشه ممنون ميشم\
+	['آره', 'آره', 'آره، گوشت خوک با علامت \"کرکلند\"', 'بله، گوشت خوک', 'آره', 'آره', 'آره', 'آره', 'بله، گوشت پستان', 'آره']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ابرها شبيه ابرهاي طوفان هستن؟\
+	['آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'نه', 'نه', 'نه']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صورت بادي خوشگله يا نه؟\
+	['آره', 'آره', 'خوشگله', 'آره', 'آره', 'نه', 'آره', 'آره', 'آره', 'آره']	قابل به پاسخ نیست. صورت بادي خوشگله يا نه.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. گفتگوها الان هم اونجا هستن؟\
+	['نه', 'آره', 'آره', 'قابل به پاسخ نیست', 'نه', 'نه', 'آره', 'آره', 'آره', 'آره']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. هنوز همه انگشتامون رو دارم؟\
+	['آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره', 'آره']	قابل به پاسخ نیست. هنوز همه انگشتامون رو دارد
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. آیا می توانید یک بطری را در این تصویر ببینید و اگر چنین است چه چیزی است؟\
+	['قابل به پاسخ نیست', 'نه', 'نه', 'نه', 'نه', 'بدون بطری', 'نه', 'نه', 'نه', 'نه']	تصویر یک صفحه کامپیوتر با چندین فیلتر است که من نمی توانم به عنوان پاسخ به سوال استفاده کنم.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً روی این طرف کاغذ متن هست؟\
+	['نه', 'نه', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'نه', 'قابل به پاسخ نیست', 'نه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. فکسه؟ جعبه؟\
+	['قابل به پاسخ نیست', 'نه', 'نه', 'نه', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'نه', 'نه', 'نه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. آیا در این عکس یک قطعه سینه وجود دارد؟\
+	['نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اینجا یه قطعه شطرنج هست؟\
+	['نه', 'آره', 'نه', 'فقط تخت', 'نه', 'نه', 'آره', 'نه', 'نه', 'نه']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين جوراب ها با هم مطابقت دارن؟\
+	['نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه']	نارنجی و آبی
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اون یه کاغذه؟\
+	['نه', 'نه', 'نه', 'نه', 'نه', 'قابل به پاسخ نیست', 'نه', 'نه', 'قابل به پاسخ نیست', 'نه']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لپ تاپه؟\
+	['نه', 'نه', 'نه', 'نه', 'که تا حالا ديدم', 'نه', 'نه', 'نه', 'نه', 'نه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. مي توني همه چيز رو از صفحه ي تلويزيون من بخوني؟\
+	['نه', 'نه', 'آره', 'نه', 'قابل به پاسخ نیست', 'نه', 'ظرفیت استفاده از دی وی آر شما 89% پر است', 'آره', 'نه', 'نه']	دراور
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. مي توني بوي خوشي رو روي اين بطري فريبيز ببيني؟\
+	['نه', 'نه', 'نه', 'نه', 'نميتونم برچسب رو ببينم', 'نه', 'نه', 'نه', 'نه', 'نه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. صفحه روشنه؟\
+	['نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه', 'نه']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این حیوان روی صفحه ی کامپیوتر چیه؟\
+	['هيچ حيواني نيست', '0', '0', '0', '0', 'هيچ حيواني در صفحه نمایش نيست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	حیوان موجود در صفحه کامپیوتر یک حیوان نامرئی است.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. من دارم سعي ميکنم يه شماره از اين کارت رو پيدا کنم و ميخواستم بدونم که ميشه برام بخوني؟\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. لطفاً شماره رو بخونيد\
+	['261627.2 متر', '02616272 m^3', '02616272', '02615272', '02616272', '۲۷۲', '02616272', '02616272', '02616272 متر', '02616272']	02616272
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ترموستات به چه دمايي تنظیم شده؟\
+	['72', '72', '72', '72 درجه', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دکمه \"ماونتن دو\" کدوم دکمه ست؟\
+	['5', '6 از بالا', 'دکمه ششم', '6م 1تا پایین', '5', '6', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '5']	دکمه سمت راست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. فکر کنم اين بلوط نقره اي باشه.\
+	['سال 2000', 'سال 2000', 'سال 2000', 'سال 2000', 'سال 2000', 'سال 2000', 'سال 2000', 'سال 2000', 'سال 2000', 'سال 2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. قدرت برق این منبع چقدر است؟\
+	['۳۵۰', 'قابل به پاسخ نیست', '۳۵۰', 'حداکثر 350 وات', 'قابل به پاسخ نیست', '۳۵۰', '۳۵۰', 'قابل به پاسخ نیست', 'موشک', 'حداکثر 350 وات']	350w
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چي نوشته؟\
+	['77 درجه', '77', '77', '77', '77 درجه', '77', '77', '77', '77', '77']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. مي توني بفهمي اين از کدوم ميدالين اومده؟\
+	['47', '47', '47', '47', 'شماره 47 داره', '47', '47', 'قابل به پاسخ نیست', '47', 'نه']	نصف اول
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چقدر هست؟\
+	['5', '5', '5', '5', '5', '5 دلار', '5', '5 دلار سنگاپور', '5', '5 دلار']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. شماره ی روی صفحه ی شماره ی بالا چه چیزی را نشان می دهد؟\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	455
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين اسکناس چند دلاريه؟\
+	['20', 'رگريگ', '20', '20', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. الان چه چیزی روی صفحه نمایش نمایش داده می شود؟\
+	['452940', '452940', '\"واکي تاکي\"', 'تعداد', 'رادیو', '452940', 'وکی توکی', '452940', 'قابل به پاسخ نیست', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. 465 - 55 چقدر است؟\
+	['۴۱۰', '۴۱۰', '۴۱۰', 'قابل به پاسخ نیست', '۴۱۰', 'قابل به پاسخ نیست', '۴۱۰', '۴۱۰', '۴۱۰', '۴۱۰']	465 - 55
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. شماره پنجم چيه؟\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين مشروع قانون چيه؟\
+	['2', '2', '2', '2', '2 دلار', 'پول', '2', '2', 'قابل به پاسخ نیست', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چند کالري توي يه وعده چيريوس هست؟\
+	['110', 'تصویر چندگانه', '104', '110', '100', 'قابل به پاسخ نیست', '10', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. فرون چقدره؟\
+	['دستگیره فر', 'دمای فر 400', '۴۲۵', '450', '400', '۴۲۵', '۴۲۵', '400', '۴۲۵', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دمای ترماسستات چقدر است؟\
+	['78', '78', '78 درجه', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چقدر پوله؟\
+	['20 دلار کانادایی', '20', '20', '20', '20 یورو', '20', '20 دلار کانادایی', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دمايش چقدره؟\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دمای این ترموستات چقدر است؟\
+	['50', '50', '55', '64 درجه', '55', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '54', 'قابل به پاسخ نیست', '56']	60
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين چه فرقه ايه؟\
+	['5', '5', '5', '5', 'کانادا', '5', '5', 'تخم مرغ', '5', '5']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ارزش اين کارت رو بهم بگو\
+	['6 الماس', '9 الماس', '6 الماس', '6', '6', '6', '6', '6', '6', '6']	9 الماس
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. می تونی بگی وزن من چقدره؟\
+	['210', '200', 'بله 200', '198', '200', '200', '200', '250', '200', '200']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. سلام، دوباره دارم امتحان ميکنم ميشه بگي اين سنج چند درجه داره؟\
+	['۵۹', '۵۹', '59', '۵۹', '59', '۵۹', '۵۹', '۵۹', '۵۹', '۵۹']	16.5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي چه درجه حرارتي درست شده\
+	['78', '78', '78', '78', '78', '78', '78 درجه', '78 درجه', '78 درجه فارنهایت', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چند تا سرويس تو اين شکلات هست؟\
+	['قابل به پاسخ نیست', '2', '4', 'قابل به پاسخ نیست', '4', '4 فنجان کره بادام زمینی', '2', '2', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چند کالری توی یه وعده هست؟\
+	['120', '120', '120 خشک 220 آماده اگر آماده شده 1 1 4 فنجان شیر بدون چربی', '120', '120', '120', '120', '120', '220', '120 غلات خشک 220 شیر']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بهم بگي اين چه جور صورتيه؟ چون من دنبال 20 دلار مي گردم و فکر ميکنم اين 10 دلاره ولي واقعا نميتونم بگم\
+	['10 یورو', '10', '10', 'قابل به پاسخ نیست', '10', '10', '10 نفر با لباس قرمز و سفيد', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این نوار یک یا دو خط صورتی داره؟ یکی از آن ها می تونه روشن تر باشه.\
+	['بیو', '1', '1 خط', '1 خط تیره', '1', '1', '1', '1', '1', '1']	نوار قرمز
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بگي شماره اش چيه؟ ممنون\
+	['3248849064', '3248849084', 'قابل به پاسخ نیست', '3248849084', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '3248849084', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. ميشه بگي چقدر وزن دارم لطفاً؟\
+	['1', '1', 'قابل به پاسخ نیست', '1', '1', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'مقیاس خالی', '1']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. تنظیم دمای فعلی این ترموستات چیست؟\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'ترموستات']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين يه اسکناس پنج دلاري يا ده دلاري کانادايي هست؟\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 کانادایی']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. شماره تماس دهنده چي هست؟\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'قابل به پاسخ نیست', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. عدد پنج رقمی چیه؟\
+	['۲۳۴۴۲', '۲۳۴۴۲', '۲۳۴۴۲', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'فقط دو رقم 69 رو ببين', '۲۳۴۴۲', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '۲۳۴۴۲']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چند اونس هست؟\
+	['۲۳.۶', '20', '20', '۲۴', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '33', 'قابل به پاسخ نیست', 'gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. دمای این ترموتر چه چیزی نشان میده؟\
+	['72', '72', '72', '72', '72', '72', '72', '72 درجه', '72', '72 درجه']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين شماره چه صفحه اي هست؟\
+	['2', '2', '2', '2', '2', '2', '2', 'قابل به پاسخ نیست', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين صفحه چي ميگه؟\
+	['8888', 'قابل به پاسخ نیست', 'هیچ چیز', '8888', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', '8888', '888', 'هیچ چیز', 'خالی']	8886
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چه شماره صفحه ای نمایش داده شده؟ ممنون.\
+	['123', '۱۲۱', '۱۲۱', '۱۲۱', 'قابل به پاسخ نیست', '۱۲۱', '۱۲۱', '128', '321', '۱۲۱']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. اين شماره چيه؟\
+	['۲۶', '۲۶', '۲۶', '۲۶', '۲۶', 'کاغذ', '۲۶', '۲۶', '۲۶', '۲۶']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. این چی میگه؟\
+	['قابل به پاسخ نیست', '40', '40', 'قابل به پاسخ نیست', 'قابل به پاسخ نیست', 'تعداد', '40', '40', '40 پوند هوا', '30']	قابل به پاسخ نیست
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer fa When the provided information is insufficient, respond with 'قابل به پاسخ نیست'. چند تا قرص تو اين جعبه هست؟\
+	['8 قرص', '8', '8', '8', '8', '8', '8', '8 قرص', '8', '8']	8

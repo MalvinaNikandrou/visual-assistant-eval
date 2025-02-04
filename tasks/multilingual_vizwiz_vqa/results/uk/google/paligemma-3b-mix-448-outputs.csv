@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що написано на папері?\
+	['hе можна відповісти', 'Австралія Пошта', 'Пост', 'hе можна відповісти', 'Австралія Пошта', 'Австралійська пошта', 'Австралія Пошта', 'Австралія Пошта', 'hе можна відповісти', 'Австралія Пошта']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати, що на екрані комп'ютера?\
+	['значки для годинника погода і т.д.', 'Відкриття вікна', 'робочий стіл', 'годинник', 'годинник', 'ікони', 'значки робочого столу', 'hе можна відповісти', 'значки робочого столу', 'ікони']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який це диск?\
+	['безвізуальний', 'порожній диск', 'Максвелл', 'Макселл CD r', 'безвізуальний', 'безвізуальний', 'ковдру', 'безвізуальний', 'безвізуальний', 'Макселл']	cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за фотографія?\
+	['стопа', 'стопа', 'подраска на нозі', 'стопа', 'стопа', 'стопа', 'стопа', 'стопа', 'стопа', 'стопа']	нога
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати, що це за баночка?\
+	['полювання', 'манвіч', 'манвіч', 'Полякування недбалість соус Джо', 'недбалий соус Джо', 'манвіч', 'Чоловік, який сміливо нехай соус Джо', \"нерозв'язаний\", 'манвіч', 'недбалий Джо']	хот-дог
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['диетна кока-кола', 'Диетична кока-кола', 'Диетична кока-кола', 'може бути дієта кока-кола', 'Диетична кока-кола', 'Диетична кока-кола', 'Диетична кока-кола', 'кокаїд', 'сода', 'може бути дієта кока-кола']	coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за спеція?\
+	['місіс Дэш', 'hе можна відповісти', 'місіс Дэш', 'hе можна відповісти', 'не можу сказати', 'всі спеції', 'Базилій', 'місіс Дэш-стол', 'драйв', 'місіс Дэш']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['МТН-бутылка роси', 'гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'mt роса']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['кава', 'hе можна відповісти', 'кава', 'кава', 'кава', 'кава', 'кава', 'кава', 'кава', 'hе можна відповісти']	кава
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що ви бачите?\
+	['шкіра', 'Двері підлогами', 'двері', 'двері', 'Двері пальців', 'двері', 'hе можна відповісти', 'двері', 'будинок', 'чорний хутровий колір пальця']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що показує мого комп'ютера?\
+	[\"Ви хочете відновити комп'ютер за допомогою відновлення системи\", 'Появиться відновлення системи', 'повідомлення відновлення системи', \"запитувати, чи хочете ви відновити комп'ютер за допомогою відновлення системи\", 'коробка', 'відновлення системи', \"Ви хочете відновити комп'ютер за допомогою відновлення системи\", \"комп'ютер не запустився\", 'відновлення налаштування', 'відновлення системи']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['гаряче какао', 'горяча какао-мікс', 'гарячий шоколад', 'горяча какао-мікс', 'какао', 'горяча какао-мікс', 'гаряче какао', 'мікс гарячого шоколаду', 'какао', 'какао-мікс']	кава
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені номер 1-800 на цій картці?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	[\"екрани комп'ютера\", \"екрани комп'ютера\", \"екрани комп'ютера\", 'ноутбук', \"екран комп'ютера, що показує результати пошуку\", 'екран', \"екрани комп'ютера\", \"екрани комп'ютера\", 'екран монітора', \"екрани комп'ютера\"]	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це таке?\
+	['салатний соус задня сторона', 'заправка', 'салатний соус', 'салатний соус', 'бальзамічна салатна заправка', 'салатний соус', 'hе можна відповісти', 'салатний соус', 'салатний соус', 'салатний соус']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що показує зображення?\
+	['вікно', 'проектування', 'Скляні вікна з мазином чорного дизайну', 'Скляна вікнові вікна в дверях', 'Скляне вікно в двері', 'двері', 'вітрила', 'двері', 'вікно', 'вікно']	вітраж
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Хтось може сказати мені, що таке питання безпеки на екрані, будь ласка?\
+	['Араваки', 'hе можна відповісти', 'Араваки', 'Араваки', 'Араваки', 'Араваки', 'hе можна відповісти', 'hе можна відповісти', 'Араваки', 'Араваки']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['вино', 'срібний дуб', 'срібний дуб', 'вино з срібного дубу', 'вино', 'бутылка', 'вино', 'вино', 'Срібний дуб 2003 Cabernet Sauvignon', 'срібний дуб 2003']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка марка монітора?\
+	['lg', 'hе можна відповісти', 'hе можна відповісти', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за напій?\
+	['сода', 'імбирний пиво', 'генеральні', 'сода імбирної', 'канада сухо', 'канада сухо', 'імбирний пиво', 'канада сухо', 'імбирний пиво', 'імбирний пиво']	canada dry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору килим?\
+	['бежевий', 'бежевий', 'паранький', 'сірий', 'сині', 'Смазочка', 'паранький', 'паранький', 'бежевий', 'сині']	білий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['телефон', 'телефон', 'телефон', 'телефон', 'телефон', 'телефон', 'цифровий телефон', 'телефон', 'офісний телефон', 'телефон']	caller id
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за зображення?\
+	['гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'гірська роса', 'горіна роса', 'МТН-бутылка роси', 'Горня сода роси', 'mtn роса']	зображення не в тексті, тому я не можу відповісти на це запитання.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за пляшка?\
+	['hе можна відповісти', 'hе можна відповісти', 'лосьйон', 'сода', 'hе можна відповісти', 'лосьйон', 'лосьйон', 'лосьйон', 'hе можна відповісти', 'лосьйон']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['вода аквафіна', 'пляшка вода з аквафіною', 'вода', 'вода', 'Пластикова пляшка з водою марки aquafina', 'бутильована вода', 'пляшка з водою', 'вода аквафіна', 'вода', 'пластикова пляшка з водою']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['пошук в Google', 'вкладка пошукової системи Google', 'сторінка пошуку Google', 'Google', 'Google', \"комп'ютер\", 'Google Home Page', 'сторінка Google', \"екрани комп'ютера\", \"екрани комп'ютера\"]	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['ключі', 'ключі', 'ключі', 'ключі', 'ключі', 'ключі', 'ключі', 'ключі', 'ключі', 'ключі']	ви не можу відповісти.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Прочитайте мені повідомлення про помилку на екрані.\
+	['hе можна відповісти', 'Недійсний ключ продукту', 'Недійсний ключ продукту', 'hе можна відповісти', 'Недійсний ключ продукту', 'Недійсний ключ продукту', 'Недійсний ключ продукту', 'Недійсний ключ продукту або видалити ключ продукту в файлі відповіді непідглядати, щоб продовжити', 'Недійсний ключ продукту або видалити ключ продукту в файлі відповіді непідглядати, щоб продовжити', 'Недійсний ключ продукту']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Де мій ноутбук?\
+	['столик', 'на столі', 'верхній стіл біля ліжка', 'на столі', 'столик', 'столик', 'на столі', 'на столі', 'верхній стіл', 'столик']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як називається ця книга?\
+	['собачий рік', 'Собакові роки: спогади', 'собачий рік', 'собачий рік', 'собачий рік', 'собачий рік', 'собачий рік', 'собачий рік', 'собачий рік', 'собачий рік']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Macbook', 'клавіатура', 'клавіатура', 'клавіатура', \"комп'ютер\", 'клавіатура', 'ноутбук', 'ноутбук', 'ноутбук', \"клавіатура комп'ютерного екрану\"]	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що ви бачите?\
+	['вікно столу', 'квіти', 'hе можна відповісти', 'вікно столу', 'Книжка ручка для ноутбуку', 'квіти', 'дестоп', 'книжка', 'вікно', 'квіти']	Крупним планом столу з книгою
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. У якій упаковці є проста борошна?\
+	['червоно-білий пакет', 'ліворуч', 'що 1', 'червоний 1 зліва', 'ліворуч', 'hе можна відповісти', 'ліворуч', 'ліворуч', 'червоний білий 1', 'червоний 1']	red
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['футбол', 'футбол', 'футбол', 'фіолетовий апельсиновий плюш футбольний калікор на', 'футбольний алігатори', \"Алігатори м'який футбол\", 'плюшчастий футбол', \"наповнені оранжево-сині футбольні м'ячі\", 'фіолетовий футбол', 'Гільмоні']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору?\
+	['сірий', 'золото', 'золото', 'бежевий', 'червоний', 'золото', 'hе можна відповісти', 'hе можна відповісти', 'золото', 'hе можна відповісти']	золото
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['меню', 'hе можна відповісти', 'меню', 'меню', 'меню', 'вміст таблиці', 'меню', 'меню', 'Ціновий список', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['пляшка з водою', 'Спрингворн', 'Спрингборнська вода', 'Спрингборн', 'бутильована вода', 'вода', 'пляшка з водою', 'бутильована вода', 'вода в пляшці', 'вода']	springbourne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за суп?\
+	['прогрессо', 'прогрессо', 'прогрессо', 'hе можна відповісти', 'прогрессо', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'прогрессо', 'прогрессо']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я знаю, що це консервна банка з їжею.\
+	['зелені боби', 'зелені боби', 'зелені боби', 'зелені боби', 'зелені боби', 'hе можна відповісти', 'зелені боби', 'еф', 'зелені боби', 'зелені боби']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що таке?\
+	['Chex Mix', 'розрізні млини', \"Chex Mix комп'ютер\", 'hе можна відповісти', 'Chex Mix', 'їжа', 'Chex Mix', 'Chex Mix', 'Chex Mix', 'chekmix']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['мікрохвильові', 'мікрохвильові', 'ліки', 'прилади соус з желе', 'супа з баночками', 'чашка супу для пиття', 'кухня', 'кухонний стіл', 'кремовий', 'супа']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за баночка?\
+	['змішані овочі', 'змішані овочі', 'змішані овочі', 'змішані овочі', 'змішані овочі', 'efgrfg', 'змішані овочі', 'змішані овочі', 'змішані овочі', 'змішані овочі']	мікс овочів
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за вид?\
+	['Смазочка для тортів', 'ваниль', 'ваниль', 'вибиті ванильні глазури', 'Бетті Крокер', 'Ванільова глазура', 'вибита ванілія', 'Ванільова глазура', 'ваниль', 'ваниль']	whipped
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яку коробку я дивлюся, наприклад, що в коробці?\
+	['коробка з брушками з зернових', 'природний долину смажені бадемові гранулові штук', 'Барки з гранулою', 'природна долина', 'смажені бандрові гранулові штук', 'природний долину смажені бадемові гранулові штук', 'Природа долини хрищливі гранола-барки з смаком мигдалю', 'Барки з гранулою', 'Барки з гранулою', 'смажені мигдалеві хрустячі шматочки граноли']	nature valley crunchy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що ж про кольорову ткань.\
+	['зелене біле', 'білий темнозелений принт', 'білий зелений', 'білий зелений', 'рожево-зелене', 'тканина біла кремово-зелена', 'Рожевий чорний', 'зелене біле', 'фіолетовий чорний фарбильник для галстуків', 'біло-зелені плями']	біла чорна
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що показує екран комп'ютера?\
+	['стріла миші', 'курсор', 'Нічого.', 'синій', 'синій екран', 'стріла', 'безвізуальний', 'синя стріла', 'безвізуальний', 'синій екран']	немає зображення
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Привіт, хто тут?\
+	['біла кішка', 'кішка', 'кішка', 'біла кішка', 'кішка', 'hе можна відповісти', 'кішка', 'кішка', 'цей кіт', 'кіт']	hello
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Пурелл - передовий дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезинфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезинфікуючий для рук']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що пише повідомлення про помилку?\
+	['Недійсний ключ продукту', 'Недійсний ключ продукту', 'Недійсний ключ продукту', 'Недійсний ключ продукту', 'недійсний продукт', 'Недійсний ключ продукту натисніть OK, щоб продовжити', 'Недійсний ключ продукту або видалити ключ продукту в файлі відповіді без нагляду, щоб продовжити', 'недійсний продукт', 'Недійсний ключ продукту', 'Недійсний ключ продукту']	не вказано
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені, що пише це повідомлення на екрані мого комп'ютера?\
+	['якийсь кнопка завершення ремонту в правому нижньому кутку', 'Попрацювання завантаження останній успішний завантаження 9 20 2012 1 спроба ремонту закриття назад завершення скасувати', 'hе можна відповісти', 'ні', 'Ремонт завантаження', 'Ремонт завантаження', 'Ремонт завантаження', 'hе можна відповісти', 'Поправка завантаження завершена Диагностичний екран', 'Ремонт завантаження']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яке це м'ясо?\
+	['курятина', 'курятина', 'курятина', 'курятина', 'курятина', 'курятина', 'курятина', 'куряче стегна', 'hе можна відповісти', 'курятина']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору це?\
+	['електричний синій', 'синій', 'синій', 'синій', 'синій', 'синій', 'синій', 'синій', 'синій', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що пише на екрані?\
+	['встановлення вікон', 'встановлення вікон плюс більше нечитається', 'встановлення вікон', 'встановлення вікон', 'встановлення вікон', 'Цей екран говорить, що Windows встановлення перелічує кроки установки', 'встановлення вікон', 'встановлення вікон', 'встановлення вікон', 'встановлення вікон']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Небо виглядає так на цій фотографії.\
+	['частково хмарний', 'темні хмари', 'велика хмара', 'Величезна хмара темне небо', 'Похмурість', 'хмарні', 'сині багато хмари', 'hе можна відповісти', 'гігантська дощова хмара трохи синя на боці', 'хмарні']	хтось
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['веранда', 'Крісло', 'Крісло', 'Крісло', 'hе можна відповісти', 'лавка', 'Крісло', 'Крісло', 'Металеві вікна для лавових лавових', 'Крісло']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['фото', 'двері', 'двері', 'бар', 'Стілеві двері', 'двері', 'ресторан', 'ресторан', 'двері', 'двері']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що на моєму екрані?\
+	['вибрати завантажувальний пристрій', 'будь ласка, виберіть завантажувальне пристрої 3 варіанти', 'hе можна відповісти', 'будь ласка, виберіть завантажувальне пристрої', 'екран завантаження', 'будь ласка, виберіть завантажувальне пристрої', 'помилка', 'будь ласка, виберіть завантажувальне пристрої', 'повідомлення обирає пристрій', 'будь ласка, виберіть завантажувальне пристрої']	answerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за об'єкт?\
+	['пепельниця', \"Декоративна бронзова скульптура лев'ятка\", 'статуя', 'ні', 'пепельниця', 'Пепельниця', 'статуя', 'собачий мишок', 'пепельниця', 'Тигр чуми на вершині']	статуя
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за сигарети?\
+	['американський дух', 'американський дух', 'американський дух', 'американський дух', 'американський дух', 'чорнопаковані американські спирти', 'американський дух', 'американський дух', 'американський дух', 'американський дух']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['гуава гінсенг', 'чай', 'чай', 'чай', 'чай', 'чай', 'чай', 'чай', 'чай', 'чай']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій пляшці?\
+	['лосьйон для тіла', 'лосьйон для тіла', 'лосьйон для тіла', 'лосьйон', 'Шей-лосьй для тіла вітамін Е', 'Місячний шлях вітамін Е лосьйон для тіла', 'лосьйон для тіла', 'Лосю для тіла під світлом місяця', 'Лосю для тіла під світлом місяця', 'лосьйон']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за фотографія?\
+	['окуляри', 'рамки', 'окуляри', 'окуляри срібні рамки', 'окуляри для очей', 'окуляри', 'рамка окулярів', 'окуляри', 'окуляри', 'окуляри']	очки
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це продукт.\
+	['Так, так.', 'томатний суп', 'томатний суп', 'супа', 'консервоване супу', 'томатний суп', 'томатний суп', 'томатний суп', 'супа', 'вибирати сорти томатного супу']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['телефонний ящик', 'iPhone', 'iPhone коробка', 'телефон', 'мобільний телефон', 'Мобільний телефонний ящик', 'смартфон', 'телефон', 'смартфон', 'iPhone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за фотографія?\
+	['Контейнер для цукерки', 'святкування червоний ящик', 'відповідальний', 'Каже святкування', 'коробка', 'цукерки', 'Партійний прихильність', 'святкування', 'коробка', 'hе можна відповісти']	невелика червона пляшка
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['шампанське', 'чайний чайник з вина', 'склянка', 'склянкова вино', 'склянка шампанського вина поруч з чашкою кави, яка сидить на тарілці', 'випивати в склянці на столі', 'шампанське', 'чашки для чаю', 'чайник шампанський склянка', 'Шампанське скляну тарілку на столі в передньому вікні вид на місто']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який смак у цього?\
+	['оранжевий', 'оранжево-зелене жовте червоне', 'мята', 'оранжевий', 'hе можна відповісти', 'hе можна відповісти', 'оранжевий', '2 ліворуч апельсинові, вішникові, лимоні, вгорі, внизу, праворуч, зимові зелені', 'оранжевий', 'оранжевий']	цитрусовий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Привіт, я цікавився, що в цій баночці? Дякую. Я цікавився, чи це пиво чи баночка соди. Дякую.\
+	['кока-кола', 'кока-кола', 'сода', 'кока-кола', 'сода', 'содова кока', 'сода', 'сода', 'кока-кола', 'сода']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка налаштування на цьому сушилці?\
+	['протипоказаний по часовій руці регулярний час контролю зморшок сухої тонкі зморшки вивільнення повітря пухлина', 'регулярні', 'відключити', 'відключити', 'відключити', 'регулярні', 'відключити', 'не на налаштуванні', 'Нічого.', 'відключити']	сушіть
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['таблетки', 'таблетки', 'телефонні програми', 'екран', 'список додатків', 'App Store', 'таблетки', 'список додатків для завантаження', 'hе можна відповісти', 'завантаження додатків']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що я бачу?\
+	['телебачення', 'телевізор у шафі', 'телебачення', 'телевізор', 'телевізорний екран', 'телебачення', 'Том Селек по телевізору', 'телевізор', 'телевізор', 'відкритий гардеробний телевізор']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору це?\
+	['білий', 'білий', 'білий', 'білий', 'бежевий', 'білий', 'Слонові кости', 'hе можна відповісти', 'бежевий', 'hе можна відповісти']	білий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['цей продукт харчування', 'Равіолі', 'Равіолі', 'Равіолі', 'Равіолі', 'Шеф Боярді міні-равіолі', 'консервовані міні-равіоли', 'Равіолі', 'Шеф-кухар Боя міні-равіолі', 'міні-равіоли']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	[\"печеної м'ясової муки\", 'говядина печена', 'говядина печена', 'говядина печена', 'традиційна говядина смажена', 'говядина печена', 'говядина печена', 'традиційна говядина смажена', 'говядина печена', 'говядина печена']	традиційний стейк
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за продукт?\
+	['Диетичний пепсі', 'безкофеїнова дієта пепсі', 'пепсі', 'пепсі', 'Диетичний пепсі', 'Диетичний пепсі', 'Диетичний пепсі', 'Диетичний пепсі без кофеїну', 'Диетичний пепсі', 'Диетичний пепсі']	пепсі
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як це називається?\
+	['східні', 'капуста', 'hе можна відповісти', 'hе можна відповісти', 'їжа', 'капуста', 'змішана стежка', 'зернові', 'горіхи', 'пакети арахісу']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це звичайний або безкофінний кава?\
+	['регулярні', 'hе можна відповісти', 'регулярні', 'регулярні', 'регулярні', 'регулярні', 'hе можна відповісти', 'hе можна відповісти', 'регулярні', 'регулярні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Макаронний сир', 'Макаронний сир', 'Макаронний сир', 'Макаронний сир', 'Макаронний сир', 'Сурковарний сир', 'Макаронний сир', 'Макаронний сир', 'Макаронний сир', 'Макаронний сир']	макарони з сиром
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій пляшці?\
+	['розмежувальний лосьйон', 'лосьйон', 'лосьйон', 'лосьйон', \"м'якшуючий крем\", 'лосьйон', 'Мокрий крем', 'Крем для тіла', 'глибока вологість для миття тіла', 'Миття тіла']	у this tube body wash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['стілець на стільці', 'Крісло', 'Крісло', 'офісний стілець', 'офісний стілець', 'це крісло офісу', 'Крісло', 'стілець на стільці', 'Крісло', 'сірий офісний стілець']	сіре комп’ютерне крісло
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за предмет, який я зараз сфотографував?\
+	[\"комп'ютерний монітор\", \"комп'ютер\", \"екрани комп'ютера\", 'hе можна відповісти', 'hе можна відповісти', 'ноутбук', \"екрани комп'ютера\", 'ноутбук', \"комп'ютерний монітор\", 'ноутбук']	monitor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скажіть мені, що це.\
+	['свинячі котелки', \"м'ясо\", \"якийсь вид червоного м'яса\", \"Пакова м'ясо\", 'свинина', 'свинячий каша', 'hе можна відповісти', \"м'ясо\", 'fg', 'свинячий шкура']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як виглядає небо на цій фотографії?\
+	['Хмарний день', 'частково хмарний', 'хмарні', 'хмарні', 'хмарні', 'хмарні', 'хмарні', 'хмарні', 'хмарні', 'дощ']	хмарно
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це ж час, коли закінчиться час?\
+	['hе можна відповісти', 'спагеті', 'спагеті', 'hе можна відповісти', 'hе можна відповісти', 'спагеті', 'спагеті', 'зеркало', 'вечеря', 'піца']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['квіти', 'квітка', 'квіти', 'квіти', 'квітка', 'квіти', 'рослини', 'квіти', 'квітка', 'ірис']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за предмет?\
+	['розслаблений чай', 'чай', 'hе можна відповісти', 'чай', 'чай', 'чай', 'чай', 'чай', 'чай', 'чай']	чай
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору і з якого малюнка ці шорти?\
+	['колясовий', 'плавний, жовтий', 'синій оранжевий зелений', 'синій коричневий білий пластин', 'синій на вершині, жовтий на дні', 'багатокольорові', 'синій коричневий білий пластин', 'колясовий', 'синій пластин', 'синій білий зелений жовтий пластин']	крізь синьо зелений жовтий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору був кейс?\
+	['зелене', 'зелене', 'лімовий зелений', 'зеленого кольору', 'зелене', 'зелене', 'зелене', 'зелене', 'яскравозелений', 'зелене']	зелений
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це звичайна кока-кола чи дієта-кока-кола?\
+	['Диетична кока-кола', 'дієта', 'дієта', 'дієта', 'дієта', 'дієта', 'Диетична кока-кола', 'дієта', 'Диетична кока-кола', 'дієта']	дієта
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['перо', 'Ключовий ручка', 'перо', 'перо', 'перо', 'перо', 'перо', 'перо', 'перо', \"бікоп'яні камери\"]	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Лампа може бути прингли', 'лампа', 'лампа', 'лампа', 'Прингл може бути поруч з лампою CD', 'лампа без тіні', 'лампа', 'столові лампи, водяна водяна', 'лампа', 'лампа']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що робить цей комп'ютер?\
+	['система перевірки', 'hе можна відповісти', 'Дискова перевірка', 'диск перевірки', 'hе можна відповісти', 'hе можна відповісти', 'завантаження', 'конфігурація', 'перевірка відповідності', 'перезавантаження']	продовжує працювати
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за газова?\
+	['Диетична кока-кола', 'дино', 'Диетична кока-кола', 'Диетична кока-кола', 'Диетична кока-кола', 'Диетична кока-кола', 'Диетична кока-кола', 'Диетична кока-кола лимон', 'Диетична кока-кола', 'Диетична кока-кола']	coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Будь ласка, розповідь мені про цю книгу.\
+	['Клайв Касслер Дірк Касслер', 'hе можна відповісти', 'Клайв Касслер Дірк Касслер', 'Клайв Касслер Дірк Касслер', 'наукова', 'тривалість', 'Олив Кюслер Дірк Кюслер', 'дії', 'hе можна відповісти', 'Клайв Куслер']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за вино?\
+	['hе можна відповісти', 'святкуючи шлюб Девід Емма Червоне вино', 'Наш', 'Наш', 'Наш', 'Наш', 'Наш', 'hе можна відповісти', 'hе можна відповісти', 'Наш вино']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['йогурт', 'hе можна відповісти', 'йогурт', 'йогурт', 'йогурт', 'йогурт', 'йогурт', 'йогурт', 'йогурт', 'йогурт']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка назва цієї книги?\
+	['собачий рік', 'собачий рік', 'собачий рік', 'собачий рік', 'hе можна відповісти', 'собачий рік', 'hе можна відповісти', 'собачий рік', 'собачий рік', 'собачий рік']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Sony ноутбук', 'ноутбук', 'ноутбук', \"комп'ютер\", 'ноутбук', 'Sony Vaio ноутбук', 'ноутбук', 'Соні Вайо', 'Sony ноутбук', 'ноутбук']	sony vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Цікаво, яка марка цього комп'ютера.\
+	['Соні', 'Соні', 'Соні', 'Соні', 'Соні', 'Соні', 'Соні', 'Соні', 'Соні', 'Соні']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш сказати, що це, томатний або соус енчилада?\
+	['бій', 'На задній етикетці не написано', 'hе можна відповісти', 'томати', 'томати', 'томати', 'hе можна відповісти', 'томати', 'Неясне зображення', 'томати']	томатний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['пудинг', 'пудингові закуски', 'ванильний пудинг', 'пудинг', 'ванильний пудинг', 'пудинг', '6 упаковки снайк-пакет ванильний пудинг', 'Кубки з пудингом', 'пудинг', 'пудинг з закусками']	pudding
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['20 канадських доларів', '20 канадських доларів', '20 канадців', 'гроші', 'гроші на кружевку', '20 гривень', 'монеу', '20 доларів канадської банкноти', '20 доларів', 'гроші']	20 канадських доларів
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['лазань', 'лазань', 'спеціальні лазаньї', 'лазань', 'спеціальні лазаньї', 'спеціальні лазаньї', 'лазнь', 'лазань', 'лазанья', 'лазань']	лазанг
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за кава?\
+	['Еспресо', 'Еспресо', 'Тимоти Експресо', 'тропічний ліс эспрессо', 'Еспрессо з тропічних лісів', 'Еспресо', 'екстра жирний', 'Еспресо для тропічних', 'екстра жирний еспрессо для тропічних', 'Тимофія']	timothy's
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за фотографія?\
+	['клавіатурні винні склянки', 'ноутбук', 'клавіатура ноутбука вино пиво', 'hе можна відповісти', \"комп'ютер\", \"комп'ютер\", 'Лаботопний напій', 'ноутбук на столі поруч зі скляною рідиною', 'Стекло для ноутбуків', 'Скляний ноутбук']	фотографія ноутбука
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Назва книги', 'книжка', 'брошура', 'Примітка', 'Демон Ром легкі гроші книга', 'Демонічний ром легкі гроші: уряд контролює алкоголь в Британській Колумбії', 'книжка', 'книжка', 'титульна сторінка книги', 'брошура']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що було на столі?\
+	['записник', 'Ноутбук-пісмушка інші папери', 'Спірально-кольцевий ноутбук', 'паперові ручки', 'записник', 'ноутбук-піс', 'записник', 'ноутбук-піс', 'паперові ручки', 'записник']	записник
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору ця сорочка?\
+	['синій білий пластин', 'синій білий', 'синій білий пластин', 'синій білий', 'синій', 'синій білий', 'плавній білий', 'синій пластин', 'синій', 'синій']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Андре Шардонне', 'шампанське', 'Андре', 'шампанське', 'вино', 'шампанське', 'шампанське', 'шампанське', 'Шампанське', 'шампанське']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як називається продукт на фото?\
+	['лізол', 'лізол', 'лізол', 'лізол', 'лізол', 'лізол', 'лізол', 'лізол', 'лізол', 'лізол']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за кава?\
+	['гевалія', 'Максимальна кількість кави', 'Масіму', 'Гевалія еспресо', 'Масіму', 'чорна кава', 'Масіму', 'hе можна відповісти', 'гевалія', 'гевалія']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це таке?\
+	['д- р Пеперу', 'може бути докарбона', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д. сода перцю', 'д- р Пеперу', 'може бути докарбона', 'д- р Пеперу']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ви можете сказати мені, що це, будь ласка, дякую?\
+	['кава', 'кава', 'класична кава', 'кофейний пакет', 'hе можна відповісти', 'кава', 'кава', 'каву в порошок', 'кава', 'Нескафе класика']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору три дроти зліва направо?\
+	['червоний чорний білий', 'червоний чорний білий', 'червоний чорний', 'червоний чорний білий', 'червоний чорний білий', 'червоний чорний білий', 'червоний чорний білий', 'червоний чорний білий', 'червоний синій білий', 'червоний чорний білий']	червоний, чорний, білий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що показує цей тест на вагітність?\
+	['1 ряд', 'негативний', 'негативний', '1 лінія, але розмалюйте фарбу.', 'hе можна відповісти', '1 смуга', 'без зображення', 'червона лінія', 'hе можна відповісти', 'синій знак червоний знак']	невелика червона смуга
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як називається ця спеція?\
+	['місіс свіжа мікс з лимоном і перцем', 'драйв', 'місіс Дэш', 'місіс Дэш лімонний перець', 'місіс Дэш', 'місіс Дэш', 'перці', 'місіс Дэш', 'місіс Дэш', 'місіс Дэш']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Привіт, який напій у пляшці у моїй правої руці?\
+	['пепсі', 'сода пепси', 'Диетичний пепсі', 'Диетичний пепсі', 'Диетичний пепсі', 'пепсі', 'Диетичний пепсі', 'Пепсі-дієта', 'Диетичний пепсі', 'Диетичний пепсі']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['відеоігри', 'відеоігри', 'баскетбольна гра', 'відеоігри', 'hе можна відповісти', 'DVD', 'hе можна відповісти', 'гра', 'відеоігри', 'DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['кечуп', 'кечуп', 'Хайнц томатний кетчуп', 'пакети з кетчупом', 'пачка з кетчупом', 'кечуп', 'кечуп', 'пакети з кетчупом', 'кечуп', 'кечуп']	не можу відповісти.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яких кольорів ця сорочка?\
+	['червоний білий', 'каштановий', 'червоний білий', 'червоні білі смуги', 'червоні білі смуги', 'червоний білий', 'червоний білий', 'червоний білий', 'червоний білий', 'червоний білий']	червоний білий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій упаковці?\
+	['парламент зображення', 'музичний альбом', 'сигарети', 'сигарети', 'сигарети', 'сигарети', 'пахментні втопові фільтри', 'сигарети парламенту', 'картки', 'сигарети']	сигарети
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору цей килим?\
+	['фіолетовий', 'фіолетовий', 'фіолетовий', 'фіолетовий', 'фіолетовий', 'фіолетовий', 'фіолетовий', 'фіолетовий', 'фіолетовий', 'фіолетовий']	фіолетовий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Диалог на цій картинці більш помітний?\
+	['нудьгує', 'Так, так.', 'ні', 'Так, так.', 'ні', 'ні', 'ні', 'ні', 'ні', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за продукт?\
+	['зелені боби', 'зелені боби', 'зелені боби', 'може', 'капуста', 'грах', 'hе можна відповісти', 'зелені боби', 'fg', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за баночка?\
+	['свинячий боб', 'свинячий боб', 'свинина і боби', 'свинячий боб', 'свинячий боб', 'свинячий боб', 'свинячий боб', 'свинячий боб', 'свинячий боб', 'свинячий боб']	вишукана
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за вино?\
+	['hе можна відповісти', 'АЕВФДСАЕДФ', 'Виробництво 2008 року', 'Наш', 'Наш', 'сувенір на весілля', 'Нэш святкує шлюб Девід Емма 16 липня 2011', 'Наш', 'Наш', 'святкування шлюбу']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за їжа?\
+	['томатний соус', 'томатний соус', 'органічний томатний соус', 'томатний соус', 'томатний соус', 'томатний соус', 'Муир Глен органічний томатний соус', 'томатний соус', 'Муир Глен органічний томатний соус', 'томото']	tomato sauce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який це смак?\
+	['земляниця', 'земляниця', 'земляниця', 'земляниця', 'земляниця', 'земляниця', 'земляниця', 'земляниця', 'земляниця', 'земляниця']	полуниця
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати мені, який це колір?\
+	['чорний', 'чорний', 'чорний', 'чорний', 'чорний', 'чорний', 'чорний', 'чорний', 'чорний', 'чорний']	чорний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['рослина', 'декоративна рослина', 'Алоє', 'комбінаційні рослини', 'комбінаційні рослини', 'Домашня рослина', 'рослина', 'Домашня рослина', 'рослина', 'травові рослини']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['журнал', 'комікс', 'комікс', 'настільна гра для дорослих', 'журнал', 'Офарбовальна книжка', 'Дивна Різдвяна книга', 'не впевнений, що я не можу читати ту мову', 'Різдвяні вітальні картки', 'комікс']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['Курячий вечеря Дижон', 'їжа', 'курятина дижон', 'курятина дижон', 'курятина дижон', 'їжа', 'курятина дижон', 'курятина', 'курятина дижон', 'курятина дижон']	курячий дижон
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за кава?\
+	['гевалія', 'гевалія', 'французька ванілія', 'французька ванілія', 'гевалія', 'гевалія', 'французька ванілія', 'французька ванілія', 'французька', 'Геваліяа французька ваниль']	gevalia french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за об'єкт?\
+	['iPhone', 'телефон', 'телефон', 'iPhone', 'мобільний телефон', 'мобільний телефон', 'мобільний телефон', 'я телефоную', 'смартфон', 'смартфон']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'сигарети', 'пакети сигарет', 'сигарети', 'пакети сигарет', 'сигарети', 'сигарети', 'hе можна відповісти', 'сигарети', 'сигарети']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який це смак?\
+	[\"м'ясо\", 'говядина', \"м'ясо\", 'Бульйон з смаком говядини', \"м'ясо\", 'Смака говядини', 'Бульйон з смаком говядини', \"м'ясо\", 'цей говядиний смак', \"м'ясо\"]	бичачий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['великий чашка', 'чашка', 'чашка', 'чашка', 'Любить Того Кубок', 'чашка', 'каша для поп-кубки чи інші речі', 'Шлифовальні чашки', 'чашка', 'цю чашку']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це дієтична Пепсі чи звичайна?\
+	['Диетичний пепсі', 'дієта', 'hе можна відповісти', 'дієта', 'Диетичний пепсі', 'дієта', 'дієта', 'дієта', 'Диетичний пепсі', 'дієта']	дієтична
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що пише на екрані?\
+	['Програмне забезпечення avast', 'сканування локальних дисков', 'вікна', 'Повідомлення про помилку', 'сканування', 'Avast програмне забезпечення сканування Windows XP', 'вікна', 'hе можна відповісти', 'Windows XP', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я намагаюся отримати доступ до меню завантаження і намагаюся завантажити з USB-накопичувача.\
+	['Натисніть стрілку вниз один раз, а потім введіть для usb', 'Меню завантаження на завантаженні з опції hdd', 'hе можна відповісти', 'U bootmood', 'будь ласка, виберіть завантажувальне пристрої', 'будь ласка, виберіть завантажувальне пристрій:', 'Будь ласка, виберіть завантажувальний пристрій hdd: pm st9250315as', 'будь ласка, виберіть завантажувальне пристрої', 'заголовок екрану: будь ласка, виберіть завантажувальне пристрої перемістіть стрілку вниз 1 місце на usb:usb disk pro', 'будь ласка, виберіть завантажувальне пристрої']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені, який це смак?\
+	['дієта', 'дієта', 'д р пиперна дієта', 'д- р Пеперу', 'дієта', 'дієта', 'дієта', 'коля', 'дієта', 'дієта']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за суп?\
+	['овочевий суп', 'прогрессо', 'прогресивна', 'hе можна відповісти', 'Progresso овочі', 'hе можна відповісти', 'овочі', 'Progresso овочі', 'овочі', 'прогрессо']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скажіть мені, що це за машина?\
+	['hе можна відповісти', 'Лінкольн Крон Вікторія', 'якийсь 4-дверний седан', 'Лінкольн', 'Форд Крон Вікторія', 'Лінкольн', 'Chevrolet', 'Корону Вікторію', 'hе можна відповісти', 'Форд']	ford crown victoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це кава?\
+	['гевалія', 'гевалія', 'гевалія', 'Gevalia швейцарський лісовий горіх', 'гевалія', 'гевалія', 'гевалія', 'гевалія', 'гевалія', 'гевалія']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'дезінфікуючий для рук', 'Germx', 'дезинфікуючий засіб для рук', 'дезинфікуючий засіб для рук']	germ x
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за баночка?\
+	['супа', 'фрукти', 'hе можна відповісти', 'hе можна відповісти', 'супа', 'hе можна відповісти', 'супа', 'hе можна відповісти', 'кабінет', 'супа']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору це?\
+	['коричневе', 'коричневе', 'коричневе', 'дубовий коричневий', 'коричневе', 'коричневий кленовий', \"дерев'яні\", 'коричневе', 'коричневе', 'коричневе']	коричневий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'рука', 'рука', 'hе можна відповісти', 'рука', 'рука', '1 права рука', 'рука', 'рука', 'рука']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка установка для горщика?\
+	['чашка', 'високий', 'високий', 'високий', 'високий', 'високий', 'низький', 'високий', 'високий', 'високий']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш мені сказати, що це?\
+	['вироби для сліпих', 'cd', 'CD зворотний', 'вироби для сліпих дисков', 'cd', 'диск', 'Книга на компакт-дисках', 'cd', 'CD-виробники для сліпих', '\"Оскол\" Джеймса Герберта DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	[\"комп'ютери монітори клавіатури\", 'монітор', \"комп'ютерний монітор\", \"екрани комп'ютера\", \"комп'ютер\", \"комп'ютерний монітор\", \"екрани комп'ютера\", 'робочий стіл', 'графік', 'графік']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш сказати мені, що написано на цій пляшці?\
+	['теплий цукор ванілій', 'цукор', 'теплий цукор ванілій', 'теплий цукор ванілій', 'теплий ванильний цукор лосьон для тіла', 'теплий цукор ванілі', 'теплий ванильний цукор лосьон для тіла', 'теплий цукор ванілій', 'теплий ванильний цукор лосьон для тіла', 'теплий цукор ванілій']	лоtion для тіла
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що на екрані?\
+	['екран установки вікон', 'hе можна відповісти', 'встановлення вікон', 'встановлення екрану стану Windows', 'Windows встановлюється', 'встановлення вікон', 'інструкції для установки вікон', 'Прогрес установки вікон', 'встановлення Windows Info', 'вікна']	інструкції
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['може', 'може', 'hе можна відповісти', 'консерві', 'може', 'капуста', 'hе можна відповісти', 'капуста', 'грязний', 'грязний']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за напій?\
+	['апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'оранжевий', 'апельсиновий сік']	апельсиновий сік
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який вид поп в цій барі?\
+	['чай', 'Нестея', 'Нестея лимон', 'мороженого чаю', 'Нестея', 'Нестея', 'Нестея', 'мороженого чаю', 'лідний чай з нестелем', 'гніздо']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це піца з пеперони, пеперони і сосисками, Supreme, якого роду?\
+	['пеперони', 'пеперони', 'пеперони', 'пеперони', 'пеперони', 'пеперони', 'Так, так.', 'пеперони', 'Мама коцціс пеперони тонка кора', 'пеперони']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти маєш уявлення, що за рослина є в середині?\
+	['ні', 'трава', 'трава', 'трава', 'трава', 'трава', 'ні', 'ні', 'трава', 'трава']	невідоме
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['окуляри', 'окуляри', 'окуляри', 'окуляри', 'Пара окулярів', 'окуляри', 'Пара окулярів', 'окуляри', 'окуляри для очей', 'Пара окулярів']	очки
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Опишіть це місце.\
+	['офіс', 'офісні приміщення', 'офіс', 'офіс 2 стільця кабінет 2 стільця', 'офіс', 'офіс', 'столи чорні офісні стільці', 'офісні стільці', 'офіс 2 стільця', 'офіс']	офіс з письмовим столом і стільцем.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['записник', 'планувальник', 'книжка', 'книжка', 'картка', 'записник', 'планувальник', 'записник', 'Лілі Пулітцер, спіраль порядку денного.', 'записник']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['плюшевий ведмідь рожевий', 'плюшевий ведмідь', 'плюшевий ведмідь', 'плюшевий ведмідь', 'плюшевий ведмідь', 'плюшевий ведмідь', 'медведь', 'плюшевий ведмідь', 'плюшевий ведмідь', 'плюшевий ведмідь']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за спеція?\
+	['морська сіль лука', 'морська сіль лука', 'морська сіль лука', 'морська сіль лука', 'морська сіль', 'соль лука', 'морська сіль лука', 'морська сіль лука', 'морська сіль лука', 'морська сіль лука']	соль морська і цибуля
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій базі?\
+	['дієта', 'дієта', 'дієта', 'дієта', 'д- р Пеперу', 'дієта', 'дієта', 'дієта', 'д р пиперна дієта', 'дієта']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка картина на цій чаші?\
+	['мультфільм', 'персонажі мультфільмів', 'мультфільм', 'чоловік дивиться на пташку', 'курятина', 'Людина', 'мультфільм', 'Скетч пташка людина дерево місяць', 'людина тварина', 'мультфільм']	маленькі фігури
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['люди назад', 'хлопчик', 'Голова людини', 'особи', 'спина когось голова плечі', 'Задній чоловік', 'hе можна відповісти', 'сіра сорочка', 'хлопчик', 'зображення на задній сторінці']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['спікер', 'спікер', 'Глобал на стіні', 'спікер', 'спікер', 'спікер', 'настенний динамік', 'спікер', 'кошачий мостик', 'спікер']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['номер телефону таксі', 'Нічого.', 'Нічого.', 'телефон', 'міське таксі', 'квитанція', 'hе можна відповісти', 'схоже на квитанцію', 'лінії', 'міський таксі']	ви не можу відповісти.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Нью-Орлеанський стиль джамбаляї', 'змішана зямбаляя', 'змішана зямбаляя', 'рис', 'зомбаляя', 'змішана зямбаляя', 'змішана зямбаляя', 'рис джамбалайя', 'коробка приготована для рису в стилі \"New Orleans\"', 'змішана зямбаляя']	я не можу відповісти на це запитання.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору мій Мак?\
+	['срібло', 'білий', 'бежевий чорний', 'білий', 'срібло', 'срібло', 'срібло', 'срібло', 'білий', 'срібло']	сірий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в баночці?\
+	['Біологічні печені боби', 'печені боби', 'Біологічні печені боби', 'печені боби', 'печені боби', 'печені боби', 'печені боби', 'печені боби', 'печені боби', 'печені боби']	печених квасолі
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['Макаронний сир', 'hе можна відповісти', 'Макаронний сир', '3 сирових макарон', 'Макаронний сир', 'Сурковарний сир', 'Макаронний сир', 'вечеря', 'Макаронний сир', 'каштани сир']	макарони і сир
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Затарайнс Нью-Орлеанс стиль джамбалайа мікс', 'змішана зямбаляя', 'змішана зямбаляя', 'змішана зямбаляя', 'змішана зямбаляя', 'рис', 'Затарайни, змішані з джамбалайа', 'зомбаляя', 'Затарайни, змішані з джамбалайа', 'змішана зямбаляя']	jambalaya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за штука?\
+	['якісні вуличні цукерки', 'коробка цукерки', 'цукерки', 'цукерки', 'жорсткі цукерки', 'цукерки', 'цукерки', 'цукерки', 'якість вулиці', 'цукерки']	конфеті
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Вибачте, скажіть мені, що саме ви бачите на цій фотографії.\
+	['холодильник', 'холодильник', 'холодильник', 'Маленький холодильник млинний тарі світло плитканий стіна ручка наклейка на холодильник', 'холодильник', 'міні-холодильник', 'міні-холодильник', 'двері кабінету', 'білий холодильник', 'холодильник']	холодильник
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш сказати мені, що написано в коробці?\
+	['чудові онуки', 'щось про чудових онуках', 'приємно', 'Ніщо не є більш приємним, ніж онуки.', 'Мало що приємніше, ніж онуки, які борються за тебе.', 'чудові онуки', 'чудові онуки', 'Мало що приємніше, ніж онуки, які борються за тебе.', 'hе можна відповісти', 'чудові онуки']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як виглядає небо?\
+	['ясно', 'Захід сонця', 'синій', 'світанку', 'синій', 'ясно', 'ясно', 'спокійний', 'світлосиній', 'синій світліший синій біля горизонту']	блакитне
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору ця сорочка?\
+	['паранький', 'коричневе', 'паранький', 'бежевий', 'бежевий', 'рожева', 'коричневе', 'паранький', 'золото', 'сірий колір']	рожевий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Хлопчик чи дівчинка?\
+	['hе можна відповісти', 'хлопчик', 'хлопчик', 'дівчинка', 'хлопчик', 'хлопчик', 'хлопчик', 'хлопчик', 'хлопчик', 'хлопчик']	girl
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Будь ласка, можете сказати мені, що це за предмет?\
+	['зернові', 'радість', 'зернові', 'радість', 'hе можна відповісти', 'зернові', 'Медові віселі', \"Чейріо, тепер ще смачніше, м'яко.\", \"м'яко\", \"м'яко\"]	honey nut cheerios
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору це?\
+	['Червоний, жовтий, білий, синій', 'колясовий', 'зелена синя біла червона платка', 'багатокольорові', 'блідкий', 'колясовий', 'синій зелений білий червоний', 'колясовий', 'синій білий зелений пластин', 'синій зелений червоний білий']	зелений коричневий білий червоний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['гаряче какао', 'горяча какао-мікс', 'горяча какао-мікс', 'горяча какао-мікс', 'какао-мікс', 'гаряче какао', 'гарячий шоколад', 'мікс гарячого шоколаду', 'пакети з гарячим шоколадом', 'гарячий шоколад']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['hе можна відповісти', 'Свіже пиво', 'пиво', 'hе можна відповісти', 'hе можна відповісти', 'пиво', 'пиво', 'пиво', 'пиво', 'спеціальне освітлення']	пиво
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це курятина чи сельер?\
+	['томат', 'томат', 'томат', 'томат', 'ні', 'томат', 'томатний суп', 'томат', 'томат', 'ні']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['MacBook Pro', 'MacBook Pro', 'Mac Book Pro', 'MacBook Pro', 'Mac Book Pro', 'MacBook Pro', 'MacBook Pro', 'Airbook Pro', 'macbookpro', 'MacBook Pro']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я хотів би знати, що міститься в цій базі.\
+	['печені боби', 'печені боби', 'капуста', 'печене боби в томатному соусі', 'Фермерка печена боби', 'печені боби', 'печені боби', 'капуста', 'печені боби', 'капуста']	багато
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це таке?\
+	['курятина', 'hе можна відповісти', 'Смажна пармезанка', 'їжа', 'телевізійний вечеря', 'їжа', 'Сурковарний сир', 'їжа', 'Марі Коллендерс', 'Смажна пармезанка']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['доларова купюра', '1 доларова купюра', 'долар', '1 доларова купюра', '1', '1 доларова купюра', 'доларова купюра', '$1 купюра', '1 доларова купюра', '1 доларова купюра']	доларовий знак
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['ігрові картки', '2 королів', 'парні королі', 'ігрові картки', 'картки', 'картки', 'ігрові картки', 'пара', 'картки', 'ігрові картки']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це чорне чи синє?\
+	['hе можна відповісти', 'чорний', 'чорний', 'чорний', 'чорний', 'чорний', 'чорний', 'сірий', 'чорно-сірий', 'чорний']	чорне
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що написано на екрані?\
+	['текстове поле пошуку Google', 'Google', 'Google', 'Google Google пошук я відчуваю себе щасливим', 'Google', 'пошук в Google', 'hе можна відповісти', 'Google', 'Google', 'hе можна відповісти']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['говядина печена', 'говядина печена', 'говядина печена', 'говядина печена', 'їжа', 'говядина печена', 'говядина печена', 'говядина печена', 'традиційна говядина смажена', 'традиційна говядина смажена']	традиційний смажений м’ясо
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за газова?\
+	['д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу', 'д- р Пеперу']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['телевізорний пульт', 'дистанційний керування', 'дистанційний керування', 'віддалений', 'дистанційний керування', 'віддалений', 'дистанційний керування', 'дистанційний керування', 'віддалений', 'дистанційне управління']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Домашня рослина', 'рослина', 'Домашня рослина', 'рослина', 'рослина', 'рослина', 'рослина', 'Гончарні рослини', 'рослина', 'комбінаційні рослини']	зелена рослина в горщику
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за штука?\
+	['столик', \"комп'ютер\", 'столик', 'столик', 'столик', 'столик', \"комп'ютерний стіл\", 'столик', 'столик', \"столовий комп'ютер\"]	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що на моєму столі?\
+	['iPod touch', 'додатки', 'телефон', 'папери для смартфонів', 'папери для смартфонів', 'телефон', 'телефон', 'телефон', 'мобільний телефон', 'телефон']	мобільний телефон
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яку фотографію я зробив?\
+	['iPad', 'Карточка з кавою поруч з iPad', 'таблетки', 'iPad', 'Hulu вхід на екран', 'гулупулус', 'таблетка з зображенням hulu plus', 'таблет hulu плюс вхід', 'екран huluplus', 'Екран входу для Hulu Plus на планшеті']	hulu plus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за пляшка?\
+	['шампунь', 'шампунь', 'hе можна відповісти', 'триме', 'Любима', 'hе можна відповісти', 'Tresemme догляд за волоссям', 'шампунь', 'парфума', 'Шампунь для тресема']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за модель?\
+	['сода', 'Сприт', 'бутилка содового', 'Сприт', 'hе можна відповісти', 'сода-сприт', 'Сприт', 'бутылка з спритом', 'hе можна відповісти', 'Сприт']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за продукт?\
+	['Chex Mix', 'Chex Mix', 'Chex Mix', 'Чеддер', 'Chex Mix', 'Chex Mix', 'кухарський мікс', 'Chex Mix', 'Chex Mix', 'чекс']	чипси
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	[\"дим'яні індіанки\", 'Паніні з курки', 'Паніні з курки', 'Паніні з індіанкою', 'Паніні з курки', 'Паніні з курки', 'заправка зашифрованою', 'Паніні', \"дим'яні індіанки\", 'Паніні з курки']	паста
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Які листи я друкую, щоб виграти приз?\
+	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за баночка?\
+	['томати', 'соус', 'томат', 'роздроблені томати', 'станок', 'томат', 'томати', 'консервовані томати', 'томат', 'томати']	tomato sauce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за чашка для Кеурґа?\
+	['Дом з пончиками', 'кава', 'коробка', 'суничка', 'колекція \"Дом пончиків\"', 'суничка', 'суничка', 'колекція пончиків', 'Дунота-доля', 'колекція пончиків']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Будь ласка, скажіть мені назву цієї книги?\
+	['світанок півмісяця', 'hе можна відповісти', 'Автор Клайв Каслер Дірк Каслер', 'тільки назви авторів не вказані титули', 'Клайв Касслер Дірк Касслер', 'Клайв Куслер', 'Клайв Касслер Дірк Касслер', 'Клайв Касслер Дірк Касслер', 'Клайв Касслер Дірк Касслер', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['гроші', 'гроші', '20$', 'гроші', '20 доларів.', '20 доларів.', '20 доларів.', 'двадцятидолларний купюра', '20 доларів', '20-долларний банкнота']	$10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це шампунь чи ванна для тіла?\
+	['лосьйон', 'лосьйон для тіла', 'лосьйон', 'лосьйон для тіла', 'гарячий лосьон для тіла', 'лосьйон для тіла', 'лосьйон для тіла', 'лосьйон', 'лосьйон для тіла', 'лосьйон для тіла']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що на цій фотографії?\
+	['Крекер', 'Крекерські коробки', 'коробка для крекерів', 'коробка для крекерів', 'Крекер', 'Крекер', 'Крекер', 'Крекер', 'Крекер', 'Крекер']	Крупним планом коробка крекерів
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за фотографія?\
+	['телефон', 'MacBook Pro', 'MacBook Pro', \"комп'ютерний монітор\", 'hе можна відповісти', 'ноутбук', \"комп'ютер\", 'MacBook Pro', 'екран macbook pro', 'ноутбук']	макбук
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['вода', 'вода', 'природну кристалічну воду', 'Природа кришталева вода', 'пляшка з водою', 'пляшка з водою', 'пляшка з водою', 'вода', 'пляшка з водою', 'вода']	вода
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за піца?\
+	['пеперони', 'Мама, добре.', 'Мама готує тонку піцу.', 'пеперони', 'заморожена піца', 'пеперони', 'тонкий', 'тонкокорсту пеперони від Мама Коззіс', 'Мама, це гарні тонкі пеперони.', 'Мама, добре.']	thin піца
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій базі?\
+	['ціле кукурудзо', 'кукурудза', 'кукурудза', 'кукурудза', 'Цеснозерна кукурудза', 'Цеснозерна кукурудза', 'кукурудза', 'велика цінність їжі може', 'кукурудза', 'кукурудза']	corn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['миша', \"комп'ютерна миша\", \"комп'ютерна миша\", \"комп'ютерна миша\", \"комп'ютерна миша\", 'HP мотомоторна миша', \"комп'ютерна миша\", \"комп'ютерна миша\", 'HP миша', 'миша']	ім'я комп’ютерної миші
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['офіс', 'стільці', 'офіс', 'офісний стілець', 'Крісло', 'стілець на стільці', 'домашнє офіс', 'офіс', '2 стільця для столу', 'Крісло']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['телевізор', 'телебачення', 'телебачення', 'старий монітор', 'телевізор', 'телевізор', 'монітор', 'телевізійний екран', 'телевізор', 'монітор']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору моя сорочка?\
+	['чорно-білий', 'синій білий чорний', 'чорний', 'синій', 'військово-морський флот', 'чорно-білий эмблема', 'чорно-білий', 'синій', 'синій', 'чорно-білий']	чорний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору це?\
+	['червоний', 'червоний', 'червоний', 'червоний', 'рожевий', 'червоний', 'червоний', 'червоний', 'червоний', 'червоний']	червоний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це звичайні чипси чи чипси з солі і оцту?\
+	['соль', 'регулярні', 'регулярні', 'звичайні чипси', 'регулярні', 'регулярні', 'hе можна відповісти', 'hе можна відповісти', 'регулярні', 'hе можна відповісти']	чипси з солі і оцту
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за коробка?\
+	['апельсиновий сік', 'апельсиновий сік', 'О', 'апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'апельсиновий сік', 'оранжевий', 'апельсиновий сік', 'паперовий картон, апельсиновий сік']	juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш мені сказати, що це?\
+	['чипси', 'чипси', 'чипси', 'картопляні чипси', 'картопляні чипси', \"Чіпси з м'ясою\", 'чипси', 'картопляні чипси', 'чипси', 'картопляні чипси']	чипси падають, де вони можуть, як продовжити
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій сумці?\
+	['hе можна відповісти', 'заморожені овочі', 'овочі', 'морква горох кукуруза зелені боби', 'овочі', 'горох морква кукурудза', 'змішані овочі', 'овочі', 'змішані овочі', 'кукуруза морква боби грахманові']	суміш овочів
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який смак Спарк це?\
+	['рожевий лимонад', 'рожевий лимонад', 'hе можна відповісти', 'рожевий лимонад', 'hе можна відповісти', 'рожевий лимонад', 'оранжевий', 'земляниця', 'hе можна відповісти', 'рожевий лимонад']	фруктовий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за вид?\
+	['манвіч', 'hе можна відповісти', 'hе можна відповісти', 'манвіч', 'манвіч', 'манвіч', 'томат', 'манвіч', 'манвіч', 'недбалий Джо']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який сезон?\
+	['спагеті', 'спагеті', 'Приправки для спагетів', 'Приправки для спагетів', 'спагеті', 'Приправки для спагетів', 'Приправки для спагетів', 'спагеті', 'спагеті', 'Приправки для спагетів']	spagetti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['книжка', 'журнал', 'вертикальний журнал', 'журнал', 'вертикальний журнал', 'журнал', 'журнал', 'журнал \"Сервотечі\"', 'журнал', 'журнал']	magazine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за об'єкт?\
+	['стінка', 'стінка', 'стінка', 'стінка', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'стінка', 'стінка', 'стінка']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['цукерки', 'Смазочні солодощі', 'цукерки', 'Смазочні солодощі', 'кашуля', 'Смазочні цукерки', 'Скрізь', 'Смазочні цукерки', 'цукерки', 'Смазочні солодощі']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору ці черевики?\
+	['коричневе', 'чорний', 'коричневе', 'коричневе', 'коричневе', 'коричневе', 'коричневе', 'стопа', 'коричневе', 'бріун']	коричневий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	[\"екрани комп'ютера\", 'веб-сторінка', 'hе можна відповісти', 'hе можна відповісти', 'веб-сайт', \"екрани комп'ютера\", \"комп'ютерний монітор\", 'стаття', 'PDF файл для vizwiz', 'vizwizpdf розмитий, але можна побачити розділ учасників']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за фотографія?\
+	['монітор', 'ноутбук', 'телебачення', \"комп'ютер\", 'ноутбук', 'телебачення', 'плоскоекранний телевізор', 'екран ноутбука', 'телебачення', 'hе можна відповісти']	екран комп'ютера
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['мобільний телефон', 'мобільний телефон', 'пейджер', 'hе можна відповісти', 'телефон', 'мобільний телефон', 'Blackberry мобільний телефон', 'мобільний телефон', 'мобільний телефон', 'мобільний телефон']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['холодильник', 'hе можна відповісти', 'холодильник', 'холодильник у гуртожитку', 'холодильник', 'холодильник', 'холодильник', 'міні-холодильник', 'холодильник', 'міні-холодильник']	холодильник
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору прикраси мені носити з цим одягом?\
+	['срібло', 'срібло', 'білий', 'золото', 'чорний', 'срібло', 'срібло', 'срібло', 'срібло', 'срібло']	чорний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['нога', 'джинси', 'стегна', 'штани нога', 'ручной диван', 'штани', 'подушка', 'hе можна відповісти', 'Шляпа штанів', 'нога']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['собака', 'hе можна відповісти', 'собака', 'собака', 'собака', 'собака', 'собака', 'собака', 'hе можна відповісти', 'собака на підлозі']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['віддалений', 'віддалений', 'дистанційний керування', 'телевізійний контролер', 'телевізорний пульт', 'дистанційний керування', 'віддалений', 'віддалений', 'дистанційний керування', 'дистанційний керування']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ці банани зелених чи жовтих?\
+	['трохи зелене', 'жовтий', 'жовтий', 'жовтий', 'зелене', 'жовтий', 'жовтий', 'жовтий', 'жовтий', 'жовтий']	жовті
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за продукт?\
+	['зернові', \"Каши-го, свіній хрустячий м'яко-багдановий лінь\", 'Каши, піди, схудний хрін.', 'Голен Крунч Каші', 'зернові', 'піти скромне хліб', 'піти скромне хрінка', \"Каши-го, свіній хрустячий м'яко-багдановий лінь\", 'зернові', 'зернові']	cereal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що зараз показують на екрані телевізора?\
+	['Нічого.', 'Нічого.', 'нічого не виходило', 'Нічого.', 'Нічого.', 'Нічого.', 'Нічого.', 'Нічого.', 'hе можна відповісти', 'Нічого.']	nothing
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	[\"м'ясо\", 'біфштекс з яловичини', \"м'ясо\", 'Стікс', \"м'ясо\", \"м'ясо\", 'hе можна відповісти', 'біфштекс з яловичини', 'біфштекс', \"м'ясо\"]	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цьому повідомленні?\
+	['hе можна відповісти', 'відновлення завершено', 'hе можна відповісти', 'відновлення завершено', 'відновлення завершено', 'hе можна відповісти', 'відновлення завершено', 'відновлення завершено', 'відновлення завершено', 'відновлення завершено']	помаж
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яку їжу в цій консерві?\
+	['супа', 'Progreso садовий овочевий суп', 'Садовий овочевий суп', 'овочевий суп', 'Садовий овочевий суп', 'Садовий овочевий суп', 'супа', 'Progreso садовий овочевий суп', 'садові овочі', 'Садовий овочевий суп']	суп з овочами
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'може', 'Супа з розщепленими горохами', 'Супа з розщепленими горохами', 'Супа з розщепленими горохами', 'Супа з розщепленими горохами', 'супа', 'може розщеплювати гороховий суп', 'Супа з розщепленими горохами', 'супа']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це диван чи стіл?\
+	['таблиця', 'таблиця', 'таблиця', 'таблиця', 'таблиця', 'таблиця', 'таблиця', 'таблиця', 'таблиця', 'цей стіл']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка їжа в цій базі?\
+	['Равіолі', 'Равіолі', 'Равіолі', 'кукурудза', 'Равіолі', 'Равіолі', 'Равіолі', 'Равіолі', 'їжа з равіолі', 'Равіолі']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що на екрані?\
+	['Повідомлення про помилку', \"Поп-ап для запуску ремонту комп'ютер перезавантажити\", 'перезавантаження', \"діалоговому вікна, що говорить, що ви впевнені, що хочете вийти від запуску ремонту перезавантажити комп'ютер\", 'Ремонт завантаження', 'Windows оновлення інструкції', 'hе можна відповісти', 'Ремонт завантаження', \"опція перезавантаження комп'ютера\", 'Ремонт завантаження']	запитання
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Давайте спробуємо, чи можете ви сказати мені, що це?\
+	['капуста', 'печені боби', 'капуста', 'печені боби', 'Кустарники, печені боби', 'може', 'консерві', 'Кустарники, печені боби', 'печені боби', 'капуста']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати мені, що це за телефон?\
+	['І', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'андроид', 'lg', 'Так, так.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['смартфон', 'мобільний телефон', 'мобільний телефон', 'телефон', 'мобільний телефон', 'мобільний телефон', 'мобільний телефон', 'смартфон', 'телефон', 'телефон']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['ноутбук', 'рука', 'клавіатура ноутбука', 'рука', 'пальці', 'рука', 'hе можна відповісти', 'hе можна відповісти', 'столик', 'рука']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['каберне 2009', 'вино', 'вино', 'вино', 'Каберне Савгньон', 'бутильованого вина', 'вино', 'вино', 'Коня рай Колумбія Каберне 2007 вино', 'вино']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій пляшці?\
+	['кокаїд', 'содову, можливо, кока-колу.', 'сода', 'кока-кола сода', 'сода', 'сода', 'кокаїд', 'сода', 'кокаїд', 'сода']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору це, будь ласка?\
+	['червоно-біла смуга', 'червоний', 'червоні білі смуги', 'червоні білі смуги', 'червоний білий', 'білий червоний', 'сорочка', 'червоний білий', 'червоний білий', 'червоний білий']	червоний білий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій сумці?\
+	['брокколи', 'брокколи', 'брокколи', 'брокколи', 'брокколи', 'але брокколи', 'брокколи', 'різані брокколи', 'Паровий брокколи', 'брокколи']	броколі
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. На що це купон?\
+	['йогурт', 'йогурт', 'йогрет йоплаїт', 'Йоплайт йогурт 10 $5', 'епоплаїт', 'Йоплайт йогурт 10 $5', 'йогрет йоплаїт', 'йогурт', 'знижка', 'йогурт']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за поп?\
+	['Нестея', 'Консервований мороженого чаю', 'лимон', 'Нестея лимон', 'Нестея', 'Нестея', 'Нестея', 'Нестея', 'Фестиваль', 'Нестея']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['iPad', 'таблетки', \"комп'ютер\", 'iPad', 'Маусовий підкладка', 'ноутбук', 'вікно', 'таблетки', 'hе можна відповісти', 'iPad']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що на екрані?\
+	[\"Ви хочете відновити комп'ютер за допомогою системного відновлення\", 'Повідомлення про помилку', \"Ви хочете відновити комп'ютер за допомогою відновлення системи\", 'запуск', 'запуск оплаченого діагностичного екрану', \"систем відновлення питання: ви хочете використовувати для відновлення комп'ютера\", 'Ремонт завантаження', 'Ремонт завантаження', \"питання для відновлення комп'ютера\", \"Ви хочете відновити комп'ютер за допомогою відновлення системи\"]	помаж
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка це сода?\
+	['Сприт', 'Сприт', 'Сприт', 'Сприт', 'Сприт', 'Сприт', 'Сприт', 'Сприт', 'Сприт', 'Сприт']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що там написано на екрані?\
+	[\"Ви хочете відновити комп'ютер за допомогою системного CD\", 'відновлення', \"Ви хочете відновити комп'ютер за допомогою системи\", \"Ваш комп'ютер не міг запустити запустити ремонт перевіряє систему на проблеми\", \"Ви хочете відновити комп'ютер за допомогою системи\", 'Ремонт завантаження', \"Ваш комп'ютер не може запуститися\", \"Ваш комп'ютер не міг запустити запустити ремонт перевіряє вашу систему на проблеми\", \"комп'ютер не може запуститися\", 'відновлення']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій баночці?\
+	['овочі', 'Рррр', 'змішані овочі', 'Вегетаріанський оригінальний', 'змішані овочі', 'овочі', 'вегель', 'овочі', 'овочі', 'змішані овочі']	овочі
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. що ви бачите на фотографії що ви бачите на фотографії\
+	['Нічого.', 'небо', 'раковина', 'небо', 'hе можна відповісти', 'небо', 'Нічого.', 'hе можна відповісти', 'hе можна відповісти', 'небо']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який содовий сок?\
+	['кока-кола', 'кока-кола', 'кока-кола', 'кока-кола', 'кока-кола', 'кока-кола 0', 'кока-кола 0', 'кокс 0', 'кока-кола 0', 'кока-кола 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за система?\
+	['робочий стіл', 'hе можна відповісти', 'вікна', \"настільний комп'ютер\", 'вікна', 'вікна', 'вікна', 'Windows PC', 'вікна', 'вікна']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['спікер', 'спікери', 'підлога', 'спікери', 'система гучних динаміків', 'спікер', 'спікер', 'спікер', 'спікер', 'спікери']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Він моніторить світло на ноутбуці?\
+	['Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'ні', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені, що написано на цій пляшці?\
+	['теплий ванильний цукор лосьон для тіла', 'теплий цукор ванілій', 'теплий цукор ванілій', 'теплий цукор ванілій', 'теплий ванильний цукор лосьон для тіла', 'теплий цукор ванілій', 'теплий ванильний лосьон з цукром', 'теплий цукор ванілій', 'теплий ванильний цукор лосьон для тіла', 'теплий цукорний ваніль']	лоtion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені номер 1-800 з цієї картки, і чи ви чуєте це запитання?\
+	['1 800 735 2929 не чую q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 ні', '18773289677 ні', '1 877 328 9677', '8007352929 ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Світло в кімнаті включено чи вимкнено?\
+	['вимкнення світла', 'відключити', 'на', 'відключити', 'на', 'hе можна відповісти', 'на', 'на', 'на', 'на']	включено
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який це смак?\
+	['вішниця', 'рожевий лимонад', 'фруктовий пунш', 'рожевий лимонад', 'рожевий лимонад', 'hе можна відповісти', 'hе можна відповісти', 'рожевий лимонад', 'вішниця', 'рожевий лимонад']	pink lemonade
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цьому повідомленні?\
+	['відновлення завершено', 'hе можна відповісти', 'успішно завершено відновлення', 'відновлення завершено', 'відновлення завершено', 'відновлення завершено', 'відновлення завершено', 'реєстрація завершена', 'відновлення завершено', 'відновлення завершено']	заповніть вивіску
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору моя сорочка?\
+	['білий', 'білий', 'білий', 'білий', 'білий', 'білий', 'білий', 'білий', 'білий', 'білий']	біла
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Шампунь для покращення кольорової терапії', 'шампунь', 'Шампунь для покращення кольорової терапії', 'шампунь', 'Шампуни для кольорової терапії', 'шампунь', 'кольорова терапія', 'шампунь', 'Овація Додаткова кольорова терапія', 'кольорова терапія']	шампунь
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['консерви', 'кошаче харчування', 'hе можна відповісти', 'раковина', 'може', 'раковина', 'прання', 'раковина', 'раковина', 'може']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка це відеогра?\
+	['ESPN NFL 2k', 'футбол', 'Nfl 2k', 'ESPN NFL 2k5', 'ESPN 2k5', 'Футбол ESPN 2K', 'Nfl 2k', 'футбол', 'Nfl 2k', 'футбол']	espn 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['Паніні', 'Паніні', 'Паніні з курки', 'Паніні з курки', 'Паніні з курки', 'Паніні з тютюнової індуї', 'Паніні з індіанкою', 'hе можна відповісти', 'Паніні з курки', 'Паніні з курки']	горіха
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій коробці?\
+	['лазань', 'заморожена вечеря', 'спеціальні лазаньї', 'спеціальні лазаньї', 'лазань', 'спеціальні лазаньї', 'лазань', 'лазань', 'лазань', 'лазань']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за об'єкт?\
+	['Природа долини овес темний шоколад гранола бар', 'Кранч-бар', 'гранулова брушка', 'гранулова брушка', 'гранулова брушка', 'гранулова брушка', 'Природа долини овсянка n тёмний шоколадний штрих', 'Овсянка і хрустяча смужка з темним шоколадом', 'Шкафка з темною шоколадною зерновою', 'гранулова брушка']	шоколадний батончик
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['відеоігри', 'гра для PlayStation 2', 'Плей-Стейшн 2 Зоряні війни', 'грати в \"Зоряні війни\"', 'відеоігри', 'відеоігри', 'Зоряні війни 2', 'гра', 'гра для PlayStation 2', 'ПСІ-гра']	ігрова система
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це ж кавовий кав'ячок?\
+	['французька ванілія', 'французька ванілія', 'французька ванілія', 'гніздо', 'ваниль', 'французька ванілія', 'кава-мате', 'французька ванілія', 'французька ванілія', 'французька ванілія']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['апельсиновий сік', 'сок', 'сок', 'апельсиновий сік', 'сок', 'гладкий соковий', 'гладкий і соковий', 'сок', 'апельсиновий сік', 'сок']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору камені в цій сережці?\
+	['рожевий', 'червоний', 'червоний', 'рожевий', 'фіолетовий', 'рожевий', 'рожевий', 'рожевий', 'рожевий', 'рожевий']	рожевий
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що написано на етикетці цього електронного пристрою?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що саме пише на екрані, якщо ви це читаєте?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'не можна читати екран', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'не можу прочитати', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій пляшці?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'лосьйон', 'вітаміни', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'не впевнений', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який смак у цього енергобар?\
+	['земляниця', 'Багданові ягідки', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'яблучна хрустячка', 'hе можна відповісти', 'hе можна відповісти', 'Багданові ягідки']	berry crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'увага', 'n', 'hе можна відповісти', 'hе можна відповісти', 'Новини', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за їжа?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я намагаюся з'ясувати, що це за радіо, будь-яка інформація, щоб я міг отримати своє, це було б чудово, дякую.\
+	['Я не знаю.', 'hе можна відповісти', 'hе можна відповісти', 'можливо, док домашнього IP9', 'hе можна відповісти', 'Шампань', 'hе можна відповісти', 'переносима', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Мені так шкода, я не знаю як... я ніколи не фотографувала такого роду речі раніше.\
+	['Посуньтеся трохи далі, щоб камера фокусувалась.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який з цих фільмів найкращий?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'просто']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['цей слайд', 'рожевий', 'hе можна відповісти', 'фіолетовий', 'hе можна відповісти', 'hе можна відповісти', 'просвітлення', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як називається цей лосьйон?\
+	['hе можна відповісти', 'Noxema', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Коли це закінчується?\
+	['9.27.13', 'hе можна відповісти', 'hе можна відповісти', '23 вересня 2013', '23 вересня 2013', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '23 вересня 2013', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як довго я буду готувати це?\
+	['hе можна відповісти', 'hе можна відповісти', '5 хвилин', 'hе можна відповісти', 'hе можна відповісти', '5 хвилин', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['Кленкс', 'куточок', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'телефон', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за пісня?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Бэг на фото', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'комах']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що там написано під вікнами, що не можна автоматично відремонтувати цю систему?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', \"Поправка завантаження не може автоматично відремонтувати цей комп'ютер\", 'hе можна відповісти', 'запуск', \"запуск ремонту не може автоматично відремонтувати цей комп'ютер\", 'hе можна відповісти']	send information about this problem
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки натрію в цій упаковці?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Самоа', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. На екрані пише, що він відновлюється?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який шторм?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'продовжуйте вчитися', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як називається ця посередництво?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '0', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору?\
+	['червоний білий', 'hе можна відповісти', 'білий', 'білий', 'hе можна відповісти', 'червоний білий', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Будь ласка, пояснить, що на етикетці на моєму маршрутизаторі пише \"дякую\".\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка дата закінчення дії цього проезду на автобусі?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Просто скажи.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Зно', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано, що тут написано\
+	['hе можна відповісти', 'hе можна відповісти', 'рядки стовпці розмиті числа', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка година?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Флеш на камере, що відтворює годинник, не може бути прочитаний', 'не помітний', 'hе можна відповісти', 'hе можна відповісти', 'не можу сказати', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ви можете сказати мені інструкцію для використання цього шампуня? Дякую.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'едфcfd', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи є ж тугочка, яку я повинен натиснути, щоб відновити?\
+	['резюме системи', 'hе можна відповісти', 'Так, так.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'ні', 'Зачекай.', 'підключити']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якщо карта показана на цьому фото, що вона говорить?\
+	['hе можна відповісти', 'не показано', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Ніякі слова.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Тест?\
+	['hе можна відповісти', 'hе можна відповісти', 'віддалений', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Окружний звук дистанційного управління', 'Питання не стосується картини']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Справжня каламбур.\
+	['hе можна відповісти', 'невідоме', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я маю справу з капча, але я не можу бачити екран і мені потрібен, щоб замовити щось з веб-сайту.\
+	['не 1', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я знаю, що там написано Десять Заповідей, але які вони?\
+	['встановлення правил, які Бог дав своїм віруючим', 'hе можна відповісти', 'hе можна відповісти', 'моральні правила', 'hе можна відповісти', 'Божі заповіді', 'hе можна відповісти', 'hе можна відповісти', 'закони', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що пише на моєму екрані?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'занадто розмиті', 'порожній екран']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за дитяча формула?\
+	['hе можна відповісти', 'hе можна відповісти', 'я не бачу дитячі препарати', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за ліки?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка це карта?\
+	['hе можна відповісти', 'червона кредитна картка', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'кредитна картка', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що написано на цій картці?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'тільки 1 6 12 видимі', 'hе можна відповісти', 'Нічого.', 'hе можна відповісти', '1 6 12', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['мило', 'продукція', 'hе можна відповісти', 'молоко', 'hе можна відповісти', 'hе можна відповісти', 'краплі для очей', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Добре, що це за м'ясо?\
+	[\"коробки з'єднання\", 'ds', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', \"м'ясо\", 'hе можна відповісти', \"м'ясо\", 'hе можна відповісти', 'hе можна відповісти']	beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Для чого це подарункова картка?\
+	['hе можна відповісти', 'hе можна відповісти', 'безвідповідний образ', 'hе можна відповісти', 'не можу сказати', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за консервована їжа?\
+	['ліми', 'hе можна відповісти', 'ліми', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ліми', 'hе можна відповісти', 'ліма']	lime
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка година?\
+	['hе можна відповісти', '532', 'hе можна відповісти', 'hе можна відповісти', '5:13', '5:13', 'hе можна відповісти', '5:10', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який продукт в цій базі?\
+	['не можу сказати', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати, яка температура печі, скільки хвилин і чи потрібно пробити крышку?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'АСДД', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ця духовка готова?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'не печ', 'hе можна відповісти', 'hе можна відповісти', 'Так, я думаю, що готовий.', 'ні', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це допомогло?\
+	['hе можна відповісти', 'hе можна відповісти', 'ні', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який код потрібно ввести?\
+	['hе можна відповісти', 'електронна пошта', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яку сорочку я маю на собі?\
+	['hе можна відповісти', 'шелковий', 'hе можна відповісти', 'hе можна відповісти', 'білий', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати, що це за заморожений вечеря?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'зображення порожнє', 'Нічого.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не видно
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка це марка?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Саньо', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка температура печі?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'gfdsg', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш сказати, що в цій пляшці?\
+	['томатний соус', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Макаронний соус', 'hе можна відповісти', 'hе можна відповісти', 'томатний соус', 'hе можна відповісти']	немає зображення
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['hе можна відповісти', 'азітроміцин таблетки 250 мг', 'таблетки', 'hе можна відповісти', 'hе можна відповісти', '250 мг', 'азітроміцин таблетки', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви прочитати ці слова, будь ласка?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'Ні слова.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це валіум?\
+	['ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'не вміє читати назву ліків']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за пісня?\
+	['hе можна відповісти', 'hе можна відповісти', 'ноти', 'hе можна відповісти', 'альбом', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'джингл джингл', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Так, це ноутбук HP, мені потрібно знати, де читач карт по відношенню до клавіатури. Будьте максимально конкретними. Дякую. \
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'на боці', 'hе можна відповісти', 'Я не можу бачити читач карт SD читач карт зазвичай на лівому куті передній краю', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як називається цей парфюм?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'без імені', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за оперативна пам'ять?\
+	['hе можна відповісти', 'О 444', 'hе можна відповісти', 'hе можна відповісти', 'ddr sdram pc3200', 'Ні, не знаю.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ДДР']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я розумію, але чи виглядає задня частина білого вантажівки вбитою?\
+	['hе можна відповісти', 'ні', 'Зображення з передньої сторони Я не бачу нічого незвичайного', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'n0', 'hе можна відповісти', 'ні', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за суп?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'курятина', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що ви бачите на екрані ноутбука?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу бачити
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це, будь ласка?\
+	['hе можна відповісти', 'супа', 'супа', 'супа з баночками', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'супа', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['килим', 'паперові рушниці', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'паперовий рушничок', 'hе можна відповісти', 'hе можна відповісти']	ви не можу відповісти.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який смак?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'регулярні', 'оригінальний', 'hе можна відповісти', 'Поверніться.', 'сирі', 'малювач']	pringles
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який з трьох зображень є логотипом Google?\
+	['hе можна відповісти', '0', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Перше зображення', 'ліворуч']	вгорі
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це таке?\
+	['hе можна відповісти', 'не впевнений', 'розмиті', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'етикет', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи з цього кам'янів не вистачає?\
+	['hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'недостатня якість зображення', 'hе можна відповісти', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я хочу знати, яка марка колонії це.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка дата году на цьому сирі?\
+	['не', 'нечитається', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яку температуру встановлює термостат?\
+	['hе можна відповісти', 'hе можна відповісти', '75', 'hе можна відповісти', '75', 'hе можна відповісти', '75', '75', 'hе можна відповісти', 'не помітний']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору ця сорочка?\
+	['hе можна відповісти', 'hе можна відповісти', 'чорний', 'hе можна відповісти', 'чорний', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'чорний', 'hе можна відповісти']	чорний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що написано на дисплеї?\
+	['Повідомлення про помилку перезавантаження', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'sys', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка це сода, будь ласка?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'не впевнений', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'волосся', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Будь ласка, скажіть мені, що тут написано.\
+	['hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'коробка', 'hе можна відповісти', 'маленька коробка', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. На яку температуру встановлений термостат?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'не можу прочитати', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за пляшка?\
+	['hе можна відповісти', 'hе можна відповісти', 'Я не знаю.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можна мені отримати всі персонажі в цьому?\
+	['Аробергі Чавес', 'hе можна відповісти', 'Так, так.', 'Так, так.', 'hе можна відповісти', 'Аробергі Чавес', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ключ продукту для цієї версії вимкнено\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ну ж, я вже забираю те, що чекаю.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Обуві', 'hе можна відповісти', 'Обуві', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка температура в Далласі, Техас?\
+	['3:40 54', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '9:17 96 градусів', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як ти?\
+	['hе можна відповісти', 'добре', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'добре', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це таке? Яку відповідь ти отримав?\
+	['hе можна відповісти', 'не впевнений', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Логограф на екрані', \"комп'ютер\", 'hе можна відповісти', 'Скринкаст матика']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це, будь ласка?\
+	['Бутылка з покриттям тканиною', 'hе можна відповісти', 'ковдру', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка це марка?\
+	['hе можна відповісти', 'hе можна відповісти', 'Сейко', 'hе можна відповісти', 'розмиті', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'оглядати', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за сайт?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Сайт про iPhone в покупках додатків']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за супа для прання?\
+	['hе можна відповісти', 'сонце', 'hе можна відповісти', 'hе можна відповісти', 'суаветель', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій банку?\
+	['Нічого.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'супа', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'їжа', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. - Що це за квитанція?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що ж це за правильне, що я маю руку?\
+	['візитна картка', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Щасливих Різдва', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що я можу сфотографувати?\
+	['годинник на листі', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'оглядати', 'Мікі Маус кишенькові годинники', 'цей кишеньковий годинник гарнітори']	часи
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що пише на екрані?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'умови ліцензії Windows', 'терміни частково поза екраном', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це таке? Але так, я складу його.\
+	['hе можна відповісти', 'складати', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'рука', 'коробка']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого кольору це?\
+	['білий сірий', 'фіолетовий', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'червоний білий', 'hе можна відповісти']	чорний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'кухня', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', \"зображення людини за столом на комп'ютері\", 'Я бачу вітальню на фотографії', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. як це називається?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'еуфорія', 'еуфорія', 'еуфонія', 'hе можна відповісти', 'hе можна відповісти']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'світло', 'hе можна відповісти', 'hе можна відповісти', 'світло', 'розмиття світла', 'hе можна відповісти', 'не зрозуміло', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Прочитайте текст на цій коробці, яка є ще однією коробкою.\
+	['wd', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я шукаю восьмизначний номер ідентифікації.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Я нічого не бачу.', 'hе можна відповісти', 'безвізуальний', 'я не можу бачити нічого подібного', 'hе можна відповісти', '0', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені назву цієї книги?\
+	['hе можна відповісти', 'гармонічні матеріали в тональній музиці', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['Деверман', 'Нічого.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Пакет для ручної обробки']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що пише на екрані?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. якийсь час, знаєте\
+	['Я не можу зрозуміти.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені, що таке питання безпеки, чи що таке номери безпеки і літери, щоб я міг додати це до свого поля редагування?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого купюри ця доларова купюра?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'некористування зображення', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за програмою?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Контр', 'Контр', 'кухонний стіл', 'Контактний верх']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це укус змії?\
+	['hе можна відповісти', 'можливо', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'Можливо.', 'Можливо.', 'ні', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви мені детально розповісти, що на екрані комп'ютера?\
+	['hе можна відповісти', 'hе можна відповісти', \"Комп'ютер не може почати повідомлення\", 'hе можна відповісти', \"Ваш комп'ютер не міг запуститися\", 'hе можна відповісти', \"Ваш комп'ютер не міг почати ремонт завантаження перевіряє вашу систему на проблеми\", 'запуск', 'hе можна відповісти', 'Диалогової коробки']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Які символи в цьому капча?\
+	['hе можна відповісти', 'Весілля', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'чорна коробка']	чорний
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти знаєш, як їх готувати?\
+	['hе можна відповісти', 'ні', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'Так, так.', 'hе можна відповісти', 'hе можна відповісти', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', \"екрани комп'ютера\", 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки часу я буду готувати це в мікрохвильовій печі?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '8 хвилин', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Як це готувати?\
+	['печ', 'hе можна відповісти', 'печати', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. А що з підписною книжкою?\
+	['hе можна відповісти', 'hе можна відповісти', 'політичні', 'Людина', 'hе можна відповісти', 'Ніякій підстави.', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Синій чоловік у будівлі']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Будь ласка, скажіть мені інструкцію на пляшці з шампунем.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'додати до мокрої волосся пену, проплавляти, повторювати, якщо потрібно']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за фотографія?\
+	['потолок', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не яскрава
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це так?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'телефон', 'hе можна відповісти', 'чоловік, що говорить по сотовому', 'hе можна відповісти', 'особи', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що в цій базі?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'капуста', 'hе можна відповісти', 'hе можна відповісти', 'ця зображення розмита', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш сказати мені, якого кольору моя сорочка?\
+	['ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'провод', 'hе можна відповісти', 'чорна гумова собача іграшка', 'рослина', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Коли це закінчується?\
+	['не має', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'не зображено', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '2007 р.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за картка?\
+	['hе можна відповісти', 'hе можна відповісти', 'без картки', 'hе можна відповісти', 'hе можна відповісти', 'чорний', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Про що ця картина?\
+	['hе можна відповісти', 'безвізуальний', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не видно
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Кожна з них', 'собака', 'кошики', 'hе можна відповісти', 'собачий шнур', 'тварин']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка інструкція для приготування?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за відстеження?\
+	['hе можна відповісти', 'олівця', 'макет листя', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ліст', 'hе можна відповісти', 'зрід']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Привіт, чи можете ви сказати, що в базі в моїй правої руці?\
+	['hе можна відповісти', \"якийсь вид м'яса але етикет не зовсім на картинці\", 'Консервована їжа', 'hе можна відповісти', 'говядина туша', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати мені, від кого це?\
+	['ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'Поштовий лист', 'Задні конверти без написів', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який це смак?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'Спеціальна суміш Ньюмана', 'Неманська спеціальна суміш', 'кава', 'Спеціальна суміш Ньюмана', 'hе можна відповісти', 'Нові люди власні', 'hе можна відповісти']	newmans own
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який рівень мого артеріального тиску?\
+	['hе можна відповісти', 'hе можна відповісти', '105', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '109 закінчено', 'hе можна відповісти', 'hе можна відповісти', 'Не можна читати зображення відрізано']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. ми назвали, що це за смак.\
+	['лимон', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш мені сказати, що тут написано, щоб я могла з'ясувати, що в ньому?\
+	['hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Номер до висвітленого тексту.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. На спині картки має бути написано, що це за палиця, з чого вона зроблена і так далі.\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'щось дереве 14', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я натиснув кнопку \"ОК\", чи не так?\
+	['наступна кнопка, на яку потрібно натиснути', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'пробліска', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка температура?\
+	['hе можна відповісти', '57', 'двадцять', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '20', '20.7c', 'hе можна відповісти']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це?\
+	['hе можна відповісти', 'знак доброприйняття', 'Вітальна пластина', 'hе можна відповісти', 'знак доброприйняття', 'знак доброприйняття', 'hе можна відповісти', 'Вітальний баннер', 'hе можна відповісти', 'hе можна відповісти']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за обличчя?\
+	['без обличчя', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '0', 'hе можна відповісти', 'hе можна відповісти']	не видно обличчя
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Які цифри на цьому ключі продукту?\
+	['hе можна відповісти', 'нечитається', 'hе можна відповісти', 'hе можна відповісти', 'нечитається', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який номер на цьому будинку, який я зараз сфотографував?\
+	['3', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '3', 'hе можна відповісти', '9', 'hе можна відповісти', 'hе можна відповісти', '3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Будь ласка, скажіть мені, що в цій упаковці.\
+	['hе можна відповісти', 'Салат з озимими відчуттями', 'hе можна відповісти', 'білки', 'цукерки', 'ягідки', 'важко сказати, можливо, якийсь вид горіхів', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. - Моє робоче місце з'являється?\
+	['sdfgh', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви це прочитати?\
+	['Так, так.', 'hе можна відповісти', 'Так, так.', 'Інформаційна записка про імпорт для сокорозбійника', 'ні', 'Важна інформація', 'деякі', 'доброзичливі', 'ні', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ви можете сказати, дивлячись на це, на етикетку, що це, я думаю, це частина, DVD в пошті.\
+	['Так, так.', 'Так, DVD', 'ні', 'DVD', 'DVD', 'hе можна відповісти', 'На етикетці не ясно, але на CD', 'Так, так.', 'hе можна відповісти', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Моя камера затьмарена?\
+	['Так, так.', 'Так, так.', 'Так, так.', 'св', 'Так, так.', 'ні', 'Так, так.', 'ні', 'Так, так.', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це курячий кашкашка?\
+	['hе можна відповісти', 'ні', 'Так, так.', 'Можливо, не бачите всі етикетки', 'Так, так.', 'hе можна відповісти', 'Так, так.', 'Так, так.', 'hе можна відповісти', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це мистецтво?\
+	['Так, так.', 'алюмінієва фольга', 'Так, так.', 'Так, так.', 'Так, так.', 'hе можна відповісти', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Привіт, я просто хотів підтвердити, що це дійсно свині котлети. будь-яка інша інформація, яка буде зрозуміло буде вдячна. дякую.\
+	['Так, так.', 'Так, так.', 'Так, Киркленд підпис свинячі котелки', 'так, свині коктейлі', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', \"так, з'їдаю з лапа\", 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я хочу сказати, чи виглядає це як дощ чи шторм?\
+	['Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'ні', 'ні', 'ні']	дощ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи виглядає обличчя Бадди симпатичним чи ні?\
+	['Так, так.', 'Так, так.', 'Смішний.', 'Так, так.', 'Так, так.', 'ні', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.']	ні
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Диалоги вже там?\
+	['ні', 'Так, так.', 'Так, так.', 'hе можна відповісти', 'ні', 'ні', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи все ще у мене пальці на пальцях?\
+	['Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.', 'Так, так.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ви бачите пляшку на цьому фото і якщо так, то яка вона?\
+	['hе можна відповісти', 'ні', 'ні', 'ні', 'ні', 'без пляшки', 'ні', 'ні', 'ні', 'ні']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи є текст на цій стороні паперу, будь ласка?\
+	['ні', 'ні', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'ні', 'hе можна відповісти', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це факс?\
+	['hе можна відповісти', 'ні', 'ні', 'ні', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'ні', 'ні', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи є на цій фотографії частина грудей?\
+	['ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Тут є шахова фігура?\
+	['ні', 'Так, так.', 'ні', 'тільки на борту', 'ні', 'ні', 'Так, так.', 'ні', 'ні', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ці шкарпетки відповідають?\
+	['ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це газета?\
+	['ні', 'ні', 'ні', 'ні', 'ні', 'hе можна відповісти', 'ні', 'ні', 'hе можна відповісти', 'ні']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це ноутбук?\
+	['ні', 'ні', 'ні', 'ні', '0 що я коли-небудь бачив раніше', 'ні', 'ні', 'ні', 'ні', 'ні']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш читати все на моєму екрані?\
+	['ні', 'ні', 'Так, так.', 'ні', 'hе можна відповісти', 'ні', 'ДВР-споживання, ваш ДВР на 89% повний.', 'Так, так.', 'ні', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Бачите запах на пляшці Фрібіз?\
+	['ні', 'ні', 'ні', 'ні', 'не бачу етикетку', 'ні', 'ні', 'ні', 'ні', 'ні']	не бачу зображення
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Екран включений?\
+	['ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні', 'ні']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка тварина на екрані цього комп'ютера?\
+	['ніяких тварин', '0', '0', '0', '0', 'ніякої тварини на екрані', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я намагаюся отримати номер з цієї картки і я хотів би дізнатися, чи можете ви прочитати це для мене.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Прочитайте, будь ласка, на прилавку.\
+	['261627,2 м^3', '02616272 м^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 м3', '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. На яку температуру встановлений термостат?\
+	['72', '72', '72', '72 градуси.', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка ж кнопка - \"Маунтин Діу\"?\
+	['5', '6 згори', '6-й кнопка', '6 1 знизу', '5', '6', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Я думаю, це срібний дуб.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка потужність цього джерела живлення\
+	['350', 'hе можна відповісти', '350', 'Максимальна потужність 350 Вт', 'hе можна відповісти', '350', '350', 'hе можна відповісти', 'завіс', 'Максимальна потужність 350 Вт']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що там написано?\
+	['77 градусів.', '77', '77', '77', '77 градусів.', '77', '77', '77', '77', '77']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. - Ти можеш сказати, з якого медальону це?\
+	['47', '47', '47', '47-й', 'має номер 47', '47', '47', 'hе можна відповісти', '47', 'ні']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки це коштує?\
+	['5', '5', '5', '5', '5', '5 доларів', '5', '5 сингапурських доларів', '5', '5 доларів']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що вказує на циферблат, як номер, що стоїть зверху?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Якого номіналу ця купюра?\
+	['20', 'РРЕГРЕГ', '20', '20', 'hе можна відповісти', 'hе можна відповісти', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що зараз показується на екрані?\
+	['452940', '452940', 'пробудження', 'числа', 'радіо', '452940', 'проходники', '452940', 'hе можна відповісти', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки 465 мінус 55?\
+	['410', '410', '410', 'hе можна відповісти', '410', 'hе можна відповісти', '410', '410', '410', '410']	30
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яке п'яте число?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що це за рахунок?\
+	['2', '2', '2', '2', '$2', 'гроші', '2', '2', 'hе можна відповісти', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки калорій у порції \"Чіріо\"?\
+	['110', 'зображення', '104', '110', '100', 'hе можна відповісти', '10', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. На яку температуру встановлена духовка?\
+	['ручка печі', 'температура печі 400', '425', '450', '400', '425', '425', '400', '425', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка температура термостату? \
+	['78', '78', '78 градусів', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки тут грошей?\
+	['20 канадських доларів', '20', '20', '20', '20 євро', '20', '20 канадських доларів', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. На яку температуру встановлено?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка температура на цьому термостаті?\
+	['50', '50', '55', '64 градуси', '55', 'hе можна відповісти', 'hе можна відповісти', '54', 'hе можна відповісти', '56']	45
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка це конфесія?\
+	['5', '5', '5', '5', 'Канада', '5', '5', 'яйце', '5', '5']	canada
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скажіть мені вартість цієї картки.\
+	['6 діамантів', '9 діамантів', '6 діамантів', '6', '6', '6', '6', '6', '6', '6']	9 діамантів
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ти можеш сказати, скільки я важу?\
+	['210', '200', 'Так, 200', '198', '200', '200', '200', '250', '200', '200']	102
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Привіт, я намагаюся знову. Чи можете ви сказати мені, скільки градусів на цьому гальку?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Ви можете сказати мені, яка температура встановлена на добре\
+	['78', '78', '78', '78', '78', '78', '78 градусів', '78 градусів', '78 градусів по Фаренгейту', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки порцій в цьому шоколадному барі?\
+	['hе можна відповісти', '2', '4', 'hе можна відповісти', '4', '4 чашки арахісового масла', '2', '2', 'hе можна відповісти', 'hе можна відповісти']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки калорій у одній порції?\
+	['120', '120', '120 сухої 220 приготовані, якщо приготовані 1 1 4 чашки безжирового молока', '120', '120', '120', '120', '120', '220', '120 сухої зернових 220 молока']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Чи можете ви сказати мені, що це за купюра? тому що я шукаю двадцятку і думаю, що це десять, але я не можу точно сказати.\
+	['10 євро', '10', '10', 'hе можна відповісти', '10', '10', '10 лежачи на червоній білій сорочці', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. У цій смузі є одна чи дві рожеві лінії? Одна може бути світлішою за іншу.\
+	['біу', '1', '1 ряд', '1 темна лінія', '1', '1', '1', '1', '1', '1']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати, який це номер, дякую?\
+	['3248849064', '3248849084', 'hе можна відповісти', '3248849084', 'hе можна відповісти', 'hе можна відповісти', '3248849084', 'hе можна відповісти', 'hе можна відповісти', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Можете сказати мені, скільки я важу, будь ласка?\
+	['1', '1', 'hе можна відповісти', '1', '1', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', 'порожня вага', '1']	127
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яка поточна температура на цьому термостаті?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'термостат']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Це банкнота в 5 або 10 канадських доларів?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 канадський']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який номер телефону?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'hе можна відповісти', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Яке п'ятизначне число?\
+	['23442', '23442', '23442', 'hе можна відповісти', 'hе можна відповісти', 'тільки 2 цифри 69', '23442', 'hе можна відповісти', 'hе можна відповісти', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки унцій це?\
+	['23,6', '20', '20', '24', 'hе можна відповісти', 'hе можна відповісти', 'hе можна відповісти', '33', 'hе можна відповісти', 'gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що показує температура на цьому термометрі?\
+	['72', '72', '72', '72', '72', '72', '72', '72 градуси.', '72', '72 градуси.']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який номер сторінки це?\
+	['2', '2', '2', '2', '2', '2', '2', 'hе можна відповісти', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що пише на дисплеї?\
+	['8888', 'hе можна відповісти', 'Нічого.', '8888', 'hе можна відповісти', 'hе можна відповісти', '8888', '888', 'Нічого.', 'безвізуальний']	9886
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який номер сторінки відображається?\
+	['123', '121', '121', '121', 'hе можна відповісти', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Який це номер?\
+	['26', '26', '26', '26', '26', 'папір', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Що тут написано?\
+	['hе можна відповісти', '40', '40', 'hе можна відповісти', 'hе можна відповісти', 'числа', '40', '40', '40 фунтів повітря', '30']	не можу відповісти
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer uk When the provided information is insufficient, respond with 'hе можна відповісти'. Скільки таблеток у цій коробці?\
+	['8 таблеток', '8', '8', '8', '8', '8', '8', '8 таблеток', '8', '8']	8

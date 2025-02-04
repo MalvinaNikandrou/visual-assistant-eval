@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše na papiru?\
+	['ne može se odgovoriti', 'Australija', 'post', 'ne može se odgovoriti', 'Australija', 'australska pošta', 'Australija', 'Australija', 'ne može se odgovoriti', 'Australija']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je na ovom ekranu računala?\
+	['ikone za vrijeme sata itd', 'Početni prozor', 'radna površina', 'sat', 'sat', 'ikone', 'ikone za radnu površinu', 'ne može se odgovoriti', 'ikone za radnu površinu', 'ikone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je ovo CD?\
+	['prazan', 'prazan CD', 'Maxwell', 'Maxell CD r', 'prazan', 'prazan', 'pokrivač', 'prazan', 'prazan', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je slika?\
+	['stopala', 'stopala', 'ogrebotina na stopalima', 'stopala', 'stopala', 'stopala', 'stopala', 'stopala', 'stopala', 'stopala']	noga
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je ovo?\
+	['lov', 'Manwich', 'Manwich', 'Lov je nemaran.', 'Neizbrinuti sos.', 'Manwich', 'Čovjek koji je hrabar, nepažljiv i nepažljiv.', 'neobično', 'Manwich', 'Neizvjesni Joe.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Dijetalna kola soda', 'Dijetalna kola može', 'Dijetalna kokaina', 'Može dietni kola', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Koza', 'sode', 'Može dietni kola']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo začin?\
+	['Gospođa Dash', 'ne može se odgovoriti', 'Gospođa Dash', 'ne može se odgovoriti', 'Ne mogu reći.', 'sve začine', 'bazalna mješavina', '-Gospođa Dash.', 'razvod', 'Gospođa Dash']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ml-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'mt rosa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['kave', 'ne može se odgovoriti', 'kave', 'kave', 'kave', 'kave', 'kave', 'kave', 'kave', 'ne može se odgovoriti']	kava
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što vidiš? -Ne znam.\
+	['koža', 'vrata za pod', 'vrata', 'vrata', 'Prstna vrata', 'vrata', 'ne može se odgovoriti', 'vrata', 'Kuća', 'crno krzno prsta']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što mi prikazuje ekran računala?\
+	['želite li vratiti računalo pomoću sistema', 'Pop-up obnoviti sustav', 'Službeni poziv', 'pitaju li vas da li želite vratiti računar pomoću sistema', 'kutija', 'Obnoviti sustav', 'želite li vratiti računalo pomoću sistema', 'Računar nije pokrenuo.', 'Obnoviti postavljen', 'Obnoviti sustav']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['vruće kakao', 'vruća mješavina kakaa', 'topla čokolada', 'vruća mješavina kakaa', 'Kakao', 'vruća mješavina kakaa', 'vruće kakao', 'mješavina vruće čokolade', 'Kakao', 'mješavina kakaa']	hot cocoa mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći broj na kartici?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', 'Sljedeći članak', '1 877 328 9677', '18007352929']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['računarski ekran', 'računarski ekran', 'računarski ekran', 'laptop', 'Računarski ekran koji prikazuje rezultate pretrage', 'ekran', 'računarski ekran', 'računarski ekran', 'ekran monitora', 'računarski ekran']	monitor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. - Što je ovo? - Ne znam.\
+	['salata za obraditi stražnja strana', 'zavoj', 'salata', 'salata', 'Balsamska salata', 'salata', 'ne može se odgovoriti', 'salata', 'salata', 'salata']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što prikazuje slika?\
+	['prozor', 'Dizajn', 'Crni dizajn staklenog prozora', 'stakleni prozor u vratima', 'stakleni prozor u vratima', 'vrata', 'staklo u boji', 'vrata', 'prozor', 'prozor']	prozor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Može li mi netko reći što je pitanje sigurnosti na ekranu, molim?\
+	['Arawak', 'ne može se odgovoriti', 'Arawak', 'Arawak', 'Arawak', 'Arawak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Arawak', 'Arawak']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['vino', 'srebrni hrast', 'srebrni hrast', 'vino od srebrnog hrasta', 'vino', 'bočica', 'vino', 'vino', 'Srebro hrast 2003 Cabernet sauvignon', 'srebrni hrast 2003']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je to marka monitora?\
+	['Ig', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakvo je to piće?\
+	['sode', 'ginger ale', 'generalne', 'sok od đumbira', 'Kanada suha', 'Kanada suha', 'ginger ale', 'Kanada suha', 'ginger ale', 'ginger ale']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje tepih?\
+	['bež', 'bež', 'crvenkasto', 'siva', 'crvena', 'krema', 'crvenkasto', 'crvenkasto', 'bež', 'crvena']	bež
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'digitalni telefon', 'telefon', 'uredni telefon', 'telefon']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ova slika?\
+	['planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'gorski rosac', 'ml-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-', 'gorska voda', 'Mtn rosa']	bočica mtn dew u ruci
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'losije', 'sode', 'ne može se odgovoriti', 'losije', 'losije', 'losije', 'ne može se odgovoriti', 'losije']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['vodena voda', 'Boca vode', 'voda', 'voda', 'plastična boca vode marke aquafina', 'Bočanica vode', 'Boca za vodu', 'vodena voda', 'voda', 'plastične boce vode']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['Google pretraživanje', 'Google pretraživač', 'Google stranica za pretragu', 'Google', 'Google', 'računalo', 'Google početna stranica', 'Google stranica', 'računarski ekran', 'računarski ekran']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi']	set keys
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas, pročitajte mi poruku o grešci na ekranu.\
+	['ne može se odgovoriti', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'ne može se odgovoriti', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Nevaljan ključ proizvoda ili ukloniti ključ proizvoda u datoteku odgovora ne prisustvuje nastaviti', 'Nevaljan ključ proizvoda ili ukloniti ključ proizvoda u datoteku odgovora ne prisustvuje nastaviti', 'Neispravni ključ proizvoda']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Gdje mi je laptop?\
+	['stol', 'na stolu.', 'gornji stol pored kreveta', 'na stolu.', 'stol', 'stol', 'na stolu.', 'na stolu.', 'gornji stol', 'stol']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove ova knjiga?\
+	['godine psa', 'Psi godine: memoari', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Macbook', 'tipkovnica', 'tipkovnica', 'tipkovnica', 'računalo', 'tipkovnica', 'laptop', 'laptop', 'laptop', 'tipkovnica na računaru']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što vidiš? -Ne znam.\
+	['Prozor stol', 'cvjetovi', 'ne može se odgovoriti', 'Prozor stol', 'Knjiga, notebook olovka', 'cvjetovi', 'destop', 'Knjiga', 'prozor', 'cvjetovi']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji paket sadrži prazno brašno?\
+	['crveno-bijeli paket', 'lijevo', 'da 1', 'crvena 1 lijevo', 'lijevo', 'ne može se odgovoriti', 'lijevo', 'lijevo', 'crvena bijela 1', 'crvena 1']	plain flour
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['nogomet', 'nogomet', 'nogomet', 'ljubičasti narandžasti plušni nogometni aligator na', 'nogomet', 'Alligatori, mekani nogomet', 'punjena lopta', 'punjena narandžasta plava lopta', 'ljubičasto nogometno', 'Kljupci']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje?\
+	['siva', 'Zlato', 'Zlato', 'bež', 'crvena', 'Zlato', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zlato', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['meni', 'ne može se odgovoriti', 'meni', 'meni', 'meni', 'sadržaj tabele', 'meni', 'meni', 'cjenovnik', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Boca za vodu', 'Slavno', 'Springbourne voda', 'Springbourne', 'Bočirana voda', 'voda', 'Boca za vodu', 'Bočirana voda', 'voda u boci', 'voda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je to juha?\
+	['napredak', 'napredak', 'napredak', 'ne može se odgovoriti', 'napredak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'napredak', 'napredak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Znam da je ovo konzerva hrane, možeš li mi reći što je unutra?\
+	['zelena graha', 'zelena graha', 'zelena graha', 'zelena graha', 'zelena graha', 'ne može se odgovoriti', 'zelena graha', 'eef', 'zelena graha', 'zelena graha']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je?\
+	['Čeks mješavina', 'Mliječne mašine za rezanje', 'Chex Mix računalo', 'ne može se odgovoriti', 'Čeks mješavina', 'hrana', 'Čeks mješavina', 'Čeks mješavina', 'Čeks mješavina', 'Čekmix']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['mikrotalasne', 'mikrotalasne', 'lijekovi', 'Električni aparati želatina juha', '-Sup u limenci.', 'šalicu juhe za piti', 'kuhinja', 'kuhinjski pulter', 'krema', 'juha']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['mješovite povrće', 'mješovite povrće', 'mješovite povrće', 'mješovite povrće', 'Mješoviti povrće', '- Ne, ne, ne, ne.', 'mješovite povrće', 'mješavina povrća', 'mješovite povrće', 'mješovite povrće']	mixed vegetables
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo vrsta?\
+	['krema za kolače', 'od odjeće', 'od odjeće', 'od šlagova', 'Betty Crocker', 'od vajene', 'od šlagane vanilije', 'od vajene', 'od odjeće', 'od odjeće']	vanilija
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koju kutiju gledam, što sadrži kutija?\
+	['Šipka od žitarica', 'prirodne doline pržene bademske granola barove', 'Barve od žitarica', 'prirodna dolina', 'u obliku žitarica', 'prirodne doline pržene bademske granola barove', 'prirodne doline hrskavi granola barovi pržena badem ukus', 'Barve od žitarica', 'Barve od žitarica', 'u obliku žitarica,']	nature valley crunchy roštilj mandarine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je s bojom tkanine?\
+	['zeleno bijelo', 'Bijeli tamnozeleni natpis', 'bijela zelena', 'bijela zelena', 'ružičasta zelena', 'tkanina bijela krem zelena na', 'crno-ružičasta', 'zeleno bijelo', 'crni crni crveni boja za kravatu', 'bijele zelene prskanja']	ružičasta
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što prikazuje ekran računala?\
+	['Gornja glava', 'Kurzor', 'Ništa.', 'plava', 'plavi ekran', 'Šipka', 'prazan', 'plava strelica', 'prazan', 'plavi ekran']	plavi ekran
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. -Zdravo, tko je to?\
+	['bijela mačka', 'mačka', 'mačka', 'bijela mačka', 'mačka', 'ne može se odgovoriti', 'mačka', 'mačka', 'Ova mačka.', 'mačka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Purell napredni sanitizer za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše u poruki o grešci?\
+	['Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'neispravni proizvod', 'Nevaljan ključ proizvoda kliknite OK da nastavite', 'Nevaljan ključ proizvoda ili uklonite ključ proizvoda iz datoteke odgovora za nastavak', 'neispravni proizvod', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što piše na ovoj poruki na ekranu mog računala?\
+	['neka vrsta popravak završetak dugme u donjem desnom', 'Popravak početka zadnja uspješna pokretanja 9 20 2012 1 pokušaj popravka završi otkazati', 'ne može se odgovoriti', 'Ne, ne mogu.', 'popravak pokretanja', 'popravak pokretanja', 'popravak pokretanja', 'ne može se odgovoriti', 'Početak popravak završen dijagnostički ekran zatvori gumb', 'popravak pokretanja']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li to piletina ili kobasica ili kakvo meso?\
+	['piletina', 'piletina', 'piletina', 'piletina', 'piletina', 'piletina', 'piletina', 'piletina bedra', 'ne može se odgovoriti', 'piletina']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je ovo boje?\
+	['električna plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'ne može se odgovoriti']	plava
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što kaže ekran?\
+	['instalirati prozore', 'instalirati prozore plus više nečitljiv', 'instalirati prozore', 'instalirati prozore', 'instalirati prozore', 'Ovaj ekran navodi da Windows instalirati liste korake instalacije', 'instalirati prozore', 'instalirati prozore', 'instalirati prozore', 'instalirati prozore']	instaliranje windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Nebo izgleda kao na ovoj slici.\
+	['djelomično oblačno', 'tamni oblak', 'veliki oblak', 'Veliki oblak tamno nebo', 'oblačno', 'oblačno', 'Plavi oblakovi', 'ne može se odgovoriti', 'Veliki kišni oblak malo plavi na strani', 'oblačno']	tamno oblačno
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Vrata', 'stolica', 'stolica', 'stolica', 'ne može se odgovoriti', 'stolica', 'stolica', 'stolica', 'Prozor s metalnim okvirom', 'stolica']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['fotografija', 'vrata', 'vrata', 'bar', 'Vrata sa staklenim panelima', 'vrata', 'Restoran', 'Restoran', 'vrata', 'vrata']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je na ekranu?\
+	['odaberite pokretni uređaj', 'Molim vas odaberite pokretni uređaj 3 izbora', 'ne može se odgovoriti', 'Molim vas odaberite uređaj za pokretanje', 'ekrana za pokretanje', 'Molim vas odaberite uređaj za pokretanje', 'pogreška', 'Molim vas odaberite uređaj za pokretanje', 'poruka o odabiru uređaja', 'Molim vas odaberite uređaj za pokretanje']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to?\
+	['pepeljar', 'dekoratorna bronzana skulptura lavkinje', 'kip', 'Ne, ne mogu.', 'pepeljar', 'Pjesak', 'kip', 'pasja zdjela', 'pepeljar', 'Plaga tigar na vrhu']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakve su to cigarete?\
+	['Američki duh', 'Američki duh', 'Američki duh', 'Američki duh', 'Američki duh', 'crno pakirana američka pića', 'Američki duh', 'Američki duh', 'Američki duh', 'Američki duh']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Gujanski ginseng', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj boci?\
+	['losije za tijelo', 'losije za tijelo', 'losije za tijelo', 'losije', 'Shea lotion za tijelo vitamin E', 'Mjesečeva svjetlost put Shea vitamin E lotion za tijelo', 'losije za tijelo', 'Losion za tijelo u mjesečini', 'Losion za tijelo u mjesečini', 'losije']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo slika?\
+	['Očice', 'okvir', 'čaše', 'naočale srebrni okvir', 'naočale za oči', 'čaše', 'okvir naočara', 'čaše', 'čaše', 'čaše']	naočale
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ovo je proizvod.\
+	['- Da, u redu.', 'pomodirana juha', 'pomodirana juha', 'juha', 'konzervirana juha', 'pomodirana juha', 'pomodirana juha', 'pomodirana juha', 'juha', 'odaberite žetvu supa od paradajza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['telefonski govornik', 'iPhone', 'iPhone kutija', 'telefon', 'mobitel', 'mobitelska kutija', 'pametni telefon', 'telefon', 'pametni telefon', 'iPhone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo slika?\
+	['čokolada', 'Slavlje crvena kutija', 'odgovoran', 'Kaže proslava', 'kutija', 'slatkiše', '-Slušaj.', 'proslave', 'kutija', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Šampanjac', 'čajanka za čaj od staklenog vina', 'staklo', 'stakleno vino', 'čaša šampanjca uz šalicu kafe na tanjiru', 'Piće u čaši na stolu', 'Šampanjac', 'čaša za čajanku', 'Čajnik za šampanjac', 'Šampanjac staklo ploča na stolu u prednjem prozoru pogled na grad']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je okus ovoga?\
+	['narandžasta', 'narandžasta zelena žuta crvena', 'crvena mleta', 'narandžasta', 'ne može se odgovoriti', 'ne može se odgovoriti', 'narandžasta', '2 na lijevoj narančaste trešnje limuna na gornjem dnu desno zimskozeleno', 'narandžasta', 'narandžasta']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Zdravo, pitao sam se što je u ovoj limenci?\
+	['Coca-Cola', 'Coca-Cola', 'sode', 'Coca-Cola', 'sode', 'sok-kok', 'sode', 'sode', 'Coca-Cola', 'sode']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je postavka na ovom sušioniku?\
+	['protivmjerno ka satu redovito vrijeme kontrole bora suha delikatna otpuštanje bora zraka', 'redovito', 'isključi', 'isključi', 'isključi', 'redovito', 'isključi', 'Ne na postavljanju', 'Ništa.', 'isključi']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['tablet', 'tablet', 'aplikacije za telefon', 'ekran', 'Popis aplikacija', 'App Store', 'tablet', 'Popis aplikacija za preuzimanje', 'ne može se odgovoriti', 'preuzimanje aplikacija']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što gledam?\
+	['televiziju', 'TV od ormara', 'televiziju', 'TV', 'TV ekran', 'televiziju', 'Tom Selleck na televiziji', 'TV', 'TV', 'TV s otvorenim vratima']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je ovo boje?\
+	['Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'bež', 'Bijeli', 'Slonovača', 'ne može se odgovoriti', 'bež', 'ne može se odgovoriti']	bijela
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ovaj proizvod', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'Kuharica Boyardee mini ravioli', 'konzervirani mini ravioli', 'Ravioli', 'Kuvar Boya mini ravioli', 'mini ravioli']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['Pjesma', 'Pjesma', 'Pjesma', 'Pjesma', 'tradicionalno pečeno govedino', 'Pjesma', 'Pjesma', 'tradicionalno pečeno govedino', 'Pjesma', 'Pjesma']	tradicionalni roštilj od mesa
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to za proizvod?\
+	['Dijetalni pepsi', 'Pepsi bez kofeina', 'Pepsi', 'Pepsi', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Pepsi bez kofeina', 'Dijetalni pepsi', 'Dijetalni pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se ovo zove?\
+	['Istočni', 'žitarica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'hrana', 'žitarica', 'kombinacija staza', 'žitarice', 'žutice', 'vrećice kikirikija']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo obična ili bezkofeinska kava?\
+	['redovito', 'ne može se odgovoriti', 'redovito', 'redovito', 'redovito', 'redovito', 'ne može se odgovoriti', 'ne može se odgovoriti', 'redovito', 'redovito']	bezkofeinska
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['slijedeći:', 'slijedeći:', 'slijedeći:', 'slijedeći:', 'slijedeći:', 'sir od sirova', 'slijedeći:', 'slijedeći:', 'slijedeći:', 'slijedeći:']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj boci?\
+	['kreme za omekšavanje', 'losije', 'losije', 'losije', 'krema za omekšavanje', 'losije', 'krema za vlaženje', 'krema za tijelo', 'duboko vlažno pranje tijela', 'Pročišćavanje tijela']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['stolica za stol', 'stolica', 'stolica', 'uredska stolica', 'uredska stolica', 'Ova kancelarijska stolica', 'stolica', 'stolica za stol', 'stolica', 'siva kancelarijska stolica']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to predmet sam upravo napravio sliku?\
+	['računarski monitor', 'računalo', 'računarski ekran', 'ne može se odgovoriti', 'ne može se odgovoriti', 'laptop', 'računarski ekran', 'laptop', 'računarski monitor', 'laptop računalo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Reci mi što je ovo.\
+	['svinjske rešetke', 'meso', 'neka vrsta crvenog mesa', 'pakirano meso', 'svinjetina', 'svinjski odrezak', 'ne može se odgovoriti', 'meso', 'Fg', 'svinjski udob']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako izgleda nebo na ovoj slici?\
+	['oblačan dan', 'djelomično oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'kiša']	oblačno
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Čeka da vrijeme istekne?\
+	['ne može se odgovoriti', 'špageti', 'špageti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'špageti', 'špageti', 'zrcala', 'večera', 'Pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['cvjetovi', 'cvjet', 'cvjetovi', 'cvjetovi', 'cvjet', 'cvjetovi', 'biljke', 'cvjetovi', 'cvjet', 'iris']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['čaja', 'čaj', 'ne može se odgovoriti', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje su boje i uzorak ove hlače?\
+	['škriljan', 'plava žuta', 'plava narandžasta zelena', 'plava smeđa bijela karata', 'plava na vrhu, žuta na dnu.', 'višebojan', 'plavo-brunito-bijeli plati', 'škriljan', 'plava karata', 'plava, bijela, zelena, žuta, plava']	plava bijela zelena smeđa
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje bio kovčeg?\
+	['zelena', 'zelena', 'limena zelena', 'zelena boja', 'zelena', 'zelena', 'zelena', 'zelena', 'svijetlo zelena', 'zelena']	zelený
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo obična kola ili dijetalna kola?\
+	['Dijetalna kokaina', 'dijeta', 'dijeta', 'dijeta', 'dijeta', 'dijeta', 'Dijetalna kokaina', 'dijeta', 'Dijetalna kokaina', 'dijeta']	dijetalna
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['pisala', 'Ključnica', 'pisala', 'pisala', 'pisala', 'pisala', 'pisala', 'pisala', 'pisala', 'Bi- pen']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Lampa može pringles', 'svjetiljka', 'svjetiljka', 'svjetiljka', 'Pringle može pored cds lampe', 'svjetiljka bez senke', 'svjetiljka', 'stolni pringles lampa za ispiranje usta', 'svjetiljka', 'svjetiljka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što ovaj kompjuter radi?\
+	['sustav provjere', 'ne može se odgovoriti', 'provjera diska', 'provjeravajući disk', 'ne može se odgovoriti', 'ne može se odgovoriti', 'za opterećenje', 'konfiguracija', 'provjera dosljednosti', 'Ponovno pokretanje']	check disk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo soda?\
+	['Dijetalna kokaina', '- Ne, ne, ne.', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kola limuna', 'Dijetalna kokaina', 'Dijetalna kokaina']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas, recite mi o tome.\
+	['Clive Cussler Dirk Cussler', 'ne može se odgovoriti', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'znanstveno', 'suspense', 'Olive Cussler Dirk Cussler', 'djelovanje', 'ne može se odgovoriti', 'Clive Cussler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakvo je ovo vino?\
+	['ne može se odgovoriti', 'Slavimo vjenčanje David Emma crveno vino', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nash vino']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['masnoće', 'ne može se odgovoriti', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove ova knjiga?\
+	['godine psa', 'godine psa', 'godine psa', 'godine psa', 'ne može se odgovoriti', 'godine psa', 'ne može se odgovoriti', 'godine psa', 'godine psa', 'godine psa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Sony laptop', 'laptop', 'laptop', 'računalo', 'laptop', 'Sony Vaio laptop', 'laptop', 'Soni Vaio', 'Sony laptop', 'laptop']	sony vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Pitam se kakva je marka ovog računala.\
+	['-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je ovo?\
+	['bitka', 'Na zadnjoj etiketi ne piše', 'ne može se odgovoriti', 'paradižnik', 'paradižnik', 'paradižnik', 'ne može se odgovoriti', 'paradižnik', 'Nejasna slika', 'paradižnik']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['slijepa hrana', 'Snickers od pudinga', 'od odjeće', 'slijepa hrana', 'od odjeće', 'slijepa hrana', '6 paketa snack paketa vanilije puding', 'čokoladice za puding', 'slijepa hrana', 'Puding za pakiranje grickalica']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['20 $ kanadski novčanici', '20 kanadskog dolara', '20 kanadskog', 'novac', 'Novac na čipku.', '20 novčanica', 'novac', '20 dolara kanadska novčanica', '20 dolara.', 'novac']	20 kanadskog dolara
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['lasagne', 'lasagne', 'specijalni lazanje', 'lasagne', 'specijalni lazanje', 'specijalni lazanje', 'Lasagne', 'lasagne', 'lasagne', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo kava?\
+	['espresso', 'espresso', '-Timotije, ekspreso.', 'Espresso iz kišne šume', 'espresso iz kišne šume', 'espresso', 'ekstra debelo', 'espresso Forest tropski', 'ekstra odvažan espresso Forest tropski', 'Timoteju']	timothy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to slika?\
+	['klavijaturni čaša za vino', 'laptop', 'laptop tastatura vino pivo', 'ne može se odgovoriti', 'računalo', 'računalo', 'laptop piće', 'laptop na stolu pored staklene tekućine', 'laptop staklo', 'stakleni laptop']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['naslovna knjiga', 'Knjiga', 'brošura', 'Napomena', 'Demon rum lako novac knjiga', 'Demon rum lak novac: Vlada kontrolira piće u Britanskoj Kolumbiji', 'Knjiga', 'Knjiga', 'naslovna stranica knjige', 'brošura']	demon rum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je bilo na stolu?\
+	['bilježnica', 'drugi papir', 'Spajeralizirani bilježnik', 'papirna olovka', 'bilježnica', 'notebook olovka', 'bilježnica', 'notebook olovka', 'papirna olovka', 'bilježnica']	notes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje ova košulja?\
+	['plava bijela karata', 'plava bijela', 'plava bijela karata', 'plava bijela', 'plava', 'plava bijela', 'plava, plava, bijela', 'plava karata', 'plava', 'plava']	plava bijela
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Andre Chardonnay', 'Šampanjac', 'Andre, molim te.', 'Šampanjac', 'vino', 'Šampanjac', 'Šampanjac', 'Šampanjac', 'Šampanjac', 'Šampanjac']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove proizvod na slici?\
+	['lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo kava?\
+	['Gelacija', 'maksimalno Gevalia kafe', 'Maksim', 'Velea espresso', 'Maksim', 'crna kava', 'Maksim', 'ne može se odgovoriti', 'Gelacija', 'Gelacija']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['Dr paprika', 'Može li dr paprika soda', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'dr paprinska soda', 'Dr paprika', 'Može li dr paprika soda', 'Dr paprika']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je ovo, molim vas?\
+	['instantna kava', 'instantna kava', 'klasična kava', 'paketice za kavu', 'ne može se odgovoriti', 'kave', 'kave', 'kave u prahu', 'kave', 'Nescafe Classic']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje su boje tri žice s lijeve na desnu?\
+	['crvena crna bijela', 'crvena crna bijela', 'crveno crno tan', 'crvena crna bijela', 'crvena crna bijela', 'crvena crna bijela', 'crvena crna bijela', 'crvena crna bijela', 'crvena plava bijela', 'crvena crna bijela']	crvena, crna i bež
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što ovaj test pokazuje?\
+	['1 linija', 'negativno', 'negativno', '1 linija, ali boja se širi.', 'ne može se odgovoriti', '1 traka', 'Nema slike', 'crvena linija', 'ne može se odgovoriti', 'plava oznaka crvena oznaka']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove ovo začin?\
+	['gđa. Mješavina svježeg limuna i paprike.', 'razvod', 'Gospođa Dash', 'Gospođa Dash limuna paprika', 'Gospođa Dash', 'Gospođa Dash', 'paprika', 'Gospođa Dash', 'Gospođa Dash', 'Gospođa Dash']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav piće imam u boci?\
+	['Pepsi', 'Pepsi soda', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Pepsi', 'Dijetalni pepsi', 'Pepsi dijeta', 'Dijetalni pepsi', 'Dijetalni pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['video igrice', 'video igrice', 'košarkaška igra', 'video igrice', 'ne može se odgovoriti', 'DVD', 'ne može se odgovoriti', 'igra', 'video igrice', 'DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['Kečup', 'Kečup', 'Heinz paradajz kečup', 'paket sa kečapom', 'pakovanje sa kečapom', 'Kečup', 'Kečup', 'paket sa kečapom', 'Kečup', 'Kečup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje su boje u ovoj košulji?\
+	['crvena bijela', 'crvena', 'crvena bijela', 'crvene bijele pruge', 'crvene bijele pruge', 'crvena bijela', 'crvena bijela', 'crvena bijela', 'crvena bijela', 'crvena bijela']	crvena bijela
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u paketu?\
+	['Parlament slika', 'glazbeni album', 'cigarete', 'cigarete', 'cigarete', 'cigarete', 'S druge strane, za proizvodnju električnih goriva', 'cigare parlamenta', 'kartice', 'cigarete']	cigarete
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje ova podloga?\
+	['ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta']	ljubičasta
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li dijalog vidljiviji na toj slici?\
+	['dosadno', '- Da, u redu.', 'Ne, ne mogu.', '- Da, u redu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', '- Da, u redu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to za proizvod?\
+	['zelena graha', 'zelena graha', 'zelena graha', 'može', 'žitarica', 'šumak', 'ne može se odgovoriti', 'zelena graha', 'Fg', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['Svinjska graha', 'Svinjska graha', 'svinjetina i grah', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha']	konzerva s mesom i grahom u rajčicama
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo vino?\
+	['ne može se odgovoriti', '-Ne, ne, ne, ne, ne, ne, ne, ne.', 'Vintage 2008 proizvod Nash', 'Nash', 'Nash', 'Sjećanje na vjenčanje', 'Nash proslavlja brak David Emma 16. srpnja 2011.', 'Nash', 'Nash', 'proslava vjenčanja']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo hrana?\
+	['Tomatski umak', 'Tomatski umak', 'organski umak od paradajza', 'Tomatski umak', 'Tomatski umak', 'Tomatski umak', 'Muir Glen organski umak od paradajza', 'Tomatski umak', 'Muir Glen organski umak od paradajza', 'Tomoto']	rajčica
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo okus?\
+	['jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku']	jagoda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći koju je ovo boju?\
+	['crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno']	crna
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['biljka', 'dekoratorna biljka', 'aloe', 'biljka za kućanstvo', 'biljka za kućanstvo', 'kućna biljka', 'biljka', 'kućna biljka', 'biljka', 'biljka trave']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['časopis', 'stripovi', 'stripovi', 'stolna igra za odrasle', 'časopis', 'knjižica za obojavanje', 'Čudna Božićna knjiga.', 'Nisam siguran da ne znam čitati taj jezik.', 'Božićne čestitke', 'strip']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['Piletina Dijon večera', 'hrana', 'piletina dijon', 'piletina dijon', 'piletina dijon', 'hrana', 'piletina dijon', 'piletina', 'piletina dijon', 'piletina dijon']	piletina dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo kava?\
+	['Gvelia', 'Gelacija', 'francuska vanilija', 'francuska vanilija', 'Gvelia', 'Gvelia', 'francuska vanilija', 'francuska vanilija', 'francuski', 'Vanilija']	gevalia french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to?\
+	['iPhone', 'telefon', 'telefon', 'iPhone', 'mobitel', 'mobitel', 'mobilni telefon', 'Ja zovem.', 'pametni telefon', 'pametni telefon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'cigarete', 'pakovanje cigareta', 'cigarete', 'pakovanje cigareta', 'cigarete', 'cigarete', 'ne može se odgovoriti', 'cigarete', 'cigarete']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo okus?\
+	['govedina', 'S okusom govedine', 'govedina', 'odlagalica s okusom govedine', 'govedina', 'ukus govedine', 'odlagalica s okusom govedine', 'govedina', 'Ovaj okus govedine', 'govedina']	govedina
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['veliki čaša', 'čaša', 'čaša', 'čaša', 'voli Togo kup', 'čaša', 'Pop cup neke druge stvari', 'Čaša od polistirolne pene', 'čaša', 'Ova šalica.']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo Pepsi za dijetu ili običan Pepsi?\
+	['Dijetalni pepsi', 'dijeta', 'ne može se odgovoriti', 'dijeta', 'Dijetalni pepsi', 'dijeta', 'dijeta', 'dijeta', 'Dijetalni pepsi', 'dijeta']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što kaže ekran?\
+	['Avast softver', 'skeniranje lokalnih pogona', 'prozori', 'poruka o pogrešci', 'skeniranje', 'Avast softver skeniranje Windows XP', 'prozori', 'ne može se odgovoriti', 'Windows XP', 'ne može se odgovoriti']	ne može se odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas, recite mi na kojem sam ekranu? Pokušavam pristupiti meniju za pokretanje i pokušavam pokrenuti sa USB-a.\
+	['Pritisnite strelicu dolje jednom, a zatim unesite za usb.', 'Menu za pokretanje na opciji za pokretanje s HDD-a', 'ne može se odgovoriti', 'U bootmood', 'Molim vas odaberite uređaj za pokretanje', 'Molim vas odaberite pokretni uređaj:', 'Molim vas izaberite pokretni uređaj hdd: pm st9250315as', 'Molim vas odaberite uređaj za pokretanje', 'Naslov ekrana: molim izaberite pokretni uređaj pomaknite strijela dolje 1 mjesto na usb:usb disk pro', 'Molim vas odaberite uređaj za pokretanje']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći kakav je ovo okus?\
+	['Dijeta dr paprika', 'Dijeta dr paprika', 'Dr. Pepper Diet', 'Dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'kola', 'Dijeta dr paprika', 'Dijeta dr paprika']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je to juha?\
+	['povrćna juha', 'napredak', 'progresivno', 'ne može se odgovoriti', 'Progresso povrće', 'ne može se odgovoriti', 'povrće', 'Progresso povrće', 'povrće', 'napredak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći kakva je to vrsta auta?\
+	['ne može se odgovoriti', 'Lincoln Crown Victoria', 'Nekakav četverodomni sedan.', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'Chevrolet', 'Viktorija', 'ne može se odgovoriti', 'Ford']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kava je ovo?\
+	['Gelacija', 'Gelacija', 'Gelacija', 'Gelatia švicarski orašasti orašasti', 'Gelacija', 'Gelacija', 'Gelacija', 'Gelacija', 'Gelacija', 'Gelacija']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'G.', 'Dezinfekcijski sredstvo za ruke', 'Dezinfekcijski sredstvo za ruke']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to?\
+	['juha', 'voće', 'ne može se odgovoriti', 'ne može se odgovoriti', 'juha', 'ne može se odgovoriti', 'juha', 'ne može se odgovoriti', 'ladica', 'juha']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je ovo boje?\
+	['crna', 'crna', 'crna', 'hrastovog smeđog', 'crna', 'crni klopar', 'drvena', 'crna', 'crna', 'crna']	smeđa
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ruka', 'ruka', 'ne može se odgovoriti', 'ruka', 'ruka', '1 desna ruka', 'ruka', 'ruka', 'ruka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je postavljanje lonca?\
+	['čaša', 'visoka', 'visoka', 'visoka', 'visoka', 'visoka', 'niska', 'visoka', 'visoka', 'visoka']	nije prikazano
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je ovo?\
+	['proizvodi za slijepe', 'CD', 'Povratno CD', 'od čelika', 'CD', 'disk', 'Knjiga na CD-u', 'CD', 'proizvodi za slijepe', 'Spear, James Herbert, DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['računari monitor tastature', 'monitor', 'računarski monitor', 'računarski ekran', 'računalo', 'računarski monitor', 'računarski ekran', 'radna površina', 'Grafički prikaz', 'Grafički prikaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što piše u ovoj boci?\
+	['topli šećer od vanilije', 'šećer', 'topli šećer od vanilije', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'topli vanilijski šećer', 'topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije']	to warm vanilla sugar body lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je na ekranu?\
+	['Windows instalirani ekran', 'ne može se odgovoriti', 'instalirati prozore', 'instalirati Windows statusni ekran', 'instalirati Windows', 'instalirati prozore', 'uputstva za ugradnju prozora', 'napredak pri postavljanju prozora', 'instalirati Windows info', 'prozori']	instalacija računala
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['može', 'može', 'ne može se odgovoriti', 'konzerve', 'može', 'žitarica', 'ne može se odgovoriti', 'žitarica', 'gvožđe', 'gvožđe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakvo je to piće?\
+	['sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'narandžasta', 'sok od naranče']	narančasti sok
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je to pića u ovoj konzervi?\
+	['čaj', 'Nešta', 'Neština limuna', 'hladnoća', 'Nešta', 'Nešta', 'Nešta', 'hladnoća', 'Čaj od leda', 'gnijezda']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo pepperoni pizza, pepperoni i kobasica, suprem, kakve vrste?\
+	['čokolada', 'čokolada', 'čokolada', 'čokolada', 'čokolada', 'čokolada', '- Da, u redu.', 'čokolada', 'Mama cozzis pepperoni tanka kora', 'čokolada']	pepperoni pizza
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Imaš li pojma kakva je biljka ona u sredini?\
+	['Ne, ne mogu.', 'trava', 'trava', 'trava', 'trava', 'trava', 'Ne, ne mogu.', 'Ne, ne mogu.', 'trava', 'šuma']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['čaše', 'čaše', 'čaše', 'Očice', 'par naočara', 'čaše', 'par naočara', 'čaše', 'naočale za oči', 'par naočara']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Opiši ovo mjesto.\
+	['ured', 'uredski prostor', 'ured', 'Ured 2 stola ormarić 2 stolice', 'ured', 'ured', 'stolovi crni uredske stolice', 'uredski stolovi', 'Ured 2 stolovi', 'ured']	uredni stol i stolica u sobi.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['bilježnica', 'planir', 'Knjiga', 'Knjiga', 'Kartica', 'bilježnica', 'planir', 'bilježnica', 'Lilly Pulitzer agenda spiralna', 'bilježnica']	notebook
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Plastični medvjed ruža', 'Medvjed', 'Medvjed', 'Medvjed', 'Medvjed', 'Medvjed', 'medvjed', 'Medvjed', 'Medvjed', 'Medvjed']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je to začina?\
+	['čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol', 'morska sol', 'čebulja', 'čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol']	sol od morske soli i luk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj konzervi?\
+	['Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dr. Pepper Diet', 'Dijeta dr paprika']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je slika na ovoj šalici?\
+	['crtić', 'crtić', 'crtić', 'Čovjek gleda pticu', 'muškarac piletina', 'Čovječe.', 'Čovjek iz crtića', 'skica ptica čovjek drvo mjesec', 'osoba životinja', 'crtić']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['osobe natrag', 'dječak', 'čovjekova glava', 'osoba', 'Nekome u leđa, glavu, ramena.', '-Nastavi.', 'ne može se odgovoriti', 'siva košulja', 'dječak', 'Slika pozadi osoba']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['govornik', 'govornik', 'zvučnik na zidu', 'govornik', 'govornik', 'govornik', 'zvučnik na zidu', 'govornik', 'mačka', 'govornik']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovdje napisano?\
+	['broj telefona taksija', 'Ništa.', 'Ništa.', 'telefon', 'gradski taksi', 'primak', 'ne može se odgovoriti', 'Izgleda kao potvrda.', 'linije', 'gradski taksi']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['New Orleans stil jambalaya mješavina', 'mješavina jambalaya', 'mješavina jambalaya', 'riža', 'Jambalaya', 'mješavina jambalaya', 'mješavina jambalaya', 'riža jambalaya', 'kutija spremna za mješavinu za rižu jambalaya u stilu New Orleansa', 'mješavina jambalaya']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje moj Mac?\
+	['srebrno', 'Bijeli', 'crno-bežno', 'Bijeli', 'srebrno', 'srebrno', 'srebrno', 'srebrno', 'Bijeli', 'srebrno']	sivo
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u limenci?\
+	['Biološki pečeni grah', 'Svinja', 'Biološki pečeni grah', 'Svinja', 'Svinja', 'Svinja', 'Svinja', 'Svinja', 'Svinja', 'Svinja']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['slijedeći:', 'ne može se odgovoriti', 'slijedeći:', '3 čokolada sa sirom', 'slijedeći:', 'sir od sirova', 'slijedeći:', 'večera', 'slijedeći:', 'česne školjke']	kraft noću od 3 sira
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Zatarains New Orleans stil jambalaya mješavina', 'mješavina jambalaya', 'mješavina jambalaya', 'mješavina jambalaya', 'mješavina jambalaya', 'riža', 'za-tarini mješavina jambalaya', 'Jambalaya', 'za-tarini mješavina jambalaya', 'mješavina jambalaya']	jambalaya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['kvalitetni ulični bomboni', 'Šarlatan', 'slatkiše', 'slatkiše', 'tvrde slatkiše', 'slatkiše', 'slatkiše', 'slatkiše', 'kvaliteta ulice', 'slatkiše']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ispričavam se, recite mi što točno možete vidjeti na ovoj slici.\
+	['hladnjak', 'hladnjak', 'hladnjak', 'Mali hladnjak trake od trake svjetlo pločica sticker na zid ručnik na hladnjaku', 'hladnjak', 'mini hladnjak', 'mini hladnjak', 'vrata za ormare', 'bijeli hladnjak', 'hladnjak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je to u kutiji?\
+	['Divne unuke.', 'Nešto o divnim unucima.', 'Divno.', 'Ništa lijepše od unuka.', 'Malo je stvari lijepih od unuka koji se bore za tvoje krilo.', 'Divne unuke.', 'Divne unuke.', 'Malo je stvari lijepih od unuka koji se bore za tvoje krilo.', 'ne može se odgovoriti', 'Divne unuke.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako izgleda nebo?\
+	['Čista', 'zalaska sunca', 'plava', 'sumrak', 'plava', 'Čista', 'Čista', 'mirno', 'svjetlo plava', 'Plava svjetlija plava blizu horizonta']	plavo
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje ova košulja?\
+	['crvenkasto', 'crna', 'crvenkasto', 'bež', 'bež', 'ružičasta', 'crna', 'crvenkasto', 'Zlato', 'crna boja']	bež
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li dječak ili djevojčica?\
+	['ne može se odgovoriti', 'dječak', 'dječak', 'djevojčica', 'dječak', 'dječak', 'dječak', 'dječak', 'dječak', 'dječak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas, možete li mi reći što je to?\
+	['žitarice', '-Hvala.', 'žitarice', '-Hvala.', 'ne može se odgovoriti', 'žitarice', 'slatki čerios', 'Cheerios sada ukusniji med', 'slatkiši', 'slatkiši']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je ovo boje?\
+	['Crvena, žuta, bijela, plava', 'škriljan', 'zeleno plavo bijelo crveno plato', 'višebojan', 'bled', 'škriljan', 'plavo zeleno bijelo crveno', 'škriljan', 'plava, bijela, zelena, plava', 'plavo zeleno crveno bijelo']	plava zelena crvena bijela
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['vruće kakao', 'vruća mješavina kakaa', 'vruća mješavina kakaa', 'vruća mješavina kakaa', 'mješavina kakaa', 'vruće kakao', 'topla čokolada', 'mješavina vruće čokolade', 'pakovanje tople čokolade', 'topla čokolada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['ne može se odgovoriti', 'specijalno lakše pivo', 'pivo', 'ne može se odgovoriti', 'ne može se odgovoriti', 'pivo', 'pivo', 'pivo', 'pivo', 'posebna svjetlost']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo piletina ili celer?\
+	['paradajz', 'paradajz', 'paradajz', 'paradajz', 'Ne, ne mogu.', 'paradajz', 'pomodirana juha', 'paradajz', 'paradajz', 'Ne, ne mogu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše ovdje?\
+	['MacBook Pro', 'MacBook Pro', 'Mac Book Pro', 'MacBook Pro', 'Mac Book Pro', 'MacBook Pro', 'MacBook Pro', 'Airbook pro', 'MacBook Pro', 'MacBook Pro']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Volio bih znati što je sadržano u ovoj kutiji.\
+	['Svinja', 'Svinja', 'žitarica', 'pečeni grah u paradižnom umaku', 'Farmerka pečena grah', 'Svinja', 'Svinja', 'žitarica', 'Svinja', 'žitarica']	farmgirl
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['piletina', 'ne može se odgovoriti', 'Crmno piletino parmezan', 'hrana', 'TV večera', 'hrana', 'sir od sirova', 'hrana', 'Marie Collendersov obrok', 'Crmno piletino parmezan']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['dolarski novčanici', 'Novčanica od 1 dolara', 'dolar', 'Novčanica od 1 dolara', '1', 'Novčanica od 1 dolara', 'dolarski novčanici', 'Novčanica od 1 dolara', 'Novčanica od 1 dolara', '1 američki dolar']	1 usd
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['igre na karte', '2 kralja', 'par kraljeva', 'igre na karte', 'kartice', 'kartice', 'igre na karte', 'par', 'kartice', 'igre na karte']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li crno ili plavo?\
+	['ne može se odgovoriti', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'siva', 'crno sivo', 'crno']	crno
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše na ekranu?\
+	['Google pretraživač', 'Google', 'Google', 'Google Google pretraži.', 'Google', 'Google pretraživanje', 'ne može se odgovoriti', 'Google', 'Google', 'ne može se odgovoriti']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['Pjesma', 'Pjesma', 'Pjesma', 'Pjesma', 'hrana', 'Pjesma', 'Pjesma', 'Pjesma', 'tradicionalno pečeno govedino', 'tradicionalno pečeno govedino']	tradicionalni roštilj od mesa
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo soda?\
+	['Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['TV daljinski upravljač', 'daljinski upravljač', 'daljinski upravljač', 'udaljeno', 'daljinski upravljač', 'udaljeno', 'daljinski upravljač', 'daljinski upravljač', 'udaljeno', 'daljinski upravljač']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['kućna biljka', 'biljka', 'kućna biljka', 'biljka', 'biljka', 'biljka', 'biljka', 'biljka u loncu', 'biljka', 'biljka za kućanstvo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['stol', 'računalo', 'stol', 'stol', 'stol', 'stol', 'Računarski stol', 'stol', 'stol', 'Računalo na stolu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je na mom stolu?\
+	['iPod touch', 'aplikacije', 'telefon', 'papir za pametne telefone', 'papir za pametne telefone', 'telefon', 'telefon', 'telefon', 'mobitel', 'telefon']	telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koju sam sliku napravio?\
+	['iPad', 'Pic iPad torbica za kavu pored', 'tablet', 'iPad', 'Hulu ulaz na ekran', '- Ne, ne, ne, ne.', 'tablet s prikazom hulu plus', 'tablet hulu plus login', 'Huluplus ekran', 'Prijava za Hulu plus na tabletu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['šampon', 'šampon', 'ne može se odgovoriti', 'treće mjesto', '-Srce moje.', 'ne može se odgovoriti', 'Trezemme za njegu kose', 'šampon', 'parfem', 'Tresemme šampon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to model?\
+	['sode', 'čvor', 'Boca sode', 'čvor', 'ne može se odgovoriti', 'vodik', 'čvor', 'Boca za sprite', 'ne može se odgovoriti', 'čvor']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovaj proizvod?\
+	['Čeks mješavina', 'Čeks mješavina', 'Čeks mješavina', 'Čedar', 'Čeks mješavina', 'Čeks mješavina', 'Mix za kuhara', 'Čeks mješavina', 'Čeks mješavina', 'Ček']	cheddar chex mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['pušena puretina', 'pušenog puretina panini', 'pušenog puretina panini', 'Pakanina od purana', 'pušenog puretina panini', 'pušenog puretina panini', 'za punjenje', 'Panini', 'pušena puretina', 'pušenog puretina panini']	panini od pušenog puretina i povrća
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja slova moram otpisati da bih dobio nagradu?\
+	['-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo konzerva?\
+	['paradižnik', 'sos', 'paradajz', 'u obliku od pomidora', 'cink', 'paradajz', 'paradižnik', 'konzervirani rajčice', 'paradajz', 'paradižnik']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo Keurig čaša?\
+	['Kuća s krafnom.', 'kave', 'kutija', 'Donut', 'Donut House kolekcija', 'Donut', 'Donut', 'zbirka krofni.', 'Donut rupa', 'zbirka krafne rupe']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas recite mi ime ove knjige?\
+	['Sljedeći članak', 'ne može se odgovoriti', 'Autor Clive Cussler Dirk Cussler', 'Samo imena autora, nema naslova', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['novac', 'novac', '20 $ novčanica', 'novac', '20 dolara.', '20 dolara.', '20 dolara.', '20 dolara', '20h račun', 'Novčanica od 20 dolara.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo šampon ili pranje tijela?\
+	['losije', 'losije za tijelo', 'losije', 'losije za tijelo', 'losije za tijelo', 'losije za tijelo', 'losije za tijelo', 'losije', 'losije za tijelo', 'losije za tijelo']	lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je na ovoj slici?\
+	['kreker', 'kreker od kutije', 'kutija za kolačiće', 'kutija za kolačiće', 'kreker', 'kreker', 'kreker', 'kreker', 'kreker', 'kreker']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo slika?\
+	['telefon', 'MacBook Pro', 'MacBook Pro', 'računarski monitor', 'ne može se odgovoriti', 'laptop', 'računalo', 'MacBook Pro', 'MacBook Pro ekran', 'laptop računalo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['voda', 'voda', 'prirodna kristalna voda', 'prirode kristalna voda', 'Boca za vodu', 'Boca za vodu', 'Boca za vodu', 'voda', 'Boca za vodu', 'voda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo pizza?\
+	['čokolada', 'Mama je slatka.', 'Mama je ugodna tanka pizza.', 'čokolada', 'zamrznuta pizza', 'čokolada', 'tanak', 'tanka kora paprika od mama Cozzis', 'Mama je slatka, tanka koruča paprika.', 'Mama je slatka.']	mama cozzis
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj konzervi?\
+	['čitav kukuruz', 'kukuruz', 'kukuruz', 'kukuruz', 'Cjeloviti kukuruz', 'Cjeloviti kukuruz', 'kukuruz', '-Vrhunska hrana može', 'kukuruz', 'kukuruz']	krupni plan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['miš', 'računarski miš', 'računarski miš', 'računarski miš', 'računarski miš', 'HP žični miš', 'računarski miš', 'PC miš', 'HP miš', 'miš']	hp miš
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['ured', 'stolice', 'ured', 'uredska stolica', 'stolica', 'stolica za stol', 'kućna kancelarija', 'ured', '2 stolice za stol', 'stolica']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['TV', 'televiziju', 'televiziju', 'Stari TV monitor', 'TV', 'TV', 'monitor', 'TV ekran', 'TV', 'monitor']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje moja košulja?\
+	['crno bijelo', 'plava bijela crna', 'crno', 'plava', 'mornarica', 'crno-bijeli znak', 'crno bijelo', 'plava', 'plava', 'crno bijelo']	crna
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je ovo boje?\
+	['crvena', 'crvena', 'crvena', 'crvena', 'ružičasta', 'crvena', 'crvena', 'crvena', 'crvena', 'crvena']	crvena
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Jesu li ovo obični čipsovi ili čipsovi s solom i sirćetom?\
+	['sol', 'redovito', 'redovito', 'obični čipovi', 'redovito', 'redovito', 'ne može se odgovoriti', 'ne može se odgovoriti', 'redovito', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo kutija?\
+	['sok od naranče', 'sok od naranče', '- Ne, ne, ne.', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'narandžasta', 'sok od naranče', 'papirna kutija s sokom od naranče']	narančasti sok
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je ovo?\
+	['čipovi', 'čipovi', 'čipovi', 'čipsovi', 'čipsovi', 'čipsovi od lukova', 'čipovi', 'čipsovi', 'čipovi', 'čipsovi']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj torbi?\
+	['ne može se odgovoriti', 'zamrznuto povrće', 'povrće', 'šargarepe grašak kukuruz zelena grašak', 'povrće', 'grašak mrkve kukuruz', 'mješovite povrće', 'povrće', 'Mješoviti povrće', 'kukuruz mrkve grah grah grah grah']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo okus Sparka?\
+	['ružičasta limunada', 'ružičasta limunada', 'ne može se odgovoriti', 'ružičasta limunada', 'ne može se odgovoriti', 'ružičasta limunada', 'narandžasta', 'jabuku', 'ne može se odgovoriti', 'ružičasta limunada']	voćni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo vrsta?\
+	['Manwich', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Manwich', 'Manwich', 'Manwich', 'paradajz', 'Manwich', 'Manwich', 'Neizvjesni Joe.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je ovo sezona?\
+	['špageti', 'špageti', 'za začin za špagete', 'za začin za špagete', 'špageti', 'za začin za špagete', 'za začin za špagete', 'špageti', 'špageti', 'za začin za špagete']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Knjiga', 'časopis', 'vertikalni magazini', 'časopis', 'vertikalni magazini', 'časopis', 'časopis', 'Zvrtić magazin', 'časopis', 'časopis']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to?\
+	['zid', 'zid', 'zid', 'zid', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'zid', 'zid', 'zid']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['slatkiše', 'slatkiše od jagode', 'slatkiše', 'slatkiše od jagode', 'slatkiše', 'slatkiše od jagode', '- Ne, ne, ne.', 'slatkiše od jagode', 'slatkiše', 'slatkiše od jagode']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje su boje ove cipele?\
+	['crna', 'crno', 'crna', 'crna', 'crna', 'crna', 'crna', 'stopala', 'crna', 'brun']	smeđa
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['računarski ekran', 'web stranica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'web stranica', 'računarski ekran', 'računarski monitor', 'članak', 'PDF datoteka za vizwiz', 'vizwizpdf zamagljen, ali možete vidjeti članove']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo sliku?\
+	['monitor', 'laptop', 'televiziju', 'računalo', 'laptop', 'televiziju', 'TV s ravnim ekranom', 'laptop ekran', 'televiziju', 'ne može se odgovoriti']	monitor računala koji je crni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['mobitel', 'mobitel', 'Pejdžer', 'ne može se odgovoriti', 'telefon', 'mobitel', 'Blackberry mobitel', 'mobitel', 'mobitel', 'mobitel']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['hladnjak', 'ne može se odgovoriti', 'hladnjak', 'hladnjak u spavaćoj sobi', 'hladnjak', 'hladnjak', 'hladnjak', 'mini hladnjak', 'hladnjak', 'mini hladnjak']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje boje nakit da nosim sa ovom odjećom?\
+	['srebrno', 'srebrno', 'Bijeli', 'Zlato', 'crno', 'srebrno', 'srebrno', 'srebrno', 'srebrno', 'srebrno']	crvena
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['nogu', 'džinse', 'stepen', 'hlače nogu', 'ruka kauč', 'hlače', 'poduskom', 'ne može se odgovoriti', 'nogu hlače', 'nogu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['pas', 'ne može se odgovoriti', 'pas', 'pas', 'pas', 'pas', 'pas', 'pas', 'ne može se odgovoriti', 'pas na podu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['udaljeno', 'udaljeno', 'daljinski upravljač', 'TV upravljač', 'TV daljinski upravljač', 'daljinski upravljač', 'udaljeno', 'udaljeno', 'daljinski upravljač', 'daljinski upravljač']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Jesu li ove banane zelene ili žute?\
+	['malo zeleno', 'žuto', 'žuto', 'žuto', 'zelena', 'žuto', 'žuto', 'žuto', 'žuto', 'žuto']	žute
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to za proizvod?\
+	['žitarice', 'Kaši, idi, mršav, mršav med, badem, lan.', 'Kaši, idi na slab crunch.', 'Golean crunch kashi', 'žitarice', '-Idi na mršavlje.', 'Idi na slab crunch.', 'Kaši, idi, mršav, mršav med, badem, lan.', 'žitarice', 'žitarice']	kashi go lean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je trenutno na TV ekranu?\
+	['Ništa.', 'Ništa.', 'Ništa nije otkazano.', 'Ništa.', 'Ništa.', 'Ništa.', 'Ništa.', 'Ništa.', 'ne može se odgovoriti', 'Ništa.']	nothing
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['meso', 'govedina', 'govedina', 'pakiranje od mesa', 'meso', 'meso', 'ne može se odgovoriti', 'govedina', 'odresak', 'meso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše u ovoj poruci?\
+	['ne može se odgovoriti', 'Obnoviti kompletno', 'ne može se odgovoriti', 'Obnova je završena.', 'Obnova je završena.', 'ne može se odgovoriti', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva hrana je u ovoj konzervi?\
+	['juha', 'Progresso vrtna povrćna juha', 'juha od povrća', 'povrćna juha', 'juha od povrća', 'juha od povrća', 'juha', 'Progresso vrtna povrćna juha', 'povrće za vrt', 'juha od povrća']	povrće
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'može', 'čorba od graška', 'čorba od graška', 'čorba od graška', 'čorba od graška', 'juha', 'Može podijeliti grašak juhu', 'čorba od graška', 'juha']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li to kauč ili stol?\
+	['tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'ovaj stol']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva hrana je u ovoj konzervi?\
+	['Ravioli', 'Ravioli', 'Ravioli', 'kukuruz', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli hrana', 'Ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je na ekranu?\
+	['poruka o pogrešci', 'Pop-up za pokretanje popravak računara restart', 'Ponovno pokretanje', 'Dijalog kutija koja kaže da ste sigurni da želite izaći iz pokretanja popravak ponovno pokrenuti računar', 'popravak pokretanja', 'Upravljanje Windows update', 'ne može se odgovoriti', 'popravak pokretanja', 'Opcija za ponovno pokretanje računala', 'popravak pokretanja']	start up repair
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Pokušajmo, možeš li mi reći što je ovo?\
+	['žitarica', 'Svinja', 'žitarica', 'Svinja', 'grmlje pečene grahove', 'može', 'konzerve', 'grmlje pečene grahove', 'Svinja', 'žitarica']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći kakav je ovo telefon?\
+	['- Ne, ne, ne.', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Android', 'Ig', '- Da, u redu.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['pametni telefon', 'mobitel', 'mobitel', 'telefon', 'mobitel', 'mobitel', 'mobitel', 'pametni telefon', 'telefon', 'telefon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['laptop', 'ruka', 'tipkovnica za laptop', 'ruka', 'prsti', 'ruka', 'ne može se odgovoriti', 'ne može se odgovoriti', 'stol', 'ruka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Cabernet 2009', 'vino', 'vino', 'vino', 'Slijedeći proizvodi:', 'Boce vina', 'vino', 'vino', 'Vina od kolumbijske sorte Cabernet 2007', 'vino']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u toj boci?\
+	['Koza', 'Sode pop možda Coca Cola', 'sode', 'Coca-Cola soda', 'sode', 'sode', 'Koza', 'sode', 'Koza', 'sode']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je ovo boje, molim vas?\
+	['crvena bijela traka', 'crvena', 'crvene bijele pruge', 'crvene bijele pruge', 'crvena bijela', 'Bijela crvena', 'košulja', 'crvena bijela', 'crvena bijela', 'crvena bijela']	crveno bijelo
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj torbi?\
+	['brokoli', 'brokoli', 'brokoli', 'brokoli', 'brokoli', 'ali brokoli', 'brokoli', 'brokoli', 'Parom, služi se odrezanim brokolijem.', 'brokoli']	brokula
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to kupon za?\
+	['masnoće', 'masnoće', 'Jogurt od lopatice', 'Yoplait jogurt 10$', '- Ne, ne, ne.', 'Yoplait jogurt 10$', 'Jogurt od lopatice', 'masnoće', 'popust', 'masnoće']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo tip?\
+	['Nešta', 'konzervirani ledeni čaj', 'limuna', 'Neština limuna', 'Nešta', 'Nešta', 'Nešta', 'Nešta', 'festival', 'Nešta']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['iPad', 'tablet', 'računalo', 'iPad', 'podloga za miša', 'laptop', 'prozor', 'tablet', 'ne može se odgovoriti', 'iPad']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je na ekranu?\
+	['Želite li vratiti komp pomoću sistema obnoviti pojavljuje se', 'poruka o pogrešci', 'želite li vratiti računalo pomoću sistema', 'pokretanje', 'početak isplaćen dijagnostički ekran', 'Sistemi vraćanje pitanje: želite li koristiti za vraćanje računala', 'popravak pokretanja', 'popravak pokretanja', 'Pitanje za vraćanje računala', 'želite li vratiti računalo pomoću sistema']	pop-up za popravak start-up-a
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Hvala na vremenu za odgovor.\
+	['čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše na ekranu?\
+	['Želite li vratiti računalo pomoću sistema CD', 'obnoviti', 'Želite li vratiti računalo koristeći sustav', 'Vaš računar nije mogao pokrenuti start popravak provjeravanje sustava za probleme', 'Želite li vratiti računalo koristeći sustav', 'popravak pokretanja', 'Vaš računar ne može početi', 'Vaš računar nije mogao pokrenuti pokrenuti popravak provjeravanje sustava za probleme', 'Računar ne može početi', 'obnoviti']	ne može se odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['povrće', '- Ne, ne, ne, ne.', 'Mješoviti povrće', 'Vegetarijanski original', 'mješovite povrće', 'povrće', 'Vegan', 'povrće', 'povrće', 'mješovite povrće']	miješani povrće
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što vidiš na slici? Što vidiš na slici?\
+	['Ništa.', 'nebo', 'sudoperi', 'nebo', 'ne može se odgovoriti', 'nebo', 'Ništa.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'nebo']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakvu sodu?\
+	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola 0', 'Coca-Cola 0', 'Kozmetika', 'Coca-Cola 0', 'Coca-Cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je to sustav?\
+	['radna površina', 'ne može se odgovoriti', 'prozori', 'desktop računalo', 'prozori', 'prozori', 'prozori', 'Windows PC', 'prozori', 'prozori']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['govornik', 'govornici', 'pod', 'govornici', 'sustav zvučnika', 'govornik', 'govornik', 'govornik', 'govornik', 'govornici']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. To prati svjetlo na laptopu?\
+	['- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', 'Ne, ne mogu.', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što piše u ovoj boci?\
+	['topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije', 'topli šećer od vanilije', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije', 'topli losion od vanilije i šećera', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'toplo šećer vanilije']	to warm vanilla sugar body lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći broj 1-800 s ove kartice, i možete li čuti ovo pitanje?\
+	['Ne čujem te.', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', 'Sljedeći članak', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 ne', '18773289677 ne', '1 877 328 9677', '8007352929 ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Svjetla u sobi uključena ili isključena?\
+	['svjetla isključena', 'isključi', 'na', 'isključi', 'na', 'ne može se odgovoriti', 'na', 'na', 'na', 'na']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo okus?\
+	['češnja', 'ružičasta limunada', 'voćni punč', 'ružičasta limunada', 'ružičasta limunada', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ružičasta limunada', 'češnja', 'ružičasta limunada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše u ovoj poruci?\
+	['Obnova je završena.', 'ne može se odgovoriti', 'uspješno obnovu završen', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.', 'registracija je završena', 'Obnova je završena.', 'Obnova je završena.']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje moja košulja?\
+	['Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli']	bijela
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['napredni šampon za terapiju bojom', 'šampon', 'napredni šampon za terapiju bojom', 'šampon', 'šampon za terapiju bojom', 'šampon', 'Farba terapija', 'šampon', 'Ovation napredna terapija bojama', 'Farba terapija']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['konzerve', 'hrana za mačke', 'ne može se odgovoriti', 'sudoperi', 'može', 'sudoperi', 'pranje', 'sudoperi', 'sudoperi', 'može']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo video igra?\
+	['ESPN NFL 2k', 'nogomet', 'Nfl 2k', '-NFL 2K5', '-Ne, ne, ne, ne, ne, ne, ne.', 'Espn 2k nogomet', 'Nfl 2k', 'nogomet', 'Nfl 2k', 'nogomet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['Panini', 'Panini', 'pušenog puretina panini', 'pušenog puretina panini', 'pušenog puretina panini', 'Stouffer pušenog puretina panini', 'Pakanina od purana', 'ne može se odgovoriti', 'pušenog puretina panini', 'pušenog puretina panini']	panini od pušenog puretina
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj kutiji?\
+	['lasagne', 'zamrznuta večera', 'specijalni lazanje', 'specijalni lazanje', 'lasagne', 'specijalni lazanje', 'lasagne', 'lasagne', 'lasagne', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to?\
+	['prirodne doline ovs tamne čokolade granola bar', 'crunch bar', 'čokolada', 'čokolada', 'čokolada', 'čokolada', 'prirodne doline ovsa n tamna čokolada', 'ovus i crna čokolada', 'čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čoko', 'čokolada']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['video igrice', 'igra za PlayStation 2', 'PlayStation 2 Star Wars Battlefront igra', 'igranje igre Star Wars', 'video igrice', 'video igrice', 'Ratni front 2', 'igra', 'igra za PlayStation 2', 'Psi igra']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. -Ovo je neki kafić?\
+	['francuska vanilija', 'francuska vanilija', 'francuska vanilija', 'gnijezda', 'od odjeće', 'francuska vanilija', 'Kava-mate', 'francuska vanilija', 'francuska vanilija', 'francuska vanilija']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['sok od naranče', 'sok', 'sok', 'sok od naranče', 'sok', 'glatko sočno', 'glatko i sočno', 'sok', 'sok od naranče', 'sok']	smooth n juicy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje su boje kamenje u ovoj naušnici?\
+	['ružičasta', 'crvena', 'crvena', 'ružičasta', 'ljubičasta', 'ružičasta', 'ružičasta', 'ružičasta', 'ružičasta', 'ružičasta']	ružičasti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše na ovoj elektroničkoj napravi?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što točno piše na ovom ekranu, ako to možete čitati?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne može čitati ekran', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne mogu čitati.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj boci?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'losije', 'vitaminima', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nisam siguran.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je okus ovaj energetski bar?\
+	['jabuku', 'Brijedi, badem i kruh', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'jabuka', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Brijedi, badem i kruh']	berry crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše ovdje?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Pažnja', 'n', 'ne može se odgovoriti', 'ne može se odgovoriti', 'vijesti', 'ne može se odgovoriti']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo hrana?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Pokušavam shvatiti kakva je ovo radio stanica, bilo kakve informacije da bih mogao nabaviti svoj, bilo bi super, hvala.\
+	['Ne znam.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Možda domaći IP9 zvučnik.', 'ne može se odgovoriti', 'šunka', 'ne može se odgovoriti', 'prenosni', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Žao mi je, ne znam kako... nikad nisam snimio ovakve stvari.\
+	['Pomaknite se malo dalje tako da se kamera fokusira', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je od ovih najbolji film?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'jednostavno']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ovaj slajd', 'ružičasta', 'ne može se odgovoriti', 'ljubičasta', 'ne može se odgovoriti', 'ne može se odgovoriti', 'svjetlost', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove ovaj losion?\
+	['ne može se odgovoriti', 'Noxema', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kada to ističe?\
+	['Sljedeći članak', 'ne može se odgovoriti', 'ne može se odgovoriti', '23. rujna 2013.', '23. rujna 2013.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '23. rujna 2013.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko dugo ću ovo kuhati?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', '5 minuta.', 'ne može se odgovoriti', 'ne može se odgovoriti', '5 minuta.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	5 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['Klinex', 'uglov', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'telefon', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo pjesma?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Bug na slici', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'štakor']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što kaže ispod prozora da ne može popraviti sustav automatski?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Start popravak ne može popraviti ovaj kompjuter automatski', 'ne može se odgovoriti', 'pokretanje', 'Početak popravke ne može popraviti ovaj kompjuter automatski', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko natrija je u ovom paketu?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'samoa', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Na ekranu piše da se obnavlja?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje zavjese?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nastavi učiti.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove ova mediacija?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '0', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje?\
+	['crvena bijela', 'ne može se odgovoriti', 'Bijeli', 'Bijeli', 'ne može se odgovoriti', 'crvena bijela', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas, objasnite mi što piše na etiketi na mom ruteru.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je rok isteka na ovoj autobuskoj propusnici?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Samo reci.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što kaže ovo, što kaže ovo\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'redovi stupci zamagljeni brojevi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko je sati? -Danas.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Blic na kameri ne može čitati sat', 'Nevidljivo', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne mogu reći.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći uputstva za upotrebu ovog šampona?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'EMS-ovi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Moram li pritisnuti dugme da nastavim?\
+	['nastavak sustava', 'ne može se odgovoriti', '- Da, u redu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Čekaj malo.', 'Ugrađujte ga.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ako je karta prikazana na ovoj slici, što piše?\
+	['ne može se odgovoriti', 'ne prikazano', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nema riječi.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. -Test?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'udaljeno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'daljinski upravljač za surround zvuk', 'Pitanje se ne odnosi na sliku.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Prava riječ.\
+	['ne može se odgovoriti', 'neznato', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Imam posla s Captcha, ali ne mogu vidjeti ekran i trebam ga da zatražim nešto sa web stranice.\
+	['ne 1', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Znam da piše Deset zapovijedi, ali što su Deset zapovijedi?\
+	['Postavio je pravila koja je Bog dao svojim vjernicima.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'moralna pravila', 'ne može se odgovoriti', 'Božji zapovijedi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zakoni', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše na ekranu?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'previše zamagljeno', 'prazan ekran']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo formula za bebe?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'Ne vidim formula za bebe.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to lijek?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je ovo karta?\
+	['ne može se odgovoriti', 'Crvena kreditna kartica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'kreditna kartica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše na ovoj kartici?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'samo 16 12 vidljivo', 'ne može se odgovoriti', 'Ništa.', 'ne može se odgovoriti', '1 6 12', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['čaja', 'proizvod', 'ne može se odgovoriti', 'mlijeko', 'ne može se odgovoriti', 'ne može se odgovoriti', 'kapi za oči', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. U redu, kakva je ovo vrsta odrezane hrane?\
+	['Vodič', 'ds', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'govedina', 'ne može se odgovoriti', 'govedina', 'ne može se odgovoriti', 'ne može se odgovoriti']	protein
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Za što je ovo poklon karta?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'Neodgovarajuća slika', 'ne može se odgovoriti', 'Ne mogu reći.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo konzerva?\
+	['limun', 'ne može se odgovoriti', 'limun', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'limun', 'ne može se odgovoriti', 'limun']	limun
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko je sati? -Danas.\
+	['ne može se odgovoriti', '532', 'ne može se odgovoriti', 'ne može se odgovoriti', '-U petnaest.', '-U petnaest.', 'ne može se odgovoriti', '- U pet i deset.', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je proizvod u ovoj konzervi?\
+	['Ne mogu reći.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći koliko je temperatura peći i koliko minuta i trebam li probiti poklopac?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ASDD', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Izgleda li ta pećnica spremna?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne peći', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Da, mislim da sam spreman.', 'Ne, ne mogu.', 'ne može se odgovoriti']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li to pomoglo?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je kod koji treba otkucati?\
+	['ne može se odgovoriti', 'e-mail', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakvu majicu nosim?\
+	['ne može se odgovoriti', 'od svinje', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Bijeli', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći kakva je to zamrznuta večera?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše ovdje?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'slika prazna', 'Ništa.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je ovo marka?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Sanjo', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je temperatura peći?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Gfdsg', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je u ovoj boci?\
+	['Tomatski umak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'maslačni umak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Tomatski umak', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše ovdje?\
+	['ne može se odgovoriti', 'Azitromicin tablete 250 mg', 'tabletama', 'ne može se odgovoriti', 'ne može se odgovoriti', '250 mg', 'Azitromicin tablete', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li pročitati ove riječi molim vas?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nema riječi.']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo valium?\
+	['Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može čitati ime lijeka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo pjesma?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'glazbene bilješke', 'ne može se odgovoriti', 'album', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zvonci zvoni', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Da, ovo je laptop HP, moram znati gdje je čitač kartica u odnosu na tastaturu.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'na strani', 'ne može se odgovoriti', 'Ne mogu vidjeti čitač kartica. Čitač kartica je obično na lijevom uglu prednjeg rublja.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove parfem?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nema imena.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo RAM?\
+	['ne može se odgovoriti', 'Članovi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'SDP-a', '-Ne znam.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Razumijem, ali je li stražnji dio bijelog kamiona ugubljen?\
+	['ne može se odgovoriti', 'Ne, ne mogu.', 'Slika sa prednje strane ne vidim ništa neobično.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'N0', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je to juha?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'piletina', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što se vidi na ekranu laptopa?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo, molim vas?\
+	['ne može se odgovoriti', 'juha', 'juha', '-Sup u limenci.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'juha', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['podnožje', 'papireni ručnici', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'papirni ručnik', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo okus?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'redovito', 'originalno', 'ne može se odgovoriti', 'Okreni se.', 'sir', 'slika']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja od tri slike je Google logotip?\
+	['ne može se odgovoriti', '0', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Prva slika', 'lijevo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['ne može se odgovoriti', 'nejasno', 'zamagljeno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'oznaka', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ima li kamenja koji nedostaje?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'nedostatak kvalitete slike', 'ne može se odgovoriti', 'Ne, ne mogu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Želim znati koju marku parfema je ovo.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je rok trajanja ovog sira?\
+	['- Ne.', 'Nečitljiv', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je temperatura postavljena na termostat?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', '75', 'ne može se odgovoriti', '75', 'ne može se odgovoriti', '75', '75', 'ne može se odgovoriti', 'Nevidljivo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je boje ova košulja?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'crno', 'ne može se odgovoriti', 'crno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'crno', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše na displeju?\
+	['poruka o pogrešnom ponovnom pokretanju', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Sys', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne može se odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo soda, molim?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nisam siguran.', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'kosa', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas recite mi što piše ovdje.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'kutija', 'ne može se odgovoriti', 'mala kutija', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je temperature termostat postavljen na?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne mogu čitati.', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'Ne znam.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Mogu li dobiti sve znakove u ovom?\
+	['Arobergy Chavez', 'ne može se odgovoriti', '- Da, u redu.', '- Da, u redu.', 'ne može se odgovoriti', 'Arobergy Chavez', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ključ proizvoda za ove verzije isključen\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Dođi, dobivam ono sa čekanjem.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'cipele', 'ne može se odgovoriti', 'cipele', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko je sati i koliko je temperatura u Dallasu?\
+	['3:40 54', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '9:17 pm 96 stupnjeva', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako si ti? -Dobro.\
+	['ne može se odgovoriti', 'Dobro.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Dobro.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je bio odgovor koji si dobio?\
+	['ne može se odgovoriti', 'nejasno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'log na ekranu', 'računalo', 'ne može se odgovoriti', 'Snimak na slici']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo, molim vas?\
+	['Boca za pokrivanje tkanine', 'ne može se odgovoriti', 'pokrivač', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je ovo marka?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'seiko', 'ne može se odgovoriti', 'zamagljeno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Čuvaj', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je ovo web stranica?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Stranica o iPhoneu u kupnji aplikacija']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo juha za rublje?\
+	['ne može se odgovoriti', 'Sunce', 'ne može se odgovoriti', 'ne može se odgovoriti', 'suavetel', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj staklenici?\
+	['Ništa.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'juha', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'hrana', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Za što je ovo račun?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to ispravno što imam ruku\
+	['Poslovna kartica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše ovdje?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Sretan Božić.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što mogu slikati?\
+	['sat na listu', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Čuvaj', 'Mickey Mouse džepni sat', 'Ovaj džepni sat slušalice']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što kaže ekran?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'uvjeti licence za Windows', 'Pojmovi djelomično izvan ekrana', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. - Ali da, sklopit ću ga.\
+	['ne može se odgovoriti', 'sklopiti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ruka', 'kutija']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je ovo boje?\
+	['Bijeli sivi', 'ljubičasta', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'crvena bijela', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'kuhinja', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Slika čovjeka na stolu na računalu', 'Vidim dnevni boravak na slici.', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako se zove?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Euforija', 'Euforija', 'eufonija', 'ne može se odgovoriti', 'ne može se odgovoriti']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['ne može se odgovoriti', 'svjetlo', 'ne može se odgovoriti', 'ne može se odgovoriti', 'svjetlo', 'svjetlost zamagljena', 'ne može se odgovoriti', 'nejasno', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas pročitajte tekst na ovom polju koji je još jedan okvir.\
+	['d', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. -Tako je, tražim nekakav osmostruki identifikacijski broj.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne vidim ništa. Žao mi je.', 'ne može se odgovoriti', 'prazan', 'Ne mogu da vidim ništa slično.', 'ne može se odgovoriti', '0', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći naslov ove knjige?\
+	['ne može se odgovoriti', 'harmonični materijali u tonalnoj glazbi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše ovdje?\
+	['Deberman', 'Ništa.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'paket za držanje u ruci']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što kaže ekran?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Neko vrijeme, znaš.\
+	['Ne mogu razumjeti.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći koje su sigurnosno pitanje, ili sigurnosni brojevi i slova da mogu dodati ovo u moje polje za uređivanje?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je to novčanice?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nepouzdana slika', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to postavljeno na?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Računalo', 'Računalo', 'kuhinjski pulter', 'Prodajni stol']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo zmijski ugriz?\
+	['ne može se odgovoriti', 'Možda.', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Možda.', 'Možda.', 'Ne, ne mogu.', 'ne može se odgovoriti']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi detaljno reći što je na ovom ekranu?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'Računar ne može pokrenuti poruku', 'ne može se odgovoriti', 'Vaš računar nije mogao da se pokrene', 'ne može se odgovoriti', 'Vaš računar nije mogao pokrenuti popravak pokretanja provjeravanje sustava za probleme', 'pokretanje', 'ne može se odgovoriti', 'Dijalog']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji su znakovi u ovom captcha?\
+	['ne može se odgovoriti', '-Oženjen.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'crna kutija']	ne može se odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Znaš li kuhati ovo?\
+	['ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', '- Da, u redu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'računarski ekran', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko dugo bih ovo kuhala u mikrovalnoj?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '8 minuta.', 'ne može se odgovoriti', 'ne može se odgovoriti']	8 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kako to kuhaš?\
+	['pećnica', 'ne može se odgovoriti', 'peći', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je s potpisom?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'politički', 'Čovječe.', 'ne može se odgovoriti', 'Nema pojma.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Plavi čovjek u zgradi.']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas recite mi uputstva na ovoj boci šampona.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Dodajte na mokru kosu penu ispiranje ponoviti ako želite']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo sliku?\
+	['plafon', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu vidjeti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'telefon', 'ne može se odgovoriti', 'Čovjek govori na mobitelu.', 'ne može se odgovoriti', 'osoba', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je u ovoj konzervi?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'žitarica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ova slika je zamagljena.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći kakve boje je moja košulja?\
+	['Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je to? -Ne znam.\
+	['ne može se odgovoriti', 'žica', 'ne može se odgovoriti', 'crna gumena igračka za pse', 'biljka', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kada to ističe?\
+	['ne može', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne na slici', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo kartica?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'bez kartice', 'ne može se odgovoriti', 'ne može se odgovoriti', 'crno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. O čemu je ova slika?\
+	['ne može se odgovoriti', 'prazan', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu vidjeti sliku.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'od kože', 'pas', 'torbica', 'ne može se odgovoriti', 'za pse', 'životinja']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji su uvjeti za kuhanje za ovo?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakva je ovo vrsta traženja?\
+	['ne može se odgovoriti', 'olovka', 'obrazac lišća', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'list', 'ne može se odgovoriti', 'korov']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što je u konzervi u mojoj desnoj ruci?\
+	['ne može se odgovoriti', 'Nekakvo meso, ali nalepnica nije u potpunosti na slici.', 'konzervirana hrana', 'ne može se odgovoriti', 'goveđe meso', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći od koga je ovo?\
+	['Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Pismo iz pošte', '-Nema pisanja na ovoj koverti.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakav je ovo okus?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Newmanova posebna mješavina.', 'Nemans specijalna mješavina', 'kave', 'Newmanov poseban spoj.', 'ne može se odgovoriti', 'Neumani su sami.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko mi je krvni tlak?\
+	['ne može se odgovoriti', 'ne može se odgovoriti', '105', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '109 više', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne mogu pročitati sliku odrezanu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Zvali smo što je okus \
+	['limuna', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći što ovo može reći da bih mogao shvatiti što je unutra?\
+	['ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Broj na naglašenom tekstu.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Na zadnjoj strani kartice treba pisati kakva je to štapić, od čega je napravljen itd.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'nešto drvo 14', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Mislim da sam pritisnuo OK gumb.\
+	['Sljedeći gumb koji treba kliknuti sada pritisnite Enter', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo? -Ne znam.\
+	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'bljesak', 'ne može se odgovoriti']	sunce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja temperatura?\
+	['ne može se odgovoriti', '57', 'dvadeset', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '20', '20.7c', 'ne može se odgovoriti']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovo?\
+	['ne može se odgovoriti', 'znak dobrodošlice', 'Dobrodošlicu.', 'ne može se odgovoriti', 'znak dobrodošlice', 'znak dobrodošlice', 'ne može se odgovoriti', 'Dobrodošlicu.', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kakvo je ovo lice?\
+	['bez lica.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '0', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji su brojevi na ovom ključu proizvoda?\
+	['ne može se odgovoriti', 'Nečitljiv', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nečitljiv', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je broj na ovoj zgradi koju sam upravo fotografirao?\
+	['3 - 3', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '3 - 3', 'ne može se odgovoriti', '9', 'ne može se odgovoriti', 'ne može se odgovoriti', '3 - 3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas recite mi što je u ovom paketu.\
+	['ne može se odgovoriti', '-Salata za žetvu.', 'ne može se odgovoriti', 'šumik', 'slatkiše', 'sjemenke', 'Teško je reći. Možda neki vrsta oraha.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Da li se moj desktop prikazuje?\
+	['Sdfgh', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možeš li ovo pročitati?\
+	['- Da, u redu.', 'ne može se odgovoriti', '- Da, u redu.', 'Uvozna informacija za sokovnik', 'Ne, ne mogu.', 'Važne informacije', 'neki', 'ljubazni', 'Ne, ne mogu.', 'ne može se odgovoriti']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li reći gledajući ovo, na etiketi, što je to, mislim da je to komad, DVD u pošti.\
+	['- Da, u redu.', 'Da, DVD', 'Ne, ne mogu.', 'DVD', 'DVD', 'ne može se odgovoriti', 'Oznaka nije jasna, ali CD', '- Da, u redu.', 'ne može se odgovoriti', 'Ne, ne mogu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li mi kamera zakrivljena?\
+	['- Da, u redu.', '- Da, u redu.', '- Da, u redu.', 'sr', '- Da, u redu.', 'Ne, ne mogu.', '- Da, u redu.', 'Ne, ne mogu.', '- Da, u redu.', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo pileći sos?\
+	['ne može se odgovoriti', 'Ne, ne mogu.', '- Da, u redu.', 'Vjerojatno ne mogu vidjeti sve oznake', '- Da, u redu.', 'ne može se odgovoriti', '- Da, u redu.', '- Da, u redu.', 'ne može se odgovoriti', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo umjetnost?\
+	['- Da, u redu.', 'umjetnost aluminijumske folije', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', 'ne može se odgovoriti', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Samo sam htio potvrditi da su ovo stvarno svinjske rešetke.\
+	['- Da, u redu.', '- Da, u redu.', 'Da, Kirkland signature svinjske rešetke', 'Da, svinjske čepove.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', 'Da, rezanje.', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Hoću reći, izgleda li da će ovdje kišiti ili oluja?\
+	['- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	oluja
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Izgleda li Buddyjev lice slatko ili ne?\
+	['- Da, u redu.', '- Da, u redu.', 'Slatko.', '- Da, u redu.', '- Da, u redu.', 'Ne, ne mogu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li dijalog tamo sada?\
+	['Ne, ne mogu.', '- Da, u redu.', '- Da, u redu.', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Imam li još sve prste?\
+	['- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li vidjeti bocu na ovoj slici i ako jeste, što je to?\
+	['ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'bez boce', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ima li teksta na ovoj strani papira, molim?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Ne, ne mogu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li to faks?\
+	['ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ima li komada prsa na ovoj slici?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ima li ovdje šahovska figura?\
+	['Ne, ne mogu.', '- Da, u redu.', 'Ne, ne mogu.', 'samo ploča', 'Ne, ne mogu.', 'Ne, ne mogu.', '- Da, u redu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Da li se te čarape poklapaju?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li to papir?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Ne, ne mogu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li to laptop?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', '0 koje sam ikada vidio prije', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možeš li sve pročitati na mom TV ekranu?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', '- Da, u redu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Ne, ne mogu.', 'DVR kapaciteta za korištenje 89% pun', '- Da, u redu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Vidiš li miris na ovoj boci Freebeze?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne vidim oznaku.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	miris ne vidim na ovoj boci.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ekran uključen?\
+	['Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je životinja na ovom ekranu računala?\
+	['bez životinje', '0', '0', '0', '0', 'Nema životinje na ekranu', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Pokušavam dobiti broj na ovoj kartici i pitao sam se možete li mi to pročitati.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Molim vas, pročitajte pulter.\
+	['261627,2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Na koju temperaturu je termostat postavljen?\
+	['72', '72', '72', '72 stupnjeva.', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji gumb je Mountain Dew?\
+	['5', '6 odozgo', 'Šesto dugme', 'Šesti, jedan dolje.', '5', '6', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Mislim da je ovo srebrni hrast.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Kolika je snaga ovog napajanja?\
+	['350', 'ne može se odgovoriti', '350', '350w maksimalno', 'ne može se odgovoriti', '350', '350', 'ne može se odgovoriti', '- Ne, ne, ne.', '350w maksimalno']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše?\
+	['77 stupnjeva.', '77', '77', '77', '77 stupnjeva.', '77', '77', '77', '77', '77']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li reći od kojeg je to medaljon?\
+	['47', '47', '47', '47. mjesto', 'Ima broj 47', '47', '47', 'ne može se odgovoriti', '47', 'Ne, ne mogu.']	ne mogu odgovoriti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko je ovo?\
+	['5', '5', '5', '5', '5', '5 dolara.', '5', '5 singapurskih dolara', '5', '5 dolara.']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što brojka pokazuje kao broj koji je okrenut prema gore?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koje je to novčano?\
+	['20', '-Regreg', '20', '20', 'ne može se odgovoriti', 'ne može se odgovoriti', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što se trenutno prikazuje na ekranu?\
+	['Sljedeći članak:', 'Sljedeći članak:', 'Wakie talkie', 'brojevi', 'radio', 'Sljedeći članak:', 'radio-talkie', 'Sljedeći članak:', 'ne može se odgovoriti', 'Sljedeći članak:']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko je 465 minus 55?\
+	['410', '410', '410', 'ne može se odgovoriti', '410', 'ne može se odgovoriti', '410', '410', '410', '410']	30
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je peti broj?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što je ovaj račun?\
+	['2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 dolara', 'novac', '2 - 2', '2 - 2', 'ne može se odgovoriti', '2 - 2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko kalorija u porciji Cheeriosa?\
+	['110', 'sliku', '104', '110', '100', 'ne može se odgovoriti', '10', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Na koju temperaturu je ugrađena pećnica?\
+	['čvor za pećnicu', 'temperatura peći 400', '425', '450', '400', '425', '425', '400', '425', '400']	300
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je temperatura termostata?\
+	['78', '78', '78 stupnjeva.', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko je ovo novca?\
+	['20 kanadskih dolara', '20', '20', '20', '20 eura', '20', '20 kanadskih dolara', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Na što je postavljena temperatura?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je temperatura na ovom termostatu?\
+	['50', '50', '55', '64 stupnjeva.', '55', 'ne može se odgovoriti', 'ne može se odgovoriti', '54', 'ne može se odgovoriti', '56']	55
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je to denominacija?\
+	['5', '5', '5', '5', 'Kanada', '5', '5', '- Ne, ne, ne, ne.', '5', '5']	5 kanadskog dolara
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Reci mi vrijednost ove karte.\
+	['6 dijamanata', '9 dijamanata', '6 dijamanata', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možeš li reći koliko ovo kaže da težim?\
+	['210', '200', 'Da, 200', '198', '200', '200', '200', '250', '200', '200']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći koliko je stupnjeva na ovom merilu?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	59
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći koja je temperatura postavljena na fine\
+	['78', '78', '78', '78', '78', '78', '78 stupnjeva.', '78 stupnjeva.', '78 stupnjeva Fahrenheita.', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko porcija ima u ovom čokoladicu?\
+	['ne može se odgovoriti', '2 - 2', '4 - 4', 'ne može se odgovoriti', '4 - 4', '4 šalice maslaca od kikirikija', '2 - 2', '2 - 2', 'ne može se odgovoriti', 'ne može se odgovoriti']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko kalorija ima u jednoj porciji?\
+	['120', '120', '120 suho 220 pripremljeno ako je pripremljeno 1 1 4 šalice bezmasnog mlijeka', '120', '120', '120', '120', '120', '220', '120 suha žitarica 220 mlijeko']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. -Tražim 20 i mislim da je 10 ali ne mogu reći.\
+	['10 eura', '10', '10', 'ne može se odgovoriti', '10', '10', '10 leže na crveno-bijeli košulji', '10', '10', '10']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Ima li ova traka jednu ili dvije ružičaste linije?\
+	['biue', '1', '1 linija', '1 tamna crta', '1', '1', '1', '1', '1', '1']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći koji je broj, hvala?\
+	['3248849064', '3248849084', 'ne može se odgovoriti', '3248849084', 'ne može se odgovoriti', 'ne može se odgovoriti', '3248849084', 'ne može se odgovoriti', 'ne može se odgovoriti', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Možete li mi reći koliko težim, molim vas?\
+	['1', '1', 'ne može se odgovoriti', '1', '1', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'prazna skala', '1']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koja je trenutna temperatura na ovom termostatu?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'Termo-stomat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Je li ovo novčanik od 5 ili 10 kanadskih dolara?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 kanadskog']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. -Kakva je to oznaka pozivača?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'ne može se odgovoriti', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je pet znamenki broj?\
+	['23442', '23442', '23442', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Samo 2 cifre 69', '23442', 'ne može se odgovoriti', 'ne može se odgovoriti', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko unci je ovo?\
+	['23.6', '20', '20', '24', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '33', 'ne može se odgovoriti', 'Gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što temperatura kaže na ovom termometru?\
+	['72', '72', '72', '72', '72', '72', '72', '72 stupnjeva.', '72', '72 stupnjeva.']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je broj stranice?\
+	['2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 - 2', 'ne može se odgovoriti', '2 - 2', '2 - 2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što kaže ovaj prikaz?\
+	['8888', 'ne može se odgovoriti', 'Ništa.', '8888', 'ne može se odgovoriti', 'ne može se odgovoriti', '8888', '888', 'Ništa.', 'prazan']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji broj stranice se prikazuje?\
+	['123', '121', '121', '121', 'ne može se odgovoriti', '121', '121', '128', '321', '121']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koji je to broj?\
+	['26', '26', '26', '26', '26', 'papir', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Što piše ovdje?\
+	['ne može se odgovoriti', '40', '40', 'ne može se odgovoriti', 'ne može se odgovoriti', 'brojevi', '40', '40', '40 kg zraka', '30']	ne mogu odgovoriti.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer hr When the provided information is insufficient, respond with 'ne može se odgovoriti'. Koliko tableta je u ovoj kutiji?\
+	['8 tableta', '8', '8', '8', '8', '8', '8', '8 tableta', '8', '8']	8

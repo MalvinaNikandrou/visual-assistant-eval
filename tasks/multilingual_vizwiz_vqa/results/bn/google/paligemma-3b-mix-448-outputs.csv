@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কাগজে কি লেখা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'অস্ট্রেলিয়া পোস্ট', 'পোস্ট', 'উত্তর দেওয়া সম্ভব নয়', 'অস্ট্রেলিয়া পোস্ট', 'অস্ট্রেলিয়া পোস্ট', 'অস্ট্রেলিয়া পোস্ট', 'অস্ট্রেলিয়া পোস্ট', 'উত্তর দেওয়া সম্ভব নয়', 'অস্ট্রেলিয়া পোস্ট']	পোস্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারবেন এই কম্পিউটারের স্ক্রিনে কি আছে?\
+	['ঘড়ি আবহাওয়া ইত্যাদি জন্য আইকন', 'উইন্ডো শুরু করুন', 'ডেস্কটপ', 'ঘড়ি', 'ঘড়ি', 'আইকন', 'ডেস্কটপ আইকন', 'উত্তর দেওয়া সম্ভব নয়', 'ডেস্কটপ আইকন', 'আইকন']	ছবিটি খুব অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন সিডি?\
+	['ফাঁকা', 'ফাঁকা সিডি', 'ম্যাক্সওয়েল', 'ম্যাক্সেল সিডি আর', 'ফাঁকা', 'ফাঁকা', 'কভার', 'ফাঁকা', 'ফাঁকা', 'ম্যাক্সেল']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ছবিটা কিসের?\
+	['পা', 'পা', 'পায়ে স্ক্র্যাচ', 'পা', 'পা', 'পা', 'পা', 'পা', 'পা', 'পা']	ফুট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারেন এই ক্যান কি দয়া করে?\
+	['শিকার', 'ম্যানউইচ', 'ম্যানউইচ', 'শিকার চতুর জো সস', 'স্লাপি জো সস', 'ম্যানউইচ', 'মানুষ, যা সাহসী sloppy জো সস', 'অঘোষিত', 'ম্যানউইচ', 'অবহেলিত জো']	পুরানো জো স্যুস
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ডায়েট কোলাসোডা', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'কোকাস', 'সডা', 'ডায়েট কোকাস']	দেখার সময়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন মশলা?\
+	['মিসেস ড্যাশ', 'উত্তর দেওয়া সম্ভব নয়', 'মিসেস ড্যাশ', 'উত্তর দেওয়া সম্ভব নয়', 'বলতে পারবো না', 'সব মশলা', 'বেসিল মিশ্রণ', 'মিসেস ড্যাশ টেবিল মিশ্রণ', 'ড্যাশ', 'মিসেস ড্যাশ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['এমটিএন ডু বোতল', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'এমটি ডু']	পানীয়ের উপর নোট নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['কফি', 'উত্তর দেওয়া সম্ভব নয়', 'কফি', 'কফি', 'কফি', 'কফি', 'কফি', 'কফি', 'কফি', 'উত্তর দেওয়া সম্ভব নয়']	কফি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি দেখছ?\
+	['ত্বক', 'আঙুলের তল দরজা', 'দরজা', 'দরজা', 'আঙুলের দরজা', 'দরজা', 'উত্তর দেওয়া সম্ভব নয়', 'দরজা', 'বাড়ি', 'আঙুলের কালো পশম']	দরজা এবং কাঠের মেঝে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার কম্পিউটারের স্ক্রিন কি দেখায়?\
+	['আপনি কি সিস্টেম পুনরুদ্ধার ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান', 'সিস্টেম পুনরুদ্ধার পপ আপ', 'সিস্টেম পুনরুদ্ধার বার্তা', 'আপনি সিস্টেম পুনরুদ্ধার ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান কিনা জিজ্ঞাসা', 'বাক্স', 'সিস্টেম পুনরুদ্ধার', 'আপনি কি সিস্টেম পুনরুদ্ধার ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান', 'কম্পিউটার শুরু করতে পারেনি সিস্টেম পুনরুদ্ধার ব্যবহার করুন', 'পুনরুদ্ধার সেটআপ', 'সিস্টেম পুনরুদ্ধার']	পরিষ্কার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['গরম কোকো', 'গরম কোকো মিশ্রণ', 'গরম চকোলেট', 'গরম কোকো মিশ্রণ', 'কোকো', 'গরম কোকো মিশ্রণ', 'গরম কোকো', 'গরম চকোলেট মিশ্রণ', 'কোকো', 'কোকো মিশ্রণ']	গরম ক্যাকাটা মিশ্রণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কার্ডে 1-800 নম্বরটা বলতে পারবেন?\
+	['৮০০ ৭৩৫ ২৯২৯', '১ ৮৭৭ ৩২৮ ৯৬৭৭ ১ ৮০ ৭৩২ ২৯২৯', '১৮০০ ৭৩৫ ২৯২৯', '১,৮৭৭,৩২৮,৯৬৭৭', '৮০০৭৩৫২৯২৯', '১,৮৭৭,৩২৮,৯৬৭৭', '১,৮৭৭,৩২৮,৯৬৭৭', '১৮৭৭৩২৮৯৬৭৭', '১,৮৭৭,৩২৮,৯৬৭৭', '18007352929']	1-800-735-2929
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কম্পিউটার স্ক্রিন', 'কম্পিউটার স্ক্রিন', 'কম্পিউটার স্ক্রিন', 'ল্যাপটপ', 'কম্পিউটারের স্ক্রিন অনুসন্ধানের ফলাফল দেখায়', 'স্ক্রিন', 'কম্পিউটার স্ক্রিন', 'কম্পিউটার স্ক্রিন', 'মনিটর স্ক্রিন', 'কম্পিউটার স্ক্রিন']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['সালাদ ড্রেসিং পিছনের দিক', 'ড্রেসিং', 'সালাদ ড্রেসিং', 'সালাদ ড্রেসিং', 'সালাদের জন্য বালসামিক ড্রেসিং', 'সালাদ ড্রেসিং', 'উত্তর দেওয়া সম্ভব নয়', 'সালাদ ড্রেসিং', 'সালাদ ড্রেসিং', 'সালাদ ড্রেসিং']	পণ্যের পিছনে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ছবিতে কি দেখা যাচ্ছে?\
+	['উইন্ডো', 'নকশা', 'কালো রঙের গ্লাস উইন্ডো', 'দরজার মধ্যে গ্লাস উইন্ডো প্যানেল', 'দরজার ভিতরে গ্লাস উইন্ডো', 'দরজা', 'রঙিন কাচ', 'দরজা', 'উইন্ডো', 'উইন্ডো']	দরজায় দাগযুক্ত কাচের জানালা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কেউ কি আমাকে বলতে পারবেন যে, স্ক্রিনে নিরাপত্তা প্রশ্নটা কী?\
+	['অরাউক', 'উত্তর দেওয়া সম্ভব নয়', 'অরাউক', 'অরাউক', 'অরাউক', 'অরাউক', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'অরাউক', 'অরাউক']	আরওক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ওয়াইন', 'সিলভার ওক', 'সিলভার ওক', 'সিলভার ওক ওয়াইন', 'ওয়াইন', 'বোতল', 'ওয়াইন', 'ওয়াইন', 'সিলভার ওক 2003 ক্যাবারনেট সাউভিনিওন', 'সিলভার ওক ২০০৩']	রুমের ভিতরে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন মনিটরের ব্র্যান্ড?\
+	['lg', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের পানীয়?\
+	['সডা', 'আদা', 'জিনেরেল', 'আদা সডা', 'কানাডা শুকনো', 'কানাডা শুকনো', 'আদা', 'কানাডা শুকনো', 'আদা', 'আদা']	সোডা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কার্পেটটা কোন রঙের?\
+	['বেজ', 'বেজ', 'ত্বক', 'ধূসর', 'টুপ', 'ক্রিম', 'ত্বক', 'ত্বক', 'বেজ', 'টুপ']	ধূসর
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['টেলিফোন', 'টেলিফোন', 'টেলিফোন', 'টেলিফোন', 'ফোন', 'টেলিফোন', 'ডিজিটাল ফোন', 'ফোন', 'অফিসের ফোন', 'ফোন']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিটা কিসের?\
+	['পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'পাহাড়ের শিশির', 'মুনটাইন ডু', 'এমটিএন ডু বোতল', 'পর্বত ডু সডা', 'এমটিএন ডু']	মুনডেভ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলটা কিসের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'লশ', 'সডা', 'উত্তর দেওয়া সম্ভব নয়', 'লশ', 'লশ', 'লশ', 'উত্তর দেওয়া সম্ভব নয়', 'লশ']	লোকটির কাছে কোন ছবি নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['অ্যাকোয়াফিনা জল', 'বোতল অ্যাকোয়াফিনা জল', 'জল', 'জল', 'প্লাস্টিকের বোতল aquafina ব্র্যান্ডের পানি', 'বোতলজাত পানি', 'পানির বোতল', 'অ্যাকোয়াফিনা জল', 'জল', 'প্লাস্টিকের বোতল পানি']	পানির বোতলের পিছনে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['গুগল অনুসন্ধান', 'গুগল সার্চ ইঞ্জিন ট্যাব', 'গুগল অনুসন্ধান পৃষ্ঠা', 'গুগল', 'গুগল', 'কম্পিউটার', 'গুগল হোমপেজ', 'গুগল পেজ', 'কম্পিউটার স্ক্রিন', 'কম্পিউটার স্ক্রিন']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এগুলো কি?\
+	['চাবি', 'চাবি', 'চাবি', 'চাবি', 'চাবি', 'চাবি', 'চাবি', 'চাবি', 'চাবি', 'চাবি']	কিছু চাবি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে আমাকে স্ক্রিনে ত্রুটি বার্তাটি পড়ুন।\
+	['উত্তর দেওয়া সম্ভব নয়', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য কী', 'উত্তর দেওয়া সম্ভব নয়', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য কী হয় অপসারণ করুনঅনটেনড উত্তর ফাইল থেকে পণ্য কী', 'অবৈধ পণ্য কী হয় অপসারণ পণ্য কী unattend উত্তর ফাইল চালিয়ে যেতে', 'অবৈধ পণ্য কী']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার ল্যাপটপ কোথায়?\
+	['ডেস্ক', 'ডেস্কে', 'বিছানার পাশে উপরের ডেস্ক', 'ডেস্কে', 'ডেস্ক', 'ডেস্ক', 'ডেস্কে', 'ডেস্কে', 'উপরের ডেস্ক', 'ডেস্ক']	ডেস্ক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বইয়ের নাম কি?\
+	['কুকুরের বছর', 'কুকুরের বছর: স্মৃতিচারণ', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ম্যাকবুক', 'কীবোর্ড', 'কীবোর্ড', 'কীবোর্ড', 'কম্পিউটার', 'কীবোর্ড', 'ল্যাপটপ', 'ল্যাপটপ', 'ল্যাপটপ', 'কম্পিউটার স্ক্রিন কীবোর্ড']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি দেখছ?\
+	['টেবিল উইন্ডো', 'ফুল', 'উত্তর দেওয়া সম্ভব নয়', 'টেবিল উইন্ডো', 'বইয়ের নোটবুক পেন', 'ফুল', 'অবসান', 'বই', 'উইন্ডো', 'ফুল']	একটি টেবিলের উপরে বসে থাকা একটি বই এবং একটি টুপি ।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কোন প্যাকেটে সাধারণ ময়দা আছে?\
+	['লাল সাদা প্যাকেজ', 'বাম', 'যে 1', 'লাল 1 বাম দিকে', 'বাম', 'উত্তর দেওয়া সম্ভব নয়', 'বাম', 'বাম', 'লাল সাদা ১', 'লাল 1']	plain flour
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ফুটবল', 'ফুটবল', 'ফুটবল', 'বেগুনি কমলা লোমশ ফুটবল কুমির উপর', 'কচ্ছপ ফুটবল', 'কচ্ছপ নরম ফুটবল', 'ফুলানো ফুটবল', 'ভরা কমলা নীল ফুটবল', 'বেগুনি ফুটবল', 'গলফ']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. রঙ কি?\
+	['ধূসর', 'সোনা', 'সোনা', 'বেজ', 'লাল', 'সোনা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সোনা', 'উত্তর দেওয়া সম্ভব নয়']	সাদা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['মেনু', 'উত্তর দেওয়া সম্ভব নয়', 'মেনু', 'মেনু', 'মেনু', 'টেবিলের বিষয়বস্তু', 'মেনু', 'মেনু', 'মূল্য তালিকা', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['পানির বোতল', 'স্প্রিংভর্ন', 'স্প্রিংবার্ন ওয়াটার', 'স্প্রিংবার্ন', 'বোতলজাত পানি', 'জল', 'পানির বোতল', 'বোতলজাত পানি', 'বোতলজাত পানি', 'জল']	পানির বোতল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের স্যুপ?\
+	['প্রগতি', 'প্রগতি', 'প্রগতি', 'উত্তর দেওয়া সম্ভব নয়', 'প্রগতি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'প্রগতি', 'প্রগতি']	পরিষ্কার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি জানি এটা খাবারের ক্যান, তুমি কি আমাকে বলতে পারবে এর ভেতরে কি আছে?\
+	['সবুজ ফসল', 'সবুজ ফসল', 'সবুজ ফসল', 'সবুজ ফসল', 'সবুজ ফসল', 'উত্তর দেওয়া সম্ভব নয়', 'সবুজ ফসল', 'ইফ', 'সবুজ ফসল', 'সবুজ ফসল']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['চেক্স মিশ্রণ', 'খাঁচা মিল', 'চেক্স মিক্স কম্পিউটার', 'উত্তর দেওয়া সম্ভব নয়', 'চেক্স মিশ্রণ', 'খাদ্য', 'চেক্স মিশ্রণ', 'চেক্স মিশ্রণ', 'চেক্স মিশ্রণ', 'চেকমিক্স']	আমি নিশ্চিত নই যে আমি কি ব্যাপার বলতে পারি ।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['মাইক্রোওয়েভ', 'মাইক্রোওয়েভ', 'ঔষধ', 'যন্ত্রপাতি জেলে বিন স্যুপ', 'ক্যান স্যুপ', 'পানীয়ের জন্য কাপ স্যুপ', 'রান্নাঘর', 'রান্নাঘরের কাউন্টার', 'ক্রীমার', 'স্যুপ']	অসম্পূর্ণ ছবি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এইটা কি?\
+	['মিশ্র শাকসবজি', 'মিশ্র শাকসবজি', 'মিশ্র শাকসবজি', 'মিশ্র শাকসবজি', 'মিশ্র শাকসবজি', 'efgrfg', 'মিশ্র শাকসবজি', 'মিশ্রিত সবজি', 'মিশ্র শাকসবজি', 'মিশ্র শাকসবজি']	মিশ্র সবজি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের?\
+	['কেক গ্লোসিং', 'ভ্যানিলা', 'ভ্যানিলা', 'ভ্যানিলার গ্লোরি', 'বেটি ক্রকার', 'ভ্যানিল গ্লোস্টিং', 'ভ্যানিলার চামচ', 'ভ্যানিল গ্লোস্টিং', 'ভ্যানিলা', 'ভ্যানিলা']	whipped
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি কোন বাক্সটা দেখছি, বাক্সে কি আছে?\
+	['গ্রানুলা বার বক্স', 'প্রকৃতি উপত্যকা রুটিতে বান্দর গ্রানুলা বার', 'গ্রানুলা বার', 'প্রকৃতি উপত্যকা', 'রুটিযুক্ত বাদামের গ্রানুলা বার', 'প্রকৃতি উপত্যকা রুটিতে বান্দর গ্রানুলা বার', 'প্রকৃতি উপত্যকা ক্রাঞ্চি গ্রানোলা বার রস্টড বাদামের স্বাদ', 'গ্রানুলা বার', 'গ্রানুলা বার', 'রুটিতে বানানো বাদামের ক্রাঞ্চি গ্রানোলা বার']	রোস্টেড আলমারি গ্রানোলা বার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. রঙিন কাপড়ের ব্যাপারে বলুন।\
+	['সবুজ সাদা', 'সাদা গাঢ় সবুজ ছাপ', 'সাদা সবুজ', 'সাদা সবুজ', 'গোলাপী সবুজ', 'কাপড়ের উপর সাদা ক্রিম সবুজ', 'গোলাপী কালো', 'সবুজ সাদা', 'বেগুনি কালো টাই ডাই', 'সাদা সবুজ স্প্ল্যাটার']	লাল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কম্পিউটারের স্ক্রিনে কি দেখানো হচ্ছে?\
+	['মাউস তীর', 'কার্সার', 'কিছুই না', 'নীল', 'নীল পর্দা', 'তীর', 'ফাঁকা', 'নীল তীর', 'ফাঁকা', 'নীল পর্দা']	নীল পর্দা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হ্যালো কে এই?\
+	['সাদা বিড়াল', 'বিড়াল', 'বিড়াল', 'সাদা বিড়াল', 'বিড়াল', 'উত্তর দেওয়া সম্ভব নয়', 'বিড়াল', 'বিড়াল', 'এই বিড়াল', 'বিড়াল']	একটি বিড়াল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['প্যুরেল অ্যাডভান্সড হ্যান্ড স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'প্যুরেল হ্যান্ড স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'প্যুরেল হ্যান্ড স্যানিটাইজার']	পুরেল হাত স্যান্ডিউইচ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ত্রুটি বার্তায় কি লেখা আছে?\
+	['অবৈধ পণ্য কী', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য', 'অবৈধ পণ্য কী চালিয়ে যেতে OK ক্লিক করুন', 'অবৈধ পণ্য কী হয় অপসারণ করুন পণ্য কী unattend উত্তর ফাইল থেকে চালিয়ে যেতে', 'অবৈধ পণ্য', 'অবৈধ পণ্য কী', 'অবৈধ পণ্য কী']	উত্তর দেওয়া সম্ভব নয়.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারবেন আমার কম্পিউটারের স্ক্রিনে এই বার্তায় কি লেখা আছে?\
+	['ডানদিকে নিচের অংশে কিছু মেরামত শেষ বোতাম', 'স্টার্টআপ মেরামত শেষ সফল বুট 9 20 2012 1 মেরামত প্রচেষ্টা বন্ধ ফিরে শেষ বাতিল', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'স্টার্টআপ মেরামত', 'স্টার্টআপ মেরামত', 'স্টার্টআপ মেরামত', 'উত্তর দেওয়া সম্ভব নয়', 'স্টার্টআপ মেরামত সম্পন্ন ডায়াগনস্টিক স্ক্রিন বন্ধ বোতাম', 'স্টার্টআপ মেরামত']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের মাংস? এটা কি মুরগি নাকি সসেজ অথবা কোন ধরনের মাংস? ধন্যবাদ\
+	['মুরগি', 'মুরগি', 'মুরগি', 'মুরগি', 'মুরগি', 'মুরগি', 'মুরগি', 'মুরগির উরু', 'উত্তর দেওয়া সম্ভব নয়', 'মুরগি']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন রঙের?\
+	['বৈদ্যুতিক নীল', 'নীল', 'নীল', 'নীল', 'নীল', 'নীল', 'নীল', 'নীল', 'নীল', 'উত্তর দেওয়া সম্ভব নয়']	নীল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি লেখা আছে?\
+	['উইন্ডোজ ইনস্টল করা', 'উইন্ডোজ প্লাস ইনস্টল করা আরো অপঠনযোগ্য', 'উইন্ডোজ ইনস্টল করা', 'উইন্ডোজ ইনস্টল করা', 'উইন্ডোজ ইনস্টল করা', 'এই স্ক্রিনে জানালা ইনস্টল করার তালিকা ইনস্টলেশনের পদক্ষেপ বলে', 'উইন্ডোজ ইনস্টল করা', 'উইন্ডোজ ইনস্টল করা', 'উইন্ডোজ ইনস্টল করা', 'উইন্ডোজ ইনস্টল করা']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আকাশ এই ছবিতে দেখতে কেমন।\
+	['আংশিক মেঘলা', 'অন্ধকার মেঘ', 'বড় মেঘ', 'বিশাল মেঘ অন্ধকার আকাশ', 'মেঘলা', 'মেঘলা', 'নীল লট মেঘ', 'উত্তর দেওয়া সম্ভব নয়', 'বিশাল বৃষ্টির মেঘটা একটু নীল হয়ে গেছে', 'মেঘলা']	অন্ধকার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ভার্চ', 'চেয়ার', 'চেয়ার', 'চেয়ার', 'উত্তর দেওয়া সম্ভব নয়', 'বেঞ্চ', 'চেয়ার', 'চেয়ার', 'বেঞ্চ মেটাল ফ্রেম উইন্ডো', 'চেয়ার']	আমি নিশ্চিত নই যে তথ্যের সমস্ত প্রয়োজনীয় তথ্য প্রদান করা হয়েছে বা তথ্যের প্রয়োজনীয় প্রদান করা হয় না ।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ছবি', 'দরজা', 'দরজা', 'বার', 'গ্লাস প্যানেলযুক্ত দরজা', 'দরজা', 'রেস্টুরেন্ট', 'রেস্টুরেন্ট', 'দরজা', 'দরজা']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার স্ক্রিনে কি আছে? আসুন, ছেলেরা! স্ক্রিনে কি আছে?\
+	['বুট ডিভাইস নির্বাচন করুন', 'দয়া করে বুট ডিভাইস নির্বাচন করুন 3 পছন্দ', 'উত্তর দেওয়া সম্ভব নয়', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুন', 'বুট স্ক্রিন', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুন', 'ত্রুটি', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুন', 'ডিভাইস নির্বাচন বার্তা', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুন']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বস্তুটা কি?\
+	['অ্যাশট্রয়', 'অলঙ্কারিক ব্রোঞ্জ ভাস্কর্য সিংহী', 'মূর্তি', 'না', 'অ্যাশট্রয়', 'অ্যাশ ট্রে', 'মূর্তি', 'কুকুরের বাটি', 'অ্যাশট্রয়', 'উপরের দিকে বাঘ']	একটি স্টুকো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এগুলি কি ধরনের সিগারেট?\
+	['আমেরিকান আত্মা', 'আমেরিকান আত্মা', 'আমেরিকান আত্মা', 'আমেরিকান আত্মা', 'আমেরিকান আত্মা', 'কালো প্যাকেজযুক্ত আমেরিকান স্পিরিটস', 'আমেরিকান আত্মা', 'আমেরিকান আত্মা', 'আমেরিকান আত্মা', 'আমেরিকান আত্মা']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['গুয়াভা জিনসেং', 'চা', 'চা', 'চা', 'চা', 'চা', 'চা', 'চা', 'চা', 'চা']	পণ্যের ছবি নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলে কি আছে?\
+	['শরীরের লশন', 'শরীরের লশন', 'শরীরের লশন', 'লশ', 'শিয়া শরীরের লশন ভিটামিন ই', 'চাঁদের আলোতে পথ চিনা ভিটামিন ই শরীরের লশনের', 'শরীরের লশন', 'চাঁদের আলোতে শরীরের লশনের ব্যবহার', 'চাঁদের আলোতে শরীরের লশনের ব্যবহার', 'লশ']	বডি লোশ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিটা কিসের?\
+	['চশমা', 'ফ্রেম', 'চশমা', 'চশমা রূপা ফ্রেম', 'চোখের চশমা', 'চশমা', 'চশমা ফ্রেম', 'চশমা', 'চশমা', 'চশমা']	সাদা চশমা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা পণ্য।\
+	['হ্যাঁ', 'টমেটো স্যুপ', 'টমেটো স্যুপ', 'স্যুপ', 'স্যুপ', 'টমেটো স্যুপ', 'টমেটো স্যুপ', 'টমেটো স্যুপ', 'স্যুপ', 'ফসল টমেটো স্যুপ নির্বাচন করুন']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ফোন বক্স', 'আইফোন', 'আইফোন বক্স', 'ফোন', 'মোবাইল ফোন', 'সেল ফোন বক্স', 'স্মার্টফোন', 'ফোন', 'স্মার্ট ফোন', 'আইফোন']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিটা কিসের?\
+	['মিষ্টি পাত্রে', 'উদযাপন লাল বাক্স', 'দায়ী', 'বলে উদযাপন', 'বাক্স', 'মিষ্টি', 'পার্টির অনুগ্রহ', 'উদযাপন', 'বাক্স', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['চ্যাম্পেন', 'ওয়াইন গ্লাস চা পাত্র', 'গ্লাস', 'গ্লাস ওয়াইন', 'প্লেটে বসে কফি কাপের পাশে এক গ্লাস চ্যাম্পেন ওয়াইন', 'টেবিলে গ্লাসের মধ্যে পানীয়', 'চ্যাম্পেন', 'চা কাপ গ্লাস', 'চা পাত্রের চ্যাম্পান গ্লাস', 'সামনের জানালার শহরের দৃশ্য টেবিলে চ্যাম্পেন গ্লাস প্লেট']	আমি অপেক্ষা করছি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এর স্বাদ কি?\
+	['কমলা', 'কমলা সবুজ হলুদ লাল', 'কমলা মিন্ট', 'কমলা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কমলা', '2 বাম দিকে কমলা চেরি লেবু উপরে নীচে ডানদিকে শীতকালীন সবুজ', 'কমলা', 'কমলা']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হ্যালো, আমি ভাবছিলাম এই ক্যানটিতে কি আছে? ধন্যবাদ. আমি ভাবছিলাম এটা বিয়ার নাকি একটি ক্যান বা সডা? ধন্যবাদ.\
+	['কোকাকোলা', 'কোকাকোলা', 'সডা', 'কোকাকোলা', 'সডা', 'সডা কোক', 'সডা', 'সডা', 'কোকাকোলা', 'সডা']	সডা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ড্রায়ারের সেটিং কি?\
+	['ঘড়ির কাঁটার দিকে নিয়মিত wrinkle নিয়ন্ত্রণ সময় শুকনো সূক্ষ্ম wrinkle মুক্তি বায়ু fluff', 'নিয়মিত', 'বন্ধ', 'বন্ধ', 'বন্ধ', 'নিয়মিত', 'বন্ধ', 'সেটিং না', 'কিছুই না', 'বন্ধ']	সেটিং
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ট্যাবলেট', 'ট্যাবলেট', 'ফোন অ্যাপ্লিকেশন', 'স্ক্রিন', 'অ্যাপ্লিকেশন তালিকা', 'অ্যাপ স্টোর', 'ট্যাবলেট', 'ডাউনলোড করার জন্য অ্যাপ্লিকেশন তালিকা', 'উত্তর দেওয়া সম্ভব নয়', 'অ্যাপ ডাউনলোড']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি কি দেখছি?\
+	['টেলিভিশন', 'শোভাকর টিভি', 'টেলিভিশন', 'টেলিভিশন', 'টিভি স্ক্রিন', 'টেলিভিশন', 'টম সেলেক টেলিভিশনে', 'টেলিভিশন', 'টেলিভিশন', 'খোলা কক্ষ দরজা টেলিভিশন']	একটি টেলিভিশন একটি ক্যাবিনেট এবং একটি কাপড়ের ক্লোজ আপ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন রঙের?\
+	['সাদা', 'সাদা', 'সাদা', 'সাদা', 'বেজ', 'সাদা', 'আইভরি', 'উত্তর দেওয়া সম্ভব নয়', 'বেজ', 'উত্তর দেওয়া সম্ভব নয়']	গোলাপী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['এই খাদ্য', 'রবিওলি', 'রবিওলি', 'রবিওলি', 'রবিওলি', 'শেফ বোয়ার্ড মিনি র্যাভিওলিস', 'মিনিরভিয়োলি', 'রবিওলি', 'শেফ বোয়া মিনি র্যাভিওলি', 'মিনি র্যাভিওলি']	রাস্তার পাশে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['রস্ট বিফ ময়দা', 'রস্ট বিফ', 'রস্ট বিফ', 'রস্ট বিফ', 'ঐতিহ্যবাহী রোস্ট বিফ', 'রস্ট বিফ', 'রস্ট বিফ', 'ঐতিহ্যবাহী রোস্ট বিফ', 'রস্ট বিফ', 'রস্ট বিফ']	ঐতিহ্যবাহী রোস্ট বেসিনে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই পণ্যটি কি?\
+	['ডায়েট পেপসি', 'ক্যাফিন মুক্ত ডায়েট পেপসি', 'পেপসি', 'পেপসি', 'ডায়েট পেপসি', 'ডায়েট পেপসি', 'ডায়েট পেপসি', 'ডায়েট ক্যাফিন মুক্ত পেপসি', 'ডায়েট পেপসি', 'ডায়েট পেপসি']	ডেলিট পেপসি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটাকে কি বলে?\
+	['পূর্ব', 'ফসল', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'খাদ্য', 'ফসল', 'ট্রেইল মিশ্রণ', 'সরিষা', 'বাদাম', 'পকেট বাদাম']	পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি সাধারণ কফি নাকি ডি-ক্যাফেইনযুক্ত?\
+	['নিয়মিত', 'উত্তর দেওয়া সম্ভব নয়', 'নিয়মিত', 'নিয়মিত', 'নিয়মিত', 'নিয়মিত', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নিয়মিত', 'নিয়মিত']	ডি-ক্যাফেইনযুক্ত
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ম্যাকারনি পনির', 'ম্যাকারনি পনির', 'ম্যাকারনি পনির', 'ম্যাকারনি পনির', 'ম্যাকারনি পনির', 'ম্যাকচেইজ', 'ম্যাকারনি পনির', 'ম্যাকারনি পনির', 'ম্যাকারনি পনির', 'ম্যাকারনি পনির']	আমি নিশ্চিত নই যে তথ্যের সম্পূর্ণ এবং সঠিক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলে কি আছে?\
+	['নরম করার লশ', 'লশ', 'লশ', 'লশ', 'নরম করার ক্রিম', 'লশ', 'ময়শ্চারাইজার', 'শরীরের ক্রিম', 'গভীর আর্দ্রতা শরীর ধোয়ার', 'শরীর ধোয়া']	বডি ওয়াশ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['ডেস্ক চেয়ার', 'চেয়ার', 'চেয়ার', 'অফিস চেয়ার', 'অফিস চেয়ার', 'এই অফিস চেয়ার', 'চেয়ার', 'ডেস্ক চেয়ার', 'চেয়ার', 'ধূসর অফিস চেয়ার']	চেয়ার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি যে ছবি তুলেছিলাম সেটা কি ছিল?\
+	['কম্পিউটার মনিটর', 'কম্পিউটার', 'কম্পিউটার স্ক্রিন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ল্যাপটপ', 'কম্পিউটার স্ক্রিন', 'ল্যাপটপ', 'কম্পিউটার মনিটর', 'ল্যাপটপ কম্পিউটার']	কম্পিউটারের পর্দায় কিছু লেখা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. বলো এটা কি?\
+	['শূকর মাংসের চটকা', 'মাংস', 'কিছু ধরণের লাল মাংস', 'প্যাকিং মাংস', 'গরুর মাংস', 'শূকর চটকা', 'উত্তর দেওয়া সম্ভব নয়', 'মাংস', 'fg', 'শূকর পাঁজরের']	পরিষ্কারভাবে পেতে পারেন না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিতে আকাশ কেমন দেখাচ্ছে?\
+	['মেঘলা দিন', 'আংশিক মেঘলা', 'মেঘলা', 'মেঘলা', 'মেঘলা', 'মেঘলা', 'মেঘলা', 'মেঘলা', 'মেঘলা', 'বৃষ্টি']	মেঘলা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি খাবার, সময় শেষ হওয়ার অপেক্ষায়?\
+	['উত্তর দেওয়া সম্ভব নয়', 'স্প্যাগেটি', 'স্প্যাগেটি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্প্যাগেটি', 'স্প্যাগেটি', 'মিরর', 'রাতের খাবার', 'পিজা']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ফুল', 'ফুল', 'ফুল', 'ফুল', 'ফুল', 'ফুল', 'উদ্ভিদ', 'ফুল', 'ফুল', 'আইরিস']	অনেক তথ্য প্রদান করতে পারি, কিন্তু আমি এই প্রশ্নের উত্তর দিতে পারি না।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই জিনিসটা কি?\
+	['লবণাক্ত চা', 'চা', 'উত্তর দেওয়া সম্ভব নয়', 'চা', 'চা', 'চা', 'চা', 'চা', 'চা', 'চা']	চায়ের পাত্র
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই শর্টসগুলো কোন রঙের এবং কোন নিদর্শন?\
+	['পাকা', 'রঙিন নীল হলুদ', 'নীল কমলা সবুজ', 'নীল বাদামী সাদা প্যাড', 'নীল রঙের পেইড উপরে নীল রঙের পেইড নীচে', 'বহু রঙের', 'নীল-কালো সাদা পেইড', 'পাকা', 'নীল রঙের', 'নীল সাদা সবুজ হলুদ রঙের']	নীল সাদা কমলা এবং সবুজ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কি রঙের কেস ছিল?\
+	['সবুজ', 'সবুজ', 'ল্যাম্প গ্রিন', 'কেস গ্রিন রঙ', 'সবুজ', 'সবুজ', 'সবুজ', 'সবুজ', 'উজ্জ্বল সবুজ', 'সবুজ']	হলুদ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি সাধারণ কোলা নাকি ডায়েট কোলা?\
+	['ডায়েট কোকাস', 'খাদ্য', 'খাদ্য', 'খাদ্য', 'খাদ্য', 'খাদ্য', 'ডায়েট কোকাস', 'খাদ্য', 'ডায়েট কোকাস', 'খাদ্য']	ডায়েট কোলা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['পেন', 'কীবোর্ড পেন', 'পেন', 'পেন', 'পেন', 'পেন', 'পেন', 'পেন', 'পেন', 'বিসি পেন']	পেন্সিলের সাথে কীবোর্ডের ক্লোজ আপ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ল্যাম্প ক্যান প্রিংলস', 'ল্যাম্প', 'ল্যাম্প', 'ল্যাম্প', 'সিডিএস ল্যাম্পের পাশে প্রিংল ক্যান', 'ছায়া ছাড়া বাতি', 'ল্যাম্প', 'টেবিল প্রিংলস ল্যাম্প মুখ ধোয়া', 'ল্যাম্প', 'ল্যাম্প']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কম্পিউটারটা কি করছে?\
+	['চেকিং সিস্টেম', 'উত্তর দেওয়া সম্ভব নয়', 'ডিস্ক চেক', 'চেকিং ডিস্ক', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'লোডিং', 'কনফিগার করা', 'সামঞ্জস্যের জন্য চেক', 'পুনরায় চালু করুন']	নোটিশ পড়ছে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের সডা?\
+	['ডায়েট কোকাস', 'ডিন', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস', 'ডায়েট কোকাস লেবু', 'ডায়েট কোকাস', 'ডায়েট কোকাস']	ডাইট কোক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে আমাকে এই বইয়ের বিষয়বস্তু বলুন\
+	['ক্লাইভ কসলার ডার্ক কসলার', 'উত্তর দেওয়া সম্ভব নয়', 'ক্লাইভ কসলার ডার্ক কসলার', 'ক্লাইভ কসলার ডার্ক কসলার', 'বিজ্ঞান', 'সসপেন্স', 'অলিভ কসলার ডার্ক কসলার', 'কর্ম', 'উত্তর দেওয়া সম্ভব নয়', 'ক্লাইভ কসলার']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন মদ?\
+	['উত্তর দেওয়া সম্ভব নয়', 'ডেভিড এমা রেড ওয়াইন', 'নাশ', 'নাশ', 'নাশ', 'নাশ', 'নাশ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নাশ ওয়াইন']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['দই', 'উত্তর দেওয়া সম্ভব নয়', 'দই', 'দই', 'দই', 'দই', 'দই', 'দই', 'দই', 'দই']	পরিষ্কারভাবে পড়তে পারে না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বইয়ের নাম কি?\
+	['কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর', 'উত্তর দেওয়া সম্ভব নয়', 'কুকুরের বছর', 'উত্তর দেওয়া সম্ভব নয়', 'কুকুরের বছর', 'কুকুরের বছর', 'কুকুরের বছর']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['সনি ল্যাপটপ', 'ল্যাপটপ', 'ল্যাপটপ', 'কম্পিউটার', 'ল্যাপটপ', 'সনি ভায়ো ল্যাপটপ', 'ল্যাপটপ', 'সনি ভায়ো', 'সনি ল্যাপটপ', 'ল্যাপটপ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি ভাবছি এই কম্পিউটারের ব্র্যান্ড কি?\
+	['সনি', 'সনি', 'সনি', 'সনি', 'সনি', 'সনি', 'সনি', 'সনি', 'সনি', 'সনি']	সোনাই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি টমেটো নাকি এনচিলাদা সস?\
+	['যুদ্ধ', 'পিছনের লেবেলে লেখা নেই', 'উত্তর দেওয়া সম্ভব নয়', 'টমেটো', 'টমেটো', 'টমেটো', 'উত্তর দেওয়া সম্ভব নয়', 'টমেটো', 'অস্পষ্ট চিত্র', 'টমেটো']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['পুডিং', 'পুডিং স্ন্যাক্স', 'ভ্যানিলার পুডিং', 'পুডিং', 'ভ্যানিলার পুডিং', 'পুডিং', '৬ প্যাক স্ন্যাক্স প্যাক ভ্যানিল পুডিং', 'পুডিং কাপ', 'পুডিং', 'স্ন্যাক প্যাক পুডিং']	পিডিং
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['২০ ডলার কানাডিয়ান নোট', '২০ ডলারের কানাডিয়ান নোট', '২০ কানাডিয়ান', 'টাকা', 'ল্যাশের উপর টাকা', '২০ টাকার বিল', 'মুনিউ', '২০ ডলারের কানাডিয়ান নোট', '২০ ডলার', 'টাকা']	20 ডলার কানাডিয়ান
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['লাজানি', 'লাজানি', 'বিশেষ লাজানি', 'লাজানি', 'বিশেষ লাজানিয়া', 'বিশেষ লাজানি', 'লাসগনে', 'লাজানি', 'লাজানিয়া', 'লাজানি']	ল্যাসাগন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ধরণের কফি?\
+	['এসপ্রেসো', 'এসপ্রেসো', 'টিমোথি এক্সপ্রেসো', 'রেইনফরেস্ট এসপ্রেসো', 'রেইনফরেস্ট এসপ্রেসো', 'এসপ্রেসো', 'অতিরিক্ত সাহসী', 'এস্প্রেসো ফরেট ট্রপিকাল', 'অতিরিক্ত সাহসী এসপ্রেসো ফরেট ট্রপিকাল', 'তিমথি']	রান্নাঘর
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কিসের ছবি?\
+	['কীবোর্ড ওয়াইন গ্লাস', 'ল্যাপটপ', 'ল্যাপটপ কীবোর্ড ওয়াইন বিয়ার', 'উত্তর দেওয়া সম্ভব নয়', 'কম্পিউটার', 'কম্পিউটার', 'ল্যাপটপ পানীয়', 'গ্লাস তরল পাশে ডেস্ক উপর ল্যাপটপ কম্পিউটার', 'ল্যাপটপের কাচ', 'কাঁচের ল্যাপটপ']	ল্যাপটপ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['শিরোনাম বই', 'বই', 'পত্রিকা', 'নোট', 'ডেমোন রম সহজ টাকা বই', 'ডেমোন রম সহজ অর্থঃ ব্রিটিশ কলম্বিয়াতে সরকারি নিয়ন্ত্রণে মদ', 'বই', 'বই', 'শিরোনাম পাতা বই', 'পত্রিকা']	অনেক তথ্য প্রদান করা হয় না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. টেবিলে কি ছিল?\
+	['নোটবুক', 'নোটবুক পেন অন্যান্য কাগজপত্র', 'স্পাইরাল রিংযুক্ত নোটবুক', 'কাগজের কলম', 'নোটবুক', 'নোটবুক পেন', 'নোটবুক', 'নোটবুক পেন', 'কাগজের কলম', 'নোটবুক']	নোটবুক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই শার্টটা কোন রঙের?\
+	['নীল সাদা চাকা', 'নীল সাদা', 'নীল সাদা চাকা', 'নীল সাদা', 'নীল', 'নীল সাদা', 'রঙিন নীল সাদা', 'নীল রঙের', 'নীল', 'নীল']	নীল সাদা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['আন্দ্রে শার্ডোনাই', 'চ্যাম্পেন', 'অ্যান্ড্রে', 'চ্যাম্পেন', 'ওয়াইন', 'চ্যাম্পেন', 'চ্যাম্পেন', 'চ্যাম্পেন', 'বোতল শ্যাম্পেন', 'চ্যাম্পেন']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ছবিতে যে ক্যান আছে, তার নাম কি?\
+	['লিজোল', 'লিজোল', 'লিজোল', 'লিজোল', 'লিজোল', 'লিজোল', 'লিজোল', 'লিজোল', 'লিজোল', 'লিজোল']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ধরণের কফি?\
+	['গ্যাভালিয়া', 'মেসিমো গ্যাভালিয়া ক্যাফে', 'ম্যাক্সিমো', 'গ্যাভালিয়া এসপ্রেসো', 'ম্যাক্সিমো', 'কালো কফি', 'ম্যাক্সিমো', 'উত্তর দেওয়া সম্ভব নয়', 'গ্যাভালিয়া', 'গ্যাভালিয়া']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ডঃ পেপার', 'পেপার সোডা', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'পিপল সোডা', 'ডঃ পেপার', 'পেপার সোডা', 'ডঃ পেপার']	ড্রিপপার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি দয়া করে আমাকে বলতে পারেন এটা কি দয়া করে, ধন্যবাদ?\
+	['ইনস্ট্যান্ট কফি', 'ইনস্ট্যান্ট কফি', 'ক্লাসিক কফি', 'কফি প্যাকেট', 'উত্তর দেওয়া সম্ভব নয়', 'কফি', 'কফি', 'কফি পাউডার', 'কফি', 'নেসকাফে ক্লাসিক']	কফি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. বাম থেকে ডানে তিনটি তারের রঙ কি?\
+	['লাল কালো সাদা', 'লাল কালো সাদা', 'লাল কালো', 'লাল কালো সাদা', 'লাল কালো সাদা', 'লাল কালো সাদা', 'লাল কালো সাদা', 'লাল কালো সাদা', 'লাল নীল সাদা', 'লাল কালো সাদা']	লাল, কালো এবং সাদা।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই গর্ভাবস্থা পরীক্ষা কি দেখায়?\
+	['১টি লাইন', 'নেতিবাচক', 'নেতিবাচক', '1 লাইন কিন্তু রঙ ছড়িয়ে অন্য চেষ্টা করুন', 'উত্তর দেওয়া সম্ভব নয়', '১টি স্ট্রিপ', 'কোন ছবি নেই', 'লাল রেখা', 'উত্তর দেওয়া সম্ভব নয়', 'নীল চিহ্ন লাল চিহ্ন']	নির্দিষ্ট গর্ভাবস্থা পরীক্ষা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই মশলাটার নাম কি?\
+	['মিসেস ফ্রেশ লেবু পেপার মিশ্রণ', 'ড্যাশ', 'মিসেস ড্যাশ', 'মিসেস ড্যাশ লেমন পেপার', 'মিসেস ড্যাশ', 'মিসেস ড্যাশ', 'পেঁয়াজ', 'মিসেস ড্যাশ', 'মিসেস ড্যাশ', 'মিসেস ড্যাশ']	মরুভূমির মশলা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হ্যালো, ডান হাতে যে বোতলটা আছে, তাতে কী ধরনের পানীয় আছে?\
+	['পেপসি', 'পেপসি সোডা', 'ডায়েট পেপসি', 'ডায়েট পেপসি', 'ডায়েট পেপসি', 'পেপসি', 'ডায়েট পেপসি', 'পেপসি ডায়েট', 'ডায়েট পেপসি', 'ডায়েট পেপসি']	পেপার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ভিডিও গেম', 'ভিডিও গেম', 'বাস্কেটবল খেলা', 'ভিডিও গেম', 'উত্তর দেওয়া সম্ভব নয়', 'ডিভিডি', 'উত্তর দেওয়া সম্ভব নয়', 'খেলা', 'ভিডিও গেম', 'ডিভিডি']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কেচআপ', 'কেচআপ', 'হেইনজ টমেটো কেচআপ', 'কেচআপ প্যাকেট', 'কেচআপ প্যাক', 'কেচআপ', 'কেচআপ', 'কেচআপ প্যাকেট', 'কেচআপ', 'কেচআপ']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই শার্টে কোন রঙের?\
+	['লাল সাদা', 'মোরগ', 'লাল সাদা', 'লাল সাদা রেখা', 'লাল সাদা রেখা', 'লাল সাদা', 'লাল সাদা', 'লাল সাদা', 'লাল সাদা', 'লাল সাদা']	লাল সাদা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই প্যাকেজে কি আছে?\
+	['সংসদীয় ছবি', 'সঙ্গীত অ্যালবাম', 'সিগারেট', 'সিগারেট', 'সিগারেট', 'সিগারেট', 'প্যারামেন্ট ইনসেসমেন্ট ফিল্টার', 'সংসদীয় সিগারেট', 'কার্ড', 'সিগারেট']	সিগারেট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ম্যাটটা কোন রঙের?\
+	['বেগুনি', 'বেগুনি', 'বেগুনি', 'বেগুনি', 'বেগুনি', 'বেগুনি', 'বেগুনি', 'বেগুনি', 'বেগুনি', 'বেগুনি']	বেগুনি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিতে কি কথোপকথনটা বেশি দৃশ্যমান?\
+	['বিরক্ত', 'হ্যাঁ', 'না', 'হ্যাঁ', 'না', 'না', 'না', 'না', 'না', 'হ্যাঁ']	উত্তর দেওয়া সম্ভব নয়.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই পণ্যটি কি?\
+	['সবুজ ফসল', 'সবুজ ফসল', 'সবুজ ফসল', 'করতে পারে', 'ফসল', 'মটরশুটি', 'উত্তর দেওয়া সম্ভব নয়', 'সবুজ ফসল', 'fg', 'উত্তর দেওয়া সম্ভব নয়']	ব্রাউন পেস্ট্রি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এইটা কিসের ডাব?\
+	['শূকর', 'শূকর', 'শুক্রাণু ও মটরশুটি', 'শূকর', 'শূকর', 'শূকর', 'শূকর', 'শূকর', 'শূকর', 'শূকর']	পশু এবং মটরশুটি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই মদটা কিসের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'এফডিএসএডিএফ', '২০০৮ সালের ভিটেনশান প্রডাক্ট নাশ', 'নাশ', 'নাশ', 'বিবাহের স্যুভেনির', 'নাশ ডেভিড এমাকে বিয়ে করছেন ১৬ জুলাই ২০১১', 'নাশ', 'নাশ', 'উদযাপন বিবাহ']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের খাবার?\
+	['টমেটো সস', 'টমেটো সস', 'জৈবিক টমেটো সস', 'টমেটো সস', 'টমেটো সস', 'টমেটো সস', 'মুর গ্লেন জৈব টমেটো সস', 'টমেটো সস', 'মুর গ্লেন জৈব টমেটো সস', 'টমোটো']	টমেটো সস
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন স্বাদ?\
+	['স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি', 'স্ট্রবেরি']	স্ট্রবেরি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারবেন এটা কোন রঙের?\
+	['কালো', 'কালো', 'কালো', 'কালো', 'কালো', 'কালো', 'কালো', 'কালো', 'কালো', 'কালো']	কালো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উদ্ভিদ', 'সজ্জা উদ্ভিদ', 'আলু', 'ঘরোয়া উদ্ভিদ', 'ঘরোয়া উদ্ভিদ', 'ঘর গাছ', 'উদ্ভিদ', 'ঘর গাছ', 'উদ্ভিদ', 'ঘাসের উদ্ভিদ']	প্লেট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['পত্রিকা', 'কমিক বই', 'কমিক বই', 'প্রাপ্তবয়স্ক বোর্ড গেম', 'পত্রিকা', 'রঙিন বই', 'অদ্ভুত ক্রিসমাস বই', 'আমি নিশ্চিত নই যে আমি সেই ভাষা পড়তে পারি', 'ক্রিসমাস শুভেচ্ছা কার্ড', 'কমিক']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['চিকেন ডিজোন ডিনার', 'খাদ্য', 'চিকেন ডিজোন', 'চিকেন ডিজোন', 'চিকেন ডিজোন', 'খাদ্য', 'চিকেন ডিজোন', 'মুরগি', 'চিকেন ডিজোন', 'চিকেন ডিজোন']	মুরগি ডিজন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ধরণের কফি?\
+	['গেলিয়া', 'গ্যাভালিয়া', 'ফরাসি ভ্যানিল', 'ফরাসি ভ্যানিল', 'গেলিয়া', 'গেলিয়া', 'ফরাসি ভ্যানিল', 'ফরাসি ভ্যানিল', 'ফরাসি', 'গ্যাভালিয়া ফ্রেঞ্চ ভ্যানিল']	ফ্রেন্চ ভাল্লুক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বস্তুটা কি?\
+	['আইফোন', 'ফোন', 'ফোন', 'আইফোন', 'মোবাইল ফোন', 'মোবাইল ফোন', 'মোবাইল ফোন', 'আমি ফোন করছি', 'স্মার্টফোন', 'স্মার্টফোন']	একটি সেল ফোন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'সিগারেট', 'প্যাক সিগারেট', 'সিগারেট', 'প্যাক সিগারেট', 'সিগারেট', 'সিগারেট', 'উত্তর দেওয়া সম্ভব নয়', 'সিগারেট', 'সিগারেট']	পণ্যের ছবি নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন স্বাদ?\
+	['গরুর মাংস', 'গরুর মাংসের স্বাদযুক্ত', 'গরুর মাংস', 'গরুর মাংসের স্বাদযুক্ত ব্রোথ', 'গরুর মাংস', 'গরুর মাংসের স্বাদ', 'গরুর মাংসের স্বাদযুক্ত ব্রোথ', 'গরুর মাংস', 'এই গরুর মাংসের স্বাদ', 'গরুর মাংস']	গরুর মাংস
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['বড় কাপ', 'কাপ', 'কাপ', 'কাপ', 'টোগো কাপ ভালবাসে', 'কাপ', 'পপ কাপ কিছু অন্যান্য জিনিস', 'স্টিরোফোম কাপ', 'কাপ', 'এই কাপ']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ডায়েট পেপসি নাকি সাধারণ পেপসি?\
+	['ডায়েট পেপসি', 'খাদ্য', 'উত্তর দেওয়া সম্ভব নয়', 'খাদ্য', 'ডায়েট পেপসি', 'খাদ্য', 'খাদ্য', 'খাদ্য', 'ডায়েট পেপসি', 'খাদ্য']	ডায়েট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি লেখা আছে?\
+	['অ্যাভাস্ট সফটওয়্যার', 'স্থানীয় ড্রাইভ স্ক্যান', 'উইন্ডোজ', 'ত্রুটি বার্তা', 'স্ক্যান', 'অ্যাভাস্ট সফটওয়্যার উইন্ডোজ এক্সপি স্ক্যান', 'উইন্ডোজ', 'উত্তর দেওয়া সম্ভব নয়', 'উইন্ডোজ এক্সপি', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে বলুন আমি কোন স্ক্রিনে আছি? আমি বুট মেনুতে অ্যাক্সেস করার চেষ্টা করছি এবং আমি একটি ইউএসবি ড্রাইভ থেকে বুট করার চেষ্টা করছি। দেখুন আপনি কি আমাকে কি স্ক্রিন আপ এবং কি বিকল্প আছে?\
+	['একবার নিচের তীর চাপুন তারপর usb এর জন্য লিখুন', 'এইচডিডি থেকে বুট করার সময় বুট মেনু', 'উত্তর দেওয়া সম্ভব নয়', 'বোটমুদ', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুন', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুনঃ', 'অনুগ্রহ করে বুট ডিভাইস hdd নির্বাচন করুনঃ pm st9250315as', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুন', 'স্ক্রিন হেডারঃ দয়া করে বুট ডিভাইস নির্বাচন করুন usb:usb ডিস্ক প্রো এ তীরটি 1 বিন্দু নীচে সরান', 'অনুগ্রহ করে বুট ডিভাইস নির্বাচন করুন']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি বলতে পারবে এটা কোন স্বাদের?\
+	['ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'ডঃ পেঁপে ডায়েট', 'ডঃ পেপার', 'ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'কলা', 'ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ']	ড্রিপপেপার ডিট্রি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের স্যুপ?\
+	['শাকসবজি স্যুপ', 'প্রগতি', 'প্রগতিশীল', 'উত্তর দেওয়া সম্ভব নয়', 'প্রগতি উদ্ভিজ্জ', 'উত্তর দেওয়া সম্ভব নয়', 'শাকসবজি', 'প্রগতি উদ্ভিজ্জ', 'শাকসবজি', 'প্রগতি']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি আমাকে বলতে পারবে এটা কোন ধরনের গাড়ি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'লিঙ্কন ক্রাউন ভিক্টোরিয়া', 'কোন ধরনের ৪ দরজার সেডান', 'লিংকন', 'ফোর্ড ক্রাউন ভিক্টোরিয়া', 'লিংকন', 'চেরোলেট', 'ক্রাউন ভিক্টোরিয়া', 'উত্তর দেওয়া সম্ভব নয়', 'ফোর্ড']	সেখানে কোন ধরনের গাড়ি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কফি কি এটা?\
+	['গ্যাভালিয়া', 'গ্যাভালিয়া', 'গ্যাভালিয়া', 'গ্যাভালিয়া সুইস হ্যাজেলনট', 'গ্যাভালিয়া', 'গ্যাভালিয়া', 'গ্যাভালিয়া', 'গ্যাভালিয়া', 'গ্যাভালিয়া', 'গ্যাভালিয়া']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'হাত স্যানিটাইজার', 'জেরমক্স', 'জীবাণু এক্স হ্যান্ড স্যানিটাইজার', 'জীবাণু এক্স হ্যান্ড স্যানিটাইজার']	অনেক তথ্যের প্রয়োজন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কিসের ডাব?\
+	['স্যুপ', 'ফল', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্যুপ', 'উত্তর দেওয়া সম্ভব নয়', 'স্যুপ', 'উত্তর দেওয়া সম্ভব নয়', 'স্যুট', 'স্যুপ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন রঙের?\
+	['বাদামী', 'বাদামী', 'বাদামী', 'ওক বাদামী', 'বাদামী', 'ব্রাউন ম্যাপেল', 'কাঠের', 'বাদামী', 'বাদামী', 'বাদামী']	বাদামী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'হাত', 'হাত', 'উত্তর দেওয়া সম্ভব নয়', 'হাত', 'হাত', '১ ডান হাত', 'হাত', 'হাত', 'হাত']	অসম্পূর্ণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ক্রেক পাত্রের সেটিং কি?\
+	['কাপ', 'উচ্চ', 'উচ্চ', 'উচ্চ', 'উচ্চ', 'উচ্চ', 'কম', 'উচ্চ', 'উচ্চ', 'উচ্চ']	নিচে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি বলতে পারবে এটা কি?\
+	['অন্ধদের জন্য পণ্য', 'সিডি', 'বিপরীত সিডি', 'ব্লাইন্ড ডিস্কের জন্য প্রযোজ্য', 'সিডি', 'ডিস্ক', 'সিডিতে বই', 'সিডি', 'অন্ধদের জন্য সিডি পণ্য', 'জেমস হার্বার্ট ডিভিডি দ্বারা স্পিয়ার']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কম্পিউটার মনিটর কীবোর্ড', 'মনিটর', 'কম্পিউটার মনিটর', 'কম্পিউটার স্ক্রিন', 'কম্পিউটার', 'কম্পিউটার মনিটর', 'কম্পিউটার স্ক্রিন', 'ডেস্কটপ', 'গ্রাফ', 'গ্রাফ']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলে কি লেখা আছে?\
+	['উষ্ণ ভ্যানিলার চিনি', 'চিনি', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনির শরীরের লশ', 'উষ্ণ ভ্যানিলা চিনি', 'উষ্ণ ভ্যানিলার চিনির শরীরের লশ', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনির শরীরের লশ', 'উষ্ণ ভ্যানিলার চিনি']	বোতলে উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি আছে?\
+	['উইন্ডোজ ইনস্টলেশন স্ক্রিন', 'উত্তর দেওয়া সম্ভব নয়', 'উইন্ডোজ ইনস্টল করা', 'উইন্ডোজের অবস্থা স্ক্রিন ইনস্টল করা হচ্ছে', 'উইন্ডোজ ইনস্টল করুন', 'উইন্ডোজ ইনস্টল করা', 'উইন্ডোজ ইনস্টল করার জন্য নির্দেশাবলী', 'উইন্ডোজ ইনস্টল করার অগ্রগতি', 'উইন্ডোজ ইনফো ইনস্টল করা হচ্ছে', 'উইন্ডোজ']	পূর্ণ স্ক্রিন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['করতে পারে', 'করতে পারে', 'উত্তর দেওয়া সম্ভব নয়', 'ক্যান ফসল', 'করতে পারে', 'ফসল', 'উত্তর দেওয়া সম্ভব নয়', 'ফসল', 'স্টু', 'স্টু']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের পানীয়?\
+	['কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা', 'কমলা রস']	কমলা রস
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ক্যানের মধ্যে কি ধরনের পপ আছে?\
+	['চা', 'নেশা', 'নেস্টিয়া লেবু', 'আইসড চা', 'নেশা', 'নেশা', 'নেশা', 'আইসড চা', 'নেস্টেল আইস চা', 'নেস্টল']	চায়ের
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি পেপারোনি পিজা, পেপারোনি আর সসেজ, সুপ্রিম, কোন ধরণের?\
+	['পেপারোনি', 'পেপারোনি', 'পেপারোনি', 'পেপারোনি', 'পেপারোনি', 'পেপারোনি', 'হ্যাঁ', 'পেপারোনি', 'মা কোজিস পেপারোনি পাতলা খাঁজ', 'পেপারোনি']	পেপারোনি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. মাঝেরটা কোন ধরনের উদ্ভিদ?\
+	['না', 'ঘাস', 'ঘাস', 'ঘাস', 'ঘাস', 'ঘাস', 'না', 'না', 'ঘাস', 'গুল্ম']	রুক্ষ ঘাস
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['চশমা', 'চশমা', 'চশমা', 'চশমা', 'জুতো', 'চশমা', 'জুতো', 'চশমা', 'চোখের চশমা', 'জুতো']	আমি জানি না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই জায়গাটা বর্ণনা করো।\
+	['অফিস', 'অফিস স্পেস', 'অফিস', 'অফিস 2 ডেস্ক 2 চেয়ার', 'অফিস', 'অফিস', 'ডেস্ক কালো অফিস চেয়ার', 'অফিস ডেস্ক', 'অফিস ২ টেবিল', 'অফিস']	অনেক তথ্যের প্রয়োজন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['নোটবুক', 'পরিকল্পনাকারী', 'বই', 'বই', 'কার্ড', 'নোটবুক', 'পরিকল্পনাকারী', 'নোটবুক', 'লিলি পুলিৎজার এজেন্ডা স্পাইরাল', 'নোটবুক']	আমি জানি না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ট্যাডি বিয়ার গোলাপ', 'টেডি বিয়ার', 'টেডি বিয়ার', 'টেডি বিয়ার', 'টেডি বিয়ার', 'টেডি বিয়ার', 'বিয়ার', 'টেডি বিয়ার', 'টেডি বিয়ার', 'টেডি বিয়ার']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ধরনের মশলা?\
+	['পেঁয়াজ সমুদ্র লবণ', 'পেঁয়াজ সমুদ্র লবণ', 'পেঁয়াজ সমুদ্র লবণ', 'পেঁয়াজ সমুদ্র লবণ', 'সমুদ্রের লবণ', 'পেঁয়াজের লবণ', 'পেঁয়াজ সমুদ্র লবণ', 'পেঁয়াজ সমুদ্র লবণ', 'পেঁয়াজ সমুদ্র লবণ', 'পেঁয়াজ সমুদ্র লবণ']	গাজরের লবণ এবং সমুদ্রের লবণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'ডঃ পেপার', 'ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'ডায়েট ডঃ পেঁয়াজ', 'ডঃ পেঁপে ডায়েট', 'ডায়েট ডঃ পেঁয়াজ']	ডেট ড্রিপপপার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কাপের ছবিটা কি?\
+	['অ্যানিমেশন', 'কার্টুন চরিত্র', 'অ্যানিমেশন', 'পাখি দেখছে মানুষ', 'মুরগী', 'মানুষ', 'কার্টুন ম্যান', 'স্কেচ পাখি মানুষ গাছ চাঁদ', 'ব্যক্তি প্রাণী', 'অ্যানিমেশন']	ছবিটি কাপের পাশে নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['মানুষ ফিরে', 'ছেলে', 'ম্যানস হেড', 'ব্যক্তি', 'পিছনে কারো মাথা কাঁধ', 'পিছনে মানুষ', 'উত্তর দেওয়া সম্ভব নয়', 'ধূসর শার্ট', 'ছেলে', 'ছবির পিছনে ব্যক্তি']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['স্পিকার', 'স্পিকার', 'দেয়ালের স্পিকার', 'স্পিকার', 'স্পিকার', 'স্পিকার', 'দেয়াল স্পিকার', 'স্পিকার', 'বিড়ালের পর্বত', 'স্পিকার']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এখানে কি লেখা আছে?\
+	['ট্যাক্সির ফোন নম্বর', 'কিছুই না', 'কিছুই না', 'টেলিফোন', 'সিটি ট্যাক্সি', 'প্রাপ্তি', 'উত্তর দেওয়া সম্ভব নয়', 'দেখে মনে হচ্ছে প্রাপ্তি', 'লাইন', 'সিটি ট্যাক্সি']	পেপার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['নিউ অরলিন্স স্টাইলের জাম্বালায়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ', 'চাল', 'জামাবালিয়া', 'জামাবালিয়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ', 'জামাবালায়া চাল', 'নিউ অরলিন্স স্টাইলের জাম্বালায়া চালের জন্য প্রস্তুত বাক্স মিশ্রণ', 'জামাবালিয়া মিশ্রণ']	পরিষ্কারভাবে পড়তে পারেন না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার ম্যাকের রঙ কি?\
+	['রূপা', 'সাদা', 'বেজ কালো', 'সাদা', 'রূপা', 'রূপা', 'রূপা', 'রূপা', 'সাদা', 'রূপা']	ধূসর
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. টিনের মধ্যে কি আছে?\
+	['জৈবিক বেকড ফাইন', 'রান্না করা ফসল', 'জৈবিক বেকড ফাইন', 'রান্না করা ফসল', 'রান্না করা ফসল', 'রান্না করা ফসল', 'রান্না করা ফসল', 'রান্না করা ফসল', 'রান্না করা ফসল', 'রান্না করা ফসল']	বেকড বেঞ্চ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['ম্যাকারনি পনির', 'উত্তর দেওয়া সম্ভব নয়', 'ম্যাকারনি পনির', '৩ টি পনির ম্যাকারনি', 'ম্যাকারনি পনির', 'ম্যাকচেইজ', 'ম্যাকারনি পনির', 'রাতের খাবার', 'ম্যাক এন পনির', 'শেল পনির']	মাকরুম এবং পনির ম্যাকারনি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['জটারায়েন্স নিউ অর্লিন্স স্টাইল জাম্বালায়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ', 'চাল', 'জামাবালায়া মিশ্রণ', 'জামাবালিয়া', 'জামাবালায়া মিশ্রণ', 'জামাবালিয়া মিশ্রণ']	পরিষ্কারভাবে পড়তে পারেন না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই জিনিসটা কি?\
+	['মানসম্পন্ন রাস্তার মিষ্টি', 'বাক্সের মিষ্টি', 'মিষ্টি', 'মিষ্টি', 'কঠিন মিষ্টি', 'মিষ্টি', 'মিষ্টি', 'মিষ্টি', 'গুণগত রাস্তা', 'মিষ্টি']	স্ট্রিট ক্যানdies
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. মাফ করবেন, এই ছবিতে আপনি ঠিক কী দেখতে পাচ্ছেন?\
+	['ফ্রিজ', 'রেফ্রিজারেটর', 'ফ্রিজ', 'ছোট রেফ্রিজারেটর উইকার ট্রে হালকা টাইলযুক্ত দেয়াল হ্যান্ডেল স্টিকার রেফ্রিজারেটর উপর', 'ফ্রিজ', 'মিনি ফ্রিজ', 'মিনি ফ্রিজ', 'ক্যাবিনেটের দরজা', 'সাদা ফ্রিজ', 'ফ্রিজ']	একটি ছোট সাদা রেফ্রিজারেটর একটি রান্নাঘরে বসে আছে ।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি আমাকে বলতে পারবে বাক্সে কি লেখা আছে?\
+	['সুন্দর নাতি-নাতনি', 'কিছু একটা সুন্দর নাতি-নাতনিদের কথা', 'আনন্দদায়ক', 'নাতি-নাতনিদের চেয়ে ভালো আর কিছুই নেই।', 'তোমার কোলে ঝগড়া করে থাকা নাতি-নাতনিদের চেয়েও কিছু জিনিসই বেশি আনন্দদায়ক।', 'সুন্দর নাতি-নাতনি', 'সুন্দর নাতি-নাতনি', 'তোমার কোলে ঝগড়া করে থাকা নাতি-নাতনিদের চেয়েও কিছু জিনিসই বেশি আনন্দদায়ক।', 'উত্তর দেওয়া সম্ভব নয়', 'সুন্দর নাতি-নাতনি']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আকাশটা কেমন?\
+	['পরিষ্কার', 'সূর্যাস্ত সূর্যোদয়', 'নীল', 'দুপুর', 'নীল', 'পরিষ্কার', 'পরিষ্কার', 'শান্ত', 'হালকা নীল', 'নীল হালকা নীল নিকট দিগন্ত']	সাদা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই শার্টের রঙ কি?\
+	['ত্বক', 'বাদামী', 'ত্বক', 'বেজ', 'বেজ', 'গোলাপী', 'বাদামী', 'ত্বক', 'সোনা', 'ধূসর রঙ']	গোলাপী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ছেলে নাকি মেয়ে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'ছেলে', 'ছেলে', 'মেয়ে', 'ছেলে', 'ছেলে', 'ছেলে', 'ছেলে', 'ছেলে', 'ছেলে']	ছেলে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে আপনি কি আমাকে বলতে পারেন যে এই আইটেমটি কি?\
+	['সরিষা', 'চিয়রিওস', 'সরিষা', 'চিয়রিওস', 'উত্তর দেওয়া সম্ভব নয়', 'সরিষা', 'মধু চিয়রিস', 'চিয়রিওস এখন আরো সুস্বাদু মধু', 'মধু', 'মধু']	কিছু খাবারের ছবি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন রঙের?\
+	['লাল-হলুদ, সাদা-নীল', 'পাকা', 'সবুজ নীল সাদা লাল রঙের', 'বহু রঙের', 'পাকা', 'পাকা', 'নীল সবুজ সাদা লাল', 'পাকা', 'নীল সাদা সবুজ রঙের প্যাড', 'নীল সবুজ লাল সাদা']	বাদামী সাদা সবুজ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['গরম কোকো', 'গরম কোকো মিশ্রণ', 'গরম কোকো মিশ্রণ', 'গরম কোকো মিশ্রণ', 'কোকো মিশ্রণ', 'গরম কোকো', 'গরম চকোলেট', 'গরম চকোলেট মিশ্রণ', 'গরম চকোলেট প্যাকেট', 'গরম চকোলেট']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'হ্যামস স্পেশাল লাইট বিয়ার', 'বিয়ার', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'বিয়ার', 'বিয়ার', 'বিয়ার', 'বিয়ার', 'বিশেষ আলো']	বিয়ার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি চিকেন নাকি সেলারি?\
+	['টমেটো', 'টমেটো', 'টমেটো', 'টমেটো', 'না', 'টমেটো', 'টমেটো স্যুপ', 'টমেটো', 'টমেটো', 'না']	সেলারি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে?\
+	['ম্যাকবুক প্রো', 'ম্যাকবুক প্রো', 'ম্যাক বুক প্রো', 'ম্যাকবুক প্রো', 'ম্যাক বুক প্রো', 'ম্যাকবুক প্রো', 'ম্যাকবুক প্রো', 'এয়ার বুক প্রো', 'ম্যাকবুকপ্রো', 'ম্যাকবুক প্রো']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি জানতে চাই এই বাক্সে কি আছে\
+	['রান্না করা ফসল', 'রান্না করা ফসল', 'ফসল', 'টমেটো সসে বেকড ফাইন', 'কৃষক মেয়ে বেকড ফসল', 'রান্না করা ফসল', 'রান্না করা ফসল', 'ফসল', 'রান্না করা ফসল', 'ফসল']	বেকড বেগুনি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['মুরগি', 'উত্তর দেওয়া সম্ভব নয়', 'ক্রিমযুক্ত পারমেজান চিকেন', 'খাদ্য', 'টিভি ডিনার', 'খাদ্য', 'ম্যাকচেইজ', 'খাদ্য', 'মেরি কলান্ডার্স খাবার', 'ক্রিমযুক্ত পারমেজান চিকেন']	পণ্যের তথ্য অভিন্ন নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ডলার নোট', '১ ডলারের নোট', 'ডলার', '১ ডলারের নোট', '১', '১ ডলারের নোট', 'ডলার নোট', '১ ডলারের নোট', '১ ডলারের নোট', '১ মার্কিন ডলার']	অনেক তথ্য প্রদান করতে পারি, কিন্তু আমি এই প্রশ্নের উত্তর দিতে পারি না।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কার্ড খেলতে', '২ জন রাজা', 'জুটি রাজা', 'কার্ড খেলতে', 'কার্ড', 'কার্ড', 'কার্ড খেলতে', 'জোড়া', 'কার্ড', 'কার্ড খেলতে']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কালো নাকি নীল?\
+	['উত্তর দেওয়া সম্ভব নয়', 'কালো', 'কালো', 'কালো', 'কালো', 'কালো', 'কালো', 'ধূসর', 'কালো ধূসর', 'কালো']	কালো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি লেখা আছে?\
+	['গুগল অনুসন্ধান পাঠ্য বাক্স', 'গুগল', 'গুগল', 'গুগল গুগল সার্চ আমি ভাগ্যবান বোধ করছি', 'গুগল', 'গুগল অনুসন্ধান', 'উত্তর দেওয়া সম্ভব নয়', 'গুগল', 'গুগল', 'উত্তর দেওয়া সম্ভব নয়']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['রস্ট বিফ', 'রস্ট বিফ', 'রস্ট বিফ', 'রস্ট বিফ', 'খাদ্য', 'রস্ট বিফ', 'রস্ট বিফ', 'রস্ট বিফ', 'ঐতিহ্যবাহী রোস্ট বিফ', 'ঐতিহ্যবাহী রোস্ট বিফ']	ঐতিহ্যবাহী রোস্ট বেফ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের সডা?\
+	['ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার', 'ডঃ পেপার']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['টিভি রিমোট', 'রিমোট কন্ট্রোল', 'রিমোট কন্ট্রোল', 'দূরবর্তী', 'রিমোট কন্ট্রোল', 'দূরবর্তী', 'রিমোট কন্ট্রোল', 'রিমোট কন্ট্রোল', 'দূরবর্তী', 'রিমোট কন্ট্রোল']	রিমোট কন্ট্রোল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ঘর গাছ', 'উদ্ভিদ', 'ঘর গাছ', 'উদ্ভিদ', 'উদ্ভিদ', 'উদ্ভিদ', 'উদ্ভিদ', 'পাত্রজাত উদ্ভিদ', 'উদ্ভিদ', 'ঘরোয়া উদ্ভিদ']	প্লেটে গাছপালা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই জিনিসটা কি?\
+	['ডেস্ক', 'কম্পিউটার', 'ডেস্ক', 'ডেস্ক', 'ডেস্ক', 'ডেস্ক', 'কম্পিউটার ডেস্ক', 'ডেস্ক', 'ডেস্ক', 'ডেস্ক কম্পিউটার চালু']	কম্পিউটার ডেস্ক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার টেবিলে কি আছে?\
+	['আইপড টাচ', 'অ্যাপস', 'ফোন', 'স্মার্টফোনের কাগজপত্র', 'স্মার্টফোনের কাগজপত্র', 'ফোন', 'ফোন', 'ফোন', 'মোবাইল ফোন', 'ফোন']	একটি সেল ফোন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি কি ছবি তুলেছি?\
+	['আইপ্যাড', 'আইপ্যাডের পাশে কফি ব্যাগ', 'ট্যাবলেট', 'আইপ্যাড', 'hulu লগ ইন স্ক্রিন', 'হুলুপ্লাস', 'hulu plus দেখাচ্ছে এমন ট্যাবলেট', 'ট্যাবলেট হুলু প্লাস লগইন', 'হুলুপ্লাস স্ক্রিন', 'ট্যাবলেটে Hulu plus এর জন্য লগইন স্ক্রিন']	একটি কম্পিউটারের স্ক্রিনে একটি লগ-ইন পৃষ্ঠা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলটা কিসের?\
+	['শ্যাম্পু', 'শ্যাম্পু', 'উত্তর দেওয়া সম্ভব নয়', 'ত্রিশী', 'প্রিয়তমা', 'উত্তর দেওয়া সম্ভব নয়', 'চুলের যত্ন', 'শ্যাম্পু', 'সুগন্ধি', 'ট্রাসেম শ্যাম্পু']	ট্রেসেন্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কিসের মডেল?\
+	['সডা', 'স্প্রাইট', 'সডা বোতল', 'স্প্রাইট', 'উত্তর দেওয়া সম্ভব নয়', 'স্প্রাইট সোডা', 'স্প্রাইট', 'স্প্রাইট বোতল', 'উত্তর দেওয়া সম্ভব নয়', 'স্প্রাইট']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই পণ্যটি কি?\
+	['চেক্স মিশ্রণ', 'চেক্স মিশ্রণ', 'চেক্স মিশ্রণ', 'চেক্স মিক্স চ্যাডার', 'চেক্স মিশ্রণ', 'চেক্স মিশ্রণ', 'শেফ মিশ্রণ', 'চেক্স মিশ্রণ', 'চেক্স মিশ্রণ', 'চেক্স']	চেডারেল মিশ্রণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['ধূমপান করা টার্কির', 'ধূমপান করা টার্কি প্যানিনি', 'ধূমপান করা টার্কি প্যানিনি', 'টার্কি প্যানিনি', 'ধূমপান করা টার্কি প্যানিনি', 'ধূমপান করা টার্কি প্যানিনি', 'স্টাফার ভরাট', 'প্যানিনি', 'ধূমপান করা টার্কির', 'ধূমপান করা টার্কি প্যানিনি']	ধূসর টার্কি প্যানিং সহ স্টোলারের সিগনেট প্যাকেট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. পুরস্কার জেতার জন্য আমি কোন চিঠি টাইপ করব?\
+	['এমভিজি', 'এমভিজি', 'এমভিজি', 'এমভিজি', 'এমভিজি', 'এমভিজি', 'এমভিজি', 'এমভিজি', 'এমভিজি', 'এমভিজি']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের ক্যান?\
+	['টমেটো', 'সস', 'টমেটো', 'টমেটো', 'টিন', 'টমেটো', 'টমেটো', 'টমেটো', 'টমেটো', 'টমেটো']	টমেটো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের কিউরিগ কাপ?\
+	['ডোনাট হাউস', 'কফি', 'বাক্স', 'ডোনাট', 'ডোনাট হাউস সংগ্রহ', 'ডোনাট', 'ডোনাট', 'ডোনাট হট সংগ্রহ', 'ডোনাট হোল', 'ডোনাট হোল সংগ্রহ']	ডোনাট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে আমাকে বলুন এই বইয়ের নাম কি?\
+	['সকালের আলো', 'উত্তর দেওয়া সম্ভব নয়', 'লেখক ক্লাইভ কুসলার ডার্ক কুসলার', 'শুধুমাত্র লেখকের নাম দেখানো হয়েছে কোন শিরোনাম নেই', 'ক্লাইভ কসলার ডার্ক কসলার', 'ক্লাইভ কসলার', 'ক্লাইভ কসলার ডার্ক কসলার', 'ক্লাইভ কসলার ডার্ক কসলার', 'ক্লাইভ কসলার ডার্ক কসলার', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['টাকা', 'টাকা', '২০ ডলার', 'টাকা', '২০ ডলার', '২০ ডলার', '২০ ডলার', 'বিশ ডলারের নোট', '২০ টাকার বিল', '২০ ডলারের নোট']	অনেক তথ্য নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা শ্যাম্পু নাকি শরীর ধোয়া?\
+	['লশ', 'শরীরের লশন', 'লশ', 'শরীরের লশন', 'স্পার্কলিং বডি লশন', 'শরীরের লশন', 'শরীরের লশন', 'লশ', 'শরীরের লশন', 'শরীরের লশন']	শরীর ধোয়া
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিতে কি আছে?\
+	['ক্র্যাকার', 'বক্স ক্র্যাকার', 'ক্রেকার বক্স', 'ক্রেকার বক্স', 'ক্র্যাকার', 'ক্র্যাকার', 'ক্র্যাকার', 'ক্র্যাকার', 'ক্র্যাকার', 'ক্র্যাকার']	ক্রিকেটের বাক্সের ছবি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিটা কিসের?\
+	['ফোন', 'ম্যাকবুক প্রো', 'ম্যাকবুক প্রো', 'কম্পিউটার মনিটর', 'উত্তর দেওয়া সম্ভব নয়', 'ল্যাপটপ', 'কম্পিউটার', 'ম্যাকবুক প্রো', 'ম্যাকবুক প্রো স্ক্রিন', 'ল্যাপটপ কম্পিউটার']	ম্যাকবোর্ড
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['জল', 'জল', 'প্রাকৃতিক স্ফটিক জল', 'প্রকৃতির স্ফটিক জল', 'পানির বোতল', 'পানির বোতল', 'পানির বোতল', 'জল', 'পানির বোতল', 'জল']	পানির বোতল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের পিজা?\
+	['পেপারোনি', 'মা কোজস', \"মা'র পিৎজাটা খুব মিষ্টি\", 'পেপারোনি', 'ফ্রিজ পিজা', 'পেপারোনি', 'পাতলা', 'মা কোজির পাতলা খাঁজ পেপারোনি', 'মা কোজিস পাতলা খাঁজ পেপারনি', 'মা কোজস']	thinn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['পুরো ভুট্টা', 'ময়দা', 'ময়দা', 'ময়দা', 'পুরো ময়না', 'পুরো ময়না', 'ময়দা', 'বড় মূল্যবান খাদ্য', 'ময়দা', 'ময়দা']	কোনো ছবি নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['মাউস', 'কম্পিউটার মাউস', 'কম্পিউটার মাউস', 'কম্পিউটার মাউস', 'কম্পিউটার মাউস', 'এইচপি ওয়্যারড মাউস', 'কম্পিউটার মাউস', 'পিসি মাউস', 'এইচপি মাউস', 'মাউস']	মনিটরের সাথে মেসের ছবি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['অফিস', 'চেয়ার', 'অফিস', 'অফিস চেয়ার', 'চেয়ার', 'ডেস্ক চেয়ার', 'হোম অফিস', 'অফিস', '২ টা ডেস্ক চেয়ার', 'চেয়ার']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['টেলিভিশন', 'টেলিভিশন', 'টেলিভিশন', 'পুরনো টিভি মনিটর', 'টেলিভিশন', 'টেলিভিশন', 'মনিটর', 'টেলিভিশন স্ক্রিন', 'টেলিভিশন', 'মনিটর']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার শার্টের রঙ কি?\
+	['কালো সাদা', 'নীল সাদা কালো', 'কালো', 'নীল', 'নৌবাহিনী', 'কালো সাদা প্রতীক', 'কালো সাদা', 'নীল', 'নীল', 'কালো সাদা']	কালো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন রঙের?\
+	['লাল', 'লাল', 'লাল', 'লাল', 'গোলাপী', 'লাল', 'লাল', 'লাল', 'লাল', 'লাল']	লাল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এগুলো কি সাধারণ চিপস নাকি লবণ ও ভিনেগার চিপস?\
+	['লবণ', 'নিয়মিত', 'নিয়মিত', 'সাধারণ চিপস', 'নিয়মিত', 'নিয়মিত', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নিয়মিত', 'উত্তর দেওয়া সম্ভব নয়']	লবণ ও ভিনেগার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের কার্টন? কমলা রস নাকি দুধ?\
+	['কমলা রস', 'কমলা রস', 'ওজ', 'কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা রস', 'কমলা', 'কমলা রস', 'কাগজের কার্টুন কমলা রস']	রস
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি বলতে পারবে এটা কি?\
+	['চিপস', 'চিপস', 'চিপস', 'আলু চিপস', 'আলু চিপস', 'সিরামিক চিপস', 'চিপস', 'আলু চিপস', 'চিপস', 'আলু চিপস']	চিপস পড়তে পারে না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ব্যাগে কি আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'ফ্রিজড সবজি', 'শাকসবজি', 'গাজর মটরশুটি ভুট্টা সবুজ ফসল', 'শাকসবজি', 'মটরশুটি', 'মিশ্র শাকসবজি', 'শাকসবজি', 'মিশ্র শাকসবজি', 'ময়দা গাজর গ্রীট ফসল মটরশুটি']	মিশ্র সবজি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্পার্কের এই স্বাদটা কিসের?\
+	['গোলাপী লেবু', 'গোলাপী লেবু', 'উত্তর দেওয়া সম্ভব নয়', 'গোলাপী লেবু', 'উত্তর দেওয়া সম্ভব নয়', 'গোলাপী লেবু', 'কমলা', 'স্ট্রবেরি', 'উত্তর দেওয়া সম্ভব নয়', 'গোলাপী লেবু']	গোলাপী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের?\
+	['ম্যানউইচ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ম্যানউইচ', 'ম্যানউইচ', 'ম্যানউইচ', 'টমেটো', 'ম্যানউইচ', 'ম্যানউইচ', 'অবহেলিত জো']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কোন মৌসুমে?\
+	['স্প্যাগেটি', 'স্প্যাগেটি', 'স্প্যাগেটি মশলা', 'স্প্যাগেটি মশলা', 'স্প্যাগেটি', 'স্প্যাগেটি মশলা', 'স্প্যাগেটি মশলা', 'স্প্যাগেটি', 'স্প্যাগেটি', 'স্প্যাগেটি মশলা']	স্প্যাগেটি মরিচ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['বই', 'পত্রিকা', 'উল্লম্ব ম্যাগাজিন', 'পত্রিকা', 'উল্লম্ব ম্যাগাজিন', 'পত্রিকা', 'পত্রিকা', 'ভার্টিগো ম্যাগাজিন', 'পত্রিকা', 'পত্রিকা']	পূর্ণ তথ্যের প্রয়োজন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বস্তুটা কি?\
+	['দেওয়াল', 'দেওয়াল', 'দেওয়াল', 'দেওয়াল', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'দেওয়াল', 'দেওয়াল', 'দেওয়াল']	দরজা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['মিষ্টি', 'স্ট্রবেরি হার্ড স্যান্ডউইচ', 'মিষ্টি', 'স্ট্রবেরি হার্ড স্যান্ডউইচ', 'টুকরা মিষ্টি', 'স্ট্রবেরি মিষ্টি', 'স্লোগান', 'স্ট্রবেরি মিষ্টি', 'মিষ্টি', 'স্ট্রবেরি হার্ড স্যান্ডউইচ']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই জুতা কোন রঙের?\
+	['বাদামী', 'কালো', 'বাদামী', 'বাদামী', 'বাদামী', 'বাদামী', 'বাদামী', 'পা', 'বাদামী', 'ব্রাউন']	বাদামী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কম্পিউটার স্ক্রিন', 'ওয়েব পেজ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ওয়েবসাইট', 'কম্পিউটার স্ক্রিন', 'কম্পিউটার মনিটর', 'প্রবন্ধ', 'ভিজউইজ এর জন্য পিডিএফ ফাইল', 'vizwizpdf অস্পষ্ট কিন্তু অবদানকারীদের বিভাগ দেখতে পারেন']	অসম্পূর্ণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিটা কিসের?\
+	['মনিটর', 'ল্যাপটপ', 'টেলিভিশন', 'কম্পিউটার', 'ল্যাপটপ', 'টেলিভিশন', 'ফ্ল্যাট স্ক্রিন টিভি', 'ল্যাপটপের স্ক্রিন', 'টেলিভিশন', 'উত্তর দেওয়া সম্ভব নয়']	কম্পিউটারের স্ক্রীন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['মোবাইল ফোন', 'মোবাইল ফোন', 'পেজার', 'উত্তর দেওয়া সম্ভব নয়', 'ফোন', 'মোবাইল ফোন', 'ব্ল্যাকবেরি সেল ফোন', 'মোবাইল ফোন', 'মোবাইল ফোন', 'মোবাইল ফোন']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ফ্রিজ', 'উত্তর দেওয়া সম্ভব নয়', 'ফ্রিজ', 'রুম রেফ্রিজারেটর', 'ফ্রিজ', 'ফ্রিজ', 'রেফ্রিজারেটর', 'মিনি ফ্রিজ', 'রেফ্রিজারেটর', 'মিনি ফ্রিজ']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই পোশাকের সাথে আমার কোন রঙের গহনা পরতে হবে?\
+	['রূপা', 'রূপা', 'সাদা', 'সোনা', 'কালো', 'রূপা', 'রূপা', 'রূপা', 'রূপা', 'রূপা']	নীল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['পা', 'জিন্স', 'উরু', 'প্যান্ট পা', 'আর্ম সোফা', 'প্যান্ট', 'বালিশ', 'উত্তর দেওয়া সম্ভব নয়', 'প্যান্টের পা', 'পা']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কুকুর', 'উত্তর দেওয়া সম্ভব নয়', 'কুকুর', 'কুকুর', 'কুকুর', 'কুকুর', 'কুকুর', 'কুকুর', 'উত্তর দেওয়া সম্ভব নয়', 'মাটিতে কুকুর']	অসম্পূর্ণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['দূরবর্তী', 'দূরবর্তী', 'রিমোট কন্ট্রোল', 'টিভি কন্ট্রোলার', 'টিভি রিমোট', 'রিমোট কন্ট্রোল', 'দূরবর্তী', 'দূরবর্তী', 'রিমোট কন্ট্রোল', 'রিমোট কন্ট্রোল']	রিমোট কন্ট্রোল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কলা সবুজ নাকি হলুদ?\
+	['হালকা সবুজ', 'হলুদ', 'হলুদ', 'হলুদ', 'সবুজ', 'হলুদ', 'হলুদ', 'হলুদ', 'হলুদ', 'হলুদ']	হলুদ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই পণ্যটি কি?\
+	['সরিষা', 'কাশী গোয় লিন ক্রাঞ্চ মধু বাদাম লিন', 'কাশি গ্যাং লিন ক্রাঞ্চ', 'গুলিয়ান ক্রাঞ্চ কাশী', 'সরিষা', 'চর্বিহীন ক্রাঞ্চ সিরেল', 'চলো চর্বিহীন হয়ে পড়ি', 'কাশী গোয় লিন ক্রাঞ্চ মধু বাদাম লিন', 'সরিষা', 'সরিষা']	গোলোন ক্রুঞ্চ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. টিভি স্ক্রিনে বর্তমানে কি দেখানো হচ্ছে?\
+	['কিছুই না', 'কিছুই না', 'কিছুই বন্ধ', 'কিছুই না', 'কিছুই না', 'কিছুই না', 'কিছুই না', 'কিছুই না', 'উত্তর দেওয়া সম্ভব নয়', 'কিছুই না']	খালি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['মাংস', 'গরুর মাংস', 'গরুর মাংস', 'প্যাকেজ স্টিক', 'মাংস', 'মাংস', 'উত্তর দেওয়া সম্ভব নয়', 'গরুর মাংস', 'স্টেক', 'মাংস']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বার্তায় কি লেখা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'পুনরুদ্ধার সম্পূর্ণ', 'উত্তর দেওয়া সম্ভব নয়', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'উত্তর দেওয়া সম্ভব নয়', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন']	পূর্ণ তথ্যের প্রয়োজন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ক্যানের মধ্যে কি ধরনের খাবার আছে?\
+	['স্যুপ', 'প্রগতি বাগান সবজি স্যুপ', 'বাগান শাকসবজি স্যুপ', 'শাকসবজি স্যুপ', 'বাগান শাকসবজি স্যুপ', 'বাগান শাকসবজি স্যুপ', 'স্যুপ', 'প্রগতি বাগান সবজি স্যুপ', 'বাগান শাকসবজি', 'বাগান শাকসবজি স্যুপ']	সবজি স্যুপ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'করতে পারে', 'স্প্লিট পিঁয়াজ স্যুপ', 'স্প্লিট পিঁয়াজ স্যুপ', 'স্প্লিট পিঁয়াজ স্যুপ', 'স্প্লিট পিঁয়াজ স্যুপ', 'স্যুপ', 'পিঁয়াজ স্যুপ ভাগ করতে পারে', 'স্প্লিট পিঁয়াজ স্যুপ', 'স্যুপ']	পণ্যের উপর লেখা নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি সোফা নাকি টেবিল?\
+	['টেবিল', 'টেবিল', 'টেবিল', 'টেবিল', 'টেবিল', 'টেবিল', 'টেবিল', 'টেবিল', 'টেবিল', 'এই টেবিল']	টেবিল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ক্যানের মধ্যে কি খাবার আছে?\
+	['রবিওলি', 'রবিওলি', 'রবিওলি', 'ময়দা', 'রবিওলি', 'রবিওলি', 'রবিওলি', 'রবিওলি', 'রবিওলি খাবার', 'রবিওলি']	রান্নাঘরের কাউন্টারে রাফলো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি আছে?\
+	['ত্রুটি বার্তা', 'কম্পিউটার পুনরায় চালু করার জন্য স্টার্টআপ মেরামত পপ আপ', 'পুনরায় চালু করা', 'আপনি নিশ্চিত যে আপনি স্টার্টআপ মেরামত থেকে প্রস্থান করতে চান বলে যে ডায়লগ বক্স আপনার কম্পিউটার পুনরায় চালু', 'স্টার্টআপ মেরামত', 'উইন্ডোজ আপডেট নির্দেশাবলী', 'উত্তর দেওয়া সম্ভব নয়', 'স্টার্টআপ মেরামত', 'কম্পিউটার পুনরায় চালু করার বিকল্প', 'স্টার্টআপ মেরামত']	স্ক্রিনে \"স্টার্টআপ রেপারি\" শব্দটি আছে।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আসুন এটা চেষ্টা করি, আপনি কি আমাকে বলতে পারেন এটা কি?\
+	['ফসল', 'রান্না করা ফসল', 'ফসল', 'রান্না করা ফসল', 'ঝোপের শাকসবজি', 'করতে পারে', 'ক্যান ফসল', 'ঝোপের শাকসবজি', 'রান্না করা ফসল', 'ফসল']	বুশস বেকড বিয়ারের ক্যানের পিছনে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারেন এটা কোন ধরণের ফোন?\
+	['আই জি', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'অ্যান্ড্রয়েড', 'lg', 'হ্যাঁ']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['স্মার্টফোন', 'মোবাইল ফোন', 'মোবাইল ফোন', 'ফোন', 'মোবাইল ফোন', 'মোবাইল ফোন', 'মোবাইল ফোন', 'স্মার্টফোন', 'ফোন', 'ফোন']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ল্যাপটপ', 'হাত', 'ল্যাপটপ কীবোর্ড', 'হাত', 'আঙ্গুল', 'হাত', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ডেস্ক', 'হাত']	অসম্পূর্ণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ক্যাবারনেট ২০০৯', 'ওয়াইন', 'ওয়াইন', 'ওয়াইন', 'ক্যাবারনেট সাউভিনিয়োন', 'বোতল ওয়াইন', 'ওয়াইন', 'ওয়াইন', 'হর্স স্বর্গ কলম্বিয়া ক্যাবারনেট 2007 ওয়াইন', 'ওয়াইন']	অবশ্যই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. বোতলটার ভেতরে কি আছে?\
+	['কোকাস', 'সডা পপ হয়তো কোকা কোলা', 'সডা', 'কোকা কোলা সোডা', 'সডা', 'সডা', 'কোকাস', 'সডা', 'কোকাস', 'সডা']	পানীয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন রঙের দয়া করে?\
+	['লাল সাদা রেখা', 'লাল', 'লাল সাদা রেখা', 'লাল সাদা রেখা', 'লাল সাদা', 'সাদা লাল', 'শার্ট', 'লাল সাদা', 'লাল সাদা', 'লাল সাদা']	লাল সাদা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ব্যাগে কি আছে?\
+	['ব্রোকলি', 'ব্রোকলি', 'ব্রোকলি', 'ব্রোকলি', 'ব্রোকলি', 'কিন্তু ব্রোকলি', 'ব্রোকলি', 'কাটা ব্রোকলি', 'স্টিম n কাটা ব্রোকলি পরিবেশন করুন', 'ব্রোকলি']	কট ব্রকলি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কিসের কুপন?\
+	['দই', 'দই', 'ইপ্লাইট দই', 'ইওপ্লাইট দই ১০ ডলার', 'ইপ্লাইট', 'ইওপ্লাইট দই ১০ ডলার', 'ইপ্লাইট দই', 'দই', 'ছাড়', 'দই']	yoplait yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের পপ?\
+	['নেশা', 'ক্যানযুক্ত আইস টি', 'লেবু', 'নেস্টিয়া লেবু', 'নেশা', 'নেশা', 'নেশা', 'নেশা', 'ফিয়াস্তা', 'নেশা']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['আইপ্যাড', 'ট্যাবলেট', 'কম্পিউটার', 'আইপ্যাড', 'মাউস প্যাড', 'ল্যাপটপ', 'উইন্ডো', 'ট্যাবলেট', 'উত্তর দেওয়া সম্ভব নয়', 'আইপ্যাড']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি আছে?\
+	['আপনি কি সিস্টেম পুনরুদ্ধার পপ আপ ব্যবহার করে আপনার কম্প পুনরুদ্ধার করতে চান', 'ত্রুটি বার্তা', 'আপনি কি সিস্টেম পুনরুদ্ধার ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান', 'শুরু', 'স্টার্টআপ রিপেইড ডায়াগনস্টিক স্ক্রিন', 'সিস্টেম পুনরুদ্ধার প্রশ্নঃ আপনি আপনার কম্পিউটার পুনরুদ্ধার করতে ব্যবহার করতে চান', 'স্টার্টআপ মেরামত', 'স্টার্টআপ মেরামত', 'কম্পিউটার পুনরুদ্ধার করার জন্য প্রশ্ন', 'আপনি কি সিস্টেম পুনরুদ্ধার ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান']	স্ক্রিনে \"সিস্টেম রেস্টোর করতে চান?\" বলে একটি পর্দা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আর আপনার সময় দেয়ার জন্য অনেক ধন্যবাদ।\
+	['স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট', 'স্প্রাইট']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি লেখা আছে?\
+	['আপনি কি সিস্টেম সিডি ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান?', 'পুনরুদ্ধার', 'আপনি কি সিস্টেম ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান', 'আপনার কম্পিউটার শুরু করতে অক্ষম ছিল শুরু মেরামত আপনার সিস্টেমে সমস্যা আছে কিনা তা পরীক্ষা করে', 'আপনি কি সিস্টেম ব্যবহার করে আপনার কম্পিউটার পুনরুদ্ধার করতে চান', 'স্টার্টআপ মেরামত', 'আপনার কম্পিউটার শুরু করতে অক্ষম', 'আপনার কম্পিউটার শুরু করতে অক্ষম ছিল restart repair আপনার সিস্টেমে সমস্যা আছে কিনা তা পরীক্ষা করা হচ্ছে', 'কম্পিউটার শুরু করতে ব্যর্থ', 'পুনরুদ্ধার']	আপনি একটি পুনরুদ্ধারের প্রয়োজন?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['শাকসবজি', 'wrgrweg', 'মিশ্র শাকসবজি', 'ভেষজ মূল', 'মিশ্র শাকসবজি', 'শাকসবজি', 'ভেল', 'শাকসবজি', 'শাকসবজি', 'মিশ্র শাকসবজি']	মিশ্র সবজি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ছবিতে কি দেখতে পাচ্ছো? ছবিতে কি দেখতে পাচ্ছো?\
+	['কিছুই না', 'আকাশ', 'সিনক', 'আকাশ', 'উত্তর দেওয়া সম্ভব নয়', 'আকাশ', 'কিছুই না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'আকাশ']	ছবিটি খুব অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কি ধরনের সডা?\
+	['কোকাকোলা', 'কোকাকোলা', 'কোকাকোলা', 'কোকাকোলা', 'কোকাকোলা', 'কোকা কোলা 0', 'কোকা কোলা 0', 'কোকস 0', 'কোকা কোলা 0', 'কোকা কোলা 0']	কোকাকোলা 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের সিস্টেম?\
+	['ডেস্কটপ', 'উত্তর দেওয়া সম্ভব নয়', 'উইন্ডোজ', 'ডেস্কটপ কম্পিউটার', 'উইন্ডোজ', 'উইন্ডোজ', 'উইন্ডোজ', 'উইন্ডোজ পিসি', 'উইন্ডোজ', 'উইন্ডোজ']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['স্পিকার', 'স্পিকার', 'মেঝে', 'স্পিকার', 'উচ্চস্বর সিস্টেম', 'স্পিকার', 'স্পিকার', 'স্পিকার', 'স্পিকার', 'স্পিকার']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা ল্যাপটপের লাইট মনিটর করে?\
+	['হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'না', 'হ্যাঁ']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলে কি লেখা আছে?\
+	['উষ্ণ ভ্যানিলার চিনির শরীরের লশ', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনির শরীরের লশ', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনির লশ', 'উষ্ণ ভ্যানিলার চিনি', 'উষ্ণ ভ্যানিলার চিনির শরীরের লশ', 'উষ্ণ চিনি ভ্যানিলা']	বোতলে উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে এই কার্ডের 1-800 নম্বরটা বলতে পারবেন, এবং আপনি কি এই প্রশ্নটা শুনতে পাচ্ছেন?\
+	['1 800 735 2929 শুনতে পাচ্ছি না', '১,৮৭৭,৩২৮,৯৬৭৭', '১ ৮৭৭ ৩২৮ ৯৬৭৭ ১ ৮০০ ৭৩৫ ২৯২৯', '১৮৭৭৩২৮৯৬৭৭', '১,৮৭৭,৩২৮,৯৬৭৭', '১৮০০ ৭৩৫ ২৯২৯', '১ ৮৭৭ ৩২৮ ৯৬৭৭ না', '১৮৭৭৩২৮৯৬৭৭৭ না', '১,৮৭৭,৩২৮,৯৬৭৭', '8007352929 কোন']	কোনো প্রশ্নের উত্তর দিতে পারেন না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. রুমের আলো জ্বলছে নাকি বন্ধ?\
+	['লাইট বন্ধ', 'বন্ধ', 'উপর', 'বন্ধ', 'উপর', 'উত্তর দেওয়া সম্ভব নয়', 'উপর', 'উপর', 'উপর', 'উপর']	বন্ধ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন স্বাদ?\
+	['চেরি', 'গোলাপী লেবু', 'ফল-পঞ্চ', 'গোলাপী লেবু', 'গোলাপী লেবু', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'গোলাপী লেবু', 'চেরি', 'গোলাপী লেবু']	ফলের স্বাদ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বার্তায় কি লেখা আছে?\
+	['পুনরুদ্ধার সম্পন্ন', 'উত্তর দেওয়া সম্ভব নয়', 'সফল পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'নিবন্ধন সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন', 'পুনরুদ্ধার সম্পন্ন']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার শার্টের রঙ কি?\
+	['সাদা', 'সাদা', 'সাদা', 'সাদা', 'সাদা', 'সাদা', 'সাদা', 'সাদা', 'সাদা', 'সাদা']	সাদা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উন্নত রঙ থেরাপি শ্যাম্পু', 'শ্যাম্পু', 'উন্নত রঙ থেরাপি শ্যাম্পু', 'শ্যাম্পু', 'রঙ থেরাপি শ্যাম্পু', 'শ্যাম্পু', 'রঙ থেরাপি', 'শ্যাম্পু', 'অ্যালবাম উন্নত রঙ থেরাপি', 'রঙ থেরাপি']	শ্যাম্পো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ক্যান', 'বিড়ালের খাবার', 'উত্তর দেওয়া সম্ভব নয়', 'সিনক', 'করতে পারে', 'সিনক', 'ধোয়ার', 'সিনক', 'সিনক', 'করতে পারে']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ভিডিও গেম?\
+	['এসপিএন এনএফএল ২ কে', 'ফুটবল', 'এনএফএল ২ কে', 'এসপিএন এনএফএল ২ কে৫', 'এসপিএন ২ কে৫', 'এসপিএন ২কে ফুটবল', 'এনএফএল ২ কে', 'ফুটবল', 'এনএফএল ২ কে', 'ফুটবল']	espn 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['প্যানিনি', 'প্যানিনি', 'ধূমপান করা টার্কি প্যানিনি', 'ধূমপান করা টার্কি প্যানিনি', 'ধূমপান করা টার্কি প্যানিনি', 'স্টুফার ধূমপান টার্কি প্যানিনি', 'টার্কি প্যানিনি', 'উত্তর দেওয়া সম্ভব নয়', 'ধূমপান করা টার্কি প্যানিনি', 'ধূমপান করা টার্কি প্যানিনি']	স্মোকড টার্কি প্যানিনি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['লাজানি', 'ফ্রিজড ডিনার', 'বিশেষ লাজানি', 'বিশেষ লাজানি', 'লাজানি', 'বিশেষ লাজানি', 'লাজানি', 'লাজানি', 'লাজানি', 'লাজানি']	ল্যাসাগন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বস্তুটা কি?\
+	['প্রকৃতি উপত্যকা ওভস গাঢ় চকোলেট গ্রানোলার বার', 'ক্রাঞ্চ বার', 'গ্রানুলা বার', 'গ্রানুলা বার', 'গ্রানুলা বার', 'গ্রানুলা বার', 'প্রকৃতি উপত্যকা ওটস n গাঢ় চকোলেট বার', 'ওটস এন ডার্ক চকোলেট ক্রাঞ্চি বার', 'ডার্ক চকোলেট গ্রানোলার বার', 'গ্রানুলা বার']	চকোলেট বার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ভিডিও গেম', 'প্লেস্টেশন ২ গেম', 'প্লেস্টেশন ২ স্টার ওয়ার্স ব্যাটলফ্রন্ট গেম', 'প্লে স্টেশন স্টার ওয়ার্স গেম', 'ভিডিও গেম', 'ভিডিও গেম', 'স্টার ওয়ার্স ব্যাটলফ্রন্ট ২', 'খেলা', 'প্লেস্টেশন ২ গেম', 'পিএসআই গেম']	প্লেস্টিকের বাক্সে থাকা খেলনা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি কফির বন্ধু?\
+	['ফরাসি ভ্যানিল', 'ফরাসি ভ্যানিল', 'ফরাসি ভ্যানিল', 'নেস্টল', 'ভ্যানিলা', 'ফরাসি ভ্যানিল', 'কফি ম্যাট', 'ফরাসি ভ্যানিল', 'ফরাসি ভ্যানিল', 'ফরাসি ভ্যানিল']	ফ্রেন্চ ভ্যানিলা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কমলা রস', 'রস', 'রস', 'কমলা রস', 'রস', 'মসৃণ রসালো', 'মসৃণ n রসালো', 'রস', 'কমলা রস', 'রস']	পরিষ্কারভাবে দেখতে
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কানের দুলের পাথরগুলো কোন রঙের?\
+	['গোলাপী', 'রঙিন', 'লাল', 'গোলাপী', 'বেগুনি', 'গোলাপী', 'গোলাপী', 'গোলাপী', 'গোলাপী', 'গোলাপী']	গোলাপী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ইলেকট্রনিক ডিভাইসের লেবেল কি বলে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই স্ক্রিনে ঠিক কী লেখা আছে, যদি আপনি এটা পড়তে পারেন?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্ক্রিন পড়তে পারে না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'পড়তে পারছি না', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলে কি আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'লশ', 'ভিটামিন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নিশ্চিত না', 'উত্তর দেওয়া সম্ভব নয়']	পণ্যের ছবি নেই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এনার্জি বারটা কিসের স্বাদ?\
+	['স্ট্রবেরি', 'বরি আমন্ড ক্রাঞ্চ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'আপেল ক্রাঞ্চ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'বরি আমন্ড ক্রাঞ্চ']	বেগুনি-আলু
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'মনোযোগ', 'n', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'খবর', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের খাবার?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি ভাবছি এটা কোন ধরনের রেডিও, তাই কোন তথ্য থাকলে আমি আমার নিজের একটা পেতে পারি, সেটা দারুণ হবে, ধন্যবাদ।\
+	['আমি জানি না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সম্ভবত হোম আইপি 9 স্পিকার ডক', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাম', 'উত্তর দেওয়া সম্ভব নয়', 'বহনযোগ্য', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি দুঃখিত, আমি জানি না কিভাবে... আমি আগে কখনো এরকম ছবি তুলিনি।\
+	['একটু দূরে সরান যাতে ক্যামেরা ফোকাস', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এগুলোর মধ্যে কোনটা সেরা সিনেমা?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সহজ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['এই স্লাইড', 'গোলাপী', 'উত্তর দেওয়া সম্ভব নয়', 'বেগুনি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উজ্জ্বলতা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অবশ্যই উত্তর দিতে পারি না।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই লশনের নাম কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'নক্সেমা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এইটা কবে শেষ হবে?\
+	['৯.২৭.১৩', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '২৩ সেপ্টেম্বর ২০১৩', '২৩ সেপ্টেম্বর ২০১৩', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '২৩ সেপ্টেম্বর ২০১৩', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি কতক্ষণ এই রান্না করা উচিত?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৫ মিনিট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৫ মিনিট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	5 মিনিট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['ক্লেনেক্স', 'কোণ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ফোন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই গানটা কিসের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ছবিতে বাগ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'বকুল']	পোকামাকার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. জানালার নিচে কি লেখা আছে যে, এই সিস্টেমটি স্বয়ংক্রিয়ভাবে মেরামত করা যাবে না?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্টার্টআপ মেরামত এই কম্পিউটার স্বয়ংক্রিয়ভাবে মেরামত করতে পারে না', 'উত্তর দেওয়া সম্ভব নয়', 'শুরু', 'শুরু মেরামত এই কম্পিউটার স্বয়ংক্রিয়ভাবে মেরামত করতে পারবেন না', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই প্যাকেজে কত সডিয়াম আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সামোয়া', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি লেখা আছে যে এটা পুনরুদ্ধার করছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কোন পর্দা?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'অধ্যয়ন চালিয়ে যান', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	পিকনিক
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই মধ্যস্থতার নাম কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '0', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অজানা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. রঙ কি?\
+	['লাল সাদা', 'উত্তর দেওয়া সম্ভব নয়', 'সাদা', 'সাদা', 'উত্তর দেওয়া সম্ভব নয়', 'লাল সাদা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	বাদামী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে আমার রাউটার এর লেবেলটা কি বলে সেটা ব্যাখ্যা করুন। ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাস কার্ডে মেয়াদ শেষ হওয়ার তারিখ কত?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. শুধু বলো।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সোনা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে, এটা কি বলছে\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সারি কলাম অস্পষ্ট সংখ্যা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এখন কয়টা বাজে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ক্যামেরার ফ্ল্যাশ রেন্ডারিং ঘড়ি পড়তে অক্ষম', 'দৃশ্যমান নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'বলতে পারবো না', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই শ্যাম্পু ব্যবহারের নির্দেশনা আমাকে বলতে পারবেন? ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'এডফসিএফডি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	প্লাস্টিকের পাত্রে শ্যাম্পু ব্যবহার করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা পুনরায় শুরু করার জন্য কি কোন বোতাম টিপতে হবে নাকি আমি অপেক্ষা করব?\
+	['সিস্টেম পুনরায় শুরু', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'অপেক্ষা করো', 'প্লাগ ইন করুন']	রিমোট কন্ট্রোল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. যদি এই ছবিতে কার্ড দেখানো হয়, তাহলে তাতে কি লেখা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'দেখানো হয়নি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কোন শব্দ নেই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. পরীক্ষা?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'দূরবর্তী', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সার্কিট সাউন্ড রিমোট', 'প্রশ্নটি ছবির ক্ষেত্রে প্রযোজ্য নয়']	রিমোট কন্ট্রোল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আসল শব্দ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'অজানা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি একটি ক্যাপচা নিয়ে কাজ করছি কিন্তু আমি স্ক্রিন দেখতে পাচ্ছি না এবং আমার এটি একটি ওয়েবসাইট থেকে কিছু অনুরোধ করতে হবে। আপনি কি আমাকে বলতে পারেন ক্যাপচা কি?\
+	['১ নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি জানি এটাতে দশটি আদেশ আছে, কিন্তু দশটি আদেশ কি?\
+	['আল্লাহ তাআলা তাঁর বান্দাগণকে যেসব নিয়ম দিয়েছেন তা নির্ধারণ করে দিয়েছেন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নৈতিক নিয়ম', 'উত্তর দেওয়া সম্ভব নয়', 'দেবতাদের আদেশ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'আইন', 'উত্তর দেওয়া সম্ভব নয়']	আমি তাদের পড়তে পারি না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার কম্পিউটারের স্ক্রিনে কি লেখা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'খুব অস্পষ্ট', 'ফাঁকা পর্দা']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের শিশুর সূত্র?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'আমি বাচ্চাদের সূত্র দেখতে পাচ্ছি না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ওষুধটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন কার্ড?\
+	['উত্তর দেওয়া সম্ভব নয়', 'লাল ক্রেডিট কার্ড', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ক্রেডিট কার্ড', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	ক্রেডিট কার্ড
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কার্ডে কি লেখা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'শুধুমাত্র 1 6 12 দৃশ্যমান', 'উত্তর দেওয়া সম্ভব নয়', 'কিছুই না', 'উত্তর দেওয়া সম্ভব নয়', '১৬১২', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['সাবান', 'পণ্য', 'উত্তর দেওয়া সম্ভব নয়', 'দুধ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'চোখের ড্রপ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	পরিষ্কার ছবি তুলতে পারি না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ঠিক আছে, এটা আবার কি ধরনের মাংস?\
+	['জ্যাক লিঙ্ক', 'ডিএস', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'গরুর মাংস', 'উত্তর দেওয়া সম্ভব নয়', 'গরুর মাংস', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কার্ডটা কিসের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'অস্পষ্ট চিত্র', 'উত্তর দেওয়া সম্ভব নয়', 'বলতে পারবো না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অন্য কার্ড
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ধরনের ডাবের খাবার?\
+	['ল্যামেজ', 'উত্তর দেওয়া সম্ভব নয়', 'ল্যামেজ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ল্যামেজ', 'উত্তর দেওয়া সম্ভব নয়', 'লোম']	ডাব
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এখন কয়টা বাজে?\
+	['উত্তর দেওয়া সম্ভব নয়', '৫৩২', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৫টা ১৩ মিনিট', '৫টা ১৩ মিনিট', 'উত্তর দেওয়া সম্ভব নয়', '৫টা ১০ মিনিট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ক্যানের মধ্যে কি পণ্য আছে?\
+	['বলতে পারবো না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারেন যে, সাধারণ চুলার তাপমাত্রা কত এবং কত মিনিট এবং আমি কি ঢাকনা ছিদ্র করতে হবে? অনেক ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'এএসডিডি', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ফার্ন কি প্রস্তুত মনে হচ্ছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না ওভেন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ, আমি মনে করি প্রস্তুত', 'না', 'উত্তর দেওয়া সম্ভব নয়']	রুটি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি কোন সাহায্য করেছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী কোড টাইপ করা হবে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'ইমেইল', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি কি ধরনের শার্ট পরেছি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'সিল্ক', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সাদা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি বলতে পারবে এটা কোন ধরণের ফ্রিজড ডিনার?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়']	প্লাস্টিকের
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ছবি ফাঁকা', 'কিছুই না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ব্র্যান্ডের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সানিও', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ওভেনের তাপমাত্রা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'জিএফডিএসজি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি দয়া করে বলতে পারবেন এই বোতলটিতে কি আছে?\
+	['টমেটো সস', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'প্যাস্তা সস', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'টমেটো সস', 'উত্তর দেওয়া সম্ভব নয়']	পানি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'অ্যাজিথ্রোমাইসিন ট্যাবলেট 250mg', 'ট্যাবলেট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '250 মিলিগ্রাম', 'এজিথ্রোমাইসিন ট্যাবলেট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি এই শব্দগুলো পড়তে পারবেন?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কোন শব্দ নেই']	ছবিটি খুব অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ভ্যালিয়াম?\
+	['না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ওষুধের নাম পড়তে অক্ষম']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী গান এটা?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নোট সঙ্গীত', 'উত্তর দেওয়া সম্ভব নয়', 'অ্যালবাম', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'জিংল জিংল', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হ্যাঁ, এটা একটা এইচপি ল্যাপটপ, আমার জানতে হবে কার্ড রিডার কীবোর্ডের সাথে কোথায়। দয়া করে যতটা সম্ভব নির্দিষ্ট হন। ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'পাশের দিকে', 'উত্তর দেওয়া সম্ভব নয়', 'আমি কার্ড রিডার দেখতে পারছি না. কার্ড রিডার সাধারণত বাম কোণে সামনে প্রান্তে থাকে.', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই সুগন্ধির নাম কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নাম নেই', 'উত্তর দেওয়া সম্ভব নয়']	গোলাপী
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের RAM?\
+	['উত্তর দেওয়া সম্ভব নয়', 'সিএন ও৪৪৪', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ডিআরডিআরএম পিসি৩২০০', 'আমার কোন ধারণা নেই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ডিআরডি']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি বুঝতে পারছি কিন্তু সাদা ট্রাকের পিছনের অংশটা কি ভেঙে গেছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'না', 'সামনের দিক থেকে ছবি আমি অস্বাভাবিক কিছু দেখতে পাচ্ছি না', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'n0', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের স্যুপ?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'মুরগি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ল্যাপটপের স্ক্রিনে কি দেখা যায়?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি, প্লিজ?\
+	['উত্তর দেওয়া সম্ভব নয়', 'স্যুপ', 'স্যুপ', 'ক্যান স্যুপ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্যুপ', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['কার্পেট', 'কাগজের তোয়ালে', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কাগজের তোয়ালে', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এগুলোর স্বাদ কিসের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নিয়মিত', 'মূল', 'উত্তর দেওয়া সম্ভব নয়', 'ঘুরে দাঁড়াও', 'পনির', 'চিত্রকর']	থাই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই তিনটা ছবির মধ্যে কোনটা গুগলের লোগো?\
+	['উত্তর দেওয়া সম্ভব নয়', '0', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'প্রথম চিত্র', 'বাম']	তৃতীয় ছবির গুগল লোগো।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'অনিশ্চিত', 'অস্পষ্ট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'লেবেল', 'উত্তর দেওয়া সম্ভব নয়']	অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এর মধ্যে কি কোন পাথর অনুপস্থিত?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ছবির মান অপর্যাপ্ত', 'উত্তর দেওয়া সম্ভব নয়', 'না']	রিং
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি জানতে চাই এটা কোন ব্র্যান্ডের কলোনি।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই পনিরের মেয়াদ শেষ হওয়ার তারিখ কত?\
+	['না', 'অপরিধার্য', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. থার্মোস্ট্যাট কত তাপমাত্রায় সেট করা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৭৫', 'উত্তর দেওয়া সম্ভব নয়', '৭৫', 'উত্তর দেওয়া সম্ভব নয়', '৭৫', '৭৫', 'উত্তর দেওয়া সম্ভব নয়', 'দৃশ্যমান নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই শার্টটা কোন রঙের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কালো', 'উত্তর দেওয়া সম্ভব নয়', 'কালো', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কালো', 'উত্তর দেওয়া সম্ভব নয়']	কালো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অবশ্যই
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী লেখা আছে প্রদর্শনীতে?\
+	['পুনরায় বুট করার ত্রুটি বার্তা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সাইজ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	পৃষ্ঠাটিতে \"উত্তর দেওয়া সম্ভব নয়\" লেখা আছে।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ধরনের সডা, প্লিজ?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নিশ্চিত না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'চুল', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে আমাকে বলুন এখানে কি লেখা আছে।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'বাক্স', 'উত্তর দেওয়া সম্ভব নয়', 'ছোট বাক্স', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. থার্মোস্ট্যাট কত তাপমাত্রায় সেট করা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'পড়তে পারছি না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বোতলটা কিসের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'আমি জানি না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিতে সব অক্ষরগুলো দিতে পারবি?\
+	['অ্যারোবের্গি চ্যাভেজ', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'অ্যারোবের্গি চ্যাভেজ', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ']	anney chavez
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই সংস্করণের জন্য পণ্য কী বন্ধ\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আসো, আমি অপেক্ষা করছি।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'জুতা', 'উত্তর দেওয়া সম্ভব নয়', 'জুতা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	পাঠ্যটি আমাকে পূর্ণ তথ্য প্রদান করে না, তাই আমি উত্তর দিতে পারি না।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আর, টেক্সাসের ডালাসের তাপমাত্রা কত?\
+	['3:40 54', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'রাত ৯টা ১৭ মিনিট ৯৬ ডিগ্রি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	81
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কেমন আছো?\
+	['উত্তর দেওয়া সম্ভব নয়', 'ভালো', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ভালো', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী হয়েছে, তোমার উত্তরটা কী ছিল?\
+	['উত্তর দেওয়া সম্ভব নয়', 'অনিশ্চিত', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্ক্রিনে লগ', 'কম্পিউটার', 'উত্তর দেওয়া সম্ভব নয়', 'স্ক্রিনকাস্ট ম্যাটিক']	অসম্পূর্ণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি, প্লিজ?\
+	['কাপড়ের বোতল', 'উত্তর দেওয়া সম্ভব নয়', 'কভার', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ব্র্যান্ডের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সিকো', 'উত্তর দেওয়া সম্ভব নয়', 'অস্পষ্ট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ঘড়ি', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ওয়েবসাইট?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'অ্যাপ ক্রয় আইফোন সম্পর্কে সাইট']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের লন্ড্রি স্যুপ?\
+	['উত্তর দেওয়া সম্ভব নয়', 'সূর্য', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্যাবটেল', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই জারটিতে কি আছে?\
+	['কিছুই না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'স্যুপ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'খাদ্য', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. - এই কিসের রসিদ?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	রসিদ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার হাতের এই ভুলটা কি ঠিক?\
+	['ভিজিট কার্ড', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'শুভ বড়দিন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি কি ছবি তুলতে পারি?\
+	['পত্রকের উপর ঘড়ি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ঘড়ি', 'মাইকি মাউস পকেট ঘড়ি', 'এই পকেট ঘড়ি হেডফোন']	ঘড়ি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি লেখা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উইন্ডোজ লাইসেন্সের শর্তাবলী', 'আংশিকভাবে পর্দার বাইরে', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কিন্তু হ্যাঁ, আমি এটা ভাঁজ করব।\
+	['উত্তর দেওয়া সম্ভব নয়', 'ভাঁজ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'হাত', 'বাক্স']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন রঙের?\
+	['সাদা ধূসর', 'বেগুনি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'লাল সাদা', 'উত্তর দেওয়া সম্ভব নয়']	ধূসর
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'রান্নাঘর', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কম্পিউটারে ডেস্কের ছবিতে মানুষ', 'আমি ছবিতে লিভিং রুম দেখতে পাচ্ছি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অন্ধকার
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. নাম কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উচ্ছ্বসিত', 'উচ্ছ্বসিত', 'ইফোনি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['উত্তর দেওয়া সম্ভব নয়', 'হালকা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'হালকা', 'আলোর অস্পষ্টতা', 'উত্তর দেওয়া সম্ভব নয়', 'অস্পষ্ট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে এই বাক্সের লেখাটি পড়ুন, যা আরেকটি বাক্স।\
+	['wd', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা বলা কঠিন আমি বিশেষভাবে কিছু আট অঙ্কের আইডি নম্বর খুঁজছি.\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'আমি কিছু দেখছি না দুঃখিত', 'উত্তর দেওয়া সম্ভব নয়', 'ফাঁকা', 'আমি এমন কিছু দেখতে পারছি না', 'উত্তর দেওয়া সম্ভব নয়', '0', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্পিকার: আপনি কি দয়া করে আমাকে এই বইয়ের নাম বলতে পারবেন? ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'টোনাল সংগীতে হারমোনিক উপকরণ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে?\
+	['ডিভারম্যান', 'কিছুই না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'হাতের প্যাকেজ']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনে কি লেখা আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কিছু সময় তুমি জানো\
+	['আমি বুঝতে পারছি না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	কিছু সময় তুমি জানো
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারবেন যে নিরাপত্তা প্রশ্ন কি, অথবা নিরাপত্তা নম্বর এবং চিঠি কি যাতে আমি এটাকে আমার সম্পাদনা ক্ষেত্রে যোগ করতে পারি? ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ডলারের নোটটি কোন নাম্বার?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ব্যবহারযোগ্য নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কিসের জন্য?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কাউন্টার', 'কাউন্টার', 'রান্নাঘরের কাউন্টার', 'কাউন্টার টপ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি সাপের কামড়?\
+	['উত্তর দেওয়া সম্ভব নয়', 'সম্ভবত', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'হয়তো', 'হয়তো', 'না', 'উত্তর দেওয়া সম্ভব নয়']	সাপের কামড়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি দয়া করে আমাকে বিস্তারিতভাবে বলতে পারবেন এই কম্পিউটারের স্ক্রিনে কি আছে? অনেক ধন্যবাদ। \
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কম্পিউটার শুরু করতে পারে না বার্তা', 'উত্তর দেওয়া সম্ভব নয়', 'আপনার কম্পিউটার শুরু করতে ব্যর্থ হয়েছে', 'উত্তর দেওয়া সম্ভব নয়', 'আপনার কম্পিউটারটি শুরু করতে পারেনি স্টার্টআপ মেরামত আপনার সিস্টেমের সমস্যা পরীক্ষা করা হচ্ছে', 'শুরু', 'উত্তর দেওয়া সম্ভব নয়', 'অজানা ডায়ালগ বক্স']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ক্যাপচাতে কী কী অক্ষর আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'বিবাহিত', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কালো বাক্স']	ছবিটি খালি।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি জানো এগুলো কিভাবে রান্না করা হয়?\
+	['উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না']	পাশের ছবিটি আমাকে দেখায় কিভাবে এই পণ্য রান্না করা হয়, তাই আমি এই প্রশ্নের উত্তর দিতে পারি না।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কম্পিউটার স্ক্রিন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কতক্ষণ আমি মাইক্রোওয়েভে রান্না করব?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'আট মিনিট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	8 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কিভাবে রান্না করা হয়?\
+	['ওভেন', 'উত্তর দেওয়া সম্ভব নয়', 'বেক', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. সাইনারি নিয়ে কি বলবো?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'রাজনৈতিক', 'মানুষ', 'উত্তর দেওয়া সম্ভব নয়', 'কোন ধারণা নেই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নীল মানুষ ভবনে']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই শ্যাম্পু বোতলের নির্দেশনা আমাকে বলুন।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ভিজা চুলের জন্য ফোঁটা ধুয়ে দিন যদি চান পুনরাবৃত্তি করুন']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিটা কিসের?\
+	['সিলিং', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	ছবিটি অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'টেলিফোন', 'উত্তর দেওয়া সম্ভব নয়', 'সেল ফোনে কথা বলছে', 'উত্তর দেওয়া সম্ভব নয়', 'ব্যক্তি', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ ছবি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কি আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ফসল', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'এই ছবিটি অস্পষ্ট', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি আমাকে বলতে পারবে আমার শার্টের রঙ কি?\
+	['না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী ব্যাপার?\
+	['উত্তর দেওয়া সম্ভব নয়', 'তারের', 'উত্তর দেওয়া সম্ভব নয়', 'কালো রাবার কুকুরের খেলনা', 'উদ্ভিদ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এইটা কবে শেষ হবে?\
+	['না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ছবিতে নেই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '২০০৭']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কার্ডটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কার্ড নেই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কালো', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিটা কিসের?\
+	['উত্তর দেওয়া সম্ভব নয়', 'ফাঁকা', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	ছবিটি খালি।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'চামড়ার শক্তি', 'কুকুর', 'ব্যাগ', 'উত্তর দেওয়া সম্ভব নয়', 'কুকুরের শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শক্ত শ', 'প্রাণী']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এগুলো রান্না করার নির্দেশনা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ধরনের ট্র্যাকিং?\
+	['উত্তর দেওয়া সম্ভব নয়', 'পেন্সিল', 'পাতার রঙ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'পাতা', 'উত্তর দেওয়া সম্ভব নয়', 'ঘাস']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হ্যালো, আপনি কি আমাকে বলতে পারেন যে আমার ডান হাতে ডাবের মধ্যে কি আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'কিছু মাংস কিন্তু লেবেল সম্পূর্ণরূপে ছবিতে নেই', 'ক্যানসেল', 'উত্তর দেওয়া সম্ভব নয়', 'গরুর মাংস', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি বলতে পারবে এটা কার কাছ থেকে?\
+	['না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'মেইল থেকে ফিরে চিঠি', 'পিছনের খাতাটাতে কোন লেখা নেই', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন স্বাদ?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'নিউম্যান্স স্পেশাল মিক্সড', 'নেমানের বিশেষ মিশ্রণ', 'কফি', 'নিউম্যানের বিশেষ মিশ্রণ', 'উত্তর দেওয়া সম্ভব নয়', 'নিউম্যানের নিজস্ব', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অসম্পূর্ণ তথ্য
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার রক্তচাপের রেজাল্ট কত?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '১০৫', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '১০৯ শেষ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'মুছে ফেলা চিত্র পড়তে অক্ষম']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমরা নাম দিয়েছি কি স্বাদ \
+	['লেবু', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি আমাকে বলতে পারবে এই বাক্সে কি লেখা আছে যাতে আমি বুঝতে পারি এর ভেতরে কি আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হাইলাইট করা লেখার সংখ্যা।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	3
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কার্ডের পিছনে এটা লেখা উচিত যে এটা কোন ধরণের জাঠি, এটা কি দিয়ে তৈরি ইত্যাদি। আমি শুধু জানতে চেয়েছিলাম এটা কি। ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'কিছু কাঠ 14', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি কি ঠিক আছে বোতাম চাপলাম? আর আমি কি আরও এগিয়ে এসেছি, ধন্যবাদ।\
+	['পরবর্তী বোতাম ক্লিক করা হবে এখন এন্টার চাপুন', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অন্য জিনিস
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ফ্ল্যাশ', 'উত্তর দেওয়া সম্ভব নয়']	আমি জানি না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কোন তাপমাত্রা?\
+	['উত্তর দেওয়া সম্ভব নয়', '৫৭', 'বিশ', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '২০', '২০.৭c', 'উত্তর দেওয়া সম্ভব নয়']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'স্বাগত জানানোর চিহ্ন', 'স্বাগতম প্লেক', 'উত্তর দেওয়া সম্ভব নয়', 'স্বাগত জানানোর চিহ্ন', 'স্বাগত জানানোর চিহ্ন', 'উত্তর দেওয়া সম্ভব নয়', 'স্বাগত জানাই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	অস্পষ্ট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কার মুখ?\
+	['মুখ নেই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '0', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই প্রোডাক্ট কী এর নাম্বার কি?\
+	['উত্তর দেওয়া সম্ভব নয়', 'অপরিধার্য', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'অপরিধার্য', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি যে ভবনের ছবি তুলেছি তার নাম্বার কি? এটা ইয়াপ্পাপি কলেজ।\
+	['৩', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৩', 'উত্তর দেওয়া সম্ভব নয়', '৯', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৩']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. প্লিজ আমাকে বলুন এই প্যাকেজে কি আছে। ধন্যবাদ।\
+	['উত্তর দেওয়া সম্ভব নয়', 'ফসল সংবেদন স্যালাড', 'উত্তর দেওয়া সম্ভব নয়', 'চিনির রসুন', 'মিষ্টি', 'ফল', 'বলতে কষ্ট হয়, হয়তো কিছু নট', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার ডেস্কটপ স্ক্রিন দেখাচ্ছে?\
+	['sdfgh', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ']	ফুলের মাঠ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি এটা পড়তে পার?\
+	['হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ', 'রসগোলার জন্য আমদানি তথ্য মেমো', 'না', 'গুরুত্বপূর্ণ তথ্য', 'কিছু', 'মৃদু', 'না', 'উত্তর দেওয়া সম্ভব নয়']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি এটা দেখতে পারেন, লেবেলে, এটা কি, আমি মনে করি এটা একটা টুকরা, একটি ডিভিডি মেইলে।\
+	['হ্যাঁ', 'হ্যাঁ ডিভিডি', 'না', 'ডিভিডি', 'ডিভিডি', 'উত্তর দেওয়া সম্ভব নয়', 'লেবেল অস্পষ্ট কিন্তু সিডি', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'না']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার ক্যামেরাটা কি অন্ধকার হয়ে গেছে?\
+	['হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'bn', 'হ্যাঁ', 'না', 'হ্যাঁ', 'না', 'হ্যাঁ', 'হ্যাঁ']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি চিকেন স্টোক?\
+	['উত্তর দেওয়া সম্ভব নয়', 'না', 'হ্যাঁ', 'সম্ভবত সব লেবেল দেখতে সক্ষম নয়', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি শিল্প?\
+	['হ্যাঁ', 'অ্যালুমিনিয়াম ফয়েল আর্ট', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ']	শিল্প
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হ্যালো, আমি শুধু নিশ্চিত করতে চেয়েছিলাম যে এগুলো সত্যিই শূকর চটপট, অন্য কোন তথ্য যা পরিষ্কার তা আমি কৃতজ্ঞ থাকব। ধন্যবাদ।\
+	['হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ, কির্কল্যান্ডের স্বাক্ষরিত সোয়াইন চট', 'হ্যাঁ, সোয়াইন চপস', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ, লাম্ব চটপট', 'হ্যাঁ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমি যা বলছি তা হল, এখানে বৃষ্টি হবে নাকি ঝড়?\
+	['হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'না', 'না', 'না']	ঝড়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. বডির মুখটা কি সুন্দর লাগছে নাকি না?\
+	['হ্যাঁ', 'হ্যাঁ', 'মিষ্টি', 'হ্যাঁ', 'হ্যাঁ', 'না', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ']	না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এখন কি ডায়লগ আছে?\
+	['না', 'হ্যাঁ', 'হ্যাঁ', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার কি এখনও সব পায়ে হাত আছে?\
+	['হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ', 'হ্যাঁ']	আমি জানি না
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি এই ছবিতে একটি বোতল দেখতে পাচ্ছেন এবং যদি তা হয় তবে এটি কী?\
+	['উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'না', 'না', 'বোতল নেই', 'না', 'না', 'না', 'না']	পূর্ণ বোতল
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কাগজের এই দিকে কি কোন লেখা আছে?\
+	['না', 'না', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'না']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ফ্যাক্স, বক্স?\
+	['উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'না']	ফ্যাক্স
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ছবিতে কি বুকের কোন অংশ আছে?\
+	['না', 'না', 'না', 'না', 'না', 'না', 'না', 'না', 'না', 'না']	ছবিটি বুকের কোন অংশের অস্পষ্ট, তাই আমি এই প্রশ্নের উত্তর দিতে পারি না।
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এখানে কি কোন শটকাট আছে?\
+	['না', 'হ্যাঁ', 'না', 'শুধুমাত্র বোর্ড', 'না', 'না', 'হ্যাঁ', 'না', 'না', 'না']	দুটি বোর্ড গেম
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই মোজা কি মিলে?\
+	['না', 'না', 'না', 'না', 'না', 'না', 'না', 'না', 'না', 'না']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি কাগজ?\
+	['না', 'না', 'না', 'না', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'না']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা ল্যাপটপ?\
+	['না', 'না', 'না', 'না', 'আমি এর আগে কখনো দেখিনি', 'না', 'না', 'না', 'না', 'না']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি কি আমার টিভি স্ক্রিনে সবকিছু পড়তে পারো?\
+	['না', 'না', 'হ্যাঁ', 'না', 'উত্তর দেওয়া সম্ভব নয়', 'না', 'ডিভিআর ব্যবহারের ক্ষমতা আপনার ডিভিআর ৮৯% পূর্ণ', 'হ্যাঁ', 'না', 'না']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ফ্রিবেজ বোতলের সুগন্ধি দেখতে পাচ্ছ?\
+	['না', 'না', 'না', 'না', 'লেবেল দেখতে পাচ্ছি না', 'না', 'না', 'না', 'না', 'না']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. স্ক্রিনটা চালু আছে?\
+	['না', 'না', 'না', 'না', 'না', 'না', 'না', 'না', 'না', 'না']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কম্পিউটারের স্ক্রিনে কোন প্রাণী আছে?\
+	['কোন প্রাণী নেই', '0', '0', '0', '0', 'স্ক্রিনে কোন প্রাণী নেই', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ঠিক আছে, আমি এই কার্ডের নাম্বারটা বের করার চেষ্টা করছি, আমি ভাবছিলাম তুমি কি এটা পড়তে পারবে?\
+	['৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬', '৭৯৯৮৫২৮৯৬']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. দয়া করে কাউন্টারটি পড়ুন।\
+	['২৬১৬২৭.২ মি^৩', '02616272 m^3', '02616272', '02615272', '02616272', '২৭২', '02616272', '02616272', '02616272 m3', '02616272']	answering does not require reading text in the image
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. থার্মোস্ট্যাটটি কোন তাপমাত্রায় সেট করা আছে?\
+	['৭২', '৭২', '৭২', '৭২ ডিগ্রি', '৭২', '৭২', '৭২', '৭২', '৭২', '৭২']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. মাউন্টেন ডু কোন বোতাম?\
+	['৫', 'উপরে থেকে ৬', 'ষষ্ঠ বোতাম', 'ষষ্ঠ ১ নামিয়ে', '৫', '৬', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৫']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আমার মনে হয় এটা সিলভার ওক।\
+	['২০০০', '২০০০', '২০০০', '২০০০', '২০০০', '২০০০', '২০০০', '২০০০', '২০০০', '২০০০']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই পাওয়ার সাপ্লাই এর ওয়াট কত?\
+	['৩৫০', 'উত্তর দেওয়া সম্ভব নয়', '৩৫০', '৩৫০ ওয়াট সর্বোচ্চ', 'উত্তর দেওয়া সম্ভব নয়', '৩৫০', '৩৫০', 'উত্তর দেওয়া সম্ভব নয়', 'কুল', '৩৫০ ওয়াট সর্বোচ্চ']	350 ওয়াট
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কী লেখা আছে?\
+	['৭৭ ডিগ্রি', '৭৭', '৭৭', '৭৭', '৭৭ ডিগ্রি', '৭৭', '৭৭', '৭৭', '৭৭', '৭৭']	অপেক্ষা করুন
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি বলতে পারবেন এটা কোন মেডেলিয়নের?\
+	['৪৭', '৪৭', '৪৭', '৪৭তম', '৪৭ নম্বর', '৪৭', '৪৭', 'উত্তর দেওয়া সম্ভব নয়', '৪৭', 'না']	অজানা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কত?\
+	['৫', '৫', '৫', '৫', '৫', '৫ ডলার', '৫', '৫ সিঙ্গাপুর ডলার', '৫', '৫ ডলার']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ডায়ালের উপরে মুখোমুখি সংখ্যাটি কী নির্দেশ করে?\
+	['৪০০', '৫৫০', '৫০০', '৪৭৫', '৪৭৫', '৪৭৫', '৪৭৫', '৫০০', '৫৫০', '৫০০']	তাপমাত্রা
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই টাকা কোন নাম্বার?\
+	['২০', 'রগ্রেগ', '২০', '২০', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '২০', '২০', '২০', '২০']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. বর্তমানে স্ক্রিনে কি প্রদর্শিত হচ্ছে?\
+	['৪৫২৯৪০', '৪৫২৯৪০', 'ওকাই টকাই', 'সংখ্যা', 'রেডিও', '৪৫২৯৪০', 'ওয়ালকি টক', '৪৫২৯৪০', 'উত্তর দেওয়া সম্ভব নয়', '৪৫২৯৪০']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ৪৬৫ বিয়োগ ৫৫ কত?\
+	['৪১০', '৪১০', '৪১০', 'উত্তর দেওয়া সম্ভব নয়', '৪১০', 'উত্তর দেওয়া সম্ভব নয়', '৪১০', '৪১০', '৪১০', '৪১০']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. পঞ্চম সংখ্যাটা কত?\
+	['৮', '৮', '৮', '৮', '৮', '৮', '৮', '৮', '৮', '৮']	8
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বিলটা কি?\
+	['২', '২', '২', '২', '২ ডলার', 'টাকা', '২', '২', 'উত্তর দেওয়া সম্ভব নয়', '২']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. চিয়রিস খাবার কত ক্যালোরি?\
+	['১১০', 'চিত্র বহুভুজ', '১০৪', '১১০', '১০০', 'উত্তর দেওয়া সম্ভব নয়', '১০', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. ওভেনের তাপমাত্রা কত?\
+	['ওভেনের হাব', 'ওভেন তাপমাত্রা 400', '৪২৫', '৪৫০', '৪০০', '৪২৫', '৪২৫', '৪০০', '৪২৫', '৪০০']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. থার্মোস্ট্যাট এর তাপমাত্রা কত? \
+	['৭৮', '৭৮', '৭৮ ডিগ্রি', '৭৮', '৭৮', '৭৮', '৭৮', '৭৮', '৭৮', '৭৮']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কত টাকা?\
+	['২০ কানাডিয়ান ডলার', '২০', '২০', '২০', '২০ ইউরো', '২০', '২০ কানাডিয়ান ডলার', '২০', '২০', '২০']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তাপমাত্রা কত সেট করা আছে?\
+	['৭৫', '৭৫', '৭৫', '৭৫', '৭৬', '৭৫', '৭৫', '৭৫', '৭৫', '৭৫']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই থার্মোস্ট্যাট এর তাপমাত্রা কত?\
+	['৫০', '৫০', '৫৫', '৬৪ ডিগ্রি', '৫৫', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৫৪', 'উত্তর দেওয়া সম্ভব নয়', '৫৬']	55
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন ধর্মের?\
+	['৫', '৫', '৫', '৫', 'কানাডা', '৫', '৫', 'ডিম', '৫', '৫']	রোমান
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই কার্ডের মূল্য বলো।\
+	['৬টি হীরা', '৯টি হীরা', '৬টি হীরা', '৬', '৬', '৬', '৬', '৬', '৬', '৬']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. তুমি বলতে পারো আমি কত ওজন করি?\
+	['২১০', '২০০', 'হ্যাঁ, ২০০', '১৯৮', '২০০', '২০০', '২০০', '২৫০', '২০০', '২০০']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. হ্যালো, আমি আবার চেষ্টা করছি. আপনি কি আমাকে বলতে পারেন এই গেইজে কত ডিগ্রি সংখ্যা আছে?\
+	['৫৯', '৫৯', '৫৯', '৫৯', '৫৯', '৫৯', '৫৯', '৫৯', '৫৯', '৫৯']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারেন কি তাপমাত্রা ঠিক আছে সেট\
+	['৭৮', '৭৮', '৭৮', '৭৮', '৭৮', '৭৮', '৭৮ ডিগ্রি', '৭৮ ডিগ্রি', '৭৮ ডিগ্রি ফারেনহাইট', '৭৮']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই চকোলেট বার কত অংশ আছে?\
+	['উত্তর দেওয়া সম্ভব নয়', '২', '৪', 'উত্তর দেওয়া সম্ভব নয়', '৪', '৪ কাপ বাদাম মাখন', '২', '২', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এক ডোজে কয়টা ক্যালোরি আছে?\
+	['১২০', '১২০', '120 dry 220 প্রস্তুত যদি প্রস্তুত হয় 1 1 4 কাপ ফ্রি ফ্যাট দুধ', '১২০', '১২০', '১২০', '১২০', '১২০', '২২০', '120 শুকনো শস্য 220 দুধ']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারবেন এটা কোন ধরণের নোট? কারণ আমি ২০ এর জন্য খুঁজছি এবং আমি মনে করি এটা ১০ কিন্তু আমি সত্যিই বলতে পারছি না।\
+	['১০ ইউরো', '১০', '১০', 'উত্তর দেওয়া সম্ভব নয়', '১০', '১০', '১০ জন লাল সাদা শার্টে শুয়ে আছে', '১০', '১০', '১০']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই স্ট্রিপে কি এক বা দুইটা গোলাপী রেখা আছে? একটা অন্যটার চেয়ে হালকা হতে পারে।\
+	['বিউ', '১', '১টি লাইন', '১টি কালো রেখা', '১', '১', '১', '১', '১', '১']	একটি
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারেন যে এটা কোন নম্বর, ধন্যবাদ?\
+	['৩২৪৮৮৪৮৪৯০৬৪', '৩২৪৮৮৪৮৪৯০৮৪', 'উত্তর দেওয়া সম্ভব নয়', '৩২৪৮৮৪৮৪৯০৮৪', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৩২৪৮৮৪৮৪৯০৮৪', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৩২৪৮৮৪৮৪৯০৮৪']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. আপনি কি আমাকে বলতে পারবেন আমার ওজন কত?\
+	['১', '১', 'উত্তর দেওয়া সম্ভব নয়', '১', '১', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'ফাঁকা স্কেল', '১']	122
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই থার্মোস্ট্যাট এর বর্তমান তাপমাত্রা সেটিং কি?\
+	['৭০', '৭০', '৭০', '৭০', '৭০', '৭০', '৭০', '৭০', '৭০', 'থার্মোস্ট্যাট']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি ৫ বা ১০ কানাডিয়ান ডলারের নোট?\
+	['১০', '১০', '১০', '১০', '১০', '১০', '১০', '১০', '১০', '১০ কানাডিয়ান']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কলার আইডি কি? কলার আইডি? ধন্যবাদ।\
+	['২৫৩৮৯১৮৬', '২৫৩৮৯১৮৬ ৮৭৭ ২৩ঃ৩৯', '২৫৩৮৯১৮৬', '২৫৩৮৯১১৮৬', 'উত্তর দেওয়া সম্ভব নয়', '২৫৩৮৯১৮৬', '২৫৩৮৯১৮৬ ৮ ৭ ২৩ঃ৫৯', '২৫৩৮৯১৮৬', '২৫৩৮৯১৮৬', '২৫৩৮৯১৮৬']	25389186 08/07 23:39
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. পাঁচ অঙ্কের সংখ্যাটা কত?\
+	['২৩৪৪২', '২৩৪৪২', '২৩৪৪২', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'শুধুমাত্র ২টি সংখ্যা দেখবেন ৬৯', '২৩৪৪২', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '২৩৪৪২']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কত আউন্স?\
+	['২৩.৬', '২০', '২০', '২৪', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৩৩', 'উত্তর দেওয়া সম্ভব নয়', 'জিএফডিএসজিএসডিএফ']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই থার্মোমিটারে তাপমাত্রা কী বলে?\
+	['৭২', '৭২', '৭২', '৭২', '৭২', '৭২', '৭২', '৭২ ডিগ্রি', '৭২', '৭২ ডিগ্রি']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন পাতার নম্বর?\
+	['২', '২', '২', '২', '২', '২', '২', 'উত্তর দেওয়া সম্ভব নয়', '২', '২']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই ডিসপ্লেতে কি লেখা আছে?\
+	['৮৮৮৮', 'উত্তর দেওয়া সম্ভব নয়', 'কিছুই না', '৮৮৮৮', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', '৮৮৮৮', '৮৮৮', 'কিছুই না', 'ফাঁকা']	9886
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. কোন পৃষ্ঠার নম্বর প্রদর্শিত হয়? ধন্যবাদ।\
+	['১২৩', '১২১', '১২১', '১২১', 'উত্তর দেওয়া সম্ভব নয়', '১২১', '১২১', '১২৮', '৩২১', '১২১']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কোন নম্বর?\
+	['২৬', '২৬', '২৬', '২৬', '২৬', 'কাগজ', '২৬', '২৬', '২৬', '২৬']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এটা কি বলছে?\
+	['উত্তর দেওয়া সম্ভব নয়', '৪০', '৪০', 'উত্তর দেওয়া সম্ভব নয়', 'উত্তর দেওয়া সম্ভব নয়', 'সংখ্যা', '৪০', '৪০', '৪০ পাউন্ড বায়ু', '৩০']	উত্তর দেওয়া সম্ভব নয়
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer bn When the provided information is insufficient, respond with 'উত্তর দেওয়া সম্ভব নয়'. এই বাক্সে কয়টা ট্যাবলেট আছে?\
+	['৮ টি ট্যাবলেট', '৮', '৮', '৮', '৮', '৮', '৮', '৮ টি ট্যাবলেট', '৮', '৮']	8

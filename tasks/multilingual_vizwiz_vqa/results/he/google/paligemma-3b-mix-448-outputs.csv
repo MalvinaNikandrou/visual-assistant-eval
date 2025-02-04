@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על הנייר?\
+	['לא ניתן לענות', 'אוסטרליה פוסט', 'דואר', 'לא ניתן לענות', 'אוסטרליה פוסט', 'אוסטרליה פוסט', 'אוסטרליה פוסט', 'אוסטרליה פוסט', 'לא ניתן לענות', 'אוסטרליה פוסט']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה יש על המסך של המחשב הזה בבקשה?\
+	[\"סמל למזג אוויר שעון וכו '\", 'החלון ההתחלה', 'שולחן העבודה', 'שעון', 'שעון', 'סמל', 'סמל שולחן העבודה', 'לא ניתן לענות', 'סמל שולחן העבודה', 'סמל']	שעון
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה תקליטור זה?\
+	['ריק', 'סידי ריק', 'מקסוול', 'מקסל סי.די.ר.', 'ריק', 'ריק', 'שמיכה', 'ריק', 'ריק', 'מקסל']	cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה התמונה של?\
+	['רגל', 'רגל', 'שריטה על הרגל', 'רגל', 'רגל', 'רגל', 'רגל', 'רגל', 'רגל', 'רגל']	רגל
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה זה יכול בבקשה?\
+	['ציד', \"מנג'וויץ'\", \"מנג'וויץ'\", \"צדים רשלני רוטב ג'ו\", \"רוטב ג'ו מרושל.\", \"מנג'וויץ'\", \"איש אשר נועז רושם ג'ו רשלני\", 'לא נקי', \"מנג'וויץ'\", \"ג'ו מטומטם.\"]	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['קולה סודה דיאטית', 'קולה דיאטית יכולה', 'קוקאין דיאט', 'יכול להיות קוקאין דיאט', 'קוקאין דיאט', 'קוקאין דיאט', 'קוקאין דיאט', 'קוקאין', 'סודה', 'יכול להיות קוקאין דיאט']	coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה התבלין הזה?\
+	['גברת דאש.', 'לא ניתן לענות', 'גברת דאש.', 'לא ניתן לענות', 'לא יודע.', 'כל התבלינים', 'תערובת לבסיקלי', 'מרת דש טבלה תערובת', 'דש', 'גברת דאש.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['בקבוק טל mtn', 'טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'טה']	בקבוק מנטה dew
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['קפה', 'לא ניתן לענות', 'קפה', 'קפה', 'קפה', 'קפה', 'קפה', 'קפה', 'קפה', 'לא ניתן לענות']	קופסה קפה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה אתה רואה?\
+	['עור', 'דלתות רצפה אצבעות', 'דלת', 'דלת', 'דלת אצבע', 'דלת', 'לא ניתן לענות', 'דלת', 'בית', 'פרווה שחורה']	תמונה של חדר עם דלתות עץ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המסך של המחשב שלי מראה?\
+	['האם אתה רוצה לשחזר את המחשב שלך באמצעות מערכת לשחזר', 'מערכת לשחזר מופיעה', 'הודעה לשחזור מערכת', 'שואל אם אתה רוצה לשחזר את המחשב שלך באמצעות מערכת לשחזר', 'קופסה', 'שיקום מערכת', 'האם אתה רוצה לשחזר את המחשב שלך באמצעות מערכת לשחזר', 'המחשב לא התחיל להשתמש בשיקום מערכת', 'להקים מחדש', 'שיקום מערכת']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['קקאו חם', 'תערובת קקאו חמה', 'שוקולד חם', 'תערובת קקאו חמה', 'קקאו', 'תערובת קקאו חמה', 'קקאו חם', \"צ'וקולד חם\", 'קקאו', 'תערובת קקאו']	קופסה קפה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול בבקשה להגיד לי את מספר 1-800 על הכרטיס הזה?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	18007352929
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['מסך מחשב', 'מסך מחשב', 'מסך מחשב', 'מחשב נייד', 'מסך מחשב המראה תוצאות חיפוש', 'מסך', 'מסך מחשב', 'מסך מחשב', 'מסך מסך', 'מסך מחשב']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['סלט סלוט בצד האחורי', 'סמרטוטים', 'סלט', 'סלט', 'סלט מלח', 'סלט', 'לא ניתן לענות', 'סלט', 'סלט', 'סלט']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה מראה התמונה?\
+	['חלון', 'עיצוב', 'חלון זכוכית מקרח עיצוב שחור', 'חלון זכוכית בדלת', 'חלון זכוכית בדלת', 'דלת', 'זכוכית צבעונית', 'דלת', 'חלון', 'חלון']	חלון
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מישהו יכול להגיד לי מה השאלה של האבטחה על המסך, בבקשה?\
+	['ארוואק', 'לא ניתן לענות', 'ארוואק', 'ארוואק', 'ארוואק', 'ארוואק', 'לא ניתן לענות', 'לא ניתן לענות', 'ארוואק', 'ארוואק']	לא can see the question, therefore I cannot answer this question.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['יין', 'אלון כסף', 'אלון כסף', 'יין של אלון כסף', 'יין', 'בקבוק', 'יין', 'יין', 'אלון כסף 2003 קברנט סאוויניון', 'אלון כסף 2003']	אשף
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מותג של מסך זה?\
+	[\"ג'י.ג.\", 'לא ניתן לענות', 'לא ניתן לענות', \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\"]	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של משקה זה?\
+	['סודה', \"ג'ינג'ר אל\", 'גנרל', \"סודה של ג'ינג'ר\", 'קנדה יבשה', 'קנדה יבשה', \"ג'ינג'ר אל\", 'קנדה יבשה', \"ג'ינג'ר אל\", \"ג'ינג'ר אל\"]	canada dry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע השטיח?\
+	[\"בוג'\", \"בוג'\", 'שחור', 'אפור', 'צבע טופ', 'שמנת', 'שחור', 'שחור', \"בוג'\", 'צבע טופ']	חום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['טלפון', 'טלפון', 'טלפון', 'טלפון', 'טלפון', 'טלפון', 'טלפון דיגיטלי', 'טלפון', 'טלפון משרד', 'טלפון']	לא יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה התמונה הזאת?\
+	['טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'טל הרים', 'שחי הרים', 'בקבוק טל mtn', 'סודה של טל הרים', 'טחול']	בקבוק מנטה דאון ביד
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה הבקבוק הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'קרם', 'סודה', 'לא ניתן לענות', 'קרם', 'קרם', 'קרם', 'לא ניתן לענות', 'קרם']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מים של אקופינה', 'בקבוק מים aquafina', 'מים', 'מים', 'בקבוק פלסטיק מים של המותג aquafina', 'מים בבקבוק', 'בקבוק מים', 'מים של אקופינה', 'מים', 'בקבוקי מים מפלסטיק']	בקבוק מים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['חיפוש גוגל', 'לוח המחשב של מנוע החיפוש של גוגל', 'דף חיפוש גוגל', 'גוגל', 'גוגל', 'מחשב', 'דף הבית של גוגל', 'דף גוגל', 'מסך מחשב', 'מסך מחשב']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['מפתחות', 'מפתחות', 'מפתחות', 'מפתחות', 'מפתחות', 'מפתחות', 'מפתחות', 'מפתחות', 'מפתחות', 'מפתחות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אנא קרא לי את הודעת השגיאה על המסך.\
+	['לא ניתן לענות', 'מפתח מוצר לא תקף', 'מפתח מוצר לא תקף', 'לא ניתן לענות', 'מפתח מוצר לא תקף', 'מפתח מוצר לא תקף', 'מפתח מוצר לא תקף', 'מפתח מוצר לא תקף או להסיר מפתח מוצר בקובץ תשובה לא פנוי להמשיך', 'מפתח מוצר לא תקף או להסיר מפתח מוצר בקובץ תשובה לא פנוי להמשיך', 'מפתח מוצר לא תקף']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איפה המחשב הנייד שלי?\
+	['שולחן עבודה', 'על השולחן.', 'שולחן העליון ליד המיטה', 'על השולחן.', 'שולחן עבודה', 'שולחן עבודה', 'על השולחן.', 'על השולחן.', 'שולחן העליון', 'שולחן עבודה']	on desk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כותרת הספר הזה?\
+	['שנים של כלב', 'שנות הכלב: זיכרונות', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מקבוק', 'מנגנון מפתח', 'מנגנון מפתח', 'מנגנון מפתח', 'מחשב', 'מנגנון מפתח', 'מחשב נייד', 'מחשב נייד', 'מחשב נייד', 'מנגנון מסך מחשב']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה אתה רואה?\
+	['חלון שולחן', 'פרחים', 'לא ניתן לענות', 'חלון שולחן', 'עט נייד ספר', 'פרחים', 'דסטופ', 'ספר', 'חלון', 'פרחים']	שולחן עם ספרים וכובע עליו
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזה חבילה יש קמח פשוט?\
+	['חבילת אדומה לבנה', 'שמאלה', 'זה 1', 'אדום 1 משמאל', 'שמאלה', 'לא ניתן לענות', 'שמאלה', 'שמאלה', 'אדום לבן 1', 'אדום 1']	בחבילה הקטנה יש קמח פשוט.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['כדורגל', 'כדורגל', 'כדורגל', 'אלגייטור כדורגל סגול כתום', 'כדורגל של תנינים', 'כדורגל רך של תנינים', 'כדורגל ממולא', 'כדורגל מלא, כתום כחול', 'כדורגל סגול', 'פרחים']	בובה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה?\
+	['אפור', 'זהב', 'זהב', \"בוג'\", 'אדום', 'זהב', 'לא ניתן לענות', 'לא ניתן לענות', 'זהב', 'לא ניתן לענות']	זה זהה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה זה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['תפריט', 'לא ניתן לענות', 'תפריט', 'תפריט', 'תפריט', 'תוכן הטבלה', 'תפריט', 'תפריט', 'רשימת מחירים', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['בקבוק מים', 'ספרינגבורן', 'מים ספרינגבורן', 'ספרינגבורן', 'מים בקבוקים', 'מים', 'בקבוק מים', 'מים בקבוקים', 'מים בבקבוק', 'מים']	בקבוק מים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של מרק זה?\
+	['התקדמות', 'התקדמות', 'התקדמות', 'לא ניתן לענות', 'התקדמות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'התקדמות', 'התקדמות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני יודע שזו פחית אוכל, תוכל בבקשה לומר לי מה יש בפנים?\
+	['שעועית ירוקה', 'שעועית ירוקה', 'שעועית ירוקה', 'שעועית ירוקה', 'שעועית ירוקה', 'לא ניתן לענות', 'שעועית ירוקה', 'עף', 'שעועית ירוקה', 'שעועית ירוקה']	פחית ירקות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	[\"צ'קס מיקס\", 'מטח חותך', \"מחשב צ'קס מיקס\", 'לא ניתן לענות', \"צ'קס מיקס\", 'מזון', \"צ'קס מיקס\", \"צ'קס מיקס\", \"צ'קס מיקס\", \"צ'קמיקס\"]	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מיקרוגל', 'מיקרוגל', 'תרופות', 'מכשירים מרק דבש', 'מרק פח', 'כוס מרק לשתות', 'מטבח', 'שולחן המטבח', 'קרם', 'מרק']	לא מסוגל לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה יכול?\
+	['ירקות מעורבים', 'ירקות מעורבים', 'ירקות מעורבים', 'ירקות מעורבים', 'ירקות מעורבים', 'פג.', 'ירקות מעורבים', 'ירקות מעורבים', 'ירקות מעורבים', 'ירקות מעורבים']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['קלקול עוגות', 'וניל', 'וניל', 'קשקוש וניל מופלט', 'בטי קרוקר', 'קפוא וניל', 'ונילה מופלג', 'קפוא וניל', 'וניל', 'וניל']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה קופסה אני מסתכלת, כמו מה מכיל הקופסה?\
+	['קופסת סטיקות גרנולה', 'גבישי גרנולה של שקדים צלוי בעמק הטבע', 'סטיקות גרנולה', 'עמק טבע', 'סטיקים של גרנולה של שקדים צלוי', 'גבישי גרנולה של שקדים צלוי בעמק הטבע', 'עמק הטבע חריץ חטיפי גרנולה טעם שקדים צלוי', 'סטיקות גרנולה', 'סטיקות גרנולה', 'סטיקים של גרנולה קריסטלי של שקדים צלוי']	nature valley crunchy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה עם הבד הצבעוני?\
+	['ירוק לבן', 'דפוס לבן ירוק כהה', 'לבן ירוק', 'לבן ירוק', 'ורוד ירוק', 'בד לבן ירוק קרם על', 'ורוד שחור', 'ירוק לבן', 'צבע עניבה סגול שחור', 'דלקות ירוקות לבנות']	לבן ירוק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה מראה המסך?\
+	['חץ עכבר', 'סמן', 'שום דבר.', 'כחול', 'מסך כחול', 'חץ', 'ריק', 'חץ כחול', 'ריק', 'מסך כחול']	מסך כחול עם עכבר לבן.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. שלום, מי מדבר?\
+	['חתול לבן', 'חתול', 'חתול', 'חתול לבן', 'חתול', 'לא ניתן לענות', 'חתול', 'חתול', 'החתול הזה.', 'חתלתול']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מנגנון ניקוי ידיים מתקדם', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים']	מלחין
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב בהודעת השגיאה?\
+	['מפתח מוצר לא תקף', 'מפתח מוצר לא תקף', 'מפתח מוצר לא תקף', 'מפתח מוצר לא תקף', 'מוצר לא תקף', 'מפתח מוצר לא תקף לחץ על אוק כדי להמשיך', 'מפתח מוצר לא תקף או להסיר את מפתח המוצר בקובץ תשובה לא פנוי להמשיך', 'מוצר לא תקף', 'מפתח מוצר לא תקף', 'מפתח מוצר לא תקף']	לא ניתן לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה הודעה הזאת אומרת על המסך של המחשב שלי?\
+	['כפתור סיום תיקון כלשהו למטה ימין', 'תיקון התחלה בוט 9 20 2012 ניסיון תיקון 1 סגור חזרה סיום לבטל', 'לא ניתן לענות', 'לא, לא.', 'תיקון התחלה', 'תיקון התחלה', 'תיקון התחלה', 'לא ניתן לענות', 'תיקון התחלה הושלם מסך אבחון כפתור סגור', 'תיקון התחלה']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין בשר זה? האם זה עוף או נקניק או איזה מין בשר? תודה\
+	['עוף', 'עוף', 'עוף', 'עוף', 'עוף', 'עוף', 'עוף', 'ירך עוף', 'לא ניתן לענות', 'עוף']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה?\
+	['כחול חשמלי', 'כחול', 'כחול', 'כחול', 'כחול', 'כחול', 'כחול', 'כחול', 'כחול', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על המסך?\
+	['התקנת חלונות', 'התקנת חלונות ועוד בלתי קריא', 'התקנת חלונות', 'התקנת חלונות', 'התקנת חלונות', 'המסך הזה מציין כי Windows התקנת רשימות שלבים התקנה', 'התקנת חלונות', 'התקנת חלונות', 'התקנת חלונות', 'התקנת חלונות']	לא נותן לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. השמיים נראים כמו בתמונה הזאת.\
+	['מעט ענן', 'עננים כהים', 'ענן גדול', 'ענן ענק שמיים אפלים', 'סופת גשם', 'ענן', 'עננים כחולים', 'לא ניתן לענות', 'ענן גשם ענק קצת כחול לצד', 'ענן']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מרפסת', 'כיסא', 'כיסא', 'כיסא', 'לא ניתן לענות', 'סוללה', 'כיסא', 'כיסא', 'חלון מסגרת מתכת של ספסל', 'כיסא']	לא מספק מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['תמונה', 'דלת', 'דלת', 'בר', 'דלתות עם חגורות זכוכית', 'דלת', 'מסעדה', 'מסעדה', 'דלתות', 'דלתות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה על המסך שלי? קדימה חבר'ה! מה על המסך?\
+	['בחר מכשיר ההתחלה', 'אנא בחר את מכשיר ההתחלה 3 אפשרויות', 'לא ניתן לענות', 'אנא בחר מכשיר ההתחלה', 'מסך ההתחלה', 'אנא בחר מכשיר ההתחלה', 'טעות', 'אנא בחר מכשיר ההתחלה', 'הודעה על בחירת המכשיר', 'אנא בחר מכשיר ההתחלה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['מאפרת', 'פסל ברונזה דקורטיבי של אריה', 'פסל', 'לא, לא.', 'מאפרת', 'מגש אפר', 'פסל', 'קערה לכלב', 'מאפרת', 'נמר מגפה על העליון.']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג סיגריות אלה?\
+	['רוח אמריקנית', 'רוח אמריקנית', 'רוח אמריקנית', 'רוח אמריקנית', 'רוח אמריקנית', 'סוגי אלכוהול אמריקאיים שחורים.', 'רוח אמריקנית', 'רוח אמריקנית', 'רוח אמריקנית', 'רוח אמריקנית']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	[\"ג'ינסנג גוואבה\", 'תה', 'תה', 'תה', 'תה', 'תה', 'תה', 'תה', 'תה', 'תה']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בבקבוק הזה?\
+	['קרם גוף', 'קרם גוף', 'קרם גוף', 'קרם', 'קרם גוף של שאה ויטמין E', 'אור הירח דרך ויטמין ש\"י קרם גוף', 'קרם גוף', 'קרם גוף אור ירח', 'קרם גוף אור ירח', 'קרם']	בקבוק שמן גוף
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה התמונה של?\
+	['משקפיים', 'מסגרות', 'משקפיים', 'משקפי עיניים מסגרת כסף', 'משקפי עיניים', 'משקפיים', 'מסגרת משקפיים', 'משקפיים', 'משקפיים', 'משקפיים']	משקפיים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה מוצר.\
+	['כן, אני יודע.', 'מרק עגבניות', 'מרק עגבניות', 'מרק', 'מרק בקופסאות', 'מרק עגבניות', 'מרק עגבניות', 'מרק עגבניות', 'מרק', 'בחר מרק עגבניות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['קופסת טלפון', 'אייפון', 'תיבת אייפון', 'טלפון', 'טלפון סלולרי', 'קופסת טלפון סלולרי', 'טלפון חכם', 'טלפון', 'טלפון חכם', 'אייפון']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה התמונה של?\
+	['מיכל ממתקים', 'חגיגה קופסה אדומה', 'אחראי', 'אומר חגיגה', 'קופסה', 'ממתקים', 'צד טובה', 'חגיגות', 'קופסה', 'לא ניתן לענות']	חלק העליון קופסת קינוחים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['שמפניה', 'קנקן תה בכוס יין', 'זכוכית', 'יין זכוכית', 'כוס שמפניה של יין ליד כוס קפה יושבת על הצלחת', 'לשתות בכוס על השולחן', 'שמפניה', 'כוס תה', 'כוס שמפניה של צנצנת תה', 'צלחת זכוכית שמפניה על השולחן בחלון הקדמי עם נוף לעיר']	לא מספק מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הטעם של זה?\
+	['כתום', 'כתום ירוק צהוב אדום', 'שדה תפוזים', 'כתום', 'לא ניתן לענות', 'לא ניתן לענות', 'כתום', '2 משמאל כתום דובדבן לימון למעלה למטה ימין חורף ירוק', 'כתום', 'כתום']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. היי, תהיתי מה יש בקופסה הזאת? תודה. תהיתי אם זה בירה או קופסת סודה. תודה.\
+	['קוקה קולה', 'קוקה קולה', 'סודה', 'קוקה קולה', 'סודה', 'סודה קוקס', 'סודה', 'סודה', 'קוקא קולה', 'סודה']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה ההגדרות על המייבש הזה?\
+	['נגד צירו של השעון קבוע זמן בקרת קמטים יבש עדין קמטים שחרור רטיב אוויר', 'רגיל', 'מנותק', 'מנותק', 'מנותק', 'רגיל', 'מנותק', 'לא בהגדרת', 'שום דבר.', 'מנותק']	מייבש זה מיועד לאפשר לך לבחור את הגדרות המושלמות עבור כל סוג של כביסה.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['טבליות', 'טבליות', 'אפליקציות טלפון', 'מסך', 'רשימה של אפליקציות', 'חנות אפליקציות', 'טבליות', 'רשימה של אפליקציות להורדה', 'לא ניתן לענות', 'הורדות אפליקציות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה אני מסתכל?\
+	['טלוויזיה', 'טלוויזיה בארון', 'טלוויזיה', 'טלוויזיה', 'מסך טלוויזיה', 'טלוויזיה', 'טום סלק בטלוויזיה.', 'טלוויזיה', 'טלוויזיה', 'טלוויזיה עם דלת פתוחה']	טלוויזיה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה?\
+	['לבן', 'לבן', 'לבן', 'לבן', \"בוג'\", 'לבן', 'סלע השנהב', 'לא ניתן לענות', \"בוג'\", 'לא ניתן לענות']	לבן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מזון זה', 'רוויולי', 'רוויולי', 'רוויולי', 'רוויולי', 'שף בויארדי מיני רביוליס', 'ריביולי מיני במעילים', 'רוויולי', 'שף בויה מיני רביולי', 'רוויולי מיני']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['עוף בשר רוטב', 'בשר בקר צלוי', 'בשר בקר צלוי', 'בשר בקר צלוי', 'בשר בקר צלוי מסורתי', 'בשר בקר צלוי', 'בשר בקר צלוי', 'בשר בקר צלוי מסורתי', 'בשר בקר צלוי', 'בשר בקר צלוי']	ארוחה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה המוצר הזה?\
+	['פפסי דיאטה', 'פפסי דיאטת ללא קפאין', 'פפסי', 'פפסי', 'פפסי דיאטה', 'פפסי דיאטה', 'פפסי דיאטה', 'פפסי ללא קפאין', 'פפסי דיאטה', 'פפסי דיאטה']	פפסי דיאטético
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איך קוראים לזה?\
+	['מזרח', 'שעועית', 'לא ניתן לענות', 'לא ניתן לענות', 'מזון', 'שעועית', 'תערובת שביל', 'דגנים', 'אגוזים', 'שקית בוטנים']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם זה קפה רגיל או נטול קפאין?\
+	['רגיל', 'לא ניתן לענות', 'רגיל', 'רגיל', 'רגיל', 'רגיל', 'לא ניתן לענות', 'לא ניתן לענות', 'רגיל', 'רגיל']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מקרוני גבינה', 'מקרוני גבינה', 'מקרוני גבינה', 'מקרוני גבינה', 'מקרוני גבינה', 'גבינה מקס', 'מקרוני גבינה', 'מקרוני גבינה', 'מקרוני גבינה', 'מקרוני גבינה']	לא מספק מסך מלא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בבקבוק הזה?\
+	['קרם מרכך', 'קרם', 'קרם', 'קרם', 'קרם מרכך', 'קרם', 'מלט', 'קרם גוף', 'כביסה עמוקה', 'כביסה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['כיסא שולחן', 'כיסא', 'כיסא', 'כיסא משרד', 'כיסא משרד', 'כיסא המשרד הזה.', 'כיסא', 'כיסא שולחן', 'כיסא', 'כיסא משרד אפור']	כיסא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה היה הדבר הזה שצילמתי?\
+	['מוניטור מחשב', 'מחשב', 'מסך מחשב', 'לא ניתן לענות', 'לא ניתן לענות', 'מחשב נייד', 'מסך מחשב', 'מחשב נייד', 'מוניטור מחשב', 'מחשב נייד']	מסך מחשב
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. תגיד לי מה זה.\
+	['צלעות חזיר', 'בשר', 'איזה סוג של בשר אדום.', 'בשר ארוז', 'בשר חזיר', 'צלע חזיר', 'לא ניתן לענות', 'בשר', 'fg', 'חציר חזיר']	לא מסוגל לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איך נראה השמיים בתמונה הזאת?\
+	['יום ענן', 'מעט ענן', 'ענן', 'ענן', 'ענן', 'ענן', 'ענן', 'ענן', 'ענן', 'גשם']	עננים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזו ארוחה זו, היא מחכה שהזמן יגמר?\
+	['לא ניתן לענות', 'ספגטי', 'ספגטי', 'לא ניתן לענות', 'לא ניתן לענות', 'ספגטי', 'ספגטי', 'מראה', 'ארוחת ערב', 'פיצה']	לארוחה זו אין תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['פרחים', 'פרח', 'פרחים', 'פרחים', 'פרח', 'פרחים', 'צמחים', 'פרחים', 'פרח', 'איריס']	פרחים סגולים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['תה רופף', 'תה', 'לא ניתן לענות', 'תה', 'תה', 'תה', 'תה', 'תה', 'תה', 'תה']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע ועיצוב יש למכנסיים הקצרים האלה?\
+	['צבע', 'צבע כחול צהוב', 'כחול כתום ירוק', 'צבע לבן, כחול, חום,', 'צבע כחול על העליון צבע צהוב על התחתון', 'צבעוני', 'צבע לבן כחול-שחורה', 'צבע', 'צבע כחול', 'כחול לבן ירוק צהוב']	חולצה משובצת כחולה לבנה כתומה וירוקה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע היה המזוודה?\
+	['ירוק', 'ירוק', 'ירוק לימון', 'צבע ירוק', 'ירוק', 'ירוק', 'ירוק', 'ירוק', 'ירוק בהיר', 'ירוק']	ירוק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם זה קולה רגיל או קולה דיאטה?\
+	['קוקאין דיאט', 'תזונה', 'תזונה', 'תזונה', 'תזונה', 'תזונה', 'קוקאין דיאט', 'תזונה', 'קוקאין דיאט', 'תזונה']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['עט', 'עט מקלדת', 'עט', 'עט', 'עט', 'עט', 'עט', 'עט', 'עט', 'כרית']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['פחיות של מנורה', 'מנורה', 'מנורה', 'מנורה', 'פחית פרינגל ליד מנורת סידי.', 'מנורה ללא צל', 'מנורה', 'מנורת שולחן, מרחץ פה', 'מנורה', 'מנורה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המחשב הזה עושה?\
+	['מערכת בדיקות', 'לא ניתן לענות', 'בדיקה של דיסק', 'דיסק בדיקת', 'לא ניתן לענות', 'לא ניתן לענות', 'מטען', 'הגדרת', 'בדיקת עקביות', 'תפעיל מחדש']	מחשב זה עושה שום דבר.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סודה זה?\
+	['קוקאין דיאט', 'דן', 'קוקאין דיאט', 'קוקאין דיאט', 'קוקאין דיאט', 'קוקאין דיאט', 'קוקאין דיאט', 'קולה דיאטית לימון', 'קוקאין דיאט', 'קוקאין דיאט']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה ספר לי על הספר הזה.\
+	['קליב קוסלר, דירק קוסלר.', 'לא ניתן לענות', 'קליב קוסלר, דירק קוסלר.', 'קליב קוסלר, דירק קוסלר.', 'מדעי', 'סוספנס', 'אוליב קוסלר דירק קוסלר', 'פעילות', 'לא ניתן לענות', 'קליב קוסלר']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה יין זה?\
+	['לא ניתן לענות', 'חוגגים נישואין דוד אמה יין אדום', 'נאש', 'נאש', 'נאש', 'נאש', 'נאש', 'לא ניתן לענות', 'לא ניתן לענות', 'יין נאש']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['יוגורט', 'לא ניתן לענות', 'יוגורט', 'יוגורט', 'יוגורט', 'יוגורט', 'יוגורט', 'יוגורט', 'יוגורט', 'יוגורט']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כותרת הספר הזה?\
+	['שנים של כלב', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב', 'לא ניתן לענות', 'שנים של כלב', 'לא ניתן לענות', 'שנים של כלב', 'שנים של כלב', 'שנים של כלב']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מחשב נייד סוני', 'מחשב נייד', 'מחשב נייד', 'מחשב', 'מחשב נייד', 'סוני ואיו מחשב נייד', 'מחשב נייד', 'סוני ואיו', 'מחשב נייד סוני', 'מחשב נייד']	sony vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני תוהה מה מותג המחשב הזה.\
+	['סוני', 'סוני', 'סוני', 'סוני', 'סוני', 'סוני', 'סוני', 'סוני', 'סוני', 'סוני']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה זה, עגבניות או רוטב אנצ'ילדה?\
+	['קרב', 'תווית האחורי לא אומרת', 'לא ניתן לענות', 'עגבניות', 'עגבניות', 'עגבניות', 'לא ניתן לענות', 'עגבניות', 'תמונה לא ברורה', 'עגבניות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['פודינג', 'פודינג חטיפים', 'פודינג וניל', 'פודינג', 'פודינג וניל', 'פודינג', '6 חבילות חטיפים חבילות פודינג וניל', 'כוסות פודינג', 'פודינג', 'פודינג של חבילת חטיפים']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['שטר קנדי של 20 דולר', 'שטר קנדי של 20 דולר.', '20 קנדי', 'כסף', 'כסף על דנטל.', 'שטר של 20 דולר.', 'מונאו', 'שטר קנדי של 20 דולר', '20 דולר.', 'כסף']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['לאזניה', 'לאזניה', 'לאזניה מיוחדת', 'לאזניה', 'לאזניה מיוחדת', 'לאזניה מיוחדת', \"לוסג'ן\", 'לאזניה', 'לאזניה', 'לאזניה']	לאוכל
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין קפה זה?\
+	['אספרסו', 'אספרסו', 'טימותי אקספרסו', 'אספרסו יער גשם', 'אספרסו יער גשם', 'אספרסו', 'חתיכה חזה', 'אספרסו טרופי', 'אספרסו עזה במיוחד, טרופי', 'טימותיוס']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה התמונה של?\
+	['כוס יין מנגנון', 'מחשב נייד', 'מפתח למחשב נייד יין בירה', 'לא ניתן לענות', 'מחשב', 'מחשב', 'משקה למחשב נייד', 'מחשב נייד על השולחן ליד נוזל זכוכית', 'זכוכית למחשב נייד', 'מחשב נייד זכוכית']	מחשב נייד יושב על שולחן ליד כוס יין.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['ספר הכותרת', 'ספר', 'חוברת', 'הערה', 'ספר כסף קל.', 'רום שד כסף קל: ממשלת שליטה על אלכוהול בקולומביה הבריטית', 'ספר', 'ספר', 'עמוד הכותרת ספר', 'חוברת']	לא נותן לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה היה על השולחן?\
+	['מחברת', 'עט מחברת ניידים אחרים', 'מחברת עם טבעת ספירלית', 'עט נייר', 'מחברת', 'עט נייטבוק', 'מחברת', 'עט נייטבוק', 'עט נייר', 'מחברת']	מחברת
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע החולצה הזאת?\
+	['צבע לבן כחול', 'כחול לבן', 'צבע לבן כחול', 'כחול לבן', 'כחול', 'כחול לבן', 'צבע כחול לבן', 'צבע כחול', 'כחול', 'כחול']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['אנדרה שרדונה', 'שמפניה', 'אנדרה', 'שמפניה', 'יין', 'שמפניה', 'שמפניה', 'שמפניה', 'בקבוק שמפניה', 'שמפניה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השם של המוצר בקופסת בתמונה?\
+	['ליזול', 'ליזול', 'ליזול', 'ליזול', 'ליזול', 'ליזול', 'ליזול', 'ליזול', 'ליזול', 'ליזול']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין קפה זה?\
+	['גוואליה', 'מקסימו גוואליה קפה', 'מאסימו', \"ג'אליה אספרסו\", 'מאסימו', 'קפה שחור', 'מאסימו', 'לא ניתן לענות', 'גוואליה', 'גוואליה']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['ד\"ר פלפל', 'יכול להיות סודה פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'סודה פלפל', 'ד\"ר פלפל', 'יכול להיות סודה פלפל', 'ד\"ר פלפל']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול בבקשה להגיד לי מה זה, בבקשה, תודה?\
+	['קפה מיידי', 'קפה מיידי', 'קפה קלאסי', 'חבילת קפה', 'לא ניתן לענות', 'קפה', 'קפה', 'קפה אבקה', 'קפה', 'קפה קלאסי']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה צבע שלושת החוטים משמאל לימין?\
+	['אדום שחור לבן', 'אדום שחור לבן', 'שחור אדום', 'אדום שחור לבן', 'אדום שחור לבן', 'אדום שחור לבן', 'אדום שחור לבן', 'אדום שחור לבן', 'אדום כחול לבן', 'אדום שחור לבן']	אדום, שחור, בז'
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה מראה בדיקת הריון הזאת?\
+	['1 שורה', 'שלילי', 'שלילי', 'קו אחד אבל צבע מפרש לנסות אחר', 'לא ניתן לענות', '1 פסים', 'אין תמונה.', 'קו אדום', 'לא ניתן לענות', 'סימן כחול סימן אדום']	תמונה מטושטשת
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השם של התבלינים האלה?\
+	['גברת תערובת פלפל לימון טרי', 'דש', 'גברת דאש.', 'גברת דש פלפל לימון', 'גברת דאש.', 'גברת דאש.', 'פלפל', 'גברת דאש.', 'גברת דאש.', 'גברת דאש.']	תבלינים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. היי, איזה סוג משקה יש בבקבוק ביד ימין שלי?\
+	['פפסי', 'סודה פפסי', 'פפסי דיאטה', 'פפסי דיאטה', 'פפסי דיאטה', 'פפסי', 'פפסי דיאטה', 'דיאטה פפסי', 'פפסי דיאטה', 'פפסי דיאטה']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['משחק וידאו', 'משחק וידאו', 'משחק כדורסל', 'משחק וידאו', 'לא ניתן לענות', 'DVD', 'לא ניתן לענות', 'משחק', 'משחק וידאו', 'DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	[\"קצ'ופ\", \"קצ'ופ\", 'קטשופ עגבניות היינץ', 'חבילת קטשופ', 'חבילת קטשופ', \"קצ'ופ\", \"קצ'ופ\", 'חבילת קטשופ', \"קצ'ופ\", \"קצ'ופ\"]	המרכיבים של חרדל
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבעים יש בחולצה הזאת?\
+	['אדום לבן', 'קחול', 'אדום לבן', 'קווי לבן אדומים', 'קווי לבן אדומים', 'אדום לבן', 'אדום לבן', 'אדום לבן', 'אדום לבן', 'אדום לבן']	אדום לבן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בחבילה הזאת?\
+	['תמונה של הפרלמנט', 'אלבום מוסיקה', 'סיגריות', 'סיגריות', 'סיגריות', 'סיגריות', 'פילטרות מובטלות', 'סיגריות של הפרלמנט', 'כרטיסים', 'סיגריות']	סיגריות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע השטיח הזה?\
+	['סגול', 'סגול', 'סגול', 'סגול', 'סגול', 'סגול', 'סגול', 'סגול', 'סגול', 'סגול']	אדום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם הדיאלוג נראה יותר בתמונה הזאת?\
+	['משועמם.', 'כן, אני יודע.', 'לא, לא.', 'כן, אני יודע.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'כן, אני יודע.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה המוצר הזה?\
+	['שעועית ירוקה', 'שעועית ירוקה', 'שעועית ירוקה', 'יכול', 'שעועית', 'שוקי', 'לא ניתן לענות', 'שעועית ירוקה', 'fg', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה יכול?\
+	['שעועית חזיר', 'שעועית חזיר', 'בשר חזיר', 'שעועית חזיר', 'שעועית חזיר', 'שעועית חזיר', 'שעועית חזיר', 'שעועית חזיר', 'שעועית חזיר', 'שעועית חזיר']	לא מספק מסך מלא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה היין הזה?\
+	['לא ניתן לענות', '-היי, מה קורה?', 'תוצרת השקעות 2008 נאש', 'נאש', 'נאש', 'מזכרת חתונה', 'נאש חוגג נישואין דוד אמה 16 ביולי 2011', 'נאש', 'נאש', 'חגיגה נישואין']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין אוכל זה?\
+	['רוטב עגבניות', 'רוטב עגבניות', 'רוטב עגבניות אורגני', 'רוטב עגבניות', 'רוטב עגבניות', 'רוטב עגבניות', 'רוטב עגבניות אורגני', 'רוטב עגבניות', 'רוטב עגבניות אורגני', 'טומוטו']	רוטב עגבניות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה טעם זה?\
+	['תותח', 'תותח', 'תותח', 'תותח', 'תותח', 'תותח', 'תותח', 'תותח', 'תותח', 'תותח']	תות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי איזה צבע זה?\
+	['שחור', 'שחור', 'שחור', 'שחור', 'שחור', 'שחור', 'שחור', 'שחור', 'שחור', 'שחור']	חום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['צמח', 'צמח דקורטיבי', 'אלואו', 'צמח בית', 'צמח בית', 'צמח בית', 'צמח', 'צמח בית', 'צמח', 'צמח עשב']	צמח
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מגזין', 'ספר קומיקס', 'ספר קומיקס', 'משחק לוח למבוגרים', 'מגזין', 'ספר צבע', 'ספר חג המולד מוזר.', 'אני לא בטוח שאני לא יכול לקרוא את השפה הזאת.', 'כרטיסי ברכה לחג המולד', 'קומיקס']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	[\"ארוחת ערב עוף דיג'ון\", 'מזון', \"עוף דיג'ון\", \"עוף דיג'ון\", \"עוף דיג'ון\", 'מזון', \"עוף דיג'ון\", 'עוף', \"עוף דיג'ון\", \"עוף דיג'ון\"]	תקריב של קופסה של אוכל עם תמונה של אוכל
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין קפה זה?\
+	[\"ג'וואליה\", 'גוואליה', 'ונילה צרפתית', 'ונילה צרפתית', \"ג'וואליה\", \"ג'וואליה\", 'ונילה צרפתית', 'ונילה צרפתית', 'צרפתית', \"ג'וואליאה, ונילה צרפתית\"]	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['אייפון', 'טלפון', 'טלפון', 'אייפון', 'טלפון סלולרי', 'טלפון סלולרי', 'טלפון נייד', 'אני מתקשר.', 'טלפון חכם', 'טלפון חכם']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'סיגריות', 'סיגריות חבילות', 'סיגריות', 'סיגריות חבילות', 'סיגריות', 'סיגריות', 'לא ניתן לענות', 'סיגריות', 'סיגריות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה טעם זה?\
+	['בשר בקר', 'עם טעם של בשר בקר', 'בשר בקר', 'מרק בעל טעם בשר בקר', 'בשר בקר', 'טעם בשר בקר', 'מרק בעל טעם בשר בקר', 'בשר בקר', 'טעם הבקר הזה.', 'בשר בקר']	בשר
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['כוס גדולה', 'כוס', 'כוס', 'כוס', 'אוהב את גביע טוגו.', 'כוס', 'כוס פופ, דברים אחרים.', 'כוס סטרואיד', 'כוס', 'הכוס הזאת.']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם זה פפסי דיאטה או פפסי רגיל?\
+	['פפסי דיאטה', 'תזונה', 'לא ניתן לענות', 'תזונה', 'פפסי דיאטה', 'תזונה', 'תזונה', 'תזונה', 'פפסי דיאטה', 'תזונה']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על המסך?\
+	['תוכנת Avast', 'סריקה של כוננים מקומיים', 'חלונות', 'הודעה על שגיאה', 'סריקה', 'תוכנת סריקה של Avast Windows XP', 'חלונות', 'לא ניתן לענות', 'Windows XP', 'לא ניתן לענות']	לא יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה תגיד על איזה מסך אני? אני מנסה לגשת לתפריט ההתחלה ואני מנסה להפעיל מנתח USB. תראה אם אתה יכול להגיד לי איזה מסך הוא למעלה ומה האפשרות היא?\
+	['לחץ על החץ למטה פעם אחת ואז להכנס ל usb', 'תפריט ההתחלה על ההתחלה מהאופציה HDD', 'לא ניתן לענות', 'מצב רוח של בוט', 'אנא בחר מכשיר ההתחלה', 'אנא בחר מכשיר ההתחלה:', 'אנא בחר את מכשיר ההתחלה HDD: pm st9250315as', 'אנא בחר מכשיר ההתחלה', 'כותרת המסך: אנא בחר מכשיר ההתחלה.', 'אנא בחר מכשיר ההתחלה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי איזה טעם זה?\
+	['דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'ד\"ר דיאטה פלפל', 'ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'קולה', 'דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל']	diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של מרק זה?\
+	['מרק ירקות', 'התקדמות', 'מתקדמת', 'לא ניתן לענות', 'ירקות פרגרסו', 'לא ניתן לענות', 'ירקות', 'ירקות פרגרסו', 'ירקות', 'התקדמות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי איזה סוג של מכונית זו?\
+	['לא ניתן לענות', 'לינקולן קרון ויקטוריה', 'איזה סדאן עם 4 דלתות.', 'לינקולן', 'פורד קרון ויקטוריה', 'לינקולן', 'שברולט', 'הכתר ויקטוריה', 'לא ניתן לענות', 'פורד']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. קפה זה?\
+	['גוואליה', 'גוואליה', 'גוואליה', \"ג'אליה אגוז שוויצרי\", 'גוואליה', 'גוואליה', 'גוואליה', 'גוואליה', 'גוואליה', 'גוואליה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', 'מנקה ידיים', \"ג'רמקס\", 'זיהום זיהום ידיים', 'זיהום זיהום ידיים']	בקבוק של מרכיבים על שולחן.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה יכול?\
+	['מרק', 'פירות', 'לא ניתן לענות', 'לא ניתן לענות', 'מרק', 'לא ניתן לענות', 'מרק', 'לא ניתן לענות', 'מגירה', 'מרק']	לא מסוגל לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה?\
+	['חום', 'חום', 'חום', 'חום אלון', 'חום', 'קיר חום', 'עץ', 'חום', 'חום', 'חום']	חום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'יד', 'יד', 'לא ניתן לענות', 'יד', 'יד', 'יד ימין אחת', 'יד', 'יד', 'יד']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הגדרת סיר הקריק?\
+	['כוס', 'גבוה', 'גבוה', 'גבוה', 'גבוה', 'גבוה', 'נמוך', 'גבוה', 'גבוה', 'גבוה']	נמוך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה זה?\
+	['מוצרים לעיוורים', 'cd', 'cd הפוך', 'מוצרים לדיסק עיוור', 'cd', 'דיסק', 'ספר על סידי', 'cd', 'מוצרי cd לעיוורים', \"חנית על ידי ג'יימס הרברט DVD\"]	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מחשבים מנעול מנעול', 'מנעול', 'מוניטור מחשב', 'מסך מחשב', 'מחשב', 'מוניטור מחשב', 'מסך מחשב', 'שולחן העבודה', 'גרף', 'גרף']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה כתוב בבקבוק הזה?\
+	['סוכר וניל חם', 'סוכר', 'סוכר וניל חם', 'סוכר וניל חם', 'קרם גוף עם סוכר וניל חם', 'סוכר וניל חם', 'קרם גוף עם סוכר וניל חם', 'סוכר וניל חם', 'קרם גוף עם סוכר וניל חם', 'סוכר וניל חם']	בקבוק זה לא מכיל מידע מספק על המרכיבים שלו.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש על המסך?\
+	['מסך התקנת חלונות', 'לא ניתן לענות', 'התקנת חלונות', 'התקנת מסך מצב של Windows', 'תקין את Windows', 'התקנת חלונות', 'הוראות להתקנת חלונות', 'התקדמות התקנת חלונות', 'התקנת פרטי Windows', 'חלונות']	מסך המחשב מתאר את ההתקנה של מערכת ההפעלה.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['יכול', 'יכול', 'לא ניתן לענות', 'שעועית בקבוק', 'יכול', 'שעועית', 'לא ניתן לענות', 'שעועית', 'סירוב', 'סירוב']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של משקה זה?\
+	['מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'כתום', 'מיץ תפוזים']	תפוז
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של סופ יש בקופסה הזאת?\
+	['תה', 'נסטה', 'נסטה לימון', 'תה קר', 'נסטה', 'נסטה', 'נסטה', 'תה קר', 'תה קרח', 'צמח']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם זה פיצה פפרוני, פפרוני ונקניקיות, סופרים, איזה סוג?\
+	['פפרוני', 'פפרוני', 'פפרוני', 'פפרוני', 'פפרוני', 'פפרוני', 'כן, אני יודע.', 'פפרוני', 'אמא קוזיס פפרוני קערה רזה', 'פפרוני']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. יש לך מושג איזה סוג של צמח זה באמצע?\
+	['לא, לא.', 'דשא', 'דשא', 'דשא', 'דשא', 'דשא', 'לא, לא.', 'לא, לא.', 'דשא', 'עשב']	שתי צמחים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['משקפיים', 'משקפיים', 'משקפיים', 'משקפיים', 'זוג משקפיים', 'משקפיים', 'זוג משקפיים', 'משקפיים', 'משקפי עיניים', 'זוג משקפיים']	משקפיים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. תאר את המקום הזה.\
+	['משרד', 'שטח משרדים', 'משרד', 'משרד, 2 שולחנות, ארון, 2 כיסאות.', 'משרד', 'משרד', 'שולחנות, כיסאות משרדים שחורים.', 'שולחנות משרדים', 'משרדים 2 שולחנות', 'משרד']	חדר עם שולחן כתיבה וכיסא שחור.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מחברת', 'מתכנן', 'ספר', 'ספר', 'כרטיס', 'מחברת', 'מתכנן', 'מחברת', 'לילי פוליצר, סדר היום ספיריל.', 'מחברת']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['דובון פלדי ורוד', 'דובון.', 'דובון.', 'דובון.', 'דובון.', 'דובון.', 'דוב', 'דובון.', 'דובון.', 'דובון.']	דובון לבן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של תבלין זה?\
+	['מלח ים בצל', 'מלח ים בצל', 'מלח ים בצל', 'מלח ים בצל', 'מלח ים', 'מלח בצל', 'מלח ים בצל', 'מלח ים בצל', 'מלח ים בצל', 'מלח ים בצל']	תבלין
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'דיאטה ד\"ר פלפל', 'ד\"ר דיאטה פלפל', 'דיאטה ד\"ר פלפל']	סודה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה התמונה על הכוס הזאת?\
+	['סרט מצויר', 'דמויות סרטים מצוירים', 'סרט מצויר', 'איש מסתכל על ציפור', 'עוף אדם', 'גבר.', 'איש מצוייר', 'סקיצה ציפור אדם עץ ירח', 'אדם חיה', 'סרט מצויר']	תמונה של חפץ אחר.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['אנשים בחזרה', 'ילד', 'ראש אדם', 'אדם', 'אחורה מישהו ראש כתפיים', 'אחורה, גבר.', 'לא ניתן לענות', 'חולצה אפורה', 'ילד', 'תמונה אחורה אדם']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['דובר', 'דובר', 'רמקול על הקיר', 'דובר', 'דובר', 'דובר', 'רמקול קיר', 'דובר', 'רכבי חתול', 'דובר']	לא מספק מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['מספר טלפון של מונית', 'שום דבר.', 'שום דבר.', 'טלפון', 'מוניות עירוניות', 'קבלה', 'לא ניתן לענות', 'נראה כמו קבלה.', 'קווים', 'מוניות עירוניות']	לא יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	[\"מיקס ג'מבליה בסגנון ניו אורלינס\", \"תערובת ג'מבלייה\", \"תערובת ג'מבלייה\", 'אורז', \"ג'מבלייה\", \"תערובת ג'מבלייה\", \"תערובת ג'מבלייה\", \"אורז ג'מבלייה\", \"קופסה מוכנה של תערובת אורז ג'מבלייה בסגנון ניו אורלינס\", \"תערובת ג'מבלייה\"]	לא יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע הוא המאק שלי?\
+	['כסף', 'לבן', 'שחור', 'לבן', 'כסף', 'כסף', 'כסף', 'כסף', 'לבן', 'כסף']	אפור
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה?\
+	['שעועית אורגנית', 'שעועית אפויה', 'שעועית אורגנית', 'שעועית אפויה', 'שעועית אפויה', 'שעועית אפויה', 'שעועית אפויה', 'שעועית אפויה', 'שעועית אפויה', 'שעועית אפויה']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['מקרוני גבינה', 'לא ניתן לענות', 'מקרוני גבינה', '3 קמבניות גבינה', 'מקרוני גבינה', 'גבינה מקס', 'מקרוני גבינה', 'ארוחת ערב', 'מקרן וגבינה', 'גבינה קשקשים']	מנה מכינה מרק עם גבינה.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	[\"זאטאריין, ניו אורלינס, סטייל ג'מבלייה, מיקס.\", \"תערובת ג'מבלייה\", \"תערובת ג'מבלייה\", \"תערובת ג'מבלייה\", \"תערובת ג'מבלייה\", 'אורז', \"צ'אטרינס, תערובת ג'מבלייה\", \"ג'מבלייה\", \"צ'אטרינס, תערובת ג'מבלייה\", \"תערובת ג'מבלייה\"]	jambalaya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה הדבר הזה?\
+	['ממתקים איכותיים ברחוב', 'קופסת ממתקים', 'ממתקים', 'ממתקים', 'ממתקים קשים', 'ממתקים', 'ממתקים', 'ממתקים', 'רחוב איכותי', 'ממתקים']	לא מספק מסך מלא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. סליחה, תגיד לי מה אתה יכול לראות בדיוק בתמונה הזאת.\
+	['מקרר', 'מקרר', 'מקרר', 'מגש קיר קטן על המקרר', 'מקרר', 'מקרר מיני', 'מקרר מיני', 'דלתות ארונות', 'מקרר לבן', 'מקרר']	מקרר לבן קטן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה הדבר הזה בקופסה אומר?\
+	['נכדים מקסימים.', 'משהו על נכדים מקסימים.', 'מענג.', 'אין דבר יותר מקסים מאשר נכדים.', 'מעט דברים מעניינים יותר מאשר נכדים שנלחמים על הברכיים שלך.', 'נכדים מקסימים.', 'נכדים מקסימים.', 'מעט דברים מעניינים יותר מאשר נכדים שנלחמים על הברכיים שלך.', 'לא ניתן לענות', 'נכדים מקסימים.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איך נראה השמיים?\
+	['ברור', 'שקיעה שקיעה', 'כחול', 'שקיעה', 'כחול', 'ברור', 'ברור', 'שקט.', 'כחול בהיר', 'כחול בהיר כחול קרוב לאופק']	שמיים כחולים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע החולצה הזאת?\
+	['שחור', 'חום', 'שחור', \"בוג'\", \"בוג'\", 'ורוד', 'חום', 'שחור', 'זהב', 'צבע אפור']	חום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. הוא בן או בת?\
+	['לא ניתן לענות', 'ילד', 'ילד', 'ילדה', 'ילד', 'ילד', 'ילד', 'ילד', 'ילד', 'ילד']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה, אתה יכול להגיד לי מה זה?\
+	['דגנים', 'שמחים.', 'דגנים', 'שמחים.', 'לא ניתן לענות', 'דגנים', \"צ'יריוס דבש\", '\"שרירי עכשיו יותר טעימים, מותק\".', 'מותק.', 'מותק.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה?\
+	['אדום צהוב לבן כחול', 'צבע', 'ירוק כחול לבן אדום', 'רב צבעי', 'חיוור', 'צבע', 'כחול ירוק לבן אדום', 'צבע', 'צבע כחול לבן ירוק', 'כחול ירוק אדום לבן']	חום ירוק לבן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['קקאו חם', 'תערובת קקאו חמה', 'תערובת קקאו חמה', 'תערובת קקאו חמה', 'תערובת קקאו', 'קקאו חם', 'שוקולד חם', \"צ'וקולד חם\", 'חבילת שוקולד חם', 'שוקולד חם']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['לא ניתן לענות', 'בירה קלה מיוחדת', 'בירה', 'לא ניתן לענות', 'לא ניתן לענות', 'בירה', 'בירה', 'בירה', 'בירה', 'אור מיוחד']	בירה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה עוף או סלרי?\
+	['עגבניות', 'עגבניות', 'עגבניות', 'עגבניות', 'לא, לא.', 'עגבניות', 'מרק עגבניות', 'עגבניות', 'עגבניות', 'לא, לא.']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['מקבוק פרו', 'מקבוק פרו', 'מק מקו פרו', 'מקבוק פרו', 'מק מקו פרו', 'מקבוק פרו', 'מקבוק פרו', 'ספר אוויר פרו', 'מקבוק פרו', 'מקבוק פרו']	לא מספק מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני רוצה לדעת מה יש בקופסה הזאת.\
+	['שעועית אפויה', 'שעועית אפויה', 'שעועית', 'שעועית אפויה ברוטב עגבניות', 'נערה חקלאית שעועית אפויה', 'שעועית אפויה', 'שעועית אפויה', 'שעועית', 'שעועית אפויה', 'שעועית']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['עוף', 'לא ניתן לענות', 'עוף פרמזן שמנקה', 'מזון', 'ארוחת ערב טלוויזיה', 'מזון', 'גבינה מקס', 'מזון', 'ארוחה של מרי קולנדרס', 'עוף פרמזן שמנקה']	לא I can not answer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['שטר דולר', 'שטר של דולר אחד', 'דולר', 'שטר של דולר אחד', '1', 'שטר של דולר אחד', 'שטר דולר', 'שטר של דולר', 'שטר של דולר אחד', 'שטר דולר אמריקאי']	שטר דולר אמריקאי
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['קלפים', 'שני מלכים', 'זוג מלכים', 'קלפים', 'כרטיסים', 'כרטיסים', 'קלפים', 'זוג', 'כרטיסים', 'קלפים']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה שחור או כחול?\
+	['לא ניתן לענות', 'שחור', 'שחור', 'שחור', 'שחור', 'שחור', 'שחור', 'אפור', 'אפור שחור', 'שחור']	grey
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על המסך?\
+	['תיבת טקסט של חיפוש גוגל', 'גוגל', 'גוגל', 'גוגל, תבדוק בגוגל, אני מרגיש בר מזל.', 'גוגל', 'חיפוש גוגל', 'לא ניתן לענות', 'גוגל', 'גוגל', 'לא ניתן לענות']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['בשר בקר צלוי', 'בשר בקר צלוי', 'בשר בקר צלוי', 'בשר בקר צלוי', 'מזון', 'בשר בקר צלוי', 'בשר בקר צלוי', 'בשר בקר צלוי', 'בשר בקר צלוי מסורתי', 'בשר בקר צלוי מסורתי']	ארוחה מכינה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סודה זה?\
+	['ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל', 'ד\"ר פלפל']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['משמר מרחוק טלוויזיה', 'משלט מרחוק', 'משלט מרחוק', 'מרחוק', 'משלט מרחוק', 'מרחוק', 'משלט מרחוק', 'משלט מרחוק', 'מרחוק', 'שליטה מרחוק']	שלט רחוק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['צמח בית', 'צמח', 'צמח בית', 'צמח', 'צמח', 'צמח', 'צמח', 'צמח בקיבוי', 'צמח', 'צמח בית']	צמח
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה הדבר הזה?\
+	['שולחן עבודה', 'מחשב', 'שולחן עבודה', 'שולחן עבודה', 'שולחן עבודה', 'שולחן עבודה', 'שולחן מחשב', 'שולחן עבודה', 'שולחן עבודה', 'מחשב שולחן על']	שולחן מחשב
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש על השולחן שלי?\
+	[\"אייפוד טאץ'\", 'אפליקציות', 'טלפון', 'נייר לטלפון חכם', 'נייר לטלפון חכם', 'טלפון', 'טלפון', 'טלפון', 'טלפון סלולרי', 'טלפון']	טלפון סלולרי
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה צילמתי?\
+	['אייפד', 'תמונה של תיק קפה ליד אייפד.', 'טבליות', 'אייפד', 'תצוגת כניסה ל-Hulu', 'חוליפלוס', 'טבלית עם ה-Hulu plus', 'טבלט Hulu בתוספת כניסה', 'מסך שלולפלוס', 'מסך כניסה ל-Hulu plus על טאבלט']	שולחן עבודה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה הבקבוק הזה?\
+	['שמפו', 'שמפו', 'לא ניתן לענות', 'סקס', 'אהובתי.', 'לא ניתן לענות', 'טיפול בשיער tresemme', 'שמפו', 'בושם', 'שמפו של tresemme']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה מודל של?\
+	['סודה', 'ספריט', 'בקבוק סודה', 'ספריט', 'לא ניתן לענות', 'סודה ספריט', 'ספריט', 'בקבוק ספריט', 'לא ניתן לענות', 'ספריט']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה המוצר הזה?\
+	[\"צ'קס מיקס\", \"צ'קס מיקס\", \"צ'קס מיקס\", \"צ'קס מיקס צ'דר\", \"צ'קס מיקס\", \"צ'קס מיקס\", 'תערובת שף', \"צ'קס מיקס\", \"צ'קס מיקס\", \"צ'קס\"]	צ'יפס
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['תרנגול הודו מעושן', 'פאניני תרנגול הודו מעושן', 'פאניני תרנגול הודו מעושן', 'פאניני תרנגול הודו', 'פאניני תרנגול הודו מעושן', 'פאניני תרנגול הודו מעושן', 'ממלאת סטיופר', 'פאניני', 'תרנגול הודו מעושן', 'פאניני תרנגול הודו מעושן']	בשר טורקיה מעושן פנאי
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אילו אותות אני מקליד כדי לזכות בפרס?\
+	['מווג', 'מווג', 'מווג', 'מווג', 'מווג', 'מווג', 'מווג', 'מווג', 'מווג', 'מווג']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של פח זה?\
+	['עגבניות', 'סאוס', 'עגבניות', 'עגבניות מרוסקות', 'עטיפה', 'עגבניות', 'עגבניות', 'עגבניות בקופסאות', 'עגבניות', 'עגבניות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של כוס קיוריג זה?\
+	['בית הסופגניות', 'קפה', 'קופסה', 'סופגניות', 'אוסף בית הסופגניות', 'סופגניות', 'סופגניות', 'אוסף של בושת סופגניות', 'חור סופגניות', 'אוסף בושם']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה תגיד לי את שם הספר הזה?\
+	['שחר ירח', 'לא ניתן לענות', 'מחבר קליב קוסלר דירק קוסלר', 'רק שמות המחברים מופיעים ללא כותרת', 'קליב קוסלר, דירק קוסלר.', 'קליב קוסלר', 'קליב קוסלר, דירק קוסלר.', 'קליב קוסלר, דירק קוסלר.', 'קליב קוסלר, דירק קוסלר.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['כסף', 'כסף', 'שטר של 20 דולר.', 'כסף', '20 דולר.', '20 דולר.', '20 דולר.', 'שטר של עשרים דולר', 'חשבון של 20.00', 'שטר של 20 דולר.']	$10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה שמפו או שטיפת גוף?\
+	['קרם', 'קרם גוף', 'קרם', 'קרם גוף', 'קרם גוף מפוחר', 'קרם גוף', 'קרם גוף', 'קרם', 'קרם גוף', 'קרם גוף']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בתמונה הזאת?\
+	['קרקרים', 'קרקרים', 'קופסת קרקרים', 'קופסת קרקרים', 'קרקרים', 'קרקרים', 'קרקרים', 'קרקרים', 'קרקרים', 'קרקרים']	תקריב של קופסה של קרקרים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה התמונה הזאת?\
+	['טלפון', 'מקבוק פרו', 'מקבוק פרו', 'מוניטור מחשב', 'לא ניתן לענות', 'מחשב נייד', 'מחשב', 'מקבוק פרו', 'מסך של MacBook Pro', 'מחשב נייד']	מסך מחשב נייד עם כתמים על זה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מים', 'מים', 'מים קריסטליים טבעיים', 'טבעים מים קריסטליים', 'בקבוק מים', 'בקבוק מים', 'בקבוק מים', 'מים', 'בקבוק מים', 'מים']	בקבוק מים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין פיצה זו?\
+	['פפרוני', 'אמא מתוקה.', 'אמא מתנשאת בפיצה רזה.', 'פפרוני', 'פיצה קפואה', 'פפרוני', 'רזה', 'פפרוני קוסט דק מאמא קוזיס', 'אמא מתוקה, פפרוני עם קערה רזה.', 'אמא מתוקה.']	פיצה פפרוני
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['תירס מלא', 'תירס', 'תירס', 'תירס', 'תירס מלא', 'תירס מלא', 'תירס', 'אוכל בעל ערך רב יכול', 'תירס', 'תירס']	חלבית
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['עכבר', 'עכבר מחשב', 'עכבר מחשב', 'עכבר מחשב', 'עכבר מחשב', 'עכבר עם חוט של HP', 'עכבר מחשב', 'עכבר מחשב', 'עכבר HP', 'עכבר']	עכבר מחשב
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['משרד', 'כיסאות', 'משרד', 'כיסא משרד', 'כיסא', 'כיסא שולחן', 'משרד בית', 'משרד', '2 כיסאות שולחן', 'כיסא']	לא מספק מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['טלוויזיה', 'טלוויזיה', 'טלוויזיה', 'מסך טלוויזיה ישן', 'טלוויזיה', 'טלוויזיה', 'מנעול', 'מסך טלוויזיה', 'טלוויזיה', 'מנעול']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע החולצה שלי?\
+	['שחור לבן', 'כחול לבן שחור', 'שחור', 'כחול', 'חיל הים', 'סמל לבן שחור', 'שחור לבן', 'כחול', 'כחול', 'שחור לבן']	חולצה כחולה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה?\
+	['אדום', 'אדום', 'אדום', 'אדום', 'ורוד', 'אדום', 'אדום', 'אדום', 'אדום', 'אדום']	אדום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם אלה צ'יפס רגילים או צ'יפס מלוח וחתל?\
+	['מלח', 'רגיל', 'רגיל', \"צ'יפס רגיל\", 'רגיל', 'רגיל', 'לא ניתן לענות', 'לא ניתן לענות', 'רגיל', 'לא ניתן לענות']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של קרטון זה? מיץ תפוזים או חלב?\
+	['מיץ תפוזים', 'מיץ תפוזים', 'או', 'מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'מיץ תפוזים', 'כתום', 'מיץ תפוזים', 'קרטון נייר מיץ תפוזים']	מיץ תפוזים
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה זה?\
+	[\"צ'יפס\", \"צ'יפס\", \"צ'יפס\", \"צ'יפס תפוחי אדמה\", \"צ'יפס תפוחי אדמה\", \"צ'יפס בצל מלוט\", \"צ'יפס\", \"צ'יפס תפוחי אדמה\", \"צ'יפס\", \"צ'יפס תפוחי אדמה\"]	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בתיק הזה?\
+	['לא ניתן לענות', 'ירקות קפואים', 'ירקות', 'גזרים אפונה תירס שעועית ירוקה', 'ירקות', 'אפונה גזרים תירס', 'ירקות מעורבים', 'ירקות', 'ירקות מעורבים', 'תירס גזרים שעועית חמוצית אפונה']	ירקות קצוץ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה טעם של ניצוץ זה?\
+	['לימונדה ורודה', 'לימונדה ורודה', 'לא ניתן לענות', 'לימונדה ורודה', 'לא ניתן לענות', 'לימונדה ורודה', 'כתום', 'תותח', 'לא ניתן לענות', 'לימונדה ורודה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	[\"מנג'וויץ'\", 'לא ניתן לענות', 'לא ניתן לענות', \"מנג'וויץ'\", \"מנג'וויץ'\", \"מנג'וויץ'\", 'עגבניות', \"מנג'וויץ'\", \"מנג'וויץ'\", \"ג'ו מטומטם.\"]	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזו עונה אנחנו?\
+	['ספגטי', 'ספגטי', 'תבלינים לספגטי', 'תבלינים לספגטי', 'ספגטי', 'תבלינים לספגטי', 'תבלינים לספגטי', 'ספגטי', 'ספגטי', 'תבלינים לספגטי']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['ספר', 'מגזין', 'מגזין אנכי', 'מגזין', 'מגזין אנכי', 'מגזין', 'מגזין', 'מגזין סחרחורת', 'מגזין', 'מגזין']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['קיר', 'קיר', 'קיר', 'קיר', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'קיר', 'קיר', 'קיר']	לא מסוגל לראות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['ממתקים', 'סוכריות קשות של תותים', 'ממתקים', 'סוכריות קשות של תותים', 'ממתקים', 'ממתקים של תותים', 'סגגגר', 'ממתקים של תותים', 'ממתקים', 'סוכריות קשות של תותים']	תפוח אדום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע הנעליים האלה?\
+	['חום', 'שחור', 'חום', 'חום', 'חום', 'חום', 'חום', 'רגל', 'חום', 'קירוב']	חום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מסך מחשב', 'דף אינטרנט', 'לא ניתן לענות', 'לא ניתן לענות', 'אתר אינטרנט', 'מסך מחשב', 'מוניטור מחשב', 'סעיף', 'קובץ PDF עבור vizwiz', 'vizwizpdf מטושטש אבל יכול לראות את חלק התורמים']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה התמונה הזאת?\
+	['מנעול', 'מחשב נייד', 'טלוויזיה', 'מחשב', 'מחשב נייד', 'טלוויזיה', 'טלוויזיה עם מסך שטוח', 'מסך מחשב נייד', 'טלוויזיה', 'לא ניתן לענות']	מסך מחשב שחור עם רק אור בוהק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['טלפון סלולרי', 'טלפון סלולרי', 'פייגר', 'לא ניתן לענות', 'טלפון', 'טלפון סלולרי', 'טלפון סלולרי בלקברי', 'טלפון סלולרי', 'טלפון סלולרי', 'טלפון סלולרי']	טלפון סלולרי אדום
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מקרר', 'לא ניתן לענות', 'מקרר', 'מקרר חדר לימודים', 'מקרר', 'מקרר', 'מקרר', 'מקרר מיני', 'מקרר', 'מקרר מיני']	מקרר קטן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע של תכשיטים אני צריך ללבוש עם התלבושת הזאת?\
+	['כסף', 'כסף', 'לבן', 'זהב', 'שחור', 'כסף', 'כסף', 'כסף', 'כסף', 'כסף']	לבן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['רגל', \"ג'ינס\", 'ירך', 'רגלי מכנסיים', 'ספה עם זרוע', 'מכנסיים', 'כרית', 'לא ניתן לענות', 'רגלי מכנסיים', 'רגל']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['כלב', 'לא ניתן לענות', 'כלב', 'כלב', 'כלב', 'כלב', 'כלב', 'כלב', 'לא ניתן לענות', 'כלב על הרצפה']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מרחוק', 'מרחוק', 'משלט מרחוק', 'מקרן טלוויזיה', 'משמר מרחוק טלוויזיה', 'משלט מרחוק', 'מרחוק', 'מרחוק', 'משלט מרחוק', 'משלט מרחוק']	שלט רחוק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. הבננות האלה ירוקות או צהובות?\
+	['ירוק קל', 'צהוב', 'צהוב', 'צהוב', 'ירוק', 'צהוב', 'צהוב', 'צהוב', 'צהוב', 'צהוב']	צהובות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה המוצר הזה?\
+	['דגנים', \"קשי ג'ו רזה, קרנק, דבש, שקדים, שושן.\", \"קשי ללכת קרנץ' רזה\", \"גולן קרנץ' קאשי\", 'דגנים', 'לכו דגנים רזים', 'לכו לרזות.', \"קשי ג'ו רזה, קרנק, דבש, שקדים, שושן.\", 'דגנים', 'דגנים']	cereal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה מופיע כרגע על המסך?\
+	['שום דבר.', 'שום דבר.', 'שום דבר לא נעלם.', 'שום דבר.', 'שום דבר.', 'שום דבר.', 'שום דבר.', 'שום דבר.', 'לא ניתן לענות', 'שום דבר.']	שלט
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['בשר', 'סטייק בשר בקר', 'בשר בקר', 'סטייק חבילה', 'בשר', 'בשר', 'לא ניתן לענות', 'סטייק בשר בקר', 'סטייק', 'בשר']	בשר
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב בהודעה הזאת?\
+	['לא ניתן לענות', 'להחזיר מלא', 'לא ניתן לענות', 'שיקום שלם', 'שיקום שלם', 'לא ניתן לענות', 'שיקום שלם', 'שיקום שלם', 'שיקום שלם', 'שיקום שלם']	לא נותן לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של אוכל יש בקופסה הזאת?\
+	['מרק', 'מרק ירקות גן פרוגרסו', 'מרק ירקות גן', 'מרק ירקות', 'מרק ירקות גן', 'מרק ירקות גן', 'מרק', 'מרק ירקות גן פרוגרסו', 'ירקות גינה', 'מרק ירקות גן']	קערת מרק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'יכול', 'מרק אפונה מפוצל', 'מרק אפונה מפוצל', 'מרק אפונה מפוצל', 'מרק אפונה מפוצל', 'מרק', 'יכול לחלק מרק אפונה', 'מרק אפונה מפוצל', 'מרק']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה ספה או שולחן?\
+	['טבלה', 'טבלה', 'טבלה', 'טבלה', 'טבלה', 'טבלה', 'טבלה', 'טבלה', 'טבלה', 'השולחן הזה.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה אוכל יש בקופסה הזאת?\
+	['רוויולי', 'רוויולי', 'רוויולי', 'תירס', 'רוויולי', 'רוויולי', 'רוויולי', 'רוויולי', 'מזון רביולי', 'רוויולי']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש על המסך?\
+	['הודעה על שגיאה', 'פופ-אפים עבור תיקון סטארט-אפ', 'תחזור', 'תיבת דיאלוג שאומרת שאתה בטוח שאתה רוצה לצאת תיקון התחלה להפעיל מחדש את המחשב', 'תיקון התחלה', 'הוראות עדכון Windows', 'לא ניתן לענות', 'תיקון התחלה', 'אפשרות להפעיל מחדש את המחשב', 'תיקון התחלה']	מסך מחשב עם מסך תפריט
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בוא ננסה את זה, אתה יכול להגיד לי מה זה?\
+	['שעועית', 'שעועית אפויה', 'שעועית', 'שעועית אפויה', 'שיחים שעועית אפויה', 'יכול', 'שעועית בקבוק', 'שיחים שעועית אפויה', 'שעועית אפויה', 'שעועית']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי איזה סוג של טלפון זה?\
+	['ג', \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", \"ג'י.ג.\", 'אנדרואיד', \"ג'י.ג.\", 'כן, אני יודע.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['טלפון חכם', 'טלפון סלולרי', 'טלפון סלולרי', 'טלפון', 'טלפון סלולרי', 'טלפון סלולרי', 'טלפון סלולרי', 'טלפון חכם', 'טלפון', 'טלפון']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מחשב נייד', 'יד', 'מנגנון למחשב נייד', 'יד', 'אצבעות', 'יד', 'לא ניתן לענות', 'לא ניתן לענות', 'שולחן עבודה', 'יד']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['קברנט 2009', 'יין', 'יין', 'יין', 'קברנה סאוויניון', 'יין בקבוק', 'יין', 'יין', 'יין קברנט קולומביה 2007', 'יין']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בבקבוק הזה?\
+	['קוקאין', 'סודה פופ אולי קוקה קולה', 'סודה', 'קוקה קולה סודה', 'סודה', 'סודה', 'קוקאין', 'סודה', 'קוקאין', 'סודה']	בקבוק פלסטיק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה בבקשה.\
+	['קו אדום לבן', 'אדום', 'קווי לבן אדומים', 'קווי לבן אדומים', 'אדום לבן', 'לבן אדום', 'חולצה', 'אדום לבן', 'אדום לבן', 'אדום לבן']	red white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בתיק הזה?\
+	['ברוקולי', 'ברוקולי', 'ברוקולי', 'ברוקולי', 'ברוקולי', 'אבל ברוקולי.', 'ברוקולי', 'ברוקולי חתוך', 'בפיאום, מגישים ברוקולי חתוך.', 'ברוקולי']	ברוקולי פרוס
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בשביל מה זה קופון?\
+	['יוגורט', 'יוגורט', 'יוגורט יופלייט', 'יוגורט יופלייט 10$', 'יופלייט', 'יוגורט יופלייט 10$', 'יוגורט יופלייט', 'יוגורט', 'הנחה', 'יוגורט']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין פופ זה?\
+	['נסטה', 'תה קר', 'לימון', 'נסטה לימון', 'נסטה', 'נסטה', 'נסטה', 'נסטה', 'פסטיבה', 'נסטה']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['אייפד', 'טבליות', 'מחשב', 'אייפד', 'סלולרי עכבר', 'מחשב נייד', 'חלון', 'טבליות', 'לא ניתן לענות', 'אייפד']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש על המסך?\
+	['האם אתה רוצה להחזיר את המחשב שלך באמצעות מערכת להחזיר מופיע', 'הודעה על שגיאה', 'האם אתה רוצה לשחזר את המחשב שלך באמצעות מערכת לשחזר', 'התחלה', 'מסך אבחון בתשלום ההתחלה', 'שאלות שיחזור מערכות: האם אתה רוצה להשתמש כדי לשחזר את המחשב שלך', 'תיקון התחלה', 'תיקון התחלה', 'שאלה לשחזר את המחשב.', 'האם אתה רוצה לשחזר את המחשב שלך באמצעות מערכת לשחזר']	מסך מחשב עם מסך פתוח
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. תודה רבה על הזמן שלך לענות.\
+	['ספריט', 'ספריט', 'ספריט', 'ספריט', 'ספריט', 'ספריט', 'ספריט', 'ספריט', 'ספריט', 'ספריט']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על המסך?\
+	['האם אתה רוצה לשחזר את המחשב שלך באמצעות סידי מערכת', 'להחזיר', 'האם אתה רוצה לשחזר את המחשב שלך באמצעות מערכת', 'המחשב שלך לא הצליח להתחיל להתחיל תיקון לבדוק את המערכת שלך עבור בעיות', 'האם אתה רוצה לשחזר את המחשב שלך באמצעות מערכת', 'תיקון התחלה', 'המחשב שלך לא יכול להתחיל', 'המחשב שלך לא הצליח להתחיל. החלקה. תיקון.', 'המחשב לא יכול להתחיל', 'להחזיר']	לא ניתן לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['ירקות', \"רוג'רווג\", 'ירקות מעורבים', 'צמחוני מקורי', 'ירקות מעורבים', 'ירקות', \"ג'ק\", 'ירקות', 'ירקות', 'ירקות מעורבים']	ירקות קצוץ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה אתה יכול לראות בתמונה מה אתה יכול לראות בתמונה\
+	['שום דבר.', 'שמיים', 'כיור', 'שמיים', 'לא ניתן לענות', 'שמיים', 'שום דבר.', 'לא ניתן לענות', 'לא ניתן לענות', 'שמיים']	תמונה מטושטשת
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סודה?\
+	['קוקה קולה', 'קוקה קולה', 'קוקה קולה', 'קוקה קולה', 'קוקה קולה', 'קוקה קולה 0', 'קוקה קולה 0', 'קוקוס 0', 'קוקה קולה 0', 'קוקה קולה 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מין מערכת זו?\
+	['שולחן העבודה', 'לא ניתן לענות', 'חלונות', 'מחשב שולחן העבודה', 'חלונות', 'חלונות', 'חלונות', 'מחשב Windows', 'חלונות', 'חלונות']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['דובר', 'דוברים', 'רצפה', 'דוברים', 'מערכת רמקולים', 'דובר', 'דובר', 'דובר', 'דובר', 'דוברים']	לא מסוגל לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה מפקח אור על המחשב הנייד?\
+	['כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'לא, לא.', 'כן, אני יודע.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה כתוב בבקבוק הזה?\
+	['קרם גוף עם סוכר וניל חם', 'סוכר וניל חם', 'סוכר וניל חם', 'סוכר וניל חם', 'קרם גוף עם סוכר וניל חם', 'סוכר וניל חם', 'קרם סוכר וניל חם', 'סוכר וניל חם', 'קרם גוף עם סוכר וניל חם', 'ונילה חמה']	בקבוק זה לא מכיל מידע מספק על המרכיבים שלו.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי את המספר 1-800 של הכרטיס הזה, ואתה מסוגל לשמוע את השאלה הזאת?\
+	['1 800 735 2929 לא שומע אותך', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 לא', '18773289677 לא', '1 877 328 9677', '8007352929 לא']	1 877 328 9677
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האורות בחדר דלקים או כבויים?\
+	['נעלמו את האורות.', 'מנותק', 'על', 'מנותק', 'על', 'לא ניתן לענות', 'על', 'על', 'על', 'על']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה טעם זה?\
+	['דובדבן', 'לימונדה ורודה', \"פונץ' פירות\", 'לימונדה ורודה', 'לימונדה ורודה', 'לא ניתן לענות', 'לא ניתן לענות', 'לימונדה ורודה', 'דובדבן', 'לימונדה ורודה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב בהודעה הזאת?\
+	['שיקום שלם', 'לא ניתן לענות', 'השיקום המוצלח הושלם.', 'שיקום שלם', 'שיקום שלם', 'שיקום שלם', 'שיקום שלם', 'הרישום הושלם', 'שיקום שלם', 'שיקום שלם']	לא נותן לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע החולצה שלי?\
+	['לבן', 'לבן', 'לבן', 'לבן', 'לבן', 'לבן', 'לבן', 'לבן', 'לבן', 'לבן']	לבן
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['שמפו לטרפיה צבעית מתקדמת', 'שמפו', 'שמפו לטרפיה צבעית מתקדמת', 'שמפו', 'שמפו לטיפול בצבע', 'שמפו', 'טיפול בצבע', 'שמפו', 'טיפול בצבע מתקדם', 'טיפול בצבע']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['פחיות', 'מזון לחתולים', 'לא ניתן לענות', 'כיור', 'יכול', 'כיור', 'כביסה', 'כיור', 'כיור', 'יכול']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה משחק וידאו זה?\
+	['ספין נפל 2K', 'כדורגל', 'נפל 2K', 'ספין נפל 2K5', 'ספין 2K5', 'ספורט ESPN 2K', 'נפל 2K', 'כדורגל', 'נפל 2K', 'כדורגל']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['פאניני', 'פאניני', 'פאניני תרנגול הודו מעושן', 'פאניני תרנגול הודו מעושן', 'פאניני תרנגול הודו מעושן', 'פאניני של תרנגול הודו מעושן', 'פאניני תרנגול הודו', 'לא ניתן לענות', 'פאניני תרנגול הודו מעושן', 'פאניני תרנגול הודו מעושן']	חתיכת אוכל
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['לאזניה', 'ארוחת ערב קפואה', 'לאזניה מיוחדת', 'לאזניה מיוחדת', 'לאזניה', 'לאזניה מיוחדת', 'לאזניה', 'לאזניה', 'לאזניה', 'לאזניה']	לאוכל
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['טבע עמק שועל שוקולד כהה בר גרנולה', \"בר קרנץ'\", 'חטיף גרנולה', 'חטיף גרנולה', 'חטיף גרנולה', 'חטיף גרנולה', 'אווס עמק הטבע n שוקולד כהה בר', 'שועל n שוקולד כהה בר חריף', 'שוקולד כהה ברנגולת', 'חטיף גרנולה']	לא I can not answer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['משחק וידאו', 'משחק ל-Playstation 2', 'משחק קרב מלחמת הכוכבים ל-Playstation 2', 'משחק סטציה מלחמת הכוכבים', 'משחק וידאו', 'משחק וידאו', 'מלחמת כוכבים קרב 2', 'משחק', 'משחק ל-Playstation 2', 'משחק פיסי']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של שותף לקפה זה?\
+	['ונילה צרפתית', 'ונילה צרפתית', 'ונילה צרפתית', 'צמח', 'וניל', 'ונילה צרפתית', 'קפה מאט', 'ונילה צרפתית', 'ונילה צרפתית', 'ונילה צרפתית']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['מיץ תפוזים', 'מיץ', 'מיץ', 'מיץ תפוזים', 'מיץ', 'רך ומרגש', 'חלק n עסיסי', 'מיץ', 'מיץ תפוזים', 'מיץ']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע האבן בחרוזת הזאת?\
+	['ורוד', 'אדום', 'אדום', 'ורוד', 'סגול', 'ורוד', 'ורוד', 'ורוד', 'ורוד', 'ורוד']	ורוד
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על התווית של המכשיר האלקטרוני הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא נותן תיאור
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה בדיוק כתוב על המסך הזה, אם אתה יכול לקרוא את זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לקרוא את המסך.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא יכול לקרוא.', 'לא ניתן לענות']	לא מסוגל לראות את הטקסט שכתוב על המסך, לכן אינני יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בבקבוק הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'קרם', 'ויטמינים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא בטוח.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הטעם של הבר האנרגיה הזה?\
+	['תותח', \"קרנץ' של אגוזים\", 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'קריץ תפוחים', 'לא ניתן לענות', 'לא ניתן לענות', \"קרנץ' של אגוזים\"]	בננה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תשומת לב', 'n', 'לא ניתן לענות', 'לא ניתן לענות', 'חדשות', 'לא ניתן לענות']	לא יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של ארוחה זו?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אז אני מנסה להבין איזה סוג של רדיו זה, אז כל מידע כדי שאוכל להשיג אחד משלי, זה יהיה נהדר, תודה.\
+	['אני לא יודע.', 'לא ניתן לענות', 'לא ניתן לענות', 'אולי דוק רמקולים IP9 בבית', 'לא ניתן לענות', 'חזיר', 'לא ניתן לענות', 'נייד', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני כל כך מצטערת, אני לא יודעת איך... מעולם לא צילמתי תמונה של דבר כזה.\
+	['תתרחק קצת יותר כדי שהמצלמה תתמקד.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מהם הוא הסרט הטוב ביותר?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'פשוטה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['הסלון הזה', 'ורוד', 'לא ניתן לענות', 'סגול', 'לא ניתן לענות', 'לא ניתן לענות', 'זוהר', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא נותן תשובה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השם של המתרק הזה?\
+	['לא ניתן לענות', 'נוקסמה', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מתי זה פוסל?\
+	['9.27.13', 'לא ניתן לענות', 'לא ניתן לענות', '23 בספטמבר 2013', '23 בספטמבר 2013', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '23 בספטמבר 2013', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה זמן אני מבשל את זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'חמש דקות.', 'לא ניתן לענות', 'לא ניתן לענות', 'חמש דקות.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	5 דקות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['סרוגים', 'פינה', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'טלפון', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא נראה תמונה.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השיר הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'באג בתמונה', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'חפרפרת']	לא יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב מתחת לחלונות לא יכול לתקן את המערכת הזאת אוטומטית?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תיקון התחלה לא יכול לתקן את המחשב הזה באופן אוטומטי', 'לא ניתן לענות', 'התחלה', 'החל תיקון לא יכול לתקן את המחשב הזה באופן אוטומטי', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה נתרן יש בחבילה הזאת?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'סמואה', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. על המסך כתוב שהוא מתאושש?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה וילון?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תמשיך ללמוד.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איך קוראים למתווך הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '0', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הצבע?\
+	['אדום לבן', 'לא ניתן לענות', 'לבן', 'לבן', 'לא ניתן לענות', 'אדום לבן', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה תסביר לי מה כתוב על התווית על המדרג שלי תודה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה תאריך התפוגה של כרטיס האוטובוס הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. רק תגיד.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'זנו', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה אומר, מה זה אומר\
+	['לא ניתן לענות', 'לא ניתן לענות', 'שורות עמודות מספרים מטושטשים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השעה? -שעה אחת.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'פלאש על מצלמה מספקת שעון לא יכול לקרוא', 'לא נראה', 'לא ניתן לענות', 'לא ניתן לענות', 'לא יודע.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם תוכל לומר לי את הוראות השימוש של השמפו הזה? תודה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'ע\"י', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. יש כפתור שאני צריך ללחוץ עליו כדי שזה ימשיך או שאני פשוט צריך לחכות?\
+	['מערכת להמשיך', 'לא ניתן לענות', 'כן, אני יודע.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'חכה.', 'תתחבר.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אם הכרטיס מופיע בתמונה הזאת, מה הוא אומר?\
+	['לא ניתן לענות', 'לא מופיע', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'אין מילים.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. הבדיקה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'מרחוק', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מרחק הקול הסביבתי', 'השאלה לא חלה על התמונה.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. משחק מילים אמיתי.\
+	['לא ניתן לענות', 'לא ידוע', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני מתעסק עם קפטשה אבל אני לא יכול לראות את המסך ואני צריך אותו כדי לבקש משהו מאתר אינטרנט. אתה יכול להגיד לי מה זה קפטשה?\
+	['לא 1', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני יודע שזה אומר עשרת המצוות, אבל מה הן עשרת המצוות?\
+	['קבע את החוקים שנתן אלוהים לאמונה שלו', 'לא ניתן לענות', 'לא ניתן לענות', 'כללי מוסר', 'לא ניתן לענות', 'מצוות האלים', 'לא ניתן לענות', 'לא ניתן לענות', 'חוקים', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על המסך של המחשב שלי?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מטושטש מדי.', 'מסך ריק']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של נוסח תינוק זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'אני לא רואה חלב תינוק.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה התרופה הזאת?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה קלף זה?\
+	['לא ניתן לענות', 'כרטיס אשראי אדום', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'כרטיס אשראי', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב בכרטיס הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'רק 16 12 נראים', 'לא ניתן לענות', 'שום דבר.', 'לא ניתן לענות', '1 6 12', 'לא ניתן לענות', 'לא ניתן לענות']	לא ניתן לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['סבון', 'מוצר', 'לא ניתן לענות', 'חלב', 'לא ניתן לענות', 'לא ניתן לענות', 'טיפות עיניים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אוקיי, איזה סוג של בשר מונח זה שוב?\
+	[\"קישורים של ג'ק\", 'דס', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'בשר בקר', 'לא ניתן לענות', 'בשר בקר', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בשביל מה זה כרטיס מתנה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'תמונה בלתי ניתנת לתשובה.', 'לא ניתן לענות', 'לא יודע.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של מזון ממוזג זה?\
+	['לימונים', 'לא ניתן לענות', 'לימונים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לימונים', 'לא ניתן לענות', 'לימון']	limes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השעה? -שעה אחת.\
+	['לא ניתן לענות', '532', 'לא ניתן לענות', 'לא ניתן לענות', '5:13', '5:13', 'לא ניתן לענות', '5:10', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המוצר בקופסה הזאת?\
+	['לא יודע.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם אתה יכול להגיד לי מה הטמפרטורה הקונבנציונלית של התנור וכמה דקות האם אני צריך לחדור את המכסה? תודה רבה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'א-אס-די-איי', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. התנור נראה מוכן?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא תנור', 'לא ניתן לענות', 'לא ניתן לענות', 'כן, אני חושב שאני מוכן.', 'לא, לא.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה עזר?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מהו הקוד שצריך להקליד?\
+	['לא ניתן לענות', 'דואר אלקטרוני', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה חולצה אני לובש?\
+	['לא ניתן לענות', 'משי', 'לא ניתן לענות', 'לא ניתן לענות', 'לבן', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי איזה סוג של ארוחת ערב קפואה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תמונה ריק', 'שום דבר.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא מסוגל לראות תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזו מותג זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'סניו', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הגדרת הטמפרטורה של התנור?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', \"ג'ף-די-ג'י\", 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול בבקשה לומר מה יש בבקבוק הזה?\
+	['רוטב עגבניות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'רוטב מאסטה', 'לא ניתן לענות', 'לא ניתן לענות', 'רוטב עגבניות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['לא ניתן לענות', 'טבליות azithromycin 250 מ\"ג', 'טבליות', 'לא ניתן לענות', 'לא ניתן לענות', '250 מ\"ג', 'טבליות azithromycin', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול לקרוא את המילים האלה בבקשה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'אין מילה.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה ואליום?\
+	['לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא יכול לקרוא את שם התרופה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה השיר הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'פלטות מוסיקה', 'לא ניתן לענות', 'אלבום', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', \"ג'ינג'ל ג'ינג'ל\", 'לא ניתן לענות']	i let her go go
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כן, זה מחשב נייד של ה-HP, אני צריך לדעת איפה קורא הקלפים ביחס למקלדת. בבקשה להיות ספציפי ככל האפשר. תודה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'בצד', 'לא ניתן לענות', 'אני לא יכול לראות קורא כרטיסים קורא כרטיסים SD בדרך כלל בפינה השמאלית קצה הקדמי', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השם של הבושם?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'אין שם.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של זיכרון הוא זה?\
+	['לא ניתן לענות', 'קו 444', 'לא ניתן לענות', 'לא ניתן לענות', 'רשת SDRAM PC3200', 'אין לי מושג.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'דר']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני מבין את זה, אבל האם אחורית המשאית הלבנה נראית פגומה?\
+	['לא ניתן לענות', 'לא, לא.', 'תמונה מהצד הקדמי אני לא רואה שום דבר יוצא דופן', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'n0', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של מרק זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'עוף', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה נראה על מסך המחשב הנייד?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	מסך המחשב הנייד מראה \"לא ניתן לענות\".
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה בבקשה?\
+	['לא ניתן לענות', 'מרק', 'מרק', 'מרק פח', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מרק', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['שטיח', 'מגבות נייר', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מגבת נייר', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה טעם זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'רגיל', 'מקורית', 'לא ניתן לענות', 'תסתובבי.', 'גבינה', 'צייר']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מהשלושת התמונות הוא הלוגו של גוגל?\
+	['לא ניתן לענות', '0', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תמונה ראשונה', 'שמאלה']	שלושת התמונות הם של הלוגו של גוגל.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['לא ניתן לענות', 'לא בטוח', 'מטושטש', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תווית', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם יש אבנים חסרות מזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'איכות תמונה לא מספקת', 'לא ניתן לענות', 'לא, לא.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני רוצה לדעת איזו מותג של קולון זה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה תאריך היגוי של הגבינה הזאת?\
+	['לא', 'בלתי קריא', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזו טמפרטורה מותנה התרמוסטט?\
+	['לא ניתן לענות', 'לא ניתן לענות', '75', 'לא ניתן לענות', '75', 'לא ניתן לענות', '75', '75', 'לא ניתן לענות', 'לא נראה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע החולצה הזאת.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'שחור', 'לא ניתן לענות', 'שחור', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'שחור', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא מסוגל לראות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על התצוגה?\
+	['הודעה על שגיאה בהתחלתה מחדש', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'sys', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא ניתן לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סודה זו, בבקשה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא בטוח.', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'שיער', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה, תגיד לי מה כתוב כאן.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא נראה כי יש מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'קופסה', 'לא ניתן לענות', 'קופסה קטנה', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזו טמפרטורה המתרמוסט מתקין?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא יכול לקרוא.', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה הבקבוק הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'אני לא יודע.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	בקבוק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני יכול לקבל את כל הדמויות בזה?\
+	[\"ארוברג'י צ'אבז\", 'לא ניתן לענות', 'כן, אני יודע.', 'כן, אני יודע.', 'לא ניתן לענות', \"ארוברג'י צ'אבז\", 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'כן, אני יודע.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מפתח מוצר עבור גרסאות אלה\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. קדימה, אני מקבל את הקטע של ההמתנה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'נעליים', 'לא ניתן לענות', 'נעליים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השעה ומה הטמפרטורה בדאלאס, טקסס?\
+	['3:40 54', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '9:17 בוקר 96 מעלות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	13:20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. -מה שלומך?\
+	['לא ניתן לענות', 'טוב.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'טוב.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? מה הייתה התשובה שקיבלת?\
+	['לא ניתן לענות', 'לא בטוח', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'יומן על המסך', 'מחשב', 'לא ניתן לענות', 'סקרנקאסט מאטיק']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה בבקשה?\
+	['בקבוק מכסה בד', 'לא ניתן לענות', 'שמיכה', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא נראה מספיק
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזו מותג זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'סייקו', 'לא ניתן לענות', 'מטושטש', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'צפה', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה אתר זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'אתר על אייפון בהקניות אפליקציות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של מרק כביסה זה?\
+	['לא ניתן לענות', 'השמש', 'לא ניתן לענות', 'לא ניתן לענות', 'סוואבטל', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בצנצנת הזאת?\
+	['שום דבר.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מרק', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מזון', 'לא ניתן לענות']	לא נראה שום תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. -מה זה קבלה לזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה נכון שיש לי יד?\
+	['כרטיס ביקור', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'חג מולד שמח.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה אני יכול לצלם?\
+	['שעון על דף', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'צפה', 'שעון כיס של מיקי מאוס.', 'זה שעון כיס, אוזניות.']	שעון
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על המסך?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תנאי רישיון של Windows', 'מונחים בחלקם מחוץ למסך', 'לא ניתן לענות', 'לא ניתן לענות']	לא מספק מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה, אבל כן, אני מקפל אותו.\
+	['לא ניתן לענות', 'קיפול', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'יד', 'קופסה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה צבע זה?\
+	['לבן אפור', 'סגול', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'אדום לבן', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'מטבח', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תמונה של אדם בשולחן במחשב.', 'אני רואה את הסלון בתמונה.', 'לא ניתן לענות', 'לא ניתן לענות']	לא מסוגל לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה השם?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'אוופוריה', 'אוופוריה', 'אופוניה', 'לא ניתן לענות', 'לא ניתן לענות']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'אור', 'לא ניתן לענות', 'לא ניתן לענות', 'אור', 'חוסר בהירות', 'לא ניתן לענות', 'לא ברור', 'לא ניתן לענות', 'לא ניתן לענות']	לא נראה שום תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אנא קרא את הטקסט על הקופסה הזאת שהיא עוד קופסה.\
+	['wd', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. קשה לומר, אני מחפשת מספרי תעודה שמונה ספרות.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'אני לא רואה כלום. מצטער.', 'לא ניתן לענות', 'ריק', 'אני לא מסוגל לראות דבר כזה.', 'לא ניתן לענות', '0', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם אתה יכול בבקשה לומר לי את הכותרת של הספר הזה? תודה.\
+	['לא ניתן לענות', 'חומרים הרמוניים במוסיקה טונלית', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['דבארמן', 'שום דבר.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'חבילת מחזיקים ביד']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על המסך?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא נראה מסך
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה זמן אתה יודע\
+	['אני לא מבין.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה השאלה או המספרים או המכתבים כדי שאוכל להוסיף את זה לשדה העריכה שלי?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזה הערך הוא שטר הדולר הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תמונה לא לשימוש', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. על מה זה מכוון?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מחסנית', 'מחסנית', 'שולחן המטבח', 'קונטר טופ']	לא מסוגל לראות תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם זה נשיכה?\
+	['לא ניתן לענות', 'אולי.', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'אולי.', 'אולי.', 'לא, לא.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם אתה יכול בבקשה לספר לי בפירוט מה יש על מסך המחשב הזה? תודה רבה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'המחשב לא יכול להתחיל הודעה', 'לא ניתן לענות', 'המחשב שלך לא הצליח להתחיל', 'לא ניתן לענות', 'המחשב שלך לא הצליח להתחיל תיקון התחלה לבדוק את המערכת שלך עבור בעיות', 'התחלה', 'לא ניתן לענות', 'תיבת דיאלוג לא ידועה']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הם האותיות בקפצ'ה הזה?\
+	['לא ניתן לענות', 'נשוי', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'קופסה שחורה']	לא תוכל לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יודע איך לבשל את זה?\
+	['לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'כן, אני יודע.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מסך מחשב', 'לא ניתן לענות', 'לא ניתן לענות']	לא נראה שום תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה זמן אני מבשל את זה במיקרוגל?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '8 דקות.', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איך מבשלים את זה?\
+	['תנור', 'לא ניתן לענות', 'להכין', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה עם החתימה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'פוליטית', 'גבר.', 'לא ניתן לענות', 'אין לי מושג.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'איש כחול בבניין.']	לא נותן לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה ספר לי את ההוראות על בקבוק השמפו הזה.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'הוסף לשיער רטוב ריר לשטיפה לחזור אם רצוי']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה התמונה הזאת?\
+	['גג', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	תמונה מטושטשת
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'טלפון', 'לא ניתן לענות', 'גבר מדבר בטלפון סלולרי.', 'לא ניתן לענות', 'אדם', 'לא ניתן לענות', 'לא ניתן לענות']	לא מסוגל לענות.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה יש בקופסה הזאת?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'שעועית', 'לא ניתן לענות', 'לא ניתן לענות', 'התמונה הזו מטושטשת.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה צבע החולצה שלי?\
+	['לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'חוט', 'לא ניתן לענות', 'צעצוע כלב גומי שחור', 'צמח', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מתי זה פוסל?\
+	['לא', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא בתמונה', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה הכרטיס הזה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'אין כרטיס', 'לא ניתן לענות', 'לא ניתן לענות', 'שחור', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. על מה הסרט הזה?\
+	['לא ניתן לענות', 'ריק', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא נראה שום תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'חגורת עור', 'כלב', 'ארנק', 'לא ניתן לענות', 'חגורת כלבים', 'חיה']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הוראות הבישול של אלה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה סוג של מעקב זה?\
+	['לא ניתן לענות', 'עיפרון', 'דפוס עלים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'עץ', 'לא ניתן לענות', 'עשבים']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. היי, אתה יכול בבקשה להגיד לי מה יש בקופסה ביד ימין שלי?\
+	['לא ניתן לענות', 'איזה סוג של בשר אבל התווית לא לגמרי בתמונה', 'מזון ממוזג', 'לא ניתן לענות', 'בשר בקר מבושל', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי ממי זה?\
+	['לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'מכתב חזרה מהדואר', 'מעטפת אחורה בלי כתוביות.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה טעם זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'תערובת מיוחדת של ניומן.', 'תערובת מיוחדת של נימן.', 'קפה', 'תערובת מיוחדת של ניומן.', 'לא ניתן לענות', 'נוימן משלו.', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה מדד לחץ הדם שלי?\
+	['לא ניתן לענות', 'לא ניתן לענות', '105', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '109 מעל', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לקרוא תמונה מנותקת']	108
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. קראנו לו מה הטעם.\
+	['לימון', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול בבקשה להגיד לי מה זה יכול לומר כדי שאוכל להבין מה יש בו?\
+	['לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	לא מסוגל לראות תמונה
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מספר לטקסט המודגש.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה אמור לומר על הגב של הכרטיס איזה סוג של שרביט זה, ממה הוא עשוי וכו'.\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'משהו עץ 14', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני חושב שנלחצתי על כפתור \"אוקיי\".\
+	['הכפתור הבא ללחוץ עליו עכשיו לחץ enter', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה? -מה זה?\
+	['לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'מבהלה', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזו טמפרטורה?\
+	['לא ניתן לענות', '57', 'עשרים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '20', '20.7c', 'לא ניתן לענות']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה?\
+	['לא ניתן לענות', 'סימן ברכה', 'לוח קבלת פנים', 'לא ניתן לענות', 'סימן ברכה', 'סימן ברכה', 'לא ניתן לענות', 'כרטיס קבלת פנים', 'לא ניתן לענות', 'לא ניתן לענות']	לא מסוגל לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה פנים אלה?\
+	['בלי פנים.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '0', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המספרים על מפתח המוצר הזה?\
+	['לא ניתן לענות', 'בלתי קריא', 'לא ניתן לענות', 'לא ניתן לענות', 'בלתי קריא', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המספר של הבניין שצילמתי?\
+	['3 .', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '3 .', 'לא ניתן לענות', '9', 'לא ניתן לענות', 'לא ניתן לענות', '3 .']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה תגיד לי מה יש בחבילה הזאת. תודה.\
+	['לא ניתן לענות', 'סלט חשיבות קציר', 'לא ניתן לענות', 'סלק', 'ממתקים', 'פירות', 'קשה להבחין אולי איזה סוג של אגוזים', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. המסך של המחשב שלי מופיע?\
+	['sdfgh', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול לקרוא את זה?\
+	['כן, אני יודע.', 'לא ניתן לענות', 'כן, אני יודע.', 'תזכיר מידע לייבא למוצץ', 'לא, לא.', 'מידע חשוב', 'כמה', 'סוג', 'לא, לא.', 'לא ניתן לענות']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול לדעת על ידי הסתכלות על זה, על התווית, מה זה, אני חושב שזה חתיכה, DVD בדואר.\
+	['כן, אני יודע.', 'כן, די.וי.די.', 'לא, לא.', 'DVD', 'DVD', 'לא ניתן לענות', 'תווית לא ברורה, אבל cd', 'כן, אני יודע.', 'לא ניתן לענות', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. המצלמה שלי מחוסמת?\
+	['כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'רמב', 'כן, אני יודע.', 'לא, לא.', 'כן, אני יודע.', 'לא, לא.', 'כן, אני יודע.', 'כן, אני יודע.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה סטוק עוף?\
+	['לא ניתן לענות', 'לא, לא.', 'כן, אני יודע.', 'כנראה לא יכול לראות את כל התווית', 'כן, אני יודע.', 'לא ניתן לענות', 'כן, אני יודע.', 'כן, אני יודע.', 'לא ניתן לענות', 'כן, אני יודע.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם זה אמנות?\
+	['כן, אני יודע.', 'אמנות על דגמי אלומיניום', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'לא ניתן לענות', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. היי, רק רציתי לאשר שזה באמת צלעות חזיר, כל מידע אחר שיהיה ברור יהיה מעניין.\
+	['כן, אני יודע.', 'כן, אני יודע.', 'כן, צלעות חזיר של קירקלנד.', 'כן, חטיפי חזיר.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, צלעות ירך.', 'כן, אני יודע.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה שאני אומר זה האם נראה שזה הולך לרדת גשם כאן או סערה?\
+	['כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם פניו של באדי נראות חמודות או לא?\
+	['כן, אני יודע.', 'כן, אני יודע.', 'חמוד.', 'כן, אני יודע.', 'כן, אני יודע.', 'לא, לא.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם הדיאלוג שם עכשיו?\
+	['לא, לא.', 'כן, אני יודע.', 'כן, אני יודע.', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם כל האצבעות שלי עדיין?\
+	['כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.', 'כן, אני יודע.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם אתה רואה בקבוק בתמונה הזאת ואם כן מה זה?\
+	['לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'בלי בקבוק.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	לא רואה בקבוק בתמונה הזאת.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. יש טקסט בצד הזה של הנייר בבקשה?\
+	['לא, לא.', 'לא, לא.', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'לא ניתן לענות', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה פקס?\
+	['לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם יש חתיכת חזה בתמונה?\
+	['לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. יש כאן פיסת שחמט?\
+	['לא, לא.', 'כן, אני יודע.', 'לא, לא.', 'רק לוח', 'לא, לא.', 'לא, לא.', 'כן, אני יודע.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. הגרביים האלה מתאימות?\
+	['לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	לא
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה נייר?\
+	['לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא ניתן לענות', 'לא, לא.', 'לא, לא.', 'לא ניתן לענות', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. זה מחשב נייד?\
+	['לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', '0 שראיתי אי פעם לפני', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול לקרוא הכל על המסך שלי?\
+	['לא, לא.', 'לא, לא.', 'כן, אני יודע.', 'לא, לא.', 'לא ניתן לענות', 'לא, לא.', 'קיבולת השימוש של ה-DVR שלך 89% מלאה', 'כן, אני יודע.', 'לא, לא.', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה רואה את הריח על בקבוק הפריביז הזה?\
+	['לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא רואה את התווית.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	לא נראה שהריח על בקבוק הפריביז הזה.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. המסך דולק?\
+	['לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.', 'לא, לא.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה חיה היא על מסך המחשב הזה?\
+	['אין חיה.', '0', '0', '0', '0', 'אין חיה על המסך.', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני מנסה לקבל מספר מהכרטיס הזה, ותוהה אם תוכל לקרוא לי אותו.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. בבקשה תקרא את הדלפק.\
+	[\"261627.2 מ'\", \"02616272 מ'\", '02616272', '02615272', '02616272', '272', '02616272', '02616272', \"02616272 מ'\", '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. לאיזו טמפרטורה מותנה התרמוסטט?\
+	['72', '72', '72', '72 מעלות.', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה כפתור זה \"מונטין דו\"?\
+	['5', '6 מלמעלה', 'כפתור שישי.', '6 1 למטה', '5', '6', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אני מאמין שזה אלון כסף.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הכוח של אספקת החשמל הזאת?\
+	['350', 'לא ניתן לענות', '350', '350W מקס', 'לא ניתן לענות', '350', '350', 'לא ניתן לענות', 'רצועה', '350W מקס']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב שם?\
+	['77 מעלות.', '77', '77', '77', '77 מעלות.', '77', '77', '77', '77', '77']	לא יכול לענות
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד מאיזה מדליון זה?\
+	['47', '47', '47', 'ה-47', 'יש לו מספר 47', '47', '47', 'לא ניתן לענות', '47', 'לא, לא.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה זה עולה?\
+	['5', '5', '5', '5', '5', '5 דולר.', '5', '5 דולרים מסינגפור', '5', '5 דולר.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המיקום של המספר הפנימי?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזה ערך הוא שטר זה?\
+	['20', 'רגרג', '20', '20', 'לא ניתן לענות', 'לא ניתן לענות', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה מוצג כרגע על המסך?\
+	['452940', '452940', '\"מדברת ערה\"', 'מספרים', 'רדיו', '452940', 'רשת רשת', '452940', 'לא ניתן לענות', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה 465 פחות 55?\
+	['410', '410', '410', 'לא ניתן לענות', '410', 'לא ניתן לענות', '410', '410', '410', '410']	410
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המספר החמישי?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	8
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה החשבון הזה?\
+	['2 -', '2 -', '2 -', '2 -', '$ 2', 'כסף', '2 -', '2 -', 'לא ניתן לענות', '2 -']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה קלוריות יש בצ'יריוס?\
+	['110', 'תמונה', '104', '110', '100', 'לא ניתן לענות', '10', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. באיזו טמפרטורה המנורה מוגדרת?\
+	['כפתור תנור', 'טמפרטורת התנור 400', '425', '450', '400', '425', '425', '400', '425', '400']	300
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הטמפרטורה של התרמסטט?\
+	['78', '78', '78 מעלות.', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה כסף זה?\
+	['20 דולרים קנדיים', '20', '20', '20', '20 יורו', '20', '20 דולרים קנדיים', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הטמפרטורה מוגדרת?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הטמפרטורה בטרמוסטט הזה?\
+	['50', '50', '55', '64 מעלות.', '55', 'לא ניתן לענות', 'לא ניתן לענות', '54', 'לא ניתן לענות', '56']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה דנומנציה?\
+	['5', '5', '5', '5', 'קנדה', '5', '5', 'ביצים', '5', '5']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. תגיד לי את הערך של הכרטיס הזה.\
+	['6 יהלומים', '9 יהלומים', '6 יהלומים', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד כמה זה אומר שאני שוקל?\
+	['210', '200', 'כן, 200', '198', '200', '200', '200', '250', '200', '200']	106
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. היי, אני מנסה שוב, אתה יכול להגיד לי כמה מספרים של מעלות יש על המדד הזה?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה הטמפרטורה להגדיר על בסדר\
+	['78', '78', '78', '78', '78', '78', '78 מעלות.', '78 מעלות.', '78 מעלות פרנהייט.', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה מנות יש בסוכריות?\
+	['לא ניתן לענות', '2 -', '4', 'לא ניתן לענות', '4', '4 כוסות חמאת בוטנים', '2 -', '2 -', 'לא ניתן לענות', 'לא ניתן לענות']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה קלוריות יש בחלק אחד?\
+	['120', '120', '120 יבש 220 מוכנה אם מוכנה 1 1 4 כוסות חלב ללא שומן', '120', '120', '120', '120', '120', '220', '120 דגנים יבשים 220 חלב']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי איזה סוג של שטר זה? כי אני מחפש 20 ואני חושב שזה 10 אבל אני לא יכול להגיד.\
+	['10 יורו', '10', '10', 'לא ניתן לענות', '10', '10', '10 שוכבים על חולצה אדומה לבנה', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם יש ברצועה זו קו ורוד אחד או שניים? אחד יכול להיות בהיר מהשני.\
+	['ביו', '1', '1 שורה', 'קו 1 כהה', '1', '1', '1', '1', '1', '1']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי מה המספר, תודה?\
+	['3248849064', '3248849084', 'לא ניתן לענות', '3248849084', 'לא ניתן לענות', 'לא ניתן לענות', '3248849084', 'לא ניתן לענות', 'לא ניתן לענות', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. אתה יכול להגיד לי כמה אני שוקל בבקשה?\
+	['1', '1', 'לא ניתן לענות', '1', '1', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', 'משקל ריק', '1']	127
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הגדרת הטמפרטורה הנוכחית של תרמוסטט זה?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'תרמוסטט']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. האם זה שטר של 5 או 10 דולרים קנדיים?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 קנדי']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה זה תעודת השיחה?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'לא ניתן לענות', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186 08/07 23:39
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מהו המספר בעל חמשת הספרות?\
+	['23442', '23442', '23442', 'לא ניתן לענות', 'לא ניתן לענות', 'רק לראות 2 ספרות 69', '23442', 'לא ניתן לענות', 'לא ניתן לענות', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה אונקיות זה?\
+	['23.6', '20', '20', '24', 'לא ניתן לענות', 'לא ניתן לענות', 'לא ניתן לענות', '33', 'לא ניתן לענות', \"ג'ף-ג'ס-ג'ס-דף\"]	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה הטמפרטורה אומרת על הרמומטר הזה? תודה רבה.\
+	['72', '72', '72', '72', '72', '72', '72', '72 מעלות.', '72', '72 מעלות.']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מספר עמוד זה?\
+	['2 -', '2 -', '2 -', '2 -', '2 -', '2 -', '2 -', 'לא ניתן לענות', '2 -', '2 -']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב על התצוגה הזאת?\
+	['8888', 'לא ניתן לענות', 'שום דבר.', '8888', 'לא ניתן לענות', 'לא ניתן לענות', '8888', '888', 'שום דבר.', 'ריק']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. איזה מספר עמוד מופיע? תודה.\
+	['123', '121', '121', '121', 'לא ניתן לענות', '121', '121', '128', '321', '121']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה המספר הזה?\
+	['26', '26', '26', '26', '26', 'נייר', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. מה כתוב כאן?\
+	['לא ניתן לענות', '40', '40', 'לא ניתן לענות', 'לא ניתן לענות', 'מספרים', '40', '40', '40 פאונד של אוויר.', '30']	לא מספק מסך מסודר
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer he When the provided information is insufficient, respond with 'לא ניתן לענות'. כמה כדורים יש בקופסה הזאת?\
+	['8 טבליות', '8', '8', '8', '8', '8', '8', '8 טבליות', '8', '8']	8

@@ -1,0 +1,193 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	<|begin_of_text|>User:<image>Question: What is written on the paper?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['unanswerable', 'australia post', 'post', 'unanswerable', 'australia post', 'austrailia post', 'australia post', 'australia post', 'unanswerable', 'australia post']	Australia post.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	<|begin_of_text|>User:<image>Question: Can you tell me what's on this computer screen please?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['icons for clock weather etc', 'start window', 'desktop', 'clock', 'clock', 'icons', 'desktop icons', 'unanswerable', 'desktop icons', 'icons']	Weather.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	<|begin_of_text|>User:<image>Question: What CD is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['blank', 'blank cd', 'maxwell', 'maxell cd r', 'blank', 'blank', 'blanket', 'blank', 'blank', 'maxell']	Maxell.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	<|begin_of_text|>User:<image>Question: What is the picture of?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['foot', 'foot', 'foot scratch on', 'foot', 'foot', 'foot', 'foot', 'foot', 'foot', 'foot']	Foot.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	<|begin_of_text|>User:<image>Question: Could you tell me what this can is please?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['hunt s', 'manwich', 'manwich', 'hunts sloppy joe sauce', 'sloppy joe sauce', 'manwich', 'manwhich bold sloppy joe sauce', 'unwich', 'manwich', 'sloppy joe']	Nwch old joe sauce.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['diet coke soda', 'diet coke can', 'diet coke', 'can diet coke', 'diet coke', 'diet coke', 'diet coke', 'coke', 'soda', 'can diet coke']	Coke.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	<|begin_of_text|>User:<image>Question: What spice is this?  \
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['mrs dash', 'unanswerable', 'mrs dash', 'unanswerable', 'cant tell', 'all spice', 'basil blend', 'mrs dash table blend', 'dash', 'mrs dash']	Blend.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['mtn dew bottle', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mt dew']	Mountain Dew.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	<|begin_of_text|>User:<image>Question: What's in this box?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['coffee', 'unanswerable', 'coffee', 'coffee', 'coffee', 'coffee', 'coffee', 'coffee', 'coffee', 'unanswerable']	Green Mountain Coffee.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	<|begin_of_text|>User:<image>Question: What do you see?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['skin', 'finger floor doors', 'door', 'door', 'finger door', 'door', 'unanswerable', 'door', 'house', 'finger black fur']	Door.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	<|begin_of_text|>User:<image>Question: What is my computer screen showing?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['do you want to restore your computer using system restore', 'system restore pop up', 'system restore message', 'asking if you want to restore your computer using system restore', 'box', 'system restore', 'do you want to restore your computer using system restore', 'computer did not start use system restore', 'restore set up', 'system restore']	Restore.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	<|begin_of_text|>User:<image>Question: What is in this box?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['hot cocoa', 'hot cocoa mix', 'hot chocolate', 'hot cocoa mix', 'cocoa', 'hot cocoa mix', 'hot cocoa', 'hot chocolate mix', 'cocoa', 'cocoa mix']	Hot chocolate mix.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	<|begin_of_text|>User:<image>Question: Can you please tell me the 1-800 number on this card?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	735-2929.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	<|begin_of_text|>User:<image>Question: what's this \
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['computer screen', 'computer screen', 'computer screen', 'laptop', 'computer screen showing search results', 'screen', 'computer screen', 'computer screen', 'monitor screen', 'computer screen']	Screen.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	<|begin_of_text|>User:<image>Question: what is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['salad dressing back side', 'dressing', 'salad dressing', 'salad dressing', 'balsamic salad dressing', 'salad dressing', 'unanswerable', 'salad dressing', 'salad dressing', 'salad dressing']	Salad dressing.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	<|begin_of_text|>User:<image>Question: What does the picture show?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['window', 'design', 'frosted glass window black design', 'glass window pane in door', 'glass window in door', 'door', 'stained glass', 'door', 'window', 'window']	Window.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	<|begin_of_text|>User:<image>Question: Can someone tell me what the security question is on the screen, please?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['arawak', 'unanswerable', 'arawak', 'arawak', 'arawak', 'arawak', 'unanswerable', 'unanswerable', 'arawak', 'arawak']	What is your security code?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['wine', 'silver oak', 'silver oak', 'silver oak wine', 'wine', 'bottle', 'wine', 'wine', 'silver oak 2003 cabernet sauvignon', 'silver oak 2003']	Silver Oak.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	<|begin_of_text|>User:<image>Question: What brand of monitor is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['lg', 'unanswerable', 'unanswerable', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	LG.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	<|begin_of_text|>User:<image>Question: What kind of drink is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['soda', 'ginger ale', 'ginerale', 'ginger soda', 'canada dry', 'canada dry', 'ginger ale', 'canada dry', 'ginger ale', 'ginger ale']	Canada Dry.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	<|begin_of_text|>User:<image>Question: What color is the carpet?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['beige', 'beige', 'tan', 'grey', 'taupe', 'cream', 'tan', 'tan', 'beige', 'taupe']	Brown.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['telephone', 'telephone', 'telephone', 'telephone', 'phone', 'telephone', 'digital phone', 'phone', 'office phone', 'phone']	Phone.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	<|begin_of_text|>User:<image>Question: What is this image?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountaing dew', 'moutain dew', 'mtn dew bottle', 'mountain dew soda', 'mtn dew']	Mountain Dew.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	<|begin_of_text|>User:<image>Question: What is this bottle?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['unanswerable', 'unanswerable', 'lotion', 'soda', 'unanswerable', 'lotion', 'lotion', 'lotion', 'unanswerable', 'lotion']	Lotion.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['aquafina water', 'bottle aquafina water', 'water', 'water', 'plastic bottle aquafina brand water', 'bottle water', 'water bottle', 'aquafina water', 'water', 'plastic bottle water']	Aquafina.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	<|begin_of_text|>User:<image>Question: What is this?  \
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['google search', 'google search engine tab', 'google search page', 'google', 'google', 'computer', 'google homepage', 'google page', 'computer screen', 'computer screen']	computer.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	<|begin_of_text|>User:<image>Question: What are these?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys']	Keys.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	<|begin_of_text|>User:<image>Question: Please read me the error message on the screen.\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['unanswerable', 'invalid product key', 'invalid product key', 'unanswerable', 'invalid product key', 'invalid product key', 'invalid product key', 'invalid product key either removeproduct key in unattend answer file to proceed', 'invalid product key either remove product key in unattend answer file to proceed', 'invalid product key']	Invalid product key.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	<|begin_of_text|>User:<image>Question: Where is my laptop?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['desk', 'on desk', 'top desk next to bed', 'on desk', 'desk', 'desk', 'on desk', 'on desk', 'top desk', 'desk']	Desk.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	<|begin_of_text|>User:<image>Question: What is the title of this book? \
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['dog years', 'dog years: memoir', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years']	Eight years.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['macbook', 'keyboard', 'keyboard', 'keyboard', 'computer', 'keyboard', 'laptop', 'laptop', 'laptop', 'computer screen keyboard']	Laptop.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	<|begin_of_text|>User:<image>Question: What do you see?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['table window', 'flowers', 'unanswerable', 'table window', 'book notebook pen', 'flowers', 'destop', 'book', 'window', 'flowers']	Window.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	<|begin_of_text|>User:<image>Question: Which packet contains plain flour?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['red white package', 'left', 'that 1', 'red 1 on left', 'left', 'unanswerable', 'left', 'left', 'red white 1', 'red 1']	Red bag.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['football', 'football', 'football', 'purple orange plush football gator on', 'gators football', 'gators soft football', 'stuffed football', 'stuffed orange blue football', 'purple football', 'fl gators']	Toy.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	<|begin_of_text|>User:<image>Question: What color is it?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['grey', 'gold', 'gold', 'beige', 'red', 'gold', 'unanswerable', 'unanswerable', 'gold', 'unanswerable']	Red.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['menu', 'unanswerable', 'menu', 'menu', 'menu', 'table contents', 'menu', 'menu', 'price list', 'unanswerable']	Menu.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['water bottle', 'springvourne', 'springbourne water', 'springbourne', 'bottled water', 'water', 'water bottle', 'bottled water', 'water in bottle', 'water']	Springbourne.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	<|begin_of_text|>User:<image>Question: What kind of soup is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['progresso', 'progresso', 'progresso', 'unanswerable', 'progresso', 'unanswerable', 'unanswerable', 'unanswerable', 'progresso', 'progresso']	Progresso.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	<|begin_of_text|>User:<image>Question: I know this is a can of food. Could you please tell me what's in it?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['green beans', 'green beans', 'green beans', 'green beans', 'green beans', 'unanswerable', 'green beans', 'eef', 'green beans', 'green beans']	GREEN BEANS.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	<|begin_of_text|>User:<image>Question: What is?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['chex mix', 'chop mills', 'chex mix computer', 'unanswerable', 'chex mix', 'food', 'chex mix', 'chex mix', 'chex mix', 'chekmix']	Chex mix.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	<|begin_of_text|>User:<image>Question: What is it?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['microwave', 'microwave', 'medication', 'appliances jelly beans soup', 'can soup', 'cup soup to drink', 'kitchen', 'kitchen counter', 'creamer', 'soup']	Container.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	<|begin_of_text|>User:<image>Question: What is this can? \
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['mixed vegetables', 'mixed vegetables', 'mixed vegetables', 'mixed vegetables', 'mixed veggies', 'efgrfg', 'mixed vegetables', 'mix vegetables', 'mixed vegetables', 'mixed vegetables']	Mixed Vegetables.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	<|begin_of_text|>User:<image>Question: What kind is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['cake frosting', 'vanilla', 'vanilla', 'whipped vanilla frosting', 'betty crocker', 'vanilla frosting', 'whipped vanilla', 'vanilla frosting', 'vanilla', 'vanilla']	Whipped.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	<|begin_of_text|>User:<image>Question: What box am I looking at, as in what does the box contain?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['granola bar box', 'nature valley roasted almond granola bars', 'granola bars', 'nature valley', 'roasted almond granola bars', 'nature valley roasted almond granola bars', 'nature valley crunchy granola bars roasted almond flavor', 'granola bars', 'granola bars', 'roasted almond crunchy granola bars']	Granola bars.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	<|begin_of_text|>User:<image>Question: What about the color cloth. Tell me about the color cloth. \
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['green white', 'white dark green print', 'white green', 'white green', 'pink green', 'cloth white cream green on', 'pink black', 'green white', 'purple black tie dye', 'white green splatters']	Purple.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	<|begin_of_text|>User:<image>Question: What is the computer screen showing?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['mouse arrow', 'cursor', 'nothing', 'blue', 'blue screen', 'arrow', 'blank', 'blue arrow', 'blank', 'blue screen']	Blue.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	<|begin_of_text|>User:<image>Question: Hello who is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['white cat', 'cat', 'cat', 'white cat', 'cat', 'unanswerable', 'cat', 'cat', 'this cat', 'kitty']	Cat.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	<|begin_of_text|>User:<image>Question: What is this?\
+When the provided information is insufficient, respond with \"unanswerable\".\
+Answer with a single word or phrase.<end_of_utterance>\
+Assistant:	['purell advanced hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'purell hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'purell hand sanitizer']	Purell.

@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên giấy?\
+	['không thể trả lời được', 'Australia Post', 'bài', 'không thể trả lời được', 'Australia Post', 'Bưu điện Úc', 'Australia Post', 'Australia Post', 'không thể trả lời được', 'Australia Post']	post
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết màn hình máy tính này là gì không?\
+	['biểu tượng cho thời tiết đồng hồ vv', 'cửa sổ bắt đầu', 'máy tính để bàn', 'đồng hồ', 'đồng hồ', 'biểu tượng', 'biểu tượng máy tính để bàn', 'không thể trả lời được', 'biểu tượng máy tính để bàn', 'biểu tượng']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là đĩa CD nào?\
+	['trống', 'đĩa trống', 'Maxwell', 'Maxell CD r', 'trống', 'trống', 'chăn', 'trống', 'trống', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bức ảnh là gì?\
+	['chân', 'chân', 'vết trầy xước chân', 'chân', 'chân', 'chân', 'chân', 'chân', 'chân', 'chân']	cột chân
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết cái hộp này là gì không?\
+	['săn s', 'bánh ngô', 'bánh ngô', 'săn lùng xỉn xỉn Joe Sauce', 'nước sốt Joe trơn trơn', 'bánh ngô', 'Người đàn ông có dũng cảm, xỉn xỉn Joe Sauce', 'không có', 'bánh ngô', 'Joe lơ lửng']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Coca-Cola chế độ ăn kiêng', 'Coca-Cola chế độ ăn kiêng có thể', 'Coca-cola chế độ ăn kiêng', 'có thể chế độ ăn kiêng cocaine', 'Coca-cola chế độ ăn kiêng', 'Coca-cola chế độ ăn kiêng', 'Coca-cola chế độ ăn kiêng', 'coca', 'soda', 'có thể chế độ ăn kiêng cocaine']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gia vị này là gì?\
+	['Bà Dash.', 'không thể trả lời được', 'Bà Dash.', 'không thể trả lời được', 'Không biết nói được', 'tất cả các gia vị', 'hỗn hợp hạch', 'Mrs Dash table blend', 'dải', 'Bà Dash.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['chai sương mặn', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'Mt sương']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong hộp này?\
+	['cà phê', 'không thể trả lời được', 'cà phê', 'cà phê', 'cà phê', 'cà phê', 'cà phê', 'cà phê', 'cà phê', 'không thể trả lời được']	cà phê
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh thấy gì?\
+	['da', 'Cửa sàn ngón tay', 'cửa', 'cửa', 'cửa ngón tay', 'cửa', 'không thể trả lời được', 'cửa', 'nhà', 'Lông đen ngón tay']	cánh tay
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình máy tính của tôi đang hiển thị gì?\
+	['bạn có muốn khôi phục máy tính của mình bằng cách sử dụng khôi phục hệ thống', 'hệ thống khôi phục bật lên', 'thông báo khôi phục hệ thống', 'hỏi nếu bạn muốn khôi phục máy tính của mình bằng cách sử dụng khôi phục hệ thống', 'hộp', 'khôi phục hệ thống', 'bạn có muốn khôi phục máy tính của mình bằng cách sử dụng khôi phục hệ thống', 'máy tính không bắt đầu sử dụng phục hồi hệ thống', 'khôi phục thiết lập', 'khôi phục hệ thống']	cảnh báo hệ thống
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['Cacao nóng', 'hỗn hợp ca cao nóng', 'sôcôla nóng', 'hỗn hợp ca cao nóng', 'cacao', 'hỗn hợp ca cao nóng', 'Cacao nóng', 'hỗn hợp sô cô la nóng', 'cacao', 'hỗn hợp cacao']	cacao nóng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết số 1-800 trên thẻ này không?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	18007352929
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['màn hình máy tính', 'màn hình máy tính', 'màn hình máy tính', 'máy tính xách tay', 'màn hình máy tính hiển thị kết quả tìm kiếm', 'màn hình', 'màn hình máy tính', 'màn hình máy tính', 'màn hình màn hình', 'màn hình máy tính']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Món trộn salad phía sau', 'mỹ phẩm', 'Món trộn salad', 'Món trộn salad', 'Balsamic salad dressing', 'Món trộn salad', 'không thể trả lời được', 'Món trộn salad', 'Món trộn salad', 'Món trộn salad']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bức ảnh cho thấy gì?\
+	['cửa sổ', 'thiết kế', 'thiết kế cửa sổ kính mài màu đen', 'kính cửa sổ cửa sổ trong cửa', 'cửa sổ kính trong cửa', 'cửa', 'thủy tinh màu', 'cửa', 'cửa sổ', 'cửa sổ']	cửa sổ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có ai có thể cho tôi biết câu hỏi an ninh trên màn hình là gì không?\
+	['n', 'không thể trả lời được', 'n', 'n', 'n', 'n', 'không thể trả lời được', 'không thể trả lời được', 'n', 'n']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['rượu vang', 'cây sồi bạc', 'cây sồi bạc', 'rượu sồi bạc', 'rượu vang', 'chai', 'rượu vang', 'rượu vang', 'Cây sồi bạc 2003 Cabernet sauvignon', 'cây sồi bạc 2003']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là màn hình thương hiệu nào?\
+	['lg', 'không thể trả lời được', 'không thể trả lời được', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái loại đồ uống này là gì?\
+	['soda', 'rượu gừng', 'chung', 'Ginger soda', 'Canada khô', 'Canada khô', 'rượu gừng', 'Canada khô', 'rượu gừng', 'rượu gừng']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Khảm màu gì?\
+	['màu xanh dương', 'màu xanh dương', 'màu nâu', 'màu xám', 'màu xanh dương', 'kem', 'màu nâu', 'màu nâu', 'màu xanh dương', 'màu xanh dương']	beige
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['điện thoại', 'điện thoại', 'điện thoại', 'điện thoại', 'điện thoại', 'điện thoại', 'điện thoại kỹ thuật số', 'điện thoại', 'điện thoại văn phòng', 'điện thoại']	còn không có thông tin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Hình ảnh này là gì?\
+	['sương núi', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'sương núi', 'chai sương mặn', 'Soda sương núi', 'Mưa']	Hình ảnh một chai mtn dew
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái chai này là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'Lotion', 'soda', 'không thể trả lời được', 'Lotion', 'Lotion', 'Lotion', 'không thể trả lời được', 'Lotion']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['nước aquafina', 'chai nước aquafina', 'nước', 'nước', 'chai nhựa nước thương hiệu aquafina', 'nước chai', 'chai nước', 'nước aquafina', 'nước', 'chai nước nhựa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['tìm kiếm trên google', 'tab công cụ tìm kiếm google', 'trang tìm kiếm google', 'google', 'google', 'máy tính', 'Trang chủ của google', 'trang google', 'màn hình máy tính', 'màn hình máy tính']	không thể trả lời
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['chìa khóa', 'chìa khóa', 'chìa khóa', 'chìa khóa', 'chìa khóa', 'chìa khóa', 'chìa khóa', 'chìa khóa', 'chìa khóa', 'chìa khóa']	thưa thớt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy đọc cho tôi thông báo lỗi trên màn hình.\
+	['không thể trả lời được', 'khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ', 'không thể trả lời được', 'khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ hoặc xóa khóa sản phẩm trong tập tin trả lời không tham gia để tiếp tục', 'khóa sản phẩm không hợp lệ hoặc xóa khóa sản phẩm trong tập tin trả lời không tham gia để tiếp tục', 'khóa sản phẩm không hợp lệ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Máy tính xách tay của tôi đâu?\
+	['bàn làm việc', 'trên bàn', 'bàn trên cùng bên giường', 'trên bàn', 'bàn làm việc', 'bàn làm việc', 'trên bàn', 'trên bàn', 'bàn trên', 'bàn làm việc']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tên sách này là gì?\
+	['năm chó', 'Những năm chó: hồi ký', 'năm chó', 'năm chó', 'năm chó', 'năm chó', 'năm chó', 'năm chó', 'năm chó', 'năm chó']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['máy tính xách tay', 'bàn phím', 'bàn phím', 'bàn phím', 'máy tính', 'bàn phím', 'máy tính xách tay', 'máy tính xách tay', 'máy tính xách tay', 'bàn phím màn hình máy tính']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh thấy gì?\
+	['cửa sổ bàn', 'hoa', 'không thể trả lời được', 'cửa sổ bàn', 'bút sổ tay', 'hoa', 'dạ', 'sách', 'cửa sổ', 'hoa']	bìa sách
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bao bì nào chứa bột nguyên chất?\
+	['gói màu đỏ trắng', 'trái', '1', 'màu đỏ 1 bên trái', 'trái', 'không thể trả lời được', 'trái', 'trái', 'màu đỏ trắng 1', 'màu đỏ 1']	tesco
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['bóng đá', 'bóng đá', 'bóng đá', 'màu tím cam màu plush bóng đá cá sấu trên', 'bóng đá cá sấu', 'bóng đá mềm cá sấu', 'bóng đá nhồi bông', 'bóng đá màu cam màu xanh nhồi', 'bóng đá màu tím', 'hoa cá sấu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu gì?\
+	['màu xám', 'vàng', 'vàng', 'màu xanh dương', 'màu đỏ', 'vàng', 'không thể trả lời được', 'không thể trả lời được', 'vàng', 'không thể trả lời được']	màu đỏ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Menu', 'không thể trả lời được', 'Menu', 'Menu', 'Menu', 'Nội dung bảng', 'Menu', 'Menu', 'danh sách giá', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['chai nước', 'Springvourne', 'nước Springbourne', 'Springbourne', 'nước đóng chai', 'nước', 'chai nước', 'nước đóng chai', 'nước trong chai', 'nước']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại súp gì vậy?\
+	['tiến bộ', 'tiến bộ', 'tiến bộ', 'không thể trả lời được', 'tiến bộ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'tiến bộ', 'tiến bộ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi biết đây là một hộp thức ăn, làm ơn cho tôi biết nó chứa gì được không?\
+	['đậu xanh', 'đậu xanh', 'đậu xanh', 'đậu xanh', 'đậu xanh', 'không thể trả lời được', 'đậu xanh', 'eef', 'đậu xanh', 'đậu xanh']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì?\
+	['chex mix', 'máy cắt', 'máy tính chex mix', 'không thể trả lời được', 'chex mix', 'thực phẩm', 'chex mix', 'chex mix', 'chex mix', 'chekmix']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì thế?\
+	['lò vi sóng', 'lò vi sóng', 'thuốc', 'Máy gia dụng súp đậu nướng', 'súp hộp', 'súp cốc để uống', 'nhà bếp', 'bàn bếp', 'kem', 'súp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp này là gì?\
+	['rau trộn', 'rau trộn', 'rau trộn', 'rau trộn', 'rau trộn', 'efgrfg', 'rau trộn', 'rau trộn', 'rau trộn', 'rau trộn']	trái cây
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này là loại gì?\
+	['Bánh nướng', 'vanilla', 'vanilla', 'Món vanilla trúng đá', 'Betty Crocker', 'Vanilla glaze', 'vanilla đánh đập', 'Vanilla glaze', 'vanilla', 'vanilla']	whipped
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đang nhìn vào hộp nào, như trong hộp chứa gì?\
+	['hộp cốc hạt', 'Bạch Ốc Bạch Ốc', 'Bánh cốc', 'Thung lũng tự nhiên', 'Bánh nướng almond granola', 'Bạch Ốc Bạch Ốc', 'Thung lũng tự nhiên bánh granola giòn hương vị hạnh nhân rang', 'Bánh cốc', 'Bánh cốc', 'Bánh nướng quế nướng']	hạnh nhân nướng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Còn về vải màu thì sao?\
+	['màu xanh lá cây trắng', 'in màu xanh đậm trắng', 'màu xanh trắng', 'màu xanh trắng', 'màu hồng xanh lá cây', 'vải màu trắng màu xanh lá cây trên', 'màu hồng đen', 'màu xanh lá cây trắng', 'Màu sắc đeo thắt lưng màu tím đen', 'Bụi rắc màu xanh trắng']	hồng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình máy tính hiển thị gì?\
+	['mũi tên chuột', 'cursor', 'Không có gì cả.', 'màu xanh', 'màn hình xanh', 'mũi tên', 'trống', 'mũi tên màu xanh', 'trống', 'màn hình xanh']	màn hình màu xanh lam
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin chào, ai đây?\
+	['mèo trắng', 'mèo', 'mèo', 'mèo trắng', 'mèo', 'không thể trả lời được', 'mèo', 'mèo', 'con mèo này.', 'mèo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Khử trùng tay tiên tiến purell', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'Khử trùng tay purell', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'Khử trùng tay purell']	purell
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thông báo lỗi nói gì?\
+	['khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ', 'sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ nhấp vào OK để tiếp tục', 'khóa sản phẩm không hợp lệ hoặc xóa khóa sản phẩm trong tập tin trả lời không tham gia để tiếp tục', 'sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ', 'khóa sản phẩm không hợp lệ']	không thể trả lời được
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói cho tôi biết tin nhắn này nói gì trên màn hình máy tính của tôi không?\
+	['một số loại sửa chữa nút kết thúc ở bên dưới bên phải', 'sửa khởi động khởi động cuối cùng thành công 9 20 2012 1 cố gắng sửa chữa kết thúc đóng lại hủy bỏ', 'không thể trả lời được', 'không', 'sửa chữa khởi động', 'sửa chữa khởi động', 'sửa chữa khởi động', 'không thể trả lời được', 'khởi động sửa chữa hoàn thành màn hình chẩn đoán nút đóng', 'sửa chữa khởi động']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là thịt gà hay xúc xích hay thịt gì?\
+	['gà', 'gà', 'gà', 'gà', 'gà', 'gà', 'gà', 'Chicken thigh', 'không thể trả lời được', 'gà']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu gì thế?\
+	['màu xanh điện', 'màu xanh', 'màu xanh', 'màu xanh', 'màu xanh', 'màu xanh', 'màu xanh', 'màu xanh', 'màu xanh', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình nói gì?\
+	['lắp đặt cửa sổ', 'cài đặt cửa sổ cộng với nhiều hơn không thể đọc được', 'lắp đặt cửa sổ', 'lắp đặt cửa sổ', 'lắp đặt cửa sổ', 'màn hình này nói rằng cài đặt cửa sổ danh sách các bước cài đặt', 'lắp đặt cửa sổ', 'lắp đặt cửa sổ', 'lắp đặt cửa sổ', 'lắp đặt cửa sổ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bầu trời trông giống như trong bức ảnh này.\
+	['Mờ một phần', 'mây đen', 'mây lớn', 'mây khổng lồ bầu trời tối', 'Mây mây', 'mây', 'mây màu xanh', 'không thể trả lời được', 'mây mưa khổng lồ màu xanh lá cây một chút sang bên', 'mây']	mây
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['hiên', 'ghế', 'ghế', 'ghế', 'không thể trả lời được', 'ghế', 'ghế', 'ghế', 'cửa sổ khung kim loại băng ghế', 'ghế']	cái ghế
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['ảnh', 'cửa', 'cửa', 'thanh', 'Cửa kính', 'cửa', 'nhà hàng', 'nhà hàng', 'cửa', 'cửa']	cái gì
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trên màn hình của tôi?\
+	['chọn thiết bị khởi động', 'xin vui lòng chọn thiết bị khởi động 3 lựa chọn', 'không thể trả lời được', 'xin vui lòng chọn thiết bị khởi động', 'màn hình khởi động', 'xin vui lòng chọn thiết bị khởi động', 'lỗi', 'xin vui lòng chọn thiết bị khởi động', 'thông báo chọn thiết bị', 'xin vui lòng chọn thiết bị khởi động']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái đồ vật này là gì?\
+	['bể chổi', 'tượng đồng trang trí sư tử', 'tượng', 'không', 'bể chổi', 'Thùng chứa tro', 'tượng', 'chén chó', 'bể chổi', 'con hổ dịch hạch trên đỉnh']	tượng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Những loại thuốc lá này là gì?\
+	['tinh thần Mỹ', 'tinh thần Mỹ', 'tinh thần Mỹ', 'tinh thần Mỹ', 'tinh thần Mỹ', 'rượu đen đóng gói của Mỹ', 'tinh thần Mỹ', 'tinh thần Mỹ', 'tinh thần Mỹ', 'tinh thần Mỹ']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Giang mai', 'trà', 'trà', 'trà', 'trà', 'trà', 'trà', 'trà', 'trà', 'trà']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong chai này?\
+	['Lotion cơ thể', 'Lotion cơ thể', 'Lotion cơ thể', 'Lotion', 'Lotion cơ thể da dẻo vitamin E', 'đường ánh trăng vitamin e lotion cơ thể', 'Lotion cơ thể', 'Lotion cơ thể đường trăng', 'Lotion cơ thể đường trăng', 'Lotion']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là bức ảnh của cái gì?\
+	['kính mắt', 'khung', 'kính', 'Kính mắt khung bạc', 'Kính mắt', 'kính', 'khung kính', 'kính', 'kính', 'kính']	kính
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là sản phẩm.\
+	['Ừ', 'súp cà chua', 'súp cà chua', 'súp', 'súp đóng hộp', 'súp cà chua', 'súp cà chua', 'súp cà chua', 'súp', 'chọn súp cà chua thu hoạch']	campbells
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['hộp điện thoại', 'iphone', 'hộp iphone', 'điện thoại', 'điện thoại di động', 'hộp điện thoại di động', 'điện thoại thông minh', 'điện thoại', 'điện thoại thông minh', 'iphone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là bức ảnh của cái gì?\
+	['thùng chứa kẹo', 'hộp đỏ lễ hội', 'chịu trách nhiệm', 'nói là ăn mừng', 'hộp', 'kẹo', 'sự ủng hộ của đảng', 'lễ kỷ niệm', 'hộp', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['rượu sâm banh', 'chậu trà ly rượu vang', 'thủy tinh', 'rượu vang thủy tinh', 'ly rượu sâm panh bên cạnh cốc cà phê ngồi trên đĩa', 'uống trong ly trên bàn', 'rượu sâm banh', 'ly ly trà', 'chai nồi champagne', 'đĩa thủy tinh champagne trên bàn trong cửa sổ phía trước nhìn thành phố']	cái gì
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này có hương vị gì?\
+	['cam', 'cam xanh lá cây vàng đỏ', 'bạc hà cam', 'cam', 'không thể trả lời được', 'không thể trả lời được', 'cam', '2 bên trái cam cherry chanh trên cùng bên phải dưới wintergreen', 'cam', 'cam']	hương vị cam
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin chào, tôi đang tự hỏi trong lon này có gì không?\
+	['Coca cola', 'Coca cola', 'soda', 'Coca cola', 'soda', 'soda coke', 'soda', 'soda', 'cocacola', 'soda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Máy sấy này cài đặt thế nào?\
+	['ngược chiều kim đồng hồ thời gian kiểm soát nếp nhăn thường xuyên khô mỏng nếp nhăn giải phóng không khí nhũ', 'thường xuyên', 'tắt', 'tắt', 'tắt', 'thường xuyên', 'tắt', 'không được cài đặt', 'Không có gì cả.', 'tắt']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['thuốc', 'thuốc', 'ứng dụng điện thoại', 'màn hình', 'danh sách ứng dụng', 'App Store', 'thuốc', 'danh sách ứng dụng để tải xuống', 'không thể trả lời được', 'tải về ứng dụng']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đang nhìn cái gì vậy?\
+	['truyền hình', 'TV tủ', 'truyền hình', 'TV', 'màn hình TV', 'truyền hình', 'Tom Selleck trên truyền hình', 'TV', 'TV', 'TV cửa tủ mở']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu gì thế?\
+	['màu trắng', 'màu trắng', 'màu trắng', 'màu trắng', 'màu xanh dương', 'màu trắng', 'Ngà voi', 'không thể trả lời được', 'màu xanh dương', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['thực phẩm này', 'bánh ravioli', 'bánh ravioli', 'bánh ravioli', 'bánh ravioli', 'đầu bếp Boyardee mini ravioli', 'bánh ravioli nhỏ đóng hộp', 'bánh ravioli', 'đầu bếp Boya mini ravioli', 'bánh ravioli nhỏ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['bột thịt bò nướng', 'thịt bò nướng', 'thịt bò nướng', 'thịt bò nướng', 'thịt bò rang truyền thống', 'thịt bò nướng', 'thịt bò nướng', 'thịt bò rang truyền thống', 'thịt bò nướng', 'thịt bò nướng']	thịt bò nướng truyền thống
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Sản phẩm này là gì?\
+	['Pepsi chế độ ăn kiêng', 'Pepsi chế độ ăn uống không có caffeine', 'Pepsi', 'Pepsi', 'Pepsi chế độ ăn kiêng', 'Pepsi chế độ ăn kiêng', 'Pepsi chế độ ăn kiêng', 'Pepsi không có caffeine', 'Pepsi chế độ ăn kiêng', 'Pepsi chế độ ăn kiêng']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này gọi là gì?\
+	['Đông', 'đậu', 'không thể trả lời được', 'không thể trả lời được', 'thực phẩm', 'đậu', 'hỗn hợp đường mòn', 'ngũ cốc', 'hạt', 'đậu phộng']	hạt đậu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là cà phê bình thường hay không caffein?\
+	['thường xuyên', 'không thể trả lời được', 'thường xuyên', 'thường xuyên', 'thường xuyên', 'thường xuyên', 'không thể trả lời được', 'không thể trả lời được', 'thường xuyên', 'thường xuyên']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['phô mai macaroni', 'phô mai macaroni', 'phô mai macaroni', 'phô mai macaroni', 'phô mai macaroni', 'pho mát mac', 'phô mai macaroni', 'phô mai macaroni', 'phô mai macaroni', 'phô mai macaroni']	cà rốt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong chai này?\
+	['kem làm mềm', 'Lotion', 'Lotion', 'Lotion', 'kem làm mềm', 'Lotion', 'kem dưỡng ẩm', 'kem cơ thể', 'rửa cơ thể bằng nước sâu', 'rửa cơ thể']	sản phẩm dưỡng thể
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì thế?\
+	['ghế bàn', 'ghế', 'ghế', 'ghế văn phòng', 'ghế văn phòng', 'chiếc ghế văn phòng này', 'ghế', 'ghế bàn', 'ghế', 'ghế văn phòng màu xám']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái thứ tôi vừa chụp là gì?\
+	['màn hình máy tính', 'máy tính', 'màn hình máy tính', 'không thể trả lời được', 'không thể trả lời được', 'máy tính xách tay', 'màn hình máy tính', 'máy tính xách tay', 'màn hình máy tính', 'Máy tính xách tay']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nói tôi nghe đây là gì.\
+	['thịt lợn', 'thịt', 'một loại thịt đỏ', 'thịt đóng gói', 'thịt lợn', 'thịt lợn', 'không thể trả lời được', 'thịt', 'Fg', 'thịt lợn']	thịt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. bầu trời trông như thế nào trong bức ảnh này?\
+	['ngày mây', 'Mờ một phần', 'mây', 'mây', 'mây', 'mây', 'mây', 'mây', 'mây', 'mưa']	bầu trời xám xịt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Ăn gì thế, chờ đợi hết thời gian à?\
+	['không thể trả lời được', 'mì ống', 'mì ống', 'không thể trả lời được', 'không thể trả lời được', 'mì ống', 'mì ống', 'gương', 'bữa tối', 'Pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['hoa', 'hoa', 'hoa', 'hoa', 'hoa', 'hoa', 'cây', 'hoa', 'hoa', 'sợi lông tròng mắt']	cái này không thể trả lời được
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái thứ này là gì?\
+	['trà lỏng', 'trà', 'không thể trả lời được', 'trà', 'trà', 'trà', 'trà', 'trà', 'trà', 'trà']	trà
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái quần ngắn này màu gì và kiểu gì?\
+	['màu lốp', 'màu xanh lá cây màu vàng', 'xanh lam cam xanh lá cây', 'màu xanh dương nâu trắng màu lông', 'màu xanh lá cây trên trên màu vàng trên dưới', 'đa màu', 'màu xanh dương nâu màu trắng', 'màu lốp', 'màu xanh lá cây', 'màu xanh dương trắng xanh lá cây màu vàng']	sọc xanh trắng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp màu gì?\
+	['màu xanh lá cây', 'màu xanh lá cây', 'xanh lá cây', 'màu xanh lá cây', 'màu xanh lá cây', 'màu xanh lá cây', 'màu xanh lá cây', 'màu xanh lá cây', 'màu xanh lá cây sáng', 'màu xanh lá cây']	Màu xanh lá cây
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là Coca-Cola bình thường hay Coca-Cola ăn kiêng?\
+	['Coca-cola chế độ ăn kiêng', 'chế độ ăn', 'chế độ ăn', 'chế độ ăn', 'chế độ ăn', 'chế độ ăn', 'Coca-cola chế độ ăn kiêng', 'chế độ ăn', 'Coca-cola chế độ ăn kiêng', 'chế độ ăn']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['bút', 'bút bàn phím', 'bút', 'bút', 'bút', 'bút', 'bút', 'bút', 'bút', 'bi-pen']	cái bút
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['đèn có thể pringles', 'đèn', 'đèn', 'đèn', 'Pringle có thể bên cạnh đèn cd', 'đèn không bóng', 'đèn', 'bồn rửa miệng đèn bàn', 'đèn', 'đèn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Máy tính này làm gì vậy?\
+	['hệ thống kiểm tra', 'không thể trả lời được', 'kiểm tra đĩa', 'đĩa kiểm tra', 'không thể trả lời được', 'không thể trả lời được', 'tải', 'cấu hình', 'Kiểm tra tính nhất quán', 'khởi động lại']	cập nhật
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại soda gì vậy?\
+	['Coca-cola chế độ ăn kiêng', 'âm thanh', 'Coca-cola chế độ ăn kiêng', 'Coca-cola chế độ ăn kiêng', 'Coca-cola chế độ ăn kiêng', 'Coca-cola chế độ ăn kiêng', 'Coca-cola chế độ ăn kiêng', 'Coca-Cola chế độ ăn kiêng chanh', 'Coca-cola chế độ ăn kiêng', 'Coca-cola chế độ ăn kiêng']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy cho tôi biết chủ đề của cuốn sách này.\
+	['Clive Cussler Dirk Cussler', 'không thể trả lời được', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'khoa học', 'sự bất ngờ', 'Olive Cussler Dirk Cussler', 'hành động', 'không thể trả lời được', 'Clive Cussler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Rượu nào thế?\
+	['không thể trả lời được', 'Lễ cưới David Emma rượu vang đỏ', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'không thể trả lời được', 'không thể trả lời được', 'rượu Nash']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['sữa chua', 'không thể trả lời được', 'sữa chua', 'sữa chua', 'sữa chua', 'sữa chua', 'sữa chua', 'sữa chua', 'sữa chua', 'sữa chua']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tên sách này là gì?\
+	['năm chó', 'năm chó', 'năm chó', 'năm chó', 'không thể trả lời được', 'năm chó', 'không thể trả lời được', 'năm chó', 'năm chó', 'năm chó']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['máy tính xách tay Sony', 'máy tính xách tay', 'máy tính xách tay', 'máy tính', 'máy tính xách tay', 'máy tính xách tay Sony Vaio', 'máy tính xách tay', 'sony vaio', 'máy tính xách tay Sony', 'máy tính xách tay']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi tự hỏi cái máy tính này là gì.\
+	['sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể cho tôi biết đây là gì không?\
+	['chiến đấu', 'Nhãn sau không nói', 'không thể trả lời được', 'cà chua', 'cà chua', 'cà chua', 'không thể trả lời được', 'cà chua', 'hình ảnh không rõ ràng', 'cà chua']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['bánh ngọt', 'đồ ăn nhẹ pudding', 'Bánh vanilla', 'bánh ngọt', 'Bánh vanilla', 'bánh ngọt', '6 gói đồ ăn nhẹ gói bánh vanilla pudding', 'ly bánh ngọt', 'bánh ngọt', 'Bánh ngọt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['20 đô la Canada', '20 đô la Canada', '20 người Canada', 'tiền', 'tiền trên renda', '20 tiền', 'tiền', '20 đô la Canada', '20 đô la', 'tiền']	20 đô la canada
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['lasagne', 'lasagne', 'Lasagne đặc biệt', 'lasagne', 'Lasagna đặc biệt', 'Lasagne đặc biệt', 'lasgne', 'lasagne', 'Lasagna', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái loại cà phê này là gì?\
+	['cà phê espresso', 'cà phê espresso', 'timothy expresso', 'Espresso rừng mưa', 'cà phê espresso rừng mưa', 'cà phê espresso', 'thêm đậm', 'espresso forest nhiệt đới', 'đặc biệt đậm đặc biệt đậm đặc biệt nhiệt đới', 'Ti-mô-thê']	rainforest espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bức ảnh đó là gì?\
+	['ly rượu vang bàn phím', 'máy tính xách tay', 'bàn phím máy tính xách tay rượu bia', 'không thể trả lời được', 'máy tính', 'máy tính', 'đồ uống laptop', 'máy tính xách tay trên bàn bên cạnh chất lỏng thủy tinh', 'Kính máy tính xách tay', 'Máy tính xách tay kính']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['cuốn sách tiêu đề', 'sách', 'tờ rơi', 'ghi chú', 'Demon rum easy money book (tạm dịch: \"Tài sách tiền dễ dàng\")', 'Demon rum tiền dễ dàng: Chính phủ kiểm soát rượu ở British Columbia', 'sách', 'sách', 'trang đầu sách', 'tờ rơi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên bàn?\
+	['sổ ghi chép', 'bút ghi chép giấy khác', 'sổ ghi chép vòng xoắn ốc', 'bút giấy', 'sổ ghi chép', 'bút ghi chép', 'sổ ghi chép', 'bút ghi chép', 'bút giấy', 'sổ ghi chép']	bút
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái áo này màu gì?\
+	['màu xanh trắng', 'màu xanh trắng', 'màu xanh trắng', 'màu xanh trắng', 'màu xanh', 'màu xanh trắng', 'màu xanh dương màu trắng', 'màu xanh lá cây', 'màu xanh', 'màu xanh']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Andre Chardonnay', 'rượu sâm banh', 'andre', 'rượu sâm banh', 'rượu vang', 'rượu sâm banh', 'rượu sâm banh', 'rượu sâm banh', 'chai rượu sâm banh', 'rượu sâm banh']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì tên của sản phẩm trong hộp trong hình?\
+	['lyzol', 'lyzol', 'lyzol', 'lyzol', 'lyzol', 'lyzol', 'lyzol', 'lyzol', 'lyzol', 'lyzol']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái loại cà phê này là gì?\
+	['Gevalia', 'tối đa Gevalia Kaffe', 'Máy chủ', 'cà phê cà phê', 'Máy chủ', 'cà phê đen', 'Máy chủ', 'không thể trả lời được', 'Gevalia', 'Gevalia']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Đậu số', 'có thể dùng soda tiêu', 'Đậu số', 'Đậu số', 'Đậu số', 'Đậu số', '- Sôda tiêu', 'Đậu số', 'có thể dùng soda tiêu', 'Đậu số']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin cô cho tôi biết đây là gì được không?\
+	['cà phê nhanh', 'cà phê nhanh', 'cà phê cổ điển', 'gói cà phê', 'không thể trả lời được', 'cà phê', 'cà phê', 'cà phê bột', 'cà phê', 'Nescafe Classic']	cà phê
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Ba dây từ trái sang phải có màu gì?\
+	['đỏ đen trắng', 'đỏ đen trắng', 'màu đỏ đen tan', 'đỏ đen trắng', 'đỏ đen trắng', 'đỏ đen trắng', 'đỏ đen trắng', 'đỏ đen trắng', 'đỏ xanh trắng', 'đỏ đen trắng']	Đỏ, đen và trắng.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xét nghiệm mang thai này cho thấy gì?\
+	['1 dòng', 'âm', 'âm', '1 dòng nhưng nhuộm màu trải thử một khác', 'không thể trả lời được', '1 sọc', 'không có hình ảnh', 'đường đỏ', 'không thể trả lời được', 'dấu màu xanh lá cây dấu màu đỏ']	không có thai
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gia vị này tên gì?\
+	['mrs. hỗn hợp hạt nhân chanh tươi', 'dải', 'Bà Dash.', 'Bà Dash, hạt tiêu chanh', 'Bà Dash.', 'Bà Dash.', 'ớt', 'Bà Dash.', 'Bà Dash.', 'Bà Dash.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Chào, chai nước uống ở tay phải của tôi là loại gì?\
+	['Pepsi', 'Pepsi soda', 'Pepsi chế độ ăn kiêng', 'Pepsi chế độ ăn kiêng', 'Pepsi chế độ ăn kiêng', 'Pepsi', 'Pepsi chế độ ăn kiêng', 'chế độ ăn Pepsi', 'Pepsi chế độ ăn kiêng', 'Pepsi chế độ ăn kiêng']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['trò chơi điện tử', 'trò chơi điện tử', 'trò chơi bóng rổ', 'trò chơi điện tử', 'không thể trả lời được', 'DVD', 'không thể trả lời được', 'trò chơi', 'trò chơi điện tử', 'DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['ketchup', 'ketchup', 'Heinz ketchup cà chua', 'gói ketchup', 'gói ketchup', 'ketchup', 'ketchup', 'gói ketchup', 'ketchup', 'ketchup']	thành phần của tương cà
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái áo này có màu gì?\
+	['màu đỏ trắng', 'màu nâu', 'màu đỏ trắng', 'Dải màu đỏ trắng', 'Dải màu đỏ trắng', 'màu đỏ trắng', 'màu đỏ trắng', 'màu đỏ trắng', 'màu đỏ trắng', 'màu đỏ trắng']	red
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong gói này có gì?\
+	['hình ảnh quốc hội', 'album âm nhạc', 'thuốc lá', 'thuốc lá', 'thuốc lá', 'thuốc lá', 'bộ lọc nhúng pahament', 'thuốc lá quốc hội', 'thẻ', 'thuốc lá']	hút thuốc
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái thảm này màu gì?\
+	['màu tím', 'màu tím', 'màu tím', 'màu tím', 'màu tím', 'màu tím', 'màu tím', 'màu tím', 'màu tím', 'màu tím']	tím
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có phải cuộc đối thoại rõ ràng hơn trong bức ảnh đó?\
+	['buồn chán', 'Ừ', 'không', 'Ừ', 'không', 'không', 'không', 'không', 'không', 'Ừ']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Sản phẩm này là gì?\
+	['đậu xanh', 'đậu xanh', 'đậu xanh', 'có thể', 'đậu', 'đậu', 'không thể trả lời được', 'đậu xanh', 'Fg', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp này là gì?\
+	['đậu heo', 'đậu heo', 'thịt lợn n đậu', 'đậu heo', 'đậu heo', 'đậu heo', 'đậu heo', 'đậu heo', 'đậu heo', 'đậu heo']	đậu lăng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Rượu gì thế?\
+	['không thể trả lời được', 'Aewfdsaedf', 'Vintage 2008 sản xuất Nash', 'Nash', 'Nash', 'quà lưu niệm cưới', 'Nash kỷ niệm đám cưới David Emma 16 tháng 7 năm 2011', 'Nash', 'Nash', 'lễ cưới']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái thức ăn này là gì?\
+	['nước sốt cà chua', 'nước sốt cà chua', 'Nước sốt cà chua hữu cơ', 'nước sốt cà chua', 'nước sốt cà chua', 'nước sốt cà chua', 'Muir Glen nước sốt cà chua hữu cơ', 'nước sốt cà chua', 'Muir Glen nước sốt cà chua hữu cơ', 'tomoto']	sốt cà chua
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Món gì thế?\
+	['dâu tây', 'dâu tây', 'dâu tây', 'dâu tây', 'dâu tây', 'dâu tây', 'dâu tây', 'dâu tây', 'dâu tây', 'dâu tây']	kool aid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết màu sắc của nó không?\
+	['màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen']	black
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['cây', 'cây trang trí', 'hoa cúc', 'cây trong nhà', 'cây trong nhà', 'cây nhà', 'cây', 'cây nhà', 'cây', 'cây cỏ']	thực vật
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['tạp chí', 'truyện tranh', 'truyện tranh', 'trò chơi bảng người lớn', 'tạp chí', 'sách tô màu', 'sách Giáng sinh kì lạ', 'không chắc là tôi không đọc được ngôn ngữ đó', 'thiệp chúc mừng Giáng sinh', 'truyện tranh']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['Đêm ăn gà Dijon', 'thực phẩm', 'gà dijon', 'gà dijon', 'gà dijon', 'thực phẩm', 'gà dijon', 'gà', 'gà dijon', 'gà dijon']	gà dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái loại cà phê này là gì?\
+	['Gevaliaa', 'Gevalia', 'vanilla Pháp', 'vanilla Pháp', 'Gevaliaa', 'Gevaliaa', 'vanilla Pháp', 'vanilla Pháp', 'tiếng Pháp', 'Gevaliaa vanilla Pháp']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái đồ vật này là gì?\
+	['iphone', 'điện thoại', 'điện thoại', 'iphone', 'điện thoại di động', 'điện thoại di động', 'điện thoại di động', 'Tôi gọi điện', 'điện thoại thông minh', 'điện thoại thông minh']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'thuốc lá', 'thuốc lá đóng gói', 'thuốc lá', 'thuốc lá đóng gói', 'thuốc lá', 'thuốc lá', 'không thể trả lời được', 'thuốc lá', 'thuốc lá']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Món gì thế?\
+	['thịt bò', 'Chất có hương vị thịt bò', 'thịt bò', 'Nước nước dùng có hương vị thịt bò', 'thịt bò', 'hương vị thịt bò', 'Nước nước dùng có hương vị thịt bò', 'thịt bò', 'hương vị thịt bò này', 'thịt bò']	broth
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['cốc lớn', 'ly', 'ly', 'ly', 'yêu cup togo', 'ly', 'Pop cup, vài thứ khác.', 'cốc styrofoam', 'ly', 'cái cốc này.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là Pepsi ăn kiêng hay Pepsi bình thường?\
+	['Pepsi chế độ ăn kiêng', 'chế độ ăn', 'không thể trả lời được', 'chế độ ăn', 'Pepsi chế độ ăn kiêng', 'chế độ ăn', 'chế độ ăn', 'chế độ ăn', 'Pepsi chế độ ăn kiêng', 'chế độ ăn']	pepsi diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình nói gì?\
+	['phần mềm avast', 'quét ổ đĩa cục bộ', 'cửa sổ', 'thông báo lỗi', 'quét', 'phần mềm avast quét windows xp', 'cửa sổ', 'không thể trả lời được', 'windows xp', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đang cố gắng truy cập vào menu khởi động và tôi đang cố gắng khởi động từ ổ đĩa USB. xem nếu bạn có thể cho tôi màn hình nào là và tùy chọn là gì?\
+	['Nhấn mũi tên xuống một lần sau đó nhập cho usb', 'Menu khởi động trên khởi động từ tùy chọn hdd', 'không thể trả lời được', 'U bootmood', 'xin vui lòng chọn thiết bị khởi động', 'xin vui lòng chọn thiết bị khởi động:', 'xin vui lòng chọn thiết bị khởi động hdd: pm st9250315as', 'xin vui lòng chọn thiết bị khởi động', 'tiêu đề màn hình: vui lòng chọn thiết bị khởi động di chuyển mũi tên xuống 1 điểm để usb:usb disk pro', 'xin vui lòng chọn thiết bị khởi động']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết hương vị của nó là gì không?\
+	['chế độ ăn uống', 'chế độ ăn uống', 'chế độ ăn tiêu', 'Đậu số', 'chế độ ăn uống', 'chế độ ăn uống', 'chế độ ăn uống', 'cola', 'chế độ ăn uống', 'chế độ ăn uống']	dr pepper diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại súp gì vậy?\
+	['súp rau', 'tiến bộ', 'tiến bộ', 'không thể trả lời được', 'rau Progreso', 'không thể trả lời được', 'rau quả', 'rau Progreso', 'rau', 'tiến bộ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh nói cho tôi biết đây là loại xe nào không?\
+	['không thể trả lời được', 'Lincoln Crown Victoria', 'Một loại xe 4 cửa', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'xe chevrolet', 'vương miện Victoria', 'không thể trả lời được', 'Ford']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là cà phê à?\
+	['Gevalia', 'Gevalia', 'Gevalia', 'Gevalia Swiss hazelnut', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'thuốc khử trùng tay', 'germx', 'thuốc khử trùng x', 'thuốc khử trùng x']	cảm ơn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp đó là gì?\
+	['súp', 'trái cây', 'không thể trả lời được', 'không thể trả lời được', 'súp', 'không thể trả lời được', 'súp', 'không thể trả lời được', 'ngăn kéo', 'súp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu này là màu gì?\
+	['màu nâu', 'màu nâu', 'màu nâu', 'màu sồi', 'màu nâu', 'cây phong nâu', 'gỗ', 'màu nâu', 'màu nâu', 'màu nâu']	tan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'tay', 'tay', 'không thể trả lời được', 'tay', 'tay', '1 tay phải', 'tay', 'tay', 'tay']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cầu nước nướng thế nào?\
+	['ly', 'cao', 'cao', 'cao', 'cao', 'cao', 'thấp', 'cao', 'cao', 'cao']	low
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói cho tôi biết đây là gì không?\
+	['Các sản phẩm dành cho người mù', 'cd', 'cd ngược', 'Các sản phẩm cho đĩa mù', 'cd', 'đĩa', 'sách trên đĩa CD', 'cd', 'Các sản phẩm cd cho người mù', 'Spear của James Herbert DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['máy tính màn hình bàn phím', 'màn hình', 'màn hình máy tính', 'màn hình máy tính', 'máy tính', 'màn hình máy tính', 'màn hình máy tính', 'máy tính để bàn', 'biểu đồ', 'biểu đồ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói với tôi cái chai này nói gì không?\
+	['đường vanilla ấm', 'đường', 'đường vanilla ấm', 'đường vanilla ấm', 'Lotion cơ thể đường vani ấm', 'đường vani ấm', 'Lotion cơ thể đường vani ấm', 'đường vanilla ấm', 'Lotion cơ thể đường vani ấm', 'đường vanilla ấm']	lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên màn hình?\
+	['màn hình cài đặt cửa sổ', 'không thể trả lời được', 'lắp đặt cửa sổ', 'cài đặt màn hình trạng thái windows', 'cài đặt windows', 'lắp đặt cửa sổ', 'hướng dẫn cài đặt cửa sổ', 'tiến trình lắp đặt cửa sổ', 'cài đặt windows info', 'cửa sổ']	installing windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['có thể', 'có thể', 'không thể trả lời được', 'đậu lon', 'có thể', 'đậu', 'không thể trả lời được', 'đậu', 'món hầm', 'món hầm']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái loại đồ uống nào thế?\
+	['nước cam', 'nước cam', 'nước cam', 'nước cam', 'nước cam', 'nước cam', 'nước cam', 'nước cam', 'cam', 'nước cam']	cà phê
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp này chứa loại nước gì vậy?\
+	['trà', 'Nestéa', 'Nêstêa chanh', 'trà đá', 'Nestéa', 'Nestéa', 'Nestéa', 'trà đá', 'trà đá Nestle', 'chăn']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là pizza với bánh Pepperoni, Pepperoni và xúc xích, Supreme, loại nào?\
+	['ớt', 'ớt', 'ớt', 'ớt', 'ớt', 'ớt', 'Ừ', 'ớt', 'Mama cozzis pepperoni vỏ mỏng', 'ớt']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có biết cây ở giữa là loại gì không?\
+	['không', 'cỏ', 'cỏ', 'cỏ', 'cỏ', 'cỏ', 'không', 'không', 'cỏ', 'cỏ dại']	cỏ dại
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['kính', 'kính', 'kính', 'kính mắt', 'cặp kính', 'kính', 'cặp kính', 'kính', 'Kính mắt', 'cặp kính']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Mô tả nơi này.\
+	['văn phòng', 'không gian văn phòng', 'văn phòng', 'văn phòng 2 bàn tủ 2 ghế', 'văn phòng', 'văn phòng', 'bàn làm việc ghế văn phòng màu đen', 'bàn văn phòng', 'văn phòng 2 bàn', 'văn phòng']	không có hình ảnh để mô tả
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['sổ ghi chép', 'người lập kế hoạch', 'sách', 'sách', 'thẻ', 'sổ ghi chép', 'người lập kế hoạch', 'sổ ghi chép', 'Lilly Pulitzer chương trình nghị sự xoắn ốc', 'sổ ghi chép']	thưa thớt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['bông hoa gấu bông hoa', 'gấu bông', 'gấu bông', 'gấu bông', 'gấu bông', 'gấu bông', 'gấu', 'gấu bông', 'gấu bông', 'gấu bông']	không thể trả lời
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại gia vị gì vậy?\
+	['muối biển hành tây', 'muối biển hành tây', 'muối biển hành tây', 'muối biển hành tây', 'muối biển', 'muối hành tây', 'muối biển hành tây', 'muối biển hành tây', 'muối biển hành tây', 'muối biển hành tây']	hạt tiêu và nước biển
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong hộp này?\
+	['chế độ ăn uống', 'chế độ ăn uống', 'chế độ ăn uống', 'chế độ ăn uống', 'Đậu số', 'chế độ ăn uống', 'chế độ ăn uống', 'chế độ ăn uống', 'chế độ ăn tiêu', 'chế độ ăn uống']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có hình gì trên cốc này?\
+	['phim hoạt hình', 'nhân vật hoạt hình', 'phim hoạt hình', 'người nhìn chim', 'gà người', 'người đàn ông', 'Người hoạt hình', 'phác thảo chim người đàn ông cây trăng', 'con người động vật', 'phim hoạt hình']	Hình ảnh không có trong văn bản được cung cấp, do đó tôi không thể trả lời câu hỏi này.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['người trở lại', 'con trai', 'đầu người', 'người', 'Lưng người khác đầu vai', 'Lại đây.', 'không thể trả lời được', 'áo xám', 'con trai', 'hình ảnh người sau']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['người phát ngôn', 'người phát ngôn', 'loa trên tường', 'người phát ngôn', 'người phát ngôn', 'người phát ngôn', 'loa tường', 'người phát ngôn', 'cưng cưng', 'người phát ngôn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trong đó?\
+	['số điện thoại xe taxi', 'Không có gì cả.', 'Không có gì cả.', 'điện thoại', 'taxi thành phố', 'biên lai', 'không thể trả lời được', 'trông giống như biên lai.', 'đường', 'taxi thành phố']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['New Orleans phong cách jambalaya hỗn hợp', 'hỗn hợp jambalaya', 'hỗn hợp jambalaya', 'gạo', 'mỹ', 'hỗn hợp jambalaya', 'hỗn hợp jambalaya', 'gạo jambalaya', 'hộp hỗn hợp chuẩn bị cho gạo jambalaya kiểu New Orleans', 'hỗn hợp jambalaya']	thông tin không đủ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Mac của tôi màu gì?\
+	['bạc', 'màu trắng', 'màu đen', 'màu trắng', 'bạc', 'bạc', 'bạc', 'bạc', 'màu trắng', 'bạc']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp có gì?\
+	['đậu nướng hữu cơ', 'đậu nướng', 'đậu nướng hữu cơ', 'đậu nướng', 'đậu nướng', 'đậu nướng', 'đậu nướng', 'đậu nướng', 'đậu nướng', 'đậu nướng']	đậu nướng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['phô mai macaroni', 'không thể trả lời được', 'phô mai macaroni', '3 bánh macaroni pho mát', 'phô mai macaroni', 'pho mát mac', 'phô mai macaroni', 'bữa tối', 'bánh mì n cheese', 'Bánh phô mai']	mac n cheese
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['zatarains New Orleans phong cách jambalaya hỗn hợp', 'hỗn hợp jambalaya', 'hỗn hợp jambalaya', 'hỗn hợp jambalaya', 'hỗn hợp jambalaya', 'gạo', 'zatarains jambalaya hỗn hợp', 'mỹ', 'zatarains jambalaya hỗn hợp', 'hỗn hợp jambalaya']	tương ứng không có trong văn bản
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['kẹo đường phố chất lượng', 'kẹo hộp', 'kẹo', 'kẹo', 'kẹo cứng', 'kẹo', 'kẹo', 'kẹo', 'đường phố chất lượng', 'kẹo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin lỗi, nói cho tôi biết chính xác bạn có thể thấy gì trong bức ảnh này.\
+	['tủ lạnh', 'tủ lạnh', 'tủ lạnh', 'tủ lạnh nhỏ vải vải vải tray ánh sáng gạch tay cầm tường dán trên tủ lạnh', 'tủ lạnh', 'tủ lạnh mini', 'tủ lạnh mini', 'Cửa tủ', 'tủ lạnh màu trắng', 'tủ lạnh']	tủ lạnh nhỏ màu trắng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói cho tôi biết cái thứ trong hộp nói gì không?\
+	['Những đứa cháu tuyệt vời.', 'Có chuyện gì đó về những đứa cháu tuyệt vời.', 'ngon lành', 'Không có gì thú vị hơn là cháu trai.', 'Có rất ít điều thú vị hơn là cháu trai chiến đấu cho lòng con.', 'Những đứa cháu tuyệt vời.', 'Những đứa cháu tuyệt vời.', 'Có rất ít điều thú vị hơn là cháu trai chiến đấu cho lòng con.', 'không thể trả lời được', 'Những đứa cháu tuyệt vời.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bầu trời trông như thế nào?\
+	['rõ ràng', 'hoàng hôn mặt trời mọc', 'màu xanh', 'hoàng hôn', 'màu xanh', 'rõ ràng', 'rõ ràng', 'yên tĩnh', 'màu xanh nhạt', 'xanh sáng hơn xanh gần chân trời']	clear
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái áo này màu gì?\
+	['màu nâu', 'màu nâu', 'màu nâu', 'màu xanh dương', 'màu xanh dương', 'màu hồng', 'màu nâu', 'màu nâu', 'vàng', 'màu xám']	tóc nâu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nó là con trai hay con gái?\
+	['không thể trả lời được', 'con trai', 'con trai', 'cô gái', 'con trai', 'con trai', 'con trai', 'con trai', 'con trai', 'con trai']	con trai
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy cho tôi biết đây là đồ gì?\
+	['ngũ cốc', 'cheerios', 'ngũ cốc', 'cheerios', 'không thể trả lời được', 'ngũ cốc', 'Chào mừng mật ong', 'Chào mừng bây giờ ngon hơn mật ong', 'Bữa trưa', 'Bữa trưa']	cereal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu gì thế?\
+	['màu đỏ màu vàng màu trắng màu xanh', 'màu lốp', 'màu xanh lá cây màu xanh trắng màu đỏ', 'đa màu', 'màu trắng', 'màu lốp', 'xanh lá cây xanh trắng đỏ', 'màu lốp', 'màu xanh dương màu trắng màu xanh lá cây', 'xanh lá cây xanh đỏ trắng']	Màu xanh lá cây xanh lam đỏ trắng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Cacao nóng', 'hỗn hợp ca cao nóng', 'hỗn hợp ca cao nóng', 'hỗn hợp ca cao nóng', 'hỗn hợp cacao', 'Cacao nóng', 'sôcôla nóng', 'hỗn hợp sô cô la nóng', 'gói sôcôla nóng', 'sôcôla nóng']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['không thể trả lời được', 'bia nhẹ đặc biệt hams', 'bia', 'không thể trả lời được', 'không thể trả lời được', 'bia', 'bia', 'bia', 'bia', 'ánh sáng đặc biệt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là gà hay mứt?\
+	['cà chua', 'cà chua', 'cà chua', 'cà chua', 'không', 'cà chua', 'súp cà chua', 'cà chua', 'cà chua', 'không']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì?\
+	['macbook pro', 'macbook pro', 'Mac Book Pro', 'macbook pro', 'Mac Book Pro', 'macbook pro', 'macbook pro', 'Airbook Pro', 'macbookpro', 'macbook pro']	cái này không thể trả lời được
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi muốn biết có gì trong hộp này.\
+	['đậu nướng', 'đậu nướng', 'đậu', 'đậu nướng trong nước sốt cà chua', 'Nữ nông dân nướng đậu', 'đậu nướng', 'đậu nướng', 'đậu', 'đậu nướng', 'đậu']	hỗn hợp đậu nướng trong nước sốt cà chua
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['gà', 'không thể trả lời được', 'gà Parmesan kem', 'thực phẩm', 'Bữa tối truyền hình', 'thực phẩm', 'pho mát mac', 'thực phẩm', 'Bánh mì Marie Collenders', 'gà Parmesan kem']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Tiền đô la', '1 tờ đô la', 'đồng đô la', '1 tờ đô la', '1', '1 tờ đô la', 'Tiền đô la', 'Tiền 1 đô la', '1 tờ đô la', '1 tờ tiền đô la Mỹ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['bài chơi', '2 vua', 'cặp vua', 'bài chơi', 'thẻ', 'thẻ', 'bài chơi', 'cặp', 'thẻ', 'bài chơi']	thẻ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nó màu đen hay màu xanh?\
+	['không thể trả lời được', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu đen', 'màu xám', 'màu xám đen', 'màu đen']	black
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên màn hình?\
+	['hộp văn bản tìm kiếm google', 'google', 'google', 'Google Google tìm kiếm Tôi cảm thấy may mắn', 'google', 'tìm kiếm trên google', 'không thể trả lời được', 'google', 'google', 'không thể trả lời được']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['thịt bò nướng', 'thịt bò nướng', 'thịt bò nướng', 'thịt bò nướng', 'thực phẩm', 'thịt bò nướng', 'thịt bò nướng', 'thịt bò nướng', 'thịt bò rang truyền thống', 'thịt bò rang truyền thống']	thịt bò nướng truyền thống
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại soda gì vậy?\
+	['Đậu số', 'Đậu số', 'Đậu số', 'Đậu số', 'Đậu số', 'Đậu số', 'Đậu số', 'Đậu số', 'Đậu số', 'Đậu số']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['điều khiển từ xa TV', 'điều khiển từ xa', 'điều khiển từ xa', 'từ xa', 'điều khiển từ xa', 'từ xa', 'điều khiển từ xa', 'điều khiển từ xa', 'từ xa', 'điều khiển từ xa']	chưa đủ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['cây nhà', 'cây', 'cây nhà', 'cây', 'cây', 'cây', 'cây', 'cây nồi', 'cây', 'cây trong nhà']	chậu cây
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['bàn làm việc', 'máy tính', 'bàn làm việc', 'bàn làm việc', 'bàn làm việc', 'bàn làm việc', 'bàn máy tính', 'bàn làm việc', 'bàn làm việc', 'máy tính bàn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên bàn của tôi?\
+	['iPod touch', 'ứng dụng', 'điện thoại', 'giấy điện thoại thông minh', 'giấy điện thoại thông minh', 'điện thoại', 'điện thoại', 'điện thoại', 'điện thoại di động', 'điện thoại']	điện thoại di động
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi chụp hình gì?\
+	['ipad', 'pic iPad túi cà phê bên cạnh', 'thuốc', 'ipad', 'màn hình đăng nhập hulu', 'huluplus', 'viên thuốc cho thấy hulu plus', 'máy tính bảng hulu cộng với đăng nhập', 'màn hình huluplus', 'màn hình đăng nhập cho hulu plus trên máy tính bảng']	hulu plus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái chai này là gì?\
+	['dầu gội', 'dầu gội', 'không thể trả lời được', 'trèm', 'yêu em', 'không thể trả lời được', 'chăm sóc tóc tresemme', 'dầu gội', 'nước hoa', 'Trà trèm']	tresemme
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là mô hình của cái gì?\
+	['soda', 'linh dương', 'chai nước ngọt', 'linh dương', 'không thể trả lời được', 'nước soda sprite', 'linh dương', 'chai sprite', 'không thể trả lời được', 'linh dương']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Sản phẩm này là gì?\
+	['chex mix', 'chex mix', 'chex mix', 'Chex mix cheddar', 'chex mix', 'chex mix', 'chef mix', 'chex mix', 'chex mix', 'chex']	cheddar chex
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['gà tây khói', 'Panini gà tây khói', 'Panini gà tây khói', 'bánh mì gà tây', 'Panini gà tây khói', 'Panini gà tây khói', 'Chất nhồi bông', 'bánh mỳ', 'gà tây khói', 'Panini gà tây khói']	thịt nướng gà
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi gõ chữ cái nào để giành giải thưởng?\
+	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp này là gì vậy?\
+	['cà chua', 'nước sốt', 'cà chua', 'cà chua nghiền nát', 'tinh', 'cà chua', 'cà chua', 'cà chua đóng hộp', 'cà chua', 'cà chua']	hành tây
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái cốc Keurig này là loại gì vậy?\
+	['nhà bánh rán', 'cà phê', 'hộp', 'bánh rán', 'bộ sưu tập nhà bánh rán', 'bánh rán', 'bánh rán', 'bộ sưu tập chuồng bánh rán', 'lỗ bánh rán', 'bộ sưu tập lỗ bánh rán']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy cho tôi biết tên của cuốn sách này.\
+	['bình minh trăng', 'không thể trả lời được', 'Tác giả Clive Cussler Dirk Cussler', 'Chỉ có tên tác giả không có tiêu đề', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['tiền', 'tiền', '20 đô la', 'tiền', '20 đô la.', '20 đô la.', '20 đô la.', 'tờ 20 đô la', 'Đơn 20h', 'Tiền 20 đô la']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là dầu gội hay nước rửa cơ thể?\
+	['Lotion', 'Lotion cơ thể', 'Lotion', 'Lotion cơ thể', 'kem dưỡng da cơ thể sôi', 'Lotion cơ thể', 'Lotion cơ thể', 'Lotion', 'Lotion cơ thể', 'Lotion cơ thể']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trong bức ảnh này?\
+	['bánh quế', 'bánh giòn hộp', 'hộp bánh quy', 'hộp bánh quy', 'bánh quế', 'bánh quế', 'bánh quế', 'bánh quế', 'bánh quế', 'bánh quế']	cận cảnh hộp bánh quy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bức ảnh này là gì?\
+	['điện thoại', 'macbook pro', 'macbook pro', 'màn hình máy tính', 'không thể trả lời được', 'máy tính xách tay', 'máy tính', 'macbook pro', 'màn hình MacBook Pro', 'Máy tính xách tay']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['nước', 'nước', 'Nước tinh thể tự nhiên', 'thiên nhiên nước tinh thể', 'chai nước', 'chai nước', 'chai nước', 'nước', 'chai nước', 'nước']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại pizza gì vậy?\
+	['ớt', 'Mẹ ơi, mẹ ơi.', 'Mẹ ơi, pizza mỏng ngon quá.', 'ớt', 'Pizza đông lạnh', 'ớt', 'mỏng', 'Bơm bơm mỏng từ Mama Cozzis', 'Mẹ ơi, món nướng nướng nhỏ.', 'Mẹ ơi, mẹ ơi.']	thin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong hộp này?\
+	['Ngô nguyên hạt', 'ngô', 'ngô', 'ngô', 'Ngô hạt nguyên hạt', 'Ngô hạt nguyên hạt', 'ngô', 'thực phẩm có giá trị cao có thể', 'ngô', 'ngô']	cánh đồng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['chuột', 'chuột máy tính', 'chuột máy tính', 'chuột máy tính', 'chuột máy tính', 'chuột có dây hp', 'chuột máy tính', 'chuột máy tính', 'chuột hp', 'chuột']	cái này không được trả lời
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['văn phòng', 'ghế', 'văn phòng', 'ghế văn phòng', 'ghế', 'ghế bàn', 'văn phòng tại nhà', 'văn phòng', '2 ghế bàn', 'ghế']	cái ghế
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['TV', 'truyền hình', 'truyền hình', 'màn hình TV cũ', 'TV', 'TV', 'màn hình', 'màn hình truyền hình', 'TV', 'màn hình']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. áo tôi màu gì?\
+	['đen trắng', 'xanh trắng đen', 'màu đen', 'màu xanh', 'hải quân', 'biểu tượng màu đen trắng', 'đen trắng', 'màu xanh', 'màu xanh', 'đen trắng']	Màu xanh đen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu gì thế?\
+	['màu đỏ', 'màu đỏ', 'màu đỏ', 'màu đỏ', 'màu hồng', 'màu đỏ', 'màu đỏ', 'màu đỏ', 'màu đỏ', 'màu đỏ']	màu hồng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là khoai tây chiên bình thường hay khoai tây chiên muối và giấm?\
+	['muối', 'thường xuyên', 'thường xuyên', 'chip thông thường', 'thường xuyên', 'thường xuyên', 'không thể trả lời được', 'không thể trả lời được', 'thường xuyên', 'không thể trả lời được']	muối giấm
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp này là gì, nước cam hay sữa?\
+	['nước cam', 'nước cam', 'ô', 'nước cam', 'nước cam', 'nước cam', 'nước cam', 'cam', 'nước cam', 'giấy hộp nước cam']	nước cam
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói cho tôi biết đây là gì không?\
+	['chip', 'chip', 'chip', 'khoai tây chiên', 'khoai tây chiên', 'Bánh nướng kem chua', 'chip', 'khoai tây chiên', 'chip', 'khoai tây chiên']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong túi này có gì?\
+	['không thể trả lời được', 'rau đông lạnh', 'rau quả', 'cà rốt đậu nành ngô đậu xanh', 'rau quả', 'đậu Hà Nội cà rốt ngô', 'rau trộn', 'rau quả', 'rau trộn', 'ngô cà rốt đậu hoa cháo đậu']	cà rốt đậu xanh
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Spark này là gì?\
+	['Nước chanh màu hồng', 'Nước chanh màu hồng', 'không thể trả lời được', 'Nước chanh màu hồng', 'không thể trả lời được', 'Nước chanh màu hồng', 'cam', 'dâu tây', 'không thể trả lời được', 'Nước chanh màu hồng']	bột uống
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này là loại gì?\
+	['bánh ngô', 'không thể trả lời được', 'không thể trả lời được', 'bánh ngô', 'bánh ngô', 'bánh ngô', 'cà chua', 'bánh ngô', 'bánh ngô', 'Joe lơ lửng']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Mùa nào vậy?\
+	['mì ống', 'mì ống', 'Món mộc spaghetti', 'Món mộc spaghetti', 'mì ống', 'Món mộc spaghetti', 'Món mộc spaghetti', 'mì ống', 'mì ống', 'Món mộc spaghetti']	spaghetti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['sách', 'tạp chí', 'tạp chí dọc', 'tạp chí', 'tạp chí dọc', 'tạp chí', 'tạp chí', 'tạp chí di chuyển', 'tạp chí', 'tạp chí']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái đồ vật này là gì?\
+	['tường', 'tường', 'tường', 'tường', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'tường', 'tường', 'tường']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['kẹo', 'kẹo cứng dâu tây', 'kẹo', 'kẹo cứng dâu tây', 'kẹo', 'kẹo dâu tây', 'Địa điểm', 'kẹo dâu tây', 'kẹo', 'kẹo cứng dâu tây']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Giày này màu gì?\
+	['màu nâu', 'màu đen', 'màu nâu', 'màu nâu', 'màu nâu', 'màu nâu', 'màu nâu', 'chân', 'màu nâu', 'màu xanh']	brown
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['màn hình máy tính', 'trang web', 'không thể trả lời được', 'không thể trả lời được', 'trang web', 'màn hình máy tính', 'màn hình máy tính', 'bài viết', 'tệp pdf cho vizwiz', 'vizwizpdf mờ nhưng có thể thấy phần người đóng góp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bức ảnh này là gì?\
+	['màn hình', 'máy tính xách tay', 'truyền hình', 'máy tính', 'máy tính xách tay', 'truyền hình', 'TV màn hình phẳng', 'màn hình máy tính xách tay', 'truyền hình', 'không thể trả lời được']	màn hình máy tính
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['điện thoại di động', 'điện thoại di động', 'máy gọi điện', 'không thể trả lời được', 'điện thoại', 'điện thoại di động', 'điện thoại di động blackberry', 'điện thoại di động', 'điện thoại di động', 'điện thoại di động']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['tủ lạnh', 'không thể trả lời được', 'tủ lạnh', 'tủ lạnh ký túc xá', 'tủ lạnh', 'tủ lạnh', 'tủ lạnh', 'tủ lạnh mini', 'tủ lạnh', 'tủ lạnh mini']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi nên mặc trang sức màu gì với bộ trang phục này?\
+	['bạc', 'bạc', 'màu trắng', 'vàng', 'màu đen', 'bạc', 'bạc', 'bạc', 'bạc', 'bạc']	màu hồng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['chân', 'quần jean', 'đùi', 'chân quần', 'ghế dài', 'quần', 'gối', 'không thể trả lời được', 'chân quần', 'chân']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['chó', 'không thể trả lời được', 'chó', 'chó', 'chó', 'chó', 'chó', 'chó', 'không thể trả lời được', 'chó trên sàn nhà']	cái gì
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['từ xa', 'từ xa', 'điều khiển từ xa', 'Bộ điều khiển TV', 'điều khiển từ xa TV', 'điều khiển từ xa', 'từ xa', 'từ xa', 'điều khiển từ xa', 'điều khiển từ xa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Những quả chuối này màu xanh lá cây hay vàng?\
+	['màu xanh lá cây nhẹ', 'màu vàng', 'màu vàng', 'màu vàng', 'màu xanh lá cây', 'màu vàng', 'màu vàng', 'màu vàng', 'màu vàng', 'màu vàng']	vàng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Sản phẩm này là gì?\
+	['ngũ cốc', 'kashi go lean crunch mật ong hạnh nhân lanh', 'kashi đi lean crunch', 'Golean crunch kashi', 'ngũ cốc', 'đi mỡ mỡ mỡ', 'đi lean crunch', 'kashi go lean crunch mật ong hạnh nhân lanh', 'ngũ cốc', 'ngũ cốc']	kashi go lean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Hiện tại trên màn hình TV có gì?\
+	['Không có gì cả.', 'Không có gì cả.', 'Không có gì hết.', 'Không có gì cả.', 'Không có gì cả.', 'Không có gì cả.', 'Không có gì cả.', 'Không có gì cả.', 'không thể trả lời được', 'Không có gì cả.']	nothing
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['thịt', 'thịt bò', 'thịt bò', 'thịt nướng', 'thịt', 'thịt', 'không thể trả lời được', 'thịt bò', 'thịt nướng', 'thịt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tin nhắn này nói gì?\
+	['không thể trả lời được', 'khôi phục hoàn chỉnh', 'không thể trả lời được', 'phục hồi hoàn tất', 'phục hồi hoàn tất', 'không thể trả lời được', 'phục hồi hoàn tất', 'phục hồi hoàn tất', 'phục hồi hoàn tất', 'phục hồi hoàn tất']	thông báo phục hồi hoàn thành
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái hộp này chứa thức ăn gì?\
+	['súp', 'Súp rau vườn progresso', 'súp rau vườn', 'súp rau', 'súp rau vườn', 'súp rau vườn', 'súp', 'Súp rau vườn progresso', 'rau vườn', 'súp rau vườn']	cà rốt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'có thể', 'súp đậu chia', 'súp đậu chia', 'súp đậu chia', 'súp đậu chia', 'súp', 'có thể chia súp đậu', 'súp đậu chia', 'súp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đó là ghế sofa hay bàn?\
+	['bảng', 'bảng', 'bảng', 'bảng', 'bảng', 'bảng', 'bảng', 'bảng', 'bảng', 'cái bàn này']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có thức ăn gì?\
+	['bánh ravioli', 'bánh ravioli', 'bánh ravioli', 'ngô', 'bánh ravioli', 'bánh ravioli', 'bánh ravioli', 'bánh ravioli', 'thực phẩm ravioli', 'bánh ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên màn hình?\
+	['thông báo lỗi', 'cửa sổ bật lên cho khởi động sửa chữa máy tính khởi động lại', 'khởi động lại', 'hộp thoại nói rằng bạn chắc chắn muốn thoát khỏi khởi động sửa chữa khởi động lại máy tính của bạn', 'sửa chữa khởi động', 'hướng dẫn cập nhật windows', 'không thể trả lời được', 'sửa chữa khởi động', 'Tùy chọn khởi động lại máy tính', 'sửa chữa khởi động']	câu trả lời không có trong văn bản được cung cấp
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Hãy thử cái này, anh có thể nói cho tôi biết cái này là gì không?\
+	['đậu', 'đậu nướng', 'đậu', 'đậu nướng', 'bụi cây đậu nướng', 'có thể', 'đậu lon', 'bụi cây đậu nướng', 'đậu nướng', 'đậu']	bushs baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể cho tôi biết đây là điện thoại gì không?\
+	['Lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'Android', 'lg', 'Ừ']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['điện thoại thông minh', 'điện thoại di động', 'điện thoại di động', 'điện thoại', 'điện thoại di động', 'điện thoại di động', 'điện thoại di động', 'điện thoại thông minh', 'điện thoại', 'điện thoại']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['máy tính xách tay', 'tay', 'bàn phím máy tính xách tay', 'tay', 'ngón tay', 'tay', 'không thể trả lời được', 'không thể trả lời được', 'bàn làm việc', 'tay']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Cabernet 2009', 'rượu vang', 'rượu vang', 'rượu vang', 'Cabernet sauvignon', 'rượu vang chai', 'rượu vang', 'rượu vang', 'rượu vang thiên đường ngựa Columbia Cabernet 2007', 'rượu vang']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong chai đó?\
+	['coca', 'soda pop có lẽ coca cola', 'soda', 'Coca cola soda', 'soda', 'soda', 'coca', 'soda', 'coca', 'soda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu này màu gì?\
+	['Dải trắng đỏ', 'màu đỏ', 'Dải màu đỏ trắng', 'Dải màu đỏ trắng', 'màu đỏ trắng', 'màu trắng đỏ', 'áo sơ mi', 'màu đỏ trắng', 'màu đỏ trắng', 'màu đỏ trắng']	red white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong túi này có gì?\
+	['bông cải xanh', 'bông cải xanh', 'bông cải xanh', 'bông cải xanh', 'bông cải xanh', 'nhưng bông cải xanh', 'bông cải xanh', 'Bông cải xanh cắt', 'Uống hơi n phục vụ cắt bông cải xanh', 'bông cải xanh']	broccoli cắt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái phiếu đó là gì?\
+	['sữa chua', 'sữa chua', 'sữa chua yoplait', 'sữa chua 10$', 'Yoplait', 'sữa chua 10$', 'sữa chua yoplait', 'sữa chua', 'giảm giá', 'sữa chua']	cupon mua sữa chua
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái thứ gì thế?\
+	['Nestéa', 'trà đá đóng hộp', 'chanh', 'Nêstêa chanh', 'Nestéa', 'Nestéa', 'Nestéa', 'Nestéa', 'fiesta', 'Nestéa']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['ipad', 'thuốc', 'máy tính', 'ipad', 'Miếng đệm chuột', 'máy tính xách tay', 'cửa sổ', 'thuốc', 'không thể trả lời được', 'ipad']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên màn hình?\
+	['bạn muốn khôi phục comp của bạn bằng cách sử dụng hệ thống khôi phục bật lên', 'thông báo lỗi', 'bạn có muốn khôi phục máy tính của mình bằng cách sử dụng khôi phục hệ thống', 'khởi động', 'màn hình chẩn đoán khởi động trả lại', 'hệ thống khôi phục câu hỏi: bạn muốn sử dụng để khôi phục máy tính của bạn', 'sửa chữa khởi động', 'sửa chữa khởi động', 'câu hỏi để khôi phục máy tính', 'bạn có muốn khôi phục máy tính của mình bằng cách sử dụng khôi phục hệ thống']	câu trả lời không có trong văn bản được cung cấp
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Và cảm ơn anh rất nhiều vì đã dành thời gian trả lời.\
+	['linh dương', 'linh dương', 'linh dương', 'linh dương', 'linh dương', 'linh dương', 'linh dương', 'linh dương', 'linh dương', 'linh dương']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trên màn hình có gì?\
+	['bạn có muốn khôi phục máy tính của bạn bằng cách sử dụng hệ thống cd', 'phục hồi', 'bạn có muốn khôi phục máy tính của bạn bằng cách sử dụng hệ thống', 'máy tính của bạn không thể bắt đầu bắt đầu sửa chữa kiểm tra hệ thống của bạn cho các vấn đề', 'bạn có muốn khôi phục máy tính của bạn bằng cách sử dụng hệ thống', 'sửa chữa khởi động', 'máy tính của bạn không thể khởi động', 'máy tính của bạn không thể bắt đầu khởi động sửa chữa kiểm tra hệ thống của bạn cho các vấn đề', 'máy tính không thể khởi động', 'phục hồi']	câu trả lời không có trong văn bản được cung cấp
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong hộp này?\
+	['rau quả', 'Wrgrweg', 'rau trộn', 'Veggie nguyên bản', 'rau trộn', 'rau', 'Vegall', 'rau', 'rau', 'rau trộn']	cà rốt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bạn có thể thấy gì trong hình ảnh? Bạn có thể thấy gì trong hình ảnh?\
+	['Không có gì cả.', 'trời', 'bồn rửa', 'trời', 'không thể trả lời được', 'trời', 'Không có gì cả.', 'không thể trả lời được', 'không thể trả lời được', 'trời']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Loại soda nào?\
+	['Coca cola', 'Coca cola', 'Coca cola', 'Coca cola', 'Coca cola', 'Coca-Cola 0', 'Coca-Cola 0', 'coke 0', 'Coca-Cola 0', 'Coca-Cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là hệ thống gì vậy?\
+	['máy tính để bàn', 'không thể trả lời được', 'cửa sổ', 'máy tính để bàn', 'cửa sổ', 'cửa sổ', 'cửa sổ', 'Windows PC', 'cửa sổ', 'cửa sổ']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì thế?\
+	['người phát ngôn', 'người nói', 'sàn nhà', 'người nói', 'hệ thống loa lớn', 'người phát ngôn', 'người phát ngôn', 'người phát ngôn', 'người phát ngôn', 'người nói']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nó theo dõi ánh sáng trên laptop?\
+	['Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'không', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói với tôi cái chai này nói gì không?\
+	['Lotion cơ thể đường vani ấm', 'đường vanilla ấm', 'đường vanilla ấm', 'đường vanilla ấm', 'Lotion cơ thể đường vani ấm', 'đường vanilla ấm', 'Lotion đường vani ấm', 'đường vanilla ấm', 'Lotion cơ thể đường vani ấm', 'vanilla đường ấm']	lotion
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết số 1-800 trên thẻ này, và cô có thể nghe câu hỏi này không?\
+	['1 800 735 2929 không nghe được', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 không', '18773289677 không', '1 877 328 9677', '8007352929 không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Ánh sáng trong phòng bật hay tắt?\
+	['đèn tắt', 'tắt', 'trên', 'tắt', 'trên', 'không thể trả lời được', 'trên', 'trên', 'trên', 'trên']	tắt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Món gì thế?\
+	['hoa anh đào', 'Nước chanh màu hồng', 'Bánh đấm trái cây', 'Nước chanh màu hồng', 'Nước chanh màu hồng', 'không thể trả lời được', 'không thể trả lời được', 'Nước chanh màu hồng', 'hoa anh đào', 'Nước chanh màu hồng']	kool aid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tin nhắn này nói gì?\
+	['phục hồi hoàn tất', 'không thể trả lời được', 'phục hồi thành công hoàn tất', 'phục hồi hoàn tất', 'phục hồi hoàn tất', 'phục hồi hoàn tất', 'phục hồi hoàn tất', 'đăng ký hoàn tất', 'phục hồi hoàn tất', 'phục hồi hoàn tất']	thông báo phục hồi hoàn thành
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái áo tôi màu gì?\
+	['màu trắng', 'màu trắng', 'màu trắng', 'màu trắng', 'màu trắng', 'màu trắng', 'màu trắng', 'màu trắng', 'màu trắng', 'màu trắng']	trắng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['Shampoo trị liệu màu sắc tiên tiến', 'dầu gội', 'Shampoo trị liệu màu sắc tiên tiến', 'dầu gội', 'Shampoo trị liệu màu sắc', 'dầu gội', 'trị liệu màu sắc', 'dầu gội', 'Chúc mừng, liệu pháp màu sắc tiên tiến', 'trị liệu màu sắc']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['hộp', 'thức ăn cho mèo', 'không thể trả lời được', 'bồn rửa', 'có thể', 'bồn rửa', 'giặt', 'bồn rửa', 'bồn rửa', 'có thể']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trò chơi video nào thế?\
+	['espn nfl 2k', 'bóng đá', 'Nfl 2k', 'espn nfl 2k5', 'espn 2k5', 'bóng đá espn 2k', 'Nfl 2k', 'bóng đá', 'Nfl 2k', 'bóng đá']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['bánh mỳ', 'bánh mỳ', 'Panini gà tây khói', 'Panini gà tây khói', 'Panini gà tây khói', 'Đồ ăn gà tây khói', 'bánh mì gà tây', 'không thể trả lời được', 'Panini gà tây khói', 'Panini gà tây khói']	thịt gà nướng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong hộp này có gì?\
+	['lasagne', 'bữa tối đông lạnh', 'Lasagne đặc biệt', 'Lasagne đặc biệt', 'lasagne', 'Lasagne đặc biệt', 'lasagne', 'lasagne', 'lasagne', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái đồ vật này là gì?\
+	['Bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch Ốc bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch bạch b', 'thanh nứt', 'Bánh cốc', 'Bánh cốc', 'Bánh cốc', 'Bánh cốc', 'Thợn bắp cỏ thiên nhiên', 'Ống tây n thanh sôcôla đen giòn', 'Bánh cốc đen', 'Bánh cốc']	sô cô la
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['trò chơi điện tử', 'trò chơi PlayStation 2', 'game chiến trận Star Wars cho PlayStation 2', 'chơi game Star Wars', 'trò chơi điện tử', 'trò chơi điện tử', 'Star Wars Battlefront 2', 'trò chơi', 'trò chơi PlayStation 2', 'trò chơi psi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại đồng cafe à?\
+	['vanilla Pháp', 'vanilla Pháp', 'vanilla Pháp', 'chăn', 'vanilla', 'vanilla Pháp', 'cà phê mate', 'vanilla Pháp', 'vanilla Pháp', 'vanilla Pháp']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['nước cam', 'nước ép', 'nước ép', 'nước cam', 'nước ép', 'mịn mịn', 'mịn n nước ép', 'nước ép', 'nước cam', 'nước ép']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Những viên đá trong vòng tai này màu gì?\
+	['màu hồng', 'màu đỏ', 'màu đỏ', 'màu hồng', 'màu tím', 'màu hồng', 'màu hồng', 'màu hồng', 'màu hồng', 'màu hồng']	hồng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nhãn trên thiết bị điện tử này nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình này nói gì, nếu anh có thể đọc được?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể đọc màn hình', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Không đọc được.', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong chai này?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Lotion', 'vitamin', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không chắc', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Món năng lượng này có hương vị gì?\
+	['dâu tây', 'quả đậu quả hạnh nhân', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'bắp táo', 'không thể trả lời được', 'không thể trả lời được', 'quả đậu quả hạnh nhân']	hồng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'chú ý', 'n', 'không thể trả lời được', 'không thể trả lời được', 'tin tức', 'không thể trả lời được']	cái này không thể trả lời
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại bữa ăn gì vậy?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đang cố gắng tìm ra loại radio này là gì, vì vậy bất kỳ thông tin nào để tôi có thể có được một chiếc của riêng tôi, sẽ rất tuyệt, cảm ơn.\
+	['Tôi không biết.', 'không thể trả lời được', 'không thể trả lời được', 'Có thể là nhà IP9 loa dock', 'không thể trả lời được', 'thịt khô', 'không thể trả lời được', 'di động', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi rất xin lỗi, tôi không biết làm thế nào để... tôi chưa bao giờ thực sự chụp ảnh loại hình này trước đây.\
+	['di chuyển một chút xa hơn để camera tập trung', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bộ phim nào trong số này là tốt nhất?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'đơn giản']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['slide này', 'màu hồng', 'không thể trả lời được', 'màu tím', 'không thể trả lời được', 'không thể trả lời được', 'ánh sáng', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	cái gì
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái kem này tên gì?\
+	['không thể trả lời được', 'noxema', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Khi nào thì hết hạn?\
+	['9.27.13', 'không thể trả lời được', 'không thể trả lời được', 'ngày 23 tháng 7 năm 2013', 'ngày 23 tháng 9 năm 2013', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'ngày 23 tháng 9 năm 2013', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi nấu nó bao lâu?\
+	['không thể trả lời được', 'không thể trả lời được', '5 phút.', 'không thể trả lời được', 'không thể trả lời được', '5 phút.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['vải tráng', 'góc', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'điện thoại', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	cái gì
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bài hát này là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'rệp trong ảnh', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'bọ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì dưới cửa sổ không thể tự động sửa chữa hệ thống này?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'sửa khởi động không thể sửa máy tính này tự động', 'không thể trả lời được', 'khởi động', 'khởi động sửa chữa không thể sửa máy tính này tự động', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bao nhiêu natri trong gói này?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Samoa', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trên màn hình có ghi là nó đang phục hồi không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái rèm gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'tiếp tục học', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tên của cuộc hòa giải này là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '0', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu gì?\
+	['màu đỏ trắng', 'không thể trả lời được', 'màu trắng', 'màu trắng', 'không thể trả lời được', 'màu đỏ trắng', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy giải thích nhãn trên router của tôi nói gì. Cảm ơn.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Ngày hết hạn của thẻ xe buýt này là bao nhiêu?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nói đi.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Zn', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì, cái này nói gì\
+	['không thể trả lời được', 'không thể trả lời được', 'hàng cột số mờ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Giờ là mấy giờ rồi?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'đèn flash trên máy ảnh render đồng hồ không thể đọc', 'không nhìn thấy', 'không thể trả lời được', 'không thể trả lời được', 'Không biết nói được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bạn có thể cho tôi biết hướng dẫn sử dụng dầu gội này không? cảm ơn.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'EDFCFD', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có nút nào tôi phải nhấn để nó tiếp tục hay tôi chỉ phải chờ?\
+	['hệ thống tiếp tục', 'không thể trả lời được', 'Ừ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không', 'Chờ đã.', 'cắm vào']	chờ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nếu lá bài được hiển thị trong hình này, nó nói gì?\
+	['không thể trả lời được', 'không được hiển thị', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Không có lời nào.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thử nghiệm?\
+	['không thể trả lời được', 'không thể trả lời được', 'từ xa', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'âm thanh xung quanh từ xa', 'Câu hỏi không áp dụng cho hình ảnh']	remote
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Một trò đùa thật sự.\
+	['không thể trả lời được', 'không rõ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đang xử lý một captcha nhưng tôi không thể nhìn thấy màn hình và tôi cần nó để yêu cầu một cái gì đó từ một trang web. Bạn có thể cho tôi biết captcha là gì không?\
+	['không phải 1', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi biết nó nói 10 điều răn, nhưng 10 điều răn là gì?\
+	['đặt ra các quy tắc do Chúa ban cho những người tin Ngài', 'không thể trả lời được', 'không thể trả lời được', 'các quy tắc đạo đức', 'không thể trả lời được', 'Lời Chúa', 'không thể trả lời được', 'không thể trả lời được', 'luật pháp', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình máy tính của tôi nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'quá mờ', 'màn hình trống']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là sữa bột nào vậy?\
+	['không thể trả lời được', 'không thể trả lời được', 'Tôi không thấy sữa bột cho bé.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thuốc này là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là thẻ gì?\
+	['không thể trả lời được', 'thẻ tín dụng màu đỏ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'thẻ tín dụng', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thẻ này nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Chỉ có 1 6 12 có thể nhìn thấy', 'không thể trả lời được', 'Không có gì cả.', 'không thể trả lời được', '1 6 12', 'không thể trả lời được', 'không thể trả lời được']	thẻ không rõ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['xà phòng', 'sản phẩm', 'không thể trả lời được', 'sữa', 'không thể trả lời được', 'không thể trả lời được', 'thuốc nhỏ mắt', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Được rồi, đây là thịt quất gì nữa?\
+	['nối jack', 'ds', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'thịt bò', 'không thể trả lời được', 'thịt bò', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thẻ quà này là để làm gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'hình ảnh không thể giải quyết', 'không thể trả lời được', 'Không biết nói được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại đồ đóng hộp gì vậy?\
+	['bơ', 'không thể trả lời được', 'bơ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'bơ', 'không thể trả lời được', 'chanh']	hương chanh
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Giờ là mấy giờ rồi?\
+	['không thể trả lời được', '532', 'không thể trả lời được', 'không thể trả lời được', '5:13', '5:13', 'không thể trả lời được', '5:10', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Sản phẩm trong hộp này là gì?\
+	['Không biết nói được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Ông có thể cho tôi biết nhiệt độ lò thông thường là bao nhiêu phút và liệu tôi có cần phải đục nắp không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'ASDD', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cốc nướng này có vẻ đã sẵn sàng không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Không lò', 'không thể trả lời được', 'không thể trả lời được', 'Ừ, tôi nghĩ đã sẵn sàng.', 'không', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Điều đó có giúp gì không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Mã nào cần gõ?\
+	['không thể trả lời được', 'email', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi mặc áo nào thế?\
+	['không thể trả lời được', 'lụa', 'không thể trả lời được', 'không thể trả lời được', 'màu trắng', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể cho tôi biết đó là món ăn đông lạnh gì không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'hình ảnh trống', 'Không có gì cả.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này là thương hiệu gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'sanyo', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cài đặt nhiệt độ lò là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'gfdsg', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	400
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói cho tôi biết trong chai này có gì không?\
+	['nước sốt cà chua', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'nước sốt mì ống', 'không thể trả lời được', 'không thể trả lời được', 'nước sốt cà chua', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì?\
+	['không thể trả lời được', 'Azithromycin viên 250mg', 'thuốc', 'không thể trả lời được', 'không thể trả lời được', '250 mg', 'Azithromycin viên', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô đọc lời này được không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'Không có lời nào.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là Valium à?\
+	['không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể đọc tên thuốc']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bài hát này là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'nhạc vạch', 'không thể trả lời được', 'album', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'jingle jingle', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Vâng, đây là một máy tính xách tay hp, tôi cần biết vị trí của máy đọc thẻ trong mối quan hệ với bàn phím. Xin hãy cụ thể nhất có thể. Cám ơn.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'bên', 'không thể trả lời được', 'Tôi không thể thấy card reader sd card reader thường ở góc trái cạnh trước', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tên của nước hoa là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không có tên', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là RAM kiểu gì?\
+	['không thể trả lời được', 'CN o444', 'không thể trả lời được', 'không thể trả lời được', 'DDR sdram pc3200', 'Không biết', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'ddr']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi hiểu điều đó nhưng phía sau của chiếc xe tải màu trắng có trông bị đâm\
+	['không thể trả lời được', 'không', 'Hình ảnh từ phía trước Tôi không thấy bất cứ điều gì bất thường', 'không', 'không thể trả lời được', 'không thể trả lời được', 'n0', 'không thể trả lời được', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại súp gì vậy?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'gà', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì được nhìn thấy trên màn hình laptop?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là gì?\
+	['không thể trả lời được', 'súp', 'súp', 'súp hộp', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'súp', 'không thể trả lời được']	cà chua
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['thảm', 'khăn giấy', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'khăn giấy', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là hương vị gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'thường xuyên', 'nguyên bản', 'không thể trả lời được', 'Quay lại', 'pho mát', 'người chụp']	hương vị original
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Trong ba hình ảnh đó, logo của Google là gì?\
+	['không thể trả lời được', '0', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'hình ảnh đầu tiên', 'trái']	logo của google ở hình ảnh thứ 2.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không chắc', 'mờ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'nhãn', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có đá nào thiếu không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Chất lượng hình ảnh không đủ', 'không thể trả lời được', 'không']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi muốn biết đây là nước hoa nước hoa thương hiệu nào.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Ngày hết hạn của pho mát này là bao nhiêu?\
+	['không', 'không thể đọc được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thermostat được đặt ở nhiệt độ nào?\
+	['không thể trả lời được', 'không thể trả lời được', '75', 'không thể trả lời được', '75', 'không thể trả lời được', '75', '75', 'không thể trả lời được', 'không nhìn thấy']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái áo này màu gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'màu đen', 'không thể trả lời được', 'màu đen', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'màu đen', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trên màn hình?\
+	['thông báo lỗi khởi động lại', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'sys', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	tương ứng với không thể trả lời
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại soda gì, làm ơn?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không chắc', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'tóc', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy nói cho tôi biết nó nói gì.\
+	['không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'hộp', 'không thể trả lời được', 'hộp nhỏ', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thermostat được đặt ở nhiệt độ nào?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Không đọc được.', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. chai này là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'Tôi không biết.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi có thể lấy tất cả các ký tự trong cái này không?\
+	['Arobergy Chavez', 'không thể trả lời được', 'Ừ', 'Ừ', 'không thể trả lời được', 'Arobergy Chavez', 'không thể trả lời được', 'không', 'không thể trả lời được', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Chìa khóa sản phẩm cho phiên bản này tắt\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thôi nào, tôi sẽ chờ.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'giày', 'không thể trả lời được', 'giày', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Giờ là bao giờ và nhiệt độ ở Dallas, Texas là bao nhiêu?\
+	['3:40 54', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '9:17 tối 96 độ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Chào.\
+	['không thể trả lời được', 'ngon', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'ngon', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh đã nhận được câu trả lời gì?\
+	['không thể trả lời được', 'không chắc', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'đăng nhập trên màn hình', 'máy tính', 'không thể trả lời được', 'màn hình']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là gì?\
+	['chai bao phủ vải', 'không thể trả lời được', 'chăn', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này là thương hiệu gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'seiko', 'không thể trả lời được', 'mờ', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'xem', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là website gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'trang web về iphone trong mua ứng dụng']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại súp giặt gì vậy?\
+	['không thể trả lời được', 'mặt trời', 'không thể trả lời được', 'không thể trả lời được', 'suavetel', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong lọ này?\
+	['Không có gì cả.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'súp', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'thực phẩm', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là hóa đơn để làm gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Điều gì là đúng khi tôi có một bàn tay\
+	['danh thiếp', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	thẳng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Chúc mừng Giáng sinh', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	thông tin không đủ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi có thể chụp ảnh gì?\
+	['đồng hồ trên tấm', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'xem', 'đồng hồ túi Mickey Mouse', 'chiếc đồng hồ túi này tai nghe điện thoại']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'điều khoản giấy phép windows', 'các điều khoản một phần ngoài màn hình', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nhưng tôi sẽ gấp nó.\
+	['không thể trả lời được', 'gấp', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'tay', 'hộp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màu gì thế?\
+	['màu trắng xám', 'màu tím', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'màu đỏ trắng', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'nhà bếp', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'hình ảnh người đàn ông tại bàn trên máy tính', 'Tôi thấy phòng khách trong hình', 'không thể trả lời được', 'không thể trả lời được']	cái gì
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tên gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'sự phấn khích', 'sự phấn khích', 'âm thanh âm thanh', 'không thể trả lời được', 'không thể trả lời được']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì thế?\
+	['không thể trả lời được', 'ánh sáng', 'không thể trả lời được', 'không thể trả lời được', 'ánh sáng', 'mờ', 'không thể trả lời được', 'không rõ', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy đọc văn bản trên hộp này, đó là một hộp khác.\
+	['wd', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đang tìm kiếm một số số 8 chữ số.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Tôi không thấy gì cả. Xin lỗi.', 'không thể trả lời được', 'trống', 'Tôi không thể nhìn thấy điều gì như thế', 'không thể trả lời được', '0', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Người nói: Xin ông cho tôi biết tiêu đề của cuốn sách này được không?\
+	['không thể trả lời được', 'vật liệu hài hòa trong âm nhạc tonal', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì?\
+	['deberman', 'Không có gì cả.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'gói cầm tay']	cái này không thể trả lời
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình nói gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Một lúc nào đó.\
+	['Tôi không hiểu.', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bạn có thể cho tôi biết câu hỏi bảo mật, hoặc số bảo mật và chữ cái là gì để tôi có thể thêm nó vào trường chỉnh sửa của tôi không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tiền giấy đồng đô la này là tiền mệnh giá nào?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'hình ảnh không thể sử dụng', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái đó được cài đặt vào cái gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'đếm', 'đếm', 'bàn bếp', 'Bàn ghế']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là vết cắn rắn à?\
+	['không thể trả lời được', 'có thể', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'Có lẽ', 'Có lẽ', 'không', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy cho tôi biết chi tiết những gì trên màn hình máy tính này.\
+	['không thể trả lời được', 'không thể trả lời được', 'máy tính không thể bắt đầu thông báo', 'không thể trả lời được', 'máy tính của bạn không thể khởi động', 'không thể trả lời được', 'máy tính của bạn không thể bắt đầu khởi động sửa chữa kiểm tra hệ thống của bạn cho các vấn đề', 'khởi động', 'không thể trả lời được', 'hộp thoại không rõ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Các ký tự trong captcha này là gì?\
+	['không thể trả lời được', 'Đám cưới', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'hộp đen']	không có hình ảnh
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có biết nấu món này không?\
+	['không thể trả lời được', 'không', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'Ừ', 'không thể trả lời được', 'không thể trả lời được', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'màn hình máy tính', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi nấu cái này trong lò vi sóng bao lâu?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '8 phút.', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Làm thế nào để nấu món này?\
+	['lò nướng', 'không thể trả lời được', 'nướng', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Còn cái ký hiệu thì sao?\
+	['không thể trả lời được', 'không thể trả lời được', 'chính trị', 'người đàn ông', 'không thể trả lời được', 'Không biết', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Người màu xanh trong tòa nhà']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy cho tôi biết hướng dẫn trên chai dầu gội này.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'thêm vào tóc ướt bọt rửa lặp lại nếu muốn']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bức ảnh này là gì?\
+	['trần nhà', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	bức ảnh mờ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây à?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'điện thoại', 'không thể trả lời được', 'Người đàn ông nói chuyện trên điện thoại di động', 'không thể trả lời được', 'người', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì trong hộp này?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'đậu', 'không thể trả lời được', 'không thể trả lời được', 'hình ảnh này mờ', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết màu áo tôi là gì không?\
+	['không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Cái gì thế?\
+	['không thể trả lời được', 'dây', 'không thể trả lời được', 'đồ chơi chó cao su đen', 'cây', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Khi nào thì hết hạn?\
+	['không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không có hình', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Năm 2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thẻ này là gì?\
+	['không thể trả lời được', 'không thể trả lời được', 'Không thẻ', 'không thể trả lời được', 'không thể trả lời được', 'màu đen', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bức ảnh này là về cái gì?\
+	['không thể trả lời được', 'trống', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	bức ảnh không rõ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'dây chuyền da', 'chó', 'ví', 'không thể trả lời được', 'dây chuyền chó', 'động vật']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đồ nấu ăn này có hướng dẫn gì không?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là loại truy tìm gì vậy?\
+	['không thể trả lời được', 'bút chì', 'hình dạng lá', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'lá', 'không thể trả lời được', 'cỏ dại']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin cô nói cho tôi biết cái gì trong hộp trong tay phải của tôi được không?\
+	['không thể trả lời được', 'Một loại thịt nhưng nhãn không hoàn toàn trong hình ảnh', 'thực phẩm đóng hộp', 'không thể trả lời được', 'thịt bò ẩm', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói cho tôi biết đây là của ai không?\
+	['không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'thư trả lại từ bưu điện', 'phong bì sau không có chữ viết', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Món gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'Newman đặc biệt hỗn hợp', \"Neman's Special Mix\", 'cà phê', \"Newman's special blend\", 'không thể trả lời được', 'Newman của riêng mình', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	thẳng
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Huyết áp của tôi là bao nhiêu?\
+	['không thể trả lời được', 'không thể trả lời được', '105', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '109 đã hết.', 'không thể trả lời được', 'không thể trả lời được', 'không thể đọc hình ảnh cắt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Chúng tôi gọi là hương vị \
+	['chanh', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể nói cho tôi biết cái hộp này nói gì để tôi có thể tìm ra nó chứa gì không?\
+	['không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Số cho văn bản được tô điểm.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nó phải viết ở mặt sau thẻ đó là loại đũa phép nào, nó làm bằng gì v.v. Tôi chỉ muốn biết nó là gì.\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'gì đó gỗ 14', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đã nhấn nút OK rồi à?\
+	['nút tiếp theo để được nhấp vào bây giờ nhấn vào', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'flash', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nhiệt độ nào?\
+	['không thể trả lời được', '57', 'hai mươi', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '20', '20.7c', 'không thể trả lời được']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái gì thế?\
+	['không thể trả lời được', 'Biểu tượng chào mừng', 'tấm biển chào mừng', 'không thể trả lời được', 'Biểu tượng chào mừng', 'Biểu tượng chào mừng', 'không thể trả lời được', 'Banner chào mừng', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái mặt này là của ai?\
+	['Không có khuôn mặt', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '0', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Số trên khóa sản phẩm này là gì?\
+	['không thể trả lời được', 'không thể đọc được', 'không thể trả lời được', 'không thể trả lời được', 'không thể đọc được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Số của tòa nhà mà tôi vừa chụp là gì? Đây là trường Yappapi.\
+	['3', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '3', 'không thể trả lời được', '9', 'không thể trả lời được', 'không thể trả lời được', '3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy cho tôi biết trong gói này có gì.\
+	['không thể trả lời được', 'Ưu điểm:', 'không thể trả lời được', 'củ cải', 'kẹo', 'quả mọng', 'khó nói ra có lẽ là một số loại hạt', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	cà chua
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình máy tính của tôi có hiển thị không?\
+	['sdfgh', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh đọc được không?\
+	['Ừ', 'không thể trả lời được', 'Ừ', 'Thông báo thông tin nhập khẩu cho máy ép', 'không', 'Thông tin quan trọng', 'một số', 'thân thiện', 'không', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có thể nói bằng cách nhìn vào cái này, trên nhãn, nó là gì, tôi nghĩ đó là một mảnh, một đĩa DVD trong thư.\
+	['Ừ', 'Vâng DVD', 'không', 'DVD', 'DVD', 'không thể trả lời được', 'nhãn không rõ nhưng cd', 'Ừ', 'không thể trả lời được', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Máy ảnh của tôi bị che khuất à?\
+	['Ừ', 'Ừ', 'Ừ', 'vd', 'Ừ', 'không', 'Ừ', 'không', 'Ừ', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là thịt gà à?\
+	['không thể trả lời được', 'không', 'Ừ', 'Có lẽ không thể nhìn thấy tất cả nhãn', 'Ừ', 'không thể trả lời được', 'Ừ', 'Ừ', 'không thể trả lời được', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là nghệ thuật à?\
+	['Ừ', 'nghệ thuật giấy nhôm', 'Ừ', 'Ừ', 'Ừ', 'không thể trả lời được', 'Ừ', 'Ừ', 'Ừ', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin chào, tôi chỉ muốn xác nhận rằng đây thực sự là thịt lợn.\
+	['Ừ', 'Ừ', 'Ừ, thịt lợn đặc trưng của Kirkland.', 'Vâng, thịt lợn', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ, thịt nướng', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi muốn nói là có vẻ như sẽ mưa hay bão không?\
+	['Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'không', 'không', 'không']	bão
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Mặt Buddy có dễ thương không?\
+	['Ừ', 'Ừ', 'dễ thương', 'Ừ', 'Ừ', 'không', 'Ừ', 'Ừ', 'Ừ', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bây giờ có đoạn đối thoại không?\
+	['không', 'Ừ', 'Ừ', 'không thể trả lời được', 'không', 'không', 'Ừ', 'Ừ', 'Ừ', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi có còn tất cả ngón chân không?\
+	['Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ', 'Ừ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bạn có thấy một chai trong hình này và nếu có thì đó là gì không?\
+	['không thể trả lời được', 'không', 'không', 'không', 'không', 'Không có chai', 'không', 'không', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có văn bản nào ở phía bên này không?\
+	['không', 'không', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không', 'không thể trả lời được', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có phải là fax hay hộp thư không?\
+	['không thể trả lời được', 'không', 'không', 'không', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có một mảnh ngực trong bức ảnh này không?\
+	['không', 'không', 'không', 'không', 'không', 'không', 'không', 'không', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có một mảnh cờ vua ở đây không?\
+	['không', 'Ừ', 'không', 'chỉ là bảng', 'không', 'không', 'Ừ', 'không', 'không', 'không']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái vớ này phù hợp không?\
+	['không', 'không', 'không', 'không', 'không', 'không', 'không', 'không', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đó là giấy không?\
+	['không', 'không', 'không', 'không', 'không', 'không thể trả lời được', 'không', 'không', 'không thể trả lời được', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đó là laptop à?\
+	['không', 'không', 'không', 'không', '0 mà tôi đã từng thấy trước đây', 'không', 'không', 'không', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể đọc mọi thứ trên màn hình TV của tôi không?\
+	['không', 'không', 'Ừ', 'không', 'không thể trả lời được', 'không', 'DVR sử dụng năng lực DVR của bạn 89% đầy đủ', 'Ừ', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thấy mùi hương trên chai Freebeze này không?\
+	['không', 'không', 'không', 'không', 'Không thấy nhãn hiệu', 'không', 'không', 'không', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình đang bật à?\
+	['không', 'không', 'không', 'không', 'không', 'không', 'không', 'không', 'không', 'không']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Con vật nào đang ở trên màn hình máy tính này?\
+	['không có động vật', '0', '0', '0', '0', 'không có động vật trên màn hình', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi đang cố lấy số từ thẻ này và tôi tự hỏi liệu bạn có thể đọc cho tôi không.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin hãy đọc bảng.\
+	['261627.2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Thermostat được đặt ở nhiệt độ nào?\
+	['72', '72', '72', '72 độ', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nút nào là Mountain Dew?\
+	['5', '6 từ trên', 'Nút thứ 6', '6th 1 xuống', '5', '6', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tôi tin đây là cây sồi bạc.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Lượng điện năng trên nguồn cung cấp năng lượng này là bao nhiêu?\
+	['350', 'không thể trả lời được', '350', '350w tối đa', 'không thể trả lời được', '350', '350', 'không thể trả lời được', 'dây', '350w tối đa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có gì trong đó?\
+	['77 độ', '77', '77', '77', '77 độ', '77', '77', '77', '77', '77']	tương ứng không có trong văn bản
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói được đây là huy chương nào không?\
+	['47', '47', '47', '47', 'có số 47', '47', '47', 'không thể trả lời được', '47', 'không']	huy chương không rõ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này bao nhiêu?\
+	['5', '5', '5', '5', '5', '5 đô la.', '5', '5 đô la Singapore', '5', '5 đô la.']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Số quay mặt trên của mặt quay số là gì?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tiền giấy này là tiền số nào?\
+	['20', 'rgreg', '20', '20', 'không thể trả lời được', 'không thể trả lời được', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Hiện tại màn hình đang hiển thị những gì?\
+	['452940', '452940', 'wakie talkie', 'số', 'đài phát thanh', '452940', 'walkie talkie', '452940', 'không thể trả lời được', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. 465 trừ 55 là bao nhiêu?\
+	['410', '410', '410', 'không thể trả lời được', '410', 'không thể trả lời được', '410', '410', '410', '410']	50
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Số thứ năm là gì?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Tiền này là gì?\
+	['2', '2', '2', '2', '$2', 'tiền', '2', '2', 'không thể trả lời được', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có bao nhiêu calo trong một phần bánh Cheerios?\
+	['110', 'hình ảnh đa dạng', '104', '110', '100', 'không thể trả lời được', '10', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cốc nồi được đặt ở nhiệt độ nào?\
+	['Nút lò', 'nhiệt độ lò 400', '425', '450', '400', '425', '425', '400', '425', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nhiệt độ của thermostat là bao nhiêu? \
+	['78', '78', '78 độ', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là bao nhiêu tiền?\
+	['20 đô la Canada', '20', '20', '20', '20 euro', '20', '20 đô la Canada', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nhiệt độ được đặt ở mức nào?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nhiệt độ trên máy điều nhiệt này là bao nhiêu?\
+	['50', '50', '55', '64 độ', '55', 'không thể trả lời được', 'không thể trả lời được', '54', 'không thể trả lời được', '56']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là giáo phái nào?\
+	['5', '5', '5', '5', 'Canada', '5', '5', 'trứng', '5', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nói cho tôi giá trị của thẻ này.\
+	['6 viên kim cương', '9 viên kim cương', '6 viên kim cương', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể nói được tôi nặng bao nhiêu không?\
+	['210', '200', 'Có 200', '198', '200', '200', '200', '250', '200', '200']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Xin chào, tôi đang thử lại. Bạn có thể cho tôi biết số độ trên thước đo này là bao nhiêu không?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bạn có thể cho tôi biết nhiệt độ đặt vào tốt\
+	['78', '78', '78', '78', '78', '78', '78 độ', '78 độ', '78 độ F', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có bao nhiêu phần trong thanh kẹo này?\
+	['không thể trả lời được', '2', '4', 'không thể trả lời được', '4', '4 cốc bơ đậu phộng', '2', '2', 'không thể trả lời được', 'không thể trả lời được']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Một khẩu phần chứa bao nhiêu calo?\
+	['120', '120', '120 khô 220 chuẩn bị nếu chuẩn bị 1 1 4 cốc sữa không béo', '120', '120', '120', '120', '120', '220', '120 ngũ cốc khô 220 sữa']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Anh có thể cho tôi biết nó là hóa đơn nào không? bởi vì tôi đang tìm kiếm một 20 và tôi nghĩ đây là một 10 nhưng tôi không thể nói rõ.\
+	['10 euro', '10', '10', 'không thể trả lời được', '10', '10', '10 người mặc áo trắng đỏ', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Dải này có một hay hai đường màu hồng không? Một đường có thể sáng hơn đường kia.\
+	['biue', '1', '1 dòng', '1 đường tối', '1', '1', '1', '1', '1', '1']	1 đường
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết số đó là gì không?\
+	['3248849064', '3248849084', 'không thể trả lời được', '3248849084', 'không thể trả lời được', 'không thể trả lời được', '3248849084', 'không thể trả lời được', 'không thể trả lời được', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cô có thể cho tôi biết mình nặng bao nhiêu không?\
+	['1', '1', 'không thể trả lời được', '1', '1', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', 'cân bằng trống', '1']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cài đặt nhiệt độ hiện tại trên bộ điều nhiệt này là gì?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'nhiệt điều chỉnh']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là tờ 5 hay 10 đô la Canada?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 người Canada']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. - Đơn số người gọi là gì?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'không thể trả lời được', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Số 5 chữ số là gì?\
+	['23442', '23442', '23442', 'không thể trả lời được', 'không thể trả lời được', 'Chỉ thấy 2 chữ số 69', '23442', 'không thể trả lời được', 'không thể trả lời được', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Bao nhiêu ounce đây?\
+	['23,6', '20', '20', '24', 'không thể trả lời được', 'không thể trả lời được', 'không thể trả lời được', '33', 'không thể trả lời được', 'gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Nhiệt độ trên nhiệt kế này là gì?\
+	['72', '72', '72', '72', '72', '72', '72', '72 độ', '72', '72 độ']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là số trang nào?\
+	['2', '2', '2', '2', '2', '2', '2', 'không thể trả lời được', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Màn hình này nói gì?\
+	['8888', 'không thể trả lời được', 'Không có gì cả.', '8888', 'không thể trả lời được', 'không thể trả lời được', '8888', '888', 'Không có gì cả.', 'trống']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Số trang nào được hiển thị?\
+	['123', '121', '121', '121', 'không thể trả lời được', '121', '121', '128', '321', '121']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Đây là số nào?\
+	['26', '26', '26', '26', '26', 'giấy', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Cái này nói gì?\
+	['không thể trả lời được', '40', '40', 'không thể trả lời được', 'không thể trả lời được', 'số', '40', '40', '40 lbs không khí', '30']	còn thiếu dữ liệu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer vi When the provided information is insufficient, respond with 'không thể trả lời được'. Có bao nhiêu viên trong hộp này?\
+	['8 viên', '8', '8', '8', '8', '8', '8', '8 viên', '8', '8']	8

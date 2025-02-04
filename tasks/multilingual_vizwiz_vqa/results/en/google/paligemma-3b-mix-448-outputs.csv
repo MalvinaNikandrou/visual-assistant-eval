@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is written on the paper?\
+	['unanswerable', 'australia post', 'post', 'unanswerable', 'australia post', 'austrailia post', 'australia post', 'australia post', 'unanswerable', 'australia post']	post
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what's on this computer screen please?\
+	['icons for clock weather etc', 'start window', 'desktop', 'clock', 'clock', 'icons', 'desktop icons', 'unanswerable', 'desktop icons', 'icons']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What CD is this?\
+	['blank', 'blank cd', 'maxwell', 'maxell cd r', 'blank', 'blank', 'blanket', 'blank', 'blank', 'maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the picture of?\
+	['foot', 'foot', 'foot scratch on', 'foot', 'foot', 'foot', 'foot', 'foot', 'foot', 'foot']	foot
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Could you tell me what this can is please?\
+	['hunt s', 'manwich', 'manwich', 'hunts sloppy joe sauce', 'sloppy joe sauce', 'manwich', 'manwhich bold sloppy joe sauce', 'unwich', 'manwich', 'sloppy joe']	old joe sauce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['diet coke soda', 'diet coke can', 'diet coke', 'can diet coke', 'diet coke', 'diet coke', 'diet coke', 'coke', 'soda', 'can diet coke']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What spice is this?  \
+	['mrs dash', 'unanswerable', 'mrs dash', 'unanswerable', 'cant tell', 'all spice', 'basil blend', 'mrs dash table blend', 'dash', 'mrs dash']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['mtn dew bottle', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mt dew']	mountain dew
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's in this box?\
+	['coffee', 'unanswerable', 'coffee', 'coffee', 'coffee', 'coffee', 'coffee', 'coffee', 'coffee', 'unanswerable']	coffee
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What do you see?\
+	['skin', 'finger floor doors', 'door', 'door', 'finger door', 'door', 'unanswerable', 'door', 'house', 'finger black fur']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is my computer screen showing?\
+	['do you want to restore your computer using system restore', 'system restore pop up', 'system restore message', 'asking if you want to restore your computer using system restore', 'box', 'system restore', 'do you want to restore your computer using system restore', 'computer did not start use system restore', 'restore set up', 'system restore']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['hot cocoa', 'hot cocoa mix', 'hot chocolate', 'hot cocoa mix', 'cocoa', 'hot cocoa mix', 'hot cocoa', 'hot chocolate mix', 'cocoa', 'cocoa mix']	hot cocoa mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you please tell me the 1-800 number on this card?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	1-877-328-9677
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what's this \
+	['computer screen', 'computer screen', 'computer screen', 'laptop', 'computer screen showing search results', 'screen', 'computer screen', 'computer screen', 'monitor screen', 'computer screen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is this?\
+	['salad dressing back side', 'dressing', 'salad dressing', 'salad dressing', 'balsamic salad dressing', 'salad dressing', 'unanswerable', 'salad dressing', 'salad dressing', 'salad dressing']	salad dressing
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the picture show?\
+	['window', 'design', 'frosted glass window black design', 'glass window pane in door', 'glass window in door', 'door', 'stained glass', 'door', 'window', 'window']	window
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can someone tell me what the security question is on the screen, please?\
+	['arawak', 'unanswerable', 'arawak', 'arawak', 'arawak', 'arawak', 'unanswerable', 'unanswerable', 'arawak', 'arawak']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['wine', 'silver oak', 'silver oak', 'silver oak wine', 'wine', 'bottle', 'wine', 'wine', 'silver oak 2003 cabernet sauvignon', 'silver oak 2003']	wine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What brand of monitor is this?\
+	['lg', 'unanswerable', 'unanswerable', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of drink is this?\
+	['soda', 'ginger ale', 'ginerale', 'ginger soda', 'canada dry', 'canada dry', 'ginger ale', 'canada dry', 'ginger ale', 'ginger ale']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is the carpet?\
+	['beige', 'beige', 'tan', 'grey', 'taupe', 'cream', 'tan', 'tan', 'beige', 'taupe']	beige
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['telephone', 'telephone', 'telephone', 'telephone', 'phone', 'telephone', 'digital phone', 'phone', 'office phone', 'phone']	phone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this image?\
+	['mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountain dew', 'mountaing dew', 'moutain dew', 'mtn dew bottle', 'mountain dew soda', 'mtn dew']	mountain dew
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this bottle?\
+	['unanswerable', 'unanswerable', 'lotion', 'soda', 'unanswerable', 'lotion', 'lotion', 'lotion', 'unanswerable', 'lotion']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['aquafina water', 'bottle aquafina water', 'water', 'water', 'plastic bottle aquafina brand water', 'bottle water', 'water bottle', 'aquafina water', 'water', 'plastic bottle water']	water
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?  \
+	['google search', 'google search engine tab', 'google search page', 'google', 'google', 'computer', 'google homepage', 'google page', 'computer screen', 'computer screen']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What are these?\
+	['keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys', 'keys']	keys
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please read me the error message on the screen.\
+	['unanswerable', 'invalid product key', 'invalid product key', 'unanswerable', 'invalid product key', 'invalid product key', 'invalid product key', 'invalid product key either removeproduct key in unattend answer file to proceed', 'invalid product key either remove product key in unattend answer file to proceed', 'invalid product key']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Where is my laptop?\
+	['desk', 'on desk', 'top desk next to bed', 'on desk', 'desk', 'desk', 'on desk', 'on desk', 'top desk', 'desk']	on desk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the title of this book? \
+	['dog years', 'dog years: memoir', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years', 'dog years']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['macbook', 'keyboard', 'keyboard', 'keyboard', 'computer', 'keyboard', 'laptop', 'laptop', 'laptop', 'computer screen keyboard']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What do you see?\
+	['table window', 'flowers', 'unanswerable', 'table window', 'book notebook pen', 'flowers', 'destop', 'book', 'window', 'flowers']	table
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Which packet contains plain flour?\
+	['red white package', 'left', 'that 1', 'red 1 on left', 'left', 'unanswerable', 'left', 'left', 'red white 1', 'red 1']	red
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['football', 'football', 'football', 'purple orange plush football gator on', 'gators football', 'gators soft football', 'stuffed football', 'stuffed orange blue football', 'purple football', 'fl gators']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is it?\
+	['grey', 'gold', 'gold', 'beige', 'red', 'gold', 'unanswerable', 'unanswerable', 'gold', 'unanswerable']	red
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['menu', 'unanswerable', 'menu', 'menu', 'menu', 'table contents', 'menu', 'menu', 'price list', 'unanswerable']	menu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['water bottle', 'springvourne', 'springbourne water', 'springbourne', 'bottled water', 'water', 'water bottle', 'bottled water', 'water in bottle', 'water']	water
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soup is this?\
+	['progresso', 'progresso', 'progresso', 'unanswerable', 'progresso', 'unanswerable', 'unanswerable', 'unanswerable', 'progresso', 'progresso']	progresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. I know this is a can of food. Could you please tell me what's in it?\
+	['green beans', 'green beans', 'green beans', 'green beans', 'green beans', 'unanswerable', 'green beans', 'eef', 'green beans', 'green beans']	green beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is?\
+	['chex mix', 'chop mills', 'chex mix computer', 'unanswerable', 'chex mix', 'food', 'chex mix', 'chex mix', 'chex mix', 'chekmix']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is it?\
+	['microwave', 'microwave', 'medication', 'appliances jelly beans soup', 'can soup', 'cup soup to drink', 'kitchen', 'kitchen counter', 'creamer', 'soup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this can? \
+	['mixed vegetables', 'mixed vegetables', 'mixed vegetables', 'mixed vegetables', 'mixed veggies', 'efgrfg', 'mixed vegetables', 'mix vegetables', 'mixed vegetables', 'mixed vegetables']	mixed vegetables
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind is this?\
+	['cake frosting', 'vanilla', 'vanilla', 'whipped vanilla frosting', 'betty crocker', 'vanilla frosting', 'whipped vanilla', 'vanilla frosting', 'vanilla', 'vanilla']	vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What box am I looking at, as in what does the box contain?\
+	['granola bar box', 'nature valley roasted almond granola bars', 'granola bars', 'nature valley', 'roasted almond granola bars', 'nature valley roasted almond granola bars', 'nature valley crunchy granola bars roasted almond flavor', 'granola bars', 'granola bars', 'roasted almond crunchy granola bars']	nature valley crunchy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What about the color cloth. Tell me about the color cloth. \
+	['green white', 'white dark green print', 'white green', 'white green', 'pink green', 'cloth white cream green on', 'pink black', 'green white', 'purple black tie dye', 'white green splatters']	white green
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the computer screen showing?\
+	['mouse arrow', 'cursor', 'nothing', 'blue', 'blue screen', 'arrow', 'blank', 'blue arrow', 'blank', 'blue screen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Hello who is this?\
+	['white cat', 'cat', 'cat', 'white cat', 'cat', 'unanswerable', 'cat', 'cat', 'this cat', 'kitty']	cat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['purell advanced hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'purell hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'purell hand sanitizer']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the error message say?\
+	['invalid product key', 'invalid product key', 'invalid product key', 'invalid product key', 'invalid product', 'invalid product key click ok to proceed', 'invalid product key either remove theproduct key in unattend answer file to proceed', 'invalid product', 'invalid product key', 'invalid product key']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what this message says on my computer screen?\
+	['some sort repair finish button in lower right', 'startup repair last successful boot 9 20 2012 1 repair attempt close back finish cancel', 'unanswerable', 'no', 'startup repair', 'startup repair', 'startup repair', 'unanswerable', 'startup repair completed diagnostic screen close button', 'startup repair']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of meat is it? Is this chicken or sausage oer what sort of meat? Thank you\
+	['chicken', 'chicken', 'chicken', 'chicken', 'chicken', 'chicken', 'chicken', 'chicken thigh', 'unanswerable', 'chicken']	chicken
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this?\
+	['electric blue', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue', 'unanswerable']	blue
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the screen say?\
+	['installing windows', 'installing windows plus more unreadable', 'installing windows', 'installing windows', 'installing windows', 'this screen states that windows installing lists steps installation', 'installing windows', 'installing windows', 'installing windows', 'installing windows']	installing windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Sky look like in this picture.\
+	['partly cloudy', 'dark clouds', 'big cloud', 'huge cloud dark sky', 'overcast', 'cloudy', 'blue lots clouds', 'unanswerable', 'giant rain cloud bit blue to side', 'cloudy']	cloudy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this?\
+	['porch', 'chair', 'chair', 'chair', 'unanswerable', 'bench', 'chair', 'chair', 'bench metal framework window', 'chair']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['photo', 'door', 'door', 'bar', 'glass paneled doors', 'door', 'restaurant', 'restaurant', 'doors', 'doors']	door
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Whats on my screen? Come on you guys! Whats on the screen?\
+	['select boot device', 'please select boot device 3 choices', 'unanswerable', 'please select boot device', 'boot screen', 'please select boot device', 'error', 'please select boot device', 'device select message', 'please select boot device']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this object?\
+	['ashtray', 'decorative bronze sculpture lioness', 'statue', 'no', 'ashtray', 'ash tray', 'statue', 'dog bowl', 'ashtray', 'plague tiger on top']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of cigarettes are these?\
+	['american spirit', 'american spirit', 'american spirit', 'american spirit', 'american spirit', 'black packaged american spirits', 'american spirit', 'american spirit', 'american spirit', 'american spirit']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['guava ginseng', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this bottle?\
+	['body lotion', 'body lotion', 'body lotion', 'lotion', 'shea body lotion vitamin e', 'moonlight path shea vitamin e body lotion', 'body lotion', 'moonlight path body lotion', 'moonlight path body lotion', 'lotion']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this a picture of?\
+	['eyeglasses', 'frames', 'glasses', 'eye glasses silver frames', 'eye glasses', 'glasses', 'eyeglass frame', 'glasses', 'glasses', 'glasses']	glasses
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. This is product.\
+	['yes', 'tomato soup', 'tomato soup', 'soup', 'canned soup', 'tomato soup', 'tomato soup', 'tomato soup', 'soup', 'select harvest tomato soup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['phone box', 'iphone', 'iphone box', 'phone', 'cellphone', 'cell phone box', 'smartphone', 'phone', 'smart phone', 'iphone']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this a picture of?\
+	['candy container', 'celebration red box', 'answerable', 'says celebration', 'box', 'candy', 'party favor', 'celebrations', 'box', 'unanswerable']	celebration
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this?\
+	['champagne', 'wine glass tea pot', 'glass', 'glass wine', 'glass champagne wine next to coffee cup sitting on plate', 'drink in glass on table', 'champagne', 'teacup glass', 'teapot champagne glass', 'champagne glass plate on table in front window city view']	glass wine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the flavor of this?\
+	['orange', 'orange green yellow red', 'orange mint', 'orange', 'unanswerable', 'unanswerable', 'orange', '2 on left orange cherry lemon on top bottom right wintergreen', 'orange', 'orange']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Hi there, I was wondering what was in this can?  Thank you.  I was wondering if it's beer or a or a can of soda.  Thank you.\
+	['coca cola', 'coca cola', 'soda', 'coca cola', 'soda', 'soda coke', 'soda', 'soda', 'cocacola', 'soda']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the setting on this dryer?\
+	['counter clockwise regular wrinkle control time dry delicates wrinkle release air fluff', 'regular', 'off', 'off', 'off', 'regular', 'off', 'not on setting', 'nothing', 'off']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['tablet', 'tablet', 'phone apps', 'screen', 'list apps', 'app store', 'tablet', 'list apps to download', 'unanswerable', 'app downloads']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What am I looking at?\
+	['television', 'closet tv', 'television', 'tv', 'tv screen', 'television', 'tom selleck on television', 'tv', 'tv', 'open closet door television']	television
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this?\
+	['white', 'white', 'white', 'white', 'beige', 'white', 'ivory', 'unanswerable', 'beige', 'unanswerable']	white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['this food item', 'ravioli', 'ravioli', 'ravioli', 'ravioli', 'chef boyardee mini raviolis', 'canned mini ravioli', 'ravioli', 'chef boya mini ravioli', 'mini ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['roast beef meal', 'roast beef', 'roast beef', 'roast beef', 'traditional roast beef', 'roast beef', 'roast beef', 'traditional roast beef', 'roast beef', 'roast beef']	roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this product?\
+	['diet pepsi', 'caffeine free diet pepsi', 'pepsi', 'pepsi', 'diet pepsi', 'diet pepsi', 'diet pepsi', 'diet caffeine free pepsi', 'diet pepsi', 'diet pepsi']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this called?\
+	['eastern', 'beans', 'unanswerable', 'unanswerable', 'food', 'beans', 'trail mix', 'cereal', 'nuts', 'bag peanuts']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this regular or decaffeinated coffee?\
+	['regular', 'unanswerable', 'regular', 'regular', 'regular', 'regular', 'unanswerable', 'unanswerable', 'regular', 'regular']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['macaroni cheese', 'macaroni cheese', 'macaroni cheese', 'macaroni cheese', 'macaroni cheese', 'mac cheese', 'macaroni cheese', 'macaroni cheese', 'macaroni cheese', 'macaroni cheese']	mac cheese
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this bottle?\
+	['softening lotion', 'lotion', 'lotion', 'lotion', 'softening cream', 'lotion', 'moisturizer', 'body cream', 'deep moisture body wash', 'body wash']	body wash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is it?\
+	['desk chair', 'chair', 'chair', 'office chair', 'office chair', 'this office chair', 'chair', 'desk chair', 'chair', 'grey office chair']	chair
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What was that item I just took a picture of?\
+	['computer monitor', 'computer', 'computer screen', 'unanswerable', 'unanswerable', 'laptop', 'computer screen', 'laptop', 'computer monitor', 'laptop computer']	computer screen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Tell me what this is.\
+	['pork chops', 'meat', 'some kind red meat', 'pack meat', 'pork', 'pork chop', 'unanswerable', 'meat', 'fg', 'pork loin']	pork chops
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what does the sky look like in this photo?\
+	['cloudy day', 'partly cloudy', 'cloudy', 'cloudy', 'cloudy', 'cloudy', 'cloudy', 'cloudy', 'cloudy', 'rain']	cloudy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Which meal is this?  It's waiting for time to run out?\
+	['unanswerable', 'spaghetti', 'spaghetti', 'unanswerable', 'unanswerable', 'spaghetti', 'spaghetti', 'spegetti', 'dinner', 'pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['flowers', 'flower', 'flowers', 'flowers', 'flower', 'flowers', 'plants', 'flowers', 'flower', 'iris']	flower
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this item?\
+	['loose tea', 'tea', 'unanswerable', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea', 'tea']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color and pattern are these shorts?\
+	['plaid', 'plaid blue yellow', 'blue orange green', 'blue brown white plaid', 'blue plaid on top yellow plaid on bottom', 'multicolored', 'blue tan white plaid', 'plaid', 'blue plaid', 'blue white green yellow plaid']	plaid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what color was the case?\
+	['green', 'green', 'lime green', 'case green color', 'green', 'green', 'green', 'green', 'bright green', 'green']	green
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this a regular coke or a diet coke?\
+	['diet coke', 'diet', 'diet', 'diet', 'diet', 'diet', 'diet coke', 'diet', 'diet coke', 'diet']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['pen', 'keyboard pen', 'pen', 'pen', 'pen', 'pen', 'pen', 'pen', 'pen', 'bic pen']	pen
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['lamp can pringles', 'lamp', 'lamp', 'lamp', 'pringle can next to cds lamp', 'lamp without shade', 'lamp', 'table pringles lamp mouthwash', 'lamp', 'lamp']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this computer doing?\
+	['checking system', 'unanswerable', 'disc check', 'checking disk', 'unanswerable', 'unanswerable', 'loading', 'configuring', 'checking for consistency', 'reboot']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soda is this?\
+	['diet coke', 'din', 'diet coke', 'diet coke', 'diet coke', 'diet coke', 'diet coke', 'diet coke lemon', 'diet coke', 'diet coke']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please tell me the them of this book\
+	['clive cussler dirk cussler', 'unanswerable', 'clive cussler dirk cussler', 'clive cussler dirk cussler', 'sci fy', 'suspense', 'olive cussler dirk cussler', 'action', 'unanswerable', 'clive cussler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What wine is this?\
+	['unanswerable', 'celebrating marriage david emma red wine', 'nash', 'nash', 'nash', 'nash', 'nash', 'unanswerable', 'unanswerable', 'nash wine']	the mash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['yogurt', 'unanswerable', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt', 'yogurt']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the title of this book?\
+	['dog years', 'dog years', 'dog years', 'dog years', 'unanswerable', 'dog years', 'unanswerable', 'dog years', 'dog years', 'dog years']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['sony laptop', 'laptop', 'laptop', 'computer', 'laptop', 'sony vaio laptop', 'laptop', 'sony vaio', 'sony laptop', 'laptop']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. I wonder the brand of this computer.\
+	['sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony', 'sony']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what this is? Is it tomatoes? Or enchilada sauce?\
+	['battle', 'back label doesnt say', 'unanswerable', 'tomatoes', 'tomatoes', 'tomatoes', 'unanswerable', 'tomatoes', 'unclear image', 'tomatoes']	tomatoes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['pudding', 'pudding snacks', 'vanilla pudding', 'pudding', 'vanilla pudding', 'pudding', '6 pack snack pack vanilla pudding', 'pudding cups', 'pudding', 'snack pack pudding']	snack pack pudding
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['$20 canadian bill', '20 dollar canadian bill', '20 canadian', 'money', 'money on lace', '20 bill', 'moneu', '20 dollar canadian note', '$20 dollars', 'money']	money
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['lasagne', 'lasagne', 'special lasagne', 'lasagne', 'pecial lasagna', 'special lasagne', 'lasgne', 'lasagne', 'lasagna', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of coffee is this?\
+	['espresso', 'espresso', 'timothy expresso', 'rainforest esspresso', 'rainforest espresso', 'espresso', 'extra bold', 'espresso foret tropical', 'extra bold espresso foret tropical', 'timothy']	timothy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is that a picture of?\
+	['keyboard wine glass', 'laptop', 'laptop keyboard wine beer', 'unanswerable', 'computer', 'computer', 'laptop drink', 'laptop computer on desk next to glass liquid', 'laptop glass', 'glass laptop']	laptop
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['title book', 'book', 'pamphlet', 'note', 'demon rum easy money book', 'demon rum easy money: government control liquor in british columbia', 'book', 'book', 'title page book', 'pamphlet']	demon rum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What was on the table?\
+	['notebook', 'notebook pen other papers', 'spiral ringed notebook', 'paper pen', 'notebook', 'notebook pen', 'notebook', 'notebook pen', 'paper pen', 'notebook']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what color is this shirt?\
+	['blue white plaid', 'blue white', 'blue white plaid', 'blue white', 'blue', 'blue white', 'plaid blue white', 'blue plaid', 'blue', 'blue']	blue white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['andre chardonnay', 'champagne', 'andre', 'champagne', 'wine', 'champagne', 'champagne', 'champagne', 'bottle champagne', 'champagne']	wine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is the name of the product in the can in the picture?\
+	['lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol', 'lysol']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of coffee is this?\
+	['gevalia', 'massimo gevalia kaffe', 'massimo', 'gevalia espresso', 'massimo', 'black coffee', 'massimo', 'unanswerable', 'gevalia', 'gevalia']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is this\
+	['dr pepper', 'can dr pepper soda', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper soda', 'dr pepper', 'can dr pepper soda', 'dr pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Could you please tell me what this is please, thank you?\
+	['instant coffee', 'instant coffee', 'classic coffee', 'coffee packet', 'unanswerable', 'coffee', 'coffee', 'powdered coffee', 'coffee', 'nescafe classic']	coffee
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color are the three wires from left to right?\
+	['red black white', 'red black white', 'red black tan', 'red black white', 'red black white', 'red black white', 'red black white', 'red black white', 'red blue white', 'red black white']	red black white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this pregnancy test show?\
+	['1 line', 'negative', 'negative', '1 line but dye spread try another', 'unanswerable', '1 stripe', 'no image', 'red line', 'unanswerable', 'blue mark red mark']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the name of this seasoning?\
+	['mrs fresh lemon pepper blend', 'dash', 'mrs dash', 'mrs dash lemon pepper', 'mrs dash', 'mrs dash', 'pepper', 'mrs dash', 'mrs dash', 'mrs dash']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Hi. what type of drink is in the bottle in my right hand? Thank you.\
+	['pepsi', 'pepsi soda', 'diet pepsi', 'diet pepsi', 'diet pepsi', 'pepsi', 'diet pepsi', 'pepsi diet', 'diet pepsi', 'diet pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['video game', 'video game', 'basketball game', 'video game', 'unanswerable', 'dvd', 'unanswerable', 'game', 'video game', 'dvd']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this? \
+	['ketchup', 'ketchup', 'heinz tomato ketchup', 'ketchup packet', 'ketchup pack', 'ketchup', 'ketchup', 'ketchup packet', 'ketchup', 'ketchup']	ketchup
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What colors are in this shirt?\
+	['red white', 'maroon', 'red white', 'red white stripes', 'red white stripes', 'red white', 'red white', 'red white', 'red white', 'red white']	red white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this package?\
+	['parliament picture', 'music album', 'cigarettes', 'cigarettes', 'cigarettes', 'cigarettes', 'pahament recessed filters', 'parliament cigarettes', 'cards', 'ciggarettes']	cigarettes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this mat?\
+	['purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple']	purple
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is the dialogue more visible in that picture?\
+	['bored', 'yes', 'no', 'yes', 'no', 'no', 'no', 'no', 'no', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this product?\
+	['green beans', 'green beans', 'green beans', 'can', 'beans', 'peas', 'unanswerable', 'green beans', 'fg', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this can?\
+	['pork beans', 'pork beans', 'pork n beans', 'pork beans', 'pork beans', 'pork beans', 'pork beans', 'pork beans', 'pork beans', 'pork beans']	pork beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this wine?\
+	['unanswerable', 'aewfdsaedf', 'vintage 2008 produce nash', 'nash', 'nash', 'wedding souvenir', 'nash celebrating marriage david emma 16 july 2011', 'nash', 'nash', 'celebration marriage']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of food is this? \
+	['tomato sauce', 'tomato sauce', 'organic tomato sauce', 'tomato sauce', 'tomato sauce', 'tomato sauce', 'muir glen organic tomato sauce', 'tomato sauce', 'muir glen organic tomato sauce', 'tomoto']	tomato sauce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What flavor is this?\
+	['strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry', 'strawberry']	strawberry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Could you tell me color this is? What color is this please?\
+	['black', 'black', 'black', 'black', 'black', 'black', 'black', 'black', 'black', 'black']	black
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is that?\
+	['plant', 'decorative plant', 'aloe', 'houseplant', 'houseplant', 'house plant', 'plant', 'house plant', 'plant', 'grass plant']	plant
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['magazine', 'comic book', 'comic book', 'adult board game', 'magazine', 'coloring book', 'weird christmas book', 'not sure i cannot read that language', 'christmas greeting cards', 'comic']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['chicken dijon dinner', 'food', 'chicken dijon', 'chicken dijon', 'chicken dijon', 'food', 'chicken dijon', 'chicken', 'chicken dijon', 'chicken dijon']	chicken dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of coffee is this? \
+	['gevaliaa', 'gevalia', 'french vanilla', 'french vanilla', 'gevaliaa', 'gevaliaa', 'french vanilla', 'french vanilla', 'french', 'gevaliaa french vanilla']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this object?\
+	['iphone', 'phone', 'phone', 'iphone', 'cellphone', 'cell phone', 'mobile phone', 'i phone', 'smartphone', 'smartphone']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this?\
+	['unanswerable', 'cigarettes', 'pack cigarettes', 'cigarettes', 'pack cigarettes', 'cigarettes', 'cigarettes', 'unanswerable', 'cigarettes', 'cigarettes']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What flavor is this?\
+	['beef', 'beef flavored', 'beef', 'beef flavored broth', 'beef', 'beef flavor', 'beef flavored broth', 'beef', 'this beef flavor', 'beef']	beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['large cup', 'cup', 'cup', 'cup', 'loves togo cup', 'cup', 'pop cup some other stuff', 'styrofoam cup', 'cup', 'this cup']	cup
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this diet Pepsi or regular Pepsi?\
+	['diet pepsi', 'diet', 'unanswerable', 'diet', 'diet pepsi', 'diet', 'diet', 'diet', 'diet pepsi', 'diet']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the screen say?\
+	['avast software', 'scanning local drives', 'windows', 'error message', 'scanning', 'avast software scanning windows xp', 'windows', 'unanswerable', 'windows xp', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please tell which screen I'm on? I'm trying to access the boot menu and I'm trying to boot from a USB drive. See if you can me what screen is up and what option is? \
+	['press down arrow once then enter for usb', 'boot menu on boot from hdd option', 'unanswerable', 'u bootmood', 'please select boot device', 'please select boot device:', 'please select boot device hdd: pm st9250315as', 'please select boot device', 'screen header: please select boot device move arrow down 1 spot to usb:usb disk pro', 'please select boot device']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what flavor this is? \
+	['diet dr pepper', 'diet dr pepper', 'dr pepper diet', 'dr pepper', 'diet dr pepper', 'diet dr pepper', 'diet dr pepper', 'cola', 'diet dr pepper', 'diet dr pepper']	diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soup is this?\
+	['veg soup', 'progresso', 'progressive', 'unanswerable', 'progresso vegetable', 'unanswerable', 'vegetables', 'progresso vegetable', 'vegetable', 'progresso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Do you tell me what kind of car this is?\
+	['unanswerable', 'lincoln crown victoria', 'some kind 4 door sedan', 'lincoln', 'ford crown victoria', 'lincoln', 'chevrolet', 'crown victoria', 'unanswerable', 'ford']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Coffee is this?\
+	['gevalia', 'gevalia', 'gevalia', 'gevalia swiss hazelnut', 'gevalia', 'gevalia', 'gevalia', 'gevalia', 'gevalia', 'gevalia']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'hand sanitizer', 'germx', 'germ x hand sanitizer', 'germ x hand sanitizer']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is that can?\
+	['soup', 'fruit', 'unanswerable', 'unanswerable', 'soup', 'unanswerable', 'soup', 'unanswerable', 'drawer', 'soup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this? \
+	['brown', 'brown', 'brown', 'oak brown', 'brown', 'brown maple', 'wooden', 'brown', 'brown', 'brown']	brown
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'hand', 'hand', 'unanswerable', 'hand', 'hand', '1 right hand', 'hand', 'hand', 'hand']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's the crock pot setting?\
+	['cup', 'high', 'high', 'high', 'high', 'high', 'low', 'high', 'high', 'high']	low
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what this is?\
+	['articles for blind', 'cd', 'reverse cd', 'articles for blind disk', 'cd', 'disk', 'book on cd', 'cd', 'cd articles for blind', 'spear by james herbert dvd']	articles for blind
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is that?\
+	['computers monitor keyboard', 'monitor', 'computer monitor', 'computer screen', 'computer', 'computer monitor', 'computer screen', 'desktop', 'graph', 'graph']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what this bottle says?\
+	['warm vanilla sugar', 'sugar', 'warm vanilla sugar', 'warm vanilla sugar', 'warm vanilla sugar body lotion', 'warm vanila sugar', 'warm vanilla sugar body lotion', 'warm vanilla sugar', 'warm vanilla sugar body lotion', 'warm vanilla sugar']	warm vanilla sugar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's on the screen?\
+	['windows installation screen', 'unanswerable', 'installing windows', 'installing windows status screen', 'windows install', 'installing windows', 'instructions for installing windows', 'progress installing windows', 'installing windows info', 'windows']	installing windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['can', 'can', 'unanswerable', 'can beans', 'can', 'beans', 'unanswerable', 'beans', 'stew', 'stew']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of drink is that?\
+	['orange juice', 'orange juice', 'orange juice', 'orangejuice', 'orange juice', 'orange juice', 'orange juice', 'orange juice', 'orange', 'orange juice']	orange juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of pop is in this can?\
+	['tea', 'nestea', 'nestea lemon', 'iced tea', 'nestea', 'nestea', 'nestea', 'iced tea', 'nestle ice tea', 'nestle']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this a pepperoni pizza, pepperoni and sausage, supreme, what kind? \
+	['pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'pepperoni', 'yes', 'pepperoni', 'mama cozzis pepperoni thin crust', 'pepperoni']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Do you have any idea what kind of the plant the one in the middle is?\
+	['no', 'grass', 'grass', 'grass', 'grass', 'grass', 'no', 'no', 'grass', 'weed']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['glasses', 'glasses', 'glasses', 'eyeglasses', 'pair glasses', 'glasses', 'pair glasses', 'glasses', 'eye glasses', 'pair glasses']	glasses
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Describe this place.\
+	['office', 'office space', 'office', 'office 2 desks cabinet 2 chairs', 'office', 'office', 'desks black office chairs', 'office desks', 'office 2 desks', 'office']	office
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['notebook', 'planner', 'book', 'book', 'card', 'notebook', 'planner', 'notebook', 'lilly pulitzer agenda spiral', 'notebook']	notebook
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['teddy bear rose', 'teddy bear', 'teddy bear', 'teddy bear', 'teddy bear', 'teddy bear', 'bear', 'teddy bear', 'teddy bear', 'teddy bear']	teddy bear
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What type of spice is this?\
+	['onion sea salt', 'onion sea salt', 'onion sea salt', 'onion sea salt', 'onon sea salt', 'onion salt', 'onion sea salt', 'onion sea salt', 'onion sea salt', 'onion sea salt']	salt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. whats in this can?\
+	['diet dr pepper', 'diet dr pepper', 'diet dr pepper', 'diet dr pepper', 'dr pepper', 'diet dr pepper', 'diet dr pepper', 'diet dr pepper', 'dr pepper diet', 'diet dr pepper']	diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the picture on this cup?\
+	['cartoon', 'cartoon characters', 'cartoon', 'man looking at bird', 'man chicken', 'man', 'cartoon man', 'sketch bird man tree moon', 'person animal', 'cartoon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['persons back', 'boy', 'mans head', 'person', 'back someones head shoulders', 'back man', 'unanswerable', 'grey shirt', 'boy', 'picture back person']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['speaker', 'speaker', 'speaker on wall', 'speaker', 'speaker', 'speaker', 'wall speaker', 'speaker', 'cat mount', 'speaker']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is written here?\
+	['cab phone number', 'nothing', 'nothing', 'telephone', 'city cab', 'receipt', 'unanswerable', 'looks like receipt', 'lines', 'citycab']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['new orleans style jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'rice', 'jambalaya', 'jambalaya mix', 'jambalaya mix', 'jambalaya rice', 'box prepared mix for new orleans style jambalaya rice', 'jambalaya mix']	jambalaya mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is my Mac? \
+	['silver', 'white', 'beige black', 'white', 'silver', 'silver', 'silver', 'silver', 'white', 'silver']	white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in the tin?\
+	['organic baked beans', 'baked beans', 'organic baked beans', 'baked beans', 'baked beans', 'baked beans', 'baked beans', 'baked beans', 'baked beans', 'baked beans']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['macaroni cheese', 'unanswerable', 'macaroni cheese', '3 cheese macaroni', 'macaroni cheese', 'mac cheese', 'macaroni cheese', 'dinner', 'mac n cheese', 'shells cheese']	kraft dinner
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['zatarains new orleans style jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'rice', 'zatarains jambalaya mix', 'jambalaya', 'zatarains jambalaya mix', 'jambalaya mix']	jambalaya mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this thing?\
+	['quality street candy', 'box candy', 'candy', 'candy', 'hard candy', 'candy', 'candy', 'candy', 'quality street', 'candy']	sweet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Excuse me, tell me what you can see exactly in this picture.\
+	['fridge', 'refrigerator', 'fridge', 'small refridgerator wicker tray light tiled wall handle sticker on refridgerator', 'fridge', 'mini fridge', 'mini fridge', 'cabinet doors', 'white fridge', 'fridge']	refrigerator
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what the thing in the box says?\
+	['delightful grandchildren', 'something about delightful grandchildren', 'delightful', 'nothing more delightful than grandchildren', 'few things more delightful than grandchildren fighting over your lap', 'delightful grandchildren', 'delightful grandchildren', 'few things more delightful than grandchildren fighting over your lap', 'unanswerable', 'delightful grandchildren']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the sky look like?\
+	['clear', 'sunset sunrise', 'blue', 'dusk', 'blue', 'clear', 'clear', 'tranquil', 'light blue', 'blue lighter blue near horizon']	clear
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this shirt?\
+	['tan', 'brown', 'tan', 'beige', 'beige', 'pinkish', 'brown', 'tan', 'gold', 'grey color']	brown
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is he a boy or a girl?\
+	['unanswerable', 'boy', 'boy', 'girl', 'boy', 'boy', 'boy', 'boy', 'boy', 'boy']	boy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please can you tell me what item this is?\
+	['cereal', 'cheerios', 'cereal', 'cheerios', 'unanswerable', 'cereal', 'honey cheerios', 'cheerios now more delicious honey', 'honey', 'honey']	honey nut cheerios
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this?\
+	['plaid red yellow white blue', 'plaid', 'green blue white red plaid', 'multicolor', 'palid', 'plaid', 'blue green white red', 'plaid', 'blue white green plaid', 'blue green red white']	plaid
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['hot cocoa', 'hot cocoa mix', 'hot cocoa mix', 'hot cocoa mix', 'cocoa mix', 'hot cocoa', 'hot chocolate', 'hot chocolate mix', 'hot chocolate packet', 'hot chocolate']	hot cocoa mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['unanswerable', 'hamms special light beer', 'beer', 'unanswerable', 'unanswerable', 'beer', 'beer', 'beer', 'beer', 'special light']	beer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this chicken or celery?\
+	['tomato', 'tomato', 'tomato', 'tomato', 'no', 'tomato', 'tomato soup', 'tomato', 'tomato', 'no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say?\
+	['macbook pro', 'macbook pro', 'mac book pro', 'macbook pro', 'mac book pro', 'macbook pro', 'macbook pro', 'air book pro', 'macbookpro', 'macbook pro']	macbook pro
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Id like to know whats contained in this can\
+	['baked beans', 'baked beans', 'beans', 'baked beans in tomato sauce', 'farmgirl baked beans', 'baked beans', 'baked beans', 'beans', 'baked beans', 'beans']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is this\
+	['chicken', 'unanswerable', 'creamy parmesan chicken', 'food', 'tv dinner', 'food', 'mac cheese', 'food', 'marie collenders meal', 'creamy parmesan chicken']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['dollar bill', '1 dollar bill', 'dollar', '1 dollar bill', '1', '1 dollar bill', 'dollar bill', '$1 bill', '1 dollar bill', '1 us dollar bill']	dollar bill
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this. \
+	['playing cards', '2 kings', 'pair kings', 'playing cards', 'cards', 'cards', 'playing cards', 'pair', 'cards', 'playing cards']	cards
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this black or blue? \
+	['unanswerable', 'black', 'black', 'black', 'black', 'black', 'black', 'grey', 'black grey', 'black']	black
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is written on the screen?\
+	['google search text box', 'google', 'google', 'google google search im feeling lucky', 'google', 'google search', 'unanswerable', 'google', 'google', 'unanswerable']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['roast beef', 'roast beef', 'roast beef', 'roast beef', 'food', 'roast beef', 'roast beef', 'roast beef', 'traditional roast beef', 'traditional roast beef']	traditional roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soda is this?\
+	['dr pepper', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper', 'dr pepper']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['tv remote', 'remote control', 'remote control', 'remote', 'remote control', 'remote', 'remote control', 'remote control', 'remote', 'remote controll']	remote
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['house plant', 'plant', 'house plant', 'plant', 'plant', 'plant', 'plant', 'potted plant', 'plant', 'houseplant']	plant
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this thing?\
+	['desk', 'computer', 'desk', 'desk', 'desk', 'desk', 'computer desk', 'desk', 'desk', 'desk computer on']	computer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is on my table? \
+	['ipod touch', 'apps', 'phone', 'smart phone papers', 'smart phone papers', 'phone', 'phone', 'phone', 'cellphone', 'phone']	phone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What picture did I take? And of what?\
+	['ipad', 'pic ipad coffee purse next to', 'tablet', 'ipad', 'hulu log in screen', 'huluplus', 'tablet showing hulu plus', 'tablet hulu plus login', 'huluplus screen', 'login screen for hulu plus on tablet']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this bottle?\
+	['shampoo', 'shampoo', 'unanswerable', 'treseme', 'tresemme', 'unanswerable', 'tresemme hair care', 'shampoo', 'perfume', 'tresemme shampoo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this a model of?\
+	['soda', 'sprite', 'soda bottle', 'sprite', 'unanswerable', 'sprite soda', 'sprite', 'sprite bottle', 'unanswerable', 'sprite']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is this product?\
+	['chex mix', 'chex mix', 'chex mix', 'chex mix cheddar', 'chex mix', 'chex mix', 'chef mix', 'chex mix', 'chex mix', 'chex']	cheddar chex
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['smoked turkey', 'smoked turkey panini', 'smoked turkey panini', 'turkey panini', 'smoked turkey panini', 'smoked turkey panini', 'stouffer stuffing', 'panini', 'smoked turkey', 'smoked turkey panini']	stouffer smoked turkey panini
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What letters do I type to win the prize?\
+	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of can is this?\
+	['tomatoes', 'sauce', 'tomato', 'crushed tomatoes', 'tin', 'tomato', 'tomatoes', 'canned tomatoes', 'tomato', 'tomatoes']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of Keurig cup is this?\
+	['donut house', 'coffee', 'box', 'donut', 'donut house collection', 'donut', 'donut', 'donut hut collection', 'donut hole', 'donut hole collection']	donut house
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please tell me the name of this book?\
+	['crescent dawn', 'unanswerable', 'author clive cussler dirk cussler', 'only authors names shown no title', 'clive cussler dirk cussler', 'clive cussler', 'clive cussler dirk cussler', 'clive cussler dirk cussler', 'clive cussler dirk cussler', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['money', 'money', '$20 bill', 'money', '20 dollars', '20 dollars', '20 dollars', 'twenty dollar bill', '20.00 bill', '20 dollar bill']	money
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this shampoo or body wash?\
+	['lotion', 'body lotion', 'lotion', 'body lotion', 'sparkling body lotion', 'body lotion', 'body lotion', 'lotion', 'body lotion', 'body lotion']	body wash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's in this photo?\
+	['crackers', 'box crackers', 'cracker box', 'cracker box', 'crackers', 'crackers', 'crackers', 'crackers', 'crackers', 'crackers']	crackers
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this picture of?\
+	['phone', 'macbook pro', 'macbook pro', 'computer monitor', 'unanswerable', 'laptop', 'computer', 'macbook pro', 'macbook pro screen', 'laptop computer']	macbook pro
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['water', 'water', 'natural crystal water', 'natures crystal water', 'water bottle', 'water bottle', 'water bottle', 'water', 'water bottle', 'water']	water
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of pizza is this?\
+	['pepperoni', 'mama cozzis', 'mama cozzis thin pizza', 'pepperoni', 'frozen pizza', 'pepperoni', 'thin', 'thin crust pepperoni from mama cozzis', 'mama cozzis thin crust pepperoni', 'mama cozzis']	thin
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this can?\
+	['whole corn', 'corn', 'corn', 'corn', 'whole kernel corn', 'whole kernel corn', 'corn', 'great value food can', 'corn', 'corn']	corn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['mouse', 'computer mouse', 'computer mouse', 'computer mouse', 'computer mouse', 'hp wired mouse', 'computer mouse', 'pc mouse', 'hp mouse', 'mouse']	mouse
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this? What is this?\
+	['office', 'chairs', 'office', 'office chair', 'chair', 'desk chair', 'home office', 'office', '2 desk chairs', 'chair']	office
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. whats this?\
+	['tv', 'television', 'television', 'old tv monitor', 'tv', 'tv', 'monitor', 'television screen', 'tv', 'monitor']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what color is my shirt?\
+	['black white', 'blue white black', 'black', 'blue', 'navy', 'black white emblem', 'black white', 'blue', 'blue', 'black white']	blue
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this?\
+	['red', 'red', 'red', 'red', 'pink', 'red', 'red', 'red', 'red', 'red']	red
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Are these regular chips or salt-and-vinegar chips? Thank you.\
+	['salt', 'regular', 'regular', 'regular chips', 'regular', 'regular', 'unanswerable', 'unanswerable', 'regular', 'unanswerable']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of carton is this? Orange juice or milk?\
+	['orange juice', 'orange juice', 'oj', 'orange juice', 'orange juice', 'orange juice', 'orange juice', 'orange', 'orange juice', 'paper carton orange juice']	orange juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what this is?\
+	['chips', 'chips', 'chips', 'potato chips', 'potato chips', 'sour cream onion chips', 'chips', 'potatoe chips', 'chips', 'potato chips']	chips
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. whats in this bag\
+	['unanswerable', 'frozen vegetables', 'vegetables', 'carrots peas corn green beans', 'vegetables', 'peas carrots corn', 'mixed vegetables', 'vegetables', 'mixed veggies', 'corn carrots greet beans peas']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What flavor of Spark is this?\
+	['pink lemonade', 'pink lemonade', 'unanswerable', 'pink lemonade', 'unanswerable', 'pink lemonade', 'orange', 'strawberry', 'unanswerable', 'pink lemonade']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind is this?\
+	['manwich', 'unanswerable', 'unanswerable', 'manwich', 'manwich', 'manwich', 'tomato', 'manwich', 'manwich', 'sloppy joe']	manwich
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What season is this?\
+	['spaghetti', 'spaghetti', 'spaghetti seasoning', 'spaghetti seasoning', 'spaghetti', 'spaghetti seasoning', 'spaghetti seasoning', 'spaghetti', 'spaghetti', 'spaghetti seasoning']	spaghetti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['book', 'magazine', 'vertical magazine', 'magazine', 'vertical magazine', 'magazine', 'magazine', 'vertigo magazine', 'magazine', 'magazine']	magazine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this object?\
+	['wall', 'wall', 'wall', 'wall', 'unanswerable', 'unanswerable', 'unanswerable', 'wall', 'wall', 'wall']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['candy', 'strawberry hard candy', 'candy', 'strawberry hard candy', 'piece candy', 'strawberry candy', 'sdgaegr', 'strawberry candy', 'candy', 'strawberry hard candy']	candy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color are these shoes?\
+	['brown', 'black', 'brown', 'brown', 'brown', 'brown', 'brown', 'foot', 'brown', 'briwn']	brown
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['computer screen', 'webpage', 'unanswerable', 'unanswerable', 'website', 'computer screen', 'computer monitor', 'article', 'pdf file for vizwiz', 'vizwizpdf blurry but can see contributors section']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this picture?\
+	['monitor', 'laptop', 'television', 'computer', 'laptop', 'television', 'flat screen tv', 'laptop screen', 'television', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['cell phone', 'cellphone', 'pager', 'unanswerable', 'phone', 'cell phone', 'blackberry cell phone', 'cell phone', 'cell phone', 'cell phone']	phone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this?\
+	['fridge', 'unanswerable', 'fridge', 'dorm refrigerator', 'fridge', 'fridge', 'refrigerator', 'mini fridge', 'refridgerator', 'mini fridge']	refrigerator
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color jewelry should I wear with this outfit?\
+	['silver', 'silver', 'white', 'gold', 'black', 'silver', 'silver', 'silver', 'silver', 'silver']	gold
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['leg', 'jeans', 'thigh', 'pants leg', 'arm couch', 'pants', 'pillow', 'unanswerable', 'pant leg', 'leg']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['dog', 'unanswerable', 'dog', 'dog', 'dog', 'dog', 'dog', 'dog', 'unanswerable', 'dog on floor']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['remote', 'remote', 'remote control', 'tv controller', 'tv remote', 'remote control', 'remote', 'remote', 'remote control', 'remote control']	remote
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Are these bananas green or yellow?\
+	['slight green', 'yellow', 'yellow', 'yellow', 'green', 'yellow', 'yellow', 'yellow', 'yellow', 'yellow']	yellow
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this product? \
+	['cereal', 'kashi go lean crunch honey almond flax', 'kashi go lean crunch', 'golean crunch kashi', 'cereal', 'go lean crunch cereal', 'go lean crunch', 'kashi go lean crunch honey almond flax', 'cereal', 'cereal']	golean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is currently on the TV screen?\
+	['nothing', 'nothing', 'nothing off', 'nothing', 'nothing', 'nothing', 'nothing', 'nothing', 'unanswerable', 'nothing']	nothing
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['meat', 'beef steak', 'beef', 'package steak', 'meat', 'meat', 'unanswerable', 'beef steak', 'steak', 'meat']	meat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this message say?\
+	['unanswerable', 'restore complete', 'unanswerable', 'restoration complete', 'restoration complete', 'unanswerable', 'restoration complete', 'restoration complete', 'restoration complete', 'restoration complete']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of food is in this can?\
+	['soup', 'progresso garden vegetable soup', 'garden vegetable soup', 'vegetable soup', 'garden vegetable soup', 'garden vegetable soup', 'soup', 'progresso garden vegetable soup', 'garden vegetable', 'garden vegetable soup']	soup
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'can', 'split pea soup', 'split pea soup', 'split pea soup', 'split pea soup', 'soup', 'can split pea soup', 'split pea soup', 'soup']	soup
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is it a sofa or a table?\
+	['table', 'table', 'table', 'table', 'table', 'table', 'table', 'table', 'table', 'this table']	table
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What food is in this can?\
+	['ravioli', 'ravioli', 'ravioli', 'corn', 'ravioli', 'ravioli', 'ravioli', 'ravioli', 'ravioli food', 'ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's on the screen?\
+	['error message', 'pop ups for startup repair computer restart', 'restart', 'dialogue box that says you sure want to exit startup repair restart your computer', 'startup repair', 'windows update instructions', 'unanswerable', 'startup repair', 'restart computer option', 'startup repair']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Let's give this a try, can you tell me what this is? \
+	['beans', 'baked beans', 'beans', 'baked beans', 'bushs baked beans', 'can', 'can beans', 'bushs baked beans', 'baked beans', 'beans']	bushs baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what kind of phone this is?\
+	['l g', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'android', 'lg', 'yes']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['smartphone', 'cellphone', 'cell phone', 'phone', 'cell phone', 'cell phone', 'cell phone', 'smartphone', 'phone', 'phone']	phone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['laptop', 'hand', 'laptop keyboard', 'hand', 'fingers', 'hand', 'unanswerable', 'unanswerable', 'desk', 'hand']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['cabernet 2009', 'wine', 'wine', 'wine', 'cabernet sauvignon', 'bottle wine', 'wine', 'wine', 'horse heaven columbia cabernet 2007 wine', 'wine']	wine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in that bottle?\
+	['coke', 'soda pop maybe coca cola', 'soda', 'coca cola soda', 'soda', 'soda', 'coke', 'soda', 'coke', 'soda']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this please.\
+	['red white stripe', 'red', 'red white stripes', 'red white stripes', 'red white', 'white red', 'shirt', 'red white', 'red white', 'red white']	red white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's in this bag?  \
+	['broccoli', 'broccoli', 'broccoli', 'broccoli', 'broccoli', 'but broccoli', 'broccoli', 'cut broccoli', 'steam n serve cut broccoli', 'broccoli']	cut broccoli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is that a coupon for?\
+	['yogurt', 'yogurt', 'yoplait yogurt', 'yoplait yogurt 10 $5', 'yoplait', 'yoplait yogurt 10 $5', 'yoplait yogurt', 'yogurt', 'discount', 'yogurt']	yoplait yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of pop is this?\
+	['nestea', 'canned iced tea', 'lemon', 'nestea lemon', 'nestea', 'nestea', 'nestea', 'nestea', 'fiesta', 'nestea']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['ipad', 'tablet', 'computer', 'ipad', 'mouse pad', 'laptop', 'window', 'tablet', 'unanswerable', 'ipad']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's on the screen?\
+	['do you want to restore your comp using system restore pop up', 'error message', 'do you want to restore your computer using system restore', 'startup', 'startup repaid diagnostic screen', 'systems restore question: do you want to use to restore your computer', 'startup repair', 'startup repair', 'question to restore computer', 'do you want to restore your computer using system restore']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soda is this? And thank you so much for your time in answering.\
+	['sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite', 'sprite']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does it say on the screen?\
+	['do you want to restore your computer using system cd', 'restore', 'do you want to restore your computer using system', 'your computer was unable to start start repair checking your system for problems', 'do you want to restore your computer using system', 'startup repair', 'your computer unable to start', 'your computer was unable to start start up repair checking your system for problems', 'computer unable to start', 'restore']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this can\
+	['vegetables', 'wrgrweg', 'mixed veggies', 'vegie original', 'mixed vegetables', 'veggies', 'vegall', 'vegetable', 'veggies', 'mixed vegetables']	mixed vegetables
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what can you see in the picture what can you see in the picture\
+	['nothing', 'sky', 'sink', 'sky', 'unanswerable', 'sky', 'nothing', 'unanswerable', 'unanswerable', 'sky']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soda pop? \
+	['coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola', 'coca cola 0', 'coca cola 0', 'coke 0', 'coca cola 0', 'coca cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of system is this?\
+	['desktop', 'unanswerable', 'windows', 'desktop computer', 'windows', 'windows', 'windows', 'windows pc', 'windows', 'windows']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is it?\
+	['speaker', 'speakers', 'floor', 'speakers', 'loud speaker system', 'speaker', 'speaker', 'speaker', 'speaker', 'speakers']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. It monitor light on the laptop?\
+	['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'no', 'yes']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Could you tell me what this bottle says?\
+	['warm vanilla sugar body lotion', 'warm vanilla sugar', 'warm vanilla sugar', 'warm vanilla sugar', 'warm vanilla sugar body lotion', 'warm vanilla sugar', 'warm vanilla sugar lotion', 'warm vanilla sugar', 'warm vanilla sugar body lotion', 'warm sugar vanilla']	warm vanilla sugar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me the 1-800 number off this card, and are you able to hear this question?\
+	['1 800 735 2929 cant hear q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 no', '18773289677 no', '1 877 328 9677', '8007352929 no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Lights in the room turned on or off?\
+	['lights off', 'off', 'on', 'off', 'on', 'unanswerable', 'on', 'on', 'on', 'on']	on
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What flavor is this?\
+	['cherry', 'pink lemonade', 'fruit punch', 'pink lemonade', 'pink lemonade', 'unanswerable', 'unanswerable', 'pink lemonade', 'cherry', 'pink lemonade']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this message say?\
+	['restoration complete', 'unanswerable', 'successful restoration complete', 'restoration complete', 'restoration complete', 'restoration complete', 'restoration complete', 'registration complete', 'restoration complete', 'restoration complete']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is my shirt?\
+	['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']	white
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['advanced color therapy shampoo', 'shampoo', 'advanced color therapy shampoo', 'shampoo', 'color therapy shampoo', 'shampoo', 'color therapy', 'shampoo', 'ovation advanced color therapy', 'color therapy']	shampoo
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['cans', 'cat food', 'unanswerable', 'sink', 'can', 'sink', 'washing', 'sink', 'sink', 'can']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What video game is this?\
+	['espn nfl 2k', 'football', 'nfl 2k', 'espn nfl 2k5', 'espn 2k5', 'espn 2k football', 'nfl 2k', 'football', 'nfl 2k', 'football']	espn
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['panini', 'panini', 'smoked turkey panini', 'smoked turkey panini', 'smoked turkey panini', 'stouffer smoked turkey panini', 'turkey panini', 'unanswerable', 'smoked turkey panini', 'smoked turkey panini']	smoked turkey panini
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this box?\
+	['lasagne', 'frozen dinner', 'special lasagne', 'special lasagne', 'lasagne', 'special lasagne', 'lasagne', 'lasagne', 'lasagne', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this object?\
+	['nature valley oats dark chocolate granola bar', 'crunch bar', 'granola bar', 'granola bar', 'granola bar', 'granola bar', 'nature valley oats n dark chocolate bar', 'oats n dark chocolate crunchy bar', 'dark chocolate granola bar', 'granola bar']	granola bar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['video game', 'playstation 2 game', 'playstation 2 star wars battlefront game', 'play station star wars game', 'video game', 'video game', 'star wars battlefront 2', 'game', 'playstation 2 game', 'psi game']	star wars battlefront
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Kind of coffeemate is this?\
+	['french vanilla', 'french vanilla', 'french vanilla', 'nestle', 'vanilla', 'french vanilla', 'coffee mate', 'french vanilla', 'french vanilla', 'french vanilla']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['orange juice', 'juice', 'juice', 'orange juice', 'juice', 'smooth juicy', 'smooth n juicy', 'juice', 'orange juice', 'juice']	juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color are the stones in this earring?\
+	['pink', 'magenta', 'red', 'pink', 'purple', 'pink', 'pink', 'pink', 'pink', 'pink']	pink
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the label on this electronic device say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this screen say exactly, if you can read this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'cannot read screen', 'unanswerable', 'unanswerable', 'unanswerable', 'cant read', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this bottle?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'lotion', 'vitamins', 'unanswerable', 'unanswerable', 'unanswerable', 'not sure', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What flavor is this energy bar?\
+	['strawberry', 'berry almond crunch', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'apple crunch', 'unanswerable', 'unanswerable', 'berry almond crunch']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'attention', 'n', 'unanswerable', 'unanswerable', 'news', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what type of meal is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. So um I'm trying to figure what kind of radio this is, so any information so I can get one of my own, that'd be great, thanks. \
+	['i dont know', 'unanswerable', 'unanswerable', 'possibly home ip9 speaker dock', 'unanswerable', 'ham', 'unanswerable', 'portable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. I'm so sorry. I don't know how to... I've never really taken a picture of this type of thing before.\
+	['move little further away so camera focuses', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Which of these is the best movie?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'simple']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['this slide', 'pink', 'unanswerable', 'purple', 'unanswerable', 'unanswerable', 'glow', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the name of this lotion?\
+	['unanswerable', 'noxema', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. When does this expire?\
+	['9.27.13', 'unanswerable', 'unanswerable', 'sep 23 2013', 'september 23 2013', 'unanswerable', 'unanswerable', 'unanswerable', 'september 23 2013', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How long do I cook this for?\
+	['unanswerable', 'unanswerable', '5 minutes', 'unanswerable', 'unanswerable', '5 minutes', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['kleenex', 'corner', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'phone', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this song?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'bug in photo', 'unanswerable', 'unanswerable', 'unanswerable', 'beetle']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does it say underneath windows cannot repair this system automatically? It says start something.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'startup repair cannot repair this computer automatically', 'unanswerable', 'startup', 'starting repair cannot repair this computer automatically', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How much sodium is in this package?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'samoas', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. On the screen does it say it's restoring?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What curtain?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'keep studying', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's the name of this mediation?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', '0', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's the color?\
+	['red white', 'unanswerable', 'white', 'white', 'unanswerable', 'red white', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. please explain what the label on my router says thank you.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the expiration date on this bus pass?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Just say.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'zno', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say, what does this say\
+	['unanswerable', 'unanswerable', 'rows columns blurry numbers', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What time is it?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'flash on camera rendering clock unable to read', 'not visible', 'unanswerable', 'unanswerable', 'cant tell', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Could you tell me the usage instructions for this shampoo? thank you.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'edfcfd', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is there a button I need to press to make it resume? Or do I just wait?\
+	['system resume', 'unanswerable', 'yes', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'no', 'wait', 'plug in']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. If the card is shown in this picture, what does it say?\
+	['unanswerable', 'not shown', 'unanswerable', 'unanswerable', 'unanswerable', 'no words', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. The test?\
+	['unanswerable', 'unanswerable', 'remote', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'surround sound remote', 'question does not apply to picture']	remote
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Real pun.\
+	['unanswerable', 'unknown', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. I'm dealing with a Captcha but I can't see the screen and I need it to request something from a website.  Can you tell me what the Captcha is?\
+	['not 1', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'no', 'no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. I know it says the Ten Commandments, but what are the Ten Commandments?\
+	['set rules given by god to his believers', 'unanswerable', 'unanswerable', 'moral rules', 'unanswerable', 'gods commandments', 'unanswerable', 'unanswerable', 'laws', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does my computer screen say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'too blurry', 'blank screen']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of baby formula is this?\
+	['unanswerable', 'unanswerable', 'i dont see baby formula', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this medication?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What card is this?\
+	['unanswerable', 'red credit card', 'unanswerable', 'unanswerable', 'unanswerable', 'credit card', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this card say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'only 1 6 12 visible', 'unanswerable', 'nothing', 'unanswerable', '1 6 12', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['soap', 'product', 'unanswerable', 'milk', 'unanswerable', 'unanswerable', 'eye drops', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Okay, what kind of jerky is this again?\
+	['jack links', 'ds', 'unanswerable', 'unanswerable', 'unanswerable', 'beef', 'unanswerable', 'beef', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this a gift card for?\
+	['unanswerable', 'unanswerable', 'unanswerable image', 'unanswerable', 'cant tell', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what type of canned food is this?\
+	['limes', 'unanswerable', 'limes', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'limes', 'unanswerable', 'lime']	lime
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What time is it?\
+	['unanswerable', '532', 'unanswerable', 'unanswerable', '5:13', '5:13', 'unanswerable', '5:10', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's the product in this can?\
+	['cant tell', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what the conventional oven temperature is and for how many minutes and whether I need to puncture the lid? Thank you very much.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'asdd', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Does this oven seem ready?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'not oven', 'unanswerable', 'unanswerable', 'yes i think ready', 'no', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Did that help any?\
+	['unanswerable', 'unanswerable', 'no', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the code to be typed?\
+	['unanswerable', 'email', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of shirt am I wearing?\
+	['unanswerable', 'silk', 'unanswerable', 'unanswerable', 'white', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what kind of frozen dinner that is? Thank you.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'image blank', 'nothing', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What brand is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'sanyo', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the oven temperature setting?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'gfdsg', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you please tell what's in this bottle?\
+	['tomato sauce', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'pasta sauce', 'unanswerable', 'unanswerable', 'tomato sauce', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say?\
+	['unanswerable', 'azithromycin tablets 250mg', 'tablets', 'unanswerable', 'unanswerable', '250 mg', 'azithromycin tablets', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you read these words please?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'no word']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this valium?\
+	['no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'unable to read medication name']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is song is this?\
+	['unanswerable', 'unanswerable', 'sheet music', 'unanswerable', 'album', 'unanswerable', 'unanswerable', 'unanswerable', 'jingle jingle', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Yes this is an hp laptop computer, I need to know where the card reader is in relation to the keyboard. Please be as specific as possible. Thank you. \
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'on side', 'unanswerable', 'i am unable to see card reader sd card reader usually on left corner front edge', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's the name of the perfume?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'no name', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of RAM is this?\
+	['unanswerable', 'cn o444', 'unanswerable', 'unanswerable', 'ddr sdram pc3200', 'no idea', 'unanswerable', 'unanswerable', 'unanswerable', 'ddr']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. i understand that but does the back of the white truck look dented\
+	['unanswerable', 'no', 'image from front side i do not see anything unusual', 'no', 'unanswerable', 'unanswerable', 'n0', 'unanswerable', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soup is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'chicken', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is seen on the laptop screen? What is seen on the laptop screen?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this please?\
+	['unanswerable', 'soup', 'soup', 'can soup', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'soup', 'unanswerable']	soup
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this? \
+	['carpet', 'paper towels', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'paper towel', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What flavor are these?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'regular', 'original', 'unanswerable', 'turn around', 'cheese', 'picteur']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Which one of the three images is the Google logo?\
+	['unanswerable', '0', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'first image', 'left']	middle
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is this\
+	['unanswerable', 'unsure', 'blurry', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'label', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Are there any stones missing out of this?\
+	['unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'insufficient image quality', 'unanswerable', 'no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. I want to know what brand of cologne this is.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the expiration date on this cheese? \
+	['na', 'unreadable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What temperature is the thermostat set?\
+	['unanswerable', 'unanswerable', '75', 'unanswerable', '75', 'unanswerable', '75', '75', 'unanswerable', 'not visible']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this shirt.\
+	['unanswerable', 'unanswerable', 'black', 'unanswerable', 'black', 'unanswerable', 'unanswerable', 'unanswerable', 'black', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is written on the display?\
+	['error reboot message', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'sys', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of soda is this, please?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'not sure', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is it?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'hair', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please tell me what this says.\
+	['unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'box', 'unanswerable', 'small box', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What temperature is the thermostat set on?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'cant read', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is this bottle?\
+	['unanswerable', 'unanswerable', 'i dont know', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Could I get all the characters in this one?\
+	['arobergy chavez', 'unanswerable', 'yes', 'yes', 'unanswerable', 'arobergy chavez', 'unanswerable', 'no', 'unanswerable', 'yes']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Product key for this versions off\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. C'mon. I'm getting the wait thing.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'shoes', 'unanswerable', 'shoes', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What time is it? And, what's the temperature in Dallas Texas?\
+	['3:40 54', 'unanswerable', 'unanswerable', 'unanswerable', '9:17 pm 96 degrees', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How are you doing?\
+	['unanswerable', 'good', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'good', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this? What was the answer that you got?\
+	['unanswerable', 'unsure', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'log on screen', 'computer', 'unanswerable', 'screencast matic']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this please?\
+	['cloth covering bottle', 'unanswerable', 'blanket', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What brand is this?\
+	['unanswerable', 'unanswerable', 'seiko', 'unanswerable', 'blurry', 'unanswerable', 'unanswerable', 'unanswerable', 'watch', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What website is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'site about iphone in app purchases']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of laundry soup is this?\
+	['unanswerable', 'sun', 'unanswerable', 'unanswerable', 'suavetel', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what is in this jar?\
+	['nothing', 'unanswerable', 'unanswerable', 'unanswerable', 'soup', 'unanswerable', 'unanswerable', 'unanswerable', 'food', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this a receipt for? Sorry about this.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. WHAT IS THIS CORRECT THAT I HAVE AN MY HAND\
+	['business card', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'merry christmas', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What can I take a picture of?\
+	['clock on sheet', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'watch', 'mickey mouse pocket watch', 'this pocket watch head phones']	watch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the screen say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'windows license terms', 'terms partially off screen', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this? But yes I'll fold it.\
+	['unanswerable', 'fold', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'hand', 'box']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What color is this?\
+	['white grey', 'purple', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'red white', 'unanswerable']	grey
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is it?\
+	['unanswerable', 'unanswerable', 'kitchen', 'unanswerable', 'unanswerable', 'unanswerable', 'picture man at desk on computer', 'i see living room in picture', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what's the name\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'euphoria', 'euphoria', 'euphony', 'unanswerable', 'unanswerable']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is it?\
+	['unanswerable', 'light', 'unanswerable', 'unanswerable', 'light', 'light blur', 'unanswerable', 'unclear', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. please read the text on this box which is another box.\
+	['wd', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Hard to say it. I'm specifically looking for some eight digit ID number of some kind. Thank you.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'i dont see anything sorry', 'unanswerable', 'blank', 'i am not able to see anything like that', 'unanswerable', '0', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Speaker:  Can you please tell me the title of this book?  Thank you.\
+	['unanswerable', 'harmonic materials in tonal music', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say?\
+	['deberman', 'nothing', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'hand holding package']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the screen say?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. some time ya know\
+	['i cant understand', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what the security question, or the security numbers and letter are so I can add this into my edit field? Thanks.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What denomination is this dollar bill?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unusable image', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is that set on?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'counter', 'counter', 'kitchen counter', 'counter top']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this a snakebite?\
+	['unanswerable', 'possibly', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'maybe', 'maybe', 'no', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you please tell me in detail what's on this computer screen? Thank you very much. \
+	['unanswerable', 'unanswerable', 'computer cant start message', 'unanswerable', 'your computer was unable to start', 'unanswerable', 'your computer was unable to start startup repair checking your system for problems', 'startup', 'unanswerable', 'unknown dialog box']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What are the characters in this captcha?\
+	['unanswerable', 'wedfwe', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'black box']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Do you know how to cook these?\
+	['unanswerable', 'no', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'yes', 'unanswerable', 'unanswerable', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'computer screen', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How long do I cook this in the microwave?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', '8 minutes', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How do you cook this?\
+	['oven', 'unanswerable', 'bake', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What about the signery.\
+	['unanswerable', 'unanswerable', 'political', 'man', 'unanswerable', 'no clue', 'unanswerable', 'unanswerable', 'unanswerable', 'blue man in on building']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please tell me the instructions on this shampoo bottle.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'add to wet hair lather rinse repeat if desired']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this photo of?\
+	['ceiling', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this? \
+	['unanswerable', 'unanswerable', 'unanswerable', 'telephone', 'unanswerable', 'man talking on cellphone', 'unanswerable', 'person', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is in this can?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'beans', 'unanswerable', 'unanswerable', 'this image blurry', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what color my shirt is?\
+	['no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is it?\
+	['unanswerable', 'wire', 'unanswerable', 'black rubber dog toy', 'plant', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. When does this expire?\
+	['does not', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'not pictured', 'unanswerable', 'unanswerable', 'unanswerable', '2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this card?\
+	['unanswerable', 'unanswerable', 'no card', 'unanswerable', 'unanswerable', 'black', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this picture about? \
+	['unanswerable', 'blank', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'leather harness', 'dog', 'purse', 'unanswerable', 'dog harness', 'animal']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what are the cooking instructions for these?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What kind of tracing is this?\
+	['unanswerable', 'pencil', 'leaf pattern', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'leaf', 'unanswerable', 'weeds']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Hi, could you please tell me what's in the can in my right hand? Thank you.\
+	['unanswerable', 'some kind meat but label isnt entirely in picture', 'canned food', 'unanswerable', 'beef stew', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me who this is from?\
+	['no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'back letter from mail', 'back envelope no writing', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What flavor is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'newmans special blend', 'nemans special blend', 'coffee', 'newmanنَ»s special blend', 'unanswerable', 'newmans own', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is my blood pressure reading?\
+	['unanswerable', 'unanswerable', '105', 'unanswerable', 'unanswerable', 'unanswerable', '109 over', 'unanswerable', 'unanswerable', 'unable to read image cut off']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. we called what is the flavor \
+	['lemon', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you please tell me what this can says so I can figure out what's in it?\
+	['unanswerable', 'no', 'unanswerable', 'unanswerable', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Number to the highlighted text.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. It's suppose to say on the back of the card what kind of wand that is. What it's made out of and so forth. I just wanted to know what it was. Thanks.\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'something wood 14', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. There did I press the ok button I think?  And am I further along, thanks.\
+	['next button to be clicked now hit enter', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's this?\
+	['unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'flash', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Which temperature?\
+	['unanswerable', '57', 'twenty', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', '20', '20.7c', 'unanswerable']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this? \
+	['unanswerable', 'welcome sign', 'welcome plack', 'unanswerable', 'welcome sign', 'welcome sign', 'unanswerable', 'welcome banner', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What face is this?\
+	['no face', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', '0', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What are the numbers on this product key?\
+	['unanswerable', 'unreadable', 'unanswerable', 'unanswerable', 'unreadable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the number on this building that I just photographed? This is Yappapi College.\
+	['3', 'unanswerable', 'unanswerable', 'unanswerable', '3', 'unanswerable', '9', 'unanswerable', 'unanswerable', '3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Please tell me what is in this package. Thank you\
+	['unanswerable', 'harvest sensations salad', 'unanswerable', 'beets', 'candy', 'berries', 'hard to tell maybe some kind nuts', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is my desktop screen showing up?  Thanks.\
+	['sdfgh', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you read this?\
+	['yes', 'unanswerable', 'yes', 'import information memo for juicer', 'no', 'important imformation', 'some', 'kind', 'no', 'unanswerable']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell by looking at this, at the label, what it is, I think it's a piece, a dvd in the mail.\
+	['yes', 'yes dvd', 'no', 'dvd', 'dvd', 'unanswerable', 'label unclear but cd', 'yes', 'unanswerable', 'no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is my camera obscured? \
+	['yes', 'yes', 'yes', 'sd', 'yes', 'no', 'yes', 'no', 'yes', 'yes']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this chicken stock?  Is this chicken stock?\
+	['unanswerable', 'no', 'yes', 'probably unable to see all label', 'yes', 'unanswerable', 'yes', 'yes', 'unanswerable', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this art?\
+	['yes', 'aluminum foil art', 'yes', 'yes', 'yes', 'unanswerable', 'yes', 'yes', 'yes', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Hi, I just wanted to confirm that these are indeed pork chops. Any other information that is clear would be appreciated. Thank you.\
+	['yes', 'yes', 'yes kirkland signature pork chops', 'yes porkchops', 'yes', 'yes', 'yes', 'yes', 'yes loin chops', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Do the clouds look like storm clouds? What I'm saying is does it look like it's going to rain here or storm?\
+	['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'no', 'no', 'no']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Does Buddy's face look cute or not?\
+	['yes', 'yes', 'cute', 'yes', 'yes', 'no', 'yes', 'yes', 'yes', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is the dialog there now?\
+	['no', 'yes', 'yes', 'unanswerable', 'no', 'no', 'yes', 'yes', 'yes', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Do I have all my toes still?\
+	['yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes', 'yes']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you see a bottle in this picture and if so what is it?\
+	['unanswerable', 'no', 'no', 'no', 'no', 'no bottle', 'no', 'no', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is there any text on this side of the paper please?\
+	['no', 'no', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'no', 'unanswerable', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is it a fax? Is it a box?\
+	['unanswerable', 'no', 'no', 'no', 'unanswerable', 'unanswerable', 'unanswerable', 'no', 'no', 'no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is there a chest piece in this picture? If so, where?\
+	['no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is there a chess piece here?\
+	['no', 'yes', 'no', 'only board', 'no', 'no', 'yes', 'no', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Do these socks match?\
+	['no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is that a paper?\
+	['no', 'no', 'no', 'no', 'no', 'unanswerable', 'no', 'no', 'unanswerable', 'no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is it a laptop?\
+	['no', 'no', 'no', 'no', '0 that ive ever seen before', 'no', 'no', 'no', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you read everything on my TV screen?\
+	['no', 'no', 'yes', 'no', 'unanswerable', 'no', 'dvr usage capacity your dvr 89% full', 'yes', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you see the fragrance on this bottle of Freebeze?\
+	['no', 'no', 'no', 'no', 'cant see lable', 'no', 'no', 'no', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is the screen on?\
+	['no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What animal is on this computer screen?\
+	['no animal', '0', '0', '0', '0', 'no animal in screen', 'unanswerable', 'unanswerable', 'unanswerable', 'unanswerable']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Alright. I'm trying to get a number off of this card and I was wondering if you could be able to read that to me. \
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. please read the counter.\
+	['261627.2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	02616272
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What temperature is the thermostat set to?\
+	['72', '72', '72', '72 degrees', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What button is Mountain Dew?\
+	['5', '6 from top', '6th button', '6th 1 down', '5', '6', 'unanswerable', 'unanswerable', 'unanswerable', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. I believe this is silver oak.  What year is it?\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	2000
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the wattage on this power supply\
+	['350', 'unanswerable', '350', '350w max', 'unanswerable', '350', '350', 'unanswerable', 'wair', '350w max']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. what does it say?\
+	['77 degrees', '77', '77', '77', '77 degrees', '77', '77', '77', '77', '77']	77
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell which medallion this is from? Regiment.\
+	['47', '47', '47', '47th', 'has number 47', '47', '47', 'unanswerable', '47', 'no']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How much is this?\
+	['5', '5', '5', '5', '5', '5 dollars', '5', '5 singapore dollars', '5', '5 dollars']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the dial indicate as the top facing number?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	500
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What denomination is this bill?\
+	['20', 'rgreg', '20', '20', 'unanswerable', 'unanswerable', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is currently displayed on the screen?\
+	['452940', '452940', 'wakie talkie', 'numbers', 'radio', '452940', 'walkie talkie', '452940', 'unanswerable', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is 465 minus 55?\
+	['410', '410', '410', 'unanswerable', '410', 'unanswerable', '410', '410', '410', '410']	90
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the fifth number?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is this bill?\
+	['2', '2', '2', '2', '$2', 'money', '2', '2', 'unanswerable', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How many calories in a serving of Cheerios?\
+	['110', 'image plurry', '104', '110', '100', 'unanswerable', '10', 'unanswerable', 'unanswerable', 'unanswerable']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What temperature is the oven set at?\
+	['oven knob', 'oven temp 400 temperature', '425', '450', '400', '425', '425', '400', '425', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the temperature of the thermastat? \
+	['78', '78', '78 degrees', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How much money is this?\
+	['20 canadian dollars', '20', '20', '20', '20 euros', '20', '20 canadian dollars', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's the temperature set at?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the temperature on this thermostat?\
+	['50', '50', '55', '64 degrees', '55', 'unanswerable', 'unanswerable', '54', 'unanswerable', '56']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What denomination is this?\
+	['5', '5', '5', '5', 'canada', '5', '5', 'eghsthg', '5', '5']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Tell me the value of this card.\
+	['6 diamonds', '9 diamonds', '6 diamonds', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell how much this says I weigh?\
+	['210', '200', 'yes 200', '198', '200', '200', '200', '250', '200', '200']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Hi, I'm trying again. Can you tell me what how many numbers of degrees is on this gauge? \
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. could you tell me what temperature set on fine\
+	['78', '78', '78', '78', '78', '78', '78 degrees', '78 degrees', '78 degrees fahrenheit', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How many servings are in this candy bar?\
+	['unanswerable', '2', '4', 'unanswerable', '4', '4 peanut butter cups', '2', '2', 'unanswerable', 'unanswerable']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How many calories are in one serving?\
+	['120', '120', '120 dry 220 prepared if prepared 1 1 4 cup fat free milk', '120', '120', '120', '120', '120', '220', '120 dry cereal 220 milk']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Could you tell me what kind of bill this is? Because I'm looking for a twenty and I think this is a ten but I cannot really tell.\
+	['10 euro', '10', '10', 'unanswerable', '10', '10', '10 laying on red white shirt', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Does this strip have one or two pink lines? One can be lighter than the other one.\
+	['biue', '1', '1 line', '1 dark line', '1', '1', '1', '1', '1', '1']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me what number it is, thank you?\
+	['3248849064', '3248849084', 'unanswerable', '3248849084', 'unanswerable', 'unanswerable', '3248849084', 'unanswerable', 'unanswerable', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Can you tell me how much i weigh please? \
+	['1', '1', 'unanswerable', '1', '1', 'unanswerable', 'unanswerable', 'unanswerable', 'blank scale', '1']	127
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the current temperature setting on this thermostat?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'thermostat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. Is this a 5 or a 10 Canadian dollar bill?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 canadian']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What is the caller ID? Caller ID? Thank you.\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'unanswerable', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What's the five digit number?\
+	['23442', '23442', '23442', 'unanswerable', 'unanswerable', 'only see 2 digits 69', '23442', 'unanswerable', 'unanswerable', '23442']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How many ounces is this?\
+	['23.6', '20', '20', '24', 'unanswerable', 'unanswerable', 'unanswerable', '33', 'unanswerable', 'gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does the temperature say on this thermometer? Thank you so much.\
+	['72', '72', '72', '72', '72', '72', '72', '72 degrees', '72', '72 degrees']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What page number is this?\
+	['2', '2', '2', '2', '2', '2', '2', 'unanswerable', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this display say?\
+	['8888', 'unanswerable', 'nothing', '8888', 'unanswerable', 'unanswerable', '8888', '888', 'nothing', 'blank']	9886
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What page number is displayed? Thank you.\
+	['123', '121', '121', '121', 'unanswerable', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What number is this?\
+	['26', '26', '26', '26', '26', 'paper', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. What does this say?\
+	['unanswerable', '40', '40', 'unanswerable', 'unanswerable', 'numbers', '40', '40', '40 lbs air', '30']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer en When the provided information is insufficient, respond with 'unanswerable'. How many tablets are in this box?\
+	['8 tablets', '8', '8', '8', '8', '8', '8', '8 tablets', '8', '8']	8

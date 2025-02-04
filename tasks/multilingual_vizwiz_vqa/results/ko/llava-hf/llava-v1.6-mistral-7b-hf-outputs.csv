@@ -1,0 +1,3001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	[INST]\
+<image>\
+종이에 무슨 글이 써있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '오스트레일리아 포스트', '포스트', '대답할 수 없는', '오스트레일리아 포스트', '오스트레일리아 포스트', '오스트레일리아 포스트', '오스트레일리아 포스트', '대답할 수 없는', '오스트레일리아 포스트']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	[INST]\
+<image>\
+이 컴퓨터 화면에는 뭐가 있는지 말해 주시겠습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['시계 날씨 등 아이콘', '시작 창', '데스크톱', '시계', '시계', '아이콘', '데스크톱 아이콘', '대답할 수 없는', '데스크톱 아이콘', '아이콘']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	[INST]\
+<image>\
+이 CD는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['빈', '빈 CD', '맥스웰', '맥셀 CDR', '빈', '빈', '담요', '빈', '빈', '맥셀']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	[INST]\
+<image>\
+무슨 사진이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['발', '발', '발에 긁힌 것', '발', '발', '발', '발', '발', '발', '발']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	[INST]\
+<image>\
+이 캔이 뭐지 말해 주시겠어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사냥', '마니치', '마니치', '사냥을 하다가 조 소스를', '슬러피 조 소스', '마니치', '남자, 어떤 용감한 미끄러운 조 소스', '치', '마니치', '슬러피 조']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다이어트 코카 소다', '다이어트 코카 캔', '다이어트 코카', '다이어트 코카인을 넣을 수 있습니다.', '다이어트 코카', '다이어트 코카', '다이어트 코카', '코카인', '소다', '다이어트 코카인을 넣을 수 있습니다.']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	[INST]\
+<image>\
+무슨 향신료야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대시 부인', '대답할 수 없는', '대시 부인', '대답할 수 없는', '말할 수 없어요', '모든 향신료', '바지알 혼합물', '미스 대시 테이블 혼합', '', '대시 부인']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['MTN  병', '산설개', '산설개', '산설개', '산설개', '산설개', '산설개', '산설개', '산설개', 'mt 이슬']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['커피', '대답할 수 없는', '커피', '커피', '커피', '커피', '커피', '커피', '커피', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	[INST]\
+<image>\
+뭘 보고 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['피부', '손가락 바닥 문', '문', '문', '손가락 문', '문', '대답할 수 없는', '문', '집', '검은 털']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	[INST]\
+<image>\
+컴퓨터 화면이 뭐 보여?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['시스템 복원을 사용하여 컴퓨터를 복원하고 싶으십니까?', '시스템 복원 팝업', '시스템 복원 메시지', '시스템 복원을 사용하여 컴퓨터를 복원하고 싶으십니까', '상자', '시스템 복원', '시스템 복원을 사용하여 컴퓨터를 복원하고 싶으십니까?', '컴퓨터가 시작되지 않았습니다. 시스템 복원 사용', '설정 복원', '시스템 복원']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['뜨거운 카카오', '뜨거운 카카오 혼합물', '핫 초콜릿', '뜨거운 카카오 혼합물', '카카오', '뜨거운 카카오 혼합물', '뜨거운 카카오', '핫 초콜릿 혼합물', '카카오', '카카오 혼합물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	[INST]\
+<image>\
+이 카드에 있는 800번 번호를 말해 주시겠습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['컴퓨터 화면', '컴퓨터 화면', '컴퓨터 화면', '노트북', '검색결과를 보여주는 컴퓨터 화면', '화면', '컴퓨터 화면', '컴퓨터 화면', '모니터 화면', '컴퓨터 화면']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['샐러드 드레싱 뒷면', '의약품', '샐러드 드레싱', '샐러드 드레싱', '비스 살라드 드레싱', '샐러드 드레싱', '대답할 수 없는', '샐러드 드레싱', '샐러드 드레싱', '샐러드 드레싱']	제품
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	[INST]\
+<image>\
+이 그림은 무엇 을 보여 주는가?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['창문', '디자인', '녹조 유리 창문 검은색 디자인', '유리 창문 창문', '유리 창문', '문', '스테인드글라스', '문', '창문', '창문']	창
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	[INST]\
+<image>\
+누가 스크린에 있는 보안 질문의 답을 말해줄 수 있을까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아라와크', '대답할 수 없는', '아라와크', '아라와크', '아라와크', '아라와크', '대답할 수 없는', '대답할 수 없는', '아라와크', '아라와크']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['와인', '은오크', '은오크', '은오크 와인', '와인', '병', '와인', '와인', '은오크 2003 카베르네 사비', '은오크 2003']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	[INST]\
+<image>\
+이 모니터의 브랜드는?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['lg', '대답할 수 없는', '대답할 수 없는', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	Lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	[INST]\
+<image>\
+이건 무슨 술이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['소다', '진저알', '일반', '생강 소다', '캐나다 건조', '캐나다 건조', '진저알', '캐나다 건조', '진저알', '진저알']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	[INST]\
+<image>\
+이 카펫은 어떤 색인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['색', '색', '갈색', '회색', '색', '크림', '갈색', '갈색', '색', '색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['전화', '전화', '전화', '전화', '전화', '전화', '디지털 전화', '전화', '사무실 전화', '전화']	전화기
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	[INST]\
+<image>\
+이 그림은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['산설개', '산설개', '산설개', '산설개', '산설개', '산설설', '산설개', 'MTN  병', '산설 소다', '']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	[INST]\
+<image>\
+이 병은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '로션', '소다', '대답할 수 없는', '로션', '로션', '로션', '대답할 수 없는', '로션']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아쿠아피나 물', '물병', '물', '물', '플라스틱 병 Aquafina 브랜드 물', '물병', '물병', '아쿠아피나 물', '물', '플라스틱 물병']	물 병
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['구글 검색', '구글 검색 엔진 탭', '구글 검색 페이지', '구글', '구글', '컴퓨터', '구글 홈페이지', '구글 페이지', '컴퓨터 화면', '컴퓨터 화면']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['키', '키', '키', '키', '키', '키', '키', '키', '키', '키']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	[INST]\
+<image>\
+화면에 있는 오류 메시지를 읽어주세요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '유효하지 않은 제품 키', '유효하지 않은 제품 키', '대답할 수 없는', '유효하지 않은 제품 키', '유효하지 않은 제품 키', '유효하지 않은 제품 키', '유효하지 않은 제품 키 또는 제거product 키에서 계속하기 위해 응답 파일을 비참', '유효하지 않은 제품 키 또는 계속하기 위해 응답 파일에서 제품 키를 제거', '유효하지 않은 제품 키']	제품 키.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	[INST]\
+<image>\
+내 노트북은 어디 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['책상', '책상 위에', '침대 옆의 탁자', '책상 위에', '책상', '책상', '책상 위에', '책상 위에', '상단 책상', '책상']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	[INST]\
+<image>\
+이 책의 제목은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['개년', '개년: 회고록', '개년', '개년', '개년', '개년', '개년', '개년', '개년', '개년']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['맥북', '키보드', '키보드', '키보드', '컴퓨터', '키보드', '노트북', '노트북', '노트북', '컴퓨터 화면 키보드']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	[INST]\
+<image>\
+뭘 보고 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['테이블 창문', '꽃', '대답할 수 없는', '테이블 창문', '책 노트북 펜', '꽃', '', '책', '창문', '꽃']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	[INST]\
+<image>\
+어떤 포장지에는 정제 밀가루가 들어있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['빨간색 흰색 패키지', '왼쪽으로', '1', '빨간색 1 왼쪽', '왼쪽으로', '대답할 수 없는', '왼쪽으로', '왼쪽으로', '빨간색 흰색 1', '빨간색 1']	플레인 플라우
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['축구', '축구', '축구', '보라색 오렌지색 스 축구 악어', '악어 축구', '악어 소프트 축구', '은 축구', '포장된 오렌지색 파란색 축구선', '보라색 축구', '호랑이']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	[INST]\
+<image>\
+무슨 색이에요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['회색', '금', '금', '색', '빨간색', '금', '대답할 수 없는', '대답할 수 없는', '금', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['메뉴', '대답할 수 없는', '메뉴', '메뉴', '메뉴', '테이블 내용', '메뉴', '메뉴', '가격 목록', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['물병', '스프링버네', '스프링버른 물', '스프링버른', '병에 담긴 물', '물', '물병', '병에 담긴 물', '물병', '물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	[INST]\
+<image>\
+이게 무슨 수프야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['진행', '진행', '진행', '대답할 수 없는', '진행', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '진행', '진행']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	[INST]\
+<image>\
+이건 음식통이잖아, 안에 뭐가 있는지 말해줄래?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['콩', '콩', '콩', '콩', '콩', '대답할 수 없는', '콩', 'eef', '콩', '콩']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	[INST]\
+<image>\
+무슨 일이죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['체크스 혼합물', '톱 밀', '스 믹스 컴퓨터', '대답할 수 없는', '체크스 혼합물', '음식', '체크스 혼합물', '체크스 혼합물', '체크스 혼합물', '체크믹스']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	[INST]\
+<image>\
+무슨 일이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['마이크로 웨이브', '마이크로 웨이브', '약물', '가전제품 젤리 콩 수프', '캔 수프', '술잔 수프', '부엌', '부엌 카운터', '크림', '소프']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	[INST]\
+<image>\
+이 캔은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['혼합 채소', '혼합 채소', '혼합 채소', '혼합 채소', '혼합 채소', '에프그르프', '혼합 채소', '혼합 채소', '혼합 채소', '혼합 채소']	베스트 캔 빵 베이
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	[INST]\
+<image>\
+이게 어떤 종류죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['케이크 가시', '바닐라', '바닐라', '바닐라 가시', '베티 크로커', '바닐라 가시', '바닐라', '바닐라 가시', '바닐라', '바닐라']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	[INST]\
+<image>\
+어떤 상자를 보고 있는거죠? 상자가 무엇을 포함하고 있는 걸까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['곡물 바 박스', '자연 계곡 튀긴 아몬드 그롤라 바', '콩나위', '자연 계곡', '굽은 아몬드 그롤라 바', '자연 계곡 튀긴 아몬드 그롤라 바', '자연 계곡 은 그라놀라 바 튀긴 아몬드 맛', '콩나위', '콩나위', '튀긴 아몬드, 크루스틱한 그롤라 바']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	[INST]\
+<image>\
+색의 천은 어때요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['녹색 흰색', '흰색, 어두운 녹색 인쇄', '흰색 녹색', '흰색 녹색', '분홍색 녹색', '흰색 크림 녹색', '분홍색', '녹색 흰색', '보라색 검은색 타이트 염료', '흰색 녹색 스프래치']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	[INST]\
+<image>\
+컴퓨터 화면에는 무슨 표시가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['마우스 화살표', '커서', '아무것도 안 돼', '파란색', '블루 스크린', '화살표', '빈', '파란 화살표', '빈', '블루 스크린']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	[INST]\
+<image>\
+안녕하세요, 누구세요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['흰 고양이', '고양이', '고양이', '흰 고양이', '고양이', '대답할 수 없는', '고양이', '고양이', '이 고양이', '키티']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['푸렐 첨단 손 세제', '손청소제', '손청소제', '청정 손 세제', '손청소제', '손청소제', '손청소제', '손청소제', '손청소제', '청정 손 세제']	손 휴식 제품
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	[INST]\
+<image>\
+오류 메시지는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['유효하지 않은 제품 키', '유효하지 않은 제품 키', '유효하지 않은 제품 키', '유효하지 않은 제품 키', '무효 제품', '유효하지 않은 제품 키', '유효하지 않은 제품 키 또는 계속하기 위해 응답 파일에서 제품 키를 제거', '무효 제품', '유효하지 않은 제품 키', '유효하지 않은 제품 키']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	[INST]\
+<image>\
+이 메시지가 컴퓨터 화면에 뭐라고 써있는지 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오른쪽 아래쪽의 어떤 종류의 수리 완료 버튼', '시작 복구 마지막 성공적인 부팅 9 20 2012 1 수리 시도 닫기 종료 취소', '대답할 수 없는', '아니', '시작 복구', '시작 복구', '시작 복구', '대답할 수 없는', '시작 복구 완료 진단 화면 닫기 버튼', '시작 복구']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	[INST]\
+<image>\
+어떤 고기인가요? 닭고기나 소시지, 아니면 어떤 고기인가요? 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['닭고기', '닭고기', '닭고기', '닭고기', '닭고기', '닭고기', '닭고기', '닭고기다리', '대답할 수 없는', '닭고기']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	[INST]\
+<image>\
+무슨 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['전기 블루', '파란색', '파란색', '파란색', '파란색', '파란색', '파란색', '파란색', '파란색', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	[INST]\
+<image>\
+화면에는 무슨 표시가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['창문을 설치하는 것', '윈도우 + 더 읽기 불가능한 설치', '창문을 설치하는 것', '창문을 설치하는 것', '창문을 설치하는 것', '이 화면은 윈도우 설치 목록 설치 단계', '창문을 설치하는 것', '창문을 설치하는 것', '창문을 설치하는 것', '창문을 설치하는 것']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	[INST]\
+<image>\
+하늘이 이 사진과 비슷합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['부분적으로 흐린 날씨', '어두운 구름', '큰 구름', '거대한 구름 어두운 하늘', '구름이 넘쳐', '흐려져', '푸른 많은 구름', '대답할 수 없는', '거대한 비 구름은 옆으로 파란색으로', '흐려져']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['창문', '의자', '의자', '의자', '대답할 수 없는', '벤치', '의자', '의자', '벤치 금속 프레임 창문', '의자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사진', '문', '문', '바', '유리판 문', '문', '레스토랑', '레스토랑', '문', '문']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	[INST]\
+<image>\
+내 화면에는 뭐 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['부팅 장치를 선택', '부팅 장치 3 선택지를 선택하십시오', '대답할 수 없는', '부팅 장치를 선택하십시오.', '부팅 화면', '부팅 장치를 선택하십시오.', '오류', '부팅 장치를 선택하십시오.', '장치 선택 메시지', '부팅 장치를 선택하십시오.']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	[INST]\
+<image>\
+이 물건은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['재배기', '장식용 동화 조각 사자여자', '동상', '아니', '재배기', '재봉기', '동상', '개 그릇', '재배기', '위쪽에는 전염병 호랑이']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	[INST]\
+<image>\
+이건 무슨 담배야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['미국 정신', '미국 정신', '미국 정신', '미국 정신', '미국 정신', '검은색으로 포장된 미국 마신 술', '미국 정신', '미국 정신', '미국 정신', '미국 정신']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['바바 인젠', '차', '차', '차', '차', '차', '차', '차', '차', '차']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	[INST]\
+<image>\
+이 병에 뭐가 들어있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['몸용 로션', '몸용 로션', '몸용 로션', '로션', '시아 인체 로션 비타민 E', '달빛 경로 쉐 비타민 E 몸용', '몸용 로션', '달빛 경로 몸용 로션', '달빛 경로 몸용 로션', '로션']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	[INST]\
+<image>\
+이게 무슨 사진이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['안경', '프레임', '안경', '안경 은색 프레임', '눈 안경', '안경', '안경 프레임', '안경', '안경', '안경']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	[INST]\
+<image>\
+이건 제품입니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '토마토 수프', '토마토 수프', '소프', '소프', '토마토 수프', '토마토 수프', '토마토 수프', '소프', '토마토 수프를 선택']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['전화 상자', '아이폰', '아이폰 박스', '전화', '휴대전화', '휴대전화 상자', '스마트폰', '전화', '스마트폰', '아이폰']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	[INST]\
+<image>\
+이게 무슨 사진이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사탕 용기', '축하를 위한 빨간 박스', '책임질 수 있는', '축하한다고', '상자', '사탕', '당의 호의를', '기념식', '상자', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['샴페인', '와인 유리 차 냄비', '유리', '유리 와인', '잔에 앉아 있는 커피컵 옆에 있는 샴페인 와인', '테이블 위에 있는 잔으로 마시는 것', '샴페인', '차컵 유리', '차통 샴페인 잔', '앞 창문 앞 테이블에 있는 샴페인 유리판']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	[INST]\
+<image>\
+이게 어떤 맛이냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오렌지', '오렌지 녹색 노란색 빨간색', '오렌지 민트', '오렌지', '대답할 수 없는', '대답할 수 없는', '오렌지', '2 왼쪽 오렌지 체리 레몬 오른쪽 위 아래 겨울 녹색', '오렌지', '오렌지']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	[INST]\
+<image>\
+안녕하세요, 이 캔에 뭐가 있는지 궁금했어요? 감사합니다. 맥주나 소다나 캔인지 궁금했어요. 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['코카콜라', '코카콜라', '소다', '코카콜라', '소다', '소다 코크', '소다', '소다', '코카콜라', '소다']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	[INST]\
+<image>\
+이 드라이어 설정은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['반 시계 방향으로 규칙적인 주름 조절 시간 건조 섬세한 주름 방출 공기 ', '정규', '꺼', '꺼', '꺼', '정규', '꺼', '설정이 안되네요', '아무것도 안 돼', '꺼']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['알약', '알약', '전화 앱', '화면', '앱 목록', '앱 스토어', '알약', '다운로드 할 앱 목록', '대답할 수 없는', '앱 다운로드']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	[INST]\
+<image>\
+내가 뭘 보고 있는거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['텔레비전', 'TV 옷장', '텔레비전', 'TV', 'TV 화면', '텔레비전', 'TV에서 톰 셀렉', 'TV', 'TV', 'TV 문 열기']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	[INST]\
+<image>\
+무슨 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['흰색', '흰색', '흰색', '흰색', '색', '흰색', '코끼리', '대답할 수 없는', '색', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['이 식품', '라비올리', '라비올리', '라비올리', '라비올리', '셰프 보야디 미니 라비올리', '소형 라비올리', '라비올리', '셰프 보야 미니 라비올리', '미니 라비올리']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['로스트 비프 밀라리', '로스트 비프', '로스트 비프', '로스트 비프', '전통 로스트 쇠고기', '로스트 비프', '로스트 비프', '전통 로스트 쇠고기', '로스트 비프', '로스트 비프']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	[INST]\
+<image>\
+이 제품은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다이어트 펩시', '카페인이 없는 다이어트 펩시', '펩시', '펩시', '다이어트 펩시', '다이어트 펩시', '다이어트 펩시', '다이어트 카페인이 없는 펩시', '다이어트 펩시', '다이어트 펩시']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['동부', '콩', '대답할 수 없는', '대답할 수 없는', '음식', '콩', '트레일 혼합', '곡물', '견과류', '지 땅콩']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	[INST]\
+<image>\
+이 커피는 일반 커피인가요, 아니면 카페인이 없는 커피인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['정규', '대답할 수 없는', '정규', '정규', '정규', '정규', '대답할 수 없는', '대답할 수 없는', '정규', '정규']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['마카로니 치즈', '마카로니 치즈', '마카로니 치즈', '마카로니 치즈', '마카로니 치즈', '맥 치즈', '마카로니 치즈', '마카로니 치즈', '마카로니 치즈', '마카로니 치즈']	맥 앤 치즈 볶음
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	[INST]\
+<image>\
+이 병에 뭐가 들어있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['부드러운 로션', '로션', '로션', '로션', '부드러운 크림', '로션', '수분제', '몸용 크림', '심하게 습한 몸 씻기', '몸 씻기']	소프틴 라이더 소프트 에어 매스 워씬
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	[INST]\
+<image>\
+무슨 일이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['책상 의자', '의자', '의자', '사무실 의자', '사무실 의자', '이 사무실 의자', '의자', '책상 의자', '의자', '회색 사무실 의자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	[INST]\
+<image>\
+방금 찍은 물건은 뭐였죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['컴퓨터 모니터', '컴퓨터', '컴퓨터 화면', '대답할 수 없는', '대답할 수 없는', '노트북', '컴퓨터 화면', '노트북', '컴퓨터 모니터', '노트북 컴퓨터']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	[INST]\
+<image>\
+이게 뭐지?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['돼지고기 ', '고기', '붉은 고기', '포장 고기', '돼지고기', '돼지고기 닭고기', '대답할 수 없는', '고기', 'fg', '돼지고기']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	[INST]\
+<image>\
+이 사진 속의 하늘은 어떻게 생겼나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['구름이 많은 날', '부분적으로 흐린 날씨', '흐려져', '흐려져', '흐려져', '흐려져', '흐려져', '흐려져', '흐려져', '비']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	[INST]\
+<image>\
+무슨 식사야? 시간이 다 되어가는걸 기다리고 있는 거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '스파게티', '스파게티', '대답할 수 없는', '대답할 수 없는', '스파게티', '스파게티', '거울', '저녁식사', '피자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['꽃', '꽃', '꽃', '꽃', '꽃', '꽃', '식물', '꽃', '꽃', '눈동자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	[INST]\
+<image>\
+이 물건은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['은 차', '차', '대답할 수 없는', '차', '차', '차', '차', '차', '차', '차']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	[INST]\
+<image>\
+이 츠는 어떤 색깔과 패턴이 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['', '은 파란색 노란색', '파란색 오렌지 녹색', '파란색, 갈색, 흰색, ', '위쪽은 파란색, 아래쪽은 노란색', '다채로운', '파란 갈색 흰색', '', '파란 ', '파란색, 흰색, 녹색, 노란색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	[INST]\
+<image>\
+가방 색깔은?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['녹색', '녹색', '라이트 그린', '케이스 녹색', '녹색', '녹색', '녹색', '녹색', '밝은 녹색', '녹색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	[INST]\
+<image>\
+이건 일반 콜라나 다이어트 콜라야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다이어트 코카', '식이요법', '식이요법', '식이요법', '식이요법', '식이요법', '다이어트 코카', '식이요법', '다이어트 코카', '식이요법']	일반 콜라
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['펜', '키보드 펜', '펜', '펜', '펜', '펜', '펜', '펜', '펜', '비크 펜']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['램프 캔 프링글', '램프', '램프', '램프', 'CD 램프 옆에 있는 프링글 캔', '그림자 없는 램프', '램프', '테이블 프링글 램프 구강 세척', '램프', '램프']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	[INST]\
+<image>\
+이 컴퓨터는 뭘 하는 거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['검사 시스템', '대답할 수 없는', '디스크 검사', '검사 디스크', '대답할 수 없는', '대답할 수 없는', '부하', '구성', '일관성 검사', '재부팅']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	[INST]\
+<image>\
+이건 어떤 종류의 소다야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다이어트 코카', '', '다이어트 코카', '다이어트 코카', '다이어트 코카', '다이어트 코카', '다이어트 코카', '다이어트 콜라 레몬', '다이어트 코카', '다이어트 코카']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	[INST]\
+<image>\
+이 책의 주제를 말해줘\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['클라이브 커슬러 디르크 커슬러', '대답할 수 없는', '클라이브 커슬러 디르크 커슬러', '클라이브 커슬러 디르크 커슬러', '과학', '긴장', '올리브 큐슬러 디르크 큐슬러', '행동', '대답할 수 없는', '클라이브 커슬러']	알리브 클러서
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	[INST]\
+<image>\
+이건 무슨 와인이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '결혼식을 축하하는 데이비드 에마 레드 와인', '내쉬', '내쉬', '내쉬', '내쉬', '내쉬', '대답할 수 없는', '대답할 수 없는', '나쉬 와인']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['요거트', '대답할 수 없는', '요거트', '요거트', '요거트', '요거트', '요거트', '요거트', '요거트', '요거트']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	[INST]\
+<image>\
+이 책의 제목은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['개년', '개년', '개년', '개년', '대답할 수 없는', '개년', '대답할 수 없는', '개년', '개년', '개년']	많은 연
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['소니 노트북', '노트북', '노트북', '컴퓨터', '노트북', '소니 바이오 노트북', '노트북', '소니 바이오', '소니 노트북', '노트북']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	[INST]\
+<image>\
+이 컴퓨터의 브랜드가 궁금합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['소니', '소니', '소니', '소니', '소니', '소니', '소니', '소니', '소니', '소니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	[INST]\
+<image>\
+토마토나 엔칠라다 소스?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['전투', '뒷표에는 안 써있어요', '대답할 수 없는', '토마토', '토마토', '토마토', '대답할 수 없는', '토마토', '불투명한 이미지', '토마토']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['', '푸딩 스', '바닐라 푸딩', '', '바닐라 푸딩', '', '6 팩 스냅팩 바닐라 푸딩', '푸딩컵', '', '스냅팩 푸딩']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['캐나다 20달러 지폐', '20달러 캐나다 지폐', '20 캐나다', '돈', '돈으로 띠를', '20화', '돈', '20달러 캐나다 지폐', '20달러', '돈']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['라자네', '라자네', '특별 라자네', '라자네', '특유의 라자냐', '특별 라자네', '라스그네', '라자네', '라자니아', '라자네']	녹구이
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	[INST]\
+<image>\
+이건 어떤 커피야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['에스프레소', '에스프레소', '티모시 에스프레소', '열대 우림 에스프레소', '열대우림 에스프레소', '에스프레소', '추가로 대담한', '에스프레소 포트 열대', '에스프레소 포트 열대', '디모데']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	[INST]\
+<image>\
+이게 무슨 사진이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['키보드 와인 글래스', '노트북', '노트북 키보드 와인 맥주', '대답할 수 없는', '컴퓨터', '컴퓨터', '노트북 음료', '유리 액체의 옆에 책상 위에 있는 노트북 컴퓨터', '노트북 유리', '유리 노트북']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['제목 책', '책', '책자', '참고', '악마 럼 쉬운 돈 책', '악마 럼 쉬운 돈: 영국 콜롬비아에서 정부 통제 술', '책', '책', '제목 페이지 책', '책자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	[INST]\
+<image>\
+테이블에 뭐가 있었지?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['노트북', '노트북 펜 기타 종', '나선형 고리 노트북', '종이 펜', '노트북', '노트북 펜', '노트북', '노트북 펜', '종이 펜', '노트북']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	[INST]\
+<image>\
+이 셔츠는 어떤 색인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['파란색 흰색 ', '파란색 흰색', '파란색 흰색 ', '파란색 흰색', '파란색', '파란색 흰색', '은 파란색 흰색', '파란 ', '파란색', '파란색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['안드레 샤르도네', '샴페인', '안드레', '샴페인', '와인', '샴페인', '샴페인', '샴페인', '샴페인 병', '샴페인']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	[INST]\
+<image>\
+사진 속 캔의 상품 이름이 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['리소', '리소', '리소', '리소', '리소', '리소', '리소', '리소', '리소', '리소']	새스케닝
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	[INST]\
+<image>\
+이건 어떤 커피야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아리', '마시모 베발리아 카페', '마시모', '바리아 에스프레소', '마시모', '검은 커피', '마시모', '대답할 수 없는', '아리', '아리']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['페퍼', '가루 소다', '페퍼', '페퍼', '페퍼', '페퍼', '피퍼 소다', '페퍼', '가루 소다', '페퍼']	콜 캔
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	[INST]\
+<image>\
+이게 뭐냐고 말해 주시겠어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['인스턴트 커피', '인스턴트 커피', '고전 커피', '커피 팩', '대답할 수 없는', '커피', '커피', '커피가루', '커피', '네스카페 클래식']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	[INST]\
+<image>\
+왼쪽에서 오른쪽으로 세 개의 선은 어떤 색깔일까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['빨간색, 검은색, 흰색', '빨간색, 검은색, 흰색', '붉은색, 검은색', '빨간색, 검은색, 흰색', '빨간색, 검은색, 흰색', '빨간색, 검은색, 흰색', '빨간색, 검은색, 흰색', '빨간색, 검은색, 흰색', '빨간색 파란색 흰색', '빨간색, 검은색, 흰색']	붓 색깔
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	[INST]\
+<image>\
+이 임신 검사는 무엇을 보여?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['1줄', '음', '음', '1선이지만 염색이 퍼져 다른 시도', '대답할 수 없는', '1 줄무늬', '사진이 없네요', '빨간 선', '대답할 수 없는', '파란색 표시 빨간 표시']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	[INST]\
+<image>\
+이 향신료의 이름은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['신생 레몬 페퍼 혼합물', '', '대시 부인', '미스 대시 레몬 페퍼', '대시 부인', '대시 부인', '고추', '대시 부인', '대시 부인', '대시 부인']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	[INST]\
+<image>\
+안녕하세요, 오른쪽 손에 있는 병에 어떤 종류의 음료가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['펩시', '펩시 소다', '다이어트 펩시', '다이어트 펩시', '다이어트 펩시', '펩시', '다이어트 펩시', '펩시 다이어트', '다이어트 펩시', '다이어트 펩시']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['비디오 게임', '비디오 게임', '농구 경기', '비디오 게임', '대답할 수 없는', 'DVD', '대답할 수 없는', '게임', '비디오 게임', 'DVD']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['케치프', '케치프', '하이엔즈 토마토 케프', '케프 패키지', '케프 포장', '케치프', '케치프', '케프 패키지', '케치프', '케치프']	먹지 않은 샐릿 볶음 소스
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	[INST]\
+<image>\
+이 셔츠는 어떤 색깔인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['빨간색 흰색', '갈색', '빨간색 흰색', '빨간색 흰색 줄무늬', '빨간색 흰색 줄무늬', '빨간색 흰색', '빨간색 흰색', '빨간색 흰색', '빨간색 흰색', '빨간색 흰색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	[INST]\
+<image>\
+이 패키지 안에는 뭐가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['국회의사진', '음악 앨범', '담배', '담배', '담배', '담배', '패러멘트 어있는 필터', '국회의사 담배', '카드', '담배']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	[INST]\
+<image>\
+이 매트는 어떤 색깔이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['보라색', '보라색', '보라색', '보라색', '보라색', '보라색', '보라색', '보라색', '보라색', '보라색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	[INST]\
+<image>\
+그 사진에서 대화가 더 잘 보이나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['지루해', '네', '아니', '네', '아니', '아니', '아니', '아니', '아니', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	[INST]\
+<image>\
+이 제품은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['콩', '콩', '콩', '할 수 있습니다', '콩', '콩나물', '대답할 수 없는', '콩', 'fg', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	[INST]\
+<image>\
+이 캔은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['돼지고기 콩', '돼지고기 콩', '돼지고기', '돼지고기 콩', '돼지고기 콩', '돼지고기 콩', '돼지고기 콩', '돼지고기 콩', '돼지고기 콩', '돼지고기 콩']	Van camp
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	[INST]\
+<image>\
+이 와인은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '어ewfdsaedf', '2008년 빗살이 나쉬', '내쉬', '내쉬', '결혼 기념품', '내쉬 결혼 기념 데이비드 에마 2011년 7월 16일', '내쉬', '내쉬', '결혼식']	축제 와인
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	[INST]\
+<image>\
+이게 무슨 음식이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['토마토 소스', '토마토 소스', '유기농 토마토 소스', '토마토 소스', '토마토 소스', '토마토 소스', 'Muir Glen 유기 토마토 소스', '토마토 소스', 'Muir Glen 유기 토마토 소스', '토모토']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	[INST]\
+<image>\
+무슨 맛이냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['딸기', '딸기', '딸기', '딸기', '딸기', '딸기', '딸기', '딸기', '딸기', '딸기']	딸링 맛
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	[INST]\
+<image>\
+이게 무슨 색인지 말해 주시겠어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['검은색', '검은색', '검은색', '검은색', '검은색', '검은색', '검은색', '검은색', '검은색', '검은색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	[INST]\
+<image>\
+그게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['식물', '장식용 식물', '알로에', '실내식물', '실내식물', '집식물', '식물', '집식물', '식물', '풀 식물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['잡지', '만화책', '만화책', '성인용 보드게임', '잡지', '색칠 책', '이상한 크리스마스 책', '그 언어를 읽을 수 있는지 모르겠어요', '크리스마스 축하 카드', '만화']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['치킨 디존 저녁', '음식', '치킨 디존', '치킨 디존', '치킨 디존', '음식', '치킨 디존', '닭고기', '치킨 디존', '치킨 디존']	칼린 ��쏐 밥 덮 밥
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	[INST]\
+<image>\
+이건 어떤 커피야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아', '아리', '프랑스 바닐라', '프랑스 바닐라', '아', '아', '프랑스 바닐라', '프랑스 바닐라', '프랑스어', '아 프랑스 바닐라']	Gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	[INST]\
+<image>\
+이 물건은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아이폰', '전화', '전화', '아이폰', '휴대전화', '휴대전화', '휴대전화', '전화할게요', '스마트폰', '스마트폰']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '담배', '담배 팩', '담배', '담배 팩', '담배', '담배', '대답할 수 없는', '담배', '담배']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	[INST]\
+<image>\
+무슨 맛이냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['쇠고기', '소고기 맛', '쇠고기', '소고기 맛의 부울루', '쇠고기', '쇠고기 맛', '소고기 맛의 부울루', '쇠고기', '이 쇠고기 맛', '쇠고기']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['큰 컵', '컵', '컵', '컵', '토고컵을 사랑해요', '컵', '팝컵 다른 물건', '스티로폼 컵', '컵', '이 컵']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	[INST]\
+<image>\
+다이어트 펩시나 일반 펩시?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다이어트 펩시', '식이요법', '대답할 수 없는', '식이요법', '다이어트 펩시', '식이요법', '식이요법', '식이요법', '다이어트 펩시', '식이요법']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	[INST]\
+<image>\
+화면에는 무슨 표시가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아바스트 소프트웨어', '로컬 드라이브 스캔', '창문', '오류 메시지', '스캔', 'avast 소프트웨어 스캔 윈도우 XP', '창문', '대답할 수 없는', '윈도우 XP', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	[INST]\
+<image>\
+제가 어떤 화면에 있는지 알려주세요? 저는 부팅 메뉴에 접속하고 USB 드라이브에서 부팅을 시도하고 있습니다. 어떤 화면이 열리고 어떤 옵션이 있는지 알려주세요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아래 화살표를 한 번 누르면 usb를 입력합니다', 'hdd에서 부팅을 하는 데 부팅 메뉴 옵션', '대답할 수 없는', '부트모드', '부팅 장치를 선택하십시오.', '부팅 장치를 선택하세요:', '부팅 장치 hdd를 선택하십시오: pm st9250315as', '부팅 장치를 선택하십시오.', '화면 헤더: 부팅 장치를 선택 하 여 usb:usb 디스크 프로로 아래로 1 점 화살표를 이동', '부팅 장치를 선택하십시오.']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	[INST]\
+<image>\
+어떤 맛인지 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다이어트', '다이어트', '피퍼 다이어트', '페퍼', '다이어트', '다이어트', '다이어트', '콜라', '다이어트', '다이어트']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	[INST]\
+<image>\
+이게 무슨 수프야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['채소 수프', '진행', '진전적', '대답할 수 없는', '그로스도 채소', '대답할 수 없는', '채소', '그로스도 채소', '채소', '진행']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	[INST]\
+<image>\
+이 차는 어떤 차인지 말해줘요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '링컨 크라운 빅토리아', '4도어 세단 같은', '링컨', '포드 크라운 빅토리아', '링컨', '쉐보레', '크라운 빅토리아', '대답할 수 없는', '포드']	경차
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	[INST]\
+<image>\
+커피야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아리', '아리', '아리', '아리아 스위스 해파리', '아리', '아리', '아리', '아리', '아리', '아리']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['손청소제', '손청소제', '손청소제', '손청소제', '손청소제', '손청소제', '손청소제', '제르맥스', '세균 x 손 세제', '세균 x 손 세제']	Germx
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	[INST]\
+<image>\
+저건 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['소프', '과일', '대답할 수 없는', '대답할 수 없는', '소프', '대답할 수 없는', '소프', '대답할 수 없는', '드로이', '소프']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	[INST]\
+<image>\
+무슨 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['갈색', '갈색', '갈색', '오크 브라운', '갈색', '갈색 메이퍼', '목재', '갈색', '갈색', '갈색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '손', '손', '대답할 수 없는', '손', '손', '1 오른손', '손', '손', '손']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	[INST]\
+<image>\
+크로크 냄비 설정은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['컵', '높다', '높다', '높다', '높다', '높다', '낮은', '높다', '높다', '높다']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	[INST]\
+<image>\
+이게 뭐냐고 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['시각장애인을 위한 제품', 'cd', '역 cd', '실종 디스크용 제품', 'cd', '디스크', 'CD에 있는 책', 'cd', '시각장애인을 위한 cd 제품', '제임스 허버트의 창']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	[INST]\
+<image>\
+그게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['컴퓨터 모니터 키보드', '모니터', '컴퓨터 모니터', '컴퓨터 화면', '컴퓨터', '컴퓨터 모니터', '컴퓨터 화면', '데스크톱', '그래프', '그래프']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	[INST]\
+<image>\
+이 병에 무슨 말이 있는지 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['따뜻한 바닐라 설탕', '설탕', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕 몸용 로션', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕 몸용 로션', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕 몸용 로션', '따뜻한 바닐라 설탕']	Warm vanilla sugar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	[INST]\
+<image>\
+화면에 뭐가 보여?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['윈도우 설치 화면', '대답할 수 없는', '창문을 설치하는 것', '윈도우 상태 화면을 설치', 'windows를 설치', '창문을 설치하는 것', '창문 설치 지침', '창문 설치 진행', '윈도우 정보를 설치합니다', '창문']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['할 수 있습니다', '할 수 있습니다', '대답할 수 없는', '캔 콩', '할 수 있습니다', '콩', '대답할 수 없는', '콩', '', '']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	[INST]\
+<image>\
+무슨 술이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지', '오렌지 주스']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	[INST]\
+<image>\
+이 캔에 어떤 술이 들어있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['차', '네스테아', '레몬', '얼음 차', '네스테아', '네스테아', '네스테아', '얼음 차', '넥슬 아이스 티', '둥지']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	[INST]\
+<image>\
+피자, 피자와 소시지, 최고, 어떤 종류의 피자?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['로니', '로니', '로니', '로니', '로니', '로니', '네', '로니', '마마 코치스 페퍼로니 얇은 껍질', '로니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	[INST]\
+<image>\
+중간쪽의 식물이 어떤 식물인지 아세요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '풀', '풀', '풀', '풀', '풀', '아니', '아니', '풀', '잡초']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['안경', '안경', '안경', '안경', '쌍 안경', '안경', '쌍 안경', '안경', '눈 안경', '쌍 안경']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	[INST]\
+<image>\
+이 곳을 설명해줘요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사무실', '사무실 공간', '사무실', '사무실 2도서 2도자리', '사무실', '사무실', '책상 검은 사무실 의자', '사무실 책상', '사무실 2 책상', '사무실']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['노트북', '계획자', '책', '책', '카드', '노트북', '계획자', '노트북', '릴리 리처 의제 스파이럴', '노트북']	일리 퓨손 노트북
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['테디 베어 로즈', '테디 베어', '테디 베어', '테디 베어', '테디 베어', '테디 베어', '곰', '테디 베어', '테디 베어', '테디 베어']	곰 굴
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	[INST]\
+<image>\
+무슨 향신료야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['양파 해산물', '양파 해산물', '양파 해산물', '양파 해산물', '해산물', '양파 소금', '양파 해산물', '양파 해산물', '양파 해산물', '양파 해산물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	[INST]\
+<image>\
+이 캔 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다이어트', '다이어트', '다이어트', '다이어트', '페퍼', '다이어트', '다이어트', '다이어트', '피퍼 다이어트', '다이어트']	볼 수 없음
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	[INST]\
+<image>\
+이 컵에 무슨 그림이 그려져 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['만화', '만화 캐릭터', '만화', '새를 보는 사람', '닭고기', '남자', '만화맨', '스케치 새 사람 나무 달', '사람 동물', '만화']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사람', '소년', '사람의 머리', '사람', '누군가의 머리 뒤쪽 어깨', '뒷사람', '대답할 수 없는', '회색 셔츠', '소년', '사진 뒤쪽 사람']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['스피커', '스피커', '벽에 있는 스피커', '스피커', '스피커', '스피커', '벽 스피커', '스피커', '고양이 마운트', '스피커']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	[INST]\
+<image>\
+여기 무슨 글이 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['택시 전화번호', '아무것도 안 돼', '아무것도 안 돼', '전화', '시내 택시', '영수증', '대답할 수 없는', '영수증처럼 보이네요', '선', '시티택시']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['뉴올리언스 스타일 발야라 믹스', '발야야 혼합물', '발야야 혼합물', '쌀', '바야야', '발야야 혼합물', '발야야 혼합물', '발야 쌀', '뉴올리언스 스타일의 발야 라이스에 준비된 혼합물', '발야야 혼합물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	[INST]\
+<image>\
+내 맥은 어떤 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['은', '흰색', '색', '흰색', '은', '은', '은', '은', '흰색', '은']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	[INST]\
+<image>\
+캔 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['유기농 굽은 콩', '굽은 콩', '유기농 굽은 콩', '굽은 콩', '굽은 콩', '굽은 콩', '굽은 콩', '굽은 콩', '굽은 콩', '굽은 콩']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['마카로니 치즈', '대답할 수 없는', '마카로니 치즈', '치즈 마카로니 3개', '마카로니 치즈', '맥 치즈', '마카로니 치즈', '저녁식사', '맥너 치즈', '껍질 치즈']	떡볶이
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['자타라인 뉴올리언스 스타일 발야라야 믹스', '발야야 혼합물', '발야야 혼합물', '발야야 혼합물', '발야야 혼합물', '쌀', '자타라인 발야야 혼합물', '바야야', '자타라인 발야야 혼합물', '발야야 혼합물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	[INST]\
+<image>\
+이 물건은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['고품질의 거리 사탕', '캔디 박스', '사탕', '사탕', '고운 사탕', '사탕', '사탕', '사탕', '품질 거리', '사탕']	스위트
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	[INST]\
+<image>\
+죄송합니다. 이 사진에서 정확히 무엇을 볼 수 있는지 말해주세요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['냉장고', '냉장고', '냉장고', '작은 냉장고 판 트레이 라이트 타일 벽 핸들 스티커 냉장고에', '냉장고', '미니 냉장고', '미니 냉장고', '캐비닛 문', '흰색 냉장고', '냉장고']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	[INST]\
+<image>\
+상자 안에 뭐가 있는걸 말해줄 수 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사랑스러운 손자 손녀', '사랑스러운 손자들에 대한 이야기', '사랑스럽네요', '손자보다 더 즐거운 것은 없습니다.', '손자 손녀가 네 품을 놓고 싸우는 것 보다 더 즐거운 일은 거의 없다', '사랑스러운 손자 손녀', '사랑스러운 손자 손녀', '손자 손녀가 네 품을 놓고 싸우는 것 보다 더 즐거운 일은 거의 없다', '대답할 수 없는', '사랑스러운 손자 손녀']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	[INST]\
+<image>\
+하늘은 어떻게 생겼나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['맑습니다', '일몰 일출', '파란색', '밤', '파란색', '맑습니다', '맑습니다', '조용한', '밝은 파란색', '파란색 밝은 파란색 지평선 근처']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	[INST]\
+<image>\
+이 셔츠는 어떤 색깔인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['갈색', '갈색', '갈색', '색', '색', '분홍색', '갈색', '갈색', '금', '회색']	짙은 샘 색상
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	[INST]\
+<image>\
+남자야, 여자야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '소년', '소년', '여자', '소년', '소년', '소년', '소년', '소년', '소년']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	[INST]\
+<image>\
+이 물건이 어떤 물건인지 말해 주시겠습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['곡물', '리오', '곡물', '리오', '대답할 수 없는', '곡물', '꿀 리오', '이제 더 맛있는 꿀', '꿀', '꿀']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	[INST]\
+<image>\
+무슨 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['은 빨간 노란색 흰색 파란색', '', '녹색 파란색 흰색 빨간색 ', '다채색', '은', '', '파란색 녹색 흰색 빨간색', '', '파란색, 흰색, 녹색, ', '파란색 녹색 빨간색 흰색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['뜨거운 카카오', '뜨거운 카카오 혼합물', '뜨거운 카카오 혼합물', '뜨거운 카카오 혼합물', '카카오 혼합물', '뜨거운 카카오', '핫 초콜릿', '핫 초콜릿 혼합물', '핫 초콜릿 패키지', '핫 초콜릿']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '햄스 특별 가벼운 맥주', '맥주', '대답할 수 없는', '대답할 수 없는', '맥주', '맥주', '맥주', '맥주', '특수 조명']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	[INST]\
+<image>\
+닭고기나 셀러리?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['토마토', '토마토', '토마토', '토마토', '아니', '토마토', '토마토 수프', '토마토', '토마토', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['맥북 프로', '맥북 프로', '맥북 프로', '맥북 프로', '맥북 프로', '맥북 프로', '맥북 프로', '에어북 프로', '맥북프로', '맥북 프로']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	[INST]\
+<image>\
+이 캔 안에 뭐가 있는지 알고 싶어요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['굽은 콩', '굽은 콩', '콩', '토마토 소스에 구운 콩', '농부 여자 굽은 콩', '굽은 콩', '굽은 콩', '콩', '굽은 콩', '콩']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['닭고기', '대답할 수 없는', '크림성 파르메잔 치킨', '음식', 'TV 저녁', '음식', '맥 치즈', '음식', '메리 콜렌더스 식사', '크림성 파르메잔 치킨']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['달러화', '1달러 지폐', '달러', '1달러 지폐', '1', '1달러 지폐', '달러화', '1달러 지폐', '1달러 지폐', '1달러 지폐']	10 달러
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['카드', '2왕', '쌍왕', '카드', '카드', '카드', '카드', '쌍', '카드', '카드']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	[INST]\
+<image>\
+검은색이나 파란색?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '검은색', '검은색', '검은색', '검은색', '검은색', '검은색', '회색', '검은 회색', '검은색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	[INST]\
+<image>\
+화면에 뭐가 써있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['구글 검색 텍스트 상자', '구글', '구글', '구글 검색을 해봐', '구글', '구글 검색', '대답할 수 없는', '구글', '구글', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['로스트 비프', '로스트 비프', '로스트 비프', '로스트 비프', '음식', '로스트 비프', '로스트 비프', '로스트 비프', '전통 로스트 쇠고기', '전통 로스트 쇠고기']	다른 상자의 제품
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	[INST]\
+<image>\
+이건 어떤 종류의 소다야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['페퍼', '페퍼', '페퍼', '페퍼', '페퍼', '페퍼', '페퍼', '페퍼', '페퍼', '페퍼']	Dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['TV 리모컨', '원격 제어', '원격 제어', '원격', '원격 제어', '원격', '원격 제어', '원격 제어', '원격', '원격 제어']	Remote control
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['집식물', '식물', '집식물', '식물', '식물', '식물', '식물', '토기식물', '식물', '실내식물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	[INST]\
+<image>\
+이 물건은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['책상', '컴퓨터', '책상', '책상', '책상', '책상', '컴퓨터 책상', '책상', '책상', '데스크톱 컴퓨터']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	[INST]\
+<image>\
+내 책상 위에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아이팟 터치', '앱', '전화', '스마트폰용 종이', '스마트폰용 종이', '전화', '전화', '전화', '휴대전화', '전화']	책
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	[INST]\
+<image>\
+내가 찍은 사진이 뭐였어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아이패드', '아이패드 커피 가방 옆에 있는 사진', '알약', '아이패드', 'hulu 로그인 화면', '플러스', 'Hulu plus를 보여주는 태블릿', '태블릿 Hulu 플러스 로그인', 'huluplus 화면', '태블릿에서 Hulu 플러스 로그인 화면']	엄
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	[INST]\
+<image>\
+이 병은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['샴푸', '샴푸', '대답할 수 없는', '3세미', '사랑해', '대답할 수 없는', 'tresemme 헤어 케어', '샴푸', '향수', 'tresemme 샴푸']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	[INST]\
+<image>\
+이게 어떤 모델인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['소다', '스프라이트', '소다 병', '스프라이트', '대답할 수 없는', '스프라이트 소다', '스프라이트', '스프라이트 병', '대답할 수 없는', '스프라이트']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	[INST]\
+<image>\
+이 제품은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['체크스 혼합물', '체크스 혼합물', '체크스 혼합물', '체크스 믹스 체더', '체크스 혼합물', '체크스 혼합물', '셰프 믹스', '체크스 혼합물', '체크스 혼합물', '']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['피운 칠면조', '연한 칠면조 파니니', '연한 칠면조 파니니', '칠면조', '연한 칠면조 파니니', '연한 칠면조 파니니', '스투퍼 포름', '파니니', '피운 칠면조', '연한 칠면조 파니니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	[INST]\
+<image>\
+어떤 글자를 입력하면 상을 받을 수 있을까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	상담
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	[INST]\
+<image>\
+이게 무슨 캔이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['토마토', '소스', '토마토', '토마토', '진', '토마토', '토마토', '도마토 캔', '토마토', '토마토']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	[INST]\
+<image>\
+이게 무슨 케어리그컵이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['도넛 하우스', '커피', '상자', '도넛', '도넛 하우스 컬렉션', '도넛', '도넛', '도넛  컬렉션', '도넛 홀', '도넛 홀 컬렉션']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	[INST]\
+<image>\
+이 책의 이름을 말해줘요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['초승달', '대답할 수 없는', '저자 클라이브 커슬러 디르크 커슬러', '저자 이름만 표시', '클라이브 커슬러 디르크 커슬러', '클라이브 커슬러', '클라이브 커슬러 디르크 커슬러', '클라이브 커슬러 디르크 커슬러', '클라이브 커슬러 디르크 커슬러', '대답할 수 없는']	아이브 살러
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['돈', '돈', '20달러 지폐', '돈', '20달러', '20달러', '20달러', '20달러 지폐', '20달러', '20달러 지폐']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	[INST]\
+<image>\
+샴푸나 몸 씻기인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['로션', '몸용 로션', '로션', '몸용 로션', '스펙링 보디 로션', '몸용 로션', '몸용 로션', '로션', '몸용 로션', '몸용 로션']	몸 씻기
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	[INST]\
+<image>\
+이 사진에는 뭐가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['크래커', '크레커', '크래커 박스', '크래커 박스', '크래커', '크래커', '크래커', '크래커', '크래커', '크래커']	빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 빵 친구 ��
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	[INST]\
+<image>\
+이 사진은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['전화', '맥북 프로', '맥북 프로', '컴퓨터 모니터', '대답할 수 없는', '노트북', '컴퓨터', '맥북 프로', '맥북 프로 화면', '노트북 컴퓨터']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['물', '물', '천연 결정물', '자연물 크리스탈 물', '물병', '물병', '물병', '물', '물병', '물']	물 병
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	[INST]\
+<image>\
+이건 무슨 피자야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['로니', '엄마 ', '엄마 지 얇은 피자', '로니', '냉동 피자', '로니', '얇은', '마마 코지스에서 얇은 껍질 페퍼로니', '엄마 이 얇은 껍질 페퍼로니', '엄마 ']	Mamma cozzi's
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	[INST]\
+<image>\
+이 캔 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['전면 옥수수', '옥수수', '옥수수', '옥수수', '전체 곡물', '전체 곡물', '옥수수', '큰 가치 음식이 될 수 있습니다', '옥수수', '옥수수']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['쥐', '컴퓨터 마우스', '컴퓨터 마우스', '컴퓨터 마우스', '컴퓨터 마우스', 'hp 유선 마우스', '컴퓨터 마우스', 'PC 마우스', 'hp 마우스', '쥐']	마우스
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사무실', '의자', '사무실', '사무실 의자', '의자', '책상 의자', '홈 오피스', '사무실', '2개의 책상 의자', '의자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['TV', '텔레비전', '텔레비전', '오래된 TV 모니터', 'TV', 'TV', '모니터', '텔레비전 화면', 'TV', '모니터']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	[INST]\
+<image>\
+내 셔츠는 어떤 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['검은색 흰색', '파란색 흰색 검은색', '검은색', '파란색', '해군', '검은색 흰색', '검은색 흰색', '파란색', '파란색', '검은색 흰색']	검은 색
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	[INST]\
+<image>\
+무슨 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['빨간색', '빨간색', '빨간색', '빨간색', '분홍색', '빨간색', '빨간색', '빨간색', '빨간색', '빨간색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	[INST]\
+<image>\
+이건 일반 칩인가요, 아니면 소금과 주황 칩인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['소금', '정규', '정규', '일반 칩', '정규', '정규', '대답할 수 없는', '대답할 수 없는', '정규', '대답할 수 없는']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	[INST]\
+<image>\
+이건 어떤 종류의 상자야? 오렌지 주스나 우유?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오렌지 주스', '오렌지 주스', '오', '오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지 주스', '오렌지', '오렌지 주스', '종이 카트면 오렌지 주스']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	[INST]\
+<image>\
+이게 뭐냐고 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['칩', '칩', '칩', '감자칩', '감자칩', '아삭한 크림 양파 칩', '칩', '감자칩', '칩', '감자칩']	떡볶이
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	[INST]\
+<image>\
+이 가방에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '냉동 채소', '채소', '당근, 당근, 옥수수, 콩', '채소', '콩나물, 당근, 옥수수', '혼합 채소', '채소', '혼합 채소', '옥수수 당근 콩 콩콩']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	[INST]\
+<image>\
+이게 무슨 스파크 맛이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['분홍색 레모네드', '분홍색 레모네드', '대답할 수 없는', '분홍색 레모네드', '대답할 수 없는', '분홍색 레모네드', '오렌지', '딸기', '대답할 수 없는', '분홍색 레모네드']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	[INST]\
+<image>\
+이게 어떤 종류죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['마니치', '대답할 수 없는', '대답할 수 없는', '마니치', '마니치', '마니치', '토마토', '마니치', '마니치', '슬러피 조']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	[INST]\
+<image>\
+지금 어떤 계절이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['스파게티', '스파게티', '스파게티 향신료', '스파게티 향신료', '스파게티', '스파게티 향신료', '스파게티 향신료', '스파게티', '스파게티', '스파게티 향신료']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['책', '잡지', '수직 매거진', '잡지', '수직 매거진', '잡지', '잡지', '수두 잡지', '잡지', '잡지']	맨압 남자 옷 몇 가지 있는 것
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	[INST]\
+<image>\
+이 물건은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['벽', '벽', '벽', '벽', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '벽', '벽', '벽']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['사탕', '딸기 고운 사탕', '사탕', '딸기 고운 사탕', '캔디', '딸기 사탕', '그라', '딸기 사탕', '사탕', '딸기 고운 사탕']	딸링 틀
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	[INST]\
+<image>\
+이 신발은 어떤 색깔이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['갈색', '검은색', '갈색', '갈색', '갈색', '갈색', '갈색', '발', '갈색', '']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['컴퓨터 화면', '웹페이지', '대답할 수 없는', '대답할 수 없는', '웹사이트', '컴퓨터 화면', '컴퓨터 모니터', '기사', 'vizwiz의 pdf 파일', 'vizwizpdf가 흐려졌지만 기여자 섹션을 볼 수 있습니다']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	[INST]\
+<image>\
+이 사진은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['모니터', '노트북', '텔레비전', '컴퓨터', '노트북', '텔레비전', '평면 TV', '노트북 화면', '텔레비전', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['휴대전화', '휴대전화', '피저', '대답할 수 없는', '전화', '휴대전화', '블랙베리 휴대전화', '휴대전화', '휴대전화', '휴대전화']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['냉장고', '대답할 수 없는', '냉장고', '기숙사 냉장고', '냉장고', '냉장고', '냉장고', '미니 냉장고', '냉장고', '미니 냉장고']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	[INST]\
+<image>\
+이 옷과 함께 어떤 색깔의 보석을 입어야 할까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['은', '은', '흰색', '금', '검은색', '은', '은', '은', '은', '은']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다리', '청바지', '허리', '바지 다리', '팔 소파', '바지', '베개', '대답할 수 없는', '팬티 다리', '다리']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['개', '대답할 수 없는', '개', '개', '개', '개', '개', '개', '대답할 수 없는', '바닥에 있는 개']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['원격', '원격', '원격 제어', 'TV 컨트롤러', 'TV 리모컨', '원격 제어', '원격', '원격', '원격 제어', '원격 제어']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	[INST]\
+<image>\
+이 바나나는 녹색인가요? 아니면 노란색인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['약간 녹색', '노란색', '노란색', '노란색', '녹색', '노란색', '노란색', '노란색', '노란색', '노란색']	녹색
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	[INST]\
+<image>\
+이 제품은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['곡물', '카시 가 크 크랜치 꿀 아몬드 라인', '카시 가  크런치', '골레안 크런치 카시', '곡물', '가자, 가자, 가자, 가자, 가자, 가자, 가자', '가자, 가자', '카시 가 크 크랜치 꿀 아몬드 라인', '곡물', '곡물']	건강한 식품
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	[INST]\
+<image>\
+현재 TV 화면에는 무엇이 있습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아무것도 안 돼', '아무것도 안 돼', '아무것도 없네', '아무것도 안 돼', '아무것도 안 돼', '아무것도 안 돼', '아무것도 안 돼', '아무것도 안 돼', '대답할 수 없는', '아무것도 안 돼']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['고기', '쇠고기 스테이크', '쇠고기', '팩 스테이크', '고기', '고기', '대답할 수 없는', '쇠고기 스테이크', '스테이크', '고기']	삼살 칼 슬러 케이크 손 잡기
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	[INST]\
+<image>\
+이 메시지는 뭐라고 써있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '복원 완료', '대답할 수 없는', '복원 완료', '복원 완료', '대답할 수 없는', '복원 완료', '복원 완료', '복원 완료', '복원 완료']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	[INST]\
+<image>\
+이 캔에 어떤 음식이 들어있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['소프', '프로게소 (progreso) 정원 채소 수프', '정원 채소 수프', '채소 수프', '정원 채소 수프', '정원 채소 수프', '소프', '프로게소 (progreso) 정원 채소 수프', '정원 채소', '정원 채소 수프']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '할 수 있습니다', '은 당근 수프', '은 당근 수프', '은 당근 수프', '은 당근 수프', '소프', '콩 수프를 갈라놓을 수 있습니다.', '은 당근 수프', '소프']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	[INST]\
+<image>\
+소파나 테이블인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['테이블', '테이블', '테이블', '테이블', '테이블', '테이블', '테이블', '테이블', '테이블', '이 테이블']	테이블
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	[INST]\
+<image>\
+이 캔에 어떤 음식이 들어있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['라비올리', '라비올리', '라비올리', '옥수수', '라비올리', '라비올리', '라비올리', '라비올리', '라비올리 음식', '라비올리']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	[INST]\
+<image>\
+화면에 뭐가 보여?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오류 메시지', '시작 복구 컴퓨터 재시작을 위한 팝업', '재시작', '시작 복구 종료하려면 컴퓨터 다시 시작', '시작 복구', 'windows 업데이트 명령어', '대답할 수 없는', '시작 복구', '컴퓨터 재시작 옵션', '시작 복구']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	[INST]\
+<image>\
+이걸 한번 해보자, 이게 뭐냐고 말해줄래?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['콩', '굽은 콩', '콩', '굽은 콩', '덤불 굽은 콩', '할 수 있습니다', '캔 콩', '덤불 굽은 콩', '굽은 콩', '콩']	기획
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	[INST]\
+<image>\
+이게 어떤 전화인지 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', '안드로이드', 'lg', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['스마트폰', '휴대전화', '휴대전화', '전화', '휴대전화', '휴대전화', '휴대전화', '스마트폰', '전화', '전화']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['노트북', '손', '노트북 키보드', '손', '손가락', '손', '대답할 수 없는', '대답할 수 없는', '책상', '손']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['카베르네 2009', '와인', '와인', '와인', '카베르네 사비뉴', '포도주', '와인', '와인', '말 천국 콜롬비아 카베르네트 2007 와인', '와인']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	[INST]\
+<image>\
+그 병에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['코카인', '소다 팝, 코카콜라', '소다', '코카콜라 소다', '소다', '소다', '코카인', '소다', '코카인', '소다']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	[INST]\
+<image>\
+무슨 색이시죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['빨간색 흰색 줄무늬', '빨간색', '빨간색 흰색 줄무늬', '빨간색 흰색 줄무늬', '빨간색 흰색', '흰색 빨간색', '셔츠', '빨간색 흰색', '빨간색 흰색', '빨간색 흰색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	[INST]\
+<image>\
+이 가방에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['브로콜리', '브로콜리', '브로콜리', '브로콜리', '브로콜리', '하지만 브로콜리', '브로콜리', '컷 브로콜리', '스팀   브로콜리', '브로콜리']	브로콜리
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	[INST]\
+<image>\
+그 쿠폰은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['요거트', '요거트', '요프라이트 요거트', '요글라이트 10$', '플라이트', '요글라이트 10$', '요프라이트 요거트', '요거트', '할인', '요거트']	딱 맛 쿠폰
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	[INST]\
+<image>\
+이게 무슨 팝이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네스테아', '얼음 차', '레몬', '레몬', '네스테아', '네스테아', '네스테아', '네스테아', '피에스타', '네스테아']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아이패드', '알약', '컴퓨터', '아이패드', '마우스 패드', '노트북', '창문', '알약', '대답할 수 없는', '아이패드']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	[INST]\
+<image>\
+화면에 뭐가 보여?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['시스템 복원을 사용하여 컴포넌트를 복원하고 싶으세요', '오류 메시지', '시스템 복원을 사용하여 컴퓨터를 복원하고 싶으십니까?', '시작', '시작 환불 진단 화면', '시스템 복원 질문: 당신은 컴퓨터를 복원하는 데 사용 하 고 싶습니까', '시작 복구', '시작 복구', '컴퓨터 복원', '시스템 복원을 사용하여 컴퓨터를 복원하고 싶으십니까?']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	[INST]\
+<image>\
+무슨 소다야? 답변해주셔서 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['스프라이트', '스프라이트', '스프라이트', '스프라이트', '스프라이트', '스프라이트', '스프라이트', '스프라이트', '스프라이트', '스프라이트']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	[INST]\
+<image>\
+화면에 뭐가 써있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['시스템 CD를 사용하여 컴퓨터를 복원하고 싶으십니까?', '복원', '시스템을 사용하여 컴퓨터를 복원하고 싶습니까', '컴퓨터가 시작되지 않았습니다. 복구 시작', '시스템을 사용하여 컴퓨터를 복원하고 싶습니까', '시작 복구', '컴퓨터가 시작되지 않습니다', '컴퓨터가 시작되지 않았습니다 시작 복구 시스템 문제를 확인합니다', '컴퓨터가 시작되지 않습니다', '복원']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	[INST]\
+<image>\
+이 캔 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['채소', '그리', '혼합 채소', '야채 원본', '혼합 채소', '채소', '', '채소', '채소', '혼합 채소']	먹이
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	[INST]\
+<image>\
+사진에서 무엇을 볼 수 있습니까? 사진에서 무엇을 볼 수 있습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아무것도 안 돼', '하늘', '싱크대', '하늘', '대답할 수 없는', '하늘', '아무것도 안 돼', '대답할 수 없는', '대답할 수 없는', '하늘']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	[INST]\
+<image>\
+어떤 종류의 소다?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['코카콜라', '코카콜라', '코카콜라', '코카콜라', '코카콜라', '코카콜라 0', '코카콜라 0', '코크 0', '코카콜라 0', '코카콜라 0']	코카콜라
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	[INST]\
+<image>\
+이게 무슨 시스템이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['데스크톱', '대답할 수 없는', '창문', '데스크톱 컴퓨터', '창문', '창문', '창문', '윈도우 PC', '창문', '창문']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	[INST]\
+<image>\
+무슨 일이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['스피커', '스피커', '바닥', '스피커', ' 스피커 시스템', '스피커', '스피커', '스피커', '스피커', '스피커']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	[INST]\
+<image>\
+노트북에 있는 빛을 감시하는 거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '네', '네', '네', '네', '네', '네', '네', '아니', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	[INST]\
+<image>\
+이 병에 무슨 말이 있는지 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['따뜻한 바닐라 설탕 몸용 로션', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕 몸용 로션', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕 로션', '따뜻한 바닐라 설탕', '따뜻한 바닐라 설탕 몸용 로션', '따뜻한 설탕 바닐라']	웜밤 바닐라 슈가 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 몸 부드러운 ��
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	[INST]\
+<image>\
+이 카드의 1-800 번호를 말해 주시겠습니까? 이 질문을 들을 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['1 800 735 2929 난 못 들어요', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 아니', '18773289677 아니', '1 877 328 9677', '8007352929 아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	[INST]\
+<image>\
+방의 빛이 켜져있거나 꺼져있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['불 끄는', '꺼', '에', '꺼', '에', '대답할 수 없는', '에', '에', '에', '에']	꺼져있다
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	[INST]\
+<image>\
+무슨 맛이냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['', '분홍색 레모네드', '과일 펀치', '분홍색 레모네드', '분홍색 레모네드', '대답할 수 없는', '대답할 수 없는', '분홍색 레모네드', '', '분홍색 레모네드']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	[INST]\
+<image>\
+이 메시지는 뭐라고 써있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['복원 완료', '대답할 수 없는', '성공적으로 복원 완료', '복원 완료', '복원 완료', '복원 완료', '복원 완료', '등록 완료', '복원 완료', '복원 완료']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	[INST]\
+<image>\
+내 셔츠는 어떤 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['흰색', '흰색', '흰색', '흰색', '흰색', '흰색', '흰색', '흰색', '흰색', '흰색']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['고급 색상 치료 샴푸', '샴푸', '고급 색상 치료 샴푸', '샴푸', '색상 치료 샴푸', '샴푸', '색상 치료', '샴푸', '환호가 진행된 색상 치료', '색상 치료']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['캔', '고양이 먹이', '대답할 수 없는', '싱크대', '할 수 있습니다', '싱크대', '세탁', '싱크대', '싱크대', '할 수 있습니다']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	[INST]\
+<image>\
+무슨 비디오 게임이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['에스프란스 NFL 2K', '축구', 'NFL 2k', '에스프란시스 NFL 2K5', '2k5', '에스프란시스 2K 축구', 'NFL 2k', '축구', 'NFL 2k', '축구']	미드 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['파니니', '파니니', '연한 칠면조 파니니', '연한 칠면조 파니니', '연한 칠면조 파니니', '스투퍼 피운 칠면조 파니니', '칠면조', '대답할 수 없는', '연한 칠면조 파니니', '연한 칠면조 파니니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	[INST]\
+<image>\
+이 상자 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['라자네', '냉동 저녁', '특별 라자네', '특별 라자네', '라자네', '특별 라자네', '라자네', '라자네', '라자네', '라자네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	[INST]\
+<image>\
+이 물건은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['자연 계곡 오브스 암흑 초콜릿 그라놀라 바', '크랜치 바', '콩나위', '콩나위', '콩나위', '콩나위', '자연 계곡 오브스', '오트스 크 초콜릿 크 바', '암초콜릿 그라놀라 바', '콩나위']	맥널 밸리 크런치 델 카슬 칩층 초콜릿 빵 100g
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['비디오 게임', '플레이스테이션 2 게임', '플레이스테이션 2 스타워즈 전선 게임', '플레이 스테이션 스타 워즈 게임', '비디오 게임', '비디오 게임', '스타워즈 전선 2', '게임', '플레이스테이션 2 게임', 'psi 게임']	Game
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	[INST]\
+<image>\
+커피메이트가 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['프랑스 바닐라', '프랑스 바닐라', '프랑스 바닐라', '둥지', '바닐라', '프랑스 바닐라', '커피 마트', '프랑스 바닐라', '프랑스 바닐라', '프랑스 바닐라']	커피메이트가 아닙니다
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오렌지 주스', '주스', '주스', '오렌지 주스', '주스', '부드럽고 유쾌한', '부드럽고 유쾌한', '주스', '오렌지 주스', '주스']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	[INST]\
+<image>\
+이 귀걸이의 돌은 어떤 색깔인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['분홍색', '황색', '빨간색', '분홍색', '보라색', '분홍색', '분홍색', '분홍색', '분홍색', '분홍색']	빨간
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	[INST]\
+<image>\
+이 전자 장치의 표지판에 뭐라고 적혀있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	[INST]\
+<image>\
+이 화면이 정확히 뭐라고 하는지, 이걸 읽을 수 있다면?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '화면을 읽을 수 없습니다', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '읽을 수 없어요', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	[INST]\
+<image>\
+이 병에 뭐가 들어있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '로션', '비타민', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '확실하지 않아요', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	[INST]\
+<image>\
+이 에너지 바는 어떤 맛이에요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['딸기', '베리 아몬드 크랜치', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '사과 크랜치', '대답할 수 없는', '대답할 수 없는', '베리 아몬드 크랜치']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '주의', 'n', '대답할 수 없는', '대답할 수 없는', '뉴스', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	[INST]\
+<image>\
+무슨 음식이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	[INST]\
+<image>\
+이 라디오가 어떤 종류의 라디오인지 알아내려고 합니다. 그래서 제가 직접 라디오를 구하기 위해 필요한 정보를 알려주세요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['나도 몰라', '대답할 수 없는', '대답할 수 없는', '아마도 IP9 스피커 도크가 있을지도 모릅니다.', '대답할 수 없는', '햄', '대답할 수 없는', '휴대용', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	[INST]\
+<image>\
+미안해요 어떻게 해야 할지 모르겠어요 이런 사진은 한번도 찍은 적 없어요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['카메라가 집중할 수 있도록 조금 더 멀리 이동', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	[INST]\
+<image>\
+이 중 어떤 영화가 제일 좋습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '단순']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['이 슬라이드', '분홍색', '대답할 수 없는', '보라색', '대답할 수 없는', '대답할 수 없는', '빛나는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	[INST]\
+<image>\
+이 로션 이름이 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '노크세마', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	[INST]\
+<image>\
+언제야 만료되는 거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['9.27.13', '대답할 수 없는', '대답할 수 없는', '2013년 7월 23일', '2013년 9월 23일', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '2013년 9월 23일', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	[INST]\
+<image>\
+얼마나 오래 요리해야 할까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '5분', '대답할 수 없는', '대답할 수 없는', '5분', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네크스', '코너', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '전화', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	[INST]\
+<image>\
+이 노래는 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '사진 속 버그', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '벌레']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	[INST]\
+<image>\
+창문 밑에 자동으로 이 시스템을 수리할 수 없다고 써있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '시작 복구 이 컴퓨터를 자동으로 수리할 수 없습니다', '대답할 수 없는', '시작', '시작 수리 자동으로 이 컴퓨터를 수리할 수 없습니다', '대답할 수 없는']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	[INST]\
+<image>\
+이 패키지에는 얼마나 많은 나트륨이 들어있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '사모아', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	[INST]\
+<image>\
+화면에는 회복 중이라고 적혀있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	[INST]\
+<image>\
+무슨 커튼?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '계속 공부해', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	[INST]\
+<image>\
+이 중재의 이름은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '0', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	[INST]\
+<image>\
+색이 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['빨간색 흰색', '대답할 수 없는', '흰색', '흰색', '대답할 수 없는', '빨간색 흰색', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	[INST]\
+<image>\
+라우터에 표시된 게 뭐냐는 걸 설명해 주세요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	[INST]\
+<image>\
+이 버스 패스 유효기간은 얼마인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	[INST]\
+<image>\
+그냥 말해\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '신', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	[INST]\
+<image>\
+이게 뭐지?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '행 열 수확', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	[INST]\
+<image>\
+몇 시야야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '카메라 렌더링 시계에서 플래시 읽기 불가능', '보이지 않습니다', '대답할 수 없는', '대답할 수 없는', '말할 수 없어요', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	[INST]\
+<image>\
+이 샴푸 사용 지침을 알려 주시겠습니까? 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '에드프시피드', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	[INST]\
+<image>\
+다시 시작하려면 버튼을 누르면 되나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['시스템 재고', '대답할 수 없는', '네', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '아니', '잠깐만', '연결해']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	[INST]\
+<image>\
+이 사진에 보이는 카드라면, 뭐라고 써있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '표시되지 않습니다', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '말 안 돼', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	[INST]\
+<image>\
+시험?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '원격', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '주변 소리 리모컨', '이 질문은 그림에 적용되지 않습니다.']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	[INST]\
+<image>\
+진짜 말투야\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '알 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	[INST]\
+<image>\
+캡차를 다루고 있지만 화면을 볼 수 없고 웹 사이트에서 무언가를 요청할 때 필요합니다. 캡차가 무엇인지 말해 줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['1이 아닌', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	[INST]\
+<image>\
+십계명이라고 써있지만, 십계명이란 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['신에게 주어진 규칙들을 정해 놓았습니다.', '대답할 수 없는', '대답할 수 없는', '도덕성', '대답할 수 없는', '신들의 계명', '대답할 수 없는', '대답할 수 없는', '법', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	[INST]\
+<image>\
+컴퓨터 화면에는 뭐있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '너무 흐려', '빈 화면']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	[INST]\
+<image>\
+이건 무슨 아기 포뮬러야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '아기 포뮬러 안 보여', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	[INST]\
+<image>\
+이 약은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	[INST]\
+<image>\
+이게 무슨 카드야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '빨간 신용 카드', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '신용 카드', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	[INST]\
+<image>\
+이 카드에 뭐라고 써있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '1 6 12만 보이네요', '대답할 수 없는', '아무것도 안 돼', '대답할 수 없는', '1 6 12', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['비누', '제품', '대답할 수 없는', '우유', '대답할 수 없는', '대답할 수 없는', '눈물', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	[INST]\
+<image>\
+무슨 고기야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['잭 링크', 'ds', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '쇠고기', '대답할 수 없는', '쇠고기', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	[INST]\
+<image>\
+이건 왜 선물 카드야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '답할 수 없는 이미지', '대답할 수 없는', '말할 수 없어요', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	[INST]\
+<image>\
+이건 어떤 종류의 통조림 음식이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['', '대답할 수 없는', '', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '', '대답할 수 없는', '']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	[INST]\
+<image>\
+몇 시야야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '532', '대답할 수 없는', '대답할 수 없는', '5:13', '5:13', '대답할 수 없는', '5:10', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	[INST]\
+<image>\
+이 캔 안에 있는 제품은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['말할 수 없어요', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	[INST]\
+<image>\
+통상 오븐 온도가 얼마나 되는지 몇 분이나 해야 하는지 말해 주시겠습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', 'asdd', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	[INST]\
+<image>\
+이 오븐이 준비된 것 같나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '오븐이 아닌', '대답할 수 없는', '대답할 수 없는', '네, 준비됐어요', '아니', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	[INST]\
+<image>\
+도움이 됐나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '아니', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	[INST]\
+<image>\
+입력해야 할 코드는 무엇입니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '이메일', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	[INST]\
+<image>\
+내가 어떤 셔츠를 입고 있는거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '실크', '대답할 수 없는', '대답할 수 없는', '흰색', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	[INST]\
+<image>\
+어떤 종류의 냉동 저녁이냐고 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '사진 빈', '아무것도 안 돼', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	[INST]\
+<image>\
+이건 어떤 브랜드죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '산요', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	[INST]\
+<image>\
+오븐 온도 설정은 어떻게 되죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', 'gfdsg', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	[INST]\
+<image>\
+이 병에 뭐가 있는지 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['토마토 소스', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '파스타 소스', '대답할 수 없는', '대답할 수 없는', '토마토 소스', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아지트로마이신 250mg', '알약', '대답할 수 없는', '대답할 수 없는', '250mg', '아지트로마이신 태블릿', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	[INST]\
+<image>\
+이 단어를 읽어주실래요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '아무말도 안 돼']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	[INST]\
+<image>\
+이게 발리움이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '약의 이름을 읽을 수 없습니다.']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	[INST]\
+<image>\
+이 노래는 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '노트 음악', '대답할 수 없는', '앨범', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', ' ', '대답할 수 없는']	팔케
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	[INST]\
+<image>\
+네, 이건 HP 노트북 컴퓨터입니다. 카드 리더가 키보드와 비교해서 어디에 있는지 알아야 합니다. 가능한 한 구체적으로 말씀해 주세요. 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '옆으로', '대답할 수 없는', '카드 리더를 볼 수 없습니다. 카드 리더는 보통 왼쪽 모서리에 있습니다.', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	[INST]\
+<image>\
+향수 이름이 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '이름도 없네', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	[INST]\
+<image>\
+이게 무슨 램이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', ' o444', '대답할 수 없는', '대답할 수 없는', 'ddr sdram pc3200', '모르겠어', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '드드르']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	[INST]\
+<image>\
+이해합니다. 하지만 흰색 트럭의 뒷면은 이 보이시나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아니', '전면에서 찍은 사진, 이상한 건 보이지 않아요.', '아니', '대답할 수 없는', '대답할 수 없는', 'n0', '대답할 수 없는', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	[INST]\
+<image>\
+이게 무슨 수프야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '닭고기', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	[INST]\
+<image>\
+노트북 화면에는 어떤 것들이 보이나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '소프', '소프', '캔 수프', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '소프', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['카펫', '종이 수건', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '종이 수건', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	[INST]\
+<image>\
+무슨 맛이냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '정규', '원본', '대답할 수 없는', '돌아서', '치즈', '그림자']	맛이냐
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	[INST]\
+<image>\
+이 세 가지 이미지 중 어떤 것이 구글 로고일까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '0', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '첫 번째 이미지', '왼쪽으로']	구글 로고
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '확실하지 않음', '흐릿하다', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '표지판', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	[INST]\
+<image>\
+여기 돌이 없어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '이미지의 품질이 부족합니다.', '대답할 수 없는', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	[INST]\
+<image>\
+이 향수품의 브랜드를 알고 싶어요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	[INST]\
+<image>\
+이 치즈의 유효기간은 얼마인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아', '읽히지 않는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	[INST]\
+<image>\
+온도 조절기가 어떤 온도를 설정하고 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '75', '대답할 수 없는', '75', '대답할 수 없는', '75', '75', '대답할 수 없는', '보이지 않습니다']	15
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	[INST]\
+<image>\
+이 셔츠는 무슨 색깔이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '검은색', '대답할 수 없는', '검은색', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '검은색', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	[INST]\
+<image>\
+디스플레이에 뭐가 써있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오류 재부팅 메시지', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', 'sys', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	[INST]\
+<image>\
+이건 어떤 종류의 소다에요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '확실하지 않아요', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	[INST]\
+<image>\
+무슨 일이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '머리', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	[INST]\
+<image>\
+이 글에 무슨 말이 있는지 말해줘요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '상자', '대답할 수 없는', '작은 상자', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	[INST]\
+<image>\
+온도 조절기가 몇 온도인지?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '읽을 수 없어요', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	[INST]\
+<image>\
+이 병은 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '나도 몰라', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	[INST]\
+<image>\
+이쪽의 모든 문자를 가져오실 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아로베르기 차베스', '대답할 수 없는', '네', '네', '대답할 수 없는', '아로베르기 차베스', '대답할 수 없는', '아니', '대답할 수 없는', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	[INST]\
+<image>\
+이 버전의 제품 키\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	[INST]\
+<image>\
+어서, 기다려봐\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '신발', '대답할 수 없는', '신발', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	[INST]\
+<image>\
+지금 몇 시이고, 텍사스 댈러스의 온도는 얼마인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['3:40 54', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '오후 9시 17분 96도', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	[INST]\
+<image>\
+안녕하세요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '잘됐어', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '잘됐어', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '확실하지 않음', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '화면에 로그', '컴퓨터', '대답할 수 없는', '스크린 캐스트 매틱']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['천 덮기 병', '대답할 수 없는', '담요', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	[INST]\
+<image>\
+이건 어떤 브랜드죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '세이코', '대답할 수 없는', '흐릿하다', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '감시', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	[INST]\
+<image>\
+이 웹사이트는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '앱 구매에서 아이폰에 대한 사이트']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	[INST]\
+<image>\
+이게 무슨 빨래 수프야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '태양', '대답할 수 없는', '대답할 수 없는', '수아베텔', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	[INST]\
+<image>\
+이 병에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아무것도 안 돼', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '소프', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '음식', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	[INST]\
+<image>\
+이건 영수증인데?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	[INST]\
+<image>\
+내가 손잡고 있는 건 왜 옳지?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['명함', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '크리스마스 축하해', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	[INST]\
+<image>\
+뭘 찍을 수 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['시계', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '감시', '미키 마우스 주머니 시계', '이 주머니 시계 헤드폰']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	[INST]\
+<image>\
+화면에는 무슨 표시가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '윈도우 라이선스 조건', '부분적으로 화면 밖의 용어', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '접어', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '손', '상자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	[INST]\
+<image>\
+무슨 색이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['흰색 회색', '보라색', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '빨간색 흰색', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	[INST]\
+<image>\
+무슨 일이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '부엌', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '컴퓨터에서 책상에있는 사람 사진', '사진에서 거실이 보이네요', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	[INST]\
+<image>\
+이름이 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '유포리아', '유포리아', '유포니', '대답할 수 없는', '대답할 수 없는']	Euphor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	[INST]\
+<image>\
+무슨 일이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '빛', '대답할 수 없는', '대답할 수 없는', '빛', '빛의 흐름을', '대답할 수 없는', '명확하지 않습니다', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	[INST]\
+<image>\
+이 상자 위에 있는 문자를 읽어주세요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['wd', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	[INST]\
+<image>\
+정확히 8자리 신분번호를 찾고 있어요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아무것도 안 보여 미안해', '대답할 수 없는', '빈', '그런건 볼 수 없어요', '대답할 수 없는', '0', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	[INST]\
+<image>\
+강연자: 이 책의 제목을 말씀해 주시겠습니까? 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '음향 음악의 하모닉 물질', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	10th edition
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['디버맨', '아무것도 안 돼', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '손잡이 패키지']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	[INST]\
+<image>\
+화면에는 무슨 표시가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	[INST]\
+<image>\
+어느 순간\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['이해가 안 돼', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	[INST]\
+<image>\
+보안 질문이나 보안 번호와 글자가 무엇인지 알려주세요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	[INST]\
+<image>\
+이 달러 지폐는 어떤 지폐인가?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '사용 불가능한 이미지', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	[INST]\
+<image>\
+뭐로 설정됐어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '카운터', '카운터', '부엌 카운터', '카운터 톱']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	[INST]\
+<image>\
+뱀 물린 거냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아마도', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '어쩌면', '어쩌면', '아니', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	[INST]\
+<image>\
+이 컴퓨터 화면에는 어떤 내용이 있는지 자세히 설명해 주시겠습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '컴퓨터가 시작되지 않는 메시지', '대답할 수 없는', '컴퓨터가 시작되지 않았습니다.', '대답할 수 없는', '컴퓨터가 시작되지 않았습니다 시작 복구 시스템 문제를 확인', '시작', '대답할 수 없는', '알려지지 않은 대화 상자']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	[INST]\
+<image>\
+이 캡차의 문자는 어떤가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '결혼', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '블랙박스']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	[INST]\
+<image>\
+이걸 요리하는 거 알아요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아니', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '네', '대답할 수 없는', '대답할 수 없는', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '컴퓨터 화면', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	[INST]\
+<image>\
+이걸 얼마나 미크로웨이브에 넣어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '8분', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	[INST]\
+<image>\
+어떻게 요리하는 거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오븐', '대답할 수 없는', '구워', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	[INST]\
+<image>\
+서명을 어떻게 할 수 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '정치', '남자', '대답할 수 없는', '전혀 모르겠어요', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '청색 사람이 건물에 들어왔어']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	[INST]\
+<image>\
+이 샴푸 병에 있는 지침을 말해줘요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '습한 머리카락에 을 넣고 원할 경우 반복합니다.']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	[INST]\
+<image>\
+이 사진은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['천장', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	[INST]\
+<image>\
+이게 맞죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '전화', '대답할 수 없는', '한 남자가 휴대폰으로 얘기하고 있습니다.', '대답할 수 없는', '사람', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	[INST]\
+<image>\
+이 캔 안에 뭐가 있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '콩', '대답할 수 없는', '대답할 수 없는', '이 이미지는 흐려져 있습니다.', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	[INST]\
+<image>\
+내 셔츠의 색깔을 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	[INST]\
+<image>\
+무슨 일이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '철', '대답할 수 없는', '검은 고무 강아지 장난감', '식물', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	[INST]\
+<image>\
+언제야 만료되는 거야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['안되요', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '사진이 없네요', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '2007년']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	[INST]\
+<image>\
+이 카드는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '카드 없네', '대답할 수 없는', '대답할 수 없는', '검은색', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	[INST]\
+<image>\
+이 그림은 무슨 영화죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '빈', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '가죽 가죽', '개', '가방', '대답할 수 없는', '개용 배낭', '동물']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	[INST]\
+<image>\
+이것의 요리 지침은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	[INST]\
+<image>\
+무슨 추적이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '연필', '잎 모양', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '잎', '대답할 수 없는', '잡초']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	[INST]\
+<image>\
+안녕하세요, 제 오른손에 있는 캔 안에 뭐가 있는지 말해 주시겠어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '고기 같은데 표지판이 잘 안 보여', '통조림', '대답할 수 없는', '쇠고기 굽기', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	[INST]\
+<image>\
+누가 보낸 건지 말해줄 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '우편으로 받은 편지', '뒷 봉투에 글이 없네', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	[INST]\
+<image>\
+무슨 맛이냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '뉴맨스 특별 혼합물', '네만스 특별 혼합물', '커피', '뉴맨의 특별한 혼합물', '대답할 수 없는', '뉴맨스 자체', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	[INST]\
+<image>\
+혈압 측정은 얼마인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '105', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '109 넘는다', '대답할 수 없는', '대답할 수 없는', '이미지 절단 읽기 불가능']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	[INST]\
+<image>\
+맛이 뭐냐는 걸\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['레몬', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	[INST]\
+<image>\
+이 캔에 무슨 내용이 있는지 말해줘요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	[INST]\
+<image>\
+강조된 텍스트의 번호\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	[INST]\
+<image>\
+카드 뒷면에는 어떤 지팡이가 있는지, 어떤 재료로 만들어졌는지 등등이 적혀있어야 합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '나무 14', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	[INST]\
+<image>\
+제가 OK 버튼을 누르셨군요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['다음 버튼을 클릭하면 이제 enter를 눌러', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '플래시', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	[INST]\
+<image>\
+어떤 온도?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '57', '20', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '20', '20.7c', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	[INST]\
+<image>\
+이게 뭐야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '환영 표지판', '환영표', '대답할 수 없는', '환영 표지판', '환영 표지판', '대답할 수 없는', '환영 ', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	[INST]\
+<image>\
+이 얼굴은 누구의 얼굴이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['얼굴이 없네', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '0', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	[INST]\
+<image>\
+이 제품 키에 있는 숫자는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '읽히지 않는', '대답할 수 없는', '대답할 수 없는', '읽히지 않는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	[INST]\
+<image>\
+제가 방금 사진 찍은 건물 번호는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['3', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '3', '대답할 수 없는', '9', '대답할 수 없는', '대답할 수 없는', '3']	3
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	[INST]\
+<image>\
+이 패키지에 뭐가 있는지 말해줘요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '수확 감각 샐러드', '대답할 수 없는', '비트', '사탕', '콩', '알 수 없는데, 아마 어떤 종류의 견과류일지도 몰라요.', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	[INST]\
+<image>\
+데스크톱 화면이 보여요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['sdfgh', '네', '네', '네', '네', '네', '네', '네', '네', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	[INST]\
+<image>\
+이걸 읽을 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '대답할 수 없는', '네', '쥬스 머신의 수입 정보 메모', '아니', '중요한 정보', '일부', '친절함', '아니', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	[INST]\
+<image>\
+이 꼬리표를 보면 알 수 있겠죠. 이건 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '네 DVD', '아니', 'DVD', 'DVD', '대답할 수 없는', '표지판은 명확하지 않지만 cd', '네', '대답할 수 없는', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	[INST]\
+<image>\
+카메라가 가려졌어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '네', '네', '신', '네', '아니', '네', '아니', '네', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	[INST]\
+<image>\
+닭고기 찌꺼기야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아니', '네', '아마도 모든 라벨을 볼 수 없습니다', '네', '대답할 수 없는', '네', '네', '대답할 수 없는', '네']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	[INST]\
+<image>\
+이게 예술인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '알루미늄 엽지', '네', '네', '네', '대답할 수 없는', '네', '네', '네', '네']	예술
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	[INST]\
+<image>\
+안녕하세요, 이건 돼지고기 고리인지 확인하고 싶었어요.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '네', '예, 키크랜드의 대표 돼지고기 ', '돼지 프', '네', '네', '네', '네', '네, 골 고추', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	[INST]\
+<image>\
+구름이 폭풍 구름처럼 보이나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '네', '네', '네', '네', '네', '네', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	[INST]\
+<image>\
+버디의 얼굴이 귀여워 보이니?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '네', '귀엽다', '네', '네', '아니', '네', '네', '네', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	[INST]\
+<image>\
+대화가 지금 들어있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '네', '네', '대답할 수 없는', '아니', '아니', '네', '네', '네', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	[INST]\
+<image>\
+발가락이 다 남아있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['네', '네', '네', '네', '네', '네', '네', '네', '네', '네']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	[INST]\
+<image>\
+이 사진에서 병을 볼 수 있나요? 만약 볼 수 있다면, 어떤 병일까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아니', '아니', '아니', '아니', '병이 없네', '아니', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	[INST]\
+<image>\
+이 쪽에 문자가 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '아니', '대답할 수 없는', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	[INST]\
+<image>\
+팩스나 상자?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '아니', '아니', '아니', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '아니', '아니', '아니']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	[INST]\
+<image>\
+이 사진에는 가슴 조각이 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	[INST]\
+<image>\
+여기 체스 조각이 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '네', '아니', '보드만', '아니', '아니', '네', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	[INST]\
+<image>\
+이 양말이 맞나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	[INST]\
+<image>\
+- 종이가?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '아니', '아니', '아니', '대답할 수 없는', '아니', '아니', '대답할 수 없는', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	[INST]\
+<image>\
+노트북이냐?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '아니', '아니', '0 전까진 본 적이 없는', '아니', '아니', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	[INST]\
+<image>\
+내 TV 화면에서 모든 걸 읽을 수 있어?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '네', '아니', '대답할 수 없는', '아니', 'DVR 사용 용량 DVR 89% 꽉', '네', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	[INST]\
+<image>\
+이 프리즈베즈의 향을 볼 수 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '아니', '아니', '레이블을 볼 수 없습니다.', '아니', '아니', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	[INST]\
+<image>\
+화면이 켜져?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	[INST]\
+<image>\
+이 컴퓨터 화면에는 어떤 동물이 있습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['동물이 없네요', '0', '0', '0', '0', '화면에는 동물이 없습니다.', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	[INST]\
+<image>\
+이 카드에서 번호를 꺼내려고 하는데, 읽어주실 수 있을까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	[INST]\
+<image>\
+카운터 읽어주세요\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['261627.2m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272m3', '02616272']	대답할 수 있는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	[INST]\
+<image>\
+온도 조절기가 어떤 온도인지?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['72', '72', '72', '72도', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	[INST]\
+<image>\
+마운틴 드우는 어떤 버튼인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['5', '위쪽에서 6', '6번 버튼', '6번 1번', '5', '6', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '5']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	[INST]\
+<image>\
+은색 오크라고 생각해요 몇 년생이에요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['2000년', '2000년', '2000년', '2000년', '2000년', '2000년', '2000년', '2000년', '2000년', '2000년']	2000
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	[INST]\
+<image>\
+이 전원 공급 장치의 와트는 무엇입니까\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['350', '대답할 수 없는', '350', '최대 350W', '대답할 수 없는', '350', '350', '대답할 수 없는', '', '최대 350W']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	[INST]\
+<image>\
+무슨 말이에요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['77도', '77', '77', '77', '77도', '77', '77', '77', '77', '77']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	[INST]\
+<image>\
+이 메달리온이 어떤 메달리온인지 알아?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['47', '47', '47', '47번', '47번이네요', '47', '47', '대답할 수 없는', '47', '아니']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	[INST]\
+<image>\
+이게 얼마죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['5', '5', '5', '5', '5', '5달러', '5', '싱가포르 달러 5달러', '5', '5달러']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	[INST]\
+<image>\
+위쪽을 향하는 숫자가 표시되는 것은 무엇일까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	456
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	[INST]\
+<image>\
+이 지폐는 어떤 지폐인가?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['20', '그', '20', '20', '대답할 수 없는', '대답할 수 없는', '20', '20', '20', '20']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	[INST]\
+<image>\
+현재 화면에 표시되는 것은 무엇입니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['452940', '452940', '웨키 토키', '숫자', '라디오', '452940', '월키 토키', '452940', '대답할 수 없는', '452940']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	[INST]\
+<image>\
+465 - 55은 얼마일까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['410', '410', '410', '대답할 수 없는', '410', '대답할 수 없는', '410', '410', '410', '410']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	[INST]\
+<image>\
+다섯 번째 숫자는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	[INST]\
+<image>\
+이 법안은 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['2', '2', '2', '2', '2달러', '돈', '2', '2', '대답할 수 없는', '2']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	[INST]\
+<image>\
+치어리오스 한 끼에 얼마나 많은 칼로리가 있을까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['110', '이미지 복합', '104', '110', '100', '대답할 수 없는', '10', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	[INST]\
+<image>\
+오븐 온도는 몇 개?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['오븐 손잡이', '오븐 온도 400', '425', '450', '400', '425', '425', '400', '425', '400']	1개
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	[INST]\
+<image>\
+열계측정기의 온도는 얼마일까요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['78', '78', '78도', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	[INST]\
+<image>\
+이 돈 몇 달러야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['20 캐나다 달러', '20', '20', '20', '20 유로', '20', '20 캐나다 달러', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	[INST]\
+<image>\
+온도는 몇으로 설정됐어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	[INST]\
+<image>\
+이 온도계온도는 얼마인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['50', '50', '55', '64도', '55', '대답할 수 없는', '대답할 수 없는', '54', '대답할 수 없는', '56']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	[INST]\
+<image>\
+이게 무슨 교단이야?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['5', '5', '5', '5', '캐나다', '5', '5', '알', '5', '5']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	[INST]\
+<image>\
+이 카드의 가치를 말해줘\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['6개의 다이아몬드', '9 다이아몬드', '6개의 다이아몬드', '6', '6', '6', '6', '6', '6', '6']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	[INST]\
+<image>\
+이게 내가 얼마나 찌는지 알아?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['210', '200', '네 200', '198', '200', '200', '200', '250', '200', '200']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	[INST]\
+<image>\
+안녕하세요, 다시 시도중입니다. 이 지표에 몇도 숫자가 있는지 말해 주시겠습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	59
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	[INST]\
+<image>\
+어떤 온도가 괜찮아졌는지 말해 주시겠습니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['78', '78', '78', '78', '78', '78', '78도', '78도', '78도', '78']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	[INST]\
+<image>\
+이 캔디 바에 몇 끼가 들어있어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '2', '4', '대답할 수 없는', '4', '땅콩 버터 4잔', '2', '2', '대답할 수 없는', '대답할 수 없는']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	[INST]\
+<image>\
+한 끼에 몇 칼로리가 들어있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['120', '120', '120 마른 220 준비 된 경우 준비 된 1 1 4 컵 지방 없는 우유', '120', '120', '120', '120', '120', '220', '120 건조 곡물 220 우유']	220
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	[INST]\
+<image>\
+이 지폐는 어떤 지폐인지 말해 주시겠습니까? 왜냐하면 저는 20달러를 찾고 있는데 10달러라고 생각하지만 정확히 알 수 없습니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['10 유로', '10', '10', '대답할 수 없는', '10', '10', '10명의 빨간색 하얀색 셔츠를 입고', '10', '10', '10']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	[INST]\
+<image>\
+이 스트립은 하나 둘씩 분홍색 줄이 있나요? 하나는 다른 한 줄보다 가벼울 수 있습니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['비우', '1', '1줄', '1개의 어두운 선', '1', '1', '1', '1', '1', '1']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	[INST]\
+<image>\
+번호는 알려 주시겠어요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['3248849064', '3248849084', '대답할 수 없는', '3248849084', '대답할 수 없는', '대답할 수 없는', '3248849084', '대답할 수 없는', '대답할 수 없는', '3248849084']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	[INST]\
+<image>\
+제가 얼마나 큽니까?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['1', '1', '대답할 수 없는', '1', '1', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '빈 스케일', '1']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	[INST]\
+<image>\
+이 온도계에서 현재 온도 설정이 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['70', '70', '70', '70', '70', '70', '70', '70', '70', '열정치']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	[INST]\
+<image>\
+이건 5달러나 10달러짜리 캐나다 지폐인가요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 캐나다']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	[INST]\
+<image>\
+전화번호는 뭐죠? 전화번호? 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['25389186', '25389186 08 07 23:39', '25389186', '253891186', '대답할 수 없는', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	[INST]\
+<image>\
+5자리 숫자는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['23442', '23442', '23442', '대답할 수 없는', '대답할 수 없는', '2자리만 보여요 69', '23442', '대답할 수 없는', '대답할 수 없는', '23442']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	[INST]\
+<image>\
+몇 온스죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['23.6', '20', '20', '24', '대답할 수 없는', '대답할 수 없는', '대답할 수 없는', '33', '대답할 수 없는', 'gfdsgsdf']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	[INST]\
+<image>\
+온도계에는 온도가 어떻게 표시되어 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['72', '72', '72', '72', '72', '72', '72', '72도', '72', '72도']	온도가 72°C
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	[INST]\
+<image>\
+이 페이지 번호는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['2', '2', '2', '2', '2', '2', '2', '대답할 수 없는', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	[INST]\
+<image>\
+이 디스플레이에 무슨 말이 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['8888', '대답할 수 없는', '아무것도 안 돼', '8888', '대답할 수 없는', '대답할 수 없는', '8888', '888', '아무것도 안 돼', '빈']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	[INST]\
+<image>\
+어떤 페이지 번호가 표시되었나요? 감사합니다.\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['123', '121', '121', '121', '대답할 수 없는', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	[INST]\
+<image>\
+이 번호는 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['26', '26', '26', '26', '26', '종이', '26', '26', '26', '26']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	[INST]\
+<image>\
+이게 뭐죠?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['대답할 수 없는', '40', '40', '대답할 수 없는', '대답할 수 없는', '숫자', '40', '40', '40파운드 공기', '30']	대답할 수 없는
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	[INST]\
+<image>\
+이 상자에는 몇개의 알약이 있나요?\
+When the provided information is insufficient, respond with '대답할 수 없는'.\
+Answer the question in Korean using a single word or phrase.\
+[/INST]	['8개', '8', '8', '8', '8', '8', '8', '8개', '8', '8']	8

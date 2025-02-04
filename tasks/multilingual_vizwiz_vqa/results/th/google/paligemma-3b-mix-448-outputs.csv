@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรเขียนบนกระดาษ?\
+	['ตอบไม่ได้', 'ออสเตรเลีย โพสต์', 'โพสต์', 'ตอบไม่ได้', 'ออสเตรเลีย โพสต์', 'ออสเตรเลีย โพสต์', 'ออสเตรเลีย โพสต์', 'ออสเตรเลีย โพสต์', 'ตอบไม่ได้', 'ออสเตรเลีย โพสต์']	post
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่ามีอะไรอยู่บนจอคอมพิวเตอร์นี้\
+	['ไอคอนสําหรับเวลาอากาศ เป็นต้น', 'หน้าต่างเริ่มต้น', 'desktop', 'นาฬิกา', 'นาฬิกา', 'ไอคอน', 'ไอคอนของ desktop', 'ตอบไม่ได้', 'ไอคอนของ desktop', 'ไอคอน']	นาฬิกา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ซีดีอะไรเนี่ย?\
+	['เงินเปล่า', 'CDว่าง', 'แม็กซ์เวล', 'แม็กเซล ซีดี', 'เงินเปล่า', 'เงินเปล่า', 'ผ้าห่ม', 'เงินเปล่า', 'เงินเปล่า', 'แม็กเซล']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปอะไรน่ะ\
+	['ขา', 'ขา', 'รอยเท้า', 'ขา', 'ขา', 'ขา', 'ขา', 'ขา', 'ขา', 'ขา']	เท้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่ากระป๋องนี้เป็นอะไร\
+	['การล่า', 'มังวัช', 'มังวัช', 'ล่าจูสจูส', 'โซสจูปปี้', 'มังวัช', 'ชายที่กล้าหาญ โจซอส', 'หนองหญ้า', 'มังวัช', 'โจจ้ที่ไม่ระวัง']	ซอส บาร์บีคิว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['โซดาโค้กเบา', 'โค้กเบา', 'โค้กเบา', 'สามารถเบาโคล้า', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค๊ก', 'โซดา', 'สามารถเบาโคล้า']	มี โค้ก ไร้ น้ำตาล อยู่ ใน มือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันสับสนอะไรกัน\
+	['คุณนายดัช', 'ตอบไม่ได้', 'คุณนายดัช', 'ตอบไม่ได้', 'ไม่รู้จะบอก', 'สีพริชทั้งหมด', 'ผสมเบซิล', 'คุณนายดาร์ชเม็บลันด์', 'ดาช', 'คุณนายดัช']	ไม่สามารถ เห็น ภาพ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ถังน้ําฝน mtn', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'mt ฝน']	มี ขวด ภูเขา หิมะ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกล่องนี้\
+	['กาแฟ', 'ตอบไม่ได้', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'ตอบไม่ได้']	กาแฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณเห็นอะไร?\
+	['ผิวหนัง', 'ประตูพื้นนิ้ว', 'ประตู', 'ประตู', 'ประตูนิ้ว', 'ประตู', 'ตอบไม่ได้', 'ประตู', 'บ้าน', 'ผิวขนสีดํา']	ห้อง ที่ มี ประตู และ ม่าน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ช่องจอคอมพิวเตอร์ของฉันแสดงอะไรอยู่\
+	['คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ', 'ซิสต์รีสโปปป๊ปอัพ', 'ข่าวซ่อมระบบ', 'ถามว่าคุณต้องการฟื้นฟูคอมพิวเตอร์ของคุณด้วยการใช้ระบบฟื้นฟู', 'กล่อง', 'การฟื้นฟูระบบ', 'คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ', 'คอมพิวเตอร์ไม่เริ่มใช้ระบบซ่อมแซม', 'กําหนดการฟื้นฟู', 'การฟื้นฟูระบบ']	คำตอบไม่รวมอยู่ใน ข้อความ ดังนั้นฉันจึงไม่สามารถตอบคำถามนี้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['โคโกะร้อน', 'ผสมคาวร้อน', 'ช็อกโกแลตร้อน', 'ผสมคาวร้อน', 'โคโกะ', 'ผสมคาวร้อน', 'โคโกะร้อน', 'ผสมช็อกโกแลตร้อน', 'โคโกะ', 'ผสมแคโคอา']	hot cocoa mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมเบอร์ 1-800 บนบัตรนี้ได้ไหม\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไร\
+	['หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'โน๊ตพ็อต', 'หน้าจอคอมพิวเตอร์แสดงผลการค้นหา', 'หน้าจอ', 'หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'หน้าจอ', 'หน้าจอคอมพิวเตอร์']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['สลัดดริสเซสด้านหลัง', 'การผูกพัน', 'สลัด', 'สลัด', 'สารสลัดบัลซามิค', 'สลัด', 'ตอบไม่ได้', 'สลัด', 'สลัด', 'สลัด']	ไม่สามารถ เห็น ข้อความ บน ขวด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปนี้แสดงอะไร\
+	['หน้าต่าง', 'การออกแบบ', 'ราคาขายของ', 'กระจกหน้าต่างแก้วในประตู', 'หน้าต่างแก้วในประตู', 'ประตู', 'กระจกสี', 'ประตู', 'หน้าต่าง', 'หน้าต่าง']	หน้าต่าง กระจก สี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ใครบอกผมหน่อยได้ไหมว่าคําถามความปลอดภัยบนจอคืออะไร\
+	['อาราวัค', 'ตอบไม่ได้', 'อาราวัค', 'อาราวัค', 'อาราวัค', 'อาราวัค', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาราวัค', 'อาราวัค']	คำถามความปลอดภัยบนจอคือ arowak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ไวน์', 'ไม้โอ๊คเงิน', 'ไม้โอ๊คเงิน', 'ไวน์ต้นโอ๊คเงิน', 'ไวน์', 'ขวด', 'ไวน์', 'ไวน์', 'ไม้เมล็ดสีเงิน 2003 Cabernet Sauvignon', 'ไม้เมล็ดสีเงิน 2003']	ไวน์ สัก ขวด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เครื่องจอยี่ห้อไหน\
+	['lg', 'ตอบไม่ได้', 'ตอบไม่ได้', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกันเนี่ย\
+	['โซดา', 'จิงเจอร์บี', 'กินยาทั่วไป', 'ซูดาอัลซินเจอร์', 'แคนาดา', 'แคนาดา', 'จิงเจอร์บี', 'แคนาดา', 'จิงเจอร์บี', 'จิงเจอร์บี']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กระเบื้องสีอะไร\
+	['สีเบจ', 'สีเบจ', 'สีแดง', 'สีเทา', 'สีแดง', 'ครีม', 'สีแดง', 'สีแดง', 'สีเบจ', 'สีแดง']	สี เทา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์ดิจิตอล', 'โทรศัพท์', 'โทรศัพท์สํานักงาน', 'โทรศัพท์']	โทรศัพท์ ที่ มี ข้อมูล น้อย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปนี้คืออะไร?\
+	['ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนภูเขา', 'หมากรุก', 'ถังน้ําฝน mtn', 'โซดาฝนภูเขา', 'mtn หนอง']	มี คน ถือ ขวด มอน ด์ เฟิ ร์ ต
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ขวดนี้คืออะไร?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'โลชั่น', 'โซดา', 'ตอบไม่ได้', 'โลชั่น', 'โลชั่น', 'โลชั่น', 'ตอบไม่ได้', 'โลชั่น']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['น้ํา aquafina', 'ขวดน้ํา aquafina', 'น้ํา', 'น้ํา', 'ขวดพลาสติกน้ําแบรนด์ aquafina', 'น้ํากระป๋อง', 'กระปุกน้ํา', 'น้ํา aquafina', 'น้ํา', 'ขวดน้ําพลาสติก']	ขวด น้ำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่มันอะไรกัน\
+	['ค้นหาใน google', 'แท็บเครื่องค้นหา google', 'หน้าค้นหา google', 'โกเกิล', 'โกเกิล', 'คอมพิวเตอร์', 'หน้าแรกของ google', 'หน้า google', 'หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ']	พวง กุญแจ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กรุณาอ่านข้อความความผิดพลาดบนหน้าจอให้ฟัง\
+	['ตอบไม่ได้', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'ตอบไม่ได้', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าไม่ถูกต้อง หรือลบคีย์สินค้าในไฟล์คําตอบที่ไม่ได้รับการดูแล เพื่อดําเนินการ', 'คีย์สินค้าไม่ถูกต้อง หรือลบคีย์สินค้าในไฟล์คําตอบที่ไม่ได้รับการดูแล เพื่อดําเนินการ', 'คีย์สินค้าที่ไม่ถูกต้อง']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เล็ปท็อปฉันอยู่ไหน\
+	['โต๊ะทํางาน', 'บนโต๊ะ', 'โต๊ะบนข้างเตียง', 'บนโต๊ะ', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'บนโต๊ะ', 'บนโต๊ะ', 'โต๊ะบน', 'โต๊ะทํางาน']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หนังสือนี้ชื่ออะไร\
+	['ปีของสุนัข', 'ปีของสุนัข: ความทรงจํา', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['macbook', 'คีย์บอร์ด', 'คีย์บอร์ด', 'คีย์บอร์ด', 'คอมพิวเตอร์', 'คีย์บอร์ด', 'โน๊ตพ็อต', 'โน๊ตพ็อต', 'โน๊ตพ็อต', 'คีย์บอร์ดจอคอมพิวเตอร์']	คอมพิวเตอร์ แล็ ป ท็ อป ที่ เปิด อยู่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณเห็นอะไร?\
+	['หน้าต่างโต๊ะ', 'ดอกไม้', 'ตอบไม่ได้', 'หน้าต่างโต๊ะ', 'ปากกาเล่ม', 'ดอกไม้', 'หนองหญ้า', 'หนังสือ', 'หน้าต่าง', 'ดอกไม้']	ห้อง ที่ มี หนังสือ อยู่ บน โต๊ะ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แพ็คเก็ตไหนมีข้าวแป้ง?\
+	['สีแดง สีขาว', 'ซ้าย', 'ที่ 1', 'สีแดง 1 ทางซ้าย', 'ซ้าย', 'ตอบไม่ได้', 'ซ้าย', 'ซ้าย', 'สีแดง สีขาว 1', 'สีแดง 1']	plain flour
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ฟุตบอล', 'ฟุตบอล', 'ฟุตบอล', 'สีม่วงส้ม สีขาว', 'กีฬาฟุตบอล', 'กีฬาฟุตบอลอ่อน', 'ฟุตบอลลูกเต๋า', 'ฟุตบอลสีส้มสีฟ้าเต็ม', 'ฟุตบอลสีม่วง', 'สีดง']	รูป สัตว์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไร?\
+	['สีเทา', 'ทอง', 'ทอง', 'สีเบจ', 'สีแดง', 'ทอง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ทอง', 'ตอบไม่ได้']	ทอง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เมนู', 'ตอบไม่ได้', 'เมนู', 'เมนู', 'เมนู', 'เนื้อหาของตาราง', 'เมนู', 'เมนู', 'รายการราคา', 'ตอบไม่ได้']	มี อาหาร บาง อย่าง อยู่ ใน เมนู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['กระปุกน้ํา', 'สปริงฟอร์น', 'สปริงเบอร์น วอเตอร์', 'สปริงเบอร์น', 'น้ํากระป๋อง', 'น้ํา', 'กระปุกน้ํา', 'น้ํากระป๋อง', 'น้ําในขวด', 'น้ํา']	springbourne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ซุปอะไรเนี่ย\
+	['โปรแกรม', 'โปรแกรม', 'โปรแกรม', 'ตอบไม่ได้', 'โปรแกรม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โปรแกรม', 'โปรแกรม']	progresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมรู้ว่านี่เป็นกระป๋องอาหาร คุณบอกผมได้ไหมว่ามันมีอะไรอยู่ข้างใน\
+	['ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'ตอบไม่ได้', 'ถั่วเขียว', 'eef', 'ถั่วเขียว', 'ถั่วเขียว']	ถั่ว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรคือ?\
+	['เช็กซ์ มิกซ์', 'เครื่องบด', 'คอมพิวเตอร์ chex mix', 'ตอบไม่ได้', 'เช็กซ์ มิกซ์', 'อาหาร', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'chekmix']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรนะ?\
+	['ไมโครเวฟ', 'ไมโครเวฟ', 'ยา', 'เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่อง', 'ซุปกระป๋อง', 'ซุปแก้ว', 'อาหาร', 'โต๊ะครัว', 'ครีม', 'ซุป']	ไม่สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ผักผสม', 'ผักผสม', 'ผักผสม', 'ผักผสม', 'ผักผสม', 'efgrfg', 'ผักผสม', 'ผักผสม', 'ผักผสม', 'ผักผสม']	ผัก รวม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน?\
+	['ผงเค้ก', 'วาเนลล่า', 'วาเนลล่า', 'ผงแวนิลลา', 'เบตตี้ โครคเกอร์', 'ผงแวนิลลา', 'วานิลลา', 'ผงแวนิลลา', 'วาเนลล่า', 'วาเนลล่า']	วิ ป ครีม วา นิลา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันกําลังมองกล่องอะไร, เช่นกล่องนั้นมีอะไรอยู่?\
+	['กล่องบาร์กรานอล่า', 'แบรนโอลล่าทอดมะเขือเทศ', 'สตาร์กรันโอลลา', 'หุบเขาธรรมชาติ', 'ผงปังปะรดมะเขือเทศ', 'แบรนโอลล่าทอดมะเขือเทศ', 'แบรนโอลล่ารสสกริชชี่ แบรนโอลล่ารสกริชชี่ แอนเดล', 'สตาร์กรันโอลลา', 'สตาร์กรันโอลลา', 'ผงกรานอล่าขนมปังขมิ้นกระจ่าง']	granola bars
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แล้วผ้าสีล่ะ บอกฉันเกี่ยวกับผ้าสี\
+	['สีเขียว สีขาว', 'พิมพ์สีเขียวเข้มขาว', 'สีขาว สีเขียว', 'สีขาว สีเขียว', 'สีชมพูเขียว', 'ผ้าสีขาวสีครีมเขียว', 'สีชมพู สีดํา', 'สีเขียว สีขาว', 'สีส้มสีดํา', 'สปริตสีขาวสีเขียว']	ม่วง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ช่องคอมพิวเตอร์แสดงอะไรอยู่\
+	['ดําลูกศร', 'คอร์เซอร์', 'ไม่มีอะไร', 'สีฟ้า', 'สีฟ้า', 'สายธนู', 'เงินเปล่า', 'สีฟ้า', 'เงินเปล่า', 'สีฟ้า']	จอภาพ สีน้ำเงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวัสดีครับ ใครพูด?\
+	['แมวขาว', 'แมว', 'แมว', 'แมวขาว', 'แมว', 'ตอบไม่ได้', 'แมว', 'แมว', 'แมวนี่', 'กิตติ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['purell สารล้างมือระดับสูง', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ']	purell
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ข้อความความผิดพลาดบอกว่าอะไร\
+	['คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'สินค้าที่ไม่ใช้', 'คีย์สินค้าไม่ถูกต้อง คลิก OK เพื่อดําเนินการ', 'คีย์สินค้าไม่ถูกต้อง หรือลบคีย์สินค้าในไฟล์คําตอบที่ไม่ได้รับการดูแล เพื่อดําเนินการ', 'สินค้าที่ไม่ใช้', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง']	ข้อความความผิดพลาดบอกว่ามีข้อความไม่เพียงพอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่าข้อความนี้เขียนอะไรบนหน้าจอคอมพิวเตอร์ผม\
+	['ปุ่มปลายการซ่อมบางชนิดในด้านล่างขวา', 'การซ่อมเครื่องเริ่มต้นครั้งสุดท้ายที่ประสบความสําเร็จ 9 20 2012 1 การซ่อมเครื่องพยายามปิดกลับจบ ยกเลิก', 'ตอบไม่ได้', 'ไม่', 'การซ่อมแซมการเริ่มต้น', 'การซ่อมแซมการเริ่มต้น', 'การซ่อมแซมการเริ่มต้น', 'ตอบไม่ได้', 'การซ่อมแซมการเริ่มต้นเสร็จสิ้นจอวินิจฉัย ปุ่มปิด', 'การซ่อมแซมการเริ่มต้น']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เนื้ออะไรน่ะครับ นี่ไก่หรือซอสเซส หรือเนื้ออะไรครับ ขอบคุณครับ\
+	['ไก่', 'ไก่', 'ไก่', 'ไก่', 'ไก่', 'ไก่', 'ไก่', 'หนวดไก่', 'ตอบไม่ได้', 'ไก่']	ไก่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไรเนี่ย?\
+	['สีฟ้าไฟฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพแสดงอะไรอยู่?\
+	['การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่างบวกกับที่อ่านไม่ออก', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'หน้าจอนี้บอกว่าหน้าต่างการติดตั้งรายการการติดตั้งขั้นตอน', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง']	ภาพแสดงการ ติด ตั้ง หน้า จอ คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวรรค์ดูเหมือนในรูปนี้\
+	['เมฆบางส่วน', 'เมฆดํา', 'เมฆใหญ่', 'เมฆใหญ่ฟ้ามืด', 'เมฆปกคลุม', 'สับสน', 'สีฟ้ามาก เมฆ', 'ตอบไม่ได้', 'เมฆฝนขนาดใหญ่ สีฟ้าไปข้างๆ', 'สับสน']	มี เมฆมาก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['หลังบ้าน', 'เก้าอี้', 'เก้าอี้', 'เก้าอี้', 'ตอบไม่ได้', 'เบนจ์', 'เก้าอี้', 'เก้าอี้', 'หน้าต่างกรอบโลหะ', 'เก้าอี้']	เก้าอี้ ไม้ นั่ง ข้าง อาคาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['รูป', 'ประตู', 'ประตู', 'บาร์', 'ประตูกระจก', 'ประตู', 'ร้านอาหาร', 'ร้านอาหาร', 'ประตู', 'ประตู']	ประตู สอง บาน ที่ มี หน้าต่าง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรบนจอของฉัน มาเถอะ พวกคุณ มีอะไรบนจอ\
+	['เลือกอุปกรณ์ boot', 'กรุณาเลือกเครื่อง boot 3 ตัวเลือก', 'ตอบไม่ได้', 'กรุณาเลือกอุปกรณ์การ boot', 'หน้าจอ boot', 'กรุณาเลือกอุปกรณ์การ boot', 'ความผิดพลาด', 'กรุณาเลือกอุปกรณ์การ boot', 'ข้อความเลือกอุปกรณ์', 'กรุณาเลือกอุปกรณ์การ boot']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สิ่งนี้คืออะไร?\
+	['เครื่องถอดเถ้า', 'รูปปั้นทองแดงประดับ หญิงสิงห์', 'เหรียญ', 'ไม่', 'เครื่องถอดเถ้า', 'ถังเถ้า', 'เหรียญ', 'กระปุกสุนัข', 'เครื่องถอดเถ้า', 'เสือโรคระบาดอยู่บนสุด']	รูป ปั้น สัตว์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. พวกนี้เป็นบุหรี่อะไรกัน\
+	['อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'สีดํา แพ็คผงอเมริกัน', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['กุญยาวาจินเซง', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในขวดนี้\
+	['โลชั่นร่างกาย', 'โลชั่นร่างกาย', 'โลชั่นร่างกาย', 'โลชั่น', 'วิตามินอี', 'ผิวหนังที่สว่างแสงจันทร์ วิตามินอี', 'โลชั่นร่างกาย', 'โลชั่นร่างกายแสงจันทร์', 'โลชั่นร่างกายแสงจันทร์', 'โลชั่น']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพนี้เป็นอะไร\
+	['แว่นตา', 'กรอบ', 'แก้ว', 'แว่นตา กรอบเงิน', 'แว่นตา', 'แก้ว', 'กรอบแว่นตา', 'แก้ว', 'แก้ว', 'แก้ว']	แว่นตา สี ขาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่คือผลิตภัณฑ์\
+	['ใช่', 'ซุปทอด', 'ซุปทอด', 'ซุป', 'ซุปกระป๋อง', 'ซุปทอด', 'ซุปทอด', 'ซุปทอด', 'ซุป', 'เลือกซุปฝรั่ง']	ซุป
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['โทรศัพท์', 'iphone', 'กล่องไอโฟน', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'กล่องโทรศัพท์มือถือ', 'สมาชิกสมาร์ทโฟน', 'โทรศัพท์', 'โทรศัพท์สมาร์ท', 'iphone']	ภาพถ่าย iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพนี้เป็นอะไร\
+	['กระปุกขนมหวาน', 'การฉลองกล่องสีแดง', 'ตอบรับ', 'บอกว่าฉลอง', 'กล่อง', 'น้ําตาลหวาน', 'ชอบพรรค', 'การฉลอง', 'กล่อง', 'ตอบไม่ได้']	ภาพ ของ ขวด อาหาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ชามเปญ', 'กระปุกชาแก้วไวน์', 'กระจก', 'ไวน์แก้ว', 'แก้วไวน์แชมเปญข้างถ้วยกาแฟ นั่งบนจาน', 'ดื่มในแก้วบนโต๊ะ', 'ชามเปญ', 'แก้วชามชา', 'แก้วชามเปญชามเปญ', 'จานแก้วแชมเปญบนโต๊ะหน้าหน้าหน้าต่างวิวเมือง']	ไม่ สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กลิ่นของนี่คืออะไร?\
+	['ส้ม', 'ส้มเขียวเหลืองแดง', 'ส้มมะนาว', 'ส้ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ส้ม', '2 ด้านซ้าย ส้ม เชอร์รี่ มะนาว ด้านบน ด้านล่างขวา สีเขียวหนาว', 'ส้ม', 'ส้ม']	ลิ้มลอย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวัสดีครับ ผมสงสัยว่าในกระป๋องนี้มีอะไร ขอบคุณ ผมสงสัยว่ามันเบียร์ หรือซ๊อด้า หรือกระป๋อง\
+	['โคกะ โคล่า', 'โคกะ โคล่า', 'โซดา', 'โคกะ โคล่า', 'โซดา', 'โซดาโคก', 'โซดา', 'โซดา', 'โคคาโคลา', 'โซดา']	coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เครื่องแห้งนี่ตั้งค่ายังไง\
+	['ตรงกับทิศทางนาฬิกา การควบคุมรอยขนแบบปกติ เวลาแห้ง อ่อนแอ การปล่อยรอยขน', 'ปกติ', 'ออกไป', 'ออกไป', 'ออกไป', 'ปกติ', 'ออกไป', 'ไม่ติดตั้ง', 'ไม่มีอะไร', 'ออกไป']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เม็ด', 'เม็ด', 'แอพโทรศัพท์', 'หน้าจอ', 'รายการแอพ', 'ร้านแอพ', 'เม็ด', 'รายการแอพที่จะดาวน์โหลด', 'ตอบไม่ได้', 'การดาวน์โหลดแอพ']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันกําลังมองอะไรอยู่?\
+	['โทรทัศน์', 'โต๊ะทีวี', 'โทรทัศน์', 'ทีวี', 'หน้าจอทีวี', 'โทรทัศน์', 'ทอม เซลลัค ทางโทรทัศน์', 'ทีวี', 'ทีวี', 'โทรทัศน์เปิดประตูตู้']	ห้อง นอน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไรเนี่ย?\
+	['สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีเบจ', 'สีขาว', 'กลิ่นสิงห์', 'ตอบไม่ได้', 'สีเบจ', 'ตอบไม่ได้']	สีขาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['อาหารนี้', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'เชฟบอยาร์ดี มินิราวิโอลิส', 'รีวิโอลีเล็กๆในกล่อง', 'ราวิโอลี', 'เชฟบอยา มินิราวิโอลี', 'รีวิโอลีเล็ก']	รากเกร็ด เนื้อ มะเขือเทศ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['ผงเนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมักหมักแบบดั้งเดิม', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมักหมักแบบดั้งเดิม', 'เนื้อหมัก', 'เนื้อหมัก']	roast beef
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สินค้าอะไร?\
+	['เพปซี่เบา', 'เปปซี่อาหารไร้คอเฟอีน', 'พีปซี', 'พีปซี', 'เพปซี่เบา', 'เพปซี่เบา', 'เพปซี่เบา', 'เพปซี่ไร้คอเฟอีน', 'เพปซี่เบา', 'เพปซี่เบา']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ชื่ออะไร\
+	['ภาคตะวันออก', 'ผัก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาหาร', 'ผัก', 'สารผสมเส้นทาง', 'ผัก', 'มะเขือเทศ', 'ถุงถั่ว']	ถั่ว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่กาแฟปกติหรือไม่ติดคอเฟอีน\
+	['ปกติ', 'ตอบไม่ได้', 'ปกติ', 'ปกติ', 'ปกติ', 'ปกติ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปกติ', 'ปกติ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'แม็คชีส', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ']	จาน อาหาร ที่ มี ชีส และ มะกอก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในขวดนี้\
+	['โลชั่นผ่อนคลาย', 'โลชั่น', 'โลชั่น', 'โลชั่น', 'ครีมผ่อนคลาย', 'โลชั่น', 'เครื่องบํารุงความชุ่มชื้น', 'ครีมผิวหนัง', 'น้ําหนักสูงในการล้างร่างกาย', 'การล้างร่างกาย']	ครีม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรนะ?\
+	['เก้าอี้โต๊ะ', 'เก้าอี้', 'เก้าอี้', 'เก้าอี้สํานักงาน', 'เก้าอี้สํานักงาน', 'ที่นั่งสํานักงานนี้', 'เก้าอี้', 'เก้าอี้โต๊ะ', 'เก้าอี้', 'เก้าอี้สํานักงานสีเทา']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สิ่งที่ฉันเพิ่งถ่ายรูปมันคืออะไร\
+	['โมเนอร์คอมพิวเตอร์', 'คอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โน๊ตพ็อต', 'หน้าจอคอมพิวเตอร์', 'โน๊ตพ็อต', 'โมเนอร์คอมพิวเตอร์', 'คอมพิวเตอร์เล็ปโตป']	จอ คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกฉันว่านี่คืออะไร\
+	['หมูหอม', 'เนื้อ', 'เนื้อแดงบางชนิด', 'เนื้อบรรจุ', 'เนื้อหมู', 'หมูปัด', 'ตอบไม่ได้', 'เนื้อ', 'fg', 'หมู']	เนื้อ สัตว์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวรรค์ในรูปนี้เป็นยังไง\
+	['วันเมฆ', 'เมฆบางส่วน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'ฝน']	ไม่เห็น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อาหารอะไร มันรอเวลาหมดเหรอ\
+	['ตอบไม่ได้', 'สปาเกตติ', 'สปาเกตติ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สปาเกตติ', 'สปาเกตติ', 'สมอง', 'อาหารเย็น', 'พิซซ่า']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'พืช', 'ดอกไม้', 'ดอกไม้', 'อีริส']	ดอกไม้ สี ม่วง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สิ่งนี้คืออะไร?\
+	['ชาลอย', 'ชา', 'ตอบไม่ได้', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กางเกงสั้นนี่มีสีอะไร และรูปแบบอะไร\
+	['สีขน', 'สีฟ้าสีเหลือง', 'สีฟ้า ส้ม เขียว', 'สีฟ้า สีน้ําตาล สีขาว', 'สีฟ้าบนด้านบน สีเหลืองด้านล่าง', 'สีหลายสี', 'สีฟ้าแดงขาว', 'สีขน', 'สีฟ้า', 'สีฟ้า สีขาว สีเขียว สีเหลือง']	กางเกงสั้นสีสันสดใส ลายสก๊อต
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กระเป๋านั้นสีอะไร\
+	['สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียวสดใส', 'สีเขียว']	สีเขียว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่โคก้าธรรมดา หรือโคก้าเบาๆ\
+	['โค้กเบา', 'การกิน', 'การกิน', 'การกิน', 'การกิน', 'การกิน', 'โค้กเบา', 'การกิน', 'โค้กเบา', 'การกิน']	โคก้าเบา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['สายพิมพ์', 'ปุ่มพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'bi pen เซ็นเตอร์']	ปากกา นั่ง อยู่ หน้า แป้น พิมพ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['แหลมปูนกระปุก', 'โคมไฟ', 'โคมไฟ', 'โคมไฟ', 'ปริงเกิล สามารถติดกับเล่ม cd', 'หลอดไฟไม่มีเงา', 'โคมไฟ', 'โต๊ะ pringles หรี่น้ํายาล้างปาก', 'โคมไฟ', 'โคมไฟ']	ไม่ สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คอมพิวเตอร์นี่ทําอะไร\
+	['ระบบตรวจสอบ', 'ตอบไม่ได้', 'การตรวจสอบแผ่น', 'ดิสก์ตรวจสอบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'การบรรทุก', 'การตั้งค่า', 'การตรวจสอบความสม่ําเสมอ', 'เปลี่ยนเครื่อง']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่โซดาอะไรกัน?\
+	['โค้กเบา', 'หนอง', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค้กเบาๆ สีมะนาว', 'โค้กเบา', 'โค้กเบา']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกผมหน่อยสิว่ามันคืออะไร\
+	['คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'ตอบไม่ได้', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'วิทยาศาสตร์', 'ความคับคั่ง', 'โอลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'การกระทํา', 'ตอบไม่ได้', 'คลิฟ คาสลเลอร์']	หนังสือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ไวน์อะไรเนี่ย\
+	['ตอบไม่ได้', 'ฉลองแต่งงาน เดวิด เอ็มม่า ไวน์แดง', 'นาช', 'นาช', 'นาช', 'นาช', 'นาช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'นาชไวน์']	the mash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ยอเกิร์ต', 'ตอบไม่ได้', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หัวข้อหนังสือนี้คืออะไร?\
+	['ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ตอบไม่ได้', 'ปีของสุนัข', 'ตอบไม่ได้', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข']	หนังสือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['โนนี่แลปโตป', 'โน๊ตพ็อต', 'โน๊ตพ็อต', 'คอมพิวเตอร์', 'โน๊ตพ็อต', 'โนนี่ วายโอ เล็ปโตป', 'โน๊ตพ็อต', 'โซนี่ วายโอ', 'โนนี่แลปโตป', 'โน๊ตพ็อต']	sony vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันสงสัยว่าเครื่องหมายของคอมพิวเตอร์นี้คืออะไร\
+	['โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่านี่มันอะไร ปากเขียว หรือซอสเอ็นชิลลาดา\
+	['สงคราม', 'แผ่นหลังไม่บอกว่า', 'ตอบไม่ได้', 'มะเขือเทศ', 'มะเขือเทศ', 'มะเขือเทศ', 'ตอบไม่ได้', 'มะเขือเทศ', 'ภาพไม่ชัดเจน', 'มะเขือเทศ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['พูดดิ้ง', 'พูดดิ้ง', 'พูดดิงวานิลลา', 'พูดดิ้ง', 'พูดดิงวานิลลา', 'พูดดิ้ง', '6 แพ็คอาหารว่าง แพ็คพูดินวานิลลา', 'ถ้วยพูดดิ้ง', 'พูดดิ้ง', 'พูดดิงในกระเป๋าอาหารว่าง']	แพ็ค อาหาร ที่ มี ชีส และ นม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เงินแคนาดา 20 ดอลลาร์', 'เงินแคนาดา 20 ดอลลาร์', '20 คนแคนาดา', 'เงิน', 'เงินในสายตา', 'เงิน 20 บาท', 'โมเนีย', 'เงินแคนาดา 20 ดอลลาร์', '20 ดอลลาร์', 'เงิน']	20 ดอลลาร์ แคนาดา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนียพิเศษ', 'ลาซาเนีย', 'ลาซาเนียพิเศษ', 'ลาซาเนียพิเศษ', 'ลาสเน', 'ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนีย']	พิซซ่า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กาแฟนี้เป็นอะไร\
+	['เอสเปรสโซ่', 'เอสเปรสโซ่', 'โคตร', 'เอสเพรสโซ่ป่าฝน', 'สเปรสโซ่ป่าฝน', 'เอสเปรสโซ่', 'หนาเกิน', 'เอสเพรสโซ่ ราคาทราปิค', 'เอสเปรสโซ่เด่นมาก', 'ติโมเธียว']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปอะไรน่ะ\
+	['กระปุกเครื่องคีย์บอร์ดแก้วไวน์', 'โน๊ตพ็อต', 'คีย์บอร์ดคอมพิวเตอร์ไวน์เบียร์', 'ตอบไม่ได้', 'คอมพิวเตอร์', 'คอมพิวเตอร์', 'เครื่องดื่มสําหรับคอมพิวเตอร์', 'คอมพิวเตอร์แล็ปท็อป บนโต๊ะทํางานข้างๆของเหลวแก้ว', 'กระจกเล็ปโตป', 'เล็ปโตปแก้ว']	ภาพภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['หนังสือชื่อ', 'หนังสือ', 'หนังสือพิมพ์', 'หมายเหตุ', 'หนังสือเงินง่าย', 'รางปีศาจเงินง่าย: การควบคุมของรัฐบาลเหล้าในบริติชโคลอมเบีย', 'หนังสือ', 'หนังสือ', 'หน้าแรกหนังสือ', 'หนังสือพิมพ์']	คำตอบ ไม่ ได้ เขียน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรบนโต๊ะ?\
+	['หนังสือพิมพ์', 'กระดาษพิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์', 'หนังสือพิมพ์พับกลม', 'กระดาษปากกา', 'หนังสือพิมพ์', 'สายพิมพ์พิมพ์พิมพ์', 'หนังสือพิมพ์', 'สายพิมพ์พิมพ์พิมพ์', 'กระดาษปากกา', 'หนังสือพิมพ์']	notebook
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เสื้อนี้สีอะไร\
+	['สีฟ้า สีขาว', 'สีฟ้า สีขาว', 'สีฟ้า สีขาว', 'สีฟ้า สีขาว', 'สีฟ้า', 'สีฟ้า สีขาว', 'สีฟ้าขาว', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า']	สีน้ำเงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['อังเดร ชาร์ดอนเน่', 'ชามเปญ', 'แอนเดร', 'ชามเปญ', 'ไวน์', 'ชามเปญ', 'ชามเปญ', 'ชามเปญ', 'ชามเปญ', 'ชามเปญ']	wine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ชื่อของขายในกระป๋องในรูปคืออะไร?\
+	['ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กาแฟนี้เป็นอะไร\
+	['กีวาเลีย', 'มาร์คซิโม กาเฟีย', 'มาซิโม', 'กีวาเลีย เอสเปรสโซ่', 'มาซิโม', 'กาแฟดํา', 'มาซิโม', 'ตอบไม่ได้', 'กีวาเลีย', 'กีวาเลีย']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ดร.พริก', 'สามารถดร.สอดาพริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร. โซดาพริก', 'ดร.พริก', 'สามารถดร.สอดาพริก', 'ดร.พริก']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมหน่อยได้ไหมว่านี่คืออะไร ขอบคุณครับ\
+	['กาแฟด่วน', 'กาแฟด่วน', 'กาแฟคลาสสิค', 'กระปุกกาแฟ', 'ตอบไม่ได้', 'กาแฟ', 'กาแฟ', 'กาแฟสับ', 'กาแฟ', 'เนสคาเฟ่ คลาสสิค']	กาแฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีสามสายจากซ้ายไปขวาเป็นสีอะไร?\
+	['สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดงดําแดง', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีฟ้า สีขาว', 'สีแดง สีดํา สีขาว']	สีแดง สี ดำ สี ขาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. การตรวจท้องนี้แสดงให้เห็นอะไร\
+	['1 เส้น', 'สลบ', 'สลบ', '1 เส้น แต่สีกระจาย ลองอีก', 'ตอบไม่ได้', '1 สาย', 'ไม่มีภาพ', 'สายสีแดง', 'ตอบไม่ได้', 'สีฟ้า สีแดง']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ชื่อของเครื่องเทศนี้คืออะไร?\
+	['คุณนาย สับผสมพริกมะนาวสด', 'ดาช', 'คุณนายดัช', 'คุณนายดัช พริกมะนาว', 'คุณนายดัช', 'คุณนายดัช', 'พริก', 'คุณนายดัช', 'คุณนายดัช', 'คุณนายดัช']	pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวัสดีค่ะ มีเครื่องดื่มชนิดไหนในขวดที่มือขวาฉัน ขอบคุณ\
+	['พีปซี', 'โซดาเพปซี่', 'เพปซี่เบา', 'เพปซี่เบา', 'เพปซี่เบา', 'พีปซี', 'เพปซี่เบา', 'การกินเพปซี', 'เพปซี่เบา', 'เพปซี่เบา']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เกมวีดีโอ', 'เกมวีดีโอ', 'เกมบาสเกตบอล', 'เกมวีดีโอ', 'ตอบไม่ได้', 'DVD', 'ตอบไม่ได้', 'เกม', 'เกมวีดีโอ', 'DVD']	ไม่สามารถ เห็น ภาพ ด้าน หลัง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่มันอะไรกัน\
+	['เซตชัพ', 'เซตชัพ', 'เซบเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็ม', 'แพ็คเคชัป', 'แพ็คเคชัป', 'เซตชัพ', 'เซตชัพ', 'แพ็คเคชัป', 'เซตชัพ', 'เซตชัพ']	ส่วนผสม ของ ซอส มะเขือเทศ เฮ น ซ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เสื้อนี้มีสีอะไร\
+	['สีแดง สีขาว', 'สีน้ําตาล', 'สีแดง สีขาว', 'สายสีขาวแดง', 'สายสีขาวแดง', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว']	สี แดง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระเป๋านี้\
+	['รูปภาพรัฐสภา', 'อัลบั้มเพลง', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ไฟล์ตกรองซึมซึม', 'ธนาคาร', 'บัตร', 'ธูปสูบ']	บุหรี่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กระเบื้องนี้สีอะไร\
+	['สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง']	ม่วง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สื่อสารจะเห็นได้ชัดขึ้นในรูปนั้นไหม\
+	['เบื่อ', 'ใช่', 'ไม่', 'ใช่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ใช่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สินค้าอะไร?\
+	['ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'สามารถ', 'ผัก', 'ผักกาด', 'ตอบไม่ได้', 'ถั่วเขียว', 'fg', 'ตอบไม่ได้']	ผัก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน?\
+	['ผักหอม', 'ผักหอม', 'เนื้อหมู n ถั่ว', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม']	pork beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ไวน์อะไรเนี่ย\
+	['ตอบไม่ได้', 'ครับ', 'ผลิตภัณฑ์วินเทจ 2008 นาส', 'นาช', 'นาช', 'ของที่ระลึกแต่งงาน', 'เนชฉลองแต่งงานกับเดวิด เอ็มม่า 16 กรกฎาคม 2011', 'นาช', 'นาช', 'การฉลองแต่งงาน']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อาหารอะไรกันเนี่ย\
+	['สอสทอด', 'สอสทอด', 'ส้มมะเขือเทศชีวภาพ', 'สอสทอด', 'สอสทอด', 'สอสทอด', 'Muir Glen สูตรปรุงปรุงทอด', 'สอสทอด', 'Muir Glen สูตรปรุงปรุงทอด', 'โตโมโต']	ซอส มะเขือเทศ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กลิ่นอะไรเนี่ย?\
+	['สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่']	สต รอ เบอร์ รี่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่านี่สีอะไรครับ\
+	['สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา']	สีน้ำเงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นั่นอะไร?\
+	['โรงงาน', 'พืชประดับ', 'สีหอม', 'พืชในบ้าน', 'พืชในบ้าน', 'พืชบ้าน', 'โรงงาน', 'พืชบ้าน', 'โรงงาน', 'พืชหญ้า']	พืช
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['วารสาร', 'หนังสือการ์ตูน', 'หนังสือการ์ตูน', 'เกมโต๊ะสําหรับผู้ใหญ่', 'วารสาร', 'หนังสือสี', 'หนังสือคริสต์มาสตาร์ด', 'ไม่แน่ใจว่าผมอ่านภาษานั้นได้', 'บัตรแสดงความยินดีคริสต์มาส', 'หนังตลก']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['ไก่ไก่ไดจอน', 'อาหาร', 'ไก่ไดจอน', 'ไก่ไดจอน', 'ไก่ไดจอน', 'อาหาร', 'ไก่ไดจอน', 'ไก่', 'ไก่ไดจอน', 'ไก่ไดจอน']	ไก่ ดิ จัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กาแฟนี้เป็นอะไร\
+	['กาวาเลีย', 'กีวาเลีย', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'กาวาเลีย', 'กาวาเลีย', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'ภาษาฝรั่งเศส', 'กีวาเลีย แฟรนช์ วานิลลา']	กาแฟ เฟ รน ช์ วา นิล ลา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สิ่งนี้คืออะไร?\
+	['iphone', 'โทรศัพท์', 'โทรศัพท์', 'iphone', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'ฉันโทร', 'สมาชิกสมาร์ทโฟน', 'สมาชิกสมาร์ทโฟน']	โทรศัพท์ มือ ถือ ที่ มี หน้า จอ แสดง ผล
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ธูปบุหรี่', 'ซิเกราตระบาย', 'ธูปบุหรี่', 'ซิเกราตระบาย', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ตอบไม่ได้', 'ธูปบุหรี่', 'ธูปบุหรี่']	ไม่ สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กลิ่นอะไรเนี่ย?\
+	['เนื้อวัว', 'กลิ่นเนื้อวัว', 'เนื้อวัว', 'น้ําผงรสเนื้อวัว', 'เนื้อวัว', 'รสเนื้อวัว', 'น้ําผงรสเนื้อวัว', 'เนื้อวัว', 'รสเนื้อวัวนี้', 'เนื้อวัว']	วัว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ถ้วยใหญ่', 'ถ้วย', 'ถ้วย', 'ถ้วย', 'รักโตโก้คัพ', 'ถ้วย', 'โปปคัพ บางอย่างอื่น', 'ถ้วยสไตรฟอง', 'ถ้วย', 'ถ้วยนี้']	ถ้วย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เป๊ปซี่เบาหรือยังเป๊ปซี่ทั่วไป?\
+	['เพปซี่เบา', 'การกิน', 'ตอบไม่ได้', 'การกิน', 'เพปซี่เบา', 'การกิน', 'การกิน', 'การกิน', 'เพปซี่เบา', 'การกิน']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพแสดงอะไรอยู่?\
+	['โปรแกรม avast', 'การสแกนไดรฟ์ท้องถิ่น', 'หน้าต่าง', 'ข้อความผิดพลาด', 'การสแกน', 'แอวสต้าท์ โปรแกรมสแกน Windows XP', 'หน้าต่าง', 'ตอบไม่ได้', 'windows xp', 'ตอบไม่ได้']	ภาพแสดงหน้า จอ คอมพิวเตอร์ ที่ มี ข้อความ \" อุปกรณ์ ไม่ ได้ รับ การ รับรอง \"
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กรุณาบอกผมว่าผมอยู่บนจอไหน? ผมกําลังพยายามเข้าสู่เมนูการเริ่มต้นและผมกําลังพยายามเริ่มต้นจาก USB drive. ลองดูว่าคุณสามารถบอกผมว่าจอไหนเปิดและตัวเลือกคืออะไร?\
+	['กดลูกศรลงครั้งหนึ่งแล้วใส่สําหรับ usb', 'เบนเมนูในการ boot จากตัวเลือก hdd', 'ตอบไม่ได้', 'อารมณ์ของลูก', 'กรุณาเลือกอุปกรณ์การ boot', 'กรุณาเลือกอุปกรณ์การ boot:', 'กรุณาเลือกเครื่อง boot hdd: pm st9250315as', 'กรุณาเลือกอุปกรณ์การ boot', 'หน้ากาก: กรุณาเลือกอุปกรณ์บูท เลื่อนลูกศรลง 1 จุดไปยัง usb:usb disk pro', 'กรุณาเลือกอุปกรณ์การ boot']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่ารสอะไร\
+	['การกิน dr พริก', 'การกิน dr พริก', 'dr การกินพริก', 'ดร.พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'โคล่า', 'การกิน dr พริก', 'การกิน dr พริก']	มี รส ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ซุปอะไรเนี่ย\
+	['ซุปผัก', 'โปรแกรม', 'เร่งเร่ง', 'ตอบไม่ได้', 'พืชผัก progresso', 'ตอบไม่ได้', 'ผัก', 'พืชผัก progresso', 'ผัก', 'โปรแกรม']	progresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกฉันหน่อยว่านี่รถประเภทไหน\
+	['ตอบไม่ได้', 'ลินคอล์น โครน วิคตอเรีย', 'ซีดาน 4 ประตู', 'ลินคอล์น', 'ฟอร์ดครูอนวิคตอเรีย', 'ลินคอล์น', 'เชฟโรเล็ต', 'มงกุฎวิคตอเรีย', 'ตอบไม่ได้', 'โฟร์ด']	รถยนต์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่กาแฟเหรอ?\
+	['กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'Gevalia หมึกสวิส', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'germx', 'ยาล้างมือเชื้อเชื้อ X', 'ยาล้างมือเชื้อเชื้อ X']	ส เปร ย์ แอนตี้ ส เปร ย์ แอนตี้ ส เปร ย์ แอนตี้ ส เปร ย์ แอนตี้ ส เปร ย์ แอนตี้ ส เปร ย์ แอนตี้ ส เปร ย์ แอนตี้ ส เปร ย์ แอนตี้ ส เปร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นั่นอะไรกัน?\
+	['ซุป', 'ผลไม้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้', 'กระเป๋า', 'ซุป']	ไม่สามารถ เห็น ข้อมูล ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไรเนี่ย?\
+	['สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'ผักกาดสีน้ําตาล', 'ไม้', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล']	wood color
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'มือ', 'มือ', 'ตอบไม่ได้', 'มือ', 'มือ', '1 มือขวา', 'มือ', 'มือ', 'มือ']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ปลาบัวปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปัง\
+	['ถ้วย', 'สูง', 'สูง', 'สูง', 'สูง', 'สูง', 'ต่ํา', 'สูง', 'สูง', 'สูง']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่านี่คืออะไร?\
+	['สินค้าสําหรับคนตาบอด', 'cd', 'ซีดีกลับ', 'อุปกรณ์สําหรับแผ่นดิสก์บลิด', 'cd', 'ዲስก', 'หนังสือในซีดี', 'cd', 'สินค้า cd สําหรับคนตาบอด', 'แลนซ์ โดย เจมส์ เฮอร์เบิร์ต DVD']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นั่นอะไร?\
+	['คอมพิวเตอร์ คีย์บอร์ดจอ', 'มอนิเตอร์', 'โมเนอร์คอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'คอมพิวเตอร์', 'โมเนอร์คอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'desktop', 'กราฟ', 'กราฟ']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่ากล่องนี้เขียนอะไร\
+	['น้ําตาลวานิลลาอบ', 'น้ําตาล', 'น้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิล่าอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ']	วอ ร์ ม วานิลา ซู ก้า บอดี้ โลชั่น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรบนจอ?\
+	['หน้าจอติดตั้ง windows', 'ตอบไม่ได้', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าจอสถานะของ windows', 'วินโดว์ติดตั้ง', 'การติดตั้งหน้าต่าง', 'คําแนะนําสําหรับการติดตั้งหน้าต่าง', 'ความก้าวหน้าในการติดตั้งหน้าต่าง', 'การติดตั้งข้อมูล Windows', 'หน้าต่าง']	คำตอบ คือ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['สามารถ', 'สามารถ', 'ตอบไม่ได้', 'ถั่วกระป๋อง', 'สามารถ', 'ผัก', 'ตอบไม่ได้', 'ผัก', 'หมัก', 'หมัก']	ไม่สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นั่นอะไรน่ะ?\
+	['น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'ส้ม', 'น้ําส้ม']	ไม่สามารถ ตอบ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีน้ํามันอะไรในกระป๋องนี้\
+	['ชา', 'นีสเตีย', 'เนสเตีย มะนาว', 'ชาเย็น', 'นีสเตีย', 'นีสเตีย', 'นีสเตีย', 'ชาเย็น', 'ชาน้ําแข็งเนสท์เล่', 'นกเต่า']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่พีซซ่าเปเปอร์โอนี่เหรอ พีซซ่าเปเปอร์โอนี่กับซอสเซส สูเปรีม\
+	['พริก', 'พริก', 'พริก', 'พริก', 'พริก', 'พริก', 'ใช่', 'พริก', 'แม่อร่อย พริกผัดผัด', 'พริก']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณรู้ไหมว่าต้นไม้ตรงกลางเป็นต้นไม้อะไร\
+	['ไม่', 'หญ้า', 'หญ้า', 'หญ้า', 'หญ้า', 'หญ้า', 'ไม่', 'ไม่', 'หญ้า', 'พืชผัก']	หญ้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['แก้ว', 'แก้ว', 'แก้ว', 'แว่นตา', 'แก้วคู่', 'แก้ว', 'แก้วคู่', 'แก้ว', 'แว่นตา', 'แก้วคู่']	แว่นตา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อธิบายสถานที่นี้\
+	['สํานักงาน', 'พื้นที่สํานักงาน', 'สํานักงาน', 'สํานักงาน 2 โต๊ะ ตู้ 2 เก้าอี้', 'สํานักงาน', 'สํานักงาน', 'โต๊ะทํางาน เก้าอี้สํานักงานสีดํา', 'โต๊ะทํางาน', 'โต๊ะทํางาน 2 โต๊ะ', 'สํานักงาน']	สำนักงาน ที่ มี โต๊ะ และ เก้าอี้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['หนังสือพิมพ์', 'ผู้วางแผน', 'หนังสือ', 'หนังสือ', 'บัตร', 'หนังสือพิมพ์', 'ผู้วางแผน', 'หนังสือพิมพ์', 'ลิลลี่ พูลิตเซอร์ แจนดา สไพราล', 'หนังสือพิมพ์']	หนังสือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['แทดี้บียาร์โรส', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมี', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้']	หมี ขาว นั่ง อยู่ บน ชั้น วาง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันสุกอะไรกันเนี่ย?\
+	['เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเล', 'เกลือกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม']	onion sea salt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระปุกนี้\
+	['การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'ดร.พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'dr การกินพริก', 'การกิน dr พริก']	ดร พี ป เปอร์ ดิ เอ ท
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพบนถ้วยนี้คืออะไร?\
+	['การ์ตูน', 'ตัวละครการ์ตูน', 'การ์ตูน', 'คนมองนก', 'ไก่คน', 'ชาย', 'ชายการ์ตูน', 'สกิชนกคนไม้ดวงจันทร์', 'สัตว์', 'การ์ตูน']	ภาพบนถ้วยไม่รวมอยู่ในข้อความที่ให้ความมุ่งมั่น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['คนกลับ', 'เด็กชาย', 'หัวชาย', 'คน', 'หลังหัวใครบางคน ไหล่', 'หลังคน', 'ตอบไม่ได้', 'เสื้อสีเทา', 'เด็กชาย', 'รูปหลังคน']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ผู้พูด', 'ผู้พูด', 'เครื่องเสียงติดผนัง', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด', 'เครื่องเสียงติดผนัง', 'ผู้พูด', 'หมาก', 'ผู้พูด']	ตู้ ไม้ บน ผนัง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนอะไรอยู่?\
+	['เลขโทรศัพท์รถแท็กซี่', 'ไม่มีอะไร', 'ไม่มีอะไร', 'โทรศัพท์', 'รถแท็กซี่เมือง', 'ใบรับ', 'ตอบไม่ได้', 'ดูเหมือนใบตรา', 'สาย', 'รถแท็กซี่เมือง']	ไม่สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['นิวออร์เลี่ยนสไตล์จัมบัลยายา', 'ผสม jambalaya', 'ผสม jambalaya', 'ข้าว', 'มะลาลา', 'ผสม jambalaya', 'ผสม jambalaya', 'ข้าวจัมบัลยายา', 'กล่องที่เตรียมผสมสําหรับข้าว jambalaya แบบนิวออร์เลนส์', 'ผสม jambalaya']	จาน ข้าว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แมคผมสีอะไร\
+	['เงิน', 'สีขาว', 'สีดํา', 'สีขาว', 'เงิน', 'เงิน', 'เงิน', 'เงิน', 'สีขาว', 'เงิน']	สี เงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระปุก?\
+	['ถั่วผักชีวภาพ', 'ถั่วผัก', 'ถั่วผักชีวภาพ', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก']	baked beans
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['น้ํามันสับ', 'ตอบไม่ได้', 'น้ํามันสับ', '3 มะกรูดชีส', 'น้ํามันสับ', 'แม็คชีส', 'น้ํามันสับ', 'อาหารเย็น', 'แมคเนอรินชีส', 'ไส้กระเป๋า']	kraft dinner
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ซาตารีนส์ นิวออร์เลี่ยนสไตล์ จัมบัลยายา', 'ผสม jambalaya', 'ผสม jambalaya', 'ผสม jambalaya', 'ผสม jambalaya', 'ข้าว', 'zatarains jambalaya mix สารสกัด', 'มะลาลา', 'zatarains jambalaya mix สารสกัด', 'ผสม jambalaya']	จาน ข้าว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรกันเนี่ย?\
+	['ของหวานถนนคุณภาพ', 'กล่องของหวาน', 'น้ําตาลหวาน', 'น้ําตาลหวาน', 'ของหวานแข็ง', 'น้ําตาลหวาน', 'น้ําตาลหวาน', 'น้ําตาลหวาน', 'ถนนคุณภาพ', 'น้ําตาลหวาน']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ขอโทษนะ บอกฉันสิว่าเธอเห็นอะไรในรูปนี้\
+	['ตู้เย็น', 'ตู้เย็น', 'ตู้เย็น', 'ตู้เย็นขนาดเล็ก กระเบื้องอ่อนกระเบื้องผนังกระเบื้องผนังกระเบื้องผนัง', 'ตู้เย็น', 'ตู้เย็นขนาดเล็ก', 'ตู้เย็นขนาดเล็ก', 'ประตูตู้', 'ตู้เย็นสีขาว', 'ตู้เย็น']	ตู้ เย็น สี ขาว ขนาด เล็ก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่าสิ่งนั้นเขียนอะไรในกล่อง\
+	['หลานหลานที่น่ารัก', 'เรื่องหลานหลานที่น่ารัก', 'น่ารัก', 'ไม่มีอะไรน่ารักกว่าหลานหลาน', 'มีสิ่งเล็กน้อยที่น่ารักกว่าหลานชายที่ต่อสู้กันเพื่อลูก', 'หลานหลานที่น่ารัก', 'หลานหลานที่น่ารัก', 'มีสิ่งเล็กน้อยที่น่ารักกว่าหลานชายที่ต่อสู้กันเพื่อลูก', 'ตอบไม่ได้', 'หลานหลานที่น่ารัก']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวรรค์ดูยังไง\
+	['สะอาด', 'ตะวันตก ตะวันขึ้น', 'สีฟ้า', 'คืน', 'สีฟ้า', 'สะอาด', 'สะอาด', 'สงบ', 'สีฟ้าอ่อน', 'สีฟ้า สีฟ้าเบากว่า ใกล้แนวฟ้า']	ไม่ดี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เสื้อนี้สีอะไร\
+	['สีแดง', 'สีน้ําตาล', 'สีแดง', 'สีเบจ', 'สีเบจ', 'สีชมพู', 'สีน้ําตาล', 'สีแดง', 'ทอง', 'สีเทา']	สีชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เขาเป็นเด็กชายหรือเด็กผู้หญิง?\
+	['ตอบไม่ได้', 'เด็กชาย', 'เด็กชาย', 'สาว', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย']	เด็กชาย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ช่วยบอกผมหน่อยสิว่านี่เป็นของอะไร\
+	['ผัก', 'ชิวริโอ', 'ผัก', 'ชิวริโอ', 'ตอบไม่ได้', 'ผัก', 'หวานหวาน', 'เชียร์ออส ตอนนี้อร่อยกว่านี้นะฮันนี่', 'น้ําผึ้ง', 'น้ําผึ้ง']	ขนมปัง ข้าวโพด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไรเนี่ย?\
+	['สีแดงสีเหลืองสีขาวสีฟ้า', 'สีขน', 'สีเขียว สีฟ้า สีขาว สีแดง', 'สีหลายสี', 'สีขาว', 'สีขน', 'สีฟ้า สีเขียว สีขาว สีแดง', 'สีขน', 'สีฟ้า สีขาว สีเขียว', 'สีฟ้า สีเขียว สีแดง สีขาว']	สีน้ำเงิน สี เขียว สี ขาว สี ส้ม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['โคโกะร้อน', 'ผสมคาวร้อน', 'ผสมคาวร้อน', 'ผสมคาวร้อน', 'ผสมแคโคอา', 'โคโกะร้อน', 'ช็อกโกแลตร้อน', 'ผสมช็อกโกแลตร้อน', 'แพ็คช็อกโกแลตร้อน', 'ช็อกโกแลตร้อน']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['ตอบไม่ได้', 'แฮมส์เบียร์เบาพิเศษ', 'ไวรัส', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไวรัส', 'ไวรัส', 'ไวรัส', 'ไวรัส', 'แสงพิเศษ']	เบียร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ไก่หรือเซลเลอรี่?\
+	['มะเขือเทศ', 'มะเขือเทศ', 'มะเขือเทศ', 'มะเขือเทศ', 'ไม่', 'มะเขือเทศ', 'ซุปทอด', 'มะเขือเทศ', 'มะเขือเทศ', 'ไม่']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนว่าไง\
+	['macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'Airbook โปร', 'macbookpro', 'macbook pro']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันอยากรู้ว่ามีอะไรอยู่ในกล่องนี้\
+	['ถั่วผัก', 'ถั่วผัก', 'ผัก', 'ถั่วถั่วเผาในซอสทอด', 'สาวเกษตรกรถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ผัก', 'ถั่วผัก', 'ผัก']	ถั่ว อบ ใน ซอส มะเขือเทศ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ไก่', 'ตอบไม่ได้', 'ไก่พาร์เมซานครีม', 'อาหาร', 'อาหารค่ําทีวี', 'อาหาร', 'แม็คชีส', 'อาหาร', 'เมลล์ของมารี คอลเลนเดอร์', 'ไก่พาร์เมซานครีม']	ไม่สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เงินดอลลาร์', 'เงิน 1 ดอลลาร์', 'ดอลลาร์', 'เงิน 1 ดอลลาร์', '1', 'เงิน 1 ดอลลาร์', 'เงินดอลลาร์', 'เงิน 1 ดอลลาร์', 'เงิน 1 ดอลลาร์', 'เงินสหรัฐ 1 ดอลลาร์']	เงิน 1 ดอลลาร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่มันอะไรกัน\
+	['การ์ดเล่น', '2 กษัตริย์', 'คู่กษัตริย์', 'การ์ดเล่น', 'บัตร', 'บัตร', 'การ์ดเล่น', 'คู่', 'บัตร', 'การ์ดเล่น']	การ์ด สี่ ใบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ดําหรือน้ําเงิน\
+	['ตอบไม่ได้', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีเทา', 'สีดําเทา', 'สีดํา']	grey
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรเขียนอยู่บนจอ\
+	['กล่องข้อความการค้นหา google', 'โกเกิล', 'โกเกิล', 'โกเกิล โกเกิลค้นหา ฉันรู้สึกโชคดี', 'โกเกิล', 'ค้นหาใน google', 'ตอบไม่ได้', 'โกเกิล', 'โกเกิล', 'ตอบไม่ได้']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'อาหาร', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมักหมักแบบดั้งเดิม', 'เนื้อหมักหมักแบบดั้งเดิม']	อาหาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่โซดาอะไรกัน?\
+	['ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ระบบรีโมททีวี', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล']	รีโมทคอนโทรล สี ดำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['พืชบ้าน', 'โรงงาน', 'พืชบ้าน', 'โรงงาน', 'โรงงาน', 'โรงงาน', 'โรงงาน', 'พืชในกระถาง', 'โรงงาน', 'พืชในบ้าน']	พืช สี เขียว ใน กระถาง สี ดำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรกันเนี่ย?\
+	['โต๊ะทํางาน', 'คอมพิวเตอร์', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'โต๊ะคอมพิวเตอร์', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'คอมพิวเตอร์โต๊ะเปิด']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรบนโต๊ะฉัน\
+	['ipod touch', 'แอป', 'โทรศัพท์', 'กระดาษโทรศัพท์มือถือ', 'กระดาษโทรศัพท์มือถือ', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'โทรศัพท์']	โทรศัพท์ มือ ถือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันถ่ายรูปอะไร และอะไร\
+	['ipad', 'ถุงกาแฟ iPad ใกล้ๆ', 'เม็ด', 'ipad', 'hulu เข้าระบบ', 'โรคสะเก็ดเงิน', 'เม็ดที่แสดง Hulu plus', 'tablet hulu plus ทางเข้า', 'สกรีน huluplus', 'หน้าจอเข้าใช้งานสําหรับ Hulu plus บนแท็บเล็ต']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ขวดนี้คืออะไร?\
+	['แชมพู', 'แชมพู', 'ตอบไม่ได้', 'ทรีเซม', 'แอบรัก', 'ตอบไม่ได้', 'การดูแลผม', 'แชมพู', 'น้ําหอม', 'แชมพู tresemme']	สระผม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เป็นแบบอะไร\
+	['โซดา', 'สปริต', 'ขวดน้ํามันซ๊อด', 'สปริต', 'ตอบไม่ได้', 'สปริตโซดา', 'สปริต', 'กระปุกสไพร์', 'ตอบไม่ได้', 'สปริต']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สินค้าอะไรกัน\
+	['เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์ เชดาร์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เชฟมิคซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์']	cheddar chex
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['กุ้งควัน', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'พานินี่ไทย', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'สับปะรด', 'พานินี', 'กุ้งควัน', 'พานินี่ไทยหอม']	สัญญาณ ที่ ไม่ ชัดเจน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันพิมพ์ตัวอักษรอะไร เพื่อชนะรางวัล?\
+	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่กระป๋องอะไรกัน\
+	['มะเขือเทศ', 'สอส', 'มะเขือเทศ', 'มะเขือเทศบด', 'สแตน', 'มะเขือเทศ', 'มะเขือเทศ', 'ปริมาณการกิน', 'มะเขือเทศ', 'มะเขือเทศ']	มะเขือเทศ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ชามเคอริกอะไรกัน?\
+	['บ้านโดนัท', 'กาแฟ', 'กล่อง', 'ดอนิต', 'รวมของบ้านโดนัท', 'ดอนิต', 'ดอนิต', 'รวมของโดนัทฮัต', 'ช่องโดนัท', 'การเก็บของดอนัตฮอลล์']	โดนัท
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกชื่อหนังสือนี้หน่อยสิ\
+	['เริ่มต้นของเดือน', 'ตอบไม่ได้', 'ผู้เขียน คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'เพียงชื่อผู้เขียนเท่านั้น ไม่มีชื่อ', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คาสลเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'ตอบไม่ได้']	clive cussler dirk cussler
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เงิน', 'เงิน', 'เงิน 20 ดอลลาร์', 'เงิน', '20 ดอลลาร์', '20 ดอลลาร์', '20 ดอลลาร์', 'เงิน 20 ดอลลาร์', 'บิล 20.00', 'เงิน 20 ดอลลาร์']	10 ดอลลาร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ชามพูหรือน้ําล้างร่างกายเหรอ\
+	['โลชั่น', 'โลชั่นร่างกาย', 'โลชั่น', 'โลชั่นร่างกาย', 'โลชั่นร่างกายกระจ่าง', 'โลชั่นร่างกาย', 'โลชั่นร่างกาย', 'โลชั่น', 'โลชั่นร่างกาย', 'โลชั่นร่างกาย']	sparkling blackberry woods
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในรูปนี้\
+	['ครั๊กเกอร์', 'ครั๊กเกอร์กล่อง', 'กล่องครั๊กเกอร์', 'กล่องครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์']	ภาพ ที่ ไม่ ชัดเจน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปนี้คืออะไร?\
+	['โทรศัพท์', 'macbook pro', 'macbook pro', 'โมเนอร์คอมพิวเตอร์', 'ตอบไม่ได้', 'โน๊ตพ็อต', 'คอมพิวเตอร์', 'macbook pro', 'หน้าจอ macbook pro', 'คอมพิวเตอร์เล็ปโตป']	ภาพ หน้า จอ แล็ ป ท็ อป
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['น้ํา', 'น้ํา', 'น้ํากระจกธรรมชาติ', 'สภาพธรรมชาติ น้ําคริสตัล', 'กระปุกน้ํา', 'กระปุกน้ํา', 'กระปุกน้ํา', 'น้ํา', 'กระปุกน้ํา', 'น้ํา']	ขวด น้ำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่พีซซ่าอะไรกัน\
+	['พริก', 'แม่อ่อน', 'แม่อุ่นดีกับพิซซ่าบาง', 'พริก', 'พิซซ่าแข็ง', 'พริก', 'หนา', 'พริกผัดกระดูกบางจากแม่คอซซิส', 'แม่อุ่นใจกับพริกผัดผัด', 'แม่อ่อน']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระปุกนี้\
+	['ข้าวโพดทั้งตัว', 'ข้าวโพด', 'ข้าวโพด', 'ข้าวโพด', 'ข้าวโพดเมล็ดเต็ม', 'ข้าวโพดเมล็ดเต็ม', 'ข้าวโพด', 'อาหารที่มีคุณค่าสูง สามารถ', 'ข้าวโพด', 'ข้าวโพด']	ข้าวโพด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['หนู', 'หนูคอมพิวเตอร์', 'หนูคอมพิวเตอร์', 'หนูคอมพิวเตอร์', 'หนูคอมพิวเตอร์', 'แมวสาย HP', 'หนูคอมพิวเตอร์', 'มือถือ', 'แมว hp', 'หนู']	เมาส์ คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่มันอะไรเนี่ย?\
+	['สํานักงาน', 'เก้าอี้', 'สํานักงาน', 'เก้าอี้สํานักงาน', 'เก้าอี้', 'เก้าอี้โต๊ะ', 'สํานักงานบ้าน', 'สํานักงาน', '2 เก้าอี้โต๊ะ', 'เก้าอี้']	ห้อง ทำงาน พร้อม โต๊ะ และ เก้าอี้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ทีวี', 'โทรทัศน์', 'โทรทัศน์', 'โทรทัศน์เก่า', 'ทีวี', 'ทีวี', 'มอนิเตอร์', 'หน้าจอโทรทัศน์', 'ทีวี', 'มอนิเตอร์']	ไม่ สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เสื้อผมสีอะไร\
+	['สีดํา สีขาว', 'สีฟ้า สีขาว สีดํา', 'สีดํา', 'สีฟ้า', 'ทหารเรือ', 'สีดํา สีขาว', 'สีดํา สีขาว', 'สีฟ้า', 'สีฟ้า', 'สีดํา สีขาว']	สีน้ำเงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไรเนี่ย?\
+	['สีแดง', 'สีแดง', 'สีแดง', 'สีแดง', 'สีชมพู', 'สีแดง', 'สีแดง', 'สีแดง', 'สีแดง', 'สีแดง']	สีชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ชิปส์ปกติหรือ ชิปส์เกลือและมะขาม?\
+	['เกลือ', 'ปกติ', 'ปกติ', 'ชิปส์ปกติ', 'ปกติ', 'ปกติ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปกติ', 'ตอบไม่ได้']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันกล่องอะไร น้ําส้มหรือนม\
+	['น้ําส้ม', 'น้ําส้ม', 'อย', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'ส้ม', 'น้ําส้ม', 'กระดาษกล่อง น้ําส้ม']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่านี่คืออะไร?\
+	['ชิปส์', 'ชิปส์', 'ชิปส์', 'ชิปฝรั่ง', 'ชิปฝรั่ง', 'ชิปกระเทียมครีมกรด', 'ชิปส์', 'ชิปฝรั่ง', 'ชิปส์', 'ชิปฝรั่ง']	ภาพ ชาม มันฝรั่ง ทอด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระเป๋านี้\
+	['ตอบไม่ได้', 'ผักแข็ง', 'ผัก', 'แครอต ถั่วข้าวโพด ถั่วเขียว', 'ผัก', 'ผักกาด แครอต ข้าวโพด', 'ผักผสม', 'ผัก', 'ผักผสม', 'ข้าวโพด แครอท ถั่วเหลือง ถั่ว']	ผัก ผสม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สปาร์คนี่รสอะไรกัน\
+	['น้ํามะนาวสีชมพู', 'น้ํามะนาวสีชมพู', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู', 'ส้ม', 'สตรอเบอร์รี่', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู']	ส้ม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน?\
+	['มังวัช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'มังวัช', 'มังวัช', 'มังวัช', 'มะเขือเทศ', 'มังวัช', 'มังวัช', 'โจจ้ที่ไม่ระวัง']	ไม่ สามารถ เห็น รูปภาพ ด้าน หลัง กระป๋อง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฤดูกาลไหนกัน?\
+	['สปาเกตติ', 'สปาเกตติ', 'สาหร่ายสปาเกตติ', 'สาหร่ายสปาเกตติ', 'สปาเกตติ', 'สาหร่ายสปาเกตติ', 'สาหร่ายสปาเกตติ', 'สปาเกตติ', 'สปาเกตติ', 'สาหร่ายสปาเกตติ']	seasoning
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['หนังสือ', 'วารสาร', 'หนังสือพิมพ์ตั้ง', 'วารสาร', 'หนังสือพิมพ์ตั้ง', 'วารสาร', 'วารสาร', 'วารสาร vertigo', 'วารสาร', 'วารสาร']	magazine
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สิ่งนี้คืออะไร?\
+	['ผนัง', 'ผนัง', 'ผนัง', 'ผนัง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผนัง', 'ผนัง', 'ผนัง']	ภาพ ไม่ชัด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['น้ําตาลหวาน', 'แคร์ดแคนดี้สตรอเบอรี่', 'น้ําตาลหวาน', 'แคร์ดแคนดี้สตรอเบอรี่', 'ของหวาน', 'ธารกาด', 'สกัด', 'ธารกาด', 'น้ําตาลหวาน', 'แคร์ดแคนดี้สตรอเบอรี่']	candy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รองเท้านี้สีอะไร\
+	['สีน้ําตาล', 'สีดํา', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'ขา', 'สีน้ําตาล', 'สีเขียว']	สี น้ำตาล
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['หน้าจอคอมพิวเตอร์', 'หน้าเว็บ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เว็บไซต์', 'หน้าจอคอมพิวเตอร์', 'โมเนอร์คอมพิวเตอร์', 'สาระ', 'ไฟล์ pdf สําหรับ vizwiz', 'vizwizpdf สับสน แต่สามารถดูส่วนผู้มีส่วนร่วม']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปนี้คืออะไร?\
+	['มอนิเตอร์', 'โน๊ตพ็อต', 'โทรทัศน์', 'คอมพิวเตอร์', 'โน๊ตพ็อต', 'โทรทัศน์', 'ทีวีจอแบน', 'หน้าจอของแลปท็อป', 'โทรทัศน์', 'ตอบไม่ได้']	ภาพ หน้า จอ คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'พีเจอร์', 'ตอบไม่ได้', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือแบล็คเบอรี่', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ']	โทรศัพท์ มือ ถือ สี แดง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตู้เย็น', 'ตอบไม่ได้', 'ตู้เย็น', 'ตู้เย็นห้องพัก', 'ตู้เย็น', 'ตู้เย็น', 'ตู้เย็น', 'ตู้เย็นขนาดเล็ก', 'เครื่องเย็น', 'ตู้เย็นขนาดเล็ก']	ตู้ เย็น สี ขาว ขนาด เล็ก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมควรใส่เครื่องประดับสีไหนกับชุดนี้\
+	['เงิน', 'เงิน', 'สีขาว', 'ทอง', 'สีดํา', 'เงิน', 'เงิน', 'เงิน', 'เงิน', 'เงิน']	สีชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ขา', 'กางเกงกางเกง', 'หนวด', 'กางเกงขา', 'โซฟาแขน', 'กางเกง', 'หมอน', 'ตอบไม่ได้', 'ขากางเกง', 'ขา']	ไม่สามารถ เห็น ภาพ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['สุนัข', 'ตอบไม่ได้', 'สุนัข', 'สุนัข', 'สุนัข', 'สุนัข', 'สุนัข', 'สุนัข', 'ตอบไม่ได้', 'สุนัขบนพื้น']	สุนัข
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'เครื่องควบคุมทีวี', 'ระบบรีโมททีวี', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล']	รีโมทคอนโทรล
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กล้วยพวกนี้เขียวหรือเหลือง?\
+	['สีเขียวบาง', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง', 'สีเขียว', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง']	เหลือง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สินค้าอะไรเนี่ย?\
+	['ผัก', 'คาชิ โก ผอม แข็ง น้ําผึ้ง อมดอล์ด แลน', 'คาชิ ไปคราง', 'โกเลียน ครัช คาชิ', 'ผัก', 'ไปกินข้าวผัดผัด', 'ไปลดความอ่อนแอ', 'คาชิ โก ผอม แข็ง น้ําผึ้ง อมดอล์ด แลน', 'ผัก', 'ผัก']	กอง ข้าว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ตอนนี้มีอะไรอยู่บนจอทีวี?\
+	['ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ไม่มีอะไร']	nothing
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เนื้อ', 'สเต็กเนื้อวัว', 'เนื้อวัว', 'สเต็ก', 'เนื้อ', 'เนื้อ', 'ตอบไม่ได้', 'สเต็กเนื้อวัว', 'สเต็ก', 'เนื้อ']	สเต็ก เนื้อ สัตว์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ข้อความนี้บอกว่าอะไร\
+	['ตอบไม่ได้', 'ซ่อมซ่อมครบ', 'ตอบไม่ได้', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'ตอบไม่ได้', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อาหารอะไรอยู่ในกระป๋องนี้\
+	['ซุป', 'progresso ซุปผักสวน', 'ซุปผักสวน', 'ซุปผัก', 'ซุปผักสวน', 'ซุปผักสวน', 'ซุป', 'progresso ซุปผักสวน', 'ผักสวน', 'ซุปผักสวน']	ซุป ผัก หลากหลาย ชนิด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'สามารถ', 'ซุปหญ้ากระจาย', 'ซุปหญ้ากระจาย', 'ซุปหญ้ากระจาย', 'ซุปหญ้ากระจาย', 'ซุป', 'สามารถแยกซุปข้าวหอมได้', 'ซุปหญ้ากระจาย', 'ซุป']	ไม่ สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เป็นโซฟาหรือโต๊ะ?\
+	['ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'โต๊ะนี้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อาหารอะไรอยู่ในกระป๋องนี้\
+	['ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'ข้าวโพด', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'อาหารราวิโอลี', 'ราวิโอลี']	รAVIOLI
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรบนจอ?\
+	['ข้อความผิดพลาด', 'pop ups สําหรับการเริ่มต้น ซ่อมแซมคอมพิวเตอร์ restart', 'เปิดใหม่', 'กล่องโต้ตอบที่บอกว่าคุณแน่ใจว่าคุณต้องการออกจากการเริ่มต้นการซ่อมแซม restart คอมพิวเตอร์ของคุณ', 'การซ่อมแซมการเริ่มต้น', 'คําแนะนําการอัพเดท windows', 'ตอบไม่ได้', 'การซ่อมแซมการเริ่มต้น', 'ตัวเลือกการเริ่มต้นใหม่ของคอมพิวเตอร์', 'การซ่อมแซมการเริ่มต้น']	คำตอบ ไม่ ได้ ใน ภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ลองดูสิ คุณบอกผมได้ไหมว่านี่คืออะไร?\
+	['ผัก', 'ถั่วผัก', 'ผัก', 'ถั่วผัก', 'ผักกาด ถั่วผัก', 'สามารถ', 'ถั่วกระป๋อง', 'ผักกาด ถั่วผัก', 'ถั่วผัก', 'ผัก']	ไม่สามารถ เห็น รูปภาพ ด้าน หลัง กระป๋อง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่านี่โทรศัพท์อะไร\
+	['L g', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'แอนดรอยด์', 'lg', 'ใช่']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['สมาชิกสมาร์ทโฟน', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'สมาชิกสมาร์ทโฟน', 'โทรศัพท์', 'โทรศัพท์']	โทรศัพท์ มือ ถือ สี ขาว วาง อยู่ บน โซฟา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['โน๊ตพ็อต', 'มือ', 'คีย์บอร์ดคอมพิวเตอร์', 'มือ', 'นิ้ว', 'มือ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โต๊ะทํางาน', 'มือ']	มือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['คาเบิร์น 2009', 'ไวน์', 'ไวน์', 'ไวน์', 'ผักกาด', 'ไวน์ขวด', 'ไวน์', 'ไวน์', 'สวรรค์ม้า โคลัมเบีย คาเบิร์เนท 2007', 'ไวน์']	ไวน์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในขวดนั่น\
+	['โค๊ก', 'โซดา โป๊ บางทีโคกากอล้า', 'โซดา', 'โคกะ โคลา โซดา', 'โซดา', 'โซดา', 'โค๊ก', 'โซดา', 'โค๊ก', 'โซดา']	น้ำอัดลม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไรนะครับ\
+	['สายสีขาวแดง', 'สีแดง', 'สายสีขาวแดง', 'สายสีขาวแดง', 'สีแดง สีขาว', 'สีขาว สีแดง', 'เสื้อ', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว']	สีแดง สี ขาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระเป๋านี้\
+	['โบรคโคลี', 'โบรคโคลี', 'โบรคโคลี', 'โบรคโคลี', 'โบรคโคลี', 'แต่บรอคโคลี', 'โบรคโคลี', 'โบรคโคลีตัด', 'ควาย n เซอร์สั่นบรอคโคลีตัด', 'โบรคโคลี']	บ รอก โค ลี หั่น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ใบรับจ้างนั่นเป็นของอะไร\
+	['ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ตโยปไลท์ 10$', 'โยปไลท์', 'ยอเกิร์ตโยปไลท์ 10$', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ลด', 'ยอเกิร์ต']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกันเนี่ย?\
+	['นีสเตีย', 'ชาเย็นกระป๋อง', 'ส้ม', 'เนสเตีย มะนาว', 'นีสเตีย', 'นีสเตีย', 'นีสเตีย', 'นีสเตีย', 'ฟีสต้า', 'นีสเตีย']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ipad', 'เม็ด', 'คอมพิวเตอร์', 'ipad', 'แพดหนู', 'โน๊ตพ็อต', 'หน้าต่าง', 'เม็ด', 'ตอบไม่ได้', 'ipad']	ipad
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรบนจอ?\
+	['คุณต้องการฟื้นฟู comp ของคุณโดยใช้ระบบฟื้นฟู ป๊อปอัพ', 'ข้อความผิดพลาด', 'คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ', 'การเริ่มต้น', 'การเริ่มต้นการตรวจสอบหน้าจอ', 'คําถามการฟื้นฟูระบบ: คุณต้องการใช้ฟื้นฟูคอมพิวเตอร์ของคุณ', 'การซ่อมแซมการเริ่มต้น', 'การซ่อมแซมการเริ่มต้น', 'คําถามเพื่อรีสโฟตคอมพิวเตอร์', 'คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ']	คำตอบ ไม่ ได้ อยู่ ใน ข้อความ ที่ จัด แสดง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่โซดาอะไรบ้าง ขอบคุณมากที่มาตอบ\
+	['สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนอะไรบนจอ?\
+	['คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยระบบ CD', 'การฟื้นฟู', 'คุณต้องการฟื้นฟูคอมพิวเตอร์ของคุณโดยใช้ระบบ', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้นได้ เริ่มการซ่อมแซม ตรวจสอบระบบของคุณเพื่อหาปัญหา', 'คุณต้องการฟื้นฟูคอมพิวเตอร์ของคุณโดยใช้ระบบ', 'การซ่อมแซมการเริ่มต้น', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้น', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้นได้ การซ่อมเครื่องเริ่มต้นตรวจสอบระบบของคุณเพื่อหาปัญหา', 'คอมพิวเตอร์ไม่สามารถเริ่มต้น', 'การฟื้นฟู']	เครื่อง คอมพิวเตอร์ ของ คุณ ไม่สามารถ เริ่ม ทำงาน ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระปุกนี้\
+	['ผัก', 'ราคา', 'ผักผสม', 'ผักแท้', 'ผักผสม', 'ผัก', 'ผัก', 'ผัก', 'ผัก', 'ผักผสม']	ผัก ผสม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณเห็นอะไรในรูป คุณเห็นอะไรในรูป\
+	['ไม่มีอะไร', 'สวรรค์', 'ซิงค์', 'สวรรค์', 'ตอบไม่ได้', 'สวรรค์', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สวรรค์']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ซ๊อดซอปแบบไหน\
+	['โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า 0', 'โคกะ โคล่า 0', 'โค๊ก 0', 'โคกะ โคล่า 0', 'โคกะ โคล่า 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ระบบอะไรกันเนี่ย\
+	['desktop', 'ตอบไม่ได้', 'หน้าต่าง', 'คอมพิวเตอร์ desktop', 'หน้าต่าง', 'หน้าต่าง', 'หน้าต่าง', 'Windows PC', 'หน้าต่าง', 'หน้าต่าง']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรนะ?\
+	['ผู้พูด', 'ผู้พูด', 'ชั้น', 'ผู้พูด', 'ระบบเสียงดัง', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันติดตามแสงบนแล็ปท็อปเหรอ\
+	['ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ไม่', 'ใช่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่ากล่องนี้เขียนอะไร\
+	['โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลอุ่น วานิลลา']	วอ ร์ ม วานิลา ซู ก้า บอดี้ โลชั่น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้มั้ยว่าเบอร์ที่ 1-800 บนบัตรนี้ และคุณได้ยินคําถามนี้ไหม\
+	['1 800 735 2929 ไม่ได้ยินคุณ', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 ไม่มี', '18773289677 ไม่มี', '1 877 328 9677', '8007352929 ไม่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ไฟในห้องเปิดหรือปิด?\
+	['ไฟดับ', 'ออกไป', 'ใน', 'ออกไป', 'ใน', 'ตอบไม่ได้', 'ใน', 'ใน', 'ใน', 'ใน']	open
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กลิ่นอะไรเนี่ย?\
+	['ผักกาด', 'น้ํามะนาวสีชมพู', 'พันช์ผลไม้', 'น้ํามะนาวสีชมพู', 'น้ํามะนาวสีชมพู', 'ตอบไม่ได้', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู', 'ผักกาด', 'น้ํามะนาวสีชมพู']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ข้อความนี้บอกว่าอะไร\
+	['การฟื้นฟูเสร็จ', 'ตอบไม่ได้', 'การฟื้นฟูสําเร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การลงทะเบียนเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เสื้อผมสีอะไร\
+	['สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว']	สีขาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['แชมพูการรักษาสีที่พัฒนา', 'แชมพู', 'แชมพูการรักษาสีที่พัฒนา', 'แชมพู', 'แชมพูบําบัดสี', 'แชมพู', 'การรักษาด้วยสี', 'แชมพู', 'การรักษาสีที่ผ่านการพัฒนา', 'การรักษาด้วยสี']	ผม สี ฟ้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['กระป๋อง', 'อาหารแมว', 'ตอบไม่ได้', 'ซิงค์', 'สามารถ', 'ซิงค์', 'การซักผ้า', 'ซิงค์', 'ซิงค์', 'สามารถ']	ไม่ สามารถ เห็น ขวด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เกมวีดีโออะไรกันเนี่ย?\
+	['สเปน นฟล 2k', 'ฟุตบอล', 'Nfl 2k', 'สเปน เอ็นเอฟเอล 2k5', 'สเปน 2k5', 'สเปน 2K ฟุตบอล', 'Nfl 2k', 'ฟุตบอล', 'Nfl 2k', 'ฟุตบอล']	espn 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['พานินี', 'พานินี', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'สตูฟเฟอร์ ปาเนนนีไทยสูบ', 'พานินี่ไทย', 'ตอบไม่ได้', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม']	ไก่ งวง ปิ้ง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรอยู่ในกล่องนี้\
+	['ลาซาเนีย', 'อาหารเย็นแข็ง', 'ลาซาเนียพิเศษ', 'ลาซาเนียพิเศษ', 'ลาซาเนีย', 'ลาซาเนียพิเศษ', 'ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนีย']	พิซซ่า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สิ่งนี้คืออะไร?\
+	['สีธรรมชาติ ควันทุ่งช็อกโกแลตเข้ม บาร์กรานอล่า', 'แบรนซ์บาร์', 'สตาร์กรานอล่า', 'สตาร์กรานอล่า', 'สตาร์กรานอล่า', 'สตาร์กรานอล่า', 'หมักหมักหมักหมัก', 'หมักหญ้า n ช็อกโกแลตเข้ม แบรนด์กระจ่าง', 'ช็อกโกแลตเข้ม บาร์กรันโอลลา', 'สตาร์กรานอล่า']	ช็อค โก แล ต
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['เกมวีดีโอ', 'เกม PlayStation 2', 'เกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกม', 'เล่นเกมสตาร์วอร์ส', 'เกมวีดีโอ', 'เกมวีดีโอ', 'สตาร์วอร์ส แบททลฟอร์น 2', 'เกม', 'เกม PlayStation 2', 'เกมส์ไซ']	ไม่ สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่คาวเฟย์เมทเหรอ\
+	['วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'นกเต่า', 'วาเนลล่า', 'วาเนลล่าฝรั่งเศส', 'คาเฟ่เมท', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส']	coffee-mate french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['น้ําส้ม', 'น้ํามัน', 'น้ํามัน', 'น้ําส้ม', 'น้ํามัน', 'สวยเนียน', 'เนียน n มีน้ําตาล', 'น้ํามัน', 'น้ําส้ม', 'น้ํามัน']	ส้ม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หินในหูนี่มีสีอะไร\
+	['สีชมพู', 'สีแดง', 'สีแดง', 'สีชมพู', 'สีม่วง', 'สีชมพู', 'สีชมพู', 'สีชมพู', 'สีชมพู', 'สีชมพู']	สีชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กล่องเครื่องอิเล็กทรอนิกส์นี้เขียนว่าไง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สกรีนนี้บอกว่าอะไรแน่ๆ ถ้าคุณอ่านได้\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่สามารถอ่านหน้าจอได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อ่านได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในขวดนี้\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โลชั่น', 'วิตามิน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่แน่ใจ', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แรสชาติของบาร์พลังงานนี้เป็นอะไร\
+	['สตรอเบอร์รี่', 'แมงค์มอนด์ครัช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แอปเปิ้ลครัช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แมงค์มอนด์ครัช']	เบอร์ รี่ อ ล มั ส ครั้ก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนว่าไง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ให้ระวัง', 'n', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ข่าว', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อาหารอะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมกําลังพยายามหาว่านี่เป็นวิทยุชนิดไหน ข้อมูลอะไรก็ได้ เพื่อผมจะได้วิทยุของผมเอง\
+	['ไม่รู้สิ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาจเป็นโฮม ip9 สเปคเกอร์ด็อก', 'ตอบไม่ได้', 'หมูขนม', 'ตอบไม่ได้', 'พกพา', 'ตอบไม่ได้', 'ตอบไม่ได้']	วิทยุ mp3
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันขอโทษมาก ฉันไม่รู้วิธีการ ฉันไม่เคยถ่ายรูปของสิ่งนี้มาก่อน\
+	['ย้ายออกไปอีกนิด เพื่อให้กล้องจับ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพยนตร์ไหนดีที่สุด\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ง่าย']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['สไลด์นี้', 'สีชมพู', 'ตอบไม่ได้', 'สีม่วง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แสงสว่าง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ชื่อของน้ํายานี้คืออะไร?\
+	['ตอบไม่ได้', 'โรคสะเก็ดเงิน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันหมดอายุเมื่อไหร่?\
+	['9.27.13', 'ตอบไม่ได้', 'ตอบไม่ได้', '23 กันยายน 2013', '23 กันยายน 2013', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '23 กันยายน 2013', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันทําอาหารนี้นานแค่ไหน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', '5 นาที', 'ตอบไม่ได้', 'ตอบไม่ได้', '5 นาที', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['คลีนเน็กซ์', 'มุม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โทรศัพท์', 'ตอบไม่ได้', 'ตอบไม่ได้']	ห้อง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ ไม่ ชัด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เพลงอะไรเนี่ย\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แบ็กในภาพ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผักกะปิ']	สัตว์ มี เขา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันบอกว่าใต้หน้าต่างไม่สามารถซ่อมระบบนี้ได้โดยอัตโนมัติ มันบอกว่าเริ่มต้นอะไรบางอย่าง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'การซ่อมเครื่องเริ่มต้นไม่สามารถซ่อมเครื่องคอมพิวเตอร์นี้ได้โดยอัตโนมัติ', 'ตอบไม่ได้', 'การเริ่มต้น', 'การเริ่มต้นการซ่อมไม่สามารถซ่อมคอมพิวเตอร์นี้ได้โดยอัตโนมัติ', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ซาโดเรียมในกระเป๋านี้มากแค่ไหน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โซมาอัส', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บนจอมันบอกว่ามันกําลังฟื้นฟูอยู่เหรอ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผ้าม่านอะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เรียนต่อ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ชื่อของการชะนี้นี่คืออะไร?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '0', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไร?\
+	['สีแดง สีขาว', 'ตอบไม่ได้', 'สีขาว', 'สีขาว', 'ตอบไม่ได้', 'สีแดง สีขาว', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ช่วยอธิบายให้ฟังว่า ใบที่ติดอยู่บนรูเตอร์ของฉันบอกว่า ขอบคุณ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. วันหมดอายุของบัสพาสนี้คืออะไร?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แค่พูด\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เขียนว่าไง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'แถว คอลัมน์ เลขไม่ชัดเจน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เวลากี่โมงแล้ว\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แฟลชบนกล้อง rendering clock ไม่สามารถอ่าน', 'ไม่เห็น', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่รู้จะบอก', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกวิธีใช้ชมพูนี้ได้ไหมครับ ขอบคุณครับ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'edfcfd', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีปุ่มที่ต้องกด เพื่อให้มันเริ่มใหม่ หรือฉันแค่รอ\
+	['การดําเนินงานของระบบ', 'ตอบไม่ได้', 'ใช่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'รอ', 'ติดต่อ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ถ้าบัตรนี้แสดงในรูปนี้ มันบอกว่าอะไร\
+	['ตอบไม่ได้', 'ไม่แสดง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีคําพูด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	บัตร ไม่ ได้ รับ การ รับรอง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. การทดสอบ?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ระยะไกล', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ระยะไกลเสียงรอบ', 'คําถามไม่ได้ใช้กับภาพ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คมพ์เกอร์จริง\
+	['ตอบไม่ได้', 'ไม่ทราบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมกําลังจัดการกับแคปตช่า แต่ผมมองหน้าจอไม่ได้ และผมต้องการมันเพื่อขออะไรจากเว็บไซต์ คุณบอกผมได้ไหมว่า แคปตช่าคืออะไร?\
+	['ไม่ 1', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมรู้ว่ามันบอกว่าสิบพระบัญชา แต่สิบพระบัญชาคืออะไร?\
+	['กําหนดกฎที่พระเจ้าให้แก่ผู้ศรัทธา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กฎศีลธรรม', 'ตอบไม่ได้', 'คําสั่งของพระเจ้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กฎหมาย', 'ตอบไม่ได้']	คำตอบคือข้อความไม่ครบถ้วน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หน้าจอคอมพิวเตอร์ผมบอกว่าไง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สับสนเกินไป', 'หน้าจอว่าง']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อาหารมื้อใหม่อะไรกัน?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ฉันไม่เห็นอาหารเสริมเด็ก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพไม่ชัด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ยาอะไรเนี่ย?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บัตรอะไรนี่\
+	['ตอบไม่ได้', 'บัตรเครดิตสีแดง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'บัตรเครดิต', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บัตรนี้เขียนว่าไง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เห็นได้เพียง 1 6 12', 'ตอบไม่ได้', 'ไม่มีอะไร', 'ตอบไม่ได้', '1 6 12', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ผ้าปู', 'สินค้า', 'ตอบไม่ได้', 'นม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'น้ําตา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่ สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. โอเค นี่เนื้ออะไรกันนะ\
+	['สายต่อจอ', 'ds', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เนื้อวัว', 'ตอบไม่ได้', 'เนื้อวัว', 'ตอบไม่ได้', 'ตอบไม่ได้']	14g
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่การ์ดของขวัญอะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพที่ไม่น่าตอบ', 'ตอบไม่ได้', 'ไม่รู้จะบอก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อาหารกระป๋องอะไรกัน?\
+	['ผักกาด', 'ตอบไม่ได้', 'ผักกาด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผักกาด', 'ตอบไม่ได้', 'ผักกาด']	มะนาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เวลากี่โมงแล้ว\
+	['ตอบไม่ได้', '532', 'ตอบไม่ได้', 'ตอบไม่ได้', '5:13', '5:13', 'ตอบไม่ได้', '5:10', 'ตอบไม่ได้', 'ตอบไม่ได้']	6:12
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สินค้าในกระป๋องนี้คืออะไร?\
+	['ไม่รู้จะบอก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่าอุณหภูมิเตาอบแบบปกติเป็นเท่าไหร่ และนานแค่ไหน และผมต้องการเจาะฝาไหม ขอบคุณมาก\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ASDD', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เตาอบนี้พร้อมแล้วเหรอ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่เปลือก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใช่ ฉันว่าพร้อมแล้ว', 'ไม่', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นั่นช่วยอะไรมั้ย\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีรหัสอะไรที่ต้องพิมพ์\
+	['ตอบไม่ได้', 'อีเมล', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมใส่เสื้อแบบไหน\
+	['ตอบไม่ได้', 'สีไหม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีขาว', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่าอาหารเย็นแบบไหนน่ะ ขอบคุณ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนว่าไง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพว่าง', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ยี่ห้ออะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซานโย', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	โทรศัพท์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. วัดอุณหภูมิเตาอ่างเป็นอย่างไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'gfdsg', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่า มีอะไรอยู่ในขวดนี้\
+	['สอสทอด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สอสปาต้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สอสทอด', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนว่าไง\
+	['ตอบไม่ได้', 'แท็บเล็ต azithromycin 250mg', 'เม็ด', 'ตอบไม่ได้', 'ตอบไม่ได้', '250 มิลลิกรัม', 'แผ่น azithromycin', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณอ่านคํานี้ได้ไหมครับ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีคําพูด']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่วาลิอุมเหรอ?\
+	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่สามารถอ่านชื่อยาได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เพลงอะไรเนี่ย?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'เน็ตเพลง', 'ตอบไม่ได้', 'อัลบั้ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'จิงจิง', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ใช่นี่คอมพิวเตอร์แล็ปท็อป HP ผมต้องการรู้ว่าเครื่องอ่านบัตรอยู่ที่ไหน เมื่อเทียบกับคีย์บอร์ด ขอให้ละเอียดมากที่สุดครับ ขอบคุณครับ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ด้าน', 'ตอบไม่ได้', 'ผมมองไม่เห็นเครื่องอ่านบัตร SD โดยปกติจะอยู่ด้านหน้ามุมซ้าย', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ด้านขวา ของ คีย์บอร์ด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ชื่อของน้ําหอมคืออะไร?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีชื่อ', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แรมนี่อะไรกัน?\
+	['ตอบไม่ได้', 'คลิก o444', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ddr sdram pc3200', 'ไม่รู้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ddr']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมเข้าใจนะ แต่รถขาวหลังดูบิด\
+	['ตอบไม่ได้', 'ไม่', 'ภาพจากด้านหน้า ผมไม่เห็นอะไรแปลกๆ', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'n0', 'ตอบไม่ได้', 'ไม่', 'ไม่']	รถ สี ขาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ซุปอะไรเนี่ย\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไก่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สิ่งใดที่เห็นบนหน้าจอของคอมพิวเตอร์\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	คำตอบไม่รวมอยู่ในข้อความที่ จัด แสดง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรนะครับ\
+	['ตอบไม่ได้', 'ซุป', 'ซุป', 'ซุปกระป๋อง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้']	ไม่ สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่มันอะไรกัน\
+	['กระเบื้อง', 'กระดาษผ้าเช็ด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กระดาษผ้าเช็ด', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันรสอะไรกัน?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปกติ', 'แท้', 'ตอบไม่ได้', 'หันไป', 'ไส้', 'ภาพ']	pringles
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปไหนใน 3 รูปคือโลโก้ของ Google\
+	['ตอบไม่ได้', '0', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพแรก', 'ซ้าย']	ภาพที่ 2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ไม่แน่ใจ', 'สับสน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใบสัญลักษณ์', 'ตอบไม่ได้']	ไม่สามารถ เห็น ภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีหินหายไปบ้างไหม\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'คุณภาพภาพภาพไม่เพียงพอ', 'ตอบไม่ได้', 'ไม่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันอยากรู้ว่านี่คือน้ําหอมยี่ห้อไหน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. วันหมดอายุของชีสนี้คืออะไร?\
+	['น', 'ไม่อ่าน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เทอร์โมสแตตตั้งอุณหภูมิเท่าไหร่\
+	['ตอบไม่ได้', 'ตอบไม่ได้', '75', 'ตอบไม่ได้', '75', 'ตอบไม่ได้', '75', '75', 'ตอบไม่ได้', 'ไม่เห็น']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เสื้อนี้สีอะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้']	ดำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรเขียนบนหน้าจอ\
+	['ข้อความความผิดพลาดการรีบอท', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'sys', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. โซดานี้เป็นอะไรครับ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่แน่ใจ', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรนะ?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกฉันหน่อยสิว่านี่เขียนอะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กล่อง', 'ตอบไม่ได้', 'กล่องเล็ก', 'ตอบไม่ได้']	ไม่สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เตรมัสเตตตั้งอุณหภูมิเท่าไหร่\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อ่านได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กระปุกนี่อะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่รู้สิ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันสามารถได้รับตัวละครทั้งหมดในครั้งนี้ได้หรือไม่\
+	['อารอเบอร์กี้ ชาเวซ', 'ตอบไม่ได้', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'อารอเบอร์กี้ ชาเวซ', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ใช่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คีย์สินค้าสําหรับเวอร์ชั่นนี้ปิด\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มาสิ ฉันกําลังรับเรื่องการรอ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'รองเท้า', 'ตอบไม่ได้', 'รองเท้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แล้วอุณหภูมิในดัลลาส เท็กซัสล่ะ\
+	['3:40 54', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '9:17 น. 96 องศา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณเป็นไงบ้าง\
+	['ตอบไม่ได้', 'ดี', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ดี', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่สามารถ เห็น ภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรนะ คําตอบที่คุณได้รับคืออะไร\
+	['ตอบไม่ได้', 'ไม่แน่ใจ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โล๊กในจอ', 'คอมพิวเตอร์', 'ตอบไม่ได้', 'สกรีนคาสต์']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรนะครับ\
+	['ขวดปิดผ้า', 'ตอบไม่ได้', 'ผ้าห่ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ยี่ห้ออะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'สายคิ', 'ตอบไม่ได้', 'สับสน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ดู', 'ตอบไม่ได้']	นาฬิกา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เว็บไซต์อะไรเนี่ย\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เว็บไซต์เกี่ยวกับ iPhone ในการซื้อแอพ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ซุปซักผ้าอะไรกันเนี่ย\
+	['ตอบไม่ได้', 'ดวงอาทิตย์', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โรคสะเก็ดเงิน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในถังนี้?\
+	['ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาหาร', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ใบตราอะไร ขอโทษนะ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันถูกต้องไหม ที่ฉันมีมือ\
+	['บัตรธุรกิจ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนว่าไง\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'คริสต์มาสสันต์ดี', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันถ่ายอะไรได้บ้าง\
+	['นาฬิกาบนแผ่น', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ดู', 'นาฬิกากระเป๋าของมิกกี้', 'ชมชุดนี้มีหูฟัง']	นาฬิกา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพแสดงอะไรอยู่?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เงื่อนไขการอนุญาต Windows', 'ภาษาที่อยู่นอกหน้าจอ', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพหน้า จอ คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรนะ แต่ใช่ ฉันจะพับมัน\
+	['ตอบไม่ได้', 'พับ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'มือ', 'กล่อง']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สีอะไรเนี่ย?\
+	['สีขาว สีเทา', 'สีม่วง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีแดง สีขาว', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรนะ?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'อาหาร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'รูปภาพคนนั่งโต๊ะทํางานบนคอมพิวเตอร์', 'ฉันเห็นห้องนั่งเล่นในรูป', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ชื่ออะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อุปสรรค', 'อุปสรรค', 'อุปสรรค', 'ตอบไม่ได้', 'ตอบไม่ได้']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรนะ?\
+	['ตอบไม่ได้', 'แสง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แสง', 'ความสับสนของแสง', 'ตอบไม่ได้', 'ไม่ชัดเจน', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่สามารถตอบคำถามได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กรุณาอ่านข้อความบนกล่องนี้ ซึ่งเป็นกล่องอีกกล่องหนึ่ง\
+	['wd', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	nutrition facts
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมกําลังมองหาเลขประจําตัวเลข 8 หลัก\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผมไม่เห็นอะไรเลย ขอโทษ', 'ตอบไม่ได้', 'เงินเปล่า', 'ฉันมองไม่เห็นอะไรแบบนั้น', 'ตอบไม่ได้', '0', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผู้พูด: คุณบอกชื่อหนังสือนี้ได้ไหมครับ ขอบคุณครับ\
+	['ตอบไม่ได้', 'วัสดุการรําคาญในดนตรีโทนาล', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนว่าไง\
+	['เดอร์แมน', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แพ็คเกจถือมือ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพแสดงอะไรอยู่?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ชั้น วาง ของ บน โต๊ะ คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บางครั้งคุณรู้ว่า\
+	['ฉันไม่เข้าใจ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	keyboard
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่าคําถามความปลอดภัย หรือเลขความปลอดภัย และตัวอักษรคืออะไร เพื่อให้ผมเพิ่มมันเข้าไปในกรอบการแก้ไขของผม ขอบคุณ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เงิน 1 ดอลลาร์นี้มีสกุลอะไร\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพที่ไม่ใช้ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่สามารถตอบได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันตั้งไว้ตรงไหน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'คอนเตอร์', 'คอนเตอร์', 'โต๊ะครัว', 'คอนเตอร์ท็อป']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เป็นการถูกงูกัดเหรอ\
+	['ตอบไม่ได้', 'อาจ', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'บางที', 'บางที', 'ไม่', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมหน่อยได้ไหมว่ามีอะไรอยู่บนจอคอมพิวเตอร์นี้ ขอบคุณมากครับ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'คอมพิวเตอร์ไม่สามารถเริ่มต้นข้อความ', 'ตอบไม่ได้', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้น', 'ตอบไม่ได้', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้นการซ่อมเครื่องเริ่มต้น การตรวจสอบระบบของคุณสําหรับปัญหา', 'การเริ่มต้น', 'ตอบไม่ได้', 'กล่องโต้ตอบไม่ทราบ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ตัวอักษรในแคปตช่านี้คืออะไร?\
+	['ตอบไม่ได้', 'เมีย', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กล่องดํา']	ภาพดำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณรู้วิธีทําอาหารพวกนี้ไหม\
+	['ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใช่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'หน้าจอคอมพิวเตอร์', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันทํามันในไมโครเวฟนานแค่ไหน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '8 นาที', 'ตอบไม่ได้', 'ตอบไม่ได้']	8 minutes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ทํายังไงทําแบบนี้\
+	['เตาอบ', 'ตอบไม่ได้', 'ทําบัก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. แล้วเซ็นต์ล่ะ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'การเมือง', 'ชาย', 'ตอบไม่ได้', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ชายสีฟ้าเข้ามาในอาคาร']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกฉันคําแนะนําบนถังชมพูนี้ด้วย\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เพิ่มน้ําหมอกขนใส่ผมที่ชื้น ซ้ําถ้าต้องการ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. รูปนี้คืออะไร?\
+	['ราคาสูงสุด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เหรอ?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โทรศัพท์', 'ตอบไม่ได้', 'ชายพูดคุยบนมือถือ', 'ตอบไม่ได้', 'คน', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ ไม่ชัด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีอะไรในกระปุกนี้\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผัก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพนี้ไม่ชัดเจน', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่าเสื้อผมมีสีอะไร\
+	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	สีชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อะไรนะ?\
+	['ตอบไม่ได้', 'สาย', 'ตอบไม่ได้', 'ของเล่นสุนัขยางดํา', 'โรงงาน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันหมดอายุเมื่อไหร่?\
+	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อยู่ในรูป', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปี 2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บัตรนี้คืออะไร?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีบัตร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่สามารถ เห็น ภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ภาพนี้เกี่ยวกับอะไร?\
+	['ตอบไม่ได้', 'เงินเปล่า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ ไม่ ได้ ให้ ข้อมูล เพียงพอ เพื่อ ตอบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เครื่องประกอบหนัง', 'สุนัข', 'กระเป๋า', 'ตอบไม่ได้', 'เครื่องปักสุนัข', 'สัตว์']	ไม่ สามารถ เห็น ภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. วิธีทําอาหารพวกนี้คืออะไร?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่การติดตามอะไรกันเนี่ย?\
+	['ตอบไม่ได้', 'สายพิมพ์', 'รูปแบบใบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใบไม้', 'ตอบไม่ได้', 'พืชผัก']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวัสดีค่ะ คุณบอกฉันหน่อยได้ไหมว่าในกระป๋องในมือขวาฉันมีอะไรบ้าง ขอบคุณ\
+	['ตอบไม่ได้', 'เนื้อบางชนิด แต่สัญลักษณ์ไม่อยู่ในรูป', 'อาหารกระป๋อง', 'ตอบไม่ได้', 'หมักเนื้อวัว', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	meatballs
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่านี่มาจากใคร\
+	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'จดหมายกลับจากไปรษณีย์', 'หลังซอง ไม่มีคําเขียน', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กลิ่นอะไรเนี่ย?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'นิวแมนส์ สับสนพิเศษ', 'เนมันส์ สับสนพิเศษ', 'กาแฟ', 'นิวแมนเน่่่ ผสมพิเศษ', 'ตอบไม่ได้', 'นิวแมนส์เอง', 'ตอบไม่ได้']	newmans own
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่ สามารถ เห็น ภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ความดันเลือดผมเป็นเท่าไหร่?\
+	['ตอบไม่ได้', 'ตอบไม่ได้', '105', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '109 สิ้น', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่สามารถอ่านภาพตัด']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เราเรียกมันว่าอะไร กลิ่นอะไร\
+	['ส้ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่ากล่องนี้เขียนอะไร เพื่อให้ฉันรู้ว่ามันมีอะไรอยู่ข้างใน\
+	['ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เลขที่ติดกับข้อความที่ระบุ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันควรบอกว่ามันเป็นไม้ไม้ไม้ประเภทไหน อะไรทํามันขึ้น เป็นต้น ผมแค่อยากรู้ว่ามันคืออะไร ขอบคุณ\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'บางอย่างไม้ 14', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันกดปุ่มโอเคแล้วเหรอ?\
+	['ปุ่มต่อไปที่จะกด ตอนนี้กด Enter', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่อะไรกัน\
+	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แฟลช', 'ตอบไม่ได้']	ไม่สามารถ เห็น ภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อุณหภูมิอะไร\
+	['ตอบไม่ได้', '57', 'สองสิบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '20', '20.7c', 'ตอบไม่ได้']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่มันอะไรกัน\
+	['ตอบไม่ได้', 'สัญลักษณ์ต้อนรับ', 'แผ่นต้อนรับ', 'ตอบไม่ได้', 'สัญลักษณ์ต้อนรับ', 'สัญลักษณ์ต้อนรับ', 'ตอบไม่ได้', 'แบนเนอร์ต้อนรับ', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ เบลอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หน้าอะไรเนี่ย\
+	['ไม่มีใบหน้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '0', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่สามารถ เห็น รูปภาพ ด้าน หลัง ขวด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หมายเลขที่อยู่ในรหัสสินค้านี้คืออะไร?\
+	['ตอบไม่ได้', 'ไม่อ่าน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อ่าน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หมายเลขของอาคารที่ถ่ายรูปนี้คืออะไร? นี่คือวิทยาลัย Yappapi\
+	['3', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '3', 'ตอบไม่ได้', '9', 'ตอบไม่ได้', 'ตอบไม่ได้', '3']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกฉันด้วยนะว่าในกระเป๋านี้มีอะไร ขอบคุณ\
+	['ตอบไม่ได้', 'สลัดอาการเก็บเกี่ยว', 'ตอบไม่ได้', 'ผักกาด', 'น้ําตาลหวาน', 'ผักกาด', 'ไม่ค่อยรู้หรอก บางทีอาจเป็นพวกบ้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หน้าจอของโต๊ะทํางานฉันจะแสดงออกมั้ย ขอบคุณ\
+	['sdfgh', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณอ่านได้มั้ย\
+	['ใช่', 'ตอบไม่ได้', 'ใช่', 'ข้อมูลการนําเข้าสําหรับเครื่องปั่นน้ําผึ้ง', 'ไม่', 'ข้อมูลสําคัญ', 'บางส่วน', 'อบอุ่น', 'ไม่', 'ตอบไม่ได้']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณสามารถบอกได้จากการดูนี่, จากการติดป้าย, ว่ามันคืออะไร, ผมคิดว่ามันเป็นชิ้น, DVD ในไปรษณีย์.\
+	['ใช่', 'ใช่ดีวีดี', 'ไม่', 'DVD', 'DVD', 'ตอบไม่ได้', 'แผ่นไม่ชัด แต่ cd', 'ใช่', 'ตอบไม่ได้', 'ไม่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กล้องฉันปิดไหม?\
+	['ใช่', 'ใช่', 'ใช่', 'กรุงเทพ', 'ใช่', 'ไม่', 'ใช่', 'ไม่', 'ใช่', 'ใช่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่สเต็ปไก่เหรอ?\
+	['ตอบไม่ได้', 'ไม่', 'ใช่', 'อาจมองไม่เห็นทั้งหมด', 'ใช่', 'ตอบไม่ได้', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'ใช่']	ไม่สามารถตอบคำถามนี้ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ศิลปะเหรอ?\
+	['ใช่', 'งานเขียนจากแผ่นอลูมิเนียม', 'ใช่', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	ศิลปะ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวัสดีครับ ผมแค่อยากยืนยันว่านี่เป็นเนื้อหมูจริงครับ ข้อมูลอื่นๆที่ชัดเจนจะขอขอบคุณครับ ขอบคุณครับ\
+	['ใช่', 'ใช่', 'ใช่ เคิร์คแลนด์ ซายนาม์ หมูสับ', 'ใช่ หมูปัง', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่ หมักขนม', 'ใช่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เมฆดูเหมือนเมฆพายุเหรอ ฉันหมายถึง มันดูจะฝนหรือพายุ\
+	['ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ไม่', 'ไม่', 'ไม่']	ฝน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หน้าบัดดี้น่ารักหรือไม่\
+	['ใช่', 'ใช่', 'น่ารัก', 'ใช่', 'ใช่', 'ไม่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ตอนนี้มีการพูดคุยกันแล้วเหรอ?\
+	['ไม่', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ฉันยังมีนิ้วเท้าทั้งหมดอยู่หรือเปล่า?\
+	['ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	มี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณเห็นขวดในรูปนี้ไหม และถ้าเห็น มันคืออะไร?\
+	['ตอบไม่ได้', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่มีขวด', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	ตอบ ไม่ ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีข้อความอยู่ด้านนี้ไหมครับ\
+	['ไม่', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันแฟ็กซ์หรือกล่อง?\
+	['ตอบไม่ได้', 'ไม่', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ไม่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีชิ้นอกในรูปนี้ไหม ถ้ามีล่ะล่ะล่ะ\
+	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีชิ้นหมากรุกอยู่มั้ย?\
+	['ไม่', 'ใช่', 'ไม่', 'เพียงกระดาน', 'ไม่', 'ไม่', 'ใช่', 'ไม่', 'ไม่', 'ไม่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ถุงเท้านี่เข้ากันมั้ย\
+	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นั่นกระดาษเหรอ?\
+	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันคือแล็ปท็อปเหรอ?\
+	['ไม่', 'ไม่', 'ไม่', 'ไม่', '0 ที่ฉันเคยเห็นมาก่อน', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณอ่านทุกอย่างบนจอทีวีผมได้มั้ย\
+	['ไม่', 'ไม่', 'ใช่', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'DVR ใช้งานได้ 89%', 'ใช่', 'ไม่', 'ไม่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณเห็นกลิ่นหอมบนขวดฟรีเบสนี่ไหม\
+	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่เห็นเล็บ', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หน้าจอเปิดอยู่มั้ย\
+	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สัตว์ไหนที่อยู่ในจอคอมพิวเตอร์นี้\
+	['ไม่มีสัตว์', '0', '0', '0', '0', 'ไม่มีสัตว์ในจอ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. โอเค ฉันกําลังพยายามหาเบอร์จากบัตรนี้ และฉันสงสัยว่า คุณสามารถอ่านมันให้ฉันได้มั้ย\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กรุณาอ่านตาราง\
+	['261627.2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เตรมัสเตตตั้งอุณหภูมิเท่าไหร่\
+	['72', '72', '72', '72 องศา', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ปุ่มไหนคือ Mountain Dew?\
+	['5', '6 จากบน', 'ปุ่มที่ 6', '6 1 ดาวน์', '5', '6', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผมว่านี่เป็นไม้ป่าสีเงิน ปีไหนครับ\
+	['ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000']	2000
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. พลังงานไฟฟ้านี้ใช้กําลังไฟฟ้าเท่าไหร่\
+	['350', 'ตอบไม่ได้', '350', '350w สูงสุด', 'ตอบไม่ได้', '350', '350', 'ตอบไม่ได้', 'สาย', '350w สูงสุด']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันบอกว่าอะไร?\
+	['77 องศา', '77', '77', '77', '77 องศา', '77', '77', '77', '77', '77']	ไม่สามารถ เห็น รูปภาพ ด้าน บน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกได้มั้ยว่านี่มาจากโล่ไหน\
+	['47', '47', '47', '47', 'มีเลขที่ 47', '47', '47', 'ตอบไม่ได้', '47', 'ไม่']	ไม่สามารถตอบได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เท่าไหร่\
+	['5', '5', '5', '5', '5', '5 ดอลลาร์', '5', '5 ดอลลาร์สิงคโปร์', '5', '5 ดอลลาร์']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. วงจรแสดงเลขที่ตรงไปข้างบนเป็นอะไร\
+	['400', '550', '500 บาท', '475', '475', '475', '475', '500 บาท', '550', '500 บาท']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เงินนี้มีสกุลอะไร\
+	['20', 'rgreg', '20', '20', 'ตอบไม่ได้', 'ตอบไม่ได้', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ตอนนี้มีอะไรแสดงอยู่บนจอ?\
+	['452940', '452940', 'wakie talkie', 'จํานวน', 'เครื่องวิทยุ', '452940', 'โทรศัพท์พูด', '452940', 'ตอบไม่ได้', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. 465 ลบ 55 คือเท่าไหร่?\
+	['410', '410', '410', 'ตอบไม่ได้', '410', 'ตอบไม่ได้', '410', '410', '410', '410']	100
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เลขที่ห้าคืออะไร?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บิลนี้คืออะไร?\
+	['2', '2', '2', '2', '2 ดอลลาร์', 'เงิน', '2', '2', 'ตอบไม่ได้', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. กินเชียร์ออสมีแคลอรี่กี่ก้อน\
+	['110', 'ภาพหลาย', '104', '110', '100', 'ตอบไม่ได้', '10', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	140
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เตาอบตั้งอุณหภูมิเท่าไหร่\
+	['ปุ่มเตาอบ', 'ความร้อนของเตาอบ 400', '425', '450', '400', '425', '425', '400', '425', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อุณหภูมิของเทอร์มาสตัตคืออะไร?\
+	['78', '78', '78 องศา', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เงินนี้เท่าไหร่\
+	['20 ดอลลาร์แคนาดา', '20', '20', '20', '20 ยูโร', '20', '20 ดอลลาร์แคนาดา', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อุณหภูมิตั้งไว้กี่ระดับ\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อุณหภูมิของเทอร์โมสแตตนี้เท่าไหร่\
+	['50', '50', '55', '64 องศา', '55', 'ตอบไม่ได้', 'ตอบไม่ได้', '54', 'ตอบไม่ได้', '56']	60
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่สมาคมอะไรกัน\
+	['5', '5', '5', '5', 'แคนาดา', '5', '5', 'ไข่', '5', '5']	5 ดอลลาร์ แคนาดา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. บอกฉันค่าของบัตรนี้\
+	['6 เพชร', '9 เพชร', '6 เพชร', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกได้มั้ยว่าผมน้ําหนักเท่าไหร่\
+	['210', '200 บาท', 'ใช่ 200', '198', '200 บาท', '200 บาท', '200 บาท', '250 บาท', '200 บาท', '200 บาท']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สวัสดีครับ ผมลองอีกแล้ว คุณบอกผมได้ไหมว่า มีจํานวนองศากี่อันบนเครื่องวัดนี้\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่าอุณหภูมิตั้งไว้บน Fine\
+	['78', '78', '78', '78', '78', '78', '78 องศา', '78 องศา', '78 องศาฟาเรนไฮต์', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีชั่งกี่ชิ้นในช็อกโก้บาร์นี้\
+	['ตอบไม่ได้', '2', '4', 'ตอบไม่ได้', '4', '4 ถ้วยเนยถั่ว', '2', '2', 'ตอบไม่ได้', 'ตอบไม่ได้']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มีแคลอรี่กี่ก้อนใน 1 มื้อ\
+	['120', '120', '120 dry 220 เตรียมไว้ ถ้าเตรียมไว้ 1 1 4 ช้อน นมไร้ไขมัน', '120', '120', '120', '120', '120', '220', '120 ข้าวผักแห้ง 220 นม']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกฉันได้ไหมว่านี่เป็นธนบัตรอะไร เพราะฉันกําลังมองหาธนบัตร 20 และฉันคิดว่านี่เป็นธนบัตร 10 แต่ฉันไม่สามารถบอกได้\
+	['10 ยูโร', '10', '10', 'ตอบไม่ได้', '10', '10', '10 คนนอนบนเสื้อสีขาวแดง', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. สายนี้มีเส้นสีชมพู 1 หรือ 2 สาย? สายหนึ่งจะเบากว่าสายอื่น\
+	['บีโอ', '1', '1 เส้น', '1 สายดํา', '1', '1', '1', '1', '1', '1']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมได้ไหมว่ามันหมายเลขไหน ขอบคุณครับ\
+	['3248849064', '3248849084', 'ตอบไม่ได้', '3248849084', 'ตอบไม่ได้', 'ตอบไม่ได้', '3248849084', 'ตอบไม่ได้', 'ตอบไม่ได้', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. คุณบอกผมหน่อยได้ไหมว่าผมน้ําหนักเท่าไหร่\
+	['1', '1', 'ตอบไม่ได้', '1', '1', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สกะแนนว่าง', '1']	127
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ปัจจุบันอุณหภูมิที่ตั้งไว้บนเครื่องตั้งอุณหภูมินี้คืออะไร?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'เทอร์โมสแตต']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่ธนบัตร 5 หรือ 10 ดอลล่าร์ของแคนาดาเหรอ\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 คนแคนาดา']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. หมายเลขคนโทรคืออะไรครับ ขอบคุณครับ\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'ตอบไม่ได้', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186 08/07 23:33
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เลข 5 หลักคืออะไร?\
+	['23442', '23442', '23442', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เห็นแค่ 2 ตัวเลข 69', '23442', 'ตอบไม่ได้', 'ตอบไม่ได้', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่มีกี่ออนซ์\
+	['23.6', '20', '20', '24', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '33', 'ตอบไม่ได้', 'gfdsgsdf']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. อุณหภูมิบอกอะไรบนเครื่องวัดอุณหภูมินี้ ขอบคุณมาก\
+	['72', '72', '72', '72', '72', '72', '72', '72 องศา', '72', '72 องศา']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่หน้าไหน\
+	['2', '2', '2', '2', '2', '2', '2', 'ตอบไม่ได้', '2', '2']	page 2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. ผนังนี้เขียนว่าไง\
+	['8888', 'ตอบไม่ได้', 'ไม่มีอะไร', '8888', 'ตอบไม่ได้', 'ตอบไม่ได้', '8888', '888', 'ไม่มีอะไร', 'เงินเปล่า']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. เลขหน้าไหนที่แสดงอยู่ ขอบคุณ\
+	['123', '121', '121', '121', 'ตอบไม่ได้', '121', '121', '128', '321', '121']	page 121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. นี่เลขไหน\
+	['26', '26', '26', '26', '26', 'กระดาษ', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มันเขียนว่าไง\
+	['ตอบไม่ได้', '40', '40', 'ตอบไม่ได้', 'ตอบไม่ได้', 'จํานวน', '40', '40', 'อากาศ 40 ปอนด์', '30']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer th When the provided information is insufficient, respond with 'ตอบไม่ได้'. มียากี่เม็ดในกล่องนี้\
+	['8 เม็ด', '8', '8', '8', '8', '8', '8', '8 เม็ด', '8', '8']	8

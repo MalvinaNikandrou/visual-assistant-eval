@@ -1,0 +1,3001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	You are a helpful AI assistant. Question: その紙に何が書いてあるのか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'オーストラリア郵便局', '郵便局', '答えられない', 'オーストラリア郵便局', 'オーストリア 郵便局', 'オーストラリア郵便局', 'オーストラリア郵便局', '答えられない', 'オーストラリア郵便局']	その紙には「AUSTRALIA POST」と書いてある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	You are a helpful AI assistant. Question: このコンピューターの画面に何が書かれているか教えて下さい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['時計の天気等のためのアイコン', '開始ウィンドウ', 'デスクトップ', '時計', '時計', 'アイコン', 'デスクトップアイコン', '答えられない', 'デスクトップアイコン', 'アイコン']	時計、天気、ウィンドウなどが書かれている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	You are a helpful AI assistant. Question: これはどんなCDですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['空白', '空白CD', 'マックスウェル', 'マクセルCDR', '空白', '空白', '毛布', '空白', '空白', 'マクセル']	これはCD-Rです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	You are a helpful AI assistant. Question: 何の写真か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['足', '足', '足の傷', '足', '足', '足', '足', '足', '足', '足']	足の写真です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	You are a helpful AI assistant. Question: この缶は何なのか教えて下さい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['狩り', 'マンウィッチ', 'マンウィッチ', '狩り 怠け者 ジョーソース', 'スラッピー・ジョー・ソース', 'マンウィッチ', '気ないジョーソース', '解散', 'マンウィッチ', '怠け者ジョー']	ソース。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ダイエットコークースダ', 'ダイエットコークーン', 'ダイエットコーク', 'ダイエットコカイン', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'コーク', 'ソーダ', 'ダイエットコカイン']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ダッシュさん', '答えられない', 'ダッシュさん', '答えられない', '分からない', '辛口だけ', 'バジルミックス', 'ミセスダッシュテーブルブレンド', 'ダイッシュ', 'ダッシュさん']	これはペップcornの容器です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['mtn露瓶', '山露', '山露', '山露', '山露', '山露', '山露', '山露', '山露', 'mt 露']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	You are a helpful AI assistant. Question: この箱には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['カフェ', '答えられない', 'カフェ', 'カフェ', 'カフェ', 'カフェ', 'カフェ', 'カフェ', 'カフェ', '答えられない']	コーヒー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	You are a helpful AI assistant. Question: 何が見える?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['皮膚', '指の床ドア', 'ドア', 'ドア', '指のドア', 'ドア', '答えられない', 'ドア', '家', '指の黒い毛皮']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	You are a helpful AI assistant. Question: 私のコンピュータ画面が何を表示しているのですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['システム復元を使用してコンピュータを再起動したいですか?', 'システム復元がポップアップ', 'システム復元メッセージ', 'システム復元を使用してコンピュータを再起動したいかどうか', '箱', 'システム復元', 'システム復元を使用してコンピュータを再起動したいですか?', 'コンピューターは起動しなかった システム復元を使用', '設定を復元する', 'システム復元']	コンピュータ画面は、システムの修理が不可能であることを示すエラーメッセージを表示しています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['熱いココア', '熱いココアミックス', '熱いチョコレート', '熱いココアミックス', 'カコア', '熱いココアミックス', '熱いココア', '熱チョコの混合物', 'カコア', 'カコアミックス']	この箱にはホットココアミックスが入っている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	You are a helpful AI assistant. Question: このカードの番号を教えて下さい\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['税金', '労働組合の代表者', '税金制度について', '税金制度について', '税金', '税金制度について', '税金制度について', '税金について', '税金制度について', '18007352929 税金について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	You are a helpful AI assistant. Question: 何だ この...\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['コンピュータ画面', 'コンピュータ画面', 'コンピュータ画面', 'ラップトップ', '検索結果を表示するコンピュータ画面', 'スクリーン', 'コンピュータ画面', 'コンピュータ画面', '画面', 'コンピュータ画面']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['サラダドレス', '敷き布団', 'サラダドレス', 'サラダドレス', '酸サラダドレス', 'サラダドレス', '答えられない', 'サラダドレス', 'サラダドレス', 'サラダドレス']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	You are a helpful AI assistant. Question: この写真には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['窓', 'デザイン', 'グラス窓のデザインは黒', '窓のガラスの窓ガラスの扉', '窓の窓とドア', 'ドア', 'ステンドグラス', 'ドア', '窓', '窓']	この写真には、窓の下に位置する、彩色ガラスの窓が見えます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	You are a helpful AI assistant. Question: 誰か教えて下さい 画面に表示されているセキュリティ質問は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['アラワック', '答えられない', 'アラワック', 'アラワック', 'アラワック', 'アラワック', '答えられない', '答えられない', 'アラワック', 'アラワック']	画面に表示されているセキュリティ質問は「？123」。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ワイン', 'シルバーオーク', 'シルバーオーク', 'シルバーオークワイン', 'ワイン', '瓶', 'ワイン', 'ワイン', 'シルバーオーク 2003 カバーネ・ソーヴィニオン', 'シルバーオーク 2003']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	You are a helpful AI assistant. Question: これはどんなブランドのモニターですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ロープ', '答えられない', '答えられない', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ']	LG
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	You are a helpful AI assistant. Question: これはどんな飲み物?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ソーダ', 'ジンジャー・エール', 'ゼネラル', 'リンゴソーダ', 'カナダ 乾燥', 'カナダ 乾燥', 'ジンジャー・エール', 'カナダ 乾燥', 'ジンジャー・エール', 'ジンジャー・エール']	これはカナダドライのソーダです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	You are a helpful AI assistant. Question: カーペットはどんな色ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ベージュ', 'ベージュ', 'ブラウン', 'グレー', '青い', 'クリーム', 'ブラウン', 'ブラウン', 'ベージュ', '青い']	カーペットはベージュ色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['電話', '電話', '電話', '電話', '電話', '電話', 'デジタル電話', '電話', 'オフィス電話', '電話']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	You are a helpful AI assistant. Question: この画像は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['山露', '山露', '山露', '山露', '山露', '山露', ' (山露)', 'mtn露瓶', '山露ソーダ', '露']	この画像は、人が持っている山デワの瓶を撮影したものです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	You are a helpful AI assistant. Question: この瓶は何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', 'ローション', 'ソーダ', '答えられない', 'ローション', 'ローション', 'ローション', '答えられない', 'ローション']	乳液瓶.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['アクアフィナ水', '水瓶 アクアフィナ', '水', '水', 'プラスチックボトル アクアフィナブランドの水', '瓶水', '水瓶', 'アクアフィナ水', '水', 'プラスチックボトル水']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['グーグル検索', 'グーグル検索エンジンタブ', 'Google検索ページ', 'グーグル', 'グーグル', 'コンピュータ', 'Google ホームページ', 'グーグルページ', 'コンピュータ画面', 'コンピュータ画面']	これはGoogleの検索画面です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵']	キーホルダー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	You are a helpful AI assistant. Question: 画面上のエラーメッセージを読み聞かせてください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '製品キーが有効でない', '製品キーが有効でない', '答えられない', '製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない 削除 製品キーが有効でない 応答ファイルから削除', '製品キーが有効でない 製品キーを削除する', '製品キーが有効でない']	無効な製品キーの存在が、ファイルを進めることができません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	You are a helpful AI assistant. Question: 私のノートパソコンは?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['机', '机の上に', 'ベッドの隣のトップデスク', '机の上に', '机', '机', '机の上に', '机の上に', '上台', '机']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	You are a helpful AI assistant. Question: この本のタイトルは何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['犬年', '犬の年: メモア', '犬年', '犬年', '犬年', '犬年', '犬年', '犬年', '犬年', '犬年']	この本のタイトルは「10年間の犬の記録」です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マックブック', 'キーボード', 'キーボード', 'キーボード', 'コンピュータ', 'キーボード', 'ラップトップ', 'ラップトップ', 'ラップトップ', 'コンピュータ画面のキーボード']	何してるんだ?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	You are a helpful AI assistant. Question: 何が見える?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['テーブル窓', '植物', '答えられない', 'テーブル窓', '本ノートペンを', '植物', 'ストップ', '本', '窓', '植物']	窓のそばに花瓶に入った花が見えます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	You are a helpful AI assistant. Question: どのパケットに普通の小麦粉が入っているか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['赤白色パッケージ', '左', 'その1', '左の赤い1', '左', '答えられない', '左', '左', '赤 白 1', '赤 1']	テスコのパケットに普通の小麦粉が入っている.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['サッカー', 'サッカー', 'サッカー', '紫オレンジの毛布のフットボールアライグーター', 'ワニフットボール', 'ワニのソフトフットボール', '詰め物フットボール', '詰め物 オレンジブルーフットボール', '紫色フットボール', 'ワニ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	You are a helpful AI assistant. Question: 何色なんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['グレー', '金', '金', 'ベージュ', '赤', '金', '答えられない', '答えられない', '金', '答えられない']	赤い。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['メニュー', '答えられない', 'メニュー', 'メニュー', 'メニュー', 'テーブル内容', 'メニュー', 'メニュー', '価格表', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['水瓶', 'スプリングバーン', 'スプリングボーン水', 'スプリングボーン', '瓶詰め水', '水', '水瓶', '瓶詰め水', '水瓶', '水']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	You are a helpful AI assistant. Question: これはどんなスープ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['進歩', '進歩', '進歩', '答えられない', '進歩', '答えられない', '答えられない', '答えられない', '進歩', '進歩']	これはプログレッシブブランドのスープです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	You are a helpful AI assistant. Question: これは食材の缶だ 教えてもらえるか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['緑豆', '緑豆', '緑豆', '緑豆', '緑豆', '答えられない', '緑豆', '', '緑豆', '緑豆']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	You are a helpful AI assistant. Question: 何だ? 違う\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['チェックスミックス', '切断機', 'チェックスミックスコンピュータ', '答えられない', 'チェックスミックス', '食品', 'チェックスミックス', 'チェックスミックス', 'チェックスミックス', 'チェクミックス']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	You are a helpful AI assistant. Question: 何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マイクロ波', 'マイクロ波', '薬', '電気機器 ジェリー豆スープ', '缶スープ', '飲み物', '料理', 'キッチンカウンター', 'クリーム', 'スープ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	You are a helpful AI assistant. Question: この缶は何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['混合野菜', '混合野菜', '混合野菜', '混合野菜', '混合野菜', 'ゲルゲル', '混合野菜', '混合野菜', '混合野菜', '混合野菜']	この缶は、ベスト選のミックスベジタブルソースです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	You are a helpful AI assistant. Question: これは何種?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ケーキのグラス', 'バニラ', 'バニラ', 'ワニラグラス', 'ベティ・クロッカー', 'バニラグラス', 'ワニラ', 'バニラグラス', 'バニラ', 'バニラ']	これはホイップクリームです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	You are a helpful AI assistant. Question: 箱に何が入ってるか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['穀物バーボックス', '自然谷の焼いたアーモンドグランロラバー', 'グランロラバー', '自然谷', '焼いたアーモンドグランロラ', '自然谷の焼いたアーモンドグランロラバー', '自然谷 脆い グランロラ 焼きバドラム味', 'グランロラバー', 'グランロラバー', '焼いたアーモンドの脆いグラノラバー']	箱には、ナチュラバレーのクランチローストアーモンドのグランオールバーが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	You are a helpful AI assistant. Question: 色の布について教えてください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['緑色 白色', '白色濃緑色印刷', '白緑', '白緑', 'ピンクグリーン', '布の表面は白色 クリーム緑色', 'ピンク ブラック', '緑色 白色', '紫黒のネクタイ染料', '白緑色の噴き']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	You are a helpful AI assistant. Question: コンピューター画面に何が表示されているか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マウス矢印', 'カーソル', '何もない', '青い', '青いスクリーン', '矢印', '空白', '青い矢印', '空白', '青いスクリーン']	コンピューターの画面には、青い背景に白いカーソルが表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	You are a helpful AI assistant. Question: こんにちは 誰ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['白い猫', '猫', '猫', '白い猫', '猫', '答えられない', '猫', '猫', 'この猫', 'キティ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['パーレルの手洗浄剤', 'ハンド消毒剤', 'ハンド消毒剤', '純米の手消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', '純米の手消毒剤']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	You are a helpful AI assistant. Question: エラーメッセージは何と言いますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない', '商品が無効', '商品キーが有効でない場合はOKをクリックして進みます.', '製品キーが有効でない場合, 製品キーを削除します.', '商品が無効', '製品キーが有効でない', '製品キーが有効でない']	エラーメッセージは「無効な製品キーのため、ファイルを削除するか、プロセスを中断しない場合は、答えのファイルを削除する必要があります。」と言います。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	You are a helpful AI assistant. Question: このメッセージが私のコンピュータ画面に何を書いてあるか教えて下さい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['右下にある修理終了ボタンの種類', '起動修復 最後の成功起動 9 20 2012 1 回修理試み 終了 終了 キャンセル', '答えられない', '違う', '起動修復', '起動修復', '起動修復', '答えられない', '起動修復完了 診断画面 閉じるボタンを', '起動修復']	このメッセージは、コンピュータの起動復元ウィンドウに表示される情報を提供しています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	You are a helpful AI assistant. Question: 肉は? 鶏肉かソーセージか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏の大腿', '答えられない', '鶏肉']	肉は鶏肉かソーセージか? 答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	You are a helpful AI assistant. Question: これは何色?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['電気ブルー', '青い', '青い', '青い', '青い', '青い', '青い', '青い', '青い', '答えられない']	これは青色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	You are a helpful AI assistant. Question: 画面に何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['窓を設置する', '読み取れないWindows plusをインストール', '窓を設置する', '窓を設置する', '窓を設置する', 'この画面では,Windowsのインストール手順をリストします.', '窓を設置する', '窓を設置する', '窓を設置する', '窓を設置する']	画面にはインストールウィンドウズのダイアログボックスが表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	You are a helpful AI assistant. Question: この写真の空は\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['部分的に曇り', '暗い雲', '大きな雲', '巨大な雲 暗い空', '曇り', '曇り', '青い色 雲', '答えられない', '巨大な雨雲が少し青い側面', '曇り']	この写真の空は、暗い雲が広がり、夕暮れの色が残る。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	You are a helpful AI assistant. Question: 何だ この?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['玄関', '椅子', '椅子', '椅子', '答えられない', 'ベンチ', '椅子', '椅子', 'ベンチ金属枠の窓', '椅子']	椅子.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['写真', 'ドア', 'ドア', 'バー', 'ガラスパネル付きのドア', 'ドア', 'レストラン', 'レストラン', 'ドア', 'ドア']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	You are a helpful AI assistant. Question: 画面に何があるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['起動デバイスを選択', '起動デバイスを選択してください 3 選択', '答えられない', '起動デバイスを選択してください.', '起動画面', '起動デバイスを選択してください.', '誤り', '起動デバイスを選択してください.', 'デバイス選択メッセージ', '起動デバイスを選択してください.']	画面には、コンピューターの起動画面が表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	You are a helpful AI assistant. Question: この物体は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['灰皿', '装飾の銅彫刻 ライオンネス', '像', '違う', '灰皿', '灰皿', '像', '犬の鉢', '灰皿', '疫病のトラが上']	この物体は、火の鉤に似た金属製の火の鉤です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	You are a helpful AI assistant. Question: これはどんなタバコですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', '黒いパックで詰め込まれたアメリカン・スピリッツ', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット']	これは「アメリカスピリット」というタバコです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['子リンゴ', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	You are a helpful AI assistant. Question: この瓶には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ローション', 'ローション', 'ローション', 'ローション', 'シーアボディローション ビタミンE', '月光経路 シービタミンE ローション', 'ローション', '月光経路の体クリーム', '月光経路の体クリーム', 'ローション']	この瓶には、スキンケア製品であることが示されるラベルがあります。ラベルによると、この製品は「月光の道」と呼ばれており、スhea & Vitamin Eを含むボディローションです。容量は8フロントオンスで、製品はバース＆ボディワ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	You are a helpful AI assistant. Question: これは何の写真?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['眼鏡', 'フレーム', 'グラス', '眼鏡 シルバーのフレーム', '眼鏡', 'グラス', '眼鏡の枠', 'グラス', 'グラス', 'グラス']	眼鏡の写真です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	You are a helpful AI assistant. Question: これは製品です\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'トマトスープ', 'トマトスープ', 'スープ', '缶スープ', 'トマトスープ', 'トマトスープ', 'トマトスープ', 'スープ', '収穫トマトスープを選択']	キャンプベルの選ぶ新鮮なトマト
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['電話ボックス', 'iPhone', 'iPhone ボックス', '電話', '携帯電話', '携帯電話ボックス', 'スマートフォン', '電話', 'スマートフォン', 'iPhone']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	You are a helpful AI assistant. Question: これは何の写真?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['キャンディ容器', '祝い 赤い箱', '責任ある', '祝いって言う', '箱', '甘いもの', '党の好意', '祝い', '箱', '答えられない']	これは「celebration」ラベルが付いた容器の近景写真です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	You are a helpful AI assistant. Question: 何だ この?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['シャンパン', 'ワイングラス茶碗', 'ガラス', 'グラスワイン', 'プレートに座っているコーヒーカップの隣にシャンパンワインのグラス', 'テーブルにグラスで飲み', 'シャンパン', 'ティーカップグラス', 'ティーポット シャンパングラス', '窓前にあるテーブルにシャンパンガラスプレート']	この写真は、テーブルの上に置かれたワイングラスと茶碗を中心に撮影したものです。背景には、晴れの日で見える都市の景色が見えます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	You are a helpful AI assistant. Question: これはどんな味ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オレンジ', 'オレンジ緑 黄色 赤', 'オレンジミント', 'オレンジ', '答えられない', '答えられない', 'オレンジ', '2 左にオレンジ チェリー リンゴ 右上 下冬緑', 'オレンジ', 'オレンジ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	You are a helpful AI assistant. Question: こんにちは,この缶に何が入ってるの? ありがとう. ビールかソーダか,どうでもいいです. ありがとう.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['コカ・コーラ', 'コカ・コーラ', 'ソーダ', 'コカ・コーラ', 'ソーダ', 'ソーダ・コック', 'ソーダ', 'ソーダ', 'コカ・コーラ', 'ソーダ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	You are a helpful AI assistant. Question: このドライヤーに設定されているのは何ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['逆時計回りに 規則的な制御時間 乾燥 繊細  放出 空気フスフス', '常時', '消して', '消して', '消して', '常時', '消して', '設定していない', '何もない', '消して']	このドライヤーに設定されているのは「シリアル乾燥」です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['錠剤', '錠剤', '携帯電話アプリ', 'スクリーン', 'アプリリスト', 'アップストア', '錠剤', 'ダウンロードするアプリのリスト', '答えられない', 'アプリのダウンロード']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	You are a helpful AI assistant. Question: 何を見ているんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['テレビ', 'クローゼットテレビ', 'テレビ', 'テレビ', 'テレビ画面', 'テレビ', 'トム・セレック テレビで', 'テレビ', 'テレビ', '扉を開けたクローゼットテレビ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	You are a helpful AI assistant. Question: これは何色?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['白い', '白い', '白い', '白い', 'ベージュ', '白い', '象牙', '答えられない', 'ベージュ', '答えられない']	白色.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['この食品', 'ローチ', 'ローチ', 'ローチ', 'ローチ', 'シェフ・ボヤードー ミニラビオリス', 'ミニラビオリ缶', 'ローチ', 'シェフ・ボヤ ミニラビオリー', 'ミニラビオリー']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['焼肉粉', '焼肉', '焼肉', '焼肉', '伝統的な焼肉', '焼肉', '焼肉', '伝統的な焼肉', '焼肉', '焼肉']	この箱には伝統的なローストビーフが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	You are a helpful AI assistant. Question: この製品は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ダイエットペプシ', 'カフェインのないダイエットペプシ', 'ピープシ', 'ピープシ', 'ダイエットペプシ', 'ダイエットペプシ', 'ダイエットペプシ', '食事 カフェイン のないペプシ', 'ダイエットペプシ', 'ダイエットペプシ']	ペプシコのエネルギードリンク製品です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	You are a helpful AI assistant. Question: これは何と呼ばれている?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['東部', '豆', '答えられない', '答えられない', '食品', '豆', 'トレイルミックス', '穀物', '果物', 'バッグピーナッツ']	これは「ナツメジャー」呼ばれている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	You are a helpful AI assistant. Question: これは普通のコーヒーかカフェイン抜きのコーヒーですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['常時', '答えられない', '常時', '常時', '常時', '常時', '答えられない', '答えられない', '常時', '常時']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マックチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	You are a helpful AI assistant. Question: この瓶には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['軟化クリーム', 'ローション', 'ローション', 'ローション', '軟化クリーム', 'ローション', '潤滑剤', '身体クリーム', '深い水分で洗う', '洗濯物']	この瓶にはソフトニングボディウォッシュが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	You are a helpful AI assistant. Question: 何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['机椅子', '椅子', '椅子', 'オフィス椅子', 'オフィス椅子', 'このオフィスチェア', '椅子', '机椅子', '椅子', 'グレーのオフィスチェア']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	You are a helpful AI assistant. Question: 写真を撮った物は何だった?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['コンピュータモニター', 'コンピュータ', 'コンピュータ画面', '答えられない', '答えられない', 'ラップトップ', 'コンピュータ画面', 'ラップトップ', 'コンピュータモニター', 'ラップトップコンピュータ']	写真を撮った物はコンピュータモニタです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	You are a helpful AI assistant. Question: 何だって?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['豚肉のコート', '肉', '赤い肉の種類', 'パック肉', '豚肉', '豚肉', '答えられない', '肉', 'fg', '豚肉']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	You are a helpful AI assistant. Question: この写真の空はどう見える?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['曇り 日', '部分的に曇り', '曇り', '曇り', '曇り', '曇り', '曇り', '曇り', '曇り', '雨']	この写真の空は、雲が多く、暗い灰色をしている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	You are a helpful AI assistant. Question: これはどの食事? 時間切れを待っているの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'スパゲッティ', 'スパゲッティ', '答えられない', '答えられない', 'スパゲッティ', 'スパゲッティ', '鏡', '夕食', 'ピザ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['植物', '', '植物', '植物', '', '植物', '植物', '植物', '', 'アイリス']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	You are a helpful AI assistant. Question: この物は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['薄茶', 'お茶', '答えられない', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶']	この物は茶です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	You are a helpful AI assistant. Question: このショートパンツは何色で何パターンですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['プレッド', '青い色の黄色', '青 オレンジ 緑', '青い茶色 白いプレッド', '青いプレッド上 黄色いプレッド下', '多彩色', '青い白色', 'プレッド', '青いプレッド', '青白い緑色の黄色いプレッド']	このショートパンツは青、黄色、オレンジ、白の色で、グリッドパターンです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	You are a helpful AI assistant. Question: ケースは何色だった?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['緑色', '緑色', 'リンゴ緑', 'ケースグリーン色', '緑色', '緑色', '緑色', '緑色', '鮮やかな緑色', '緑色']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	You are a helpful AI assistant. Question: これは普通のコカ・コーラか ダイエットコカ・コーラですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ダイエットコーク', '食事', '食事', '食事', '食事', '食事', 'ダイエットコーク', '食事', 'ダイエットコーク', '食事']	ダイエットコカ・コーラです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ペン', 'キーボードペンを', 'ペン', 'ペン', 'ペン', 'ペン', 'ペン', 'ペン', 'ペン', 'バイクペン']	何してるんだ?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ランプの缶プリングル', 'ランプ', 'ランプ', 'ランプ', 'プリングルの缶 CDランプの隣', '遮光灯', 'ランプ', 'テーブル・プリングル・ランプ 口水', 'ランプ', 'ランプ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	You are a helpful AI assistant. Question: このコンピュータは何をしているの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['チェックシステム', '答えられない', 'ディスクチェック', 'チェックディスク', '答えられない', '答えられない', '荷物', '設定する', '一貫性確認', '再起動']	このコンピュータは、NTFSファイルシステムを使用したディスクの処理を実行している。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	You are a helpful AI assistant. Question: これは何種類のソーダ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ダイエットコーク', '音', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコークーラ', 'ダイエットコーク', 'ダイエットコーク']	コカ・コーラ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	You are a helpful AI assistant. Question: この本のテーマを教えてください\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['クライヴ・カスラー ディルク・カスラー', '答えられない', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー ディルク・カスラー', 'サイフィ', '緊張感', 'オリーブ・クスラー ディルク・クスラー', '行動', '答えられない', 'クライヴ・カスラー']	この本のテーマは、テキストと画像から推測すると、サスペンスやスリラーのジャンルであるようだ。作者の名前が大きく表示され、作品のタイトルも含まれているため、読者はこの作者が書いた他の作品を期待するかもしれない。Priority #1のマークは
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	You are a helpful AI assistant. Question: これはどんなワインですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '結婚祝い デイビッド・エマ レッドワイン', 'ナッシュ', 'ナッシュ', 'ナッシュ', 'ナッシュ', 'ナッシュ', '答えられない', '答えられない', 'ナッシュワイン']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ヨーグルト', '答えられない', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	You are a helpful AI assistant. Question: この本のタイトルは何ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['犬年', '犬年', '犬年', '犬年', '答えられない', '犬年', '答えられない', '犬年', '犬年', '犬年']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ソニーノートPC', 'ラップトップ', 'ラップトップ', 'コンピュータ', 'ラップトップ', 'ソニー・バイオ ラップトップ', 'ラップトップ', 'ソニー・ヴァイオ', 'ソニーノートPC', 'ラップトップ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	You are a helpful AI assistant. Question: このコンピュータのブランドは,不思議だ.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー']	ソニー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	You are a helpful AI assistant. Question: これはトマトかエンチラダソースか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['戦い', '裏のラベルには書いてない', '答えられない', 'トマト', 'トマト', 'トマト', '答えられない', 'トマト', '画像が不透明', 'トマト']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['プディング', 'プーディングスナック', 'バニラプッディング', 'プディング', 'バニラプッディング', 'プディング', '6パック スナックパック バニラプッディング', 'プディングカップ', 'プディング', 'スナックパックプディング']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['20ドルカナダ紙幣', '20ドルカナダ紙幣', '20 カナダ', 'お金', 'ロープに金をかけ', '20の口座', 'モンエー', '20ドルカナダ紙幣', '20ドル', 'お金']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ラーゼニー', 'ラーゼニー', '特別ラザニア', 'ラーゼニー', '特別のラザニア', '特別ラザニア', 'ローズン', 'ラーゼニー', 'ラーゼニア', 'ラーゼニー']	この箱にはレトロニシアンピザが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	You are a helpful AI assistant. Question: これはどんなコーヒーですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['エスペレッソ', 'エスペレッソ', 'ティモシー エスペレッソ', '熱帯雨林 エスプレッソ', '熱帯雨林エスプレッソ', 'エスペレッソ', '余分に大胆', 'エスペレッソ 熱帯', 'エスプレッソ・フォート・トロピカル', 'ティモテ']	これはティモシーブランドのエスプレッソコーヒーです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	You are a helpful AI assistant. Question: 何の写真か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['キーボードワイングラス', 'ラップトップ', 'ノートPCキーボード ワインビール', '答えられない', 'コンピュータ', 'コンピュータ', 'ラップトップの飲み物', 'グラス液体の隣にある机の上にラップトップコンピュータ', 'ラップトップのガラス', 'ガラスのノートパソコン']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['タイトルブック', '本', 'パンフレット', '備注', '悪魔のラム 簡単のお金帳', '悪魔のラム 簡単のお金: イギリスコロンビア州における政府規制酒', '本', '本', 'タイトルページ 本', 'パンフレット']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	You are a helpful AI assistant. Question: テーブルに何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ノートブック', 'ノートブックペンを用いた紙', '螺旋環付きノートブック', '紙ペン', 'ノートブック', 'ノートブックペンを', 'ノートブック', 'ノートブックペンを', '紙ペン', 'ノートブック']	テーブルの上には、ノートとペンが置いてあります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	You are a helpful AI assistant. Question: このシャツは何色?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['青い白いプレッド', '青 白', '青い白いプレッド', '青 白', '青い', '青 白', '青い白色', '青いプレッド', '青い', '青い']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['アンドレ・シャルドネ', 'シャンパン', 'アンドレ', 'シャンパン', 'ワイン', 'シャンパン', 'シャンパン', 'シャンパン', 'シャンパン', 'シャンパン']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	You are a helpful AI assistant. Question: 写真の缶の中の商品の名前は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	You are a helpful AI assistant. Question: これはどんなコーヒーですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ゲバリア', 'マシモ・ゲバリア・カフェ', 'マシモ', 'ゲバリア エスペレッソ', 'マシモ', '黒いコーヒー', 'マシモ', '答えられない', 'ゲバリア', 'ゲバリア']	これはオイッスワンコーヒーです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['胡', '缶詰 唐辛子ソーダ', '胡', '胡', '胡', '胡', 'ピーパーソード', '胡', '缶詰 唐辛子ソーダ', '胡']	ドクターペッパー飲料が入った缶です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	You are a helpful AI assistant. Question: どうか,何なのか教えて下さい. ありがとう.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['インスタントコーヒー', 'インスタントコーヒー', 'クラシックコーヒー', 'コーヒーパック', '答えられない', 'カフェ', 'カフェ', 'コーヒー粉', 'カフェ', 'ネスカフェクラシック']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	You are a helpful AI assistant. Question: 左から右に3本のワイヤーはどんな色ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['赤 黒 白', '赤 黒 白', '赤黒色', '赤 黒 白', '赤 黒 白', '赤 黒 白', '赤 黒 白', '赤 黒 白', '赤 青 白', '赤 黒 白']	左から右に3本のワイヤーは、赤、黒、白です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	You are a helpful AI assistant. Question: この妊娠検査で何がわかる?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['1行', '負', '負', '1 線が染料を散布する 別の試してください', '答えられない', '1条目', '画像がない', '赤線', '答えられない', '青いマーク 赤のマーク']	妊娠検査では、赤ちゃんが発生しているか否かを調べることができます。通常は尿からテストを実行し、赤ちゃんが発生しているか否かを示すマークが表示されます。このテストの結果は、赤ちゃんが発生しているか否かを示しています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	You are a helpful AI assistant. Question: この調味料の名前は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['フレッシュレモンペッパーミックス', 'ダイッシュ', 'ダッシュさん', 'ミセス ダッシュ レモンペッパー', 'ダッシュさん', 'ダッシュさん', '胡', 'ダッシュさん', 'ダッシュさん', 'ダッシュさん']	フレッシュペッパーブレンド
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	You are a helpful AI assistant. Question: こんにちは 右手のボトルにどんな飲み物があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ピープシ', 'ペプシソーダ', 'ダイエットペプシ', 'ダイエットペプシ', 'ダイエットペプシ', 'ピープシ', 'ダイエットペプシ', 'ペプシダイエット', 'ダイエットペプシ', 'ダイエットペプシ']	ペプシコーラ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ビデオゲーム', 'ビデオゲーム', 'バスケットボールゲーム', 'ビデオゲーム', '答えられない', 'DVD', '答えられない', 'ゲーム', 'ビデオゲーム', 'DVD']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ケチャップ', 'ケチャップ', 'ハインツトマトケチャップ', 'ケチャップのパック', 'ケチャップのパッケージ', 'ケチャップ', 'ケチャップ', 'ケチャップのパック', 'ケチャップ', 'ケチャップ']	これはケチャップ袋です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	You are a helpful AI assistant. Question: このシャツは何色ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['赤 白', 'ブラウン', '赤 白', '赤白のストライプ', '赤白のストライプ', '赤 白', '赤 白', '赤 白', '赤 白', '赤 白']	このシャツは赤と白のストライプです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	You are a helpful AI assistant. Question: このパッケージには何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['議会の写真', '音楽アルバム', '煙草', '煙草', '煙草', '煙草', 'パヒマント 埋め込みフィルター', '議会のタバコ', 'カード', '煙草']	このパッケージにはタバコが含まれています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	You are a helpful AI assistant. Question: このマットは何色ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色']	紫色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	You are a helpful AI assistant. Question: その絵には対話がより見えるか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['退屈', 'わかった', '違う', 'わかった', '違う', '違う', '違う', '違う', '違う', 'わかった']	その画像には対話がより見えるか?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	You are a helpful AI assistant. Question: この製品は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['緑豆', '緑豆', '緑豆', '出来る', '豆', '豆', '答えられない', '緑豆', 'fg', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	You are a helpful AI assistant. Question: この缶は何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['豚肉', '豚肉', '豚肉と豆', '豚肉', '豚肉', '豚肉', '豚肉', '豚肉', '豚肉', '豚肉']	この缶は豆を含む。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	You are a helpful AI assistant. Question: このワインは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', ' (う) めん', '2008年産 ナッシュ', 'ナッシュ', 'ナッシュ', '結婚記念品', 'ナッシュ 結婚祝い デイビッド・エマ 2011年7月16日', 'ナッシュ', 'ナッシュ', '祝い 結婚']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	You are a helpful AI assistant. Question: これは何のお料理?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['トマトソース', 'トマトソース', 'オーガニックトマトソース', 'トマトソース', 'トマトソース', 'トマトソース', 'ミュア・グレン オーガニックトマトソース', 'トマトソース', 'ミュア・グレン オーガニックトマトソース', 'トモト']	これはトマトソースです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	You are a helpful AI assistant. Question: これはどんな味?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー']	ストロベリー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	You are a helpful AI assistant. Question: これはどんな色ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック']	この写真の色は、ソファの皮革に使用された色です。ソファの皮革は深い青色で、縫い目には白い線が入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	You are a helpful AI assistant. Question: 何だ? ほら\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['植物', '装飾植物', 'アロエ', '室内植物', '室内植物', '家庭植物', '植物', '家庭植物', '植物', '草の植物']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['雑誌', 'コミック', 'コミック', '大人のボードゲーム', '雑誌', 'カラーリングブック', '奇妙なクリスマスブック', 'その言語を読めないかわからない', 'クリスマス・グリーティングカード', 'コミック']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['チキンディジョンディナー', '食品', 'チキンディジョン', 'チキンディジョン', 'チキンディジョン', '食品', 'チキンディジョン', '鶏肉', 'チキンディジョン', 'チキンディジョン']	この箱にはチキンディジョンが入っている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	You are a helpful AI assistant. Question: これは何種類のコーヒー?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ゲバリア', 'ゲバリア', 'フランス・バニラ', 'フランス・バニラ', 'ゲバリア', 'ゲバリア', 'フランス・バニラ', 'フランス・バニラ', 'フランス語', 'ヴァニラ']	これはフランスバラコーヒーです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	You are a helpful AI assistant. Question: この物体は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['iPhone', '電話', '電話', 'iPhone', '携帯電話', '携帯電話', '携帯電話', '電話する', 'スマートフォン', 'スマートフォン']	この物体は iPhone です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	You are a helpful AI assistant. Question: 何だ この?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '煙草', 'パックタバコ', '煙草', 'パックタバコ', '煙草', '煙草', '答えられない', '煙草', '煙草']	香烟。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	You are a helpful AI assistant. Question: これはどんな味?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['牛肉', '牛肉味', '牛肉', '牛肉味のブランデー', '牛肉', '牛肉の味', '牛肉味のブランデー', '牛肉', 'この牛肉の味', '牛肉']	これは牛肉味のベーコン風味です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['大きなカップ', 'カップ', 'カップ', 'カップ', 'トゴカップを愛している', 'カップ', 'ポップカップ 他の物', 'スタイロフームカップ', 'カップ', 'このカップ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	You are a helpful AI assistant. Question: これはダイエットペプシか 普通のペプシ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ダイエットペプシ', '食事', '答えられない', '食事', 'ダイエットペプシ', '食事', '食事', '食事', 'ダイエットペプシ', '食事']	これはダイエットペプシです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	You are a helpful AI assistant. Question: 画面に何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['アバストソフトウェア', 'ローカルドライブをスキャンする', '窓', 'エラーメッセージ', 'スキャン', 'アバストソフトウェアはWindows XPをスキャンします', '窓', '答えられない', 'windows xp', '答えられない']	画面には、Windows XPの起動画面が表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	You are a helpful AI assistant. Question: 起動メニューにアクセスしようとしています. USBドライブから起動しようとしています. どの画面が起動し,どのオプションがあるか教えてください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['押す下矢印を一度,USBを入力', '起動メニューは,hdd オプションから起動する', '答えられない', '靴の気分', '起動デバイスを選択してください.', '起動装置を選択してください:', '起動デバイス hdd: pm st9250315asを選択してください', '起動デバイスを選択してください.', '画面ヘッダ: 起動デバイスを選択します. usb:usb ディスクプロに矢印を1点下へ移動します.', '起動デバイスを選択してください.']	起動メニューにアクセスしようとしている画面は、ブートデバイスの選択画面です。表示されるオプションは「HDD: PM-ST9250315AS」や「USB: USB DISK Pro」など、ブートデバイスの種類を指定するためのものです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	You are a helpful AI assistant. Question: これはどんな味ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['食事 胡', '食事 胡', '胡のダイエット', '胡', '食事 胡', '食事 胡', '食事 胡', 'コラ', '食事 胡', '食事 胡']	これはドクターペッパー味です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	You are a helpful AI assistant. Question: これはどんなスープ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['野菜スープ', '進歩', '進行型', '答えられない', 'グラスソ 野菜', '答えられない', '野菜', 'グラスソ 野菜', '野菜', '進歩']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	You are a helpful AI assistant. Question: これはどんな車ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'リンカーン・クラウン・ビクトリア', '4ドアセダン', 'リンカーン', 'フォード・クラウン・ビクトリア', 'リンカーン', 'シェブロレット', 'ヴィクトリア王冠', '答えられない', 'フォード']	これは4ドアのセダンです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	You are a helpful AI assistant. Question: これはコーヒー?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア スイスハズルナッツ', 'ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア']	はい、コーヒーです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ゲルムックス', '細菌 x ハンド消毒剤', '細菌 x ハンド消毒剤']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	You are a helpful AI assistant. Question: 何の缶だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['スープ', '果物', '答えられない', '答えられない', 'スープ', '答えられない', 'スープ', '答えられない', '引き出し', 'スープ']	缶の内容は不明です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	You are a helpful AI assistant. Question: これは何色?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['茶色', '茶色', '茶色', 'オークブラウン', '茶色', 'ブラウン・メープル', '木製', '茶色', '茶色', '茶色']	これは木の色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '手', '手', '答えられない', '手', '手', '右手1本', '手', '手', '手']	何してるんだ?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	You are a helpful AI assistant. Question: 鍋の設定は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['カップ', '高度', '高度', '高度', '高度', '高度', '低', '高度', '高度', '高度']	低
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['盲人用品', 'cd', 'リバースCD', 'ブラインドディスク用品', 'cd', 'ディスク', 'CDの本', 'cd', '盲人向けCD用品', '槍 ジェームズ・ハーバート DVD']	これはCDです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	You are a helpful AI assistant. Question: 何だ? ほら\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['コンピュータのモニターキーボード', '監視器', 'コンピュータモニター', 'コンピュータ画面', 'コンピュータ', 'コンピュータモニター', 'コンピュータ画面', 'デスクトップ', 'グラフ', 'グラフ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	You are a helpful AI assistant. Question: この瓶に書いてあることは教えてくれないか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['温かいバニラ糖', '砂糖', '温かいバニラ糖', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖']	この瓶には、'温和なサックル'と書かれています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	You are a helpful AI assistant. Question: 画面に何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['インストール画面', '答えられない', '窓を設置する', 'インストール Windows の状態画面', 'windowsをインストール', '窓を設置する', '窓の設置の指示', '窓の設置の進捗状況', 'Windows Info をインストールする', '窓']	画面にはインストールウィンドウズのインストールプロセスが表示されている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['出来る', '出来る', '答えられない', '缶バッジ', '出来る', '豆', '答えられない', '豆', 'ストーブ', 'ストーブ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	You are a helpful AI assistant. Question: 何の飲み物なんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジ', 'オレンジジュース']	オレンジジュース
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	You are a helpful AI assistant. Question: この缶にはどんなポップが入ってるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['お茶', 'ネスティア', 'ネスティア レモン', '氷茶', 'ネスティア', 'ネスティア', 'ネスティア', '氷茶', '氷茶', '巣']	ネストリー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	You are a helpful AI assistant. Question: これはペッパーニピザですか? ペッパーニとソーセージ,最高級?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'わかった', 'ピーパーニ', 'ママコッツィペッパーニ 薄い殻', 'ピーパーニ']	はい、画像はペッパーニとソーセージのピザです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	You are a helpful AI assistant. Question: 中央の植物は何種か 分かってる?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '草', '草', '草', '草', '草', '違う', '違う', '草', '雑草']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['グラス', 'グラス', 'グラス', '眼鏡', 'グラスカップル', 'グラス', 'グラスカップル', 'グラス', '眼鏡', 'グラスカップル']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	You are a helpful AI assistant. Question: この場所について教えてください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オフィス', 'オフィススペース', 'オフィス', 'オフィス 2台 机 2台 椅子', 'オフィス', 'オフィス', 'デスク 黒いオフィスチェア', 'オフィス デスク', 'オフィス2台', 'オフィス']	この写真はオフィス環境を示しています。黒い皮革ソファと木製デスクは、オフィスで一般的な家具です。デスクの上の物体は、オフィスで使用される可能性のある日常用品や文具を示している。オープンな窓は自然光を提供し、オ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ノートブック', '計画者', '本', '本', 'カード', 'ノートブック', '計画者', 'ノートブック', 'リリー・プリッツァー 計画回転', 'ノートブック']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['テディベアローズ', 'テディベア', 'テディベア', 'テディベア', 'テディベア', 'テディベア', '熊', 'テディベア', 'テディベア', 'テディベア']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	You are a helpful AI assistant. Question: これはどんなスパイス?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['洋海塩', '洋海塩', '洋海塩', '洋海塩', '塩', '洋塩', '洋海塩', '洋海塩', '洋海塩', '洋海塩']	これはマシュマロンのみそ.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	You are a helpful AI assistant. Question: この缶の中身は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['食事 胡', '食事 胡', '食事 胡', '食事 胡', '胡', '食事 胡', '食事 胡', '食事 胡', '胡のダイエット', '食事 胡']	この缶の中身はドクターペッパー飲料です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	You are a helpful AI assistant. Question: このカップに何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['漫画', '漫画キャラクター', '漫画', '鳥を見ている男', '鶏肉', '男', '漫画マン', '鳥のスケッチ 男の木 月', '人動物', '漫画']	このカップにはデザインがあります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['背面', '少年', '男の頭', '人', '背中 誰かの頭 肩', '背中の人', '答えられない', 'グレーシャツ', '少年', '画像の裏側の人']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['スピーカー', 'スピーカー', '壁のスピーカー', 'スピーカー', 'スピーカー', 'スピーカー', '壁スピーカー', 'スピーカー', '猫のマウント', 'スピーカー']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	You are a helpful AI assistant. Question: 何書いてあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['タクシー電話番号', '何もない', '何もない', '電話', '都市タクシー', '領収書', '答えられない', '領収書みたいだ', '線', 'シティタクシー']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ニューオーリンズ様式 ジャンバライア ミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', '米', '山', 'ジャンバライアミックス', 'ジャンバライアミックス', '米', '箱製の混合物 ニューオーリンズ様式 ジャンバラヤ 米', 'ジャンバライアミックス']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	You are a helpful AI assistant. Question: マックって色んなの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['銀', '白い', 'ベージュ色 黒色', '白い', '銀', '銀', '銀', '銀', '白い', '銀']	マックは色んな機能があります。例えば、iCloudを使用してファイルを同期することができ、AirDropを使用してデバイス間でファイルを送受信することができます。また、Siriを使用して声で命令を入力し、FaceTimeを使用して動画通話を行うこともできます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	You are a helpful AI assistant. Question: 缶の中には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オーガニックで焼いた豆', '焼いた豆', 'オーガニックで焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆']	缶の中には有機のバケツ Bean がある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マカローニチーズ', '答えられない', 'マカローニチーズ', '3 チーズマカロニー', 'マカローニチーズ', 'マックチーズ', 'マカローニチーズ', '夕食', 'マクナチーズ', '殻チーズ']	この箱には三つのおいしいチーズトロイサゲがあります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ザタラインズ ニューオーリンズ スタイル ジャンバライア ミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', '米', 'ザタライン ジャンバライア ミックス', '山', 'ザタライン ジャンバライア ミックス', 'ジャンバライアミックス']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	You are a helpful AI assistant. Question: 何なんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['品質の高いストリート・キャンディ', 'キャンディボックス', '甘いもの', '甘いもの', '硬い甘いもの', '甘いもの', '甘いもの', '甘いもの', '品質通り', '甘いもの']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	You are a helpful AI assistant. Question: 申し訳ありませんが,この写真に正確に何が見えるか教えてください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['冷蔵庫', '冷蔵庫', '冷蔵庫', '小さな冷蔵庫 のトレイ ライト 壁にタイル付きのステッカー', '冷蔵庫', 'ミニ冷蔵庫', 'ミニ冷蔵庫', '壁の扉', '白い冷蔵庫', '冷蔵庫']	この写真は白い家電製品が見える。特に、前面には「警告」ラベルがあり、注意を促している。ラベルの詳細は写真では見えません。家電製品の周囲には、壁や台所のカウンターなどの室内が見えます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	You are a helpful AI assistant. Question: 箱の中身は何書いてある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['素敵な孫たち', '素敵な孫について', '素敵だった', '孫よりも楽しいものはない', '孫があなたの膝で争うより 楽しいことは少ない', '素敵な孫たち', '素敵な孫たち', '孫があなたの膝で争うより 楽しいことは少ない', '答えられない', '素敵な孫たち']	箱の中身は「ファイアオブロマンス」、「ファイアオブロマンス」、「ファイアオブロマンス」、「ファイアオブロマンス」と書いてある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	You are a helpful AI assistant. Question: 空はどんな感じですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['清潔', '日没 日出', '青い', '夕暮れ', '青い', '清潔', '清潔', '落ち着いて', '淡い青', '青い 明るい青い近地平線']	空は静かな雰囲気があります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	You are a helpful AI assistant. Question: このシャツは何色ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ブラウン', '茶色', 'ブラウン', 'ベージュ', 'ベージュ', 'ピンク色', '茶色', 'ブラウン', '金', 'グレー色']	このシャツはベージュ色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	You are a helpful AI assistant. Question: 男の子か女児か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '少年', '少年', '女の子', '少年', '少年', '少年', '少年', '少年', '少年']	男の子
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	You are a helpful AI assistant. Question: これは何物ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['穀物', 'ほら', '穀物', 'ほら', '答えられない', '穀物', '蜂蜜のチア', 'ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら', '蜜', '蜜']	これはお菓子です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	You are a helpful AI assistant. Question: これは何色?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['赤い赤 黄色 白い青', 'プレッド', '緑 青 白 赤 プレッド', '多彩色', '青い', 'プレッド', '青緑 白赤', 'プレッド', '青白い緑色のプレッド', '青緑 赤 白']	これは緑、青、白、赤の色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['熱いココア', '熱いココアミックス', '熱いココアミックス', '熱いココアミックス', 'カコアミックス', '熱いココア', '熱いチョコレート', '熱チョコの混合物', '熱チョコのパック', '熱いチョコレート']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'ハムス 特別 軽ビール', 'ビール', '答えられない', '答えられない', 'ビール', 'ビール', 'ビール', 'ビール', '特殊ライト']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	You are a helpful AI assistant. Question: これはチキンかセレニーですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['トマト', 'トマト', 'トマト', 'トマト', '違う', 'トマト', 'トマトスープ', 'トマト', 'トマト', '違う']	これはセレリーです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マックブックプロ', 'マックブックプロ', 'Macbook Pro について', 'マックブックプロ', 'Macbook Pro について', 'マックブックプロ', 'マックブックプロ', 'エアブックプロ', 'マックブックプロ', 'マックブックプロ']	これはノートパソコンです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	You are a helpful AI assistant. Question: この缶に何が入ってるか知りたい\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['焼いた豆', '焼いた豆', '豆', 'トマトソースの焼いた豆', '農婦 焼いた豆', '焼いた豆', '焼いた豆', '豆', '焼いた豆', '豆']	この缶には豆が入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['鶏肉', '答えられない', 'クリームなパルメザンチキン', '食品', 'テレビディナー', '食品', 'マックチーズ', '食品', 'マリー・コレンダーズ 食事', 'クリームなパルメザンチキン']	これは、カロリーカウンターのレシピを含む食品製品のパッケージです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ドル札', '1ドル札', 'ドル', '1ドル札', '1 について', '1ドル札', 'ドル札', '1ドル札', '1ドル札', '1ドル紙幣']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['遊戯カード', '2人の王', '双王', '遊戯カード', 'カード', 'カード', '遊戯カード', 'パア', 'カード', '遊戯カード']	これは扇子です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	You are a helpful AI assistant. Question: これは黒か青か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'グレー', '黒灰色', 'ブラック']	これは黒です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	You are a helpful AI assistant. Question: 画面に書いてあるのは?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['Google検索テキストボックス', 'グーグル', 'グーグル', 'グーグルで検索して 幸運を感じています', 'グーグル', 'グーグル検索', '答えられない', 'グーグル', 'グーグル', '答えられない']	画面に書いてあるのは「Google」。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['焼肉', '焼肉', '焼肉', '焼肉', '食品', '焼肉', '焼肉', '焼肉', '伝統的な焼肉', '伝統的な焼肉']	この箱には伝統的なローストビーフが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	You are a helpful AI assistant. Question: これは何種類のソーダ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['胡', '胡', '胡', '胡', '胡', '胡', '胡', '胡', '胡', '胡']	ドクターペップ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['テレビリモコン', 'リモコン', 'リモコン', 'リモート', 'リモコン', 'リモート', 'リモコン', 'リモコン', 'リモート', 'リモコン']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['家庭植物', '植物', '家庭植物', '植物', '植物', '植物', '植物', '盆栽植物', '植物', '室内植物']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	You are a helpful AI assistant. Question: 何なんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['机', 'コンピュータ', '机', '机', '机', '机', 'コンピュータ デスク', '机', '机', 'デスクコンピュータ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	You are a helpful AI assistant. Question: テーブルに何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ipod touch', 'アプリ', '電話', 'スマートフォン用紙', 'スマートフォン用紙', '電話', '電話', '電話', '携帯電話', '電話']	テーブルにはスマートフォンがあります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	You are a helpful AI assistant. Question: 何の写真か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ipad', '隣のIPadのコーヒーバッグ', '錠剤', 'ipad', 'Hulu ログイン画面', 'ほっといて', 'Hulu plus を表示するタブレット', 'タブレット Hulu Plus ログイン', '画面の色', 'タブレット上のHulu Plusのログイン画面']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	You are a helpful AI assistant. Question: この瓶は何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['シャンプー', 'シャンプー', '答えられない', '恋人', '恋人', '答えられない', 'トレセム ヘアケア', 'シャンプー', '香水', 'トレセムシャンプー']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	You are a helpful AI assistant. Question: これは何かのモデルですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ソーダ', 'スプライト', 'ソーダボトル', 'スプライト', '答えられない', 'スプライトソーダ', 'スプライト', 'スプライトボトル', '答えられない', 'スプライト']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	You are a helpful AI assistant. Question: この製品は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['チェックスミックス', 'チェックスミックス', 'チェックスミックス', 'チェックスミックスチェダー', 'チェックスミックス', 'チェックスミックス', 'シェフミックス', 'チェックスミックス', 'チェックスミックス', 'チェックス']	チーズミックス
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['煙火のターキー', '煙突パニニ', '煙突パニニ', 'トルコ パニニ', '煙突パニニ', '煙突パニニ', 'ストーファー詰め物', 'パニニ', '煙火のターキー', '煙突パニニ']	この箱にはサインチャー smoaked turkey PANINI がある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	You are a helpful AI assistant. Question: 賞を勝ち取るにはどんな文字をタイプすればいいのか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ']	MVG
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	You are a helpful AI assistant. Question: これは何という缶だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['トマト', 'ソース', 'トマト', 'トマト', 'ティン', 'トマト', 'トマト', 'トマト缶詰', 'トマト', 'トマト']	これはトマト缶だ。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	You are a helpful AI assistant. Question: これは何種類のキーリッグカップですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ドーナットハウス', 'カフェ', '箱', 'ドーナット', 'ドーナットハウスコレクション', 'ドーナット', 'ドーナット', 'ドーナット・ハットコレクション', 'ドーナットホール', 'ドーナツホールコレクション']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	You are a helpful AI assistant. Question: この本の名前をお願いします.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['半月夜', '答えられない', '作者 クライヴ・カスラー ディーク・カスラー', 'タイトルがない', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー ディルク・カスラー', '答えられない']	優先順位
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['お金', 'お金', '20ドル札', 'お金', '20ドル', '20ドル', '20ドル', '20ドル札', '20ドル', '20ドル札']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	You are a helpful AI assistant. Question: これはシャンプーか 洗面具か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ローション', 'ローション', 'ローション', 'ローション', '肌のクリーム', 'ローション', 'ローション', 'ローション', 'ローション', 'ローション']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	You are a helpful AI assistant. Question: この写真には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['クレーカー', '箱クレーカー', 'クレーカーボックス', 'クレーカーボックス', 'クレーカー', 'クレーカー', 'クレーカー', 'クレーカー', 'クレーカー', 'クレーカー']	この写真には、パッケージの近景が写っていて、製品の名前や詳細な情報が表示されている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	You are a helpful AI assistant. Question: この写真は何の写真?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['電話', 'マックブックプロ', 'マックブックプロ', 'コンピュータモニター', '答えられない', 'ラップトップ', 'コンピュータ', 'マックブックプロ', 'macbook pro スクリーン', 'ラップトップコンピュータ']	この写真は、MacBook Proのキーボードとディスプレイを中心にしたものです。ディスプレイは明るく、キーボードは暗い背景の中で見えます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['水', '水', '天然水晶', '自然水晶', '水瓶', '水瓶', '水瓶', '水', '水瓶', '水']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	You are a helpful AI assistant. Question: これはどんなピザ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ピーパーニ', 'ママコッシス', 'ママは薄いピザを', 'ピーパーニ', '冷凍ピザ', 'ピーパーニ', '薄い', 'ママ・コジスから薄殻ペッパーニ', 'ママは,薄い皮のペッパーニを', 'ママコッシス']	これはママコージーズのピザです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	You are a helpful AI assistant. Question: この缶には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['麦粉', '玉ねぎ', '玉ねぎ', '玉ねぎ', '穀物玉ねぎ', '穀物玉ねぎ', '玉ねぎ', '食品の価値が高く', '玉ねぎ', '玉ねぎ']	この缶にはゴールデンソースケリーが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マウス', 'コンピュータマウス', 'コンピュータマウス', 'コンピュータマウス', 'コンピュータマウス', 'hp ワイヤードマウス', 'コンピュータマウス', 'PC マウス', 'hp マウス', 'マウス']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オフィス', '椅子', 'オフィス', 'オフィス椅子', '椅子', '机椅子', '家庭事務', 'オフィス', '2台の机椅子', '椅子']	オフィスや学問の部屋の写真です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['テレビ', 'テレビ', 'テレビ', '古いテレビモニター', 'テレビ', 'テレビ', '監視器', 'テレビ画面', 'テレビ', '監視器']	これはテレビです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	You are a helpful AI assistant. Question: 私のシャツは何色ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['黒 白', '青 白 黒', 'ブラック', '青い', '海軍', '黒白の章', '黒 白', '青い', '青い', '黒 白']	黒です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	You are a helpful AI assistant. Question: これは何色?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['赤', '赤', '赤', '赤', 'ピンク', '赤', '赤', '赤', '赤', '赤']	赤
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	You are a helpful AI assistant. Question: 普通のチップですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['塩', '常時', '常時', '普通のチップ', '常時', '常時', '答えられない', '答えられない', '常時', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	You are a helpful AI assistant. Question: これはどんな箱ですか?オレンジジュースかミルクですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オレンジジュース', 'オレンジジュース', 'ほら', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジ', 'オレンジジュース', '紙の箱 オレンジジュース']	これはオレンジジュースの箱です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['チップス', 'チップス', 'チップス', 'じゃがいもチップス', 'じゃがいもチップス', '酸奶の洋チップス', 'チップス', 'じゃがいもチップス', 'チップス', 'じゃがいもチップス']	これはチップス袋です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	You are a helpful AI assistant. Question: このバッグには何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '冷凍野菜', '野菜', '胡卜 豆 玉ねぎ 豆', '野菜', '豆 胡 玉ねぎ', '混合野菜', '野菜', '混合野菜', '玉ねぎ 胡 豆 豆']	このバッグには野菜が入っている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	You are a helpful AI assistant. Question: スパークの味は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ピンク レモネード', 'ピンク レモネード', '答えられない', 'ピンク レモネード', '答えられない', 'ピンク レモネード', 'オレンジ', 'ストロベリー', '答えられない', 'ピンク レモネード']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	You are a helpful AI assistant. Question: これは何種?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['マンウィッチ', '答えられない', '答えられない', 'マンウィッチ', 'マンウィッチ', 'マンウィッチ', 'トマト', 'マンウィッチ', 'マンウィッチ', '怠け者ジョー']	マリネートナイト
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	You are a helpful AI assistant. Question: 今は何季節ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['スパゲッティ', 'スパゲッティ', 'スパゲッティの調味料', 'スパゲッティの調味料', 'スパゲッティ', 'スパゲッティの調味料', 'スパゲッティの調味料', 'スパゲッティ', 'スパゲッティ', 'スパゲッティの調味料']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['本', '雑誌', '垂直マガジン', '雑誌', '垂直マガジン', '雑誌', '雑誌', 'めまいがする雑誌', '雑誌', '雑誌']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	You are a helpful AI assistant. Question: この物体は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['壁', '壁', '壁', '壁', '答えられない', '答えられない', '答えられない', '壁', '壁', '壁']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['甘いもの', 'ストロベリー・ハード・キャンディー', '甘いもの', 'ストロベリー・ハード・キャンディー', 'キャンディ', 'ストロベリー・キャンディー', ' (す) げ', 'ストロベリー・キャンディー', '甘いもの', 'ストロベリー・ハード・キャンディー']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	You are a helpful AI assistant. Question: この靴は何色ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['茶色', 'ブラック', '茶色', '茶色', '茶色', '茶色', '茶色', '足', '茶色', 'ブラウン']	この靴は茶色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['コンピュータ画面', 'ウェブページ', '答えられない', '答えられない', 'ウェブサイト', 'コンピュータ画面', 'コンピュータモニター', '記事', 'バイズウィズ の pdf ファイル', 'バイズウィズpdfはぼやけたが,貢献者セクションが見えます.']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	You are a helpful AI assistant. Question: この写真って?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['監視器', 'ラップトップ', 'テレビ', 'コンピュータ', 'ラップトップ', 'テレビ', 'フラットスクリーンテレビ', 'ラップトップの画面', 'テレビ', '答えられない']	この写真は、部屋の照明が弱い環境で、テーブルの上に置かれたノートパソコンの画面を撮影したものです。画面は暗く、ノートパソコンの反射が見えるため、周囲の環境が暗いことを示しています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['携帯電話', '携帯電話', 'バイジャー', '答えられない', '電話', '携帯電話', 'ブラックベリー携帯電話', '携帯電話', '携帯電話', '携帯電話']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	You are a helpful AI assistant. Question: 何だ この?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['冷蔵庫', '答えられない', '冷蔵庫', '寮の冷蔵庫', '冷蔵庫', '冷蔵庫', '冷蔵庫', 'ミニ冷蔵庫', '冷蔵庫', 'ミニ冷蔵庫']	冷蔵庫
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	You are a helpful AI assistant. Question: この服とどんな色の宝石を着るべきか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['銀', '銀', '白い', '金', 'ブラック', '銀', '銀', '銀', '銀', '銀']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['足', 'ジーンズ', '', 'パンツの足', '腕ソファ', 'パンツ', '枕', '答えられない', 'パンツの足', '足']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['犬', '答えられない', '犬', '犬', '犬', '犬', '犬', '犬', '答えられない', '犬が床に']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['リモート', 'リモート', 'リモコン', 'テレビコントローラ', 'テレビリモコン', 'リモコン', 'リモート', 'リモート', 'リモコン', 'リモコン']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	You are a helpful AI assistant. Question: このバナナは緑色か黄色か.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['薄緑色', '黄色', '黄色', '黄色', '緑色', '黄色', '黄色', '黄色', '黄色', '黄色']	このバナナは緑色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	You are a helpful AI assistant. Question: この製品は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['穀物', 'カシゴー 痩せた クランク ハネ アーモンド リン', 'カシは痩せていって', 'ゲリアン・クランチ・カシ', '穀物', '痩せたクランチ・シリアル', '痩せていって', 'カシゴー 痩せた クランク ハネ アーモンド リン', '穀物', '穀物']	この製品は「ゴールエン・クランチ」の名称で、カシーのブランドの穀物多重クラスターセレルを含む天然糖分が少ない穀物多重クラスターセレルを含む穀物多重クラスターセレルを含む穀物多
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	You are a helpful AI assistant. Question: テレビ画面には今何が映っているのか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['何もない', '何もない', '消さない', '何もない', '何もない', '何もない', '何もない', '何もない', '答えられない', '何もない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['肉', '牛肉ステーキ', '牛肉', 'パッケージステーキ', '肉', '肉', '答えられない', '牛肉ステーキ', 'ステーキ', '肉']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	You are a helpful AI assistant. Question: このメッセージは何と言いますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '復元完了', '答えられない', '復元完了', '復元完了', '答えられない', '復元完了', '復元完了', '復元完了', '復元完了']	このメッセージは、コンピュータの復元が完了したことを示しています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	You are a helpful AI assistant. Question: この缶にはどんな食べ物があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['スープ', 'グラセソ ガーデン 野菜 スープ', 'ガーデン野菜スープ', '野菜スープ', 'ガーデン野菜スープ', 'ガーデン野菜スープ', 'スープ', 'グラセソ ガーデン 野菜 スープ', '庭野菜', 'ガーデン野菜スープ']	この缶にはベジタブルクラシックガーデンソースのプログレッソのスープが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '出来る', '切り豆湯', '切り豆湯', '切り豆湯', '切り豆湯', 'スープ', '豆腐スープを分割できる', '切り豆湯', 'スープ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	You are a helpful AI assistant. Question: ソファかテーブルか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'このテーブル']	テーブル.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	You are a helpful AI assistant. Question: この缶にはどんな食べ物があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ローチ', 'ローチ', 'ローチ', '玉ねぎ', 'ローチ', 'ローチ', 'ローチ', 'ローチ', 'ラビオリー', 'ローチ']	この缶にはラーメンがある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	You are a helpful AI assistant. Question: 画面に何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['エラーメッセージ', '起動修理のポップアップ パソコンを再起動', '再起動', '起動修復を終了したいか確認するダイアログボックス', '起動修復', 'windows 更新の指示', '答えられない', '起動修復', 'コンピューターを再起動するオプション', '起動修復']	画面にはコンピューターの再起動メッセージが表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	You are a helpful AI assistant. Question: 試してみよう これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['豆', '焼いた豆', '豆', '焼いた豆', ' 焼いた豆', '出来る', '缶バッジ', ' 焼いた豆', '焼いた豆', '豆']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	You are a helpful AI assistant. Question: これはどんな電話なのか教えて下さい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'アンドロイド', 'ロープ', 'わかった']	LGブランドの携帯電話です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['スマートフォン', '携帯電話', '携帯電話', '電話', '携帯電話', '携帯電話', '携帯電話', 'スマートフォン', '電話', '電話']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ラップトップ', '手', 'ノートPCのキーボード', '手', '指', '手', '答えられない', '答えられない', '机', '手']	何してるんだ?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['カバーネット 2009', 'ワイン', 'ワイン', 'ワイン', 'カベルネ・サヴィニヨン', 'ワインのボトル', 'ワイン', 'ワイン', 'カーベネット 2007年', 'ワイン']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	You are a helpful AI assistant. Question: その瓶には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['コーク', 'ソーダポップ コカ・コーラ', 'ソーダ', 'コカ・コーラ・ソダ', 'ソーダ', 'ソーダ', 'コーク', 'ソーダ', 'コーク', 'ソーダ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	You are a helpful AI assistant. Question: これはどんな色ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['赤白のストライプ', '赤', '赤白のストライプ', '赤白のストライプ', '赤 白', '白色 赤色', 'シャツ', '赤 白', '赤 白', '赤 白']	これは赤と白です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	You are a helpful AI assistant. Question: この袋には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', '切ったブロッコリー', '蒸しにして 切ったブロッコリーを', 'ブロッコリー']	この袋には、蒸し込みのためのカットブロッコリが含まれています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	You are a helpful AI assistant. Question: 何のためのクーポンだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト 10$', 'ヨープライト', 'ヨーグルト 10$', 'ヨーグルト', 'ヨーグルト', '割引', 'ヨーグルト']	このクーポンは、ヨガルトを10ドルで買うときに5ドル引きになることを目的としています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ネスティア', '缶詰のアイスティー', 'レモン', 'ネスティア レモン', 'ネスティア', 'ネスティア', 'ネスティア', 'ネスティア', 'フィエスタ', 'ネスティア']	これはリフレッシュドリンクです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ipad', '錠剤', 'コンピュータ', 'ipad', 'マウスパッド', 'ラップトップ', '窓', '錠剤', '答えられない', 'ipad']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	You are a helpful AI assistant. Question: 画面に何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['復元をしたいですか? 復元をしたいですか?', 'エラーメッセージ', 'システム復元を使用してコンピュータを再起動したいですか?', 'スタートアップ', '起動済みの診断画面', 'コンピュータを再生するには,この方法を使用したいですか?', '起動修復', '起動修復', 'コンピュータを再現する質問', 'システム復元を使用してコンピュータを再起動したいですか?']	画面には、コンピューターの起動復元ウィンドウが表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	You are a helpful AI assistant. Question: ありがとう 時間をかけて 答えてもらった\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	You are a helpful AI assistant. Question: 画面に何書いてある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['システムCDを使ってコンピュータを再現したいですか?', '復元する', 'システムを使用してコンピュータを再現したいですか?', 'コンピューターが起動できませんでした 修理を開始します システムの問題を確認します', 'システムを使用してコンピュータを再現したいですか?', '起動修復', 'コンピューターが起動できない', '起動 修理 システム上の問題をチェック', 'コンピューターが起動できない', '復元する']	画面には、コンピューターの再起動を試みた際に発生した問題を解決するための「スタートアップ修正」ダイアログが表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	You are a helpful AI assistant. Question: この缶には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['野菜', 'ワルグルウェイ', '混合野菜', '野菜原産', '混合野菜', '野菜', 'ウェガール', '野菜', '野菜', '混合野菜']	この缶にはベジタブルソースが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	You are a helpful AI assistant. Question: 画像に何が見えるか\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['何もない', '天', 'シンク', '天', '答えられない', '天', '何もない', '答えられない', '答えられない', '天']	画像は曇った空を示している。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	You are a helpful AI assistant. Question: どんなソダ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ 0', 'コカ・コーラ 0', 'コーク 0', 'コカ・コーラ 0', 'コカ・コーラ 0']	コカコーラ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	You are a helpful AI assistant. Question: これはどんなシステム?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['デスクトップ', '答えられない', '窓', 'デスクトップコンピュータ', '窓', '窓', '窓', 'Windows PCについて', '窓', '窓']	パソコンシステム.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	You are a helpful AI assistant. Question: 何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['スピーカー', 'スピーカー', '床', 'スピーカー', '音声高音箱システム', 'スピーカー', 'スピーカー', 'スピーカー', 'スピーカー', 'スピーカー']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	You are a helpful AI assistant. Question: 携帯のライトを監視してる?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', '違う', 'わかった']	携帯のライトを監視してる? - 答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	You are a helpful AI assistant. Question: この瓶に何が書いてあるか教えてくれる?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖ローション', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かい砂糖バニラ']	この瓶には「温和なバニラ砂糖」が書いてあります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	You are a helpful AI assistant. Question: このカードの番号を教えて下さい この質問は聞こえますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['聞いてない', '税金制度について', '労働組合の代表者', '税金について', '税金制度について', '税金制度について', '1 877 328 9677 はい', '税金について', '税金制度について', '8007352929 ノ']	1-866-328-4212
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	You are a helpful AI assistant. Question: 部屋の明かりは 消えたか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['灯り消して', '消して', 'について', '消して', 'について', '答えられない', 'について', 'について', 'について', 'について']	部屋の明かりは消えた。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	You are a helpful AI assistant. Question: これはどんな味?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['桜', 'ピンク レモネード', 'フルーツパンチ', 'ピンク レモネード', 'ピンク レモネード', '答えられない', '答えられない', 'ピンク レモネード', '桜', 'ピンク レモネード']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	You are a helpful AI assistant. Question: このメッセージは何と言いますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['復元完了', '答えられない', '復元が成功しました', '復元完了', '復元完了', '復元完了', '復元完了', '登録完了', '復元完了', '復元完了']	このメッセージは「復元が完了しました」と言います。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	You are a helpful AI assistant. Question: 私のシャツは何色ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['白い', '白い', '白い', '白い', '白い', '白い', '白い', '白い', '白い', '白い']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['洗濯機の色調療法', 'シャンプー', '洗濯機の色調療法', 'シャンプー', 'カラーセラピーシャンプー', 'シャンプー', '色療法', 'シャンプー', '拍手 進行色彩療法', '色療法']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['缶', '猫の餌', '答えられない', 'シンク', '出来る', 'シンク', '洗濯', 'シンク', 'シンク', '出来る']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	You are a helpful AI assistant. Question: これは何ゲームだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ESPN NFL 2K', 'サッカー', 'NFL 2k', 'ESPN NFL 2K5 について', '2k5', 'ESPN2K サッカー', 'NFL 2k', 'サッカー', 'NFL 2k', 'サッカー']	これはNFL2Kと呼ばれるゲームです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['パニニ', 'パニニ', '煙突パニニ', '煙突パニニ', '煙突パニニ', 'ストーファー 喫煙 トルコ パニニ', 'トルコ パニニ', '答えられない', '煙突パニニ', '煙突パニニ']	この箱には、スチュアートのサインチャー smokey smoked turkey PANINI が入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	You are a helpful AI assistant. Question: この箱には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ラーゼニー', '冷凍夕食', '特別ラザニア', '特別ラザニア', 'ラーゼニー', '特別ラザニア', 'ラーゼニー', 'ラーゼニー', 'ラーゼニー', 'ラーゼニー']	この箱にはラサgneがあります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	You are a helpful AI assistant. Question: この物体は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['自然谷 オーブス ダークチョコレート グランロラバー', 'クランチバー', 'グランロラバー', 'グランロラバー', 'グランロラバー', 'グランロラバー', 'オーブス ブラックチョコレート', 'オーブス 濃いチョコレート 脆いバー', '濃いチョコレート グランロラバー', 'グランロラバー']	この物体はチョコレートバーです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ビデオゲーム', 'プレイステーション2ゲーム', 'プレイステーション2 スター・ウォーズ 戦場のゲーム', 'ステーション スタート ウォーズ ゲーム', 'ビデオゲーム', 'ビデオゲーム', 'スター・ウォーズ戦線2', 'ゲーム', 'プレイステーション2ゲーム', 'PSIゲーム']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	You are a helpful AI assistant. Question: コーヒールームか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['フランス・バニラ', 'フランス・バニラ', 'フランス・バニラ', '巣', 'バニラ', 'フランス・バニラ', 'カフェマット', 'フランス・バニラ', 'フランス・バニラ', 'フランス・バニラ']	コーヒールームか?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オレンジジュース', '汁', '汁', 'オレンジジュース', '汁', '滑らか汁のいい', '滑らか 汁みつ', '汁', 'オレンジジュース', '汁']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	You are a helpful AI assistant. Question: この耳首の石は何色だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ピンク', '紫色', '赤', 'ピンク', '紫色', 'ピンク', 'ピンク', 'ピンク', 'ピンク', 'ピンク']	この耳首の石はピンク色です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	You are a helpful AI assistant. Question: この電子機器のラベルには何書いてあるのか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	You are a helpful AI assistant. Question: この画面に書かれているのは 何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', 'スクリーンを読み取れない', '答えられない', '答えられない', '答えられない', '読み取れない', '答えられない']	この画面に書かれているのは、ソニー製の携帯ゲーム機「プレイステーションポータブル」です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	You are a helpful AI assistant. Question: この瓶には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', 'ローション', 'ビタミン', '答えられない', '答えられない', '答えられない', 'わからない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	You are a helpful AI assistant. Question: このエネルギーバーは何味?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ストロベリー', 'ベリー・アーモンド・クランチ', '答えられない', '答えられない', '答えられない', '答えられない', 'アップル・クランチ', '答えられない', '答えられない', 'ベリー・アーモンド・クランチ']	このエネルギーバーは「ベリー味」です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '注意', 'n について', '答えられない', '答えられない', 'ニュース', '答えられない']	これは新聞です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	You are a helpful AI assistant. Question: これはどんな料理?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	You are a helpful AI assistant. Question: 情報を入手して欲しいので, ありがとうございました. ありがとうございました.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['知らない', '答えられない', '答えられない', '家庭用IP9スピーカードック', '答えられない', 'シャン', '答えられない', '携帯機', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	You are a helpful AI assistant. Question: すまない どうしたらいいか分からない こんな写真撮ったことない\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['移動してカメラが焦点化します', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	すまない どうしたらいいか分からない こんな写真撮ったことない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	You are a helpful AI assistant. Question: どちらが一番いい映画か.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'シンプル']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['このスライド', 'ピンク', '答えられない', '紫色', '答えられない', '答えられない', '輝く', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	You are a helpful AI assistant. Question: このローションの名前は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '症', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	You are a helpful AI assistant. Question: いつ切れるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['石油', '答えられない', '答えられない', '2013年7月23日', '2013年9月23日', '答えられない', '答えられない', '答えられない', '2013年9月23日', '答えられない']	切れるのはいつかはっきりしない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	You are a helpful AI assistant. Question: これ,何時間煮るんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '5分', '答えられない', '答えられない', '5分', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['カーネックス', '角', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '電話', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	You are a helpful AI assistant. Question: この曲は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '写真のバグ', '答えられない', '答えられない', '答えられない', '虫']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	You are a helpful AI assistant. Question: 窓の下には このシステムを自動で修理できないって書いてあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'このコンピュータを自動的に修復できません.', '答えられない', 'スタートアップ', 'このコンピュータを自動的に修復することはできません.', '答えられない']	窓の下にはこのシステムを自動で修理できないって書いてある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	You are a helpful AI assistant. Question: このパッケージにはナトリウムがどれくらい入ってるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'サモア', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	You are a helpful AI assistant. Question: 画面に 回復しているって書いてあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	You are a helpful AI assistant. Question: カーテン?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '勉強を続けろ', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	You are a helpful AI assistant. Question: この仲介の名前は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '0 について', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	You are a helpful AI assistant. Question: どれだけの色ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['赤 白', '答えられない', '白い', '白い', '答えられない', '赤 白', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	You are a helpful AI assistant. Question: ルーターのラベルに どういう意味があるのか 説明してください\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	You are a helpful AI assistant. Question: このバスカードの有効期限は何ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	You are a helpful AI assistant. Question: 言ってみろ\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', 'ゾノ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	You are a helpful AI assistant. Question: これは何と言いますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '行列列 曖昧な数字', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	You are a helpful AI assistant. Question: 何時になったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', 'カメラのレンダリングクロックが読み取れない', '見えない', '答えられない', '答えられない', '分からない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	You are a helpful AI assistant. Question: このシャンプーの使い方説明は教えて下さい.ありがとうございました.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '電子機器の生産', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	You are a helpful AI assistant. Question: 復旧するにはボタンを押す必要があるか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['システム再開', '答えられない', 'わかった', '答えられない', '答えられない', '答えられない', '違う', '違う', '待って', '接続する']	ボタンを押す必要があります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	You are a helpful AI assistant. Question: この写真に映っているカードは,何と言いますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '示されていない', '答えられない', '答えられない', '答えられない', '言葉は無い', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	You are a helpful AI assistant. Question: テスト?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', 'リモート', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '周囲音 リモコン', '写真は問題ではありません']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	You are a helpful AI assistant. Question: 本当のことだ\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '知らない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	You are a helpful AI assistant. Question: 画面が見えなくて,ウェブサイトから何かを要求するために必要なものです. 驗證碼とは何か教えて下さい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['1ではない', '答えられない', '答えられない', '違う', '答えられない', '違う', '答えられない', '答えられない', '違う', '違う']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	You are a helpful AI assistant. Question: 十戒は書いてあるけど 何の十戒だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['神 が 信者 に 与え て いる 規則 を 定め た', '答えられない', '答えられない', '道徳 の ルール', '答えられない', '神々の戒め', '答えられない', '答えられない', '法律', '答えられない']	十戒はユダヤ教とキリスト教の宗教的指南である。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	You are a helpful AI assistant. Question: パソコンの画面に何書いてある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ぼんやりすぎた', '画面が空いている']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	You are a helpful AI assistant. Question: これはどんな乳粉?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '赤ちゃんの配方食品は 見えません', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	You are a helpful AI assistant. Question: この薬は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	You are a helpful AI assistant. Question: これはどんなカードですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '赤のクレジットカード', '答えられない', '答えられない', '答えられない', 'クレジットカード', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	You are a helpful AI assistant. Question: このカードに何書いてあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '視界は1 6 12だけ', '答えられない', '何もない', '答えられない', 'ポイント', '答えられない', '答えられない']	この写真は、紙の表面に書かれた文字を写したものです。画像の分解能や角度のため、文字が完全には読めない。しかし、画像の下部に「1/6/12」という日付が書かれているようだ。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['石けん', '製品', '答えられない', '牛乳', '答えられない', '答えられない', '眼薬', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	You are a helpful AI assistant. Question: じゃあ,これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ジャックリンク', 'ザ', '答えられない', '答えられない', '答えられない', '牛肉', '答えられない', '牛肉', '答えられない', '答えられない']	蛋白質のサンプルです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	You are a helpful AI assistant. Question: これは何のためのプレゼントカード?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられないイメージ', '答えられない', '分からない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	You are a helpful AI assistant. Question: これはどんな缶詰の食べ物?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['リンゴ', '答えられない', 'リンゴ', '答えられない', '答えられない', '答えられない', '答えられない', 'リンゴ', '答えられない', 'リンゴ']	これはキウイの缶詰です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	You are a helpful AI assistant. Question: 何時になったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '税金', '答えられない', '答えられない', '午後5時13分', '午後5時13分', '答えられない', '午後5時10分', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	You are a helpful AI assistant. Question: この缶には何が入ってるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['分からない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	You are a helpful AI assistant. Question: オーブンの温度は何分,何分,蓋を穴を開ける必要があるか教えて下さい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', 'アスド', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	You are a helpful AI assistant. Question: このオーブンは準備ができているように見えるか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', 'オーブンではない', '答えられない', '答えられない', 'そう,準備ができていると思う.', '違う', '答えられない']	準備ができているように見える。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	You are a helpful AI assistant. Question: 助かった?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '違う', '違う', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	You are a helpful AI assistant. Question: タイプするコードは何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'メール', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	You are a helpful AI assistant. Question: どんなシャツを着ているの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'シルク', '答えられない', '答えられない', '白い', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	You are a helpful AI assistant. Question: 凍った夕食の種類を教えて下さい\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '画像は空白', '何もない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	You are a helpful AI assistant. Question: これは何ブランド?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', 'サニョ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	You are a helpful AI assistant. Question: オーブンの温度設定は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', 'gfdsg', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	You are a helpful AI assistant. Question: この瓶の中身は教えてくれないか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['トマトソース', '答えられない', '答えられない', '答えられない', '答えられない', 'パスタソース', '答えられない', '答えられない', 'トマトソース', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'アジトロマイシン錠 250mg', '錠剤', '答えられない', '答えられない', '250 mg 服用量', 'アジトロマイシン錠', '答えられない', '答えられない', '答えられない']	抗真菌剤。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	You are a helpful AI assistant. Question: この言葉を読んでください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '音が聞こえない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	You are a helpful AI assistant. Question: これはバリアム?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '薬の名前を読めない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	You are a helpful AI assistant. Question: 何の歌だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '楽譜', '答えられない', 'アルバム', '答えられない', '答えられない', '答えられない', 'シンギング シンギング', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	You are a helpful AI assistant. Question: これはHPのノートPCです. キーボードとカードリーダーがどこに位置しているか知りたいです. できるだけ具体的にしてください. ありがとうございました.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '横に', '答えられない', '私はカードリーダーを見ることができない SDカードリーダー通常左角前端にある', '答えられない', '答えられない', '答えられない']	キーボードはノートPCの下部にあります。カードリーダーはキーボードの左側にあります。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	You are a helpful AI assistant. Question: その香水の名前は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '名無し', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	You are a helpful AI assistant. Question: これはどんなRAM?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'ロープ', '答えられない', '答えられない', 'ddr sdram pc3200', '知らない', '答えられない', '答えられない', '答えられない', 'ドル']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	You are a helpful AI assistant. Question: 分かってるけど 白いトラックの後ろは 穴がついたようで\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '違う', '顔面から見た写真では 異常なものは何も見えない', '違う', '答えられない', '答えられない', 'ランク', '答えられない', '違う', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	You are a helpful AI assistant. Question: これはどんなスープ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '鶏肉', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	You are a helpful AI assistant. Question: コンピュータの画面に何が映っているか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	コンピュータの画面には、画像が表示されていないようで、画面が暗い。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	You are a helpful AI assistant. Question: どうした?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'スープ', 'スープ', '缶スープ', '答えられない', '答えられない', '答えられない', '答えられない', 'スープ', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['カーペット', '紙タオル', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '紙タオル', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	You are a helpful AI assistant. Question: これはどんな味?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '常時', '元の', '答えられない', '振り向いて', 'チーズ', '絵画家']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	You are a helpful AI assistant. Question: 3つの画像のうちのどれが Googleのロゴですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '0 について', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '最初の画像', '左']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'わからない', 'ぼんやり', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '標識', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	You are a helpful AI assistant. Question: 石が欠落してる?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない', '画像の質が不十分', '答えられない', '違う']	欠けている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	You are a helpful AI assistant. Question: これはどんなブランドのコローニーなのか知りたい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	You are a helpful AI assistant. Question: このチーズの有効期限は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ほら', '読み取れない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	You are a helpful AI assistant. Question: 温度計は何温度に設定されているか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '75 について', '答えられない', '75 について', '答えられない', '75 について', '75 について', '答えられない', '見えない']	温度計は設定されていないようだ.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	You are a helpful AI assistant. Question: このシャツは何色だ.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', 'ブラック', '答えられない', 'ブラック', '答えられない', '答えられない', '答えられない', 'ブラック', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	You are a helpful AI assistant. Question: 展示には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['誤りリブートメッセージ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'sys', '答えられない', '答えられない', '答えられない']	表示には、コンピューターの起動時に表示されるエラーメッセージが表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	You are a helpful AI assistant. Question: これはどんなソダですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'わからない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	You are a helpful AI assistant. Question: 何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '毛', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	You are a helpful AI assistant. Question: どうか,この中に何があるか教えて下さい.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '箱', '答えられない', '小箱', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	You are a helpful AI assistant. Question: 温度計は何温度に設定されているか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '読み取れない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	You are a helpful AI assistant. Question: この瓶は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '知らない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	You are a helpful AI assistant. Question: この文字を全部 持ってきてくれる?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['アロベルギー・チャベス', '答えられない', 'わかった', 'わかった', '答えられない', 'アロベルギー・チャベス', '答えられない', '違う', '答えられない', 'わかった']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	You are a helpful AI assistant. Question: このバージョンのプロダクトキーオフ\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	You are a helpful AI assistant. Question: 待ってて 待ってるんだ\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '靴', '答えられない', '靴', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	You are a helpful AI assistant. Question: テキサス州ダラスで気温は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['午後3時40分54秒', '答えられない', '答えられない', '答えられない', '21時17分 96度', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	You are a helpful AI assistant. Question: どうした?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '良かった', '答えられない', '答えられない', '答えられない', '答えられない', '良かった', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	You are a helpful AI assistant. Question: これは何ですか? 答えは何でした?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'わからない', '答えられない', '答えられない', '答えられない', '答えられない', '画面にログ', 'コンピュータ', '答えられない', 'スクリーンキャストマティック']	これはデスクトップコンピュータです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	You are a helpful AI assistant. Question: どうした?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['布の蓋のボトル', '答えられない', '毛布', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	You are a helpful AI assistant. Question: これは何ブランド?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', 'シーコ', '答えられない', 'ぼんやり', '答えられない', '答えられない', '答えられない', 'ウォッチ', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	You are a helpful AI assistant. Question: これは何サイトですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'iPhone のサイト で アプリ を 購入 する']	これはアプリケーションの購入サイトです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	You are a helpful AI assistant. Question: これは何という洗濯スープだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '日', '答えられない', '答えられない', 'スアベテル', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	You are a helpful AI assistant. Question: この瓶には何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['何もない', '答えられない', '答えられない', '答えられない', 'スープ', '答えられない', '答えられない', '答えられない', '食品', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	You are a helpful AI assistant. Question: これは何の領収書か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	You are a helpful AI assistant. Question: 手を握ったのは 間違いない\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['名刺', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	間違いない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', 'メリークリスマス', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	これは写真です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	You are a helpful AI assistant. Question: 何の写真を撮ってもいい?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['紙の時計', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ウォッチ', 'ミッキーマウス ポケットウォッチ', 'このポケットウォッチヘッドフォン']	写真を撮ることができます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	You are a helpful AI assistant. Question: 画面に何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'windows ライセンス条件', '部分的に画面外にある', '答えられない', '答えられない']	画面には、Microsoft Corporationのソフトウェアのライセンス条項が表示されている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	You are a helpful AI assistant. Question: これは何だ? でも,そう,折りたたむよ.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '折りたたむ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '手', '箱']	これは指を折った手です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	You are a helpful AI assistant. Question: これは何色?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['白灰色', '紫色', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '赤 白', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	You are a helpful AI assistant. Question: 何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '料理', '答えられない', '答えられない', '答えられない', 'コンピュータで机に座っている人の写真', '写真のリビングルームが見える', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	You are a helpful AI assistant. Question: 名前は何だった?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ユーフォリア', 'ユーフォリア', 'ユーフォニー', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	You are a helpful AI assistant. Question: 何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '軽い', '答えられない', '答えられない', '軽い', '薄い光', '答えられない', 'わからない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	You are a helpful AI assistant. Question: この箱のテキストを読んでください これは別の箱です\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ワ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	You are a helpful AI assistant. Question: 分からない 特定に8桁の番号を探してる\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '何も見えない 申し訳ない', '答えられない', '空白', '私はそんなものを見ることができない', '答えられない', '0 について', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	You are a helpful AI assistant. Question: (講演者) この本のタイトルを教えてください\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '音響音楽における和音材料', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	この本のタイトルは「楽器材料の音響学 第10版 Part I」です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['デバーマン', '何もない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '手持ちのパッケージ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	You are a helpful AI assistant. Question: 画面に何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	You are a helpful AI assistant. Question: わかってる\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['分からない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	You are a helpful AI assistant. Question: セキュリティー質問や セキュリティ番号や文字を教えて下さい 編集欄に追加できます\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	You are a helpful AI assistant. Question: この1ドル札はどの正規番号ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '使い物にならない画像', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	You are a helpful AI assistant. Question: 何で設定してるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'カウンター', 'カウンター', 'キッチンカウンター', 'カウンタートップ']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	You are a helpful AI assistant. Question: これは蛇の噛みですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '可能性', '答えられない', '違う', '答えられない', '答えられない', 'かもしれない', 'かもしれない', '違う', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	You are a helpful AI assistant. Question: コンピュータの画面に何が表示されているか 詳しく教えてください\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', 'コンピュータは起動できないメッセージ', '答えられない', 'コンピューターが起動できませんでした.', '答えられない', '起動修復 システム上の問題をチェック', 'スタートアップ', '答えられない', '知らないダイアログボックス']	コンピュータの画面には、起動レパートが起動不能を示すメッセージと、問題の解決方法に関する詳細な手順が表示されます。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	You are a helpful AI assistant. Question: このキャプチャにはどんな文字が書かれていますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '婚約者', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ブラックボックス']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	You are a helpful AI assistant. Question: これって調理できるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '違う', '答えられない', '違う', '答えられない', '答えられない', 'わかった', '答えられない', '答えられない', '違う']	調理できる。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'コンピュータ画面', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	You are a helpful AI assistant. Question: これをどれくらいマイクロ波で煮るか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '8分', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	You are a helpful AI assistant. Question: どうやって調理するんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オーブン', '答えられない', '焼く', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	調理方法が不足しているため、答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	You are a helpful AI assistant. Question: 署名店はどうする?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '政治的', '男', '答えられない', '分からない', '答えられない', '答えられない', '答えられない', '青い男 建物に入ってる']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	You are a helpful AI assistant. Question: このシャンプーボトルに書かれている指示を教えてください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '湿った髪に泡を注ぎ,必要に応じて繰り返す']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	You are a helpful AI assistant. Question: この写真は何の写真?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['屋根', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	You are a helpful AI assistant. Question: これは?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '電話', '答えられない', '携帯で話している男', '答えられない', '人', '答えられない', '答えられない']	これは?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	You are a helpful AI assistant. Question: この缶には何があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '豆', '答えられない', '答えられない', 'この画像はぼやけている', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	You are a helpful AI assistant. Question: 私のシャツの色を教えてくれないか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	You are a helpful AI assistant. Question: 何があったの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', 'ワイヤ', '答えられない', '黒いゴム製の犬用玩具', '植物', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	You are a helpful AI assistant. Question: いつ切れるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['しない', '答えられない', '答えられない', '答えられない', '答えられない', '画像がない', '答えられない', '答えられない', '答えられない', '2007年']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	You are a helpful AI assistant. Question: このカードは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', 'カードなし', '答えられない', '答えられない', 'ブラック', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	You are a helpful AI assistant. Question: この絵は何の話か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '空白', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '革の', '犬', '財布', '答えられない', '犬用ハーネス', '動物']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	You are a helpful AI assistant. Question: これの調理手順は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '鉛筆', '葉のパターン', '答えられない', '答えられない', '答えられない', '答えられない', '葉', '答えられない', '雑草']	これは花の残骸です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	You are a helpful AI assistant. Question: こんにちは 右手の中身は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '肉の種類はありますが,ラベルは完全に写真にはない', '缶詰', '答えられない', '牛肉の湯', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	You are a helpful AI assistant. Question: これは誰の物か教えてくれないか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '郵便からの返信', '裏封筒に文字がない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	You are a helpful AI assistant. Question: これはどんな味?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', 'ニューマンズ特別混合物', 'ナイマンの特殊混合物', 'カフェ', 'ニューマンの特殊な混合物', '答えられない', 'ニューマンズ自身の', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	You are a helpful AI assistant. Question: 何してるんだ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	You are a helpful AI assistant. Question: 血圧の値は何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '105 について', '答えられない', '答えられない', '答えられない', '109 終了', '答えられない', '答えられない', '画像を読み取れない 切断']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	You are a helpful AI assistant. Question: 味は何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['レモン', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	You are a helpful AI assistant. Question: この缶に書いてあるのは どうですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '違う', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	You are a helpful AI assistant. Question: 強調されたテキストの番号\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	You are a helpful AI assistant. Question: カードの裏には どんな杖か 何で作ったのかなど書いてあるはずなのに\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '何かが木 14', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	You are a helpful AI assistant. Question: わかった ボタンを押したんだろ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['次のボタンをクリックします. Enter を押します.', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	ボタンを押したんだろ?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	You are a helpful AI assistant. Question: 何だ この?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '閃き', '答えられない']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	You are a helpful AI assistant. Question: 温度は何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '57 について', '20', '答えられない', '答えられない', '答えられない', '答えられない', '20 について', '20.7c', '答えられない']	温度は20.7度です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '歓迎サイン', '歓迎のプラーク', '答えられない', '歓迎サイン', '歓迎サイン', '答えられない', '歓迎のバナー', '答えられない', '答えられない']	歓迎します。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	You are a helpful AI assistant. Question: これは何の人?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['顔がない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '0 について', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	You are a helpful AI assistant. Question: この商品キーに何番号が書いてあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '読み取れない', '答えられない', '答えられない', '読み取れない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	You are a helpful AI assistant. Question: この建物の番号は何ですか? これはヤッパピ大学です\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['3 について', '答えられない', '答えられない', '答えられない', '3 について', '答えられない', '9 について', '答えられない', '答えられない', '3 について']	この建物の番号は3です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	You are a helpful AI assistant. Question: このパッケージに何が入っているか教えて下さい.ありがとう.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '収穫感 サラダ', '答えられない', '紅', '甘いもの', '果実', 'わからないけど 変なやつかも', '答えられない', '答えられない', '答えられない']	このパッケージにはベツイチが入っています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	You are a helpful AI assistant. Question: 画面が表示される?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['sdfgh', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった']	画面が表示される?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	You are a helpful AI assistant. Question: これ読める?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', '答えられない', 'わかった', '汁機の輸入情報メモ', '違う', '重要な情報', 'ほんの少し', '優しく', '違う', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	You are a helpful AI assistant. Question: 標識を見て分かるでしょう これは郵便で届いたDVDです\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'そう DVD', '違う', 'DVD', 'DVD', '答えられない', '標識が不明だがCD', 'わかった', '答えられない', '違う']	郵便で届いたDVDです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	You are a helpful AI assistant. Question: カメラが遮られている?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'わかった', 'わかった', 'さん', 'わかった', '違う', 'わかった', '違う', 'わかった', 'わかった']	カメラが遮られている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	You are a helpful AI assistant. Question: これはチキンストーックか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '違う', 'わかった', '標識が全部見られない', 'わかった', '答えられない', 'わかった', 'わかった', '答えられない', 'わかった']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	You are a helpful AI assistant. Question: これは芸術?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'アルミホイルアート', 'わかった', 'わかった', 'わかった', '答えられない', 'わかった', 'わかった', 'わかった', 'わかった']	はい、芸術です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	You are a helpful AI assistant. Question: こんにちは これは本当に豚肉の チョットか確認したいです\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'わかった', 'そう キークランド シンクロ 豚肉のコート', '豚肉', 'わかった', 'わかった', 'わかった', 'わかった', 'ええ,腰のコート', 'わかった']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	You are a helpful AI assistant. Question: 嵐雲みたいに見えるか? 雨が降るか 嵐みたいに見えるか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', '違う', '違う', '違う']	嵐雲が見えるようだ。嵐の可能性があるかもしれません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	You are a helpful AI assistant. Question: バディの顔は可愛いのか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'わかった', '素敵だ', 'わかった', 'わかった', '違う', 'わかった', 'わかった', 'わかった', 'わかった']	バディの顔は可愛いです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	You are a helpful AI assistant. Question: ダイアログは今そこにある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', 'わかった', 'わかった', '答えられない', '違う', '違う', 'わかった', 'わかった', 'わかった', 'わかった']	ダイアログは現在表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	You are a helpful AI assistant. Question: 指先がまだ残ってるのか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	You are a helpful AI assistant. Question: この写真にボトルが見えるか? もしそうなら何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '違う', '違う', '違う', '違う', '瓶なし', '違う', '違う', '違う', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	You are a helpful AI assistant. Question: この紙の側には文字があるでしょうか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', '違う', '答えられない', '答えられない', '答えられない', '違う', '違う', '答えられない', '違う']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	You are a helpful AI assistant. Question: ファックスか箱か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '違う', '違う', '違う', '答えられない', '答えられない', '答えられない', '違う', '違う', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	You are a helpful AI assistant. Question: この写真に胸の片がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	You are a helpful AI assistant. Question: ここにチェスの駒はあるのか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', 'わかった', '違う', '板のみ', '違う', '違う', 'わかった', '違う', '違う', '違う']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	You are a helpful AI assistant. Question: この靴下は合っていますか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う']	合っています.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	You are a helpful AI assistant. Question: 紙か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', '違う', '違う', '違う', '答えられない', '違う', '違う', '答えられない', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	You are a helpful AI assistant. Question: 携帯か?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', '違う', '違う', '前に見たことない', '違う', '違う', '違う', '違う', '違う']	携帯か? (Is it a mobile phone?)
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	You are a helpful AI assistant. Question: テレビの画面から全部読めるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', 'わかった', '違う', '答えられない', '違う', 'DVRの使用能力 あなたのDVRは89%満タン', 'わかった', '違う', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	You are a helpful AI assistant. Question: フリーベージの香りが 見えますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', '違う', '違う', 'レーベルが表示されない', '違う', '違う', '違う', '違う', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	You are a helpful AI assistant. Question: 画面は開いているか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う']	画面は開いている。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	You are a helpful AI assistant. Question: このコンピュータ画面にはどんな動物が写っているか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['動物なし', '0 について', '0 について', '0 について', '0 について', '画面に動物はいない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	You are a helpful AI assistant. Question: 番号を 取ろうとしてるんだ 読んでくれるかな?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について']	番号を取ろうとしてるんだ 読んでくれるかな? 答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	You are a helpful AI assistant. Question: カウンターを読んでください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['261627.2 m^3', '02616272 m^3 について', '税金制度について', '02615272 について', '税金制度について', 'ロープ', '税金制度について', '税金制度について', '02616272 m3', '税金制度について']	カウンターを読んでください.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	You are a helpful AI assistant. Question: 温度調節器は何温度に設定されているか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['72 について', '72 について', '72 について', '72度', '72 について', '72 について', '72 について', '72 について', '72 について', '72 について']	温度調節器は72度に設定されている.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	You are a helpful AI assistant. Question: マウンテン・デューのボタンは?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['5 について', '6 頂から', '6つ目のボタンを', '6番目 1番ダウン', '5 について', '6 について', '答えられない', '答えられない', '答えられない', '5 について']	マウンテン・デューのボタンは、画像に表示されているものと同一のボタンを指しています。画像には、緑色のボタンが表示され、通常は「マウンテン・デュー」というソフトドリンクを提供することを示している。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	You are a helpful AI assistant. Question: これは銀のオークだと思います.何年ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	You are a helpful AI assistant. Question: この電源のワッテージは\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['350 ドル', '答えられない', '350 ドル', '最大350W', '答えられない', '350 ドル', '350 ドル', '答えられない', 'ワイヤー', '最大350W']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	You are a helpful AI assistant. Question: 何書いてあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['77度', '77 について', '77 について', '77 について', '77度', '77 について', '77 について', '77 について', '77 について', '77 について']	ホノーバイ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	You are a helpful AI assistant. Question: これはどのメダリオンか分かりますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['フォート', 'フォート', 'フォート', '第47回', '番号は47', 'フォート', 'フォート', '答えられない', 'フォート', '違う']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['5 について', '5 について', '5 について', '5 について', '5 について', '5ドル', '5 について', '5 シンガポールドル', '5 について', '5ドル']	これはお金です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	You are a helpful AI assistant. Question: ダイヤルで表向きの数字が表示されるのは?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['400 ドル', '550 について', '500 ドル', '税金', '税金', '税金', '税金', '500 ドル', '550 について', '500 ドル']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	You are a helpful AI assistant. Question: この紙幣はどの正金ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['20 について', 'ロープ', '20 について', '20 について', '答えられない', '答えられない', '20 について', '20 について', '20 について', '20 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	You are a helpful AI assistant. Question: 現在画面に表示されているのは何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['452940 について', '452940 について', 'ウォーキー・トーク', '番号', 'ラジオ', '452940 について', 'ウォーカー・トーク', '452940 について', '答えられない', '452940 について']	画像に表示されているのは、ラジオ機器のデジタル表示器です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	You are a helpful AI assistant. Question: 465 - 55 は何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['410 について', '410 について', '410 について', '答えられない', '410 について', '答えられない', '410 について', '410 について', '410 について', '410 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	You are a helpful AI assistant. Question: 5番目の数字は何ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	You are a helpful AI assistant. Question: この法案は何の?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['2 について', '2 について', '2 について', '2 について', '2ドル', 'お金', '2 について', '2 について', '答えられない', '2 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	You are a helpful AI assistant. Question: チーリョは何カロリーあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['110 について', '画像 複数', 'ランク', '110 について', '100 ドル', '答えられない', '10 について', '答えられない', '答えられない', '答えられない']	チーリョは110カロリーある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	You are a helpful AI assistant. Question: オーブンは何温度に設定されているか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['オーブンのノブ', 'オーブンの温度 400', '425 について', '450 以上の', '400 ドル', '425 について', '425 について', '400 ドル', '425 について', '400 ドル']	オーブンは350°Fに設定されている.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	You are a helpful AI assistant. Question: 温度計の温度は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['78 について', '78 について', '78度', '78 について', '78 について', '78 について', '78 について', '78 について', '78 について', '78 について']	温度計の温度は78度です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	You are a helpful AI assistant. Question: これは何だ?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['20 カナダドル', '20 について', '20 について', '20 について', '20ユーロ', '20 について', '20 カナダドル', '20 について', '20 について', '20 について']	これは紙幣です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	You are a helpful AI assistant. Question: 温度は何で設定されている?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['75 について', '75 について', '75 について', '75 について', '76 について', '75 について', '75 について', '75 について', '75 について', '75 について']	温度は75で設定されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	You are a helpful AI assistant. Question: この温度計の温度は何ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['50 について', '50 について', '55 について', '64度', '55 について', '答えられない', '答えられない', '54 について', '答えられない', '56 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	You are a helpful AI assistant. Question: これは何宗派ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['5 について', '5 について', '5 について', '5 について', 'カナダ', '5 について', '5 について', '卵', '5 について', '5 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	You are a helpful AI assistant. Question: このカードの価値を教えてください.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['6 ダイヤモンド', '9 ダイヤモンド', '6 ダイヤモンド', '6 について', '6 について', '6 について', '6 について', '6 について', '6 について', '6 について']	このカードの価値は9です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	You are a helpful AI assistant. Question: 体重がどれくらいか分かりますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['210 について', '200 ドル', 'そう 200', '税金', '200 ドル', '200 ドル', '200 ドル', '250 ドル', '200 ドル', '200 ドル']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	You are a helpful AI assistant. Question: 試しにやってみます.この計度器に何度あるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['59 について', '59 について', '59f', '59 について', '59f', '59 について', '59 について', '59 について', '59 について', '59 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	You are a helpful AI assistant. Question: 温度を設定して,\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['78 について', '78 について', '78 について', '78 について', '78 について', '78 について', '78度', '78度', '78度Frenheit', '78 について']	温度を設定するには、現在の温度を表示しているデジタル温度計に適切な温度を入力してください。通常は、温度を調節するボタンを押すか、温度を入力するボタンを押して、望む温度を入力します。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	You are a helpful AI assistant. Question: このショコラバーには何個あるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '2 について', '4 について', '答えられない', '4 について', '4杯のピーナッツバター', '2 について', '2 について', '答えられない', '答えられない']	4個
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	You are a helpful AI assistant. Question: 1個に何カロリーがあるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['120 について', '120 について', '120乾燥 220 調理済み 調理済みなら 1 1 4 杯 脂肪のないミルク', '120 について', '120 について', '120 について', '120 について', '120 について', '220 について', '120 乾燥穀物 220 牛乳']	1個に120カロリーがある。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	You are a helpful AI assistant. Question: これはどんな紙幣ですか? 20枚を探しています.これは10枚だと思いますが,はっきりできません.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['10ユーロ', '10 について', '10 について', '答えられない', '10 について', '10 について', '10赤白いシャツを横たえて', '10 について', '10 について', '10 について']	答えられない.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	You are a helpful AI assistant. Question: このストライプには1つか2つのピンク色の線があるの?一つは他のより明るくなるかもしれない.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['バイウ', '1 について', '1行', '1 暗線', '1 について', '1 について', '1 について', '1 について', '1 について', '1 について']	1つのピンク色の線がある.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	You are a helpful AI assistant. Question: 何号ですか? ありがとうございました.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['税金について', '税金について', '答えられない', '税金について', '答えられない', '答えられない', '税金について', '答えられない', '答えられない', '税金について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	You are a helpful AI assistant. Question: 体重を教えて下さい\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['1 について', '1 について', '答えられない', '1 について', '1 について', '答えられない', '答えられない', '答えられない', '空のスケール', '1 について']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	You are a helpful AI assistant. Question: この温度調節器の現在の温度設定は?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '温度計']	この温度調節器の現在の温度設定は70度です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	You are a helpful AI assistant. Question: これは5ドル紙幣か10ドルのカナダ紙幣ですか.\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 カナダ']	これは10ドルのカナダ紙幣です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	You are a helpful AI assistant. Question: 呼び出し人番号は? ありがとう\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['税金', 'オーケー オーケー', '税金', '税金', '答えられない', '税金', 'オーケー,お前に電話したよ', '税金', '税金', '税金']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	You are a helpful AI assistant. Question: 5桁の数字は何でしょう?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['税金', '税金', '税金', '答えられない', '答えられない', '2桁だけ 69', '税金', '答えられない', '答えられない', '税金']	答えられない。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	You are a helpful AI assistant. Question: これは何オンスですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['年間', '20 について', '20 について', '24 について', '答えられない', '答えられない', '答えられない', '33 について', '答えられない', 'ゲルゲルゲルゲル']	これは23.7フロントです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	You are a helpful AI assistant. Question: この温度計に温度が表示されているのは?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['72 について', '72 について', '72 について', '72 について', '72 について', '72 について', '72 について', '72度', '72 について', '72度']	この温度計に表示されている温度は72°Fです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	You are a helpful AI assistant. Question: これは何ページ番号ですか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['2 について', '2 について', '2 について', '2 について', '2 について', '2 について', '2 について', '答えられない', '2 について', '2 について']	これは2ページです。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	You are a helpful AI assistant. Question: このディスプレイには何がある?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['税金', '答えられない', '何もない', '税金', '答えられない', '答えられない', '税金', '888 について', '何もない', '空白']	このディスプレイには、数字「88.8」が表示されています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	You are a helpful AI assistant. Question: どのページ番号が表示されていますか?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ロープ', 'ロープ', 'ロープ', 'ロープ', '答えられない', 'ロープ', 'ロープ', 'ポイント', '321 について', 'ロープ']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	You are a helpful AI assistant. Question: これは何号?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['ラング', 'ラング', 'ラング', 'ラング', 'ラング', '紙', 'ラング', 'ラング', 'ラング', 'ラング']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	You are a helpful AI assistant. Question: これは何?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['答えられない', '40 について', '40 について', '答えられない', '答えられない', '番号', '40 について', '40 について', '40ポンドの空気', '30 歳']	これは、自転車のパンクを調べるための压力計です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	You are a helpful AI assistant. Question: この箱には何錠があるの?\
+When the provided information is insufficient, respond with 答えられない.\
+Answer with a single word or phrase in Japanese.\
+\
+\
+Output:	['8錠', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8錠', '8 について', '8 について']	この箱には8錠がある。

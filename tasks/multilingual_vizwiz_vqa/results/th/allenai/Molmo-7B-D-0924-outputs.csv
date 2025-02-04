@@ -1,0 +1,1503 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	มีอะไรเขียนบนกระดาษ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ออสเตรเลีย โพสต์', 'โพสต์', 'ตอบไม่ได้', 'ออสเตรเลีย โพสต์', 'ออสเตรเลีย โพสต์', 'ออสเตรเลีย โพสต์', 'ออสเตรเลีย โพสต์', 'ตอบไม่ได้', 'ออสเตรเลีย โพสต์']	กรองเอกสาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	คุณบอกผมได้ไหมว่ามีอะไรอยู่บนจอคอมพิวเตอร์นี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไอคอนสําหรับเวลาอากาศ เป็นต้น', 'หน้าต่างเริ่มต้น', 'desktop', 'นาฬิกา', 'นาฬิกา', 'ไอคอน', 'ไอคอนของ desktop', 'ตอบไม่ได้', 'ไอคอนของ desktop', 'ไอคอน']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	ซีดีอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เงินเปล่า', 'CDว่าง', 'แม็กซ์เวล', 'แม็กเซล ซีดี', 'เงินเปล่า', 'เงินเปล่า', 'ผ้าห่ม', 'เงินเปล่า', 'เงินเปล่า', 'แม็กเซล']	ดีวีดี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	รูปอะไรน่ะ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ขา', 'ขา', 'รอยเท้า', 'ขา', 'ขา', 'ขา', 'ขา', 'ขา', 'ขา', 'ขา']	รูปแผล
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	คุณบอกฉันได้ไหมว่ากระป๋องนี้เป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การล่า', 'มังวัช', 'มังวัช', 'ล่าจูสจูส', 'โซสจูปปี้', 'มังวัช', 'ชายที่กล้าหาญ โจซอส', 'หนองหญ้า', 'มังวัช', 'โจจ้ที่ไม่ระวัง']	กระป๋อง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โซดาโค้กเบา', 'โค้กเบา', 'โค้กเบา', 'สามารถเบาโคล้า', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค๊ก', 'โซดา', 'สามารถเบาโคล้า']	โค้ค
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	มันสับสนอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คุณนายดัช', 'ตอบไม่ได้', 'คุณนายดัช', 'ตอบไม่ได้', 'ไม่รู้จะบอก', 'สีพริชทั้งหมด', 'ผสมเบซิล', 'คุณนายดาร์ชเม็บลันด์', 'ดาช', 'คุณนายดัช']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ถังน้ําฝน mtn', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'mt ฝน']	น้ำมัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	มีอะไรในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กาแฟ', 'ตอบไม่ได้', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'กาแฟ', 'ตอบไม่ได้']	กาแฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	คุณเห็นอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผิวหนัง', 'ประตูพื้นนิ้ว', 'ประตู', 'ประตู', 'ประตูนิ้ว', 'ประตู', 'ตอบไม่ได้', 'ประตู', 'บ้าน', 'ผิวขนสีดํา']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	ช่องจอคอมพิวเตอร์ของฉันแสดงอะไรอยู่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ', 'ซิสต์รีสโปปป๊ปอัพ', 'ข่าวซ่อมระบบ', 'ถามว่าคุณต้องการฟื้นฟูคอมพิวเตอร์ของคุณด้วยการใช้ระบบฟื้นฟู', 'กล่อง', 'การฟื้นฟูระบบ', 'คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ', 'คอมพิวเตอร์ไม่เริ่มใช้ระบบซ่อมแซม', 'กําหนดการฟื้นฟู', 'การฟื้นฟูระบบ']	กรอกข้อความใหม่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โคโกะร้อน', 'ผสมคาวร้อน', 'ช็อกโกแลตร้อน', 'ผสมคาวร้อน', 'โคโกะ', 'ผสมคาวร้อน', 'โคโกะร้อน', 'ผสมช็อกโกแลตร้อน', 'โคโกะ', 'ผสมแคโคอา']	โกโก้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	คุณบอกผมเบอร์ 1-800 บนบัตรนี้ได้ไหม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	นี่อะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'โน๊ตพ็อต', 'หน้าจอคอมพิวเตอร์แสดงผลการค้นหา', 'หน้าจอ', 'หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'หน้าจอ', 'หน้าจอคอมพิวเตอร์']	หน้าจอคอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สลัดดริสเซสด้านหลัง', 'การผูกพัน', 'สลัด', 'สลัด', 'สารสลัดบัลซามิค', 'สลัด', 'ตอบไม่ได้', 'สลัด', 'สลัด', 'สลัด']	ซอส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	รูปนี้แสดงอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หน้าต่าง', 'การออกแบบ', 'ราคาขายของ', 'กระจกหน้าต่างแก้วในประตู', 'หน้าต่างแก้วในประตู', 'ประตู', 'กระจกสี', 'ประตู', 'หน้าต่าง', 'หน้าต่าง']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	ใครบอกผมหน่อยได้ไหมว่าคําถามความปลอดภัยบนจอคืออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['อาราวัค', 'ตอบไม่ได้', 'อาราวัค', 'อาราวัค', 'อาราวัค', 'อาราวัค', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาราวัค', 'อาราวัค']	ลูกเล่น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไวน์', 'ไม้โอ๊คเงิน', 'ไม้โอ๊คเงิน', 'ไวน์ต้นโอ๊คเงิน', 'ไวน์', 'ขวด', 'ไวน์', 'ไวน์', 'ไม้เมล็ดสีเงิน 2003 Cabernet Sauvignon', 'ไม้เมล็ดสีเงิน 2003']	ไวน์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	นี่เครื่องจอยี่ห้อไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['lg', 'ตอบไม่ได้', 'ตอบไม่ได้', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	นี่อะไรกันเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โซดา', 'จิงเจอร์บี', 'กินยาทั่วไป', 'ซูดาอัลซินเจอร์', 'แคนาดา', 'แคนาดา', 'จิงเจอร์บี', 'แคนาดา', 'จิงเจอร์บี', 'จิงเจอร์บี']	แคนดีดราย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	กระเบื้องสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีเบจ', 'สีเบจ', 'สีแดง', 'สีเทา', 'สีแดง', 'ครีม', 'สีแดง', 'สีแดง', 'สีเบจ', 'สีแดง']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์ดิจิตอล', 'โทรศัพท์', 'โทรศัพท์สํานักงาน', 'โทรศัพท์']	เบื้องต้น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	รูปนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนเขา', 'ฝนภูเขา', 'หมากรุก', 'ถังน้ําฝน mtn', 'โซดาฝนภูเขา', 'mtn หนอง']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	ขวดนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'โลชั่น', 'โซดา', 'ตอบไม่ได้', 'โลชั่น', 'โลชั่น', 'โลชั่น', 'ตอบไม่ได้', 'โลชั่น']	แชมเปญ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ํา aquafina', 'ขวดน้ํา aquafina', 'น้ํา', 'น้ํา', 'ขวดพลาสติกน้ําแบรนด์ aquafina', 'น้ํากระป๋อง', 'กระปุกน้ํา', 'น้ํา aquafina', 'น้ํา', 'ขวดน้ําพลาสติก']	น้ำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	นี่มันอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ค้นหาใน google', 'แท็บเครื่องค้นหา google', 'หน้าค้นหา google', 'โกเกิล', 'โกเกิล', 'คอมพิวเตอร์', 'หน้าแรกของ google', 'หน้า google', 'หน้าจอคอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ', 'กุญแจ']	สิ่งผู้มีสิทธิ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	กรุณาอ่านข้อความความผิดพลาดบนหน้าจอให้ฟัง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'ตอบไม่ได้', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าไม่ถูกต้อง หรือลบคีย์สินค้าในไฟล์คําตอบที่ไม่ได้รับการดูแล เพื่อดําเนินการ', 'คีย์สินค้าไม่ถูกต้อง หรือลบคีย์สินค้าในไฟล์คําตอบที่ไม่ได้รับการดูแล เพื่อดําเนินการ', 'คีย์สินค้าที่ไม่ถูกต้อง']	กรุณาอ่านข้อความความผิดพลาดบนหน้าจอให้ฟัง\
+อ่านได้\
+ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	เล็ปท็อปฉันอยู่ไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โต๊ะทํางาน', 'บนโต๊ะ', 'โต๊ะบนข้างเตียง', 'บนโต๊ะ', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'บนโต๊ะ', 'บนโต๊ะ', 'โต๊ะบน', 'โต๊ะทํางาน']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	หนังสือนี้ชื่ออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ปีของสุนัข', 'ปีของสุนัข: ความทรงจํา', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['macbook', 'คีย์บอร์ด', 'คีย์บอร์ด', 'คีย์บอร์ด', 'คอมพิวเตอร์', 'คีย์บอร์ด', 'โน๊ตพ็อต', 'โน๊ตพ็อต', 'โน๊ตพ็อต', 'คีย์บอร์ดจอคอมพิวเตอร์']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	คุณเห็นอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หน้าต่างโต๊ะ', 'ดอกไม้', 'ตอบไม่ได้', 'หน้าต่างโต๊ะ', 'ปากกาเล่ม', 'ดอกไม้', 'หนองหญ้า', 'หนังสือ', 'หน้าต่าง', 'ดอกไม้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	แพ็คเก็ตไหนมีข้าวแป้ง?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีแดง สีขาว', 'ซ้าย', 'ที่ 1', 'สีแดง 1 ทางซ้าย', 'ซ้าย', 'ตอบไม่ได้', 'ซ้าย', 'ซ้าย', 'สีแดง สีขาว 1', 'สีแดง 1']	พาสตี้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ฟุตบอล', 'ฟุตบอล', 'ฟุตบอล', 'สีม่วงส้ม สีขาว', 'กีฬาฟุตบอล', 'กีฬาฟุตบอลอ่อน', 'ฟุตบอลลูกเต๋า', 'ฟุตบอลสีส้มสีฟ้าเต็ม', 'ฟุตบอลสีม่วง', 'สีดง']	กรีนบีเวอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	สีอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีเทา', 'ทอง', 'ทอง', 'สีเบจ', 'สีแดง', 'ทอง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ทอง', 'ตอบไม่ได้']	ไร้สี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เมนู', 'ตอบไม่ได้', 'เมนู', 'เมนู', 'เมนู', 'เนื้อหาของตาราง', 'เมนู', 'เมนู', 'รายการราคา', 'ตอบไม่ได้']	เมนูอาหาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กระปุกน้ํา', 'สปริงฟอร์น', 'สปริงเบอร์น วอเตอร์', 'สปริงเบอร์น', 'น้ํากระป๋อง', 'น้ํา', 'กระปุกน้ํา', 'น้ํากระป๋อง', 'น้ําในขวด', 'น้ํา']	น้ำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	ซุปอะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โปรแกรม', 'โปรแกรม', 'โปรแกรม', 'ตอบไม่ได้', 'โปรแกรม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โปรแกรม', 'โปรแกรม']	ซอปพรอด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	ผมรู้ว่านี่เป็นกระป๋องอาหาร คุณบอกผมได้ไหมว่ามันมีอะไรอยู่ข้างใน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'ตอบไม่ได้', 'ถั่วเขียว', 'eef', 'ถั่วเขียว', 'ถั่วเขียว']	กรดไข่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	อะไรคือ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เช็กซ์ มิกซ์', 'เครื่องบด', 'คอมพิวเตอร์ chex mix', 'ตอบไม่ได้', 'เช็กซ์ มิกซ์', 'อาหาร', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'chekmix']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	อะไรนะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไมโครเวฟ', 'ไมโครเวฟ', 'ยา', 'เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่องใช้เครื่อง', 'ซุปกระป๋อง', 'ซุปแก้ว', 'อาหาร', 'โต๊ะครัว', 'ครีม', 'ซุป']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผักผสม', 'ผักผสม', 'ผักผสม', 'ผักผสม', 'ผักผสม', 'efgrfg', 'ผักผสม', 'ผักผสม', 'ผักผสม', 'ผักผสม']	แกล้ม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	นี่อะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผงเค้ก', 'วาเนลล่า', 'วาเนลล่า', 'ผงแวนิลลา', 'เบตตี้ โครคเกอร์', 'ผงแวนิลลา', 'วานิลลา', 'ผงแวนิลลา', 'วาเนลล่า', 'วาเนลล่า']	แสบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	ฉันกําลังมองกล่องอะไร, เช่นกล่องนั้นมีอะไรอยู่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กล่องบาร์กรานอล่า', 'แบรนโอลล่าทอดมะเขือเทศ', 'สตาร์กรันโอลลา', 'หุบเขาธรรมชาติ', 'ผงปังปะรดมะเขือเทศ', 'แบรนโอลล่าทอดมะเขือเทศ', 'แบรนโอลล่ารสสกริชชี่ แบรนโอลล่ารสกริชชี่ แอนเดล', 'สตาร์กรันโอลลา', 'สตาร์กรันโอลลา', 'ผงกรานอล่าขนมปังขมิ้นกระจ่าง']	กรอง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	แล้วผ้าสีล่ะ บอกฉันเกี่ยวกับผ้าสี\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีเขียว สีขาว', 'พิมพ์สีเขียวเข้มขาว', 'สีขาว สีเขียว', 'สีขาว สีเขียว', 'สีชมพูเขียว', 'ผ้าสีขาวสีครีมเขียว', 'สีชมพู สีดํา', 'สีเขียว สีขาว', 'สีส้มสีดํา', 'สปริตสีขาวสีเขียว']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	ช่องคอมพิวเตอร์แสดงอะไรอยู่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ดําลูกศร', 'คอร์เซอร์', 'ไม่มีอะไร', 'สีฟ้า', 'สีฟ้า', 'สายธนู', 'เงินเปล่า', 'สีฟ้า', 'เงินเปล่า', 'สีฟ้า']	คอมพิวเตอร์กำลังทำงาน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	สวัสดีครับ ใครพูด?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['แมวขาว', 'แมว', 'แมว', 'แมวขาว', 'แมว', 'ตอบไม่ได้', 'แมว', 'แมว', 'แมวนี่', 'กิตติ']	สวัสดีครับใครพูด?ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['purell สารล้างมือระดับสูง', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ']	แอลกอฮอล์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	ข้อความความผิดพลาดบอกว่าอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง', 'สินค้าที่ไม่ใช้', 'คีย์สินค้าไม่ถูกต้อง คลิก OK เพื่อดําเนินการ', 'คีย์สินค้าไม่ถูกต้อง หรือลบคีย์สินค้าในไฟล์คําตอบที่ไม่ได้รับการดูแล เพื่อดําเนินการ', 'สินค้าที่ไม่ใช้', 'คีย์สินค้าที่ไม่ถูกต้อง', 'คีย์สินค้าที่ไม่ถูกต้อง']	คีย์ผลิตไม่ถูกต้อง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	คุณบอกผมได้ไหมว่าข้อความนี้เขียนอะไรบนหน้าจอคอมพิวเตอร์ผม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ปุ่มปลายการซ่อมบางชนิดในด้านล่างขวา', 'การซ่อมเครื่องเริ่มต้นครั้งสุดท้ายที่ประสบความสําเร็จ 9 20 2012 1 การซ่อมเครื่องพยายามปิดกลับจบ ยกเลิก', 'ตอบไม่ได้', 'ไม่', 'การซ่อมแซมการเริ่มต้น', 'การซ่อมแซมการเริ่มต้น', 'การซ่อมแซมการเริ่มต้น', 'ตอบไม่ได้', 'การซ่อมแซมการเริ่มต้นเสร็จสิ้นจอวินิจฉัย ปุ่มปิด', 'การซ่อมแซมการเริ่มต้น']	ฟรีด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	เนื้ออะไรน่ะครับ นี่ไก่หรือซอสเซส หรือเนื้ออะไรครับ ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไก่', 'ไก่', 'ไก่', 'ไก่', 'ไก่', 'ไก่', 'ไก่', 'หนวดไก่', 'ตอบไม่ได้', 'ไก่']	ไก่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	สีอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีฟ้าไฟฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า', 'ตอบไม่ได้']	คลื่น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	ภาพแสดงอะไรอยู่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่างบวกกับที่อ่านไม่ออก', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'หน้าจอนี้บอกว่าหน้าต่างการติดตั้งรายการการติดตั้งขั้นตอน', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าต่าง']	คุณกำลังติดตั้งระบบปฏิบัติการ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	สวรรค์ดูเหมือนในรูปนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เมฆบางส่วน', 'เมฆดํา', 'เมฆใหญ่', 'เมฆใหญ่ฟ้ามืด', 'เมฆปกคลุม', 'สับสน', 'สีฟ้ามาก เมฆ', 'ตอบไม่ได้', 'เมฆฝนขนาดใหญ่ สีฟ้าไปข้างๆ', 'สับสน']	ฟ้าฝน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หลังบ้าน', 'เก้าอี้', 'เก้าอี้', 'เก้าอี้', 'ตอบไม่ได้', 'เบนจ์', 'เก้าอี้', 'เก้าอี้', 'หน้าต่างกรอบโลหะ', 'เก้าอี้']	กรอกข้อมูลเพิ่มเติม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['รูป', 'ประตู', 'ประตู', 'บาร์', 'ประตูกระจก', 'ประตู', 'ร้านอาหาร', 'ร้านอาหาร', 'ประตู', 'ประตู']	อาหาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	มีอะไรบนจอของฉัน มาเถอะ พวกคุณ มีอะไรบนจอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เลือกอุปกรณ์ boot', 'กรุณาเลือกเครื่อง boot 3 ตัวเลือก', 'ตอบไม่ได้', 'กรุณาเลือกอุปกรณ์การ boot', 'หน้าจอ boot', 'กรุณาเลือกอุปกรณ์การ boot', 'ความผิดพลาด', 'กรุณาเลือกอุปกรณ์การ boot', 'ข้อความเลือกอุปกรณ์', 'กรุณาเลือกอุปกรณ์การ boot']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	สิ่งนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เครื่องถอดเถ้า', 'รูปปั้นทองแดงประดับ หญิงสิงห์', 'เหรียญ', 'ไม่', 'เครื่องถอดเถ้า', 'ถังเถ้า', 'เหรียญ', 'กระปุกสุนัข', 'เครื่องถอดเถ้า', 'เสือโรคระบาดอยู่บนสุด']	สิ่งนี้คือสัตว์ปีก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	พวกนี้เป็นบุหรี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'สีดํา แพ็คผงอเมริกัน', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต', 'อเมริกันสปิริต']	บุหรี่บูร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กุญยาวาจินเซง', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	มีอะไรในขวดนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โลชั่นร่างกาย', 'โลชั่นร่างกาย', 'โลชั่นร่างกาย', 'โลชั่น', 'วิตามินอี', 'ผิวหนังที่สว่างแสงจันทร์ วิตามินอี', 'โลชั่นร่างกาย', 'โลชั่นร่างกายแสงจันทร์', 'โลชั่นร่างกายแสงจันทร์', 'โลชั่น']	น้ำมันบำรุงผิว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	ภาพนี้เป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['แว่นตา', 'กรอบ', 'แก้ว', 'แว่นตา กรอบเงิน', 'แว่นตา', 'แก้ว', 'กรอบแว่นตา', 'แก้ว', 'แก้ว', 'แก้ว']	กรรเชียง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	นี่คือผลิตภัณฑ์\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ซุปทอด', 'ซุปทอด', 'ซุป', 'ซุปกระป๋อง', 'ซุปทอด', 'ซุปทอด', 'ซุปทอด', 'ซุป', 'เลือกซุปฝรั่ง']	ผลิตภัณฑ์อาหาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โทรศัพท์', 'iphone', 'กล่องไอโฟน', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'กล่องโทรศัพท์มือถือ', 'สมาชิกสมาร์ทโฟน', 'โทรศัพท์', 'โทรศัพท์สมาร์ท', 'iphone']	กล่องมือถือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	ภาพนี้เป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กระปุกขนมหวาน', 'การฉลองกล่องสีแดง', 'ตอบรับ', 'บอกว่าฉลอง', 'กล่อง', 'น้ําตาลหวาน', 'ชอบพรรค', 'การฉลอง', 'กล่อง', 'ตอบไม่ได้']	ฉาบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ชามเปญ', 'กระปุกชาแก้วไวน์', 'กระจก', 'ไวน์แก้ว', 'แก้วไวน์แชมเปญข้างถ้วยกาแฟ นั่งบนจาน', 'ดื่มในแก้วบนโต๊ะ', 'ชามเปญ', 'แก้วชามชา', 'แก้วชามเปญชามเปญ', 'จานแก้วแชมเปญบนโต๊ะหน้าหน้าหน้าต่างวิวเมือง']	กาแฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	กลิ่นของนี่คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ส้ม', 'ส้มเขียวเหลืองแดง', 'ส้มมะนาว', 'ส้ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ส้ม', '2 ด้านซ้าย ส้ม เชอร์รี่ มะนาว ด้านบน ด้านล่างขวา สีเขียวหนาว', 'ส้ม', 'ส้ม']	เมล็ดฟรี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	สวัสดีครับ ผมสงสัยว่าในกระป๋องนี้มีอะไร ขอบคุณ ผมสงสัยว่ามันเบียร์ หรือซ๊อด้า หรือกระป๋อง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โคกะ โคล่า', 'โคกะ โคล่า', 'โซดา', 'โคกะ โคล่า', 'โซดา', 'โซดาโคก', 'โซดา', 'โซดา', 'โคคาโคลา', 'โซดา']	ซ๊อด้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	เครื่องแห้งนี่ตั้งค่ายังไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตรงกับทิศทางนาฬิกา การควบคุมรอยขนแบบปกติ เวลาแห้ง อ่อนแอ การปล่อยรอยขน', 'ปกติ', 'ออกไป', 'ออกไป', 'ออกไป', 'ปกติ', 'ออกไป', 'ไม่ติดตั้ง', 'ไม่มีอะไร', 'ออกไป']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เม็ด', 'เม็ด', 'แอพโทรศัพท์', 'หน้าจอ', 'รายการแอพ', 'ร้านแอพ', 'เม็ด', 'รายการแอพที่จะดาวน์โหลด', 'ตอบไม่ได้', 'การดาวน์โหลดแอพ']	แอปพลิเคชัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	ฉันกําลังมองอะไรอยู่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โทรทัศน์', 'โต๊ะทีวี', 'โทรทัศน์', 'ทีวี', 'หน้าจอทีวี', 'โทรทัศน์', 'ทอม เซลลัค ทางโทรทัศน์', 'ทีวี', 'ทีวี', 'โทรทัศน์เปิดประตูตู้']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	สีอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีเบจ', 'สีขาว', 'กลิ่นสิงห์', 'ตอบไม่ได้', 'สีเบจ', 'ตอบไม่ได้']	สีบด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['อาหารนี้', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'เชฟบอยาร์ดี มินิราวิโอลิส', 'รีวิโอลีเล็กๆในกล่อง', 'ราวิโอลี', 'เชฟบอยา มินิราวิโอลี', 'รีวิโอลีเล็ก']	ปลาดิบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผงเนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมักหมักแบบดั้งเดิม', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมักหมักแบบดั้งเดิม', 'เนื้อหมัก', 'เนื้อหมัก']	อาหาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	สินค้าอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เพปซี่เบา', 'เปปซี่อาหารไร้คอเฟอีน', 'พีปซี', 'พีปซี', 'เพปซี่เบา', 'เพปซี่เบา', 'เพปซี่เบา', 'เพปซี่ไร้คอเฟอีน', 'เพปซี่เบา', 'เพปซี่เบา']	โภคภัณฑ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	นี่ชื่ออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ภาคตะวันออก', 'ผัก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาหาร', 'ผัก', 'สารผสมเส้นทาง', 'ผัก', 'มะเขือเทศ', 'ถุงถั่ว']	เกลือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	นี่กาแฟปกติหรือไม่ติดคอเฟอีน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ปกติ', 'ตอบไม่ได้', 'ปกติ', 'ปกติ', 'ปกติ', 'ปกติ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปกติ', 'ปกติ']	กาแฟทั่วไป
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'แม็คชีส', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ', 'น้ํามันสับ']	มืดๆ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	มีอะไรในขวดนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โลชั่นผ่อนคลาย', 'โลชั่น', 'โลชั่น', 'โลชั่น', 'ครีมผ่อนคลาย', 'โลชั่น', 'เครื่องบํารุงความชุ่มชื้น', 'ครีมผิวหนัง', 'น้ําหนักสูงในการล้างร่างกาย', 'การล้างร่างกาย']	น้ำมัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	อะไรนะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เก้าอี้โต๊ะ', 'เก้าอี้', 'เก้าอี้', 'เก้าอี้สํานักงาน', 'เก้าอี้สํานักงาน', 'ที่นั่งสํานักงานนี้', 'เก้าอี้', 'เก้าอี้โต๊ะ', 'เก้าอี้', 'เก้าอี้สํานักงานสีเทา']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	สิ่งที่ฉันเพิ่งถ่ายรูปมันคืออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โมเนอร์คอมพิวเตอร์', 'คอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โน๊ตพ็อต', 'หน้าจอคอมพิวเตอร์', 'โน๊ตพ็อต', 'โมเนอร์คอมพิวเตอร์', 'คอมพิวเตอร์เล็ปโตป']	นายดิปทิพย์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	บอกฉันว่านี่คืออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หมูหอม', 'เนื้อ', 'เนื้อแดงบางชนิด', 'เนื้อบรรจุ', 'เนื้อหมู', 'หมูปัด', 'ตอบไม่ได้', 'เนื้อ', 'fg', 'หมู']	ไก่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	สวรรค์ในรูปนี้เป็นยังไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['วันเมฆ', 'เมฆบางส่วน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'สับสน', 'ฝน']	ฟ้าฝน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	นี่อาหารอะไร มันรอเวลาหมดเหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สปาเกตติ', 'สปาเกตติ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สปาเกตติ', 'สปาเกตติ', 'สมอง', 'อาหารเย็น', 'พิซซ่า']	รอเวลาหมด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'ดอกไม้', 'พืช', 'ดอกไม้', 'ดอกไม้', 'อีริส']	ลั่นลูกเห็บ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	สิ่งนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ชาลอย', 'ชา', 'ตอบไม่ได้', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา', 'ชา']	ชา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	กางเกงสั้นนี่มีสีอะไร และรูปแบบอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีขน', 'สีฟ้าสีเหลือง', 'สีฟ้า ส้ม เขียว', 'สีฟ้า สีน้ําตาล สีขาว', 'สีฟ้าบนด้านบน สีเหลืองด้านล่าง', 'สีหลายสี', 'สีฟ้าแดงขาว', 'สีขน', 'สีฟ้า', 'สีฟ้า สีขาว สีเขียว สีเหลือง']	กางเกงสั้น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	กระเป๋านั้นสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียว', 'สีเขียวสดใส', 'สีเขียว']	กรด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	นี่โคก้าธรรมดา หรือโคก้าเบาๆ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โค้กเบา', 'การกิน', 'การกิน', 'การกิน', 'การกิน', 'การกิน', 'โค้กเบา', 'การกิน', 'โค้กเบา', 'การกิน']	เบต
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สายพิมพ์', 'ปุ่มพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'สายพิมพ์', 'bi pen เซ็นเตอร์']	键盘
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['แหลมปูนกระปุก', 'โคมไฟ', 'โคมไฟ', 'โคมไฟ', 'ปริงเกิล สามารถติดกับเล่ม cd', 'หลอดไฟไม่มีเงา', 'โคมไฟ', 'โต๊ะ pringles หรี่น้ํายาล้างปาก', 'โคมไฟ', 'โคมไฟ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	คอมพิวเตอร์นี่ทําอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ระบบตรวจสอบ', 'ตอบไม่ได้', 'การตรวจสอบแผ่น', 'ดิสก์ตรวจสอบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'การบรรทุก', 'การตั้งค่า', 'การตรวจสอบความสม่ําเสมอ', 'เปลี่ยนเครื่อง']	ซื้อคอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	นี่โซดาอะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โค้กเบา', 'หนอง', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค้กเบา', 'โค้กเบาๆ สีมะนาว', 'โค้กเบา', 'โค้กเบา']	โคเค
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	บอกผมหน่อยสิว่ามันคืออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'ตอบไม่ได้', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'วิทยาศาสตร์', 'ความคับคั่ง', 'โอลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'การกระทํา', 'ตอบไม่ได้', 'คลิฟ คาสลเลอร์']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	ไวน์อะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ฉลองแต่งงาน เดวิด เอ็มม่า ไวน์แดง', 'นาช', 'นาช', 'นาช', 'นาช', 'นาช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'นาชไวน์']	ไวน์ฉลองสมรส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ยอเกิร์ต', 'ตอบไม่ได้', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต']	โยเกิรด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	หัวข้อหนังสือนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข', 'ตอบไม่ได้', 'ปีของสุนัข', 'ตอบไม่ได้', 'ปีของสุนัข', 'ปีของสุนัข', 'ปีของสุนัข']	หัวข้อหนังสือคือ 'ปีขวัญ'
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โนนี่แลปโตป', 'โน๊ตพ็อต', 'โน๊ตพ็อต', 'คอมพิวเตอร์', 'โน๊ตพ็อต', 'โนนี่ วายโอ เล็ปโตป', 'โน๊ตพ็อต', 'โซนี่ วายโอ', 'โนนี่แลปโตป', 'โน๊ตพ็อต']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	ฉันสงสัยว่าเครื่องหมายของคอมพิวเตอร์นี้คืออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่', 'โซนี่']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	คุณบอกผมได้ไหมว่านี่มันอะไร ปากเขียว หรือซอสเอ็นชิลลาดา\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สงคราม', 'แผ่นหลังไม่บอกว่า', 'ตอบไม่ได้', 'มะเขือเทศ', 'มะเขือเทศ', 'มะเขือเทศ', 'ตอบไม่ได้', 'มะเขือเทศ', 'ภาพไม่ชัดเจน', 'มะเขือเทศ']	ซอส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['พูดดิ้ง', 'พูดดิ้ง', 'พูดดิงวานิลลา', 'พูดดิ้ง', 'พูดดิงวานิลลา', 'พูดดิ้ง', '6 แพ็คอาหารว่าง แพ็คพูดินวานิลลา', 'ถ้วยพูดดิ้ง', 'พูดดิ้ง', 'พูดดิงในกระเป๋าอาหารว่าง']	สูตร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เงินแคนาดา 20 ดอลลาร์', 'เงินแคนาดา 20 ดอลลาร์', '20 คนแคนาดา', 'เงิน', 'เงินในสายตา', 'เงิน 20 บาท', 'โมเนีย', 'เงินแคนาดา 20 ดอลลาร์', '20 ดอลลาร์', 'เงิน']	เงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนียพิเศษ', 'ลาซาเนีย', 'ลาซาเนียพิเศษ', 'ลาซาเนียพิเศษ', 'ลาสเน', 'ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนีย']	แกงข้าวผัด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	กาแฟนี้เป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เอสเปรสโซ่', 'เอสเปรสโซ่', 'โคตร', 'เอสเพรสโซ่ป่าฝน', 'สเปรสโซ่ป่าฝน', 'เอสเปรสโซ่', 'หนาเกิน', 'เอสเพรสโซ่ ราคาทราปิค', 'เอสเปรสโซ่เด่นมาก', 'ติโมเธียว']	กาแฟน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	รูปอะไรน่ะ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กระปุกเครื่องคีย์บอร์ดแก้วไวน์', 'โน๊ตพ็อต', 'คีย์บอร์ดคอมพิวเตอร์ไวน์เบียร์', 'ตอบไม่ได้', 'คอมพิวเตอร์', 'คอมพิวเตอร์', 'เครื่องดื่มสําหรับคอมพิวเตอร์', 'คอมพิวเตอร์แล็ปท็อป บนโต๊ะทํางานข้างๆของเหลวแก้ว', 'กระจกเล็ปโตป', 'เล็ปโตปแก้ว']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หนังสือชื่อ', 'หนังสือ', 'หนังสือพิมพ์', 'หมายเหตุ', 'หนังสือเงินง่าย', 'รางปีศาจเงินง่าย: การควบคุมของรัฐบาลเหล้าในบริติชโคลอมเบีย', 'หนังสือ', 'หนังสือ', 'หน้าแรกหนังสือ', 'หนังสือพิมพ์']	หนังสือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	มีอะไรบนโต๊ะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หนังสือพิมพ์', 'กระดาษพิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์พิมพ์', 'หนังสือพิมพ์พับกลม', 'กระดาษปากกา', 'หนังสือพิมพ์', 'สายพิมพ์พิมพ์พิมพ์', 'หนังสือพิมพ์', 'สายพิมพ์พิมพ์พิมพ์', 'กระดาษปากกา', 'หนังสือพิมพ์']	บันทึก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	เสื้อนี้สีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีฟ้า สีขาว', 'สีฟ้า สีขาว', 'สีฟ้า สีขาว', 'สีฟ้า สีขาว', 'สีฟ้า', 'สีฟ้า สีขาว', 'สีฟ้าขาว', 'สีฟ้า', 'สีฟ้า', 'สีฟ้า']	เบจ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['อังเดร ชาร์ดอนเน่', 'ชามเปญ', 'แอนเดร', 'ชามเปญ', 'ไวน์', 'ชามเปญ', 'ชามเปญ', 'ชามเปญ', 'ชามเปญ', 'ชามเปญ']	บด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	ชื่อของขายในกระป๋องในรูปคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล', 'ลิสโซล']	สcent
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	กาแฟนี้เป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กีวาเลีย', 'มาร์คซิโม กาเฟีย', 'มาซิโม', 'กีวาเลีย เอสเปรสโซ่', 'มาซิโม', 'กาแฟดํา', 'มาซิโม', 'ตอบไม่ได้', 'กีวาเลีย', 'กีวาเลีย']	กาแฟนี้เป็นอะไรตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ดร.พริก', 'สามารถดร.สอดาพริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร. โซดาพริก', 'ดร.พริก', 'สามารถดร.สอดาพริก', 'ดร.พริก']	ดื่มชาเย็นๆ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	คุณบอกผมหน่อยได้ไหมว่านี่คืออะไร ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กาแฟด่วน', 'กาแฟด่วน', 'กาแฟคลาสสิค', 'กระปุกกาแฟ', 'ตอบไม่ได้', 'กาแฟ', 'กาแฟ', 'กาแฟสับ', 'กาแฟ', 'เนสคาเฟ่ คลาสสิค']	กาแฟคลาสสิก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	สีสามสายจากซ้ายไปขวาเป็นสีอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดงดําแดง', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีดํา สีขาว', 'สีแดง สีฟ้า สีขาว', 'สีแดง สีดํา สีขาว']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	การตรวจท้องนี้แสดงให้เห็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['1 เส้น', 'สลบ', 'สลบ', '1 เส้น แต่สีกระจาย ลองอีก', 'ตอบไม่ได้', '1 สาย', 'ไม่มีภาพ', 'สายสีแดง', 'ตอบไม่ได้', 'สีฟ้า สีแดง']	บันทึกการตรวจ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	ชื่อของเครื่องเทศนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คุณนาย สับผสมพริกมะนาวสด', 'ดาช', 'คุณนายดัช', 'คุณนายดัช พริกมะนาว', 'คุณนายดัช', 'คุณนายดัช', 'พริก', 'คุณนายดัช', 'คุณนายดัช', 'คุณนายดัช']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	สวัสดีค่ะ มีเครื่องดื่มชนิดไหนในขวดที่มือขวาฉัน ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['พีปซี', 'โซดาเพปซี่', 'เพปซี่เบา', 'เพปซี่เบา', 'เพปซี่เบา', 'พีปซี', 'เพปซี่เบา', 'การกินเพปซี', 'เพปซี่เบา', 'เพปซี่เบา']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เกมวีดีโอ', 'เกมวีดีโอ', 'เกมบาสเกตบอล', 'เกมวีดีโอ', 'ตอบไม่ได้', 'DVD', 'ตอบไม่ได้', 'เกม', 'เกมวีดีโอ', 'DVD']	นี่คือเกม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	นี่มันอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เซตชัพ', 'เซตชัพ', 'เซบเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็มเข็ม', 'แพ็คเคชัป', 'แพ็คเคชัป', 'เซตชัพ', 'เซตชัพ', 'แพ็คเคชัป', 'เซตชัพ', 'เซตชัพ']	เกลือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	เสื้อนี้มีสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีแดง สีขาว', 'สีน้ําตาล', 'สีแดง สีขาว', 'สายสีขาวแดง', 'สายสีขาวแดง', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	มีอะไรในกระเป๋านี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['รูปภาพรัฐสภา', 'อัลบั้มเพลง', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ไฟล์ตกรองซึมซึม', 'ธนาคาร', 'บัตร', 'ธูปสูบ']	กรรไกร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	กระเบื้องนี้สีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง', 'สีม่วง']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	สื่อสารจะเห็นได้ชัดขึ้นในรูปนั้นไหม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เบื่อ', 'ใช่', 'ไม่', 'ใช่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ใช่']	ใช่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	สินค้าอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ถั่วเขียว', 'ถั่วเขียว', 'ถั่วเขียว', 'สามารถ', 'ผัก', 'ผักกาด', 'ตอบไม่ได้', 'ถั่วเขียว', 'fg', 'ตอบไม่ได้']	สินค้าแปรภัณฑ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	นี่อะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผักหอม', 'ผักหอม', 'เนื้อหมู n ถั่ว', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม', 'ผักหอม']	ถังมูน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	ไวน์อะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ครับ', 'ผลิตภัณฑ์วินเทจ 2008 นาส', 'นาช', 'นาช', 'ของที่ระลึกแต่งงาน', 'เนชฉลองแต่งงานกับเดวิด เอ็มม่า 16 กรกฎาคม 2011', 'นาช', 'นาช', 'การฉลองแต่งงาน']	ไวน์นัช
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	อาหารอะไรกันเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สอสทอด', 'สอสทอด', 'ส้มมะเขือเทศชีวภาพ', 'สอสทอด', 'สอสทอด', 'สอสทอด', 'Muir Glen สูตรปรุงปรุงทอด', 'สอสทอด', 'Muir Glen สูตรปรุงปรุงทอด', 'โตโมโต']	มะนาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	กลิ่นอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่', 'สตรอเบอร์รี่']	กุํ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	คุณบอกผมได้ไหมว่านี่สีอะไรครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา']	ซีส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	นั่นอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โรงงาน', 'พืชประดับ', 'สีหอม', 'พืชในบ้าน', 'พืชในบ้าน', 'พืชบ้าน', 'โรงงาน', 'พืชบ้าน', 'โรงงาน', 'พืชหญ้า']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['วารสาร', 'หนังสือการ์ตูน', 'หนังสือการ์ตูน', 'เกมโต๊ะสําหรับผู้ใหญ่', 'วารสาร', 'หนังสือสี', 'หนังสือคริสต์มาสตาร์ด', 'ไม่แน่ใจว่าผมอ่านภาษานั้นได้', 'บัตรแสดงความยินดีคริสต์มาส', 'หนังตลก']	เดง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไก่ไก่ไดจอน', 'อาหาร', 'ไก่ไดจอน', 'ไก่ไดจอน', 'ไก่ไดจอน', 'อาหาร', 'ไก่ไดจอน', 'ไก่', 'ไก่ไดจอน', 'ไก่ไดจอน']	อาหาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	กาแฟนี้เป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กาวาเลีย', 'กีวาเลีย', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'กาวาเลีย', 'กาวาเลีย', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'ภาษาฝรั่งเศส', 'กีวาเลีย แฟรนช์ วานิลลา']	กาแฟน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	สิ่งนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['iphone', 'โทรศัพท์', 'โทรศัพท์', 'iphone', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'ฉันโทร', 'สมาชิกสมาร์ทโฟน', 'สมาชิกสมาร์ทโฟน']	เรือด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ธูปบุหรี่', 'ซิเกราตระบาย', 'ธูปบุหรี่', 'ซิเกราตระบาย', 'ธูปบุหรี่', 'ธูปบุหรี่', 'ตอบไม่ได้', 'ธูปบุหรี่', 'ธูปบุหรี่']	กรรเชษฐ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	กลิ่นอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เนื้อวัว', 'กลิ่นเนื้อวัว', 'เนื้อวัว', 'น้ําผงรสเนื้อวัว', 'เนื้อวัว', 'รสเนื้อวัว', 'น้ําผงรสเนื้อวัว', 'เนื้อวัว', 'รสเนื้อวัวนี้', 'เนื้อวัว']	กลิ่นฉี่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ถ้วยใหญ่', 'ถ้วย', 'ถ้วย', 'ถ้วย', 'รักโตโก้คัพ', 'ถ้วย', 'โปปคัพ บางอย่างอื่น', 'ถ้วยสไตรฟอง', 'ถ้วย', 'ถ้วยนี้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	นี่เป๊ปซี่เบาหรือยังเป๊ปซี่ทั่วไป?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เพปซี่เบา', 'การกิน', 'ตอบไม่ได้', 'การกิน', 'เพปซี่เบา', 'การกิน', 'การกิน', 'การกิน', 'เพปซี่เบา', 'การกิน']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	ภาพแสดงอะไรอยู่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โปรแกรม avast', 'การสแกนไดรฟ์ท้องถิ่น', 'หน้าต่าง', 'ข้อความผิดพลาด', 'การสแกน', 'แอวสต้าท์ โปรแกรมสแกน Windows XP', 'หน้าต่าง', 'ตอบไม่ได้', 'windows xp', 'ตอบไม่ได้']	คอมพิเศษ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	กรุณาบอกผมว่าผมอยู่บนจอไหน? ผมกําลังพยายามเข้าสู่เมนูการเริ่มต้นและผมกําลังพยายามเริ่มต้นจาก USB drive. ลองดูว่าคุณสามารถบอกผมว่าจอไหนเปิดและตัวเลือกคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กดลูกศรลงครั้งหนึ่งแล้วใส่สําหรับ usb', 'เบนเมนูในการ boot จากตัวเลือก hdd', 'ตอบไม่ได้', 'อารมณ์ของลูก', 'กรุณาเลือกอุปกรณ์การ boot', 'กรุณาเลือกอุปกรณ์การ boot:', 'กรุณาเลือกเครื่อง boot hdd: pm st9250315as', 'กรุณาเลือกอุปกรณ์การ boot', 'หน้ากาก: กรุณาเลือกอุปกรณ์บูท เลื่อนลูกศรลง 1 จุดไปยัง usb:usb disk pro', 'กรุณาเลือกอุปกรณ์การ boot']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	คุณบอกฉันได้ไหมว่ารสอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การกิน dr พริก', 'การกิน dr พริก', 'dr การกินพริก', 'ดร.พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'โคล่า', 'การกิน dr พริก', 'การกิน dr พริก']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	ซุปอะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ซุปผัก', 'โปรแกรม', 'เร่งเร่ง', 'ตอบไม่ได้', 'พืชผัก progresso', 'ตอบไม่ได้', 'ผัก', 'พืชผัก progresso', 'ผัก', 'โปรแกรม']	ซุปผลไม้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	บอกฉันหน่อยว่านี่รถประเภทไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ลินคอล์น โครน วิคตอเรีย', 'ซีดาน 4 ประตู', 'ลินคอล์น', 'ฟอร์ดครูอนวิคตอเรีย', 'ลินคอล์น', 'เชฟโรเล็ต', 'มงกุฎวิคตอเรีย', 'ตอบไม่ได้', 'โฟร์ด']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	นี่กาแฟเหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'Gevalia หมึกสวิส', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย', 'กีวาเลีย']	เค้ก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'เครื่องล้างมือ', 'germx', 'ยาล้างมือเชื้อเชื้อ X', 'ยาล้างมือเชื้อเชื้อ X']	แอลกอฮอล์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	นั่นอะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ซุป', 'ผลไม้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้', 'กระเป๋า', 'ซุป']	ข้ามไปดูคู่มือการใช้งาน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	สีอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'ผักกาดสีน้ําตาล', 'ไม้', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'มือ', 'มือ', 'ตอบไม่ได้', 'มือ', 'มือ', '1 มือขวา', 'มือ', 'มือ', 'มือ']	กรองวิดีโอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	ปลาบัวปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปังปัง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ถ้วย', 'สูง', 'สูง', 'สูง', 'สูง', 'สูง', 'ต่ํา', 'สูง', 'สูง', 'สูง']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	คุณบอกผมได้ไหมว่านี่คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สินค้าสําหรับคนตาบอด', 'cd', 'ซีดีกลับ', 'อุปกรณ์สําหรับแผ่นดิสก์บลิด', 'cd', 'ዲስก', 'หนังสือในซีดี', 'cd', 'สินค้า cd สําหรับคนตาบอด', 'แลนซ์ โดย เจมส์ เฮอร์เบิร์ต DVD']	ธนู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	นั่นอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คอมพิวเตอร์ คีย์บอร์ดจอ', 'มอนิเตอร์', 'โมเนอร์คอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'คอมพิวเตอร์', 'โมเนอร์คอมพิวเตอร์', 'หน้าจอคอมพิวเตอร์', 'desktop', 'กราฟ', 'กราฟ']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	คุณบอกฉันได้ไหมว่ากล่องนี้เขียนอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ําตาลวานิลลาอบ', 'น้ําตาล', 'น้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิล่าอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	มีอะไรบนจอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หน้าจอติดตั้ง windows', 'ตอบไม่ได้', 'การติดตั้งหน้าต่าง', 'การติดตั้งหน้าจอสถานะของ windows', 'วินโดว์ติดตั้ง', 'การติดตั้งหน้าต่าง', 'คําแนะนําสําหรับการติดตั้งหน้าต่าง', 'ความก้าวหน้าในการติดตั้งหน้าต่าง', 'การติดตั้งข้อมูล Windows', 'หน้าต่าง']	ระบบการอัปเกรดซอฟต์แวร์คอมพิ๑นเต
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สามารถ', 'สามารถ', 'ตอบไม่ได้', 'ถั่วกระป๋อง', 'สามารถ', 'ผัก', 'ตอบไม่ได้', 'ผัก', 'หมัก', 'หมัก']	น้ำมัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	นั่นอะไรน่ะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'ส้ม', 'น้ําส้ม']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	มีน้ํามันอะไรในกระป๋องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ชา', 'นีสเตีย', 'เนสเตีย มะนาว', 'ชาเย็น', 'นีสเตีย', 'นีสเตีย', 'นีสเตีย', 'ชาเย็น', 'ชาน้ําแข็งเนสท์เล่', 'นกเต่า']	น้ำมัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	นี่พีซซ่าเปเปอร์โอนี่เหรอ พีซซ่าเปเปอร์โอนี่กับซอสเซส สูเปรีม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['พริก', 'พริก', 'พริก', 'พริก', 'พริก', 'พริก', 'ใช่', 'พริก', 'แม่อร่อย พริกผัดผัด', 'พริก']	พีซซ่าเปเปอร์โอนี่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	คุณรู้ไหมว่าต้นไม้ตรงกลางเป็นต้นไม้อะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'หญ้า', 'หญ้า', 'หญ้า', 'หญ้า', 'หญ้า', 'ไม่', 'ไม่', 'หญ้า', 'พืชผัก']	กรดมะนาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['แก้ว', 'แก้ว', 'แก้ว', 'แว่นตา', 'แก้วคู่', 'แก้ว', 'แก้วคู่', 'แก้ว', 'แว่นตา', 'แก้วคู่']	กรรไกร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	อธิบายสถานที่นี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สํานักงาน', 'พื้นที่สํานักงาน', 'สํานักงาน', 'สํานักงาน 2 โต๊ะ ตู้ 2 เก้าอี้', 'สํานักงาน', 'สํานักงาน', 'โต๊ะทํางาน เก้าอี้สํานักงานสีดํา', 'โต๊ะทํางาน', 'โต๊ะทํางาน 2 โต๊ะ', 'สํานักงาน']	办公室
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หนังสือพิมพ์', 'ผู้วางแผน', 'หนังสือ', 'หนังสือ', 'บัตร', 'หนังสือพิมพ์', 'ผู้วางแผน', 'หนังสือพิมพ์', 'ลิลลี่ พูลิตเซอร์ แจนดา สไพราล', 'หนังสือพิมพ์']	บันทึกเหตุการณ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['แทดี้บียาร์โรส', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมี', 'หมีเท็ดดี้', 'หมีเท็ดดี้', 'หมีเท็ดดี้']	คุddyลีย์บูติก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	มันสุกอะไรกันเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเล', 'เกลือกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม', 'เกลือทะเลกระเทียม']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	มีอะไรในกระปุกนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'ดร.พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'การกิน dr พริก', 'dr การกินพริก', 'การกิน dr พริก']	แคนดีต
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	ภาพบนถ้วยนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การ์ตูน', 'ตัวละครการ์ตูน', 'การ์ตูน', 'คนมองนก', 'ไก่คน', 'ชาย', 'ชายการ์ตูน', 'สกิชนกคนไม้ดวงจันทร์', 'สัตว์', 'การ์ตูน']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คนกลับ', 'เด็กชาย', 'หัวชาย', 'คน', 'หลังหัวใครบางคน ไหล่', 'หลังคน', 'ตอบไม่ได้', 'เสื้อสีเทา', 'เด็กชาย', 'รูปหลังคน']	การออกกำลังกาย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผู้พูด', 'ผู้พูด', 'เครื่องเสียงติดผนัง', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด', 'เครื่องเสียงติดผนัง', 'ผู้พูด', 'หมาก', 'ผู้พูด']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	มันเขียนอะไรอยู่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เลขโทรศัพท์รถแท็กซี่', 'ไม่มีอะไร', 'ไม่มีอะไร', 'โทรศัพท์', 'รถแท็กซี่เมือง', 'ใบรับ', 'ตอบไม่ได้', 'ดูเหมือนใบตรา', 'สาย', 'รถแท็กซี่เมือง']	กราฟิก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['นิวออร์เลี่ยนสไตล์จัมบัลยายา', 'ผสม jambalaya', 'ผสม jambalaya', 'ข้าว', 'มะลาลา', 'ผสม jambalaya', 'ผสม jambalaya', 'ข้าวจัมบัลยายา', 'กล่องที่เตรียมผสมสําหรับข้าว jambalaya แบบนิวออร์เลนส์', 'ผสม jambalaya']	ข้ามแบงก์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	แมคผมสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เงิน', 'สีขาว', 'สีดํา', 'สีขาว', 'เงิน', 'เงิน', 'เงิน', 'เงิน', 'สีขาว', 'เงิน']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	มีอะไรในกระปุก?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ถั่วผักชีวภาพ', 'ถั่วผัก', 'ถั่วผักชีวภาพ', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ถั่วผัก']	ถั่ว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ํามันสับ', 'ตอบไม่ได้', 'น้ํามันสับ', '3 มะกรูดชีส', 'น้ํามันสับ', 'แม็คชีส', 'น้ํามันสับ', 'อาหารเย็น', 'แมคเนอรินชีส', 'ไส้กระเป๋า']	ข้ามเชื้อชา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ซาตารีนส์ นิวออร์เลี่ยนสไตล์ จัมบัลยายา', 'ผสม jambalaya', 'ผสม jambalaya', 'ผสม jambalaya', 'ผสม jambalaya', 'ข้าว', 'zatarains jambalaya mix สารสกัด', 'มะลาลา', 'zatarains jambalaya mix สารสกัด', 'ผสม jambalaya']	ซัตาร์ไนส์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	อะไรกันเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ของหวานถนนคุณภาพ', 'กล่องของหวาน', 'น้ําตาลหวาน', 'น้ําตาลหวาน', 'ของหวานแข็ง', 'น้ําตาลหวาน', 'น้ําตาลหวาน', 'น้ําตาลหวาน', 'ถนนคุณภาพ', 'น้ําตาลหวาน']	มาลัย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	ขอโทษนะ บอกฉันสิว่าเธอเห็นอะไรในรูปนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตู้เย็น', 'ตู้เย็น', 'ตู้เย็น', 'ตู้เย็นขนาดเล็ก กระเบื้องอ่อนกระเบื้องผนังกระเบื้องผนังกระเบื้องผนัง', 'ตู้เย็น', 'ตู้เย็นขนาดเล็ก', 'ตู้เย็นขนาดเล็ก', 'ประตูตู้', 'ตู้เย็นสีขาว', 'ตู้เย็น']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	คุณบอกผมได้ไหมว่าสิ่งนั้นเขียนอะไรในกล่อง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หลานหลานที่น่ารัก', 'เรื่องหลานหลานที่น่ารัก', 'น่ารัก', 'ไม่มีอะไรน่ารักกว่าหลานหลาน', 'มีสิ่งเล็กน้อยที่น่ารักกว่าหลานชายที่ต่อสู้กันเพื่อลูก', 'หลานหลานที่น่ารัก', 'หลานหลานที่น่ารัก', 'มีสิ่งเล็กน้อยที่น่ารักกว่าหลานชายที่ต่อสู้กันเพื่อลูก', 'ตอบไม่ได้', 'หลานหลานที่น่ารัก']	กราฟฟิค
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	สวรรค์ดูยังไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สะอาด', 'ตะวันตก ตะวันขึ้น', 'สีฟ้า', 'คืน', 'สีฟ้า', 'สะอาด', 'สะอาด', 'สงบ', 'สีฟ้าอ่อน', 'สีฟ้า สีฟ้าเบากว่า ใกล้แนวฟ้า']	บันทึก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	เสื้อนี้สีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีแดง', 'สีน้ําตาล', 'สีแดง', 'สีเบจ', 'สีเบจ', 'สีชมพู', 'สีน้ําตาล', 'สีแดง', 'ทอง', 'สีเทา']	เงา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	เขาเป็นเด็กชายหรือเด็กผู้หญิง?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'เด็กชาย', 'เด็กชาย', 'สาว', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย', 'เด็กชาย']	เด็กชาย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	ช่วยบอกผมหน่อยสิว่านี่เป็นของอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผัก', 'ชิวริโอ', 'ผัก', 'ชิวริโอ', 'ตอบไม่ได้', 'ผัก', 'หวานหวาน', 'เชียร์ออส ตอนนี้อร่อยกว่านี้นะฮันนี่', 'น้ําผึ้ง', 'น้ําผึ้ง']	เกลือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	สีอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีแดงสีเหลืองสีขาวสีฟ้า', 'สีขน', 'สีเขียว สีฟ้า สีขาว สีแดง', 'สีหลายสี', 'สีขาว', 'สีขน', 'สีฟ้า สีเขียว สีขาว สีแดง', 'สีขน', 'สีฟ้า สีขาว สีเขียว', 'สีฟ้า สีเขียว สีแดง สีขาว']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โคโกะร้อน', 'ผสมคาวร้อน', 'ผสมคาวร้อน', 'ผสมคาวร้อน', 'ผสมแคโคอา', 'โคโกะร้อน', 'ช็อกโกแลตร้อน', 'ผสมช็อกโกแลตร้อน', 'แพ็คช็อกโกแลตร้อน', 'ช็อกโกแลตร้อน']	โกโก้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'แฮมส์เบียร์เบาพิเศษ', 'ไวรัส', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไวรัส', 'ไวรัส', 'ไวรัส', 'ไวรัส', 'แสงพิเศษ']	สแกนดีเพื่อตรวจหาข้อมูลเพิ่มเติม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	นี่ไก่หรือเซลเลอรี่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['มะเขือเทศ', 'มะเขือเทศ', 'มะเขือเทศ', 'มะเขือเทศ', 'ไม่', 'มะเขือเทศ', 'ซุปทอด', 'มะเขือเทศ', 'มะเขือเทศ', 'ไม่']	เซลเลอรี่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	มันเขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'macbook pro', 'Airbook โปร', 'macbookpro', 'macbook pro']	แม็คฟลู๊ดพี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	ฉันอยากรู้ว่ามีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ถั่วผัก', 'ถั่วผัก', 'ผัก', 'ถั่วถั่วเผาในซอสทอด', 'สาวเกษตรกรถั่วผัก', 'ถั่วผัก', 'ถั่วผัก', 'ผัก', 'ถั่วผัก', 'ผัก']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไก่', 'ตอบไม่ได้', 'ไก่พาร์เมซานครีม', 'อาหาร', 'อาหารค่ําทีวี', 'อาหาร', 'แม็คชีส', 'อาหาร', 'เมลล์ของมารี คอลเลนเดอร์', 'ไก่พาร์เมซานครีม']	เมล็ดกาแฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เงินดอลลาร์', 'เงิน 1 ดอลลาร์', 'ดอลลาร์', 'เงิน 1 ดอลลาร์', '1', 'เงิน 1 ดอลลาร์', 'เงินดอลลาร์', 'เงิน 1 ดอลลาร์', 'เงิน 1 ดอลลาร์', 'เงินสหรัฐ 1 ดอลลาร์']	หนังสือเงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	นี่มันอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การ์ดเล่น', '2 กษัตริย์', 'คู่กษัตริย์', 'การ์ดเล่น', 'บัตร', 'บัตร', 'การ์ดเล่น', 'คู่', 'บัตร', 'การ์ดเล่น']	เงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	นี่ดําหรือน้ําเงิน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีดํา', 'สีเทา', 'สีดําเทา', 'สีดํา']	น้ำเงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	มีอะไรเขียนอยู่บนจอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กล่องข้อความการค้นหา google', 'โกเกิล', 'โกเกิล', 'โกเกิล โกเกิลค้นหา ฉันรู้สึกโชคดี', 'โกเกิล', 'ค้นหาใน google', 'ตอบไม่ได้', 'โกเกิล', 'โกเกิล', 'ตอบไม่ได้']	กราฟฟิคส์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'อาหาร', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมัก', 'เนื้อหมักหมักแบบดั้งเดิม', 'เนื้อหมักหมักแบบดั้งเดิม']	ยูนิคอร์น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	นี่โซดาอะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก', 'ดร.พริก']	ดีพีเปปเปอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ระบบรีโมททีวี', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['พืชบ้าน', 'โรงงาน', 'พืชบ้าน', 'โรงงาน', 'โรงงาน', 'โรงงาน', 'โรงงาน', 'พืชในกระถาง', 'โรงงาน', 'พืชในบ้าน']	พันธุ์ไม้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	อะไรกันเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โต๊ะทํางาน', 'คอมพิวเตอร์', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'โต๊ะคอมพิวเตอร์', 'โต๊ะทํางาน', 'โต๊ะทํางาน', 'คอมพิวเตอร์โต๊ะเปิด']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	มีอะไรบนโต๊ะฉัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ipod touch', 'แอป', 'โทรศัพท์', 'กระดาษโทรศัพท์มือถือ', 'กระดาษโทรศัพท์มือถือ', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'โทรศัพท์']	ธนบัตร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	ฉันถ่ายรูปอะไร และอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ipad', 'ถุงกาแฟ iPad ใกล้ๆ', 'เม็ด', 'ipad', 'hulu เข้าระบบ', 'โรคสะเก็ดเงิน', 'เม็ดที่แสดง Hulu plus', 'tablet hulu plus ทางเข้า', 'สกรีน huluplus', 'หน้าจอเข้าใช้งานสําหรับ Hulu plus บนแท็บเล็ต']	สื่อสารกับเพื่อน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	ขวดนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['แชมพู', 'แชมพู', 'ตอบไม่ได้', 'ทรีเซม', 'แอบรัก', 'ตอบไม่ได้', 'การดูแลผม', 'แชมพู', 'น้ําหอม', 'แชมพู tresemme']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	นี่เป็นแบบอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โซดา', 'สปริต', 'ขวดน้ํามันซ๊อด', 'สปริต', 'ตอบไม่ได้', 'สปริตโซดา', 'สปริต', 'กระปุกสไพร์', 'ตอบไม่ได้', 'สปริต']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	สินค้าอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์ เชดาร์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เชฟมิคซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์ มิกซ์', 'เช็กซ์']	เช็คเม็กซ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กุ้งควัน', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'พานินี่ไทย', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'สับปะรด', 'พานินี', 'กุ้งควัน', 'พานินี่ไทยหอม']	ไก่บด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	ฉันพิมพ์ตัวอักษรอะไร เพื่อชนะรางวัล?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg', 'mvg']	มิวจี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	นี่กระป๋องอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['มะเขือเทศ', 'สอส', 'มะเขือเทศ', 'มะเขือเทศบด', 'สแตน', 'มะเขือเทศ', 'มะเขือเทศ', 'ปริมาณการกิน', 'มะเขือเทศ', 'มะเขือเทศ']	กระป๋องมูส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	นี่ชามเคอริกอะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['บ้านโดนัท', 'กาแฟ', 'กล่อง', 'ดอนิต', 'รวมของบ้านโดนัท', 'ดอนิต', 'ดอนิต', 'รวมของโดนัทฮัต', 'ช่องโดนัท', 'การเก็บของดอนัตฮอลล์']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	บอกชื่อหนังสือนี้หน่อยสิ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เริ่มต้นของเดือน', 'ตอบไม่ได้', 'ผู้เขียน คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'เพียงชื่อผู้เขียนเท่านั้น ไม่มีชื่อ', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คาสลเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'คลิฟ คัสสเลอร์ ดิร์ค คัสสเลอร์', 'ตอบไม่ได้']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เงิน', 'เงิน', 'เงิน 20 ดอลลาร์', 'เงิน', '20 ดอลลาร์', '20 ดอลลาร์', '20 ดอลลาร์', 'เงิน 20 ดอลลาร์', 'บิล 20.00', 'เงิน 20 ดอลลาร์']	เงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	นี่ชามพูหรือน้ําล้างร่างกายเหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โลชั่น', 'โลชั่นร่างกาย', 'โลชั่น', 'โลชั่นร่างกาย', 'โลชั่นร่างกายกระจ่าง', 'โลชั่นร่างกาย', 'โลชั่นร่างกาย', 'โลชั่น', 'โลชั่นร่างกาย', 'โลชั่นร่างกาย']	น้ำล้างร่างกาย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	มีอะไรในรูปนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ครั๊กเกอร์', 'ครั๊กเกอร์กล่อง', 'กล่องครั๊กเกอร์', 'กล่องครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์', 'ครั๊กเกอร์']	ขนม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	รูปนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โทรศัพท์', 'macbook pro', 'macbook pro', 'โมเนอร์คอมพิวเตอร์', 'ตอบไม่ได้', 'โน๊ตพ็อต', 'คอมพิวเตอร์', 'macbook pro', 'หน้าจอ macbook pro', 'คอมพิวเตอร์เล็ปโตป']	คอมพิวเตอร์สมาร์ทโฟน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ํา', 'น้ํา', 'น้ํากระจกธรรมชาติ', 'สภาพธรรมชาติ น้ําคริสตัล', 'กระปุกน้ํา', 'กระปุกน้ํา', 'กระปุกน้ํา', 'น้ํา', 'กระปุกน้ํา', 'น้ํา']	น้ำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	นี่พีซซ่าอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['พริก', 'แม่อ่อน', 'แม่อุ่นดีกับพิซซ่าบาง', 'พริก', 'พิซซ่าแข็ง', 'พริก', 'หนา', 'พริกผัดกระดูกบางจากแม่คอซซิส', 'แม่อุ่นใจกับพริกผัดผัด', 'แม่อ่อน']	พีซซ่าเจ้าแม่คุ้ย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	มีอะไรในกระปุกนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ข้าวโพดทั้งตัว', 'ข้าวโพด', 'ข้าวโพด', 'ข้าวโพด', 'ข้าวโพดเมล็ดเต็ม', 'ข้าวโพดเมล็ดเต็ม', 'ข้าวโพด', 'อาหารที่มีคุณค่าสูง สามารถ', 'ข้าวโพด', 'ข้าวโพด']	ข้ามข้ามข้าม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หนู', 'หนูคอมพิวเตอร์', 'หนูคอมพิวเตอร์', 'หนูคอมพิวเตอร์', 'หนูคอมพิวเตอร์', 'แมวสาย HP', 'หนูคอมพิวเตอร์', 'มือถือ', 'แมว hp', 'หนู']	คีย์บอร์ดไร้สาย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	นี่มันอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สํานักงาน', 'เก้าอี้', 'สํานักงาน', 'เก้าอี้สํานักงาน', 'เก้าอี้', 'เก้าอี้โต๊ะ', 'สํานักงานบ้าน', 'สํานักงาน', '2 เก้าอี้โต๊ะ', 'เก้าอี้']	กรด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ทีวี', 'โทรทัศน์', 'โทรทัศน์', 'โทรทัศน์เก่า', 'ทีวี', 'ทีวี', 'มอนิเตอร์', 'หน้าจอโทรทัศน์', 'ทีวี', 'มอนิเตอร์']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	เสื้อผมสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีดํา สีขาว', 'สีฟ้า สีขาว สีดํา', 'สีดํา', 'สีฟ้า', 'ทหารเรือ', 'สีดํา สีขาว', 'สีดํา สีขาว', 'สีฟ้า', 'สีฟ้า', 'สีดํา สีขาว']	เบลค์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	สีอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีแดง', 'สีแดง', 'สีแดง', 'สีแดง', 'สีชมพู', 'สีแดง', 'สีแดง', 'สีแดง', 'สีแดง', 'สีแดง']	แดง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	ชิปส์ปกติหรือ ชิปส์เกลือและมะขาม?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เกลือ', 'ปกติ', 'ปกติ', 'ชิปส์ปกติ', 'ปกติ', 'ปกติ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปกติ', 'ตอบไม่ได้']	ชิปส์เกลือและมะขาม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	มันกล่องอะไร น้ําส้มหรือนม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ําส้ม', 'น้ําส้ม', 'อย', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'น้ําส้ม', 'ส้ม', 'น้ําส้ม', 'กระดาษกล่อง น้ําส้ม']	น้ำส้ม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	คุณบอกผมได้ไหมว่านี่คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ชิปส์', 'ชิปส์', 'ชิปส์', 'ชิปฝรั่ง', 'ชิปฝรั่ง', 'ชิปกระเทียมครีมกรด', 'ชิปส์', 'ชิปฝรั่ง', 'ชิปส์', 'ชิปฝรั่ง']	ถั่ว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	มีอะไรในกระเป๋านี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ผักแข็ง', 'ผัก', 'แครอต ถั่วข้าวโพด ถั่วเขียว', 'ผัก', 'ผักกาด แครอต ข้าวโพด', 'ผักผสม', 'ผัก', 'ผักผสม', 'ข้าวโพด แครอท ถั่วเหลือง ถั่ว']	น้ำมูก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	สปาร์คนี่รสอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ํามะนาวสีชมพู', 'น้ํามะนาวสีชมพู', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู', 'ส้ม', 'สตรอเบอร์รี่', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	นี่อะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['มังวัช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'มังวัช', 'มังวัช', 'มังวัช', 'มะเขือเทศ', 'มังวัช', 'มังวัช', 'โจจ้ที่ไม่ระวัง']	กระป๋องมานวิช
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	ฤดูกาลไหนกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สปาเกตติ', 'สปาเกตติ', 'สาหร่ายสปาเกตติ', 'สาหร่ายสปาเกตติ', 'สปาเกตติ', 'สาหร่ายสปาเกตติ', 'สาหร่ายสปาเกตติ', 'สปาเกตติ', 'สปาเกตติ', 'สาหร่ายสปาเกตติ']	ฤดูร้อน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หนังสือ', 'วารสาร', 'หนังสือพิมพ์ตั้ง', 'วารสาร', 'หนังสือพิมพ์ตั้ง', 'วารสาร', 'วารสาร', 'วารสาร vertigo', 'วารสาร', 'วารสาร']	นิตยสาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	สิ่งนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผนัง', 'ผนัง', 'ผนัง', 'ผนัง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผนัง', 'ผนัง', 'ผนัง']	สิ่งที่เป็นรูปแบบการเข้าห้องน้ำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ําตาลหวาน', 'แคร์ดแคนดี้สตรอเบอรี่', 'น้ําตาลหวาน', 'แคร์ดแคนดี้สตรอเบอรี่', 'ของหวาน', 'ธารกาด', 'สกัด', 'ธารกาด', 'น้ําตาลหวาน', 'แคร์ดแคนดี้สตรอเบอรี่']	ฟริ๊ส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	รองเท้านี้สีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีน้ําตาล', 'สีดํา', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'สีน้ําตาล', 'ขา', 'สีน้ําตาล', 'สีเขียว']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['หน้าจอคอมพิวเตอร์', 'หน้าเว็บ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เว็บไซต์', 'หน้าจอคอมพิวเตอร์', 'โมเนอร์คอมพิวเตอร์', 'สาระ', 'ไฟล์ pdf สําหรับ vizwiz', 'vizwizpdf สับสน แต่สามารถดูส่วนผู้มีส่วนร่วม']	เอกสาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	รูปนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['มอนิเตอร์', 'โน๊ตพ็อต', 'โทรทัศน์', 'คอมพิวเตอร์', 'โน๊ตพ็อต', 'โทรทัศน์', 'ทีวีจอแบน', 'หน้าจอของแลปท็อป', 'โทรทัศน์', 'ตอบไม่ได้']	เครื่องอิเล็กทรอนิกส์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'พีเจอร์', 'ตอบไม่ได้', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือแบล็คเบอรี่', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ']	เครื่องมือโทรคมนาคม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตู้เย็น', 'ตอบไม่ได้', 'ตู้เย็น', 'ตู้เย็นห้องพัก', 'ตู้เย็น', 'ตู้เย็น', 'ตู้เย็น', 'ตู้เย็นขนาดเล็ก', 'เครื่องเย็น', 'ตู้เย็นขนาดเล็ก']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	ผมควรใส่เครื่องประดับสีไหนกับชุดนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เงิน', 'เงิน', 'สีขาว', 'ทอง', 'สีดํา', 'เงิน', 'เงิน', 'เงิน', 'เงิน', 'เงิน']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ขา', 'กางเกงกางเกง', 'หนวด', 'กางเกงขา', 'โซฟาแขน', 'กางเกง', 'หมอน', 'ตอบไม่ได้', 'ขากางเกง', 'ขา']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สุนัข', 'ตอบไม่ได้', 'สุนัข', 'สุนัข', 'สุนัข', 'สุนัข', 'สุนัข', 'สุนัข', 'ตอบไม่ได้', 'สุนัขบนพื้น']	ลูกที่นอน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'เครื่องควบคุมทีวี', 'ระบบรีโมททีวี', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล', 'ระยะไกล']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	กล้วยพวกนี้เขียวหรือเหลือง?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีเขียวบาง', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง', 'สีเขียว', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง', 'สีเหลือง']	เหลือง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	สินค้าอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผัก', 'คาชิ โก ผอม แข็ง น้ําผึ้ง อมดอล์ด แลน', 'คาชิ ไปคราง', 'โกเลียน ครัช คาชิ', 'ผัก', 'ไปกินข้าวผัดผัด', 'ไปลดความอ่อนแอ', 'คาชิ โก ผอม แข็ง น้ําผึ้ง อมดอล์ด แลน', 'ผัก', 'ผัก']	เกลือลีนคัชชี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	ตอนนี้มีอะไรอยู่บนจอทีวี?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ไม่มีอะไร']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เนื้อ', 'สเต็กเนื้อวัว', 'เนื้อวัว', 'สเต็ก', 'เนื้อ', 'เนื้อ', 'ตอบไม่ได้', 'สเต็กเนื้อวัว', 'สเต็ก', 'เนื้อ']	รูป
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	ข้อความนี้บอกว่าอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ซ่อมซ่อมครบ', 'ตอบไม่ได้', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'ตอบไม่ได้', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ']	รีสตาร์ทคอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	อาหารอะไรอยู่ในกระป๋องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ซุป', 'progresso ซุปผักสวน', 'ซุปผักสวน', 'ซุปผัก', 'ซุปผักสวน', 'ซุปผักสวน', 'ซุป', 'progresso ซุปผักสวน', 'ผักสวน', 'ซุปผักสวน']	ซุป
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สามารถ', 'ซุปหญ้ากระจาย', 'ซุปหญ้ากระจาย', 'ซุปหญ้ากระจาย', 'ซุปหญ้ากระจาย', 'ซุป', 'สามารถแยกซุปข้าวหอมได้', 'ซุปหญ้ากระจาย', 'ซุป']	น้ำข้าม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	เป็นโซฟาหรือโต๊ะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'ตาราง', 'โต๊ะนี้']	โต๊ะ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	อาหารอะไรอยู่ในกระป๋องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'ข้าวโพด', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'ราวิโอลี', 'อาหารราวิโอลี', 'ราวิโอลี']	Ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	มีอะไรบนจอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ข้อความผิดพลาด', 'pop ups สําหรับการเริ่มต้น ซ่อมแซมคอมพิวเตอร์ restart', 'เปิดใหม่', 'กล่องโต้ตอบที่บอกว่าคุณแน่ใจว่าคุณต้องการออกจากการเริ่มต้นการซ่อมแซม restart คอมพิวเตอร์ของคุณ', 'การซ่อมแซมการเริ่มต้น', 'คําแนะนําการอัพเดท windows', 'ตอบไม่ได้', 'การซ่อมแซมการเริ่มต้น', 'ตัวเลือกการเริ่มต้นใหม่ของคอมพิวเตอร์', 'การซ่อมแซมการเริ่มต้น']	คุณสมบัติ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	ลองดูสิ คุณบอกผมได้ไหมว่านี่คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผัก', 'ถั่วผัก', 'ผัก', 'ถั่วผัก', 'ผักกาด ถั่วผัก', 'สามารถ', 'ถั่วกระป๋อง', 'ผักกาด ถั่วผัก', 'ถั่วผัก', 'ผัก']	ข้ามไป
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	คุณบอกผมได้ไหมว่านี่โทรศัพท์อะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['L g', 'lg', 'lg', 'lg', 'lg', 'lg', 'lg', 'แอนดรอยด์', 'lg', 'ใช่']	โทรศัพท์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สมาชิกสมาร์ทโฟน', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'โทรศัพท์มือถือ', 'สมาชิกสมาร์ทโฟน', 'โทรศัพท์', 'โทรศัพท์']	โทรศัพท์มือถือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โน๊ตพ็อต', 'มือ', 'คีย์บอร์ดคอมพิวเตอร์', 'มือ', 'นิ้ว', 'มือ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โต๊ะทํางาน', 'มือ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คาเบิร์น 2009', 'ไวน์', 'ไวน์', 'ไวน์', 'ผักกาด', 'ไวน์ขวด', 'ไวน์', 'ไวน์', 'สวรรค์ม้า โคลัมเบีย คาเบิร์เนท 2007', 'ไวน์']	ไวน์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	มีอะไรอยู่ในขวดนั่น\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โค๊ก', 'โซดา โป๊ บางทีโคกากอล้า', 'โซดา', 'โคกะ โคลา โซดา', 'โซดา', 'โซดา', 'โค๊ก', 'โซดา', 'โค๊ก', 'โซดา']	ซอฟต์_drink
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	สีอะไรนะครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สายสีขาวแดง', 'สีแดง', 'สายสีขาวแดง', 'สายสีขาวแดง', 'สีแดง สีขาว', 'สีขาว สีแดง', 'เสื้อ', 'สีแดง สีขาว', 'สีแดง สีขาว', 'สีแดง สีขาว']	แดง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	มีอะไรในกระเป๋านี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โบรคโคลี', 'โบรคโคลี', 'โบรคโคลี', 'โบรคโคลี', 'โบรคโคลี', 'แต่บรอคโคลี', 'โบรคโคลี', 'โบรคโคลีตัด', 'ควาย n เซอร์สั่นบรอคโคลีตัด', 'โบรคโคลี']	ข้าม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	ใบรับจ้างนั่นเป็นของอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ยอเกิร์ตโยปไลท์ 10$', 'โยปไลท์', 'ยอเกิร์ตโยปไลท์ 10$', 'ยอเกิร์ต', 'ยอเกิร์ต', 'ลด', 'ยอเกิร์ต']	โยล็ค
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	นี่อะไรกันเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['นีสเตีย', 'ชาเย็นกระป๋อง', 'ส้ม', 'เนสเตีย มะนาว', 'นีสเตีย', 'นีสเตีย', 'นีสเตีย', 'นีสเตีย', 'ฟีสต้า', 'นีสเตีย']	น้ำอัดลม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ipad', 'เม็ด', 'คอมพิวเตอร์', 'ipad', 'แพดหนู', 'โน๊ตพ็อต', 'หน้าต่าง', 'เม็ด', 'ตอบไม่ได้', 'ipad']	คุณสมบัติ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	มีอะไรบนจอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คุณต้องการฟื้นฟู comp ของคุณโดยใช้ระบบฟื้นฟู ป๊อปอัพ', 'ข้อความผิดพลาด', 'คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ', 'การเริ่มต้น', 'การเริ่มต้นการตรวจสอบหน้าจอ', 'คําถามการฟื้นฟูระบบ: คุณต้องการใช้ฟื้นฟูคอมพิวเตอร์ของคุณ', 'การซ่อมแซมการเริ่มต้น', 'การซ่อมแซมการเริ่มต้น', 'คําถามเพื่อรีสโฟตคอมพิวเตอร์', 'คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยการใช้รีสโฟตระบบ']	รูปภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	นี่โซดาอะไรบ้าง ขอบคุณมากที่มาตอบ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต', 'สปริต']	แคนาด้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	มันเขียนอะไรบนจอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คุณต้องการรีสโฟตคอมพิวเตอร์ของคุณด้วยระบบ CD', 'การฟื้นฟู', 'คุณต้องการฟื้นฟูคอมพิวเตอร์ของคุณโดยใช้ระบบ', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้นได้ เริ่มการซ่อมแซม ตรวจสอบระบบของคุณเพื่อหาปัญหา', 'คุณต้องการฟื้นฟูคอมพิวเตอร์ของคุณโดยใช้ระบบ', 'การซ่อมแซมการเริ่มต้น', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้น', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้นได้ การซ่อมเครื่องเริ่มต้นตรวจสอบระบบของคุณเพื่อหาปัญหา', 'คอมพิวเตอร์ไม่สามารถเริ่มต้น', 'การฟื้นฟู']	ซูเปอร์เริ่ม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	มีอะไรในกระปุกนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผัก', 'ราคา', 'ผักผสม', 'ผักแท้', 'ผักผสม', 'ผัก', 'ผัก', 'ผัก', 'ผัก', 'ผักผสม']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	คุณเห็นอะไรในรูป คุณเห็นอะไรในรูป\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่มีอะไร', 'สวรรค์', 'ซิงค์', 'สวรรค์', 'ตอบไม่ได้', 'สวรรค์', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สวรรค์']	บันทึก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	ซ๊อดซอปแบบไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า', 'โคกะ โคล่า 0', 'โคกะ โคล่า 0', 'โค๊ก 0', 'โคกะ โคล่า 0', 'โคกะ โคล่า 0']	ซอฟต์_drink
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	ระบบอะไรกันเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['desktop', 'ตอบไม่ได้', 'หน้าต่าง', 'คอมพิวเตอร์ desktop', 'หน้าต่าง', 'หน้าต่าง', 'หน้าต่าง', 'Windows PC', 'หน้าต่าง', 'หน้าต่าง']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	อะไรนะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผู้พูด', 'ผู้พูด', 'ชั้น', 'ผู้พูด', 'ระบบเสียงดัง', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด', 'ผู้พูด']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	มันติดตามแสงบนแล็ปท็อปเหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ไม่', 'ใช่']	ใช่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	คุณบอกฉันได้ไหมว่ากล่องนี้เขียนอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นน้ําตาลวานิลลาอบ', 'น้ําตาลวานิลลาอบ', 'โลชั่นร่างกายน้ําตาลวานิลลาอบ', 'น้ําตาลอุ่น วานิลลา']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	คุณบอกผมได้มั้ยว่าเบอร์ที่ 1-800 บนบัตรนี้ และคุณได้ยินคําถามนี้ไหม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['1 800 735 2929 ไม่ได้ยินคุณ', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 ไม่มี', '18773289677 ไม่มี', '1 877 328 9677', '8007352929 ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	ไฟในห้องเปิดหรือปิด?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไฟดับ', 'ออกไป', 'ใน', 'ออกไป', 'ใน', 'ตอบไม่ได้', 'ใน', 'ใน', 'ใน', 'ใน']	ปิด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	กลิ่นอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผักกาด', 'น้ํามะนาวสีชมพู', 'พันช์ผลไม้', 'น้ํามะนาวสีชมพู', 'น้ํามะนาวสีชมพู', 'ตอบไม่ได้', 'ตอบไม่ได้', 'น้ํามะนาวสีชมพู', 'ผักกาด', 'น้ํามะนาวสีชมพู']	กุ้งกุ้ง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	ข้อความนี้บอกว่าอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การฟื้นฟูเสร็จ', 'ตอบไม่ได้', 'การฟื้นฟูสําเร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ', 'การลงทะเบียนเสร็จ', 'การฟื้นฟูเสร็จ', 'การฟื้นฟูเสร็จ']	ฟรี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	เสื้อผมสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว', 'สีขาว']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['แชมพูการรักษาสีที่พัฒนา', 'แชมพู', 'แชมพูการรักษาสีที่พัฒนา', 'แชมพู', 'แชมพูบําบัดสี', 'แชมพู', 'การรักษาด้วยสี', 'แชมพู', 'การรักษาสีที่ผ่านการพัฒนา', 'การรักษาด้วยสี']	แชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กระป๋อง', 'อาหารแมว', 'ตอบไม่ได้', 'ซิงค์', 'สามารถ', 'ซิงค์', 'การซักผ้า', 'ซิงค์', 'ซิงค์', 'สามารถ']	ขวดแชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	เกมวีดีโออะไรกันเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สเปน นฟล 2k', 'ฟุตบอล', 'Nfl 2k', 'สเปน เอ็นเอฟเอล 2k5', 'สเปน 2k5', 'สเปน 2K ฟุตบอล', 'Nfl 2k', 'ฟุตบอล', 'Nfl 2k', 'ฟุตบอล']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['พานินี', 'พานินี', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม', 'สตูฟเฟอร์ ปาเนนนีไทยสูบ', 'พานินี่ไทย', 'ตอบไม่ได้', 'พานินี่ไทยหอม', 'พานินี่ไทยหอม']	ไก่บด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	มีอะไรอยู่ในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ลาซาเนีย', 'อาหารเย็นแข็ง', 'ลาซาเนียพิเศษ', 'ลาซาเนียพิเศษ', 'ลาซาเนีย', 'ลาซาเนียพิเศษ', 'ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนีย', 'ลาซาเนีย']	ข้าม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	สิ่งนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีธรรมชาติ ควันทุ่งช็อกโกแลตเข้ม บาร์กรานอล่า', 'แบรนซ์บาร์', 'สตาร์กรานอล่า', 'สตาร์กรานอล่า', 'สตาร์กรานอล่า', 'สตาร์กรานอล่า', 'หมักหมักหมักหมัก', 'หมักหญ้า n ช็อกโกแลตเข้ม แบรนด์กระจ่าง', 'ช็อกโกแลตเข้ม บาร์กรันโอลลา', 'สตาร์กรานอล่า']	กรองนํา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เกมวีดีโอ', 'เกม PlayStation 2', 'เกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกมเกม', 'เล่นเกมสตาร์วอร์ส', 'เกมวีดีโอ', 'เกมวีดีโอ', 'สตาร์วอร์ส แบททลฟอร์น 2', 'เกม', 'เกม PlayStation 2', 'เกมส์ไซ']	บันทึกเกม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	นี่คาวเฟย์เมทเหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'นกเต่า', 'วาเนลล่า', 'วาเนลล่าฝรั่งเศส', 'คาเฟ่เมท', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส', 'วาเนลล่าฝรั่งเศส']	คาวกาแฟเมท
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น้ําส้ม', 'น้ํามัน', 'น้ํามัน', 'น้ําส้ม', 'น้ํามัน', 'สวยเนียน', 'เนียน n มีน้ําตาล', 'น้ํามัน', 'น้ําส้ม', 'น้ํามัน']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	หินในหูนี่มีสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีชมพู', 'สีแดง', 'สีแดง', 'สีชมพู', 'สีม่วง', 'สีชมพู', 'สีชมพู', 'สีชมพู', 'สีชมพู', 'สีชมพู']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	กล่องเครื่องอิเล็กทรอนิกส์นี้เขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	สกรีนนี้บอกว่าอะไรแน่ๆ ถ้าคุณอ่านได้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่สามารถอ่านหน้าจอได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อ่านได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	มีอะไรในขวดนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โลชั่น', 'วิตามิน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่แน่ใจ', 'ตอบไม่ได้']	แชมพู
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	แรสชาติของบาร์พลังงานนี้เป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สตรอเบอร์รี่', 'แมงค์มอนด์ครัช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แอปเปิ้ลครัช', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แมงค์มอนด์ครัช']	แรสชาติ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	มันเขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ให้ระวัง', 'n', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ข่าว', 'ตอบไม่ได้']	กราฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	นี่อาหารอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	ผมกําลังพยายามหาว่านี่เป็นวิทยุชนิดไหน ข้อมูลอะไรก็ได้ เพื่อผมจะได้วิทยุของผมเอง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่รู้สิ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาจเป็นโฮม ip9 สเปคเกอร์ด็อก', 'ตอบไม่ได้', 'หมูขนม', 'ตอบไม่ได้', 'พกพา', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	ฉันขอโทษมาก ฉันไม่รู้วิธีการ ฉันไม่เคยถ่ายรูปของสิ่งนี้มาก่อน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ย้ายออกไปอีกนิด เพื่อให้กล้องจับ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	ภาพยนตร์ไหนดีที่สุด\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ง่าย']	สหรับภาพยนตร์ที่ดีที่สุดคือ อัลฟา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สไลด์นี้', 'สีชมพู', 'ตอบไม่ได้', 'สีม่วง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แสงสว่าง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	แสง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	ชื่อของน้ํายานี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'โรคสะเก็ดเงิน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	มันหมดอายุเมื่อไหร่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['9.27.13', 'ตอบไม่ได้', 'ตอบไม่ได้', '23 กันยายน 2013', '23 กันยายน 2013', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '23 กันยายน 2013', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	ฉันทําอาหารนี้นานแค่ไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', '5 นาที', 'ตอบไม่ได้', 'ตอบไม่ได้', '5 นาที', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['คลีนเน็กซ์', 'มุม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โทรศัพท์', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	สี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	เพลงอะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แบ็กในภาพ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผักกะปิ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	มันบอกว่าใต้หน้าต่างไม่สามารถซ่อมระบบนี้ได้โดยอัตโนมัติ มันบอกว่าเริ่มต้นอะไรบางอย่าง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'การซ่อมเครื่องเริ่มต้นไม่สามารถซ่อมเครื่องคอมพิวเตอร์นี้ได้โดยอัตโนมัติ', 'ตอบไม่ได้', 'การเริ่มต้น', 'การเริ่มต้นการซ่อมไม่สามารถซ่อมคอมพิวเตอร์นี้ได้โดยอัตโนมัติ', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	ซาโดเรียมในกระเป๋านี้มากแค่ไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โซมาอัส', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	บนจอมันบอกว่ามันกําลังฟื้นฟูอยู่เหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	รีบูส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	ผ้าม่านอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เรียนต่อ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ผ้าม่านบ้าน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	ชื่อของการชะนี้นี่คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '0', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	สีอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีแดง สีขาว', 'ตอบไม่ได้', 'สีขาว', 'สีขาว', 'ตอบไม่ได้', 'สีแดง สีขาว', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	สีแดงและสีขาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	ช่วยอธิบายให้ฟังว่า ใบที่ติดอยู่บนรูเตอร์ของฉันบอกว่า ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	วันหมดอายุของบัสพาสนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	แค่พูด\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	นี่เขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'แถว คอลัมน์ เลขไม่ชัดเจน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	เวลากี่โมงแล้ว\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แฟลชบนกล้อง rendering clock ไม่สามารถอ่าน', 'ไม่เห็น', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่รู้จะบอก', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	คุณบอกวิธีใช้ชมพูนี้ได้ไหมครับ ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'edfcfd', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	มีปุ่มที่ต้องกด เพื่อให้มันเริ่มใหม่ หรือฉันแค่รอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['การดําเนินงานของระบบ', 'ตอบไม่ได้', 'ใช่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'รอ', 'ติดต่อ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	ถ้าบัตรนี้แสดงในรูปนี้ มันบอกว่าอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่แสดง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีคําพูด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	การทดสอบ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ระยะไกล', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ระยะไกลเสียงรอบ', 'คําถามไม่ได้ใช้กับภาพ']	พิสูจน์การทดสอบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	คมพ์เกอร์จริง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่ทราบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	ผมกําลังจัดการกับแคปตช่า แต่ผมมองหน้าจอไม่ได้ และผมต้องการมันเพื่อขออะไรจากเว็บไซต์ คุณบอกผมได้ไหมว่า แคปตช่าคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่ 1', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่']	กราฟฟิคส์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	ผมรู้ว่ามันบอกว่าสิบพระบัญชา แต่สิบพระบัญชาคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กําหนดกฎที่พระเจ้าให้แก่ผู้ศรัทธา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กฎศีลธรรม', 'ตอบไม่ได้', 'คําสั่งของพระเจ้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กฎหมาย', 'ตอบไม่ได้']	สิบพระบัญชา
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	หน้าจอคอมพิวเตอร์ผมบอกว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สับสนเกินไป', 'หน้าจอว่าง']	กรอกข้อความ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	นี่อาหารมื้อใหม่อะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ฉันไม่เห็นอาหารเสริมเด็ก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	อาหารมื้อใหม่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	ยาอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	บัตรอะไรนี่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'บัตรเครดิตสีแดง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'บัตรเครดิต', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กราฟิกดิจิทัล
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	บัตรนี้เขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เห็นได้เพียง 1 6 12', 'ตอบไม่ได้', 'ไม่มีอะไร', 'ตอบไม่ได้', '1 6 12', 'ตอบไม่ได้', 'ตอบไม่ได้']	สวัสดี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผ้าปู', 'สินค้า', 'ตอบไม่ได้', 'นม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'น้ําตา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	มือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	โอเค นี่เนื้ออะไรกันนะ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สายต่อจอ', 'ds', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เนื้อวัว', 'ตอบไม่ได้', 'เนื้อวัว', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	นี่การ์ดของขวัญอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพที่ไม่น่าตอบ', 'ตอบไม่ได้', 'ไม่รู้จะบอก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	บัตรเงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	นี่อาหารกระป๋องอะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ผักกาด', 'ตอบไม่ได้', 'ผักกาด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผักกาด', 'ตอบไม่ได้', 'ผักกาด']	กระป๋องมะนาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	เวลากี่โมงแล้ว\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', '532', 'ตอบไม่ได้', 'ตอบไม่ได้', '5:13', '5:13', 'ตอบไม่ได้', '5:10', 'ตอบไม่ได้', 'ตอบไม่ได้']	เวลาไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	สินค้าในกระป๋องนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่รู้จะบอก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กรดมะนาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	คุณบอกผมได้ไหมว่าอุณหภูมิเตาอบแบบปกติเป็นเท่าไหร่ และนานแค่ไหน และผมต้องการเจาะฝาไหม ขอบคุณมาก\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ASDD', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	เตาอบนี้พร้อมแล้วเหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่เปลือก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใช่ ฉันว่าพร้อมแล้ว', 'ไม่', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	นั่นช่วยอะไรมั้ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	มีรหัสอะไรที่ต้องพิมพ์\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'อีเมล', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	รหัสการเข้าสู่ระบบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	ผมใส่เสื้อแบบไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สีไหม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีขาว', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	คุณบอกฉันได้ไหมว่าอาหารเย็นแบบไหนน่ะ ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	มันเขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพว่าง', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	เสมอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	นี่ยี่ห้ออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซานโย', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไร้ยี่ห้อ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	วัดอุณหภูมิเตาอ่างเป็นอย่างไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'gfdsg', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	คุณบอกฉันได้ไหมว่า มีอะไรอยู่ในขวดนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สอสทอด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สอสปาต้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สอสทอด', 'ตอบไม่ได้']	ซอส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	มันเขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'แท็บเล็ต azithromycin 250mg', 'เม็ด', 'ตอบไม่ได้', 'ตอบไม่ได้', '250 มิลลิกรัม', 'แผ่น azithromycin', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กราฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	คุณอ่านคํานี้ได้ไหมครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีคําพูด']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	นี่วาลิอุมเหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่สามารถอ่านชื่อยาได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	เพลงอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'เน็ตเพลง', 'ตอบไม่ได้', 'อัลบั้ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'จิงจิง', 'ตอบไม่ได้']	เพลงอเมริกัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	ใช่นี่คอมพิวเตอร์แล็ปท็อป HP ผมต้องการรู้ว่าเครื่องอ่านบัตรอยู่ที่ไหน เมื่อเทียบกับคีย์บอร์ด ขอให้ละเอียดมากที่สุดครับ ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ด้าน', 'ตอบไม่ได้', 'ผมมองไม่เห็นเครื่องอ่านบัตร SD โดยปกติจะอยู่ด้านหน้ามุมซ้าย', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	ชื่อของน้ําหอมคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีชื่อ', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	แรมนี่อะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'คลิก o444', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ddr sdram pc3200', 'ไม่รู้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ddr']	แรม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	ผมเข้าใจนะ แต่รถขาวหลังดูบิด\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่', 'ภาพจากด้านหน้า ผมไม่เห็นอะไรแปลกๆ', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'n0', 'ตอบไม่ได้', 'ไม่', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	ซุปอะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไก่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	สิ่งใดที่เห็นบนหน้าจอของคอมพิวเตอร์\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	สี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	นี่อะไรนะครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ซุป', 'ซุป', 'ซุปกระป๋อง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้']	ข้ามไปได้ครับ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	นี่มันอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['กระเบื้อง', 'กระดาษผ้าเช็ด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กระดาษผ้าเช็ด', 'ตอบไม่ได้', 'ตอบไม่ได้']	พิมพ์หนังสือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	มันรสอะไรกัน?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปกติ', 'แท้', 'ตอบไม่ได้', 'หันไป', 'ไส้', 'ภาพ']	พริก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	รูปไหนใน 3 รูปคือโลโก้ของ Google\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', '0', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพแรก', 'ซ้าย']	ไม่พบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่แน่ใจ', 'สับสน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใบสัญลักษณ์', 'ตอบไม่ได้']	ฉันตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	มีหินหายไปบ้างไหม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'คุณภาพภาพภาพไม่เพียงพอ', 'ตอบไม่ได้', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	ฉันอยากรู้ว่านี่คือน้ําหอมยี่ห้อไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	วันหมดอายุของชีสนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['น', 'ไม่อ่าน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	เทอร์โมสแตตตั้งอุณหภูมิเท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', '75', 'ตอบไม่ได้', '75', 'ตอบไม่ได้', '75', '75', 'ตอบไม่ได้', 'ไม่เห็น']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	เสื้อนี้สีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้']	ดำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	มือปืน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	มีอะไรเขียนบนหน้าจอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ข้อความความผิดพลาดการรีบอท', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'sys', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	การหยุดทำงาน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	โซดานี้เป็นอะไรครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่แน่ใจ', 'ตอบไม่ได้', 'ตอบไม่ได้']	โซดาเย็น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	อะไรนะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	บอกฉันหน่อยสิว่านี่เขียนอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กราฟิก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กล่อง', 'ตอบไม่ได้', 'กล่องเล็ก', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	เตรมัสเตตตั้งอุณหภูมิเท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อ่านได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	กระปุกนี่อะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่รู้สิ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กรัมมี่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	ฉันสามารถได้รับตัวละครทั้งหมดในครั้งนี้ได้หรือไม่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['อารอเบอร์กี้ ชาเวซ', 'ตอบไม่ได้', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'อารอเบอร์กี้ ชาเวซ', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ใช่']	ไม่สามารถรับตัวละครทั้งหมดได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	คีย์สินค้าสําหรับเวอร์ชั่นนี้ปิด\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กุญแจรหัส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	มาสิ ฉันกําลังรับเรื่องการรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'รองเท้า', 'ตอบไม่ได้', 'รองเท้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	มาสิ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	แล้วอุณหภูมิในดัลลาส เท็กซัสล่ะ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['3:40 54', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '9:17 น. 96 องศา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	คุณเป็นไงบ้าง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ดี', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ดี', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	นี่อะไรนะ คําตอบที่คุณได้รับคืออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่แน่ใจ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โล๊กในจอ', 'คอมพิวเตอร์', 'ตอบไม่ได้', 'สกรีนคาสต์']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	นี่อะไรนะครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ขวดปิดผ้า', 'ตอบไม่ได้', 'ผ้าห่ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	นี่ยี่ห้ออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'สายคิ', 'ตอบไม่ได้', 'สับสน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ดู', 'ตอบไม่ได้']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	เว็บไซต์อะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เว็บไซต์เกี่ยวกับ iPhone ในการซื้อแอพ']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	นี่ซุปซักผ้าอะไรกันเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ดวงอาทิตย์', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โรคสะเก็ดเงิน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ซุปซักผ้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	มีอะไรในถังนี้?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ซุป', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อาหาร', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	นี่ใบตราอะไร ขอโทษนะ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ใบเสร็จ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	มันถูกต้องไหม ที่ฉันมีมือ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['บัตรธุรกิจ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	มีมือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	มันเขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'คริสต์มาสสันต์ดี', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	เกษมลักษณ์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	ฉันถ่ายอะไรได้บ้าง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['นาฬิกาบนแผ่น', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ดู', 'นาฬิกากระเป๋าของมิกกี้', 'ชมชุดนี้มีหูฟัง']	การถ่ายอัญมณี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	ภาพแสดงอะไรอยู่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เงื่อนไขการอนุญาต Windows', 'ภาษาที่อยู่นอกหน้าจอ', 'ตอบไม่ได้', 'ตอบไม่ได้']	การอ่านคู่มือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	นี่อะไรนะ แต่ใช่ ฉันจะพับมัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'พับ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'มือ', 'กล่อง']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	สีอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['สีขาว สีเทา', 'สีม่วง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีแดง สีขาว', 'ตอบไม่ได้']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	อะไรนะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'อาหาร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'รูปภาพคนนั่งโต๊ะทํางานบนคอมพิวเตอร์', 'ฉันเห็นห้องนั่งเล่นในรูป', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	ชื่ออะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'อุปสรรค', 'อุปสรรค', 'อุปสรรค', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	อะไรนะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'แสง', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แสง', 'ความสับสนของแสง', 'ตอบไม่ได้', 'ไม่ชัดเจน', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	กรุณาอ่านข้อความบนกล่องนี้ ซึ่งเป็นกล่องอีกกล่องหนึ่ง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['wd', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กราฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	ผมกําลังมองหาเลขประจําตัวเลข 8 หลัก\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผมไม่เห็นอะไรเลย ขอโทษ', 'ตอบไม่ได้', 'เงินเปล่า', 'ฉันมองไม่เห็นอะไรแบบนั้น', 'ตอบไม่ได้', '0', 'ตอบไม่ได้']	กราฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	ผู้พูด: คุณบอกชื่อหนังสือนี้ได้ไหมครับ ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'วัสดุการรําคาญในดนตรีโทนาล', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	มันเขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เดอร์แมน', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แพ็คเกจถือมือ']	เร็ว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	ภาพแสดงอะไรอยู่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	คอมพิวเตอร์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	บางครั้งคุณรู้ว่า\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ฉันไม่เข้าใจ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กดปุ่ม
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	คุณบอกผมได้ไหมว่าคําถามความปลอดภัย หรือเลขความปลอดภัย และตัวอักษรคืออะไร เพื่อให้ผมเพิ่มมันเข้าไปในกรอบการแก้ไขของผม ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้']	กรองคุณสมบัติ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	เงิน 1 ดอลลาร์นี้มีสกุลอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพที่ไม่ใช้ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	เงิน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	มันตั้งไว้ตรงไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'คอนเตอร์', 'คอนเตอร์', 'โต๊ะครัว', 'คอนเตอร์ท็อป']	เก้าอ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	นี่เป็นการถูกงูกัดเหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'อาจ', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'บางที', 'บางที', 'ไม่', 'ตอบไม่ได้']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	คุณบอกผมหน่อยได้ไหมว่ามีอะไรอยู่บนจอคอมพิวเตอร์นี้ ขอบคุณมากครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'คอมพิวเตอร์ไม่สามารถเริ่มต้นข้อความ', 'ตอบไม่ได้', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้น', 'ตอบไม่ได้', 'คอมพิวเตอร์ของคุณไม่สามารถเริ่มต้นการซ่อมเครื่องเริ่มต้น การตรวจสอบระบบของคุณสําหรับปัญหา', 'การเริ่มต้น', 'ตอบไม่ได้', 'กล่องโต้ตอบไม่ทราบ']	ระบบฟรีรูป
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	ตัวอักษรในแคปตช่านี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'เมีย', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'กล่องดํา']	กราฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	คุณรู้วิธีทําอาหารพวกนี้ไหม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใช่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'หน้าจอคอมพิวเตอร์', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	ฉันทํามันในไมโครเวฟนานแค่ไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '8 นาที', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	ทํายังไงทําแบบนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['เตาอบ', 'ตอบไม่ได้', 'ทําบัก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ฉันไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	แล้วเซ็นต์ล่ะ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'การเมือง', 'ชาย', 'ตอบไม่ได้', 'ไม่มีอะไร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ชายสีฟ้าเข้ามาในอาคาร']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	บอกฉันคําแนะนําบนถังชมพูนี้ด้วย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เพิ่มน้ําหมอกขนใส่ผมที่ชื้น ซ้ําถ้าต้องการ']	แนะนำ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	รูปนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ราคาสูงสุด', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	รูปนี้คืออะไร? ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	นี่เหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'โทรศัพท์', 'ตอบไม่ได้', 'ชายพูดคุยบนมือถือ', 'ตอบไม่ได้', 'คน', 'ตอบไม่ได้', 'ตอบไม่ได้']	พอมองไม่เห็น
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	มีอะไรในกระปุกนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ผัก', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ภาพนี้ไม่ชัดเจน', 'ตอบไม่ได้']	พริก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	คุณบอกผมได้ไหมว่าเสื้อผมมีสีอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	อะไรนะ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สาย', 'ตอบไม่ได้', 'ของเล่นสุนัขยางดํา', 'โรงงาน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	มันหมดอายุเมื่อไหร่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อยู่ในรูป', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ปี 2007']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	บัตรนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่มีบัตร', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สีดํา', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	บัตรนี้คือบัตรโดยสารสาธารณะ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	ภาพนี้เกี่ยวกับอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'เงินเปล่า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ภาพ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เครื่องประกอบหนัง', 'สุนัข', 'กระเป๋า', 'ตอบไม่ได้', 'เครื่องปักสุนัข', 'สัตว์']	กรรเชียง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	วิธีทําอาหารพวกนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ทำจากน้ำมันมะนาว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	นี่การติดตามอะไรกันเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สายพิมพ์', 'รูปแบบใบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ใบไม้', 'ตอบไม่ได้', 'พืชผัก']	การติดตามน้ำมันดิบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	สวัสดีค่ะ คุณบอกฉันหน่อยได้ไหมว่าในกระป๋องในมือขวาฉันมีอะไรบ้าง ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'เนื้อบางชนิด แต่สัญลักษณ์ไม่อยู่ในรูป', 'อาหารกระป๋อง', 'ตอบไม่ได้', 'หมักเนื้อวัว', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กรีน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	คุณบอกฉันได้ไหมว่านี่มาจากใคร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'จดหมายกลับจากไปรษณีย์', 'หลังซอง ไม่มีคําเขียน', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	กลิ่นอะไรเนี่ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'นิวแมนส์ สับสนพิเศษ', 'เนมันส์ สับสนพิเศษ', 'กาแฟ', 'นิวแมนเน่่่ ผสมพิเศษ', 'ตอบไม่ได้', 'นิวแมนส์เอง', 'ตอบไม่ได้']	กาแฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	สื่อสาร
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	ความดันเลือดผมเป็นเท่าไหร่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', '105', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '109 สิ้น', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่สามารถอ่านภาพตัด']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	เราเรียกมันว่าอะไร กลิ่นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ส้ม', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	เกลือ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	คุณบอกฉันได้ไหมว่ากล่องนี้เขียนอะไร เพื่อให้ฉันรู้ว่ามันมีอะไรอยู่ข้างใน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	เลขที่ติดกับข้อความที่ระบุ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	เลขที่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	มันควรบอกว่ามันเป็นไม้ไม้ไม้ประเภทไหน อะไรทํามันขึ้น เป็นต้น ผมแค่อยากรู้ว่ามันคืออะไร ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'บางอย่างไม้ 14', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	ฉันกดปุ่มโอเคแล้วเหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ปุ่มต่อไปที่จะกด ตอนนี้กด Enter', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	นี่อะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'แฟลช', 'ตอบไม่ได้']	เรื่องยิ่งใหญ่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	อุณหภูมิอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', '57', 'สองสิบ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '20', '20.7c', 'ตอบไม่ได้']	ภูมิอากาศ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	นี่มันอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สัญลักษณ์ต้อนรับ', 'แผ่นต้อนรับ', 'ตอบไม่ได้', 'สัญลักษณ์ต้อนรับ', 'สัญลักษณ์ต้อนรับ', 'ตอบไม่ได้', 'แบนเนอร์ต้อนรับ', 'ตอบไม่ได้', 'ตอบไม่ได้']	สวัสดี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	หน้าอะไรเนี่ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่มีใบหน้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '0', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	หมายเลขที่อยู่ในรหัสสินค้านี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่อ่าน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่อ่าน', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กรองอัตโนมัติ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	หมายเลขของอาคารที่ถ่ายรูปนี้คืออะไร? นี่คือวิทยาลัย Yappapi\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['3', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '3', 'ตอบไม่ได้', '9', 'ตอบไม่ได้', 'ตอบไม่ได้', '3']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	บอกฉันด้วยนะว่าในกระเป๋านี้มีอะไร ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'สลัดอาการเก็บเกี่ยว', 'ตอบไม่ได้', 'ผักกาด', 'น้ําตาลหวาน', 'ผักกาด', 'ไม่ค่อยรู้หรอก บางทีอาจเป็นพวกบ้า', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	พริก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	หน้าจอของโต๊ะทํางานฉันจะแสดงออกมั้ย ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['sdfgh', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	คุณอ่านได้มั้ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ตอบไม่ได้', 'ใช่', 'ข้อมูลการนําเข้าสําหรับเครื่องปั่นน้ําผึ้ง', 'ไม่', 'ข้อมูลสําคัญ', 'บางส่วน', 'อบอุ่น', 'ไม่', 'ตอบไม่ได้']	อ่านไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	คุณสามารถบอกได้จากการดูนี่, จากการติดป้าย, ว่ามันคืออะไร, ผมคิดว่ามันเป็นชิ้น, DVD ในไปรษณีย์.\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ใช่ดีวีดี', 'ไม่', 'DVD', 'DVD', 'ตอบไม่ได้', 'แผ่นไม่ชัด แต่ cd', 'ใช่', 'ตอบไม่ได้', 'ไม่']	เมล
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	กล้องฉันปิดไหม?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ใช่', 'ใช่', 'กรุงเทพ', 'ใช่', 'ไม่', 'ใช่', 'ไม่', 'ใช่', 'ใช่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	นี่สเต็ปไก่เหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่', 'ใช่', 'อาจมองไม่เห็นทั้งหมด', 'ใช่', 'ตอบไม่ได้', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'ใช่']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	นี่ศิลปะเหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'งานเขียนจากแผ่นอลูมิเนียม', 'ใช่', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	ศิลปะ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	สวัสดีครับ ผมแค่อยากยืนยันว่านี่เป็นเนื้อหมูจริงครับ ข้อมูลอื่นๆที่ชัดเจนจะขอขอบคุณครับ ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ใช่', 'ใช่ เคิร์คแลนด์ ซายนาม์ หมูสับ', 'ใช่ หมูปัง', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่ หมักขนม', 'ใช่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	เมฆดูเหมือนเมฆพายุเหรอ ฉันหมายถึง มันดูจะฝนหรือพายุ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ไม่', 'ไม่', 'ไม่']	พายุ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	หน้าบัดดี้น่ารักหรือไม่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ใช่', 'น่ารัก', 'ใช่', 'ใช่', 'ไม่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	น่ารัก
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	ตอนนี้มีการพูดคุยกันแล้วเหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ใช่', 'ใช่', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	คุย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	ฉันยังมีนิ้วเท้าทั้งหมดอยู่หรือเปล่า?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่', 'ใช่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	คุณเห็นขวดในรูปนี้ไหม และถ้าเห็น มันคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่มีขวด', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	ขวด
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	มีข้อความอยู่ด้านนี้ไหมครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	มันแฟ็กซ์หรือกล่อง?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', 'ไม่', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ไม่']	กรอง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	มีชิ้นอกในรูปนี้ไหม ถ้ามีล่ะล่ะล่ะ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	มีชิ้นหมากรุกอยู่มั้ย?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ใช่', 'ไม่', 'เพียงกระดาน', 'ไม่', 'ไม่', 'ใช่', 'ไม่', 'ไม่', 'ไม่']	ไม่มี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	ถุงเท้านี่เข้ากันมั้ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	ไม่เข้ากัน
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	นั่นกระดาษเหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'ไม่', 'ตอบไม่ได้', 'ไม่']	กระดาษ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	มันคือแล็ปท็อปเหรอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ไม่', 'ไม่', '0 ที่ฉันเคยเห็นมาก่อน', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	คุณอ่านทุกอย่างบนจอทีวีผมได้มั้ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ใช่', 'ไม่', 'ตอบไม่ได้', 'ไม่', 'DVR ใช้งานได้ 89%', 'ใช่', 'ไม่', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	คุณเห็นกลิ่นหอมบนขวดฟรีเบสนี่ไหม\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่เห็นเล็บ', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	หน้าจอเปิดอยู่มั้ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	สัตว์ไหนที่อยู่ในจอคอมพิวเตอร์นี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ไม่มีสัตว์', '0', '0', '0', '0', 'ไม่มีสัตว์ในจอ', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	แมว
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	โอเค ฉันกําลังพยายามหาเบอร์จากบัตรนี้ และฉันสงสัยว่า คุณสามารถอ่านมันให้ฉันได้มั้ย\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	กรุณาอ่านตาราง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['261627.2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	เตรมัสเตตตั้งอุณหภูมิเท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['72', '72', '72', '72 องศา', '72', '72', '72', '72', '72', '72']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	ปุ่มไหนคือ Mountain Dew?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['5', '6 จากบน', 'ปุ่มที่ 6', '6 1 ดาวน์', '5', '6', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '5']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	ผมว่านี่เป็นไม้ป่าสีเงิน ปีไหนครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000', 'ปี 2000']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	พลังงานไฟฟ้านี้ใช้กําลังไฟฟ้าเท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['350', 'ตอบไม่ได้', '350', '350w สูงสุด', 'ตอบไม่ได้', '350', '350', 'ตอบไม่ได้', 'สาย', '350w สูงสุด']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	มันบอกว่าอะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['77 องศา', '77', '77', '77', '77 องศา', '77', '77', '77', '77', '77']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	คุณบอกได้มั้ยว่านี่มาจากโล่ไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['47', '47', '47', '47', 'มีเลขที่ 47', '47', '47', 'ตอบไม่ได้', '47', 'ไม่']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	นี่เท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['5', '5', '5', '5', '5', '5 ดอลลาร์', '5', '5 ดอลลาร์สิงคโปร์', '5', '5 ดอลลาร์']	เท่ากับสองบาท
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	วงจรแสดงเลขที่ตรงไปข้างบนเป็นอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['400', '550', '500 บาท', '475', '475', '475', '475', '500 บาท', '550', '500 บาท']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	เงินนี้มีสกุลอะไร\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['20', 'rgreg', '20', '20', 'ตอบไม่ได้', 'ตอบไม่ได้', '20', '20', '20', '20']	บาท
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	ตอนนี้มีอะไรแสดงอยู่บนจอ?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['452940', '452940', 'wakie talkie', 'จํานวน', 'เครื่องวิทยุ', '452940', 'โทรศัพท์พูด', '452940', 'ตอบไม่ได้', '452940']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	465 ลบ 55 คือเท่าไหร่?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['410', '410', '410', 'ตอบไม่ได้', '410', 'ตอบไม่ได้', '410', '410', '410', '410']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	เลขที่ห้าคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	สี่
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	บิลนี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['2', '2', '2', '2', '2 ดอลลาร์', 'เงิน', '2', '2', 'ตอบไม่ได้', '2']	บาท
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	กินเชียร์ออสมีแคลอรี่กี่ก้อน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['110', 'ภาพหลาย', '104', '110', '100', 'ตอบไม่ได้', '10', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้']	กันนําข้ามเชียร์ออส
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	เตาอบตั้งอุณหภูมิเท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ปุ่มเตาอบ', 'ความร้อนของเตาอบ 400', '425', '450', '400', '425', '425', '400', '425', '400']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	อุณหภูมิของเทอร์มาสตัตคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['78', '78', '78 องศา', '78', '78', '78', '78', '78', '78', '78']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	เงินนี้เท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['20 ดอลลาร์แคนาดา', '20', '20', '20', '20 ยูโร', '20', '20 ดอลลาร์แคนาดา', '20', '20', '20']	สองสิบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	อุณหภูมิตั้งไว้กี่ระดับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	ไม่ทราบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	อุณหภูมิของเทอร์โมสแตตนี้เท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['50', '50', '55', '64 องศา', '55', 'ตอบไม่ได้', 'ตอบไม่ได้', '54', 'ตอบไม่ได้', '56']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	นี่สมาคมอะไรกัน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['5', '5', '5', '5', 'แคนาดา', '5', '5', 'ไข่', '5', '5']	สตรี
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	บอกฉันค่าของบัตรนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['6 เพชร', '9 เพชร', '6 เพชร', '6', '6', '6', '6', '6', '6', '6']	เก้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	คุณบอกได้มั้ยว่าผมน้ําหนักเท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['210', '200 บาท', 'ใช่ 200', '198', '200 บาท', '200 บาท', '200 บาท', '250 บาท', '200 บาท', '200 บาท']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	สวัสดีครับ ผมลองอีกแล้ว คุณบอกผมได้ไหมว่า มีจํานวนองศากี่อันบนเครื่องวัดนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	กราฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	คุณบอกผมได้ไหมว่าอุณหภูมิตั้งไว้บน Fine\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['78', '78', '78', '78', '78', '78', '78 องศา', '78 องศา', '78 องศาฟาเรนไฮต์', '78']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	มีชั่งกี่ชิ้นในช็อกโก้บาร์นี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', '2', '4', 'ตอบไม่ได้', '4', '4 ถ้วยเนยถั่ว', '2', '2', 'ตอบไม่ได้', 'ตอบไม่ได้']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	มีแคลอรี่กี่ก้อนใน 1 มื้อ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['120', '120', '120 dry 220 เตรียมไว้ ถ้าเตรียมไว้ 1 1 4 ช้อน นมไร้ไขมัน', '120', '120', '120', '120', '120', '220', '120 ข้าวผักแห้ง 220 นม']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	คุณบอกฉันได้ไหมว่านี่เป็นธนบัตรอะไร เพราะฉันกําลังมองหาธนบัตร 20 และฉันคิดว่านี่เป็นธนบัตร 10 แต่ฉันไม่สามารถบอกได้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['10 ยูโร', '10', '10', 'ตอบไม่ได้', '10', '10', '10 คนนอนบนเสื้อสีขาวแดง', '10', '10', '10']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	สายนี้มีเส้นสีชมพู 1 หรือ 2 สาย? สายหนึ่งจะเบากว่าสายอื่น\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['บีโอ', '1', '1 เส้น', '1 สายดํา', '1', '1', '1', '1', '1', '1']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	คุณบอกผมได้ไหมว่ามันหมายเลขไหน ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['3248849064', '3248849084', 'ตอบไม่ได้', '3248849084', 'ตอบไม่ได้', 'ตอบไม่ได้', '3248849084', 'ตอบไม่ได้', 'ตอบไม่ได้', '3248849084']	กราฟ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	คุณบอกผมหน่อยได้ไหมว่าผมน้ําหนักเท่าไหร่\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['1', '1', 'ตอบไม่ได้', '1', '1', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', 'สกะแนนว่าง', '1']	เน้ย
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	ปัจจุบันอุณหภูมิที่ตั้งไว้บนเครื่องตั้งอุณหภูมินี้คืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'เทอร์โมสแตต']	แปดสิบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	นี่ธนบัตร 5 หรือ 10 ดอลล่าร์ของแคนาดาเหรอ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 คนแคนาดา']	ธนบัตร10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	หมายเลขคนโทรคืออะไรครับ ขอบคุณครับ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'ตอบไม่ได้', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	กราฟฟิคส์
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	เลข 5 หลักคืออะไร?\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['23442', '23442', '23442', 'ตอบไม่ได้', 'ตอบไม่ได้', 'เห็นแค่ 2 ตัวเลข 69', '23442', 'ตอบไม่ได้', 'ตอบไม่ได้', '23442']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	นี่มีกี่ออนซ์\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['23.6', '20', '20', '24', 'ตอบไม่ได้', 'ตอบไม่ได้', 'ตอบไม่ได้', '33', 'ตอบไม่ได้', 'gfdsgsdf']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	อุณหภูมิบอกอะไรบนเครื่องวัดอุณหภูมินี้ ขอบคุณมาก\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['72', '72', '72', '72', '72', '72', '72', '72 องศา', '72', '72 องศา']	ตอบไม่ได้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	นี่หน้าไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['2', '2', '2', '2', '2', '2', '2', 'ตอบไม่ได้', '2', '2']	หน้าสอง
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	ผนังนี้เขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['8888', 'ตอบไม่ได้', 'ไม่มีอะไร', '8888', 'ตอบไม่ได้', 'ตอบไม่ได้', '8888', '888', 'ไม่มีอะไร', 'เงินเปล่า']	ไม่รู้
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	เลขหน้าไหนที่แสดงอยู่ ขอบคุณ\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['123', '121', '121', '121', 'ตอบไม่ได้', '121', '121', '128', '321', '121']	เลขหน้า
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	นี่เลขไหน\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['26', '26', '26', '26', '26', 'กระดาษ', '26', '26', '26', '26']	เอต
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	มันเขียนว่าไง\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['ตอบไม่ได้', '40', '40', 'ตอบไม่ได้', 'ตอบไม่ได้', 'จํานวน', '40', '40', 'อากาศ 40 ปอนด์', '30']	มีข้อความที่ไม่ครบ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	มียากี่เม็ดในกล่องนี้\
+When the provided information is insufficient, respond with 'ตอบไม่ได้'.\
+Answer the question in Thai using a single word or phrase.	['8 เม็ด', '8', '8', '8', '8', '8', '8', '8 เม็ด', '8', '8']	สิบเอ็ด

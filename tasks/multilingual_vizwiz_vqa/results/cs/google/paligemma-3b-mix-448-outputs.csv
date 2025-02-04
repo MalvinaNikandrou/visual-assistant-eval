@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je napsáno na papíře?\
+	['nelze odpovědět', 'Australská pošta', 'příspěvek', 'nelze odpovědět', 'Australská pošta', 'Austrálie', 'Australská pošta', 'Australská pošta', 'nelze odpovědět', 'Australská pošta']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co je na téhle obrazovce, prosím?\
+	['ikony pro hodiny počasí atd.', 'startovací okno', 'desktop', 'hodinky', 'hodinky', 'ikony', 'Desková ikona', 'nelze odpovědět', 'Desková ikona', 'ikony']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za CD?\
+	['prázdné', 'prázdné CD', 'Maxwellová', 'Maxell CD r', 'prázdné', 'prázdné', 'přikrývka', 'prázdné', 'prázdné', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za obrázek?\
+	['noha', 'noha', 'škrábnutí nohy', 'noha', 'noha', 'noha', 'noha', 'noha', 'noha', 'noha']	noha
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct, co je to za plechovku?\
+	['lov', 'Manwich', 'Manwich', 'Loví nedbalý Joe omáčku', 'Špinavá omáčka Joe', 'Manwich', 'Člověk, který je odvážný, nedbalý a nedbalý.', 'Nevypadá dobře', 'Manwich', 'Špinavý Joe.']	hunts sandwich
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Dieta sodu', 'Dieta kola může', 'Dieta kokos', '- Dávky na dietní kokain.', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'kokos', 'sodová', '- Dávky na dietní kokain.']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za koření?\
+	['Paní Dashová.', 'nelze odpovědět', 'Paní Dashová.', 'nelze odpovědět', 'Nemůžu říct.', 'všechno koření', 'Basilová směs', 'Paní Dashová , směs stolů .', 'čárka', 'Paní Dashová.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['mln dešťová lahvička', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'mt rosa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['káva', 'nelze odpovědět', 'káva', 'káva', 'káva', 'káva', 'káva', 'káva', 'káva', 'nelze odpovědět']	káva
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co vidíš? - Co?\
+	['kožní', 'dveře na podlaze', 'dveře', 'dveře', 'prstové dveře', 'dveře', 'nelze odpovědět', 'dveře', 'dům', 'černé prsty']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co mi ukazuje obrazovka počítače?\
+	['Chcete obnovit počítač pomocí obnovy systému?', 'Systém obnovení se objeví', 'Zpráva o obnovení systému', 'zeptá se, jestli chcete obnovit počítač pomocí obnovy systému', 'krabice', 'obnovení systému', 'Chcete obnovit počítač pomocí obnovy systému?', 'Počítač nezačal.', 'Nastavit obnovení', 'obnovení systému']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['horké kakao', 'horká kakaová směs', 'Čokoláda', 'horká kakaová směs', 'kakao', 'horká kakaová směs', 'horké kakao', 'směs horké čokolády', 'kakao', 'kakaová směs']	horká čokoláda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct číslo na tuto kartu?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', 'Číslo:', '1 877 328 9677', '18007352929']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['obrazovka počítače', 'obrazovka počítače', 'obrazovka počítače', 'notebook', 'obrazovka počítače zobrazující výsledky vyhledávání', 'obrazovka', 'obrazovka počítače', 'obrazovka počítače', 'monitorová obrazovka', 'obrazovka počítače']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['salátová omáčka zadní strana', 'obvazování', 'salátová omáčka', 'salátová omáčka', 'balzamový salátový krém', 'salátová omáčka', 'nelze odpovědět', 'salátová omáčka', 'salátová omáčka', 'salátová omáčka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co na obrázku vidíte?\
+	['okna', 'návrh', 'sklo s mletým oknem černý design', 'sklo okna v dveřích', 'Skleněné okno ve dveřích', 'dveře', 'Vitráže', 'dveře', 'okna', 'okna']	vitráže
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Může mi někdo říct, jaká je bezpečnostní otázka na obrazovce, prosím?\
+	['Arawak', 'nelze odpovědět', 'Arawak', 'Arawak', 'Arawak', 'Arawak', 'nelze odpovědět', 'nelze odpovědět', 'Arawak', 'Arawak']	arawak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['víno', 'stříbrný dub', 'stříbrný dub', 'víno ze stříbrného dubu', 'víno', 'nádobí', 'víno', 'víno', 'stříbrný dub 2003 Cabernet sauvignon', 'stříbrný dub 2003']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je to značka monitoru?\
+	['Lg', 'nelze odpovědět', 'nelze odpovědět', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za pití?\
+	['sodová', 'Zázvorová pivo', 'generální', 'cukrovka', 'kanadský suchý', 'kanadský suchý', 'Zázvorová pivo', 'kanadský suchý', 'Zázvorová pivo', 'Zázvorová pivo']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy je ten koberec?\
+	['bežová', 'bežová', 'hnědá', 'šedý', 'barvy', 'smetana', 'hnědá', 'hnědá', 'bežová', 'barvy']	béžový
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['telefonní', 'telefonní', 'telefonní', 'telefonní', 'telefon', 'telefonní', 'digitální telefon', 'telefon', 'telefonní číslo', 'telefon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za obraz?\
+	['horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'mořská rosa', 'mln dešťová lahvička', 'horská rosa sodná', 'Mtn rosa']	láhev mtn dew
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za láhev?\
+	['nelze odpovědět', 'nelze odpovědět', 'krém', 'sodová', 'nelze odpovědět', 'krém', 'krém', 'krém', 'nelze odpovědět', 'krém']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['vodní kvapaliny', 'láhev vody aquafina', 'voda', 'voda', 'plastová láhev vody značky aquafina', 'vodní lahve', 'vodní lahvička', 'vodní kvapaliny', 'voda', 'plastové lahve vody']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['Vyhledávání na Googlu', 'Google vyhledávač tab', 'stránka vyhledávání Google', 'Google', 'Google', 'počítač', 'Google domovská stránka', 'stránka Google', 'obrazovka počítače', 'obrazovka počítače']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je tohle?\
+	['klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče']	klíče
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím přečtěte mi na obrazovce zprávu o chybě.\
+	['nelze odpovědět', 'neplatný kód produktu', 'neplatný kód produktu', 'nelze odpovědět', 'neplatný kód produktu', 'neplatný kód produktu', 'neplatný kód produktu', 'Neplatný klíč produktu buď odstranit klíč produktu v souboru odpovědi na nepřítomnosti pokračovat', 'Neplatný klíč produktu buď odstranit klíč produktu v souboru odpovědi na nepřítomnosti pokračovat', 'neplatný kód produktu']	invalid product key
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kde je můj laptop?\
+	['stůl', 'Na stole.', 'horní stůl vedle postele', 'Na stole.', 'stůl', 'stůl', 'Na stole.', 'Na stole.', 'vrchní stůl', 'stůl']	na stole
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se jmenuje tato kniha?\
+	['psí roky', 'psí roky: paměti', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Macbook', 'klávesnice', 'klávesnice', 'klávesnice', 'počítač', 'klávesnice', 'notebook', 'notebook', 'notebook', 'klávesnice na obrazovce počítače']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co vidíš? - Co?\
+	['stůlní okno', 'květiny', 'nelze odpovědět', 'stůlní okno', 'knižní a poznámkové pero', 'květiny', 'destop', 'kniha', 'okna', 'květiny']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Který balíček obsahuje obyčejnou mouku?\
+	['červené bílé balení', 'vlevo', 'že 1', 'Červená 1 vlevo', 'vlevo', 'nelze odpovědět', 'vlevo', 'vlevo', 'červená bílá 1', 'červená 1']	balíček na levé straně
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['fotbal', 'fotbal', 'fotbal', 'fialový oranžový plushový fotbalový aligátor', 'Krokodýlí fotbal', 'Alligátory měkký fotbal', 'plněný fotbal', 'plněný oranžový modrý fotbal', 'fialový fotbal', 'Krásné']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou má barvu?\
+	['šedý', 'Zlato', 'Zlato', 'bežová', 'červená', 'Zlato', 'nelze odpovědět', 'nelze odpovědět', 'Zlato', 'nelze odpovědět']	zlatá
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['menu', 'nelze odpovědět', 'menu', 'menu', 'menu', 'Obsah tabulky', 'menu', 'menu', 'Ceny', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['vodní lahvička', 'Černé', 'Springbourne voda', 'Springbourne', 'Fľašovaná voda', 'voda', 'vodní lahvička', 'Fľašovaná voda', 'voda v lahvích', 'voda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za polévku?\
+	['progreso', 'progreso', 'progreso', 'nelze odpovědět', 'progreso', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'progreso', 'progreso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Vím, že je to plechovka s jídlem, mohl byste mi prosím říct, co je uvnitř?\
+	['zelené fazole', 'zelené fazole', 'zelené fazole', 'zelené fazole', 'zelené fazole', 'nelze odpovědět', 'zelené fazole', 'eef', 'zelené fazole', 'zelené fazole']	zelený hrách
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['Chex mix', 'mlyny na sekání', 'Chex mix počítač', 'nelze odpovědět', 'Chex mix', 'potraviny', 'Chex mix', 'Chex mix', 'Chex mix', 'chekmix']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je?\
+	['mikrovlnné trouby', 'mikrovlnné trouby', 'Léky', 'spotřebiče želé polévka', '- V puzdře.', 'šálek polévky k pití', 'kuchyně', 'kuchyňský pult', 'krémová', 'polévka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za plechovku?\
+	['zelenina smíšená', 'zelenina smíšená', 'zelenina smíšená', 'zelenina smíšená', 'Zelenina smíšená', 'Efgrfg', 'zelenina smíšená', 'zelenina', 'zelenina smíšená', 'zelenina smíšená']	mixed vegetables
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za druh?\
+	['zbarvení koláče', 'vanilková', 'vanilková', 'z mořské mořské mořské moře', 'Betty Crockerová', 'Vanilková glazura', 'šlehačka', 'Vanilková glazura', 'vanilková', 'vanilková']	vanilka
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na jakou krabici se dívám, co v ní je?\
+	['krabice s obilninami', 'Přírodní údolí pražené mandlové granola tyčinky', 'Barvy z granola', 'přírodní údolí', 'Pečené mandlové tyčinky z granola', 'Přírodní údolí pražené mandlové granola tyčinky', 'Přírodní údolí křupavé granola tyčinky pražené mandlové chuť', 'Barvy z granola', 'Barvy z granola', 'pečené mandlové křupavé tyčinky z granola']	granola bar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. A co barvená látka?\
+	['zelená bílá', 'bílý tmavězelený tisk', 'bílá zelená', 'bílá zelená', 'růžová zelená', 'bílá krémová zelená na', 'růžová černá', 'zelená bílá', 'fialový černý barvivo pro kravatu', 'bílé zelené rozstřikování']	fialová
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to na obrazovce ukazuje?\
+	['střela myši', 'kurzor', 'Nic.', 'Modrá', 'modrá obrazovka', 'stříkačka', 'prázdné', 'Modrá šipka', 'prázdné', 'modrá obrazovka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Ahoj, kdo je to?\
+	['bílá kočka', 'kočka', 'kočka', 'bílá kočka', 'kočka', 'nelze odpovědět', 'kočka', 'kočka', 'Ta kočka.', 'Kočička']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['purell pokročilý dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'čistý dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'čistý dezinfekční prostředek']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co říká zpráva o chybě?\
+	['neplatný kód produktu', 'neplatný kód produktu', 'neplatný kód produktu', 'neplatný kód produktu', 'neplatný výrobek', 'Neplatný klíč produktu klikněte na OK a pokračujte.', 'Neplatný klíč produktu buď odstranit klíč produktu v souboru odpovědi bez přihlášení pokračovat', 'neplatný výrobek', 'neplatný kód produktu', 'neplatný kód produktu']	nenoším informaci
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co je na té zprávě na obrazovce mého počítače?\
+	['Nějaké opravné dokončení tlačítko v pravém dolním rohu', 'Úspěšný boot 9 20 2012 1 pokus o opravu uzavření zpět dokončení zrušit', 'nelze odpovědět', 'Ne, ne, ne, ne', 'opravy na spuštění', 'opravy na spuštění', 'opravy na spuštění', 'nelze odpovědět', 'Závěr opravy diagnostické obrazovky', 'opravy na spuštění']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to kuře nebo párka nebo jaké maso?\
+	['kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí stehna', 'nelze odpovědět', 'kuřecí']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou to má barvu?\
+	['elektrická modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to na obrazovce říká?\
+	['instalace oken', 'Instalace oken a další nečitelné', 'instalace oken', 'instalace oken', 'instalace oken', 'Tato obrazovka uvádí, že Windows instalace seznamuje kroky instalace', 'instalace oken', 'instalace oken', 'instalace oken', 'instalace oken']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Obloha vypadá jako na tomto obrázku.\
+	['částečně zamračené', 'tmavé mraky', 'velké mraky', 'obrovský mrak tmavá obloha', 'Oblaky', 'mraky', 'Modrá mraky', 'nelze odpovědět', 'Obrovský dešťový mrak trochu modrý na stranu', 'mraky']	mraky
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['veranda', 'židle', 'židle', 'židle', 'nelze odpovědět', 'lavička', 'židle', 'židle', 'okna s kovovým rámem', 'židle']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Fotografie', 'dveře', 'dveře', 'bar', 'dveře se skleněnými panely', 'dveře', 'restaurace', 'restaurace', 'dveře', 'dveře']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na mé obrazovce?\
+	['vybrat spouštěcí zařízení', 'Prosím vyberte spouštěcí zařízení 3 možnosti', 'nelze odpovědět', 'Prosím vyberte spouštěcí zařízení', 'obrazovka spouště', 'Prosím vyberte spouštěcí zařízení', 'chybějící', 'Prosím vyberte spouštěcí zařízení', 'Zpráva o výběru zařízení', 'Prosím vyberte spouštěcí zařízení']	monitor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za předmět?\
+	['popelník', 'dekorační bronzová socha lví', 'socha', 'Ne, ne, ne, ne', 'popelník', 'popelník', 'socha', 'psí miska', 'popelník', 'Pestní tygr na vrcholu.']	zlatý sochařský předmět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za cigarety?\
+	['Americký duch', 'Americký duch', 'Americký duch', 'Americký duch', 'Americký duch', 'Černě balené americké alkoholy', 'Americký duch', 'Americký duch', 'Americký duch', 'Americký duch']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Guávový ženšen', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle láhvi?\
+	['krémy pro tělo', 'krémy pro tělo', 'krémy pro tělo', 'krém', 'Shea tělesný krém vitamín E', 'Měsíční cesta, vitamín Shea, krém pro tělo.', 'krémy pro tělo', 'Krém pro tělo s měsíčním světlem', 'Krém pro tělo s měsíčním světlem', 'krém']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za fotku?\
+	['brýle', 'rámy', 'brýle', 'brýle stříbrné rámy', 'oční brýle', 'brýle', 'rám pro brýle', 'brýle', 'brýle', 'brýle']	brýle
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Tohle je produkt.\
+	['Ano, to je ono.', 'rajčatová polévka', 'rajčatová polévka', 'polévka', 'konzervovaná polévka', 'rajčatová polévka', 'rajčatová polévka', 'rajčatová polévka', 'polévka', 'vyberte si rajčatovou polévku']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['telefonní skříňka', 'iPhone', 'iPhone box', 'telefon', 'mobilní telefon', 'mobilní telefonní skříňka', 'Smartphone', 'telefon', 'chytrý telefon', 'iPhone']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za fotku?\
+	['Obal na sladkosti', 'Slavnostní červená krabice', 'odpovědný', 'Říká oslavy', 'krabice', 'sladkosti', '- V zájmu strany.', 'Oslavy', 'krabice', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['šampaňské', 'víno skleněný čajový hrnec', 'sklo', 'skleněné víno', 'Sklenice šampaňského vedle šálku kávy na talíři', 'nápoj v sklenici na stole', 'šampaňské', 'skleněná čašní sklenice', 'Čajový hrnec šampaňské sklenice', 'Šampaňské skleněné talíře na stole v předním okně s výhledem na město']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je chuť tohohle?\
+	['pomerančová', 'oranžová zelená žlutá červená', 'pomerančová mátka', 'pomerančová', 'nelze odpovědět', 'nelze odpovědět', 'pomerančová', '2 vlevo pomerančová třešňová citrónová nahoře dole vpravo zimnězelená', 'pomerančová', 'pomerančová']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ahoj, zajímalo by mě, co je v té plechovce?\
+	['Coca-Cola', 'Coca-Cola', 'sodová', 'Coca-Cola', 'sodová', 'sodní kokos', 'sodová', 'sodová', 'Coca-Cola', 'sodová']	coca cola
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké je nastavení na té sušičce?\
+	['proti směru hodinových ručiček pravidelný čas kontroly vrásek suchý jemné vrásky uvolňování vzduchové vlny', 'pravidelné', 'Odpočívat', 'Odpočívat', 'Odpočívat', 'pravidelné', 'Odpočívat', 'Ne na nastavení', 'Nic.', 'Odpočívat']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['tablety', 'tablety', 'aplikace pro telefon', 'obrazovka', 'seznam aplikací', 'App Store', 'tablety', 'seznam aplikací ke stažení', 'nelze odpovědět', 'Snížení aplikací']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na co se dívám?\
+	['televizní', 'Tv v šatně', 'televizní', 'televizní', 'televizní obrazovka', 'televizní', 'Tom Selleck v televizi', 'televizní', 'televizní', 'Televize s otevřenou skříňkou']	tv
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou to má barvu?\
+	['bílá', 'bílá', 'bílá', 'bílá', 'bežová', 'bílá', 'slonovina', 'nelze odpovědět', 'bežová', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['tento potravinářský výrobek', 'ravioli', 'ravioli', 'ravioli', 'ravioli', 'Šéf boyardee mini ravioli', 'konzervované mini ravioli', 'ravioli', 'Šéf Boya mini ravioli', 'mini ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['pečené hovězí moučky', 'pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'tradiční pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'tradiční pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso']	tradiční krůtí pečení
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za produkt?\
+	['Pepsi na dietu', 'Pepsi bez kofeinu', 'Pepsi', 'Pepsi', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi bez kofeinu', 'Pepsi na dietu', 'Pepsi na dietu']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se to jmenuje?\
+	['východní', 'fazole', 'nelze odpovědět', 'nelze odpovědět', 'potraviny', 'fazole', 'směs stop', 'obiloviny', 'ořechy', 'pytlíkové arašídy']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to normální nebo bezkofeinová káva?\
+	['pravidelné', 'nelze odpovědět', 'pravidelné', 'pravidelné', 'pravidelné', 'pravidelné', 'nelze odpovědět', 'nelze odpovědět', 'pravidelné', 'pravidelné']	bezkofeinová
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů']	mac n cheese
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle láhvi?\
+	['změkčující krém', 'krém', 'krém', 'krém', 'změkčovač krému', 'krém', 'hydratační krém', 'Krém pro tělo', 'hluboké vody pro mytí těla', 'mytí těla']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je?\
+	['stolní křeslo', 'židle', 'židle', 'kancelářský křeslo', 'kancelářský křeslo', 'Tahle kancelářská židle.', 'židle', 'stolní křeslo', 'židle', 'šedý kancelářský křeslo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to bylo za předmět, co jsem právě vyfotil?\
+	['monitor počítače', 'počítač', 'obrazovka počítače', 'nelze odpovědět', 'nelze odpovědět', 'notebook', 'obrazovka počítače', 'notebook', 'monitor počítače', 'notebookový počítač']	monitor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Řekni mi, co to je.\
+	['vepřové kotlety', 'maso', 'nějaké červené maso', 'maso balené', 'vepřové', 'vepřové kotlety', 'nelze odpovědět', 'maso', 'Fg', 'vepřové']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak vypadá na té fotce obloha?\
+	['mračný den', 'částečně zamračené', 'mraky', 'mraky', 'mraky', 'mraky', 'mraky', 'mraky', 'mraky', 'déšť']	mraky
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Čeká, až dojde čas?\
+	['nelze odpovědět', 'špagety', 'špagety', 'nelze odpovědět', 'nelze odpovědět', 'špagety', 'špagety', 'zrcadla', 'večeře', 'Pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['květiny', 'květina', 'květiny', 'květiny', 'květina', 'květiny', 'rostliny', 'květiny', 'květina', 'žíla']	fialový květ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za věc?\
+	['volný čaj', 'čaj', 'nelze odpovědět', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy a vzoru jsou ty šortky?\
+	['plachetové', 'Červená modrá žlutá', 'modrá oranžová zelená', 'modrá hnědá bílá placka', 'Modrá karetka nahoře žlutá karetka dole', 'různobarevné', 'modro-brunetový bílý plachet', 'plachetové', 'Modrá placka', 'Modrá bílá zelená žlutá placka']	modrá bílá žlutá zelená
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou barvu měl kufřík?\
+	['zelená', 'zelená', 'zelená', 'zelená skříň', 'zelená', 'zelená', 'zelená', 'zelená', 'jasně zelená', 'zelená']	zelený
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to normální Coca-Cola nebo dietní?\
+	['Dieta kokos', 'Dieta', 'Dieta', 'Dieta', 'Dieta', 'Dieta', 'Dieta kokos', 'Dieta', 'Dieta kokos', 'Dieta']	dietní
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Písemko', 'Písnička', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Bic pen']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Lampa může pringles', 'svítilna', 'svítilna', 'svítilna', 'Pringle může vedle cd lampy', 'svítilna bez stínu', 'svítilna', 'stůlní pringles lampy ústní voda', 'svítilna', 'svítilna']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co ten počítač dělá?\
+	['kontrolní systém', 'nelze odpovědět', 'kontrola disku', 'kontrolní disk', 'nelze odpovědět', 'nelze odpovědět', 'nakládka', 'konfigurace', 'kontrola konzistence', 'restartovat']	neposkytuje informace
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za limonádu?\
+	['Dieta kokos', 'Dín', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'Dieta Coca-Cola citron', 'Dieta kokos', 'Dieta kokos']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, řekněte mi, co je to za knihu.\
+	['Clive Cussler Dirk Cussler', 'nelze odpovědět', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'vědecké', 'vytrvalost', 'Olive Cussler Dirk Cussler', 'akce', 'nelze odpovědět', 'Clive Cussler']	kniha od clive cussler
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za víno?\
+	['nelze odpovědět', 'Slavte svatbu David Emma červené víno', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'nelze odpovědět', 'nelze odpovědět', 'Nash víno']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['jogurt', 'nelze odpovědět', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaký je název této knihy?\
+	['psí roky', 'psí roky', 'psí roky', 'psí roky', 'nelze odpovědět', 'psí roky', 'nelze odpovědět', 'psí roky', 'psí roky', 'psí roky']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Sony notebook', 'notebook', 'notebook', 'počítač', 'notebook', 'Sony Vaio laptop', 'notebook', 'Sony Vaio', 'Sony notebook', 'notebook']	sony vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Zajímalo by mě, jakou značku má tenhle počítač.\
+	['Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co to je, rajčata nebo omáčka?\
+	['bitva', 'Na zadní straně není napsáno:', 'nelze odpovědět', 'rajčata', 'rajčata', 'rajčata', 'nelze odpovědět', 'rajčata', 'Nejasný obraz', 'rajčata']	rajčata
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Pudding', 'Puddingové občerstvení', 'Vanilkový pudink', 'Pudding', 'Vanilkový pudink', 'Pudding', '6 balení snack balení vanilkový pudink', 'Puddingové šálky', 'Pudding', 'pudink z balení pro občerstvení']	pudding
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['20 dolarové kanadské bankovky', '20 dolarové kanadské bankovky', '20 kanadské', 'peníze', 'Peníze na krajky.', '20 dolarů.', 'Moneu', '20 dolarové kanadské bankovky', '20 dolarů.', 'peníze']	20 kanadských dolů
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['lasagne', 'lasagne', 'speciální lasagne', 'lasagne', 'speciální lasagne', 'speciální lasagne', 'Lasagne', 'lasagne', 'lasagne', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za kávu?\
+	['espresso', 'espresso', 'Timothy expresso', 'Espresso z deštného pralesa', 'Espresso z deštného pralesa', 'espresso', 'extra tužká', 'espresso Forest tropický', 'extra silné espresso Forest tropické', 'Timoteovi']	timothy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za fotku?\
+	['klaviaturní víno', 'notebook', 'notebooková klávesnice víno pivo', 'nelze odpovědět', 'počítač', 'počítač', 'laptopový nápoj', 'laptop na stole vedle skleněné tekutiny', 'Sklo pro notebook', 'Skleněný notebook']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['titulní kniha', 'kniha', 'brožura', 'Poznámka', 'Demon rum , snadná kniha peněz .', 'Demon rum, snadné peníze: vládní kontrola alkoholu v Britské Kolumbii', 'kniha', 'kniha', 'Titulní strana knihy', 'brožura']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co bylo na stole?\
+	['poznámkový blok', 'notebookové pero jiné papíry', 'notebook se spirálovým prstenem', 'papírové pero', 'poznámkový blok', 'notebookové pero', 'poznámkový blok', 'notebookové pero', 'papírové pero', 'poznámkový blok']	notebook
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou má barvu tahle košile?\
+	['modrá bílá placka', 'modrá bílá', 'modrá bílá placka', 'modrá bílá', 'Modrá', 'modrá bílá', 'Červené modré bílé', 'Modrá placka', 'Modrá', 'Modrá']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Andre Chardonnay', 'šampaňské', 'Andre', 'šampaňské', 'víno', 'šampaňské', 'šampaňské', 'šampaňské', 'Šampaňské', 'šampaňské']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se jmenuje ten výrobek na téhle fotce?\
+	['Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za kávu?\
+	['Gevalie', 'Maximum Gevalia Kaffe', 'Maximo', 'Gevalia espresso', 'Maximo', 'černá káva', 'Maximo', 'nelze odpovědět', 'Gevalie', 'Gevalie']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['Dr. Pepř', 'může být citronová soda', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'dr pepřová soda', 'Dr. Pepř', 'může být citronová soda', 'Dr. Pepř']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct, co to je, prosím, děkuji?\
+	['instantní káva', 'instantní káva', 'klasická káva', 'Kaféový balíček', 'nelze odpovědět', 'káva', 'káva', 'kávy v prášku', 'káva', 'Nescafe Classic']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy jsou ty tři dráty zleva doprava?\
+	['červená černá bílá', 'červená černá bílá', 'červený černý opal', 'červená černá bílá', 'červená černá bílá', 'červená černá bílá', 'červená černá bílá', 'červená černá bílá', 'červená modrá bílá', 'červená černá bílá']	červené, černé a bílé
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co ukazuje tento těhotenský test?\
+	['1 řádek', 'negativní', 'negativní', '1 řádek, ale barvivo se rozptýlí. Zkuste jiný.', 'nelze odpovědět', '1 pruh', 'Žádný obraz', 'Červená čára', 'nelze odpovědět', 'modrá značka červená značka']	neposkytnutý obrázek
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se jmenuje tohle koření?\
+	['Paní čerstvá citrónová pepřová směs', 'čárka', 'Paní Dashová.', 'Paní Dashová citrónová paprika.', 'Paní Dashová.', 'Paní Dashová.', 'paprika', 'Paní Dashová.', 'Paní Dashová.', 'Paní Dashová.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ahoj, jaký druh nápoje je v té láhvi v mé pravé ruce?\
+	['Pepsi', 'Pepsi soda', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi', 'Pepsi na dietu', 'Pepsi dieta', 'Pepsi na dietu', 'Pepsi na dietu']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['videohry', 'videohry', 'basketbalový zápas', 'videohry', 'nelze odpovědět', 'DVD', 'nelze odpovědět', 'Hra', 'videohry', 'DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['kečup', 'kečup', 'Heinz rajčatový kečup', 'balení kečupu', 'balení kečupu', 'kečup', 'kečup', 'balení kečupu', 'kečup', 'kečup']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy má tahle košile?\
+	['červená bílá', 'černobílé', 'červená bílá', 'červené bílé pruhy', 'červené bílé pruhy', 'červená bílá', 'červená bílá', 'červená bílá', 'červená bílá', 'červená bílá']	červené bílé pruhy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v tom balení?\
+	['Parlamentní obraz', 'hudební album', 'cigarety', 'cigarety', 'cigarety', 'cigarety', 'Vložky pro filtrování', 'cigaretové cigarety', 'karty', 'Cigary']	cigarety
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy je ta rohožka?\
+	['fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová']	fialová
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je dialog na tom obrázku viditelnější?\
+	['nudit', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za produkt?\
+	['zelené fazole', 'zelené fazole', 'zelené fazole', 'může', 'fazole', 'Hrošt', 'nelze odpovědět', 'zelené fazole', 'Fg', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za plechovku?\
+	['vepřové fazole', 'vepřové fazole', 'Praslíčko a fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole']	v rohlíku
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za víno?\
+	['nelze odpovědět', '- Ne, ne, ne.', 'Vintage 2008 produkt Nash', 'Nash', 'Nash', 'svatební suvenýry', 'Nash slaví svatbu David Emma 16. července 2011', 'Nash', 'Nash', 'Slavnostní svatba']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za jídlo?\
+	['rajčatová omáčka', 'rajčatová omáčka', 'ekologická rajčatová omáčka', 'rajčatová omáčka', 'rajčatová omáčka', 'rajčatová omáčka', 'Muir Glen organická rajčatová omáčka', 'rajčatová omáčka', 'Muir Glen organická rajčatová omáčka', 'Tomoto']	rajčatový omáčka
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za chuť?\
+	['jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody']	jahodová
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, jakou má barvu?\
+	['černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá']	černá
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['rostlina', 'dekorační rostlina', 'aloe', 'domácí rostlina', 'domácí rostlina', 'Domácí rostlina', 'rostlina', 'Domácí rostlina', 'rostlina', 'rostlina trávy']	zelený kvetoucí rostlina v hnědé váze
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['časopis', 'komiks', 'komiks', 'dospělé stolní hry', 'časopis', 'Barvička', 'Zvláštní vánoční kniha.', 'Nejsem si jistý, že umím číst v tom jazyce.', 'Vánoční pohlednice', 'komiks']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['Kuřecí večeře v Dijonu.', 'potraviny', 'Kuřecí dijon', 'Kuřecí dijon', 'Kuřecí dijon', 'potraviny', 'Kuřecí dijon', 'kuřecí', 'Kuřecí dijon', 'Kuřecí dijon']	kuře dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za kávu?\
+	['Gevalia', 'Gevalie', 'francouzská vanilka', 'francouzská vanilka', 'Gevalia', 'Gevalia', 'francouzská vanilka', 'francouzská vanilka', 'francouzština', 'Gevaliaa francouzská vanilka']	gevalia french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za předmět?\
+	['iPhone', 'telefon', 'telefon', 'iPhone', 'mobilní telefon', 'mobilní telefon', 'mobilní telefon', 'Volám.', 'Smartphone', 'Smartphone']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['nelze odpovědět', 'cigarety', 'balení cigaret', 'cigarety', 'balení cigaret', 'cigarety', 'cigarety', 'nelze odpovědět', 'cigarety', 'cigarety']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za chuť?\
+	['hovězí', 'S ochutnávkou z hovězího masa', 'hovězí', 'Vývar s ochutnávkou hovězího masa', 'hovězí', 'chuť hovězího masa', 'Vývar s ochutnávkou hovězího masa', 'hovězí', '- Ta vůně.', 'hovězí']	hovězí
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['velká sklenice', 'šálka', 'šálka', 'šálka', 'Miluje Togo Cup.', 'šálka', 'Pop cup a další věci.', 'polystyrénový pohár', 'šálka', '- Tenhle pohár.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to dietní Pepsi nebo normální Pepsi?\
+	['Pepsi na dietu', 'Dieta', 'nelze odpovědět', 'Dieta', 'Pepsi na dietu', 'Dieta', 'Dieta', 'Dieta', 'Pepsi na dietu', 'Dieta']	dietní
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to na obrazovce říká?\
+	['Avast software', 'skenování lokálních disků', 'okna', 'chybová zpráva', 'skenování', 'Avast software pro skenování Windows XP', 'okna', 'nelze odpovědět', 'Windows XP', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, řekněte mi, na které obrazovce jsem? Snažím se přistupovat k spouštěcímu menu a snažím se spouštět z USB disku.\
+	['Stiskněte šipku jednou a pak zadat pro usb', 'Závodní menu při spuštění z možnosti HDD', 'nelze odpovědět', 'U bootmood', 'Prosím vyberte spouštěcí zařízení', 'Vyberte zařízení pro spuštění:', 'Prosím vyberte spouštěcí zařízení hdd: pm st9250315as', 'Prosím vyberte spouštěcí zařízení', 'hlavička obrazovky: prosím vyberte spouštěcí zařízení přesunout šipku dolů 1 místo na usb:usb disk pro', 'Prosím vyberte spouštěcí zařízení']	usb disk pro
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, jaká je to chuť?\
+	['Dieta', 'Dieta', 'dr pepřová dieta', 'Dr. Pepř', 'Dieta', 'Dieta', 'Dieta', 'kola', 'Dieta', 'Dieta']	diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za polévku?\
+	['zeleninová polévka', 'progreso', 'progresivní', 'nelze odpovědět', 'Progresso zelenina', 'nelze odpovědět', 'zelenina', 'Progresso zelenina', 'zelenina', 'progreso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Řeknete mi, co je to za auto?\
+	['nelze odpovědět', 'Lincoln Crown Victoria', 'Nějaký čtyřdveřový sedan.', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'Chevrolet', 'Koruna Viktorie', 'nelze odpovědět', 'Ford']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. To je káva?\
+	['Gevalie', 'Gevalie', 'Gevalie', 'Gevalia švýcarský lískový ořech', 'Gevalie', 'Gevalie', 'Gevalie', 'Gevalie', 'Gevalie', 'Gevalie']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'GERMX', 'Desinfekční prostředek pro ruce', 'Desinfekční prostředek pro ruce']	hand sanitizer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za plechovku?\
+	['polévka', 'ovoce', 'nelze odpovědět', 'nelze odpovědět', 'polévka', 'nelze odpovědět', 'polévka', 'nelze odpovědět', 'zásuvka', 'polévka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou to má barvu?\
+	['hnědá', 'hnědá', 'hnědá', 'dubová hnědá', 'hnědá', 'hnědá javorová', 'dřevěné', 'hnědá', 'hnědá', 'hnědá']	hnědý
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['nelze odpovědět', 'ruka', 'ruka', 'nelze odpovědět', 'ruka', 'ruka', '1 pravá ruka', 'ruka', 'ruka', 'ruka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké je nastavení hrnce?\
+	['šálka', 'vysoké', 'vysoké', 'vysoké', 'vysoké', 'vysoké', 'nízká', 'vysoké', 'vysoké', 'vysoké']	nízké
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co to je?\
+	['výrobky pro nevidomé', 'CD', 'Reverzní cd', 'výrobky pro slepé disky', 'CD', 'Disket', 'Kniha na CD', 'CD', 'CD výrobky pro nevidomé', 'Spear od Jamese Herberta DVD']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['počítače monitor klávesnice', 'monitor', 'monitor počítače', 'obrazovka počítače', 'počítač', 'monitor počítače', 'obrazovka počítače', 'desktop', 'Graf', 'Graf']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co je na téhle láhvi?\
+	['teplý vanilkový cukr', 'cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr']	teto láhev obsahuje tělový krém
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na obrazovce?\
+	['obrazovka pro instalaci oken', 'nelze odpovědět', 'instalace oken', 'Instalace obrazovky stavu Windows', 'Windows nainstalovat', 'instalace oken', 'pokyny pro instalaci oken', 'Pokrok při instalaci oken', 'Instalace Windows Info', 'okna']	monitor s nápisem instalování windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['může', 'může', 'nelze odpovědět', 'konzervy', 'může', 'fazole', 'nelze odpovědět', 'fazole', 'vařené', 'vařené']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za pití?\
+	['pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančová šťáva', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančová', 'pomerančový džus']	narančový džus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za pop v téhle plechovce?\
+	['čaj', 'Neštva', 'Neštva citronová', 'ledový čaj', 'Neštva', 'Neštva', 'Neštva', 'ledový čaj', 'ledový čaj s hnízdou', 'hnízdí']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to pepperoni pizza, pepperoni a párky, Supreme, jaký druh?\
+	['papriky', 'papriky', 'papriky', 'papriky', 'papriky', 'papriky', 'Ano, to je ono.', 'papriky', 'Mama cozzis pepperoni tenká kůra', 'papriky']	pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Máte ponětí, co je to za rostlinu?\
+	['Ne, ne, ne, ne', 'tráva', 'tráva', 'tráva', 'tráva', 'tráva', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'tráva', 'tráva']	zelený
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['brýle', 'brýle', 'brýle', 'brýle', 'pár brýlí', 'brýle', 'pár brýlí', 'brýle', 'oční brýle', 'pár brýlí']	brýle
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Popíšejte mi to místo.\
+	['kancelář', 'kancelářské prostory', 'kancelář', 'kancelář 2 stoly skříň 2 židle', 'kancelář', 'kancelář', 'Stoly černý kancelářské židle', 'kancelářské stoly', 'kancelářské stoly 2', 'kancelář']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['poznámkový blok', 'plánovač', 'kniha', 'kniha', 'karta', 'poznámkový blok', 'plánovač', 'poznámkový blok', 'Lilly Pulitzerová agenda spirála', 'poznámkový blok']	notebook
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Plíčkový medvídek růže', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek', 'medvěd', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za koření?\
+	['čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'mořská sůl', 'česneková sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl']	sól s mořskou sody a cibulí
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle plechovce?\
+	['Dieta', 'Dieta', 'Dieta', 'Dieta', 'Dr. Pepř', 'Dieta', 'Dieta', 'Dieta', 'dr pepřová dieta', 'Dieta']	dr pepper diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na tomhle pohárku?\
+	['kreslený film', 'kreslené postavy', 'kreslený film', 'Muž, který se dívá na ptáka.', 'kuře', '- Cože?', 'Zkurvený muž', 'Skic pták člověk strom měsíc', 'osoba zvíře', 'kreslený film']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['osoby zpět', 'chlapče', 'lidská hlava', 'osoba', 'Na záda něčí hlavy ramena', 'Zpátky , člověče .', 'nelze odpovědět', 'šedý košile', 'chlapče', 'obrázek zadní osoba']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['řečník', 'řečník', 'reproduktor na zdi', 'řečník', 'řečník', 'řečník', 'reproduktor na stěně', 'řečník', 'kočičí montáž', 'řečník']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je tady napsáno?\
+	['číslo telefonu taxíku', 'Nic.', 'Nic.', 'telefonní', 'městské taxi', 'potvrzení', 'nelze odpovědět', 'Vypadá to jako stvrzenka.', 'řádky', 'městská taxík']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['New Orleans styl jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'rýže', 'jambalaya', 'jambalaya mix', 'jambalaya mix', 'rýže jambalaya', 'balíček připravené směsi pro rýži jambalaya stylu New Orleans', 'jambalaya mix']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou má barvu můj Mac?\
+	['stříbro', 'bílá', 'bežová černá', 'bílá', 'stříbro', 'stříbro', 'stříbro', 'stříbro', 'bílá', 'stříbro']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té plechovce?\
+	['organické pečené fazole', 'pečené fazole', 'organické pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole']	horké fazole
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['Sýr z makaronů', 'nelze odpovědět', 'Sýr z makaronů', '3 sýrové makarony', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'večeře', 'Sýr', 'Střevěné sýry']	3 sýrové mac n cheese
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Zatarains New Orleans styl jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'rýže', 'zatarains jambalaya mix', 'jambalaya', 'zatarains jambalaya mix', 'jambalaya mix']	jambalaya
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za věc?\
+	['kvalitní cukroví na ulici', 'cukroví', 'sladkosti', 'sladkosti', 'tvrdé bonbóny', 'sladkosti', 'sladkosti', 'sladkosti', 'kvalitní ulice', 'sladkosti']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Promiňte, řekněte mi, co přesně na tom obrázku vidíte.\
+	['lednice', 'lednice', 'lednice', 'Malý ledniční plátek z mísy, lehký plátkový nálepka na ledničku', 'lednice', 'mini lednička', 'mini lednička', 'dveře skříně', 'bílá lednička', 'lednice']	lednice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co je to na krabici?\
+	['Milé vnoučata.', 'Něco o rozkošných vnoučatech.', '- Úchvatné.', 'Není nic krásnějšího než vnoučata.', 'Jen málo věcí je příjemnějších než vnoučata bojující o tvé klíně .', 'Milé vnoučata.', 'Milé vnoučata.', 'Jen málo věcí je příjemnějších než vnoučata bojující o tvé klíně .', 'nelze odpovědět', 'Milé vnoučata.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak vypadá obloha?\
+	['čistý', 'západ slunce východ slunce', 'Modrá', 'setmění', 'Modrá', 'čistý', 'čistý', 'klidný', 'světle modrá', 'Modrá světlejší modrá blízko horizontu']	nebe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy je tahle košile?\
+	['hnědá', 'hnědá', 'hnědá', 'bežová', 'bežová', 'růžový', 'hnědá', 'hnědá', 'Zlato', 'šedá barva']	béžová
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to chlapec nebo holka?\
+	['nelze odpovědět', 'chlapče', 'chlapče', 'holka', 'chlapče', 'chlapče', 'chlapče', 'chlapče', 'chlapče', 'chlapče']	chlapec
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct, co to je za předmět?\
+	['obiloviny', 'Vítám tě.', 'obiloviny', 'Vítám tě.', 'nelze odpovědět', 'obiloviny', 'sladké žvaněné', 'Cheerios , teď ještě chutnější , zlato .', 'zlato', 'zlato']	cereal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou to má barvu?\
+	['Červená žlutá bílá modrá', 'plachetové', 'zelená modrá bílá červená placka', 'různorodé', 'bledý', 'plachetové', 'modrá zelená bílá červená', 'plachetové', 'Modrá bílá zelená placka', 'modrá zelená červená bílá']	zelený modrý bílý oranžový
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['horké kakao', 'horká kakaová směs', 'horká kakaová směs', 'horká kakaová směs', 'kakaová směs', 'horké kakao', 'Čokoláda', 'směs horké čokolády', 'balení horké čokolády', 'Čokoláda']	nestle hot cocoa mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['nelze odpovědět', 'speciální lehké pivo', 'pivo', 'nelze odpovědět', 'nelze odpovědět', 'pivo', 'pivo', 'pivo', 'pivo', 'speciální světlo']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to kuře nebo celer?\
+	['rajčata', 'rajčata', 'rajčata', 'rajčata', 'Ne, ne, ne, ne', 'rajčata', 'rajčatová polévka', 'rajčata', 'rajčata', 'Ne, ne, ne, ne']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká?\
+	['Macbook pro', 'Macbook pro', 'Mac Book Pro', 'Macbook pro', 'Mac Book Pro', 'Macbook pro', 'Macbook pro', 'Airbook pro', 'Macbookpro', 'Macbook pro']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Rád bych věděl, co je v téhle plechovce.\
+	['pečené fazole', 'pečené fazole', 'fazole', 'pečené fazole v rajčatové omáce', 'Farmářka pečená fazole', 'pečené fazole', 'pečené fazole', 'fazole', 'pečené fazole', 'fazole']	farmgirl pečené fazole v omáčce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['kuřecí', 'nelze odpovědět', 'krémové kuře parmesanové', 'potraviny', 'Tv večeře', 'potraviny', 'Sýr z makaronů', 'potraviny', 'Marie Collendersová', 'krémové kuře parmesanové']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['dolarové bankovky', '1 dolarová bankovka', 'dolar', '1 dolarová bankovka', '1', '1 dolarová bankovka', 'dolarové bankovky', '1 dolarová bankovka', '1 dolarová bankovka', '1 americká dolarová bankovka']	1 dollar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je tohle?\
+	['hračky', '2 králové', 'pár králů', 'hračky', 'karty', 'karty', 'hračky', 'pár', 'karty', 'hračky']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to černá nebo modrá?\
+	['nelze odpovědět', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'šedý', 'černá šedá', 'černá']	černá
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je napsáno na obrazovce?\
+	['Textové pole vyhledávání Google', 'Google', 'Google', 'Google Google vyhledávání cítím štěstí', 'Google', 'Vyhledávání na Googlu', 'nelze odpovědět', 'Google', 'Google', 'nelze odpovědět']	google
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'potraviny', 'pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'tradiční pečené hovězí maso', 'tradiční pečené hovězí maso']	tradiční pečená hovězí
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za limonádu?\
+	['Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['dálkové ovládání televize', 'dálkové ovládání', 'dálkové ovládání', 'dálková', 'dálkové ovládání', 'dálková', 'dálkové ovládání', 'dálkové ovládání', 'dálková', 'dálkové ovládání']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Domácí rostlina', 'rostlina', 'Domácí rostlina', 'rostlina', 'rostlina', 'rostlina', 'rostlina', 'nádobí rostlina', 'rostlina', 'domácí rostlina']	zelený kvetoucí rostlina v květináči
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za věc?\
+	['stůl', 'počítač', 'stůl', 'stůl', 'stůl', 'stůl', 'počítačový stůl', 'stůl', 'stůl', 'stolní počítač zapnutý']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na mém stole?\
+	['iPod touch', 'aplikace', 'telefon', 'papíry pro chytré telefony', 'papíry pro chytré telefony', 'telefon', 'telefon', 'telefon', 'mobilní telefon', 'telefon']	mobilní telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. A co jsem to fotil?\
+	['iPad', 'Fotka iPad kávovaru vedle', 'tablety', 'iPad', 'Hulu přihlášení', 'Huluplus', 'tablety s zobrazením Hulu plus', 'Tablet Hulu plus přihlášení', 'obrazovka huluplus', 'Přihlašovací obrazovka pro Hulu plus na tabletu']	tablet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za láhev?\
+	['šampon', 'šampon', 'nelze odpovědět', 'Třetí', '- Těší mě.', 'nelze odpovědět', 'tresemme péče o vlasy', 'šampon', 'Parfém', 'tresemme šampon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je tohle za model?\
+	['sodová', 'šprit', 'Láhev s sodou', 'šprit', 'nelze odpovědět', 'sodová sprita', 'šprit', 'Sprite flaška', 'nelze odpovědět', 'šprit']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za produkt?\
+	['Chex mix', 'Chex mix', 'Chex mix', 'Chex mix cheddar', 'Chex mix', 'Chex mix', 'Mix šéfkuchaře', 'Chex mix', 'Chex mix', 'Ček']	cheddar chex mix
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['uzené krocaní', 'kouřené krůtí panini', 'kouřené krůtí panini', 'Krůtí panini', 'kouřené krůtí panini', 'kouřené krůtí panini', 'náplně z krupobití', 'panini', 'uzené krocaní', 'kouřené krůtí panini']	panini
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké dopisy mám napsat, abych vyhrál cenu?\
+	['Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za plechovku?\
+	['rajčata', 'omáčka', 'rajčata', 'rozmačkané rajčata', 'cín', 'rajčata', 'rajčata', 'konzervované rajčata', 'rajčata', 'rajčata']	tomate
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za Keurig?\
+	['Domek s koblihami.', 'káva', 'krabice', 'koblihy', 'sbírka koblihů', 'koblihy', 'koblihy', 'sbírka koblihů', 'Důlka na koblihy', 'sbírka koblih']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, řekněte mi název této knihy?\
+	['Zářivá srpna', 'nelze odpovědět', 'Autor Clive Cussler Dirk Cussler', 'Pouze jména autorů, bez názvu', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['peníze', 'peníze', '20 dolarová bankovka.', 'peníze', '20 dolarů.', '20 dolarů.', '20 dolarů.', '20 dolarové bankovky', '20 dolarů', '20 dolarové bankovky']	10 dollar bill
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to šampon nebo tělesná voda?\
+	['krém', 'krémy pro tělo', 'krém', 'krémy pro tělo', 'šumivý krém na tělo', 'krémy pro tělo', 'krémy pro tělo', 'krém', 'krémy pro tělo', 'krémy pro tělo']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na té fotce?\
+	['sušenky', 'Krekry z krabice', 'krabice s sušenkami', 'krabice s sušenkami', 'sušenky', 'sušenky', 'sušenky', 'sušenky', 'sušenky', 'sušenky']	kraker
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za fotku?\
+	['telefon', 'Macbook pro', 'Macbook pro', 'monitor počítače', 'nelze odpovědět', 'notebook', 'počítač', 'Macbook pro', 'obrazovka pro MacBook Pro', 'notebookový počítač']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['voda', 'voda', 'přírodní krystalická voda', 'Křišťálová voda', 'vodní lahvička', 'vodní lahvička', 'vodní lahvička', 'voda', 'vodní lahvička', 'voda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za pizzu?\
+	['papriky', 'Máma je roztomilá.', 'Máma je v pohodě s tenkou pizzou.', 'papriky', 'Mrazená pizza', 'papriky', 'tenká', 'Pepperoni s tenkou kůrou z Mama Cozzis.', 'Mamka je v pohodě, tenká kůra pepperoni.', 'Máma je roztomilá.']	mama cozzis
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle plechovce?\
+	['celá kukuřice', 'kukuřice', 'kukuřice', 'kukuřice', 'kukuřice celá', 'kukuřice celá', 'kukuřice', 'Významné potraviny mohou', 'kukuřice', 'kukuřice']	kukuřice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['myš', 'počítačová myš', 'počítačová myš', 'počítačová myš', 'počítačová myš', 'HP kabelová myš', 'počítačová myš', 'počítačová myš', 'HP myš', 'myš']	myš
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['kancelář', 'židle', 'kancelář', 'kancelářský křeslo', 'židle', 'stolní křeslo', 'Domácí kancelář', 'kancelář', '2 stolky', 'židle']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['televizní', 'televizní', 'televizní', 'Starý televizní monitor', 'televizní', 'televizní', 'monitor', 'televizní obrazovka', 'televizní', 'monitor']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou mám barvu košile?\
+	['černá bílá', 'modrá bílá černá', 'černá', 'Modrá', 'námořnictvo', 'černobílý znak', 'černá bílá', 'Modrá', 'Modrá', 'černá bílá']	modrá
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou to má barvu?\
+	['červená', 'červená', 'červená', 'červená', 'růžový', 'červená', 'červená', 'červená', 'červená', 'červená']	červené
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jsou to normální čipy nebo čipy s solí a ocetem?\
+	['soli', 'pravidelné', 'pravidelné', 'běžné žetony', 'pravidelné', 'pravidelné', 'nelze odpovědět', 'nelze odpovědět', 'pravidelné', 'nelze odpovědět']	normální
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za krabici?\
+	['pomerančový džus', 'pomerančový džus', '- Ne.', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančová', 'pomerančový džus', 'papírová krabice pomerančový džus']	narančový džus
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co to je?\
+	['čipy', 'čipy', 'čipy', 'bramborové lžičky', 'bramborové lžičky', 'čipy z kyselé smetany', 'čipy', 'bramborové lžičky', 'čipy', 'bramborové lžičky']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té tašce?\
+	['nelze odpovědět', 'zmrazené zeleniny', 'zelenina', 'mrkev hrášek kukuřice zelená fazole', 'zelenina', 'hrášek mrkev kukuřice', 'zelenina smíšená', 'zelenina', 'Zelenina smíšená', 'kukuřice mrkev fazole hrášek']	zelenina
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za chuť Sparku?\
+	['růžová limonáda', 'růžová limonáda', 'nelze odpovědět', 'růžová limonáda', 'nelze odpovědět', 'růžová limonáda', 'pomerančová', 'jahody', 'nelze odpovědět', 'růžová limonáda']	jahodová
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za druh?\
+	['Manwich', 'nelze odpovědět', 'nelze odpovědět', 'Manwich', 'Manwich', 'Manwich', 'rajčata', 'Manwich', 'Manwich', 'Špinavý Joe.']	manwich
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. V jaké roční době jsme?\
+	['špagety', 'špagety', 'Spaghetti koření', 'Spaghetti koření', 'špagety', 'Spaghetti koření', 'Spaghetti koření', 'špagety', 'špagety', 'Spaghetti koření']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['kniha', 'časopis', 'vertikální magazín', 'časopis', 'vertikální magazín', 'časopis', 'časopis', 'Časopis Vertigo', 'časopis', 'časopis']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za předmět?\
+	['stěna', 'stěna', 'stěna', 'stěna', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'stěna', 'stěna', 'stěna']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['sladkosti', 'jahodové cukrovinky', 'sladkosti', 'jahodové cukrovinky', 'sladkosti', 'sladkosti z jahod', 'Sdgaegr', 'sladkosti z jahod', 'sladkosti', 'jahodové cukrovinky']	jahodový bonbon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy jsou ty boty?\
+	['hnědá', 'černá', 'hnědá', 'hnědá', 'hnědá', 'hnědá', 'hnědá', 'noha', 'hnědá', 'brun']	hnědé
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['obrazovka počítače', 'webová stránka', 'nelze odpovědět', 'nelze odpovědět', 'webové stránky', 'obrazovka počítače', 'monitor počítače', 'článek', 'PDF soubor pro vizwiz', 'vizwizpdf rozmazaný, ale můžete vidět sekci přispěvatelů']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za obrázek?\
+	['monitor', 'notebook', 'televizní', 'počítač', 'notebook', 'televizní', 'plochá obrazovka', 'obrazovka notebooku', 'televizní', 'nelze odpovědět']	monitor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['mobilní telefon', 'mobilní telefon', 'pager', 'nelze odpovědět', 'telefon', 'mobilní telefon', 'Blackberry mobilní telefon', 'mobilní telefon', 'mobilní telefon', 'mobilní telefon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['lednice', 'nelze odpovědět', 'lednice', 'lednička v koleji', 'lednice', 'lednice', 'lednička', 'mini lednička', 'chladničky', 'mini lednička']	lednice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou barvu šperků bych měl nosit s tímto oblečením?\
+	['stříbro', 'stříbro', 'bílá', 'Zlato', 'černá', 'stříbro', 'stříbro', 'stříbro', 'stříbro', 'stříbro']	černá
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['noha', 'kalhoty', 'stehna', 'Noha kalhot', 'Armový gauč', 'kalhoty', 'polštář', 'nelze odpovědět', 'Noha v kalhotách', 'noha']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['psí', 'nelze odpovědět', 'psí', 'psí', 'psí', 'psí', 'psí', 'psí', 'nelze odpovědět', 'Pes na podlaze']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['dálková', 'dálková', 'dálkové ovládání', 'ovladač televizoru', 'dálkové ovládání televize', 'dálkové ovládání', 'dálková', 'dálková', 'dálkové ovládání', 'dálkové ovládání']	dálkové ovládání
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jsou tyto banány zelené nebo žluté?\
+	['mírně zelená', 'žlutá', 'žlutá', 'žlutá', 'zelená', 'žlutá', 'žlutá', 'žlutá', 'žlutá', 'žlutá']	žluté
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za produkt?\
+	['obiloviny', 'Kaši, jdi chudý, křupavý med, mandlový lněný.', 'Kaši , jdi na hubnutí .', 'Golean Crunch kashi', 'obiloviny', 'Jdi na hubené cereálie.', 'Jdi na hubnutí .', 'Kaši, jdi chudý, křupavý med, mandlový lněný.', 'obiloviny', 'obiloviny']	kashi go lean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je právě na obrazovce televize?\
+	['Nic.', 'Nic.', 'Nic nevypadá .', 'Nic.', 'Nic.', 'Nic.', 'Nic.', 'Nic.', 'nelze odpovědět', 'Nic.']	prázdný
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['maso', 'hovězí steak', 'hovězí', 'balíček steaků', 'maso', 'maso', 'nelze odpovědět', 'hovězí steak', 'Steak', 'maso']	náměstí
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na tom vzkazu?\
+	['nelze odpovědět', 'obnovit kompletní', 'nelze odpovědět', 'obnovení dokončeno', 'obnovení dokončeno', 'nelze odpovědět', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za jídlo v téhle plechovce?\
+	['polévka', 'Progresso zahradní zeleninová polévka', 'zahradní zeleninová polévka', 'zeleninová polévka', 'zahradní zeleninová polévka', 'zahradní zeleninová polévka', 'polévka', 'Progresso zahradní zeleninová polévka', 'zahradní zelenina', 'zahradní zeleninová polévka']	zelený rajčatový vývar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['nelze odpovědět', 'může', 'Česká šunka', 'Česká šunka', 'Česká šunka', 'Česká šunka', 'polévka', 'může rozdělit hráškovou polévku', 'Česká šunka', 'polévka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to pohovka nebo stůl?\
+	['tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tento stůl']	stůl
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle plechovce?\
+	['ravioli', 'ravioli', 'ravioli', 'kukuřice', 'ravioli', 'ravioli', 'ravioli', 'ravioli', 'Ravioli potraviny', 'ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na obrazovce?\
+	['chybová zpráva', 'Pop-up pro spuštění opravy počítače restart', 'Znova spustit', 'dialogu, který říká, že chcete ukončit opravy a restartovat počítač', 'opravy na spuštění', 'Pokyny pro aktualizaci systému Windows', 'nelze odpovědět', 'opravy na spuštění', 'možnost restartu počítače', 'opravy na spuštění']	pop-up s nápisem „neviem odpovědět“.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Zkusíme to, můžeš mi říct, co to je?\
+	['fazole', 'pečené fazole', 'fazole', 'pečené fazole', 'keře pečené fazole', 'může', 'konzervy', 'keře pečené fazole', 'pečené fazole', 'fazole']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co je to za telefon?\
+	['L g', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'android', 'Lg', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Smartphone', 'mobilní telefon', 'mobilní telefon', 'telefon', 'mobilní telefon', 'mobilní telefon', 'mobilní telefon', 'Smartphone', 'telefon', 'telefon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['notebook', 'ruka', 'klávesnice notebooku', 'ruka', 'prsty', 'ruka', 'nelze odpovědět', 'nelze odpovědět', 'stůl', 'ruka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['Cabernet 2009', 'víno', 'víno', 'víno', 'Kabernet sauvignon', 'víno z lahví', 'víno', 'víno', 'Vína z roku 2007', 'víno']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té láhvi?\
+	['kokos', 'Sodu, možná Coca-Colu.', 'sodová', 'Coca-Cola soda', 'sodová', 'sodová', 'kokos', 'sodová', 'kokos', 'sodová']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou barvu má, prosím?\
+	['červený bílý pruh', 'červená', 'červené bílé pruhy', 'červené bílé pruhy', 'červená bílá', 'bílá červená', 'košile', 'červená bílá', 'červená bílá', 'červená bílá']	červené bílé pruhy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té tašce?\
+	['brokolice', 'brokolice', 'brokolice', 'brokolice', 'brokolice', 'ale brokolice', 'brokolice', 'řezané brokolice', 'Parní n podávat řezané brokolice', 'brokolice']	brokolice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na co je ten kupón?\
+	['jogurt', 'jogurt', 'jogurt z yoplaitu', 'Yoplait jogurt 10 $5', 'Yoplait', 'Yoplait jogurt 10 $5', 'jogurt z yoplaitu', 'jogurt', 'sleva', 'jogurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za pop?\
+	['Neštva', 'konzervovaný ledový čaj', 'citron', 'Neštva citronová', 'Neštva', 'Neštva', 'Neštva', 'Neštva', 'Fiesta', 'Neštva']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['iPad', 'tablety', 'počítač', 'iPad', 'myšový podložka', 'notebook', 'okna', 'tablety', 'nelze odpovědět', 'iPad']	tablet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na obrazovce?\
+	['Chcete obnovit svůj komp s pomocí obnovení systému pop up', 'chybová zpráva', 'Chcete obnovit počítač pomocí obnovy systému?', 'spouštění', 'diagnostický obrazovka s spouštěním', 'Systémy obnovit otázku: Chcete použít obnovit počítač', 'opravy na spuštění', 'opravy na spuštění', 'Otázka k obnovení počítače', 'Chcete obnovit počítač pomocí obnovy systému?']	pop-up s nápoji o obnovení počítače
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. A děkuji za váš čas na odpověď.\
+	['šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na obrazovce?\
+	['Chcete obnovit počítač pomocí systému CD?', 'obnovit', 'Chcete obnovit počítač pomocí systému', 'Váš počítač nemohl spustit start opravy kontroluje systém na problémy', 'Chcete obnovit počítač pomocí systému', 'opravy na spuštění', 'Váš počítač nemůže začít', 'Váš počítač nemohl spustit.', 'Počítač nemůže začít', 'obnovit']	pop-up s nápisem \"restaurování počítače\"
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle plechovce?\
+	['zelenina', 'Wrgrweg', 'Zelenina smíšená', 'Veggie původní', 'zelenina smíšená', 'zelenina', 'Vegall', 'zelenina', 'zelenina', 'zelenina smíšená']	zelenina
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co vidíte na obrázku ? Co vidíte na obrázku ?\
+	['Nic.', 'nebesa', 'umyvadlo', 'nebesa', 'nelze odpovědět', 'nebesa', 'Nic.', 'nelze odpovědět', 'nelze odpovědět', 'nebesa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaký druh limonády?\
+	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'koka kola 0', 'koka kola 0', 'kokos 0', 'koka kola 0', 'koka kola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za systém?\
+	['desktop', 'nelze odpovědět', 'okna', 'stolní počítač', 'okna', 'okna', 'okna', 'Windows PC', 'okna', 'okna']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je?\
+	['řečník', 'řečníci', 'podlaha', 'řečníci', 'systém reproduktorů', 'řečník', 'řečník', 'řečník', 'řečník', 'řečníci']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. To monitoruje světlo na laptopu?\
+	['Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co je na téhle láhvi?\
+	['teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr', 'teplý vanilkový cukrový krém', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý cukr vanilková']	teto láhev obsahuje tělový krém
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct číslo 1-800 z této karty a slyšíte tuto otázku?\
+	['1 800 735 2929 neslyším q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', 'Číslo:', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 ne', '18773289677 ne', '1 877 328 9677', '8007352929 ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Světla v pokoji zapnutá nebo vypnutá?\
+	['Světla zhasla', 'Odpočívat', 'na', 'Odpočívat', 'na', 'nelze odpovědět', 'na', 'na', 'na', 'na']	on
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za chuť?\
+	['čerešně', 'růžová limonáda', 'ovocný punč', 'růžová limonáda', 'růžová limonáda', 'nelze odpovědět', 'nelze odpovědět', 'růžová limonáda', 'čerešně', 'růžová limonáda']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na tom vzkazu?\
+	['obnovení dokončeno', 'nelze odpovědět', 'úspěšná rekonstrukce dokončena', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno', 'registrace dokončena', 'obnovení dokončeno', 'obnovení dokončeno']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou mám barvu košile?\
+	['bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá']	bílá
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['pokročilý šampon pro barevnou terapii', 'šampon', 'pokročilý šampon pro barevnou terapii', 'šampon', 'barvová terapie šampon', 'šampon', 'barvová terapie', 'šampon', 'Ovation pokročilá barevná terapie', 'barvová terapie']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['konzervy', 'krmivo pro kočky', 'nelze odpovědět', 'umyvadlo', 'může', 'umyvadlo', 'mytí', 'umyvadlo', 'umyvadlo', 'může']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za videohru?\
+	['ESPN NFL 2k', 'fotbal', 'Nfl 2k', 'ESPN NFL 2K5', '2k5', 'Fotbal ESPN 2K', 'Nfl 2k', 'fotbal', 'Nfl 2k', 'fotbal']	nfl 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['panini', 'panini', 'kouřené krůtí panini', 'kouřené krůtí panini', 'kouřené krůtí panini', 'Stouffer kouřené krocaní panini', 'Krůtí panini', 'nelze odpovědět', 'kouřené krůtí panini', 'kouřené krůtí panini']	panini
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v té krabici?\
+	['lasagne', 'Mrazené večeře', 'speciální lasagne', 'speciální lasagne', 'lasagne', 'speciální lasagne', 'lasagne', 'lasagne', 'lasagne', 'lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za předmět?\
+	['přírodní údolí oves tmavá čokoládová granola bar', 'čepel', 'Bar z granola', 'Bar z granola', 'Bar z granola', 'Bar z granola', 'Přírodní údolí ovesný n tmavá čokoládová tyč', 'ovesný a křupavý čokoládový tyčinek', 'čokoládový granola bar', 'Bar z granola']	granola bar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['videohry', 'Hra pro PlayStation 2', 'Hra Star Wars Battlefront pro PlayStation 2', 'Hra Star Wars', 'videohry', 'videohry', 'Star Wars Battlefront 2', 'Hra', 'Hra pro PlayStation 2', 'PSI hra']	star wars
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za kafe?\
+	['francouzská vanilka', 'francouzská vanilka', 'francouzská vanilka', 'hnízdí', 'vanilková', 'francouzská vanilka', 'Kávu mate', 'francouzská vanilka', 'francouzská vanilka', 'francouzská vanilka']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['pomerančový džus', 'šťáva', 'šťáva', 'pomerančový džus', 'šťáva', 'hladký šťavnatý', 'hladký a šťavnatý', 'šťáva', 'pomerančový džus', 'šťáva']	smooth n juicy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy jsou kameny v téhle náušnici?\
+	['růžový', 'červená', 'červená', 'růžový', 'fialová', 'růžový', 'růžový', 'růžový', 'růžový', 'růžový']	fialové
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na tomhle elektronickém zařízení?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co přesně na té obrazovce je, jestli to umíte číst?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Nemohu číst obrazovku', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Neumím číst.', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle láhvi?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'krém', 'vitamíny', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Nejsem si jistá.', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou chuť má ta energetická tyč?\
+	['jahody', 'borovicový mandlový křup', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'jablečný křupák', 'nelze odpovědět', 'nelze odpovědět', 'borovicový mandlový křup']	jahodová
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Pozornost', 'n', 'nelze odpovědět', 'nelze odpovědět', 'Zprávy', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za jídlo?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Snažím se přijít na to, co to je za rádio, takže jakékoliv informace, abych si mohl sehnat vlastní, by bylo skvělé, díky.\
+	['Já nevím.', 'nelze odpovědět', 'nelze odpovědět', 'Možná domácí IP9 reproduktorový dock', 'nelze odpovědět', 'šunka', 'nelze odpovědět', 'přenosný', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Promiň, ale nevím, jak... nikdy předtím jsem takový věci nevytáhl.\
+	['Pohněte se trochu dál, aby se focusovala.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Který z nich je nejlepší film?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'jednoduchá']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['Tenhle skluz', 'růžový', 'nelze odpovědět', 'fialová', 'nelze odpovědět', 'nelze odpovědět', 'zářící', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se jmenuje ten krém?\
+	['nelze odpovědět', 'noxema', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kdy to vyprší?\
+	['9.27.13', 'nelze odpovědět', 'nelze odpovědět', '23. září 2013', '23. září 2013', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '23. září 2013', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak dlouho to mám vařit?\
+	['nelze odpovědět', 'nelze odpovědět', '5 minut.', 'nelze odpovědět', 'nelze odpovědět', '5 minut.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	5 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['Skleničky', 'roh', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'telefon', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za písničku?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Bug na fotografii', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'šváb']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co říká pod okny, že systém nemůže být opravován automaticky?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Řešení na spuštění nemůže opravit tento počítač automaticky', 'nelze odpovědět', 'spouštění', 'Začněte opravovat počítač automaticky.', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik sodíku je v tomhle balení?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Samoá', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na obrazovce je napsáno, že se obnovuje?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou oponu?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'pokračujte ve studiu', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se jmenuje tato mediace?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '0', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou má barvu?\
+	['červená bílá', 'nelze odpovědět', 'bílá', 'bílá', 'nelze odpovědět', 'červená bílá', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, vysvětlete mi, co je na štítku na mém routeru. Děkuji.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je doba platnosti této autobusové jízdenky?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jen to řekni.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Znáte', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká, co to říká\
+	['nelze odpovědět', 'nelze odpovědět', 'řádky sloupce rozmazané čísla', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik je hodin? - Tři.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Blesk na fotoaparátu, renderovací hodiny, nepřečtené', 'není viditelný', 'nelze odpovědět', 'nelze odpovědět', 'Nemůžu říct.', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct návod k použití tohoto šamponu?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'EDFCFD', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je tu tlačítko, které musím stisknout, abych to mohl obnovit, nebo mám jen počkat?\
+	['systémové životopisy', 'nelze odpovědět', 'Ano, to je ono.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Počkej.', 'Zapněte se.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Pokud je karta na obrázku, co na ní je?\
+	['nelze odpovědět', 'není uvedeno', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Žádná slova.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Test?\
+	['nelze odpovědět', 'nelze odpovědět', 'dálková', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'dálkové ovládání zvukového systému', 'Otázka se nevztahuje na obrázek.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Skutečná slovní hříčka.\
+	['nelze odpovědět', 'Neznámý', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Mám problém s Captcha, ale nevidím obrazovku a potřebuji ji, abych něco požádala z webové stránky.\
+	['ne 1', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Vím, že je tam deset přikázání, ale co je to deset přikázání?\
+	['Bůh dává svým věřícím pravidla.', 'nelze odpovědět', 'nelze odpovědět', 'morální pravidla', 'nelze odpovědět', 'Boží přikázání.', 'nelze odpovědět', 'nelze odpovědět', 'zákony', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co mi na obrazovce počítače říká?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'příliš rozmazané', 'prázdný obrazovka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za dětskou výživu?\
+	['nelze odpovědět', 'nelze odpovědět', 'Nevidím dětskou výživu .', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za lék?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za kartu?\
+	['nelze odpovědět', 'červená kreditní karta', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'kreditní karta', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je na téhle vizitce?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'viditelné pouze 1 6 12', 'nelze odpovědět', 'Nic.', 'nelze odpovědět', '1 6 12', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['mydlo', 'produkt', 'nelze odpovědět', 'mléko', 'nelze odpovědět', 'nelze odpovědět', 'oční kapky', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Dobře, co je to zase za sušenku?\
+	['Věty', 'ds', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'hovězí', 'nelze odpovědět', 'hovězí', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na co je to dárková karta?\
+	['nelze odpovědět', 'nelze odpovědět', 'Neodpověditelný obraz', 'nelze odpovědět', 'Nemůžu říct.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za konzervu?\
+	['limetky', 'nelze odpovědět', 'limetky', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'limetky', 'nelze odpovědět', 'Limuzína']	lime
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik je hodin? - Tři.\
+	['nelze odpovědět', '532', 'nelze odpovědět', 'nelze odpovědět', '- V 5:13?', '- V 5:13?', 'nelze odpovědět', 'V 5:10', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za produkt v téhle plechovce?\
+	['Nemůžu říct.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, jaká je konvenční teplota trouby a jak dlouho a jestli musím propíchnout víko?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'ASDD', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Vypadá ta trouba připravená?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne pece', 'nelze odpovědět', 'nelze odpovědět', 'Ano , myslím , že jsem připraven .', 'Ne, ne, ne, ne', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Pomohlo vám to?\
+	['nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaký kód mám zapsat?\
+	['nelze odpovědět', 'e-mail', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co mám na sobě za tričko?\
+	['nelze odpovědět', 'šedý', 'nelze odpovědět', 'nelze odpovědět', 'bílá', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, co to je za mraženou večeři?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'obraz prázdný', 'Nic.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za značku?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Sanyo', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je teplota v troubě?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'GFDSG', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct, co je v téhle láhvi?\
+	['rajčatová omáčka', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'omáčka na těstoviny', 'nelze odpovědět', 'nelze odpovědět', 'rajčatová omáčka', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká?\
+	['nelze odpovědět', 'azithromycin tablety 250 mg', 'tablety', 'nelze odpovědět', 'nelze odpovědět', '250 mg', 'Azitromycinové tablety', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete přečíst tato slova, prosím?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'Žádné slovo.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to valium?\
+	['Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'neschopnost číst název léku']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za písničku?\
+	['nelze odpovědět', 'nelze odpovědět', 'Nota', 'nelze odpovědět', 'album', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Čingle Čingle', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ano, tohle je laptop HP, potřebuji vědět, kde je čtečka karet ve vztahu k klávesnici.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'na straně', 'nelze odpovědět', 'Nevidím čtečku karet. Čtečka karet je obvykle v levém rohu přední okraje.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	nevidím čtečku karet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se jmenuje ten parfém?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Žádné jméno', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za paměť?\
+	['nelze odpovědět', 'Čínská republika', 'nelze odpovědět', 'nelze odpovědět', 'DDR sdram PC3200', '- Nevím.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Chápu to, ale vypadá zadní část bílého náklaďáku jako vybočená?\
+	['nelze odpovědět', 'Ne, ne, ne, ne', 'Na obrázku zepředu nevidím nic neobvyklého.', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'N0', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za polévku?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'kuřecí', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je vidět na obrazovce notebooku?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to, prosím?\
+	['nelze odpovědět', 'polévka', 'polévka', '- V puzdře.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'polévka', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['koberec', 'papírové ručníky', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'papírový ručník', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou mají chuť?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'pravidelné', 'originální', 'nelze odpovědět', 'Otoč se.', 'Sýr', 'obrázková']	thajnské
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Který z těchto tří obrázků je logo Googlu?\
+	['nelze odpovědět', '0', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'první obrázek', 'vlevo']	vpravo
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['nelze odpovědět', 'nejistá', 'rozmazané', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'označení', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Chybí z toho nějaký kámen?\
+	['nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nedostatečná kvalita obrazu', 'nelze odpovědět', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Chci vědět, jaká značka kolínské je to.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je doba použitelnosti tohoto sýra?\
+	['na', 'nepřečitelné', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je teplota termostatu?\
+	['nelze odpovědět', 'nelze odpovědět', '75', 'nelze odpovědět', '75', 'nelze odpovědět', '75', '75', 'nelze odpovědět', 'není viditelný']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké barvy je tohle tričko?\
+	['nelze odpovědět', 'nelze odpovědět', 'černá', 'nelze odpovědět', 'černá', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'černá', 'nelze odpovědět']	černé
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je napsáno na displeji?\
+	['chybová zpráva o restartu', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'sys', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	nelze odpovědět.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za limonádu, prosím?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Nejsem si jistá.', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'vlasy', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, řekněte mi, co to říká.\
+	['nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'krabice', 'nelze odpovědět', 'malá krabice', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na jakou teplotu je nastaven termostat?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Neumím číst.', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za láhev?\
+	['nelze odpovědět', 'nelze odpovědět', 'Já nevím.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžu dostat všechny znaky?\
+	['Arobergy Chavez', 'nelze odpovědět', 'Ano, to je ono.', 'Ano, to je ono.', 'nelze odpovědět', 'Arobergy Chavez', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Ano, to je ono.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Klíč k tomuto produktu pro verzi vypnutý\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. No tak, dostanu tu věc s čekáním.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'boty', 'nelze odpovědět', 'boty', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. A jaká je teplota v Dallasu v Texasu?\
+	['3:40:54', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '21:17 96 stupňů.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Jak se máš? - Dobře.\
+	['nelze odpovědět', '- Dobře.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '- Dobře.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to je? Jaká byla odpověď, kterou jsi dostal?\
+	['nelze odpovědět', 'nejistá', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Log na obrazovce', 'počítač', 'nelze odpovědět', 'Vytváření obrazovky']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to, prosím?\
+	['nádobí na pokrytí tkaniny', 'nelze odpovědět', 'přikrývka', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za značku?\
+	['nelze odpovědět', 'nelze odpovědět', 'seiko', 'nelze odpovědět', 'rozmazané', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Hlídka', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za web?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Stránka o iPhonu v nákupech aplikací']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za pračku?\
+	['nelze odpovědět', 'slunce', 'nelze odpovědět', 'nelze odpovědět', 'suavetel', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle sklenici?\
+	['Nic.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'polévka', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'potraviny', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Za co je to stvrzenka?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je správné, že mám ruku?\
+	['vizitka', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Veselé Vánoce.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co můžu vyfotit?\
+	['Hodiny na listě', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Hlídka', 'Mickey Mouse kapesní hodinky', 'Tyhle kapesní hodinky, sluchátka.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to na obrazovce říká?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'licenční podmínky systému Windows', 'Termíny částečně mimo obrazovku', 'nelze odpovědět', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ale ano, složím to.\
+	['nelze odpovědět', 'sklopit', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'ruka', 'krabice']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou to má barvu?\
+	['bílá šedá', 'fialová', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'červená bílá', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je?\
+	['nelze odpovědět', 'nelze odpovědět', 'kuchyně', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Fotografie muže u stolu na počítači', 'Vidím obývací pokoj na obrázku.', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak se jmenuje?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'euforii', 'euforii', 'eufonie', 'nelze odpovědět', 'nelze odpovědět']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je?\
+	['nelze odpovědět', 'světlo', 'nelze odpovědět', 'nelze odpovědět', 'světlo', 'rozmazané světlo', 'nelze odpovědět', 'Nejasné', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Přečtěte si prosím text na této krabici, která je další krabicí.\
+	['vd', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Hledám nějaká osmiciferná identifikační čísla.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Nic nevidím. Promiň.', 'nelze odpovědět', 'prázdné', 'Já nemůžu vidět nic takového.', 'nelze odpovědět', '0', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct název této knihy?\
+	['nelze odpovědět', 'harmonické materiály v tónové hudbě', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká?\
+	['- Dobrý den.', 'Nic.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'balíček pro držení v ruce']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to na obrazovce říká?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Nějaký čas, víš.\
+	['Nerozumím .', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, jaká je bezpečnostní otázka, nebo bezpečnostní čísla a písmeno, abych to mohl přidat do svého pole pro úpravu?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou nominální hodnotu má tahle dolarová bankovka?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nepoužitelný obraz', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na co je to nastavené?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Číslo', 'Číslo', 'kuchyňský pult', 'stůl']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to hadí kousnutí?\
+	['nelze odpovědět', 'Možná.', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'Možná.', 'Možná.', 'Ne, ne, ne, ne', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct podrobně, co je na obrazovce počítače?\
+	['nelze odpovědět', 'nelze odpovědět', 'Počítač nemůže spustit zprávu', 'nelze odpovědět', 'Váš počítač se nepodařilo spustit', 'nelze odpovědět', 'Váš počítač nemohl spustit opravy na spuštění.', 'spouštění', 'nelze odpovědět', 'neznáme dialogové okno']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké jsou znaky v tomto captcha?\
+	['nelze odpovědět', 'Vydat', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Černá skříňka']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Víš, jak se to vaří?\
+	['nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'Ano, to je ono.', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'obrazovka počítače', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak dlouho to mám vařit v mikrovlnce?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '8 minut.', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jak to vaříte?\
+	['Pece', 'nelze odpovědět', 'pečete', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. A co ten podpis?\
+	['nelze odpovědět', 'nelze odpovědět', 'politické', '- Cože?', 'nelze odpovědět', 'Nemám tušení.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Modrý muž v budově.']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, řekněte mi návod na této láhvi šamponu.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Přidejte do mokrých vlasů pěnu, opakujte, pokud chcete']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za fotku?\
+	['strop', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to tohle?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'telefonní', 'nelze odpovědět', 'Muž mluví na mobilním telefonu.', 'nelze odpovědět', 'osoba', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je v téhle plechovce?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'fazole', 'nelze odpovědět', 'nelze odpovědět', 'Tento obraz je rozmazaný.', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, jaké barvy je moje košile?\
+	['Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je?\
+	['nelze odpovědět', 'drát', 'nelze odpovědět', 'Černá gumová hračka pro psy', 'rostlina', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kdy to vyprší?\
+	['Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'není na obrázku', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za kartu?\
+	['nelze odpovědět', 'nelze odpovědět', 'Žádná karta', 'nelze odpovědět', 'nelze odpovědět', 'černá', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. O čem je ten obrázek?\
+	['nelze odpovědět', 'prázdné', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'kožené postroje', 'psí', 'kabelka', 'nelze odpovědět', 'psí popruhy', 'zvířata']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké jsou návody k vaření?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za sledování?\
+	['nelze odpovědět', 'tužka', 'vzorek listů', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'list', 'nelze odpovědět', 'plevele']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ahoj, mohl byste mi prosím říct, co je v té plechovce v mé pravé ruce?\
+	['nelze odpovědět', 'Nějaké maso, ale na etiketě není úplně na obrázku.', 'konzervované potraviny', 'nelze odpovědět', 'Hovězí dušené maso', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, od koho je to?\
+	['Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Dopis z poště', 'Zpětná obálka bez písma.', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za chuť?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Newmanova speciální směs.', 'Nemansova speciální směs', 'káva', 'Newmanova speciální směs.', 'nelze odpovědět', '- Newymanovi vlastní .', 'nelze odpovědět']	extra bold
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? Co je to?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaký je můj krevní tlak?\
+	['nelze odpovědět', 'nelze odpovědět', '105', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '109 přepínám.', 'nelze odpovědět', 'nelze odpovědět', 'Neumím přečíst obrázek, odříznutý.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Říkali jsme , jaká je chuť .\
+	['citron', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi prosím říct, co to může říct, abych zjistil, co je uvnitř?\
+	['nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Číslo na zvýrazněný text.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na zadní straně karty by mělo být napsáno, co to je za hůlku, z čeho je vyrobená a tak dále.\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Něco dřevo 14', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Myslím, že jsem zmáčkl tlačítko OK?\
+	['Další tlačítko, které je třeba kliknout, stiskněte enter.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to? - Co je to?\
+	['nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'záblesk', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká teplota?\
+	['nelze odpovědět', '57', 'dvacet', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '20', '20.7c', 'nelze odpovědět']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to?\
+	['nelze odpovědět', 'Vítání', 'Vítející plaketa', 'nelze odpovědět', 'Vítání', 'Vítání', 'nelze odpovědět', 'Vítej vlajka', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za obličej?\
+	['Žádný obličej.', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '0', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká jsou čísla na tomhle klíči?\
+	['nelze odpovědět', 'nepřečitelné', 'nelze odpovědět', 'nelze odpovědět', 'nepřečitelné', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké je číslo na té budově, kterou jsem právě fotografoval?\
+	['3', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '3', 'nelze odpovědět', '9', 'nelze odpovědět', 'nelze odpovědět', '3']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, řekněte mi, co je v tom balení.\
+	['nelze odpovědět', 'Salát z úrody', 'nelze odpovědět', 'řepy', 'sladkosti', 'borůvky', 'Těžko říct , možná nějaký druh ořechů .', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Objevuje se na obrazovce můj počítač?\
+	['sdfgh', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Umíš to přečíst?\
+	['Ano, to je ono.', 'nelze odpovědět', 'Ano, to je ono.', 'Informační memorandum o dovozu šťavovaru', 'Ne, ne, ne, ne', 'důležitá informace', 'Někteří', 'milý', 'Ne, ne, ne, ne', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete se podívat na to, na štítek, co to je, myslím, že je to kus, DVD v poště.\
+	['Ano, to je ono.', 'Ano DVD', 'Ne, ne, ne, ne', 'DVD', 'DVD', 'nelze odpovědět', 'Označení není jasné, ale CD', 'Ano, to je ono.', 'nelze odpovědět', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je moje kamera zakrytá?\
+	['Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'sr', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to kuřecí steak?\
+	['nelze odpovědět', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Pravděpodobně nevidím všechny štítky', 'Ano, to je ono.', 'nelze odpovědět', 'Ano, to je ono.', 'Ano, to je ono.', 'nelze odpovědět', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to umění?\
+	['Ano, to je ono.', 'umění z hliníkové fólie', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'nelze odpovědět', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ahoj, jen jsem chtěl potvrdit, že to jsou skutečně vepřové kotlety.\
+	['Ano, to je ono.', 'Ano, to je ono.', 'Ano, Kirkland signature vepřové kotlety.', 'Ano, vepřové koláče.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, kotlety z bedr', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Vypadá to, že tu bude pršet nebo bouřka?\
+	['Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	bouřka
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Vypadá Buddyho tvář roztomilě nebo ne?\
+	['Ano, to je ono.', 'Ano, to je ono.', '- Sladký.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.']	ne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je tam dialog?\
+	['Ne, ne, ne, ne', 'Ano, to je ono.', 'Ano, to je ono.', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Mám ještě všechny prsty?\
+	['Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Vidíte na obrázku láhev a pokud ano, co to je?\
+	['nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Žádná láhev.', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je na téhle straně papíru nějaký text, prosím?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to fax, nebo krabice?\
+	['nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je na tomhle obrázku část hrudníku?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je tady šachová figurka?\
+	['Ne, ne, ne, ne', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'pouze deska', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ty ponožky se shodují?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. To je papír?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to notebook?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', '0 co jsem kdy viděl', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžeš číst všechno na mé obrazovce?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'nelze odpovědět', 'Ne, ne, ne, ne', 'Použití DVR 89% plné', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Vidíš vůni na téhle láhvi Freebeze?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Nevidím značku.', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je zapnutá obrazovka?\
+	['Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Které zvíře je na obrazovce počítače?\
+	['žádné zvíře', '0', '0', '0', '0', 'Žádné zvíře na obrazovce', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Snažím se dostat číslo z téhle karty a zajímalo by mě, jestli mi to můžete přečíst.\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Prosím, přečtěte si to.\
+	['261627,2 m^3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na jakou teplotu je termostat nastaven?\
+	['72', '72', '72', '72 stupňů.', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Které tlačítko je Mountain Dew?\
+	['5', '6 z vrchu', 'Šestý knoflík', 'Šestý 1 down', '5', '6', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '5']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Myslím, že je to stříbrný dub.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaký je výkon tohoto napájecího zdroje?\
+	['350', 'nelze odpovědět', '350', '350w max.', 'nelze odpovědět', '350', '350', 'nelze odpovědět', 'Větrnost', '350w max.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co tam je?\
+	['77 stupňů.', '77', '77', '77', '77 stupňů.', '77', '77', '77', '77', '77']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Můžete říct, z kterého medailonu je?\
+	['47', '47', '47', '47 .', 'má číslo 47', '47', '47', 'nelze odpovědět', '47', 'Ne, ne, ne, ne']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik to stojí?\
+	['5', '5', '5', '5', '5', '5 dolarů.', '5', '5 singapurských dolarů', '5', '5 dolarů.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co ukazuje číslice, které je obráceno nahoru?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jakou měnu má tento bankovek?\
+	['20', 'Rgreg', '20', '20', 'nelze odpovědět', 'nelze odpovědět', '20', '20', '20', '20']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co se právě zobrazuje na obrazovce?\
+	['452940', '452940', 'Vstávat a mluvit', 'Čísla', 'rádio', '452940', 'Walkie talkie', '452940', 'nelze odpovědět', '452940']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik je 465 mínus 55?\
+	['410', '410', '410', 'nelze odpovědět', '410', 'nelze odpovědět', '410', '410', '410', '410']	30
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké je páté číslo?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za účet?\
+	['2', '2', '2', '2', '2 dolary.', 'peníze', '2', '2', 'nelze odpovědět', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik kalorií je v porci Cheerios?\
+	['110', 'obraz plurality', '104', '110', '100', 'nelze odpovědět', '10', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na jakou teplotu je pece nastavená?\
+	['ovládací tlačítko', 'teplota trouby 400', '425', '450', '400', '425', '425', '400', '425', '400']	300
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je teplota termostatu?\
+	['78', '78', '78 stupňů.', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik to je peněz?\
+	['20 kanadských dolarů', '20', '20', '20', '20 EUR', '20', '20 kanadských dolarů', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Na co je nastavená teplota?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je teplota na tomhle termostatu?\
+	['50', '50', '55', '64 stupňů.', '55', 'nelze odpovědět', 'nelze odpovědět', '54', 'nelze odpovědět', '56']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co je to za denominaci?\
+	['5', '5', '5', '5', 'Kanady', '5', '5', 'Vypalování', '5', '5']	5 kanadských dolů
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Řekni mi hodnotu této karty.\
+	['6 diamantů', '9 diamantů', '6 diamantů', '6', '6', '6', '6', '6', '6', '6']	9 diamantů
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Víš, kolik to znamená?\
+	['210', '200', 'Ano, 200', '198', '200', '200', '200', '250', '200', '200']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Ahoj, zkouším to znovu. Můžete mi říct kolik stupňů je na tomhle měřiči?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	155
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, jaká je teplota nastavená na OK?\
+	['78', '78', '78', '78', '78', '78', '78 stupňů.', '78 stupňů.', '78 stupňů Fahrenheita', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik porcí je v téhle čokoládové tyčince?\
+	['nelze odpovědět', '2', '4', 'nelze odpovědět', '4', '4 šálky arašídového másla', '2', '2', 'nelze odpovědět', 'nelze odpovědět']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik kalorií je v jedné porci?\
+	['120', '120', '120 suché 220 připravené, pokud připravené 1 1 4 šálky beztukového mléka', '120', '120', '120', '120', '120', '220', '120 suché obiloviny 220 mléko']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Protože hledám dvacetku a myslím, že je to desetka, ale nemůžu to říct.\
+	['10 EUR', '10', '10', 'nelze odpovědět', '10', '10', '10 ležících na červené bílé košili', '10', '10', '10']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Má tenhle pruh jednu nebo dvě růžové čáry?\
+	['biue', '1', '1 řádek', '1 tmavá čára', '1', '1', '1', '1', '1', '1']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, jaké číslo to je, díky?\
+	['3248849064', '3248849084', 'nelze odpovědět', '3248849084', 'nelze odpovědět', 'nelze odpovědět', '3248849084', 'nelze odpovědět', 'nelze odpovědět', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Můžete mi říct, kolik vážím, prosím?\
+	['1', '1', 'nelze odpovědět', '1', '1', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'prázdná stupnice', '1']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaká je aktuální teplota na tomto termostatu?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'termostat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Je to bankovka za 5 nebo 10 kanadských dolarů?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 kanadské']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. - Jaký je číslo volajícího?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'nelze odpovědět', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	25389186
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké je to pětísčkové číslo?\
+	['23442', '23442', '23442', 'nelze odpovědět', 'nelze odpovědět', 'Vidím jen dvě číslice 69', '23442', 'nelze odpovědět', 'nelze odpovědět', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik gramů je tohle?\
+	['23.6', '20', '20', '24', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', '33', 'nelze odpovědět', 'Gfdsgsdf']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co říká teplota na tomhle teploměru?\
+	['72', '72', '72', '72', '72', '72', '72', '72 stupňů.', '72', '72 stupňů.']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké číslo je tohle?\
+	['2', '2', '2', '2', '2', '2', '2', 'nelze odpovědět', '2', '2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to na tom je?\
+	['8888', 'nelze odpovědět', 'Nic.', '8888', 'nelze odpovědět', 'nelze odpovědět', '8888', '888', 'Nic.', 'prázdné']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké číslo stránky je zobrazeno?\
+	['123', '121', '121', '121', 'nelze odpovědět', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Jaké číslo je tohle?\
+	['26', '26', '26', '26', '26', 'papír', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Co to říká?\
+	['nelze odpovědět', '40', '40', 'nelze odpovědět', 'nelze odpovědět', 'Čísla', '40', '40', '40 liber vzduchu.', '30']	neviem odpovědět
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer cs When the provided information is insufficient, respond with 'nelze odpovědět'. Kolik tablet je v téhle krabici?\
+	['8 tablet', '8', '8', '8', '8', '8', '8', '8 tablet', '8', '8']	8

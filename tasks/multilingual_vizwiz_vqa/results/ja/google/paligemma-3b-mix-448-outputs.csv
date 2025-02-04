@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. その紙に何が書いてあるのか.\
+	['答えられない', 'オーストラリア郵便局', '郵便局', '答えられない', 'オーストラリア郵便局', 'オーストリア 郵便局', 'オーストラリア郵便局', 'オーストラリア郵便局', '答えられない', 'オーストラリア郵便局']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このコンピューターの画面に何が書かれているか教えて下さい.\
+	['時計の天気等のためのアイコン', '開始ウィンドウ', 'デスクトップ', '時計', '時計', 'アイコン', 'デスクトップアイコン', '答えられない', 'デスクトップアイコン', 'アイコン']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなCDですか?\
+	['空白', '空白CD', 'マックスウェル', 'マクセルCDR', '空白', '空白', '毛布', '空白', '空白', 'マクセル']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何の写真か?\
+	['足', '足', '足の傷', '足', '足', '足', '足', '足', '足', '足']	足
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶は何なのか教えて下さい.\
+	['狩り', 'マンウィッチ', 'マンウィッチ', '狩り 怠け者 ジョーソース', 'スラッピー・ジョー・ソース', 'マンウィッチ', '気ないジョーソース', '解散', 'マンウィッチ', '怠け者ジョー']	hunts manwich
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ダイエットコークースダ', 'ダイエットコークーン', 'ダイエットコーク', 'ダイエットコカイン', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'コーク', 'ソーダ', 'ダイエットコカイン']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['ダッシュさん', '答えられない', 'ダッシュさん', '答えられない', '分からない', '辛口だけ', 'バジルミックス', 'ミセスダッシュテーブルブレンド', 'ダイッシュ', 'ダッシュさん']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['mtn露瓶', '山露', '山露', '山露', '山露', '山露', '山露', '山露', '山露', 'mt 露']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何がある?\
+	['カフェ', '答えられない', 'カフェ', 'カフェ', 'カフェ', 'カフェ', 'カフェ', 'カフェ', 'カフェ', '答えられない']	緑 の 山 の コーヒー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何が見える?\
+	['皮膚', '指の床ドア', 'ドア', 'ドア', '指のドア', 'ドア', '答えられない', 'ドア', '家', '指の黒い毛皮']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 私のコンピュータ画面が何を表示しているのですか.\
+	['システム復元を使用してコンピュータを再起動したいですか?', 'システム復元がポップアップ', 'システム復元メッセージ', 'システム復元を使用してコンピュータを再起動したいかどうか', '箱', 'システム復元', 'システム復元を使用してコンピュータを再起動したいですか?', 'コンピューターは起動しなかった システム復元を使用', '設定を復元する', 'システム復元']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['熱いココア', '熱いココアミックス', '熱いチョコレート', '熱いココアミックス', 'カコア', '熱いココアミックス', '熱いココア', '熱チョコの混合物', 'カコア', 'カコアミックス']	ホット ココア
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このカードの番号を教えて下さい\
+	['税金', '労働組合の代表者', '税金制度について', '税金制度について', '税金', '税金制度について', '税金制度について', '税金について', '税金制度について', '18007352929 税金について']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ この...\
+	['コンピュータ画面', 'コンピュータ画面', 'コンピュータ画面', 'ラップトップ', '検索結果を表示するコンピュータ画面', 'スクリーン', 'コンピュータ画面', 'コンピュータ画面', '画面', 'コンピュータ画面']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['サラダドレス', '敷き布団', 'サラダドレス', 'サラダドレス', '酸サラダドレス', 'サラダドレス', '答えられない', 'サラダドレス', 'サラダドレス', 'サラダドレス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真には何がある?\
+	['窓', 'デザイン', 'グラス窓のデザインは黒', '窓のガラスの窓ガラスの扉', '窓の窓とドア', 'ドア', 'ステンドグラス', 'ドア', '窓', '窓']	ステンド グラス の ドア の 写真
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 誰か教えて下さい 画面に表示されているセキュリティ質問は?\
+	['アラワック', '答えられない', 'アラワック', 'アラワック', 'アラワック', 'アラワック', '答えられない', '答えられない', 'アラワック', 'アラワック']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ワイン', 'シルバーオーク', 'シルバーオーク', 'シルバーオークワイン', 'ワイン', '瓶', 'ワイン', 'ワイン', 'シルバーオーク 2003 カバーネ・ソーヴィニオン', 'シルバーオーク 2003']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなブランドのモニターですか?\
+	['ロープ', '答えられない', '答えられない', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな飲み物?\
+	['ソーダ', 'ジンジャー・エール', 'ゼネラル', 'リンゴソーダ', 'カナダ 乾燥', 'カナダ 乾燥', 'ジンジャー・エール', 'カナダ 乾燥', 'ジンジャー・エール', 'ジンジャー・エール']	カナダ ドライ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. カーペットはどんな色ですか.\
+	['ベージュ', 'ベージュ', 'ブラウン', 'グレー', '青い', 'クリーム', 'ブラウン', 'ブラウン', 'ベージュ', '青い']	ライトグレー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['電話', '電話', '電話', '電話', '電話', '電話', 'デジタル電話', '電話', 'オフィス電話', '電話']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この画像は?\
+	['山露', '山露', '山露', '山露', '山露', '山露', ' (山露)', 'mtn露瓶', '山露ソーダ', '露']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶は何だ?\
+	['答えられない', '答えられない', 'ローション', 'ソーダ', '答えられない', 'ローション', 'ローション', 'ローション', '答えられない', 'ローション']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['アクアフィナ水', '水瓶 アクアフィナ', '水', '水', 'プラスチックボトル アクアフィナブランドの水', '瓶水', '水瓶', 'アクアフィナ水', '水', 'プラスチックボトル水']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['グーグル検索', 'グーグル検索エンジンタブ', 'Google検索ページ', 'グーグル', 'グーグル', 'コンピュータ', 'Google ホームページ', 'グーグルページ', 'コンピュータ画面', 'コンピュータ画面']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵', '鍵']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面上のエラーメッセージを読み聞かせてください.\
+	['答えられない', '製品キーが有効でない', '製品キーが有効でない', '答えられない', '製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない 削除 製品キーが有効でない 応答ファイルから削除', '製品キーが有効でない 製品キーを削除する', '製品キーが有効でない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 私のノートパソコンは?\
+	['机', '机の上に', 'ベッドの隣のトップデスク', '机の上に', '机', '机', '机の上に', '机の上に', '上台', '机']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この本のタイトルは何ですか?\
+	['犬年', '犬の年: メモア', '犬年', '犬年', '犬年', '犬年', '犬年', '犬年', '犬年', '犬年']	10 years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['マックブック', 'キーボード', 'キーボード', 'キーボード', 'コンピュータ', 'キーボード', 'ラップトップ', 'ラップトップ', 'ラップトップ', 'コンピュータ画面のキーボード']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何が見える?\
+	['テーブル窓', '植物', '答えられない', 'テーブル窓', '本ノートペンを', '植物', 'ストップ', '本', '窓', '植物']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どのパケットに普通の小麦粉が入っているか.\
+	['赤白色パッケージ', '左', 'その1', '左の赤い1', '左', '答えられない', '左', '左', '赤 白 1', '赤 1']	赤の 1.5 kg パケット
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['サッカー', 'サッカー', 'サッカー', '紫オレンジの毛布のフットボールアライグーター', 'ワニフットボール', 'ワニのソフトフットボール', '詰め物フットボール', '詰め物 オレンジブルーフットボール', '紫色フットボール', 'ワニ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何色なんだ?\
+	['グレー', '金', '金', 'ベージュ', '赤', '金', '答えられない', '答えられない', '金', '答えられない']	赤
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['メニュー', '答えられない', 'メニュー', 'メニュー', 'メニュー', 'テーブル内容', 'メニュー', 'メニュー', '価格表', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['水瓶', 'スプリングバーン', 'スプリングボーン水', 'スプリングボーン', '瓶詰め水', '水', '水瓶', '瓶詰め水', '水瓶', '水']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなスープ?\
+	['進歩', '進歩', '進歩', '答えられない', '進歩', '答えられない', '答えられない', '答えられない', '進歩', '進歩']	progresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは食材の缶だ 教えてもらえるか?\
+	['緑豆', '緑豆', '緑豆', '緑豆', '緑豆', '答えられない', '緑豆', '', '緑豆', '緑豆']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ? 違う\
+	['チェックスミックス', '切断機', 'チェックスミックスコンピュータ', '答えられない', 'チェックスミックス', '食品', 'チェックスミックス', 'チェックスミックス', 'チェックスミックス', 'チェクミックス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何があったの?\
+	['マイクロ波', 'マイクロ波', '薬', '電気機器 ジェリー豆スープ', '缶スープ', '飲み物', '料理', 'キッチンカウンター', 'クリーム', 'スープ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶は何だ?\
+	['混合野菜', '混合野菜', '混合野菜', '混合野菜', '混合野菜', 'ゲルゲル', '混合野菜', '混合野菜', '混合野菜', '混合野菜']	混合 野菜
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何種?\
+	['ケーキのグラス', 'バニラ', 'バニラ', 'ワニラグラス', 'ベティ・クロッカー', 'バニラグラス', 'ワニラ', 'バニラグラス', 'バニラ', 'バニラ']	ホイップ クリーム
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 箱に何が入ってるか?\
+	['穀物バーボックス', '自然谷の焼いたアーモンドグランロラバー', 'グランロラバー', '自然谷', '焼いたアーモンドグランロラ', '自然谷の焼いたアーモンドグランロラバー', '自然谷 脆い グランロラ 焼きバドラム味', 'グランロラバー', 'グランロラバー', '焼いたアーモンドの脆いグラノラバー']	グラノーラ バー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 色の布について教えてください.\
+	['緑色 白色', '白色濃緑色印刷', '白緑', '白緑', 'ピンクグリーン', '布の表面は白色 クリーム緑色', 'ピンク ブラック', '緑色 白色', '紫黒のネクタイ染料', '白緑色の噴き']	ピンク
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. コンピューター画面に何が表示されているか.\
+	['マウス矢印', 'カーソル', '何もない', '青い', '青いスクリーン', '矢印', '空白', '青い矢印', '空白', '青いスクリーン']	青い 画面
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. こんにちは 誰ですか?\
+	['白い猫', '猫', '猫', '白い猫', '猫', '答えられない', '猫', '猫', 'この猫', 'キティ']	猫
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['パーレルの手洗浄剤', 'ハンド消毒剤', 'ハンド消毒剤', '純米の手消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', '純米の手消毒剤']	手洗い
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. エラーメッセージは何と言いますか?\
+	['製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない', '製品キーが有効でない', '商品が無効', '商品キーが有効でない場合はOKをクリックして進みます.', '製品キーが有効でない場合, 製品キーを削除します.', '商品が無効', '製品キーが有効でない', '製品キーが有効でない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このメッセージが私のコンピュータ画面に何を書いてあるか教えて下さい.\
+	['右下にある修理終了ボタンの種類', '起動修復 最後の成功起動 9 20 2012 1 回修理試み 終了 終了 キャンセル', '答えられない', '違う', '起動修復', '起動修復', '起動修復', '答えられない', '起動修復完了 診断画面 閉じるボタンを', '起動修復']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 肉は? 鶏肉かソーセージか?\
+	['鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏肉', '鶏の大腿', '答えられない', '鶏肉']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何色?\
+	['電気ブルー', '青い', '青い', '青い', '青い', '青い', '青い', '青い', '青い', '答えられない']	青
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何がある?\
+	['窓を設置する', '読み取れないWindows plusをインストール', '窓を設置する', '窓を設置する', '窓を設置する', 'この画面では,Windowsのインストール手順をリストします.', '窓を設置する', '窓を設置する', '窓を設置する', '窓を設置する']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真の空は\
+	['部分的に曇り', '暗い雲', '大きな雲', '巨大な雲 暗い空', '曇り', '曇り', '青い色 雲', '答えられない', '巨大な雨雲が少し青い側面', '曇り']	曇り
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ この?\
+	['玄関', '椅子', '椅子', '椅子', '答えられない', 'ベンチ', '椅子', '椅子', 'ベンチ金属枠の窓', '椅子']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['写真', 'ドア', 'ドア', 'バー', 'ガラスパネル付きのドア', 'ドア', 'レストラン', 'レストラン', 'ドア', 'ドア']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何があるんだ?\
+	['起動デバイスを選択', '起動デバイスを選択してください 3 選択', '答えられない', '起動デバイスを選択してください.', '起動画面', '起動デバイスを選択してください.', '誤り', '起動デバイスを選択してください.', 'デバイス選択メッセージ', '起動デバイスを選択してください.']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この物体は何?\
+	['灰皿', '装飾の銅彫刻 ライオンネス', '像', '違う', '灰皿', '灰皿', '像', '犬の鉢', '灰皿', '疫病のトラが上']	像
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなタバコですか?\
+	['アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', '黒いパックで詰め込まれたアメリカン・スピリッツ', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット', 'アメリカン・スピリット']	アメリカン スピリット
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['子リンゴ', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶には何があるの?\
+	['ローション', 'ローション', 'ローション', 'ローション', 'シーアボディローション ビタミンE', '月光経路 シービタミンE ローション', 'ローション', '月光経路の体クリーム', '月光経路の体クリーム', 'ローション']	moonlight path
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何の写真?\
+	['眼鏡', 'フレーム', 'グラス', '眼鏡 シルバーのフレーム', '眼鏡', 'グラス', '眼鏡の枠', 'グラス', 'グラス', 'グラス']	眼鏡
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは製品です\
+	['わかった', 'トマトスープ', 'トマトスープ', 'スープ', '缶スープ', 'トマトスープ', 'トマトスープ', 'トマトスープ', 'スープ', '収穫トマトスープを選択']	answerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['電話ボックス', 'iPhone', 'iPhone ボックス', '電話', '携帯電話', '携帯電話ボックス', 'スマートフォン', '電話', 'スマートフォン', 'iPhone']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何の写真?\
+	['キャンディ容器', '祝い 赤い箱', '責任ある', '祝いって言う', '箱', '甘いもの', '党の好意', '祝い', '箱', '答えられない']	容器
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ この?\
+	['シャンパン', 'ワイングラス茶碗', 'ガラス', 'グラスワイン', 'プレートに座っているコーヒーカップの隣にシャンパンワインのグラス', 'テーブルにグラスで飲み', 'シャンパン', 'ティーカップグラス', 'ティーポット シャンパングラス', '窓前にあるテーブルにシャンパンガラスプレート']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな味ですか?\
+	['オレンジ', 'オレンジ緑 黄色 赤', 'オレンジミント', 'オレンジ', '答えられない', '答えられない', 'オレンジ', '2 左にオレンジ チェリー リンゴ 右上 下冬緑', 'オレンジ', 'オレンジ']	オレンジ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. こんにちは,この缶に何が入ってるの? ありがとう. ビールかソーダか,どうでもいいです. ありがとう.\
+	['コカ・コーラ', 'コカ・コーラ', 'ソーダ', 'コカ・コーラ', 'ソーダ', 'ソーダ・コック', 'ソーダ', 'ソーダ', 'コカ・コーラ', 'ソーダ']	ソーダ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このドライヤーに設定されているのは何ですか.\
+	['逆時計回りに 規則的な制御時間 乾燥 繊細  放出 空気フスフス', '常時', '消して', '消して', '消して', '常時', '消して', '設定していない', '何もない', '消して']	regular
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['錠剤', '錠剤', '携帯電話アプリ', 'スクリーン', 'アプリリスト', 'アップストア', '錠剤', 'ダウンロードするアプリのリスト', '答えられない', 'アプリのダウンロード']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何を見ているんだ?\
+	['テレビ', 'クローゼットテレビ', 'テレビ', 'テレビ', 'テレビ画面', 'テレビ', 'トム・セレック テレビで', 'テレビ', 'テレビ', '扉を開けたクローゼットテレビ']	テレビ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何色?\
+	['白い', '白い', '白い', '白い', 'ベージュ', '白い', '象牙', '答えられない', 'ベージュ', '答えられない']	白
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['この食品', 'ローチ', 'ローチ', 'ローチ', 'ローチ', 'シェフ・ボヤードー ミニラビオリス', 'ミニラビオリ缶', 'ローチ', 'シェフ・ボヤ ミニラビオリー', 'ミニラビオリー']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['焼肉粉', '焼肉', '焼肉', '焼肉', '伝統的な焼肉', '焼肉', '焼肉', '伝統的な焼肉', '焼肉', '焼肉']	伝統 的 な ローストビーフ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この製品は何?\
+	['ダイエットペプシ', 'カフェインのないダイエットペプシ', 'ピープシ', 'ピープシ', 'ダイエットペプシ', 'ダイエットペプシ', 'ダイエットペプシ', '食事 カフェイン のないペプシ', 'ダイエットペプシ', 'ダイエットペプシ']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何と呼ばれている?\
+	['東部', '豆', '答えられない', '答えられない', '食品', '豆', 'トレイルミックス', '穀物', '果物', 'バッグピーナッツ']	eastern fine foods
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは普通のコーヒーかカフェイン抜きのコーヒーですか.\
+	['常時', '答えられない', '常時', '常時', '常時', '常時', '答えられない', '答えられない', '常時', '常時']	カフェイン抜きのコーヒー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マックチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ', 'マカローニチーズ']	お答えできません
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶には何があるの?\
+	['軟化クリーム', 'ローション', 'ローション', 'ローション', '軟化クリーム', 'ローション', '潤滑剤', '身体クリーム', '深い水分で洗う', '洗濯物']	クリーム
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何があったの?\
+	['机椅子', '椅子', '椅子', 'オフィス椅子', 'オフィス椅子', 'このオフィスチェア', '椅子', '机椅子', '椅子', 'グレーのオフィスチェア']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 写真を撮った物は何だった?\
+	['コンピュータモニター', 'コンピュータ', 'コンピュータ画面', '答えられない', '答えられない', 'ラップトップ', 'コンピュータ画面', 'ラップトップ', 'コンピュータモニター', 'ラップトップコンピュータ']	コンピューター
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だって?\
+	['豚肉のコート', '肉', '赤い肉の種類', 'パック肉', '豚肉', '豚肉', '答えられない', '肉', 'fg', '豚肉']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真の空はどう見える?\
+	['曇り 日', '部分的に曇り', '曇り', '曇り', '曇り', '曇り', '曇り', '曇り', '曇り', '雨']	曇り
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどの食事? 時間切れを待っているの?\
+	['答えられない', 'スパゲッティ', 'スパゲッティ', '答えられない', '答えられない', 'スパゲッティ', 'スパゲッティ', '鏡', '夕食', 'ピザ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['植物', '', '植物', '植物', '', '植物', '植物', '植物', '', 'アイリス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この物は何?\
+	['薄茶', 'お茶', '答えられない', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶', 'お茶']	tea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このショートパンツは何色で何パターンですか.\
+	['プレッド', '青い色の黄色', '青 オレンジ 緑', '青い茶色 白いプレッド', '青いプレッド上 黄色いプレッド下', '多彩色', '青い白色', 'プレッド', '青いプレッド', '青白い緑色の黄色いプレッド']	青 緑 黄色
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ケースは何色だった?\
+	['緑色', '緑色', 'リンゴ緑', 'ケースグリーン色', '緑色', '緑色', '緑色', '緑色', '鮮やかな緑色', '緑色']	緑
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは普通のコカ・コーラか ダイエットコカ・コーラですか?\
+	['ダイエットコーク', '食事', '食事', '食事', '食事', '食事', 'ダイエットコーク', '食事', 'ダイエットコーク', '食事']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ペン', 'キーボードペンを', 'ペン', 'ペン', 'ペン', 'ペン', 'ペン', 'ペン', 'ペン', 'バイクペン']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ランプの缶プリングル', 'ランプ', 'ランプ', 'ランプ', 'プリングルの缶 CDランプの隣', '遮光灯', 'ランプ', 'テーブル・プリングル・ランプ 口水', 'ランプ', 'ランプ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このコンピュータは何をしているの?\
+	['チェックシステム', '答えられない', 'ディスクチェック', 'チェックディスク', '答えられない', '答えられない', '荷物', '設定する', '一貫性確認', '再起動']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何種類のソーダ?\
+	['ダイエットコーク', '音', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコーク', 'ダイエットコークーラ', 'ダイエットコーク', 'ダイエットコーク']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この本のテーマを教えてください\
+	['クライヴ・カスラー ディルク・カスラー', '答えられない', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー ディルク・カスラー', 'サイフィ', '緊張感', 'オリーブ・クスラー ディルク・クスラー', '行動', '答えられない', 'クライヴ・カスラー']	この 本 は 答え られ ない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなワインですか?\
+	['答えられない', '結婚祝い デイビッド・エマ レッドワイン', 'ナッシュ', 'ナッシュ', 'ナッシュ', 'ナッシュ', 'ナッシュ', '答えられない', '答えられない', 'ナッシュワイン']	rose
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ヨーグルト', '答えられない', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この本のタイトルは何ですか.\
+	['犬年', '犬年', '犬年', '犬年', '答えられない', '犬年', '答えられない', '犬年', '犬年', '犬年']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ソニーノートPC', 'ラップトップ', 'ラップトップ', 'コンピュータ', 'ラップトップ', 'ソニー・バイオ ラップトップ', 'ラップトップ', 'ソニー・ヴァイオ', 'ソニーノートPC', 'ラップトップ']	vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このコンピュータのブランドは,不思議だ.\
+	['ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー', 'ソニー']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはトマトかエンチラダソースか?\
+	['戦い', '裏のラベルには書いてない', '答えられない', 'トマト', 'トマト', 'トマト', '答えられない', 'トマト', '画像が不透明', 'トマト']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['プディング', 'プーディングスナック', 'バニラプッディング', 'プディング', 'バニラプッディング', 'プディング', '6パック スナックパック バニラプッディング', 'プディングカップ', 'プディング', 'スナックパックプディング']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['20ドルカナダ紙幣', '20ドルカナダ紙幣', '20 カナダ', 'お金', 'ロープに金をかけ', '20の口座', 'モンエー', '20ドルカナダ紙幣', '20ドル', 'お金']	20 ドル
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['ラーゼニー', 'ラーゼニー', '特別ラザニア', 'ラーゼニー', '特別のラザニア', '特別ラザニア', 'ローズン', 'ラーゼニー', 'ラーゼニア', 'ラーゼニー']	ラザニア
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなコーヒーですか.\
+	['エスペレッソ', 'エスペレッソ', 'ティモシー エスペレッソ', '熱帯雨林 エスプレッソ', '熱帯雨林エスプレッソ', 'エスペレッソ', '余分に大胆', 'エスペレッソ 熱帯', 'エスプレッソ・フォート・トロピカル', 'ティモテ']	timothy
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何の写真か?\
+	['キーボードワイングラス', 'ラップトップ', 'ノートPCキーボード ワインビール', '答えられない', 'コンピュータ', 'コンピュータ', 'ラップトップの飲み物', 'グラス液体の隣にある机の上にラップトップコンピュータ', 'ラップトップのガラス', 'ガラスのノートパソコン']	この 写真 は 答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['タイトルブック', '本', 'パンフレット', '備注', '悪魔のラム 簡単のお金帳', '悪魔のラム 簡単のお金: イギリスコロンビア州における政府規制酒', '本', '本', 'タイトルページ 本', 'パンフレット']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. テーブルに何があったの?\
+	['ノートブック', 'ノートブックペンを用いた紙', '螺旋環付きノートブック', '紙ペン', 'ノートブック', 'ノートブックペンを', 'ノートブック', 'ノートブックペンを', '紙ペン', 'ノートブック']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このシャツは何色?\
+	['青い白いプレッド', '青 白', '青い白いプレッド', '青 白', '青い', '青 白', '青い白色', '青いプレッド', '青い', '青い']	青
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['アンドレ・シャルドネ', 'シャンパン', 'アンドレ', 'シャンパン', 'ワイン', 'シャンパン', 'シャンパン', 'シャンパン', 'シャンパン', 'シャンパン']	お答えできません
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 写真の缶の中の商品の名前は?\
+	['リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール', 'リゾール']	lysol
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなコーヒーですか.\
+	['ゲバリア', 'マシモ・ゲバリア・カフェ', 'マシモ', 'ゲバリア エスペレッソ', 'マシモ', '黒いコーヒー', 'マシモ', '答えられない', 'ゲバリア', 'ゲバリア']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['胡', '缶詰 唐辛子ソーダ', '胡', '胡', '胡', '胡', 'ピーパーソード', '胡', '缶詰 唐辛子ソーダ', '胡']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どうか,何なのか教えて下さい. ありがとう.\
+	['インスタントコーヒー', 'インスタントコーヒー', 'クラシックコーヒー', 'コーヒーパック', '答えられない', 'カフェ', 'カフェ', 'コーヒー粉', 'カフェ', 'ネスカフェクラシック']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 左から右に3本のワイヤーはどんな色ですか?\
+	['赤 黒 白', '赤 黒 白', '赤黒色', '赤 黒 白', '赤 黒 白', '赤 黒 白', '赤 黒 白', '赤 黒 白', '赤 青 白', '赤 黒 白']	左から右に、赤、黒、白です。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この妊娠検査で何がわかる?\
+	['1行', '負', '負', '1 線が染料を散布する 別の試してください', '答えられない', '1条目', '画像がない', '赤線', '答えられない', '青いマーク 赤のマーク']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この調味料の名前は?\
+	['フレッシュレモンペッパーミックス', 'ダイッシュ', 'ダッシュさん', 'ミセス ダッシュ レモンペッパー', 'ダッシュさん', 'ダッシュさん', '胡', 'ダッシュさん', 'ダッシュさん', 'ダッシュさん']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. こんにちは 右手のボトルにどんな飲み物があるの?\
+	['ピープシ', 'ペプシソーダ', 'ダイエットペプシ', 'ダイエットペプシ', 'ダイエットペプシ', 'ピープシ', 'ダイエットペプシ', 'ペプシダイエット', 'ダイエットペプシ', 'ダイエットペプシ']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ビデオゲーム', 'ビデオゲーム', 'バスケットボールゲーム', 'ビデオゲーム', '答えられない', 'DVD', '答えられない', 'ゲーム', 'ビデオゲーム', 'DVD']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['ケチャップ', 'ケチャップ', 'ハインツトマトケチャップ', 'ケチャップのパック', 'ケチャップのパッケージ', 'ケチャップ', 'ケチャップ', 'ケチャップのパック', 'ケチャップ', 'ケチャップ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このシャツは何色ですか.\
+	['赤 白', 'ブラウン', '赤 白', '赤白のストライプ', '赤白のストライプ', '赤 白', '赤 白', '赤 白', '赤 白', '赤 白']	赤
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このパッケージには何があるの?\
+	['議会の写真', '音楽アルバム', '煙草', '煙草', '煙草', '煙草', 'パヒマント 埋め込みフィルター', '議会のタバコ', 'カード', '煙草']	parliament
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このマットは何色ですか.\
+	['紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色', '紫色']	紫
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. その絵には対話がより見えるか?\
+	['退屈', 'わかった', '違う', 'わかった', '違う', '違う', '違う', '違う', '違う', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この製品は何?\
+	['緑豆', '緑豆', '緑豆', '出来る', '豆', '豆', '答えられない', '緑豆', 'fg', '答えられない']	緑 の ピーマン
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶は何だ?\
+	['豚肉', '豚肉', '豚肉と豆', '豚肉', '豚肉', '豚肉', '豚肉', '豚肉', '豚肉', '豚肉']	この缶は ポーク ビーンズ です
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このワインは何?\
+	['答えられない', ' (う) めん', '2008年産 ナッシュ', 'ナッシュ', 'ナッシュ', '結婚記念品', 'ナッシュ 結婚祝い デイビッド・エマ 2011年7月16日', 'ナッシュ', 'ナッシュ', '祝い 結婚']	the nash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何のお料理?\
+	['トマトソース', 'トマトソース', 'オーガニックトマトソース', 'トマトソース', 'トマトソース', 'トマトソース', 'ミュア・グレン オーガニックトマトソース', 'トマトソース', 'ミュア・グレン オーガニックトマトソース', 'トモト']	tomato sauce
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな味?\
+	['ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー', 'ストロベリー']	strawberry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな色ですか?\
+	['ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック']	黒
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ? ほら\
+	['植物', '装飾植物', 'アロエ', '室内植物', '室内植物', '家庭植物', '植物', '家庭植物', '植物', '草の植物']	植物
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['雑誌', 'コミック', 'コミック', '大人のボードゲーム', '雑誌', 'カラーリングブック', '奇妙なクリスマスブック', 'その言語を読めないかわからない', 'クリスマス・グリーティングカード', 'コミック']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['チキンディジョンディナー', '食品', 'チキンディジョン', 'チキンディジョン', 'チキンディジョン', '食品', 'チキンディジョン', '鶏肉', 'チキンディジョン', 'チキンディジョン']	チキン ディjon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何種類のコーヒー?\
+	['ゲバリア', 'ゲバリア', 'フランス・バニラ', 'フランス・バニラ', 'ゲバリア', 'ゲバリア', 'フランス・バニラ', 'フランス・バニラ', 'フランス語', 'ヴァニラ']	french vanilla
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この物体は何?\
+	['iPhone', '電話', '電話', 'iPhone', '携帯電話', '携帯電話', '携帯電話', '電話する', 'スマートフォン', 'スマートフォン']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ この?\
+	['答えられない', '煙草', 'パックタバコ', '煙草', 'パックタバコ', '煙草', '煙草', '答えられない', '煙草', '煙草']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな味?\
+	['牛肉', '牛肉味', '牛肉', '牛肉味のブランデー', '牛肉', '牛肉の味', '牛肉味のブランデー', '牛肉', 'この牛肉の味', '牛肉']	ビーフ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['大きなカップ', 'カップ', 'カップ', 'カップ', 'トゴカップを愛している', 'カップ', 'ポップカップ 他の物', 'スタイロフームカップ', 'カップ', 'このカップ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはダイエットペプシか 普通のペプシ?\
+	['ダイエットペプシ', '食事', '答えられない', '食事', 'ダイエットペプシ', '食事', '食事', '食事', 'ダイエットペプシ', '食事']	diet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何がある?\
+	['アバストソフトウェア', 'ローカルドライブをスキャンする', '窓', 'エラーメッセージ', 'スキャン', 'アバストソフトウェアはWindows XPをスキャンします', '窓', '答えられない', 'windows xp', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 起動メニューにアクセスしようとしています. USBドライブから起動しようとしています. どの画面が起動し,どのオプションがあるか教えてください.\
+	['押す下矢印を一度,USBを入力', '起動メニューは,hdd オプションから起動する', '答えられない', '靴の気分', '起動デバイスを選択してください.', '起動装置を選択してください:', '起動デバイス hdd: pm st9250315asを選択してください', '起動デバイスを選択してください.', '画面ヘッダ: 起動デバイスを選択します. usb:usb ディスクプロに矢印を1点下へ移動します.', '起動デバイスを選択してください.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな味ですか?\
+	['食事 胡', '食事 胡', '胡のダイエット', '胡', '食事 胡', '食事 胡', '食事 胡', 'コラ', '食事 胡', '食事 胡']	ドクター ペッパー ディーゼル
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなスープ?\
+	['野菜スープ', '進歩', '進行型', '答えられない', 'グラスソ 野菜', '答えられない', '野菜', 'グラスソ 野菜', '野菜', '進歩']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな車ですか?\
+	['答えられない', 'リンカーン・クラウン・ビクトリア', '4ドアセダン', 'リンカーン', 'フォード・クラウン・ビクトリア', 'リンカーン', 'シェブロレット', 'ヴィクトリア王冠', '答えられない', 'フォード']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはコーヒー?\
+	['ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア スイスハズルナッツ', 'ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア', 'ゲバリア']	coffee
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ハンド消毒剤', 'ゲルムックス', '細菌 x ハンド消毒剤', '細菌 x ハンド消毒剤']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何の缶だ?\
+	['スープ', '果物', '答えられない', '答えられない', 'スープ', '答えられない', 'スープ', '答えられない', '引き出し', 'スープ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何色?\
+	['茶色', '茶色', '茶色', 'オークブラウン', '茶色', 'ブラウン・メープル', '木製', '茶色', '茶色', '茶色']	茶色
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '手', '手', '答えられない', '手', '手', '右手1本', '手', '手', '手']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 鍋の設定は?\
+	['カップ', '高度', '高度', '高度', '高度', '高度', '低', '高度', '高度', '高度']	低
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['盲人用品', 'cd', 'リバースCD', 'ブラインドディスク用品', 'cd', 'ディスク', 'CDの本', 'cd', '盲人向けCD用品', '槍 ジェームズ・ハーバート DVD']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ? ほら\
+	['コンピュータのモニターキーボード', '監視器', 'コンピュータモニター', 'コンピュータ画面', 'コンピュータ', 'コンピュータモニター', 'コンピュータ画面', 'デスクトップ', 'グラフ', 'グラフ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶に書いてあることは教えてくれないか?\
+	['温かいバニラ糖', '砂糖', '温かいバニラ糖', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖']	この瓶には「答えられない」というテキストが書かれていないため、お答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何がある?\
+	['インストール画面', '答えられない', '窓を設置する', 'インストール Windows の状態画面', 'windowsをインストール', '窓を設置する', '窓の設置の指示', '窓の設置の進捗状況', 'Windows Info をインストールする', '窓']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['出来る', '出来る', '答えられない', '缶バッジ', '出来る', '豆', '答えられない', '豆', 'ストーブ', 'ストーブ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何の飲み物なんだ?\
+	['オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジ', 'オレンジジュース']	オレンジ juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶にはどんなポップが入ってるの?\
+	['お茶', 'ネスティア', 'ネスティア レモン', '氷茶', 'ネスティア', 'ネスティア', 'ネスティア', '氷茶', '氷茶', '巣']	アイスティー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはペッパーニピザですか? ペッパーニとソーセージ,最高級?\
+	['ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'ピーパーニ', 'わかった', 'ピーパーニ', 'ママコッツィペッパーニ 薄い殻', 'ピーパーニ']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 中央の植物は何種か 分かってる?\
+	['違う', '草', '草', '草', '草', '草', '違う', '違う', '草', '雑草']	レタス
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['グラス', 'グラス', 'グラス', '眼鏡', 'グラスカップル', 'グラス', 'グラスカップル', 'グラス', '眼鏡', 'グラスカップル']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この場所について教えてください.\
+	['オフィス', 'オフィススペース', 'オフィス', 'オフィス 2台 机 2台 椅子', 'オフィス', 'オフィス', 'デスク 黒いオフィスチェア', 'オフィス デスク', 'オフィス2台', 'オフィス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ノートブック', '計画者', '本', '本', 'カード', 'ノートブック', '計画者', 'ノートブック', 'リリー・プリッツァー 計画回転', 'ノートブック']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['テディベアローズ', 'テディベア', 'テディベア', 'テディベア', 'テディベア', 'テディベア', '熊', 'テディベア', 'テディベア', 'テディベア']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなスパイス?\
+	['洋海塩', '洋海塩', '洋海塩', '洋海塩', '塩', '洋塩', '洋海塩', '洋海塩', '洋海塩', '洋海塩']	玉ねぎ と 海塩
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶の中身は何?\
+	['食事 胡', '食事 胡', '食事 胡', '食事 胡', '胡', '食事 胡', '食事 胡', '食事 胡', '胡のダイエット', '食事 胡']	ドクター ペッパー の ダイエット ソーダ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このカップに何があるの?\
+	['漫画', '漫画キャラクター', '漫画', '鳥を見ている男', '鶏肉', '男', '漫画マン', '鳥のスケッチ 男の木 月', '人動物', '漫画']	画像 は あり ませ ん
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['背面', '少年', '男の頭', '人', '背中 誰かの頭 肩', '背中の人', '答えられない', 'グレーシャツ', '少年', '画像の裏側の人']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['スピーカー', 'スピーカー', '壁のスピーカー', 'スピーカー', 'スピーカー', 'スピーカー', '壁スピーカー', 'スピーカー', '猫のマウント', 'スピーカー']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何書いてあるの?\
+	['タクシー電話番号', '何もない', '何もない', '電話', '都市タクシー', '領収書', '答えられない', '領収書みたいだ', '線', 'シティタクシー']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ニューオーリンズ様式 ジャンバライア ミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', '米', '山', 'ジャンバライアミックス', 'ジャンバライアミックス', '米', '箱製の混合物 ニューオーリンズ様式 ジャンバラヤ 米', 'ジャンバライアミックス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. マックって色んなの?\
+	['銀', '白い', 'ベージュ色 黒色', '白い', '銀', '銀', '銀', '銀', '白い', '銀']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 缶の中には何がある?\
+	['オーガニックで焼いた豆', '焼いた豆', 'オーガニックで焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆', '焼いた豆']	ベーカリー ビーンズ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['マカローニチーズ', '答えられない', 'マカローニチーズ', '3 チーズマカロニー', 'マカローニチーズ', 'マックチーズ', 'マカローニチーズ', '夕食', 'マクナチーズ', '殻チーズ']	マカロニ と チーズ の 箱
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ザタラインズ ニューオーリンズ スタイル ジャンバライア ミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', 'ジャンバライアミックス', '米', 'ザタライン ジャンバライア ミックス', '山', 'ザタライン ジャンバライア ミックス', 'ジャンバライアミックス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何なんだ?\
+	['品質の高いストリート・キャンディ', 'キャンディボックス', '甘いもの', '甘いもの', '硬い甘いもの', '甘いもの', '甘いもの', '甘いもの', '品質通り', '甘いもの']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 申し訳ありませんが,この写真に正確に何が見えるか教えてください.\
+	['冷蔵庫', '冷蔵庫', '冷蔵庫', '小さな冷蔵庫 のトレイ ライト 壁にタイル付きのステッカー', '冷蔵庫', 'ミニ冷蔵庫', 'ミニ冷蔵庫', '壁の扉', '白い冷蔵庫', '冷蔵庫']	冷蔵庫
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 箱の中身は何書いてある?\
+	['素敵な孫たち', '素敵な孫について', '素敵だった', '孫よりも楽しいものはない', '孫があなたの膝で争うより 楽しいことは少ない', '素敵な孫たち', '素敵な孫たち', '孫があなたの膝で争うより 楽しいことは少ない', '答えられない', '素敵な孫たち']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 空はどんな感じですか?\
+	['清潔', '日没 日出', '青い', '夕暮れ', '青い', '清潔', '清潔', '落ち着いて', '淡い青', '青い 明るい青い近地平線']	晴れ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このシャツは何色ですか.\
+	['ブラウン', '茶色', 'ブラウン', 'ベージュ', 'ベージュ', 'ピンク色', '茶色', 'ブラウン', '金', 'グレー色']	ピンク
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 男の子か女児か?\
+	['答えられない', '少年', '少年', '女の子', '少年', '少年', '少年', '少年', '少年', '少年']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何物ですか?\
+	['穀物', 'ほら', '穀物', 'ほら', '答えられない', '穀物', '蜂蜜のチア', 'ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら ほら', '蜜', '蜜']	画像 を 提供 し て いる 質問 に 答える こと が でき ませ ん
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何色?\
+	['赤い赤 黄色 白い青', 'プレッド', '緑 青 白 赤 プレッド', '多彩色', '青い', 'プレッド', '青緑 白赤', 'プレッド', '青白い緑色のプレッド', '青緑 赤 白']	緑
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['熱いココア', '熱いココアミックス', '熱いココアミックス', '熱いココアミックス', 'カコアミックス', '熱いココア', '熱いチョコレート', '熱チョコの混合物', '熱チョコのパック', '熱いチョコレート']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['答えられない', 'ハムス 特別 軽ビール', 'ビール', '答えられない', '答えられない', 'ビール', 'ビール', 'ビール', 'ビール', '特殊ライト']	beer
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはチキンかセレニーですか?\
+	['トマト', 'トマト', 'トマト', 'トマト', '違う', 'トマト', 'トマトスープ', 'トマト', 'トマト', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['マックブックプロ', 'マックブックプロ', 'Macbook Pro について', 'マックブックプロ', 'Macbook Pro について', 'マックブックプロ', 'マックブックプロ', 'エアブックプロ', 'マックブックプロ', 'マックブックプロ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶に何が入ってるか知りたい\
+	['焼いた豆', '焼いた豆', '豆', 'トマトソースの焼いた豆', '農婦 焼いた豆', '焼いた豆', '焼いた豆', '豆', '焼いた豆', '豆']	farmgirl の ベーコン
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['鶏肉', '答えられない', 'クリームなパルメザンチキン', '食品', 'テレビディナー', '食品', 'マックチーズ', '食品', 'マリー・コレンダーズ 食事', 'クリームなパルメザンチキン']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ドル札', '1ドル札', 'ドル', '1ドル札', '1 について', '1ドル札', 'ドル札', '1ドル札', '1ドル札', '1ドル紙幣']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['遊戯カード', '2人の王', '双王', '遊戯カード', 'カード', 'カード', '遊戯カード', 'パア', 'カード', '遊戯カード']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは黒か青か?\
+	['答えられない', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'ブラック', 'グレー', '黒灰色', 'ブラック']	黒
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に書いてあるのは?\
+	['Google検索テキストボックス', 'グーグル', 'グーグル', 'グーグルで検索して 幸運を感じています', 'グーグル', 'グーグル検索', '答えられない', 'グーグル', 'グーグル', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['焼肉', '焼肉', '焼肉', '焼肉', '食品', '焼肉', '焼肉', '焼肉', '伝統的な焼肉', '伝統的な焼肉']	伝統 的 な ローストビーフ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何種類のソーダ?\
+	['胡', '胡', '胡', '胡', '胡', '胡', '胡', '胡', '胡', '胡']	ドクター ペッパー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['テレビリモコン', 'リモコン', 'リモコン', 'リモート', 'リモコン', 'リモート', 'リモコン', 'リモコン', 'リモート', 'リモコン']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['家庭植物', '植物', '家庭植物', '植物', '植物', '植物', '植物', '盆栽植物', '植物', '室内植物']	植物
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何なんだ?\
+	['机', 'コンピュータ', '机', '机', '机', '机', 'コンピュータ デスク', '机', '机', 'デスクコンピュータ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. テーブルに何がある?\
+	['ipod touch', 'アプリ', '電話', 'スマートフォン用紙', 'スマートフォン用紙', '電話', '電話', '電話', '携帯電話', '電話']	電話
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何の写真か?\
+	['ipad', '隣のIPadのコーヒーバッグ', '錠剤', 'ipad', 'Hulu ログイン画面', 'ほっといて', 'Hulu plus を表示するタブレット', 'タブレット Hulu Plus ログイン', '画面の色', 'タブレット上のHulu Plusのログイン画面']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶は何だ?\
+	['シャンプー', 'シャンプー', '答えられない', '恋人', '恋人', '答えられない', 'トレセム ヘアケア', 'シャンプー', '香水', 'トレセムシャンプー']	tresemme
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何かのモデルですか?\
+	['ソーダ', 'スプライト', 'ソーダボトル', 'スプライト', '答えられない', 'スプライトソーダ', 'スプライト', 'スプライトボトル', '答えられない', 'スプライト']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この製品は何?\
+	['チェックスミックス', 'チェックスミックス', 'チェックスミックス', 'チェックスミックスチェダー', 'チェックスミックス', 'チェックスミックス', 'シェフミックス', 'チェックスミックス', 'チェックスミックス', 'チェックス']	チェダー ミックス
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['煙火のターキー', '煙突パニニ', '煙突パニニ', 'トルコ パニニ', '煙突パニニ', '煙突パニニ', 'ストーファー詰め物', 'パニニ', '煙火のターキー', '煙突パニニ']	この 箱 に は 何か が 入っ て い ます が 、 画像 が 読め ない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 賞を勝ち取るにはどんな文字をタイプすればいいのか?\
+	['ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何という缶だ?\
+	['トマト', 'ソース', 'トマト', 'トマト', 'ティン', 'トマト', 'トマト', 'トマト缶詰', 'トマト', 'トマト']	tomato
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何種類のキーリッグカップですか?\
+	['ドーナットハウス', 'カフェ', '箱', 'ドーナット', 'ドーナットハウスコレクション', 'ドーナット', 'ドーナット', 'ドーナット・ハットコレクション', 'ドーナットホール', 'ドーナツホールコレクション']	ドーナツ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この本の名前をお願いします.\
+	['半月夜', '答えられない', '作者 クライヴ・カスラー ディーク・カスラー', 'タイトルがない', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー ディルク・カスラー', 'クライヴ・カスラー ディルク・カスラー', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['お金', 'お金', '20ドル札', 'お金', '20ドル', '20ドル', '20ドル', '20ドル札', '20ドル', '20ドル札']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはシャンプーか 洗面具か?\
+	['ローション', 'ローション', 'ローション', 'ローション', '肌のクリーム', 'ローション', 'ローション', 'ローション', 'ローション', 'ローション']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真には何がある?\
+	['クレーカー', '箱クレーカー', 'クレーカーボックス', 'クレーカーボックス', 'クレーカー', 'クレーカー', 'クレーカー', 'クレーカー', 'クレーカー', 'クレーカー']	この 写真 は 答え られ ない よう です
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真は何の写真?\
+	['電話', 'マックブックプロ', 'マックブックプロ', 'コンピュータモニター', '答えられない', 'ラップトップ', 'コンピュータ', 'マックブックプロ', 'macbook pro スクリーン', 'ラップトップコンピュータ']	この写真 は macbook pro です
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['水', '水', '天然水晶', '自然水晶', '水瓶', '水瓶', '水瓶', '水', '水瓶', '水']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなピザ?\
+	['ピーパーニ', 'ママコッシス', 'ママは薄いピザを', 'ピーパーニ', '冷凍ピザ', 'ピーパーニ', '薄い', 'ママ・コジスから薄殻ペッパーニ', 'ママは,薄い皮のペッパーニを', 'ママコッシス']	thin ピザ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶には何があるの?\
+	['麦粉', '玉ねぎ', '玉ねぎ', '玉ねぎ', '穀物玉ねぎ', '穀物玉ねぎ', '玉ねぎ', '食品の価値が高く', '玉ねぎ', '玉ねぎ']	金 の  ngọt な 完全 な kernel の トッピング が 入っ た 玉米 。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['マウス', 'コンピュータマウス', 'コンピュータマウス', 'コンピュータマウス', 'コンピュータマウス', 'hp ワイヤードマウス', 'コンピュータマウス', 'PC マウス', 'hp マウス', 'マウス']	コンピューター の マウス
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['オフィス', '椅子', 'オフィス', 'オフィス椅子', '椅子', '机椅子', '家庭事務', 'オフィス', '2台の机椅子', '椅子']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['テレビ', 'テレビ', 'テレビ', '古いテレビモニター', 'テレビ', 'テレビ', '監視器', 'テレビ画面', 'テレビ', '監視器']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 私のシャツは何色ですか?\
+	['黒 白', '青 白 黒', 'ブラック', '青い', '海軍', '黒白の章', '黒 白', '青い', '青い', '黒 白']	黒
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何色?\
+	['赤', '赤', '赤', '赤', 'ピンク', '赤', '赤', '赤', '赤', '赤']	赤
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 普通のチップですか?\
+	['塩', '常時', '常時', '普通のチップ', '常時', '常時', '答えられない', '答えられない', '常時', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな箱ですか?オレンジジュースかミルクですか.\
+	['オレンジジュース', 'オレンジジュース', 'ほら', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジジュース', 'オレンジ', 'オレンジジュース', '紙の箱 オレンジジュース']	オレンジ juice
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['チップス', 'チップス', 'チップス', 'じゃがいもチップス', 'じゃがいもチップス', '酸奶の洋チップス', 'チップス', 'じゃがいもチップス', 'チップス', 'じゃがいもチップス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このバッグには何がある?\
+	['答えられない', '冷凍野菜', '野菜', '胡卜 豆 玉ねぎ 豆', '野菜', '豆 胡 玉ねぎ', '混合野菜', '野菜', '混合野菜', '玉ねぎ 胡 豆 豆']	混合 野菜
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. スパークの味は何?\
+	['ピンク レモネード', 'ピンク レモネード', '答えられない', 'ピンク レモネード', '答えられない', 'ピンク レモネード', 'オレンジ', 'ストロベリー', '答えられない', 'ピンク レモネード']	ピンク
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何種?\
+	['マンウィッチ', '答えられない', '答えられない', 'マンウィッチ', 'マンウィッチ', 'マンウィッチ', 'トマト', 'マンウィッチ', 'マンウィッチ', '怠け者ジョー']	マンwich
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 今は何季節ですか?\
+	['スパゲッティ', 'スパゲッティ', 'スパゲッティの調味料', 'スパゲッティの調味料', 'スパゲッティ', 'スパゲッティの調味料', 'スパゲッティの調味料', 'スパゲッティ', 'スパゲッティ', 'スパゲッティの調味料']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['本', '雑誌', '垂直マガジン', '雑誌', '垂直マガジン', '雑誌', '雑誌', 'めまいがする雑誌', '雑誌', '雑誌']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この物体は何?\
+	['壁', '壁', '壁', '壁', '答えられない', '答えられない', '答えられない', '壁', '壁', '壁']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['甘いもの', 'ストロベリー・ハード・キャンディー', '甘いもの', 'ストロベリー・ハード・キャンディー', 'キャンディ', 'ストロベリー・キャンディー', ' (す) げ', 'ストロベリー・キャンディー', '甘いもの', 'ストロベリー・ハード・キャンディー']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この靴は何色ですか.\
+	['茶色', 'ブラック', '茶色', '茶色', '茶色', '茶色', '茶色', '足', '茶色', 'ブラウン']	茶色
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['コンピュータ画面', 'ウェブページ', '答えられない', '答えられない', 'ウェブサイト', 'コンピュータ画面', 'コンピュータモニター', '記事', 'バイズウィズ の pdf ファイル', 'バイズウィズpdfはぼやけたが,貢献者セクションが見えます.']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真って?\
+	['監視器', 'ラップトップ', 'テレビ', 'コンピュータ', 'ラップトップ', 'テレビ', 'フラットスクリーンテレビ', 'ラップトップの画面', 'テレビ', '答えられない']	コンピューター 画面
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['携帯電話', '携帯電話', 'バイジャー', '答えられない', '電話', '携帯電話', 'ブラックベリー携帯電話', '携帯電話', '携帯電話', '携帯電話']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ この?\
+	['冷蔵庫', '答えられない', '冷蔵庫', '寮の冷蔵庫', '冷蔵庫', '冷蔵庫', '冷蔵庫', 'ミニ冷蔵庫', '冷蔵庫', 'ミニ冷蔵庫']	冷蔵庫
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この服とどんな色の宝石を着るべきか.\
+	['銀', '銀', '白い', '金', 'ブラック', '銀', '銀', '銀', '銀', '銀']	ピンク
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['足', 'ジーンズ', '', 'パンツの足', '腕ソファ', 'パンツ', '枕', '答えられない', 'パンツの足', '足']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['犬', '答えられない', '犬', '犬', '犬', '犬', '犬', '犬', '答えられない', '犬が床に']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['リモート', 'リモート', 'リモコン', 'テレビコントローラ', 'テレビリモコン', 'リモコン', 'リモート', 'リモート', 'リモコン', 'リモコン']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このバナナは緑色か黄色か.\
+	['薄緑色', '黄色', '黄色', '黄色', '緑色', '黄色', '黄色', '黄色', '黄色', '黄色']	黄色
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この製品は何?\
+	['穀物', 'カシゴー 痩せた クランク ハネ アーモンド リン', 'カシは痩せていって', 'ゲリアン・クランチ・カシ', '穀物', '痩せたクランチ・シリアル', '痩せていって', 'カシゴー 痩せた クランク ハネ アーモンド リン', '穀物', '穀物']	ゴ lean クランチ ハニー アーモンド フレーク
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. テレビ画面には今何が映っているのか.\
+	['何もない', '何もない', '消さない', '何もない', '何もない', '何もない', '何もない', '何もない', '答えられない', '何もない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['肉', '牛肉ステーキ', '牛肉', 'パッケージステーキ', '肉', '肉', '答えられない', '牛肉ステーキ', 'ステーキ', '肉']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このメッセージは何と言いますか?\
+	['答えられない', '復元完了', '答えられない', '復元完了', '復元完了', '答えられない', '復元完了', '復元完了', '復元完了', '復元完了']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶にはどんな食べ物があるの?\
+	['スープ', 'グラセソ ガーデン 野菜 スープ', 'ガーデン野菜スープ', '野菜スープ', 'ガーデン野菜スープ', 'ガーデン野菜スープ', 'スープ', 'グラセソ ガーデン 野菜 スープ', '庭野菜', 'ガーデン野菜スープ']	野菜
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '出来る', '切り豆湯', '切り豆湯', '切り豆湯', '切り豆湯', 'スープ', '豆腐スープを分割できる', '切り豆湯', 'スープ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ソファかテーブルか?\
+	['テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'テーブル', 'このテーブル']	table
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶にはどんな食べ物があるの?\
+	['ローチ', 'ローチ', 'ローチ', '玉ねぎ', 'ローチ', 'ローチ', 'ローチ', 'ローチ', 'ラビオリー', 'ローチ']	ラビオトー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何がある?\
+	['エラーメッセージ', '起動修理のポップアップ パソコンを再起動', '再起動', '起動修復を終了したいか確認するダイアログボックス', '起動修復', 'windows 更新の指示', '答えられない', '起動修復', 'コンピューターを再起動するオプション', '起動修復']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 試してみよう これは何だ?\
+	['豆', '焼いた豆', '豆', '焼いた豆', ' 焼いた豆', '出来る', '缶バッジ', ' 焼いた豆', '焼いた豆', '豆']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな電話なのか教えて下さい.\
+	['ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'ロープ', 'アンドロイド', 'ロープ', 'わかった']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['スマートフォン', '携帯電話', '携帯電話', '電話', '携帯電話', '携帯電話', '携帯電話', 'スマートフォン', '電話', '電話']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ラップトップ', '手', 'ノートPCのキーボード', '手', '指', '手', '答えられない', '答えられない', '机', '手']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['カバーネット 2009', 'ワイン', 'ワイン', 'ワイン', 'カベルネ・サヴィニヨン', 'ワインのボトル', 'ワイン', 'ワイン', 'カーベネット 2007年', 'ワイン']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. その瓶には何があるの?\
+	['コーク', 'ソーダポップ コカ・コーラ', 'ソーダ', 'コカ・コーラ・ソダ', 'ソーダ', 'ソーダ', 'コーク', 'ソーダ', 'コーク', 'ソーダ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな色ですか.\
+	['赤白のストライプ', '赤', '赤白のストライプ', '赤白のストライプ', '赤 白', '白色 赤色', 'シャツ', '赤 白', '赤 白', '赤 白']	赤
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この袋には何がある?\
+	['ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', 'ブロッコリー', '切ったブロッコリー', '蒸しにして 切ったブロッコリーを', 'ブロッコリー']	ブロッコリー の クローズ アップ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何のためのクーポンだ?\
+	['ヨーグルト', 'ヨーグルト', 'ヨーグルト', 'ヨーグルト 10$', 'ヨープライト', 'ヨーグルト 10$', 'ヨーグルト', 'ヨーグルト', '割引', 'ヨーグルト']	yogurt
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['ネスティア', '缶詰のアイスティー', 'レモン', 'ネスティア レモン', 'ネスティア', 'ネスティア', 'ネスティア', 'ネスティア', 'フィエスタ', 'ネスティア']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ipad', '錠剤', 'コンピュータ', 'ipad', 'マウスパッド', 'ラップトップ', '窓', '錠剤', '答えられない', 'ipad']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何がある?\
+	['復元をしたいですか? 復元をしたいですか?', 'エラーメッセージ', 'システム復元を使用してコンピュータを再起動したいですか?', 'スタートアップ', '起動済みの診断画面', 'コンピュータを再生するには,この方法を使用したいですか?', '起動修復', '起動修復', 'コンピュータを再現する質問', 'システム復元を使用してコンピュータを再起動したいですか?']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ありがとう 時間をかけて 答えてもらった\
+	['スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト', 'スプライト']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何書いてある?\
+	['システムCDを使ってコンピュータを再現したいですか?', '復元する', 'システムを使用してコンピュータを再現したいですか?', 'コンピューターが起動できませんでした 修理を開始します システムの問題を確認します', 'システムを使用してコンピュータを再現したいですか?', '起動修復', 'コンピューターが起動できない', '起動 修理 システム上の問題をチェック', 'コンピューターが起動できない', '復元する']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶には何がある?\
+	['野菜', 'ワルグルウェイ', '混合野菜', '野菜原産', '混合野菜', '野菜', 'ウェガール', '野菜', '野菜', '混合野菜']	混合 野菜
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画像に何が見えるか\
+	['何もない', '天', 'シンク', '天', '答えられない', '天', '何もない', '答えられない', '答えられない', '天']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どんなソダ?\
+	['コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ', 'コカ・コーラ 0', 'コカ・コーラ 0', 'コーク 0', 'コカ・コーラ 0', 'コカ・コーラ 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなシステム?\
+	['デスクトップ', '答えられない', '窓', 'デスクトップコンピュータ', '窓', '窓', '窓', 'Windows PCについて', '窓', '窓']	windows
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何があったの?\
+	['スピーカー', 'スピーカー', '床', 'スピーカー', '音声高音箱システム', 'スピーカー', 'スピーカー', 'スピーカー', 'スピーカー', 'スピーカー']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 携帯のライトを監視してる?\
+	['わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', '違う', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶に何が書いてあるか教えてくれる?\
+	['温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かいバニラ糖', '温かいバニラ糖ローション', '温かいバニラ糖', '温かいバニラ糖のボディローション', '温かい砂糖バニラ']	この瓶には「ウォーム バニラ シュガー」 という名前が書かれています。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このカードの番号を教えて下さい この質問は聞こえますか?\
+	['聞いてない', '税金制度について', '労働組合の代表者', '税金について', '税金制度について', '税金制度について', '1 877 328 9677 はい', '税金について', '税金制度について', '8007352929 ノ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 部屋の明かりは 消えたか?\
+	['灯り消して', '消して', 'について', '消して', 'について', '答えられない', 'について', 'について', 'について', 'について']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな味?\
+	['桜', 'ピンク レモネード', 'フルーツパンチ', 'ピンク レモネード', 'ピンク レモネード', '答えられない', '答えられない', 'ピンク レモネード', '桜', 'ピンク レモネード']	ピンクのレモネード
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このメッセージは何と言いますか?\
+	['復元完了', '答えられない', '復元が成功しました', '復元完了', '復元完了', '復元完了', '復元完了', '登録完了', '復元完了', '復元完了']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 私のシャツは何色ですか.\
+	['白い', '白い', '白い', '白い', '白い', '白い', '白い', '白い', '白い', '白い']	白
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['洗濯機の色調療法', 'シャンプー', '洗濯機の色調療法', 'シャンプー', 'カラーセラピーシャンプー', 'シャンプー', '色療法', 'シャンプー', '拍手 進行色彩療法', '色療法']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['缶', '猫の餌', '答えられない', 'シンク', '出来る', 'シンク', '洗濯', 'シンク', 'シンク', '出来る']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何ゲームだ?\
+	['ESPN NFL 2K', 'サッカー', 'NFL 2k', 'ESPN NFL 2K5 について', '2k5', 'ESPN2K サッカー', 'NFL 2k', 'サッカー', 'NFL 2k', 'サッカー']	nfl 2k
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['パニニ', 'パニニ', '煙突パニニ', '煙突パニニ', '煙突パニニ', 'ストーファー 喫煙 トルコ パニニ', 'トルコ パニニ', '答えられない', '煙突パニニ', '煙突パニニ']	画像 が 読め ない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何があるの?\
+	['ラーゼニー', '冷凍夕食', '特別ラザニア', '特別ラザニア', 'ラーゼニー', '特別ラザニア', 'ラーゼニー', 'ラーゼニー', 'ラーゼニー', 'ラーゼニー']	電話
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この物体は何?\
+	['自然谷 オーブス ダークチョコレート グランロラバー', 'クランチバー', 'グランロラバー', 'グランロラバー', 'グランロラバー', 'グランロラバー', 'オーブス ブラックチョコレート', 'オーブス 濃いチョコレート 脆いバー', '濃いチョコレート グランロラバー', 'グランロラバー']	グラノーラ バー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['ビデオゲーム', 'プレイステーション2ゲーム', 'プレイステーション2 スター・ウォーズ 戦場のゲーム', 'ステーション スタート ウォーズ ゲーム', 'ビデオゲーム', 'ビデオゲーム', 'スター・ウォーズ戦線2', 'ゲーム', 'プレイステーション2ゲーム', 'PSIゲーム']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. コーヒールームか?\
+	['フランス・バニラ', 'フランス・バニラ', 'フランス・バニラ', '巣', 'バニラ', 'フランス・バニラ', 'カフェマット', 'フランス・バニラ', 'フランス・バニラ', 'フランス・バニラ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['オレンジジュース', '汁', '汁', 'オレンジジュース', '汁', '滑らか汁のいい', '滑らか 汁みつ', '汁', 'オレンジジュース', '汁']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この耳首の石は何色だ?\
+	['ピンク', '紫色', '赤', 'ピンク', '紫色', 'ピンク', 'ピンク', 'ピンク', 'ピンク', 'ピンク']	ピンク
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この電子機器のラベルには何書いてあるのか.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この画面に書かれているのは 何ですか?\
+	['答えられない', '答えられない', '答えられない', '答えられない', 'スクリーンを読み取れない', '答えられない', '答えられない', '答えられない', '読み取れない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶には何があるの?\
+	['答えられない', '答えられない', '答えられない', 'ローション', 'ビタミン', '答えられない', '答えられない', '答えられない', 'わからない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このエネルギーバーは何味?\
+	['ストロベリー', 'ベリー・アーモンド・クランチ', '答えられない', '答えられない', '答えられない', '答えられない', 'アップル・クランチ', '答えられない', '答えられない', 'ベリー・アーモンド・クランチ']	ベリー アールグレン
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '注意', 'n について', '答えられない', '答えられない', 'ニュース', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな料理?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 情報を入手して欲しいので, ありがとうございました. ありがとうございました.\
+	['知らない', '答えられない', '答えられない', '家庭用IP9スピーカードック', '答えられない', 'シャン', '答えられない', '携帯機', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. すまない どうしたらいいか分からない こんな写真撮ったことない\
+	['移動してカメラが焦点化します', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どちらが一番いい映画か.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'シンプル']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['このスライド', 'ピンク', '答えられない', '紫色', '答えられない', '答えられない', '輝く', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このローションの名前は?\
+	['答えられない', '症', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	画像からはローションの名前が明記されていないため、お答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. いつ切れるの?\
+	['石油', '答えられない', '答えられない', '2013年7月23日', '2013年9月23日', '答えられない', '答えられない', '答えられない', '2013年9月23日', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これ,何時間煮るんだ?\
+	['答えられない', '答えられない', '5分', '答えられない', '答えられない', '5分', '答えられない', '答えられない', '答えられない', '答えられない']	5 分
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['カーネックス', '角', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '電話', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この曲は何?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '写真のバグ', '答えられない', '答えられない', '答えられない', '虫']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 窓の下には このシステムを自動で修理できないって書いてあるの?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'このコンピュータを自動的に修復できません.', '答えられない', 'スタートアップ', 'このコンピュータを自動的に修復することはできません.', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このパッケージにはナトリウムがどれくらい入ってるの?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'サモア', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に 回復しているって書いてあるの?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. カーテン?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '勉強を続けろ', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この仲介の名前は?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '0 について', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どれだけの色ですか?\
+	['赤 白', '答えられない', '白い', '白い', '答えられない', '赤 白', '答えられない', '答えられない', '答えられない', '答えられない']	赤
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ルーターのラベルに どういう意味があるのか 説明してください\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	ラベルには 答えられないため、お答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このバスカードの有効期限は何ですか.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 言ってみろ\
+	['答えられない', '答えられない', '答えられない', '答えられない', 'ゾノ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何と言いますか?\
+	['答えられない', '答えられない', '行列列 曖昧な数字', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何時になったの?\
+	['答えられない', '答えられない', '答えられない', '答えられない', 'カメラのレンダリングクロックが読み取れない', '見えない', '答えられない', '答えられない', '分からない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このシャンプーの使い方説明は教えて下さい.ありがとうございました.\
+	['答えられない', '答えられない', '答えられない', '電子機器の生産', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	お答えできません
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 復旧するにはボタンを押す必要があるか?\
+	['システム再開', '答えられない', 'わかった', '答えられない', '答えられない', '答えられない', '違う', '違う', '待って', '接続する']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真に映っているカードは,何と言いますか?\
+	['答えられない', '示されていない', '答えられない', '答えられない', '答えられない', '言葉は無い', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. テスト?\
+	['答えられない', '答えられない', 'リモート', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '周囲音 リモコン', '写真は問題ではありません']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 本当のことだ\
+	['答えられない', '知らない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面が見えなくて,ウェブサイトから何かを要求するために必要なものです. 驗證碼とは何か教えて下さい.\
+	['1ではない', '答えられない', '答えられない', '違う', '答えられない', '違う', '答えられない', '答えられない', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 十戒は書いてあるけど 何の十戒だ?\
+	['神 が 信者 に 与え て いる 規則 を 定め た', '答えられない', '答えられない', '道徳 の ルール', '答えられない', '神々の戒め', '答えられない', '答えられない', '法律', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. パソコンの画面に何書いてある?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ぼんやりすぎた', '画面が空いている']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな乳粉?\
+	['答えられない', '答えられない', '赤ちゃんの配方食品は 見えません', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この薬は何?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなカードですか?\
+	['答えられない', '赤のクレジットカード', '答えられない', '答えられない', '答えられない', 'クレジットカード', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このカードに何書いてあるの?\
+	['答えられない', '答えられない', '答えられない', '視界は1 6 12だけ', '答えられない', '何もない', '答えられない', 'ポイント', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['石けん', '製品', '答えられない', '牛乳', '答えられない', '答えられない', '眼薬', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. じゃあ,これは何?\
+	['ジャックリンク', 'ザ', '答えられない', '答えられない', '答えられない', '牛肉', '答えられない', '牛肉', '答えられない', '答えられない']	14g プロテイン
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何のためのプレゼントカード?\
+	['答えられない', '答えられない', '答えられないイメージ', '答えられない', '分からない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな缶詰の食べ物?\
+	['リンゴ', '答えられない', 'リンゴ', '答えられない', '答えられない', '答えられない', '答えられない', 'リンゴ', '答えられない', 'リンゴ']	lime
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何時になったの?\
+	['答えられない', '税金', '答えられない', '答えられない', '午後5時13分', '午後5時13分', '答えられない', '午後5時10分', '答えられない', '答えられない']	6:12
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶には何が入ってるの?\
+	['分からない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. オーブンの温度は何分,何分,蓋を穴を開ける必要があるか教えて下さい.\
+	['答えられない', '答えられない', '答えられない', 'アスド', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このオーブンは準備ができているように見えるか?\
+	['答えられない', '答えられない', '答えられない', '答えられない', 'オーブンではない', '答えられない', '答えられない', 'そう,準備ができていると思う.', '違う', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 助かった?\
+	['答えられない', '答えられない', '違う', '違う', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. タイプするコードは何ですか?\
+	['答えられない', 'メール', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どんなシャツを着ているの?\
+	['答えられない', 'シルク', '答えられない', '答えられない', '白い', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 凍った夕食の種類を教えて下さい\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '画像は空白', '何もない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何ブランド?\
+	['答えられない', '答えられない', '答えられない', 'サニョ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. オーブンの温度設定は?\
+	['答えられない', '答えられない', '答えられない', 'gfdsg', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	400
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶の中身は教えてくれないか?\
+	['トマトソース', '答えられない', '答えられない', '答えられない', '答えられない', 'パスタソース', '答えられない', '答えられない', 'トマトソース', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['答えられない', 'アジトロマイシン錠 250mg', '錠剤', '答えられない', '答えられない', '250 mg 服用量', 'アジトロマイシン錠', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この言葉を読んでください.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '音が聞こえない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはバリアム?\
+	['違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '薬の名前を読めない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何の歌だ?\
+	['答えられない', '答えられない', '楽譜', '答えられない', 'アルバム', '答えられない', '答えられない', '答えられない', 'シンギング シンギング', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはHPのノートPCです. キーボードとカードリーダーがどこに位置しているか知りたいです. できるだけ具体的にしてください. ありがとうございました.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '横に', '答えられない', '私はカードリーダーを見ることができない SDカードリーダー通常左角前端にある', '答えられない', '答えられない', '答えられない']	右上隅
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. その香水の名前は?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '名無し', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなRAM?\
+	['答えられない', 'ロープ', '答えられない', '答えられない', 'ddr sdram pc3200', '知らない', '答えられない', '答えられない', '答えられない', 'ドル']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 分かってるけど 白いトラックの後ろは 穴がついたようで\
+	['答えられない', '違う', '顔面から見た写真では 異常なものは何も見えない', '違う', '答えられない', '答えられない', 'ランク', '答えられない', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなスープ?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '鶏肉', '答えられない', '答えられない', '答えられない']	画像からはスープの種類が明らかではないため、お答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. コンピュータの画面に何が映っているか?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どうした?\
+	['答えられない', 'スープ', 'スープ', '缶スープ', '答えられない', '答えられない', '答えられない', '答えられない', 'スープ', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['カーペット', '紙タオル', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '紙タオル', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな味?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '常時', '元の', '答えられない', '振り向いて', 'チーズ', '絵画家']	チーズ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 3つの画像のうちのどれが Googleのロゴですか?\
+	['答えられない', '0 について', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '最初の画像', '左']	右側の画像
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['答えられない', 'わからない', 'ぼんやり', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '標識', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 石が欠落してる?\
+	['答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない', '画像の質が不十分', '答えられない', '違う']	石が欠けている
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなブランドのコローニーなのか知りたい.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このチーズの有効期限は?\
+	['ほら', '読み取れない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 温度計は何温度に設定されているか.\
+	['答えられない', '答えられない', '75 について', '答えられない', '75 について', '答えられない', '75 について', '75 について', '答えられない', '見えない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このシャツは何色だ.\
+	['答えられない', '答えられない', 'ブラック', '答えられない', 'ブラック', '答えられない', '答えられない', '答えられない', 'ブラック', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 展示には何がある?\
+	['誤りリブートメッセージ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'sys', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんなソダですか?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'わからない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何があったの?\
+	['答えられない', '答えられない', '答えられない', '毛', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どうか,この中に何があるか教えて下さい.\
+	['答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '箱', '答えられない', '小箱', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 温度計は何温度に設定されているか.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '読み取れない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶は何?\
+	['答えられない', '答えられない', '知らない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この文字を全部 持ってきてくれる?\
+	['アロベルギー・チャベス', '答えられない', 'わかった', 'わかった', '答えられない', 'アロベルギー・チャベス', '答えられない', '違う', '答えられない', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このバージョンのプロダクトキーオフ\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 待ってて 待ってるんだ\
+	['答えられない', '答えられない', '答えられない', '靴', '答えられない', '靴', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. テキサス州ダラスで気温は?\
+	['午後3時40分54秒', '答えられない', '答えられない', '答えられない', '21時17分 96度', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どうした?\
+	['答えられない', '良かった', '答えられない', '答えられない', '答えられない', '答えられない', '良かった', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何ですか? 答えは何でした?\
+	['答えられない', 'わからない', '答えられない', '答えられない', '答えられない', '答えられない', '画面にログ', 'コンピュータ', '答えられない', 'スクリーンキャストマティック']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どうした?\
+	['布の蓋のボトル', '答えられない', '毛布', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何ブランド?\
+	['答えられない', '答えられない', 'シーコ', '答えられない', 'ぼんやり', '答えられない', '答えられない', '答えられない', 'ウォッチ', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何サイトですか?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'iPhone のサイト で アプリ を 購入 する']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何という洗濯スープだ?\
+	['答えられない', '日', '答えられない', '答えられない', 'スアベテル', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この瓶には何がある?\
+	['何もない', '答えられない', '答えられない', '答えられない', 'スープ', '答えられない', '答えられない', '答えられない', '食品', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何の領収書か?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 手を握ったのは 間違いない\
+	['名刺', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['答えられない', '答えられない', '答えられない', 'メリークリスマス', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何の写真を撮ってもいい?\
+	['紙の時計', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ウォッチ', 'ミッキーマウス ポケットウォッチ', 'このポケットウォッチヘッドフォン']	時計
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何がある?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'windows ライセンス条件', '部分的に画面外にある', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ? でも,そう,折りたたむよ.\
+	['答えられない', '折りたたむ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '手', '箱']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何色?\
+	['白灰色', '紫色', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '赤 白', '答えられない']	グレー
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何があったの?\
+	['答えられない', '答えられない', '料理', '答えられない', '答えられない', '答えられない', 'コンピュータで机に座っている人の写真', '写真のリビングルームが見える', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 名前は何だった?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ユーフォリア', 'ユーフォリア', 'ユーフォニー', '答えられない', '答えられない']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何があったの?\
+	['答えられない', '軽い', '答えられない', '答えられない', '軽い', '薄い光', '答えられない', 'わからない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱のテキストを読んでください これは別の箱です\
+	['ワ', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 分からない 特定に8桁の番号を探してる\
+	['答えられない', '答えられない', '答えられない', '何も見えない 申し訳ない', '答えられない', '空白', '私はそんなものを見ることができない', '答えられない', '0 について', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. (講演者) この本のタイトルを教えてください\
+	['答えられない', '音響音楽における和音材料', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['デバーマン', '何もない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '手持ちのパッケージ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面に何がある?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. わかってる\
+	['分からない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. セキュリティー質問や セキュリティ番号や文字を教えて下さい 編集欄に追加できます\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この1ドル札はどの正規番号ですか.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '使い物にならない画像', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何で設定してるの?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'カウンター', 'カウンター', 'キッチンカウンター', 'カウンタートップ']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは蛇の噛みですか?\
+	['答えられない', '可能性', '答えられない', '違う', '答えられない', '答えられない', 'かもしれない', 'かもしれない', '違う', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. コンピュータの画面に何が表示されているか 詳しく教えてください\
+	['答えられない', '答えられない', 'コンピュータは起動できないメッセージ', '答えられない', 'コンピューターが起動できませんでした.', '答えられない', '起動修復 システム上の問題をチェック', 'スタートアップ', '答えられない', '知らないダイアログボックス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このキャプチャにはどんな文字が書かれていますか?\
+	['答えられない', '婚約者', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'ブラックボックス']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これって調理できるの?\
+	['答えられない', '違う', '答えられない', '違う', '答えられない', '答えられない', 'わかった', '答えられない', '答えられない', '違う']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', 'コンピュータ画面', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これをどれくらいマイクロ波で煮るか?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '8分', '答えられない', '答えられない']	8 分
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どうやって調理するんだ?\
+	['オーブン', '答えられない', '焼く', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	画像からはお答えできません
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 署名店はどうする?\
+	['答えられない', '答えられない', '政治的', '男', '答えられない', '分からない', '答えられない', '答えられない', '答えられない', '青い男 建物に入ってる']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このシャンプーボトルに書かれている指示を教えてください.\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '湿った髪に泡を注ぎ,必要に応じて繰り返す']	画像からはお答えできません
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真は何の写真?\
+	['屋根', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは?\
+	['答えられない', '答えられない', '答えられない', '電話', '答えられない', '携帯で話している男', '答えられない', '人', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶には何があるの?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '豆', '答えられない', '答えられない', 'この画像はぼやけている', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 私のシャツの色を教えてくれないか.\
+	['違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何があったの?\
+	['答えられない', 'ワイヤ', '答えられない', '黒いゴム製の犬用玩具', '植物', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. いつ切れるの?\
+	['しない', '答えられない', '答えられない', '答えられない', '答えられない', '画像がない', '答えられない', '答えられない', '答えられない', '2007年']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このカードは何?\
+	['答えられない', '答えられない', 'カードなし', '答えられない', '答えられない', 'ブラック', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この絵は何の話か?\
+	['答えられない', '空白', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	画像には答えられないため、お答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '革の', '犬', '財布', '答えられない', '犬用ハーネス', '動物']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これの調理手順は?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	画像からは調理手順が明記されていないため、お答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['答えられない', '鉛筆', '葉のパターン', '答えられない', '答えられない', '答えられない', '答えられない', '葉', '答えられない', '雑草']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. こんにちは 右手の中身は?\
+	['答えられない', '肉の種類はありますが,ラベルは完全に写真にはない', '缶詰', '答えられない', '牛肉の湯', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	meatballs
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは誰の物か教えてくれないか?\
+	['違う', '答えられない', '答えられない', '答えられない', '答えられない', '違う', '答えられない', '郵便からの返信', '裏封筒に文字がない', '答えられない']	この 封筒は 何 の もの か を 示す ため に 提供 さ れ て い ませ ん
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな味?\
+	['答えられない', '答えられない', '答えられない', 'ニューマンズ特別混合物', 'ナイマンの特殊混合物', 'カフェ', 'ニューマンの特殊な混合物', '答えられない', 'ニューマンズ自身の', '答えられない']	newmans own
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何してるんだ?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 血圧の値は何ですか?\
+	['答えられない', '答えられない', '105 について', '答えられない', '答えられない', '答えられない', '109 終了', '答えられない', '答えられない', '画像を読み取れない 切断']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 味は何だ?\
+	['レモン', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この缶に書いてあるのは どうですか?\
+	['答えられない', '違う', '答えられない', '答えられない', '違う', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 強調されたテキストの番号\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. カードの裏には どんな杖か 何で作ったのかなど書いてあるはずなのに\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '何かが木 14', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. わかった ボタンを押したんだろ?\
+	['次のボタンをクリックします. Enter を押します.', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何だ この?\
+	['答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '閃き', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 温度は何?\
+	['答えられない', '57 について', '20', '答えられない', '答えられない', '答えられない', '答えられない', '20 について', '20.7c', '答えられない']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['答えられない', '歓迎サイン', '歓迎のプラーク', '答えられない', '歓迎サイン', '歓迎サイン', '答えられない', '歓迎のバナー', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何の人?\
+	['顔がない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない', '0 について', '答えられない', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この商品キーに何番号が書いてあるの?\
+	['答えられない', '読み取れない', '答えられない', '答えられない', '読み取れない', '答えられない', '答えられない', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この建物の番号は何ですか? これはヤッパピ大学です\
+	['3 について', '答えられない', '答えられない', '答えられない', '3 について', '答えられない', '9 について', '答えられない', '答えられない', '3 について']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このパッケージに何が入っているか教えて下さい.ありがとう.\
+	['答えられない', '収穫感 サラダ', '答えられない', '紅', '甘いもの', '果実', 'わからないけど 変なやつかも', '答えられない', '答えられない', '答えられない']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面が表示される?\
+	['sdfgh', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これ読める?\
+	['わかった', '答えられない', 'わかった', '汁機の輸入情報メモ', '違う', '重要な情報', 'ほんの少し', '優しく', '違う', '答えられない']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 標識を見て分かるでしょう これは郵便で届いたDVDです\
+	['わかった', 'そう DVD', '違う', 'DVD', 'DVD', '答えられない', '標識が不明だがCD', 'わかった', '答えられない', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. カメラが遮られている?\
+	['わかった', 'わかった', 'わかった', 'さん', 'わかった', '違う', 'わかった', '違う', 'わかった', 'わかった']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはチキンストーックか?\
+	['答えられない', '違う', 'わかった', '標識が全部見られない', 'わかった', '答えられない', 'わかった', 'わかった', '答えられない', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは芸術?\
+	['わかった', 'アルミホイルアート', 'わかった', 'わかった', 'わかった', '答えられない', 'わかった', 'わかった', 'わかった', 'わかった']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. こんにちは これは本当に豚肉の チョットか確認したいです\
+	['わかった', 'わかった', 'そう キークランド シンクロ 豚肉のコート', '豚肉', 'わかった', 'わかった', 'わかった', 'わかった', 'ええ,腰のコート', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 嵐雲みたいに見えるか? 雨が降るか 嵐みたいに見えるか?\
+	['わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', '違う', '違う', '違う']	嵐雲のように見えます
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. バディの顔は可愛いのか?\
+	['わかった', 'わかった', '素敵だ', 'わかった', 'わかった', '違う', 'わかった', 'わかった', 'わかった', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ダイアログは今そこにある?\
+	['違う', 'わかった', 'わかった', '答えられない', '違う', '違う', 'わかった', 'わかった', 'わかった', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 指先がまだ残ってるのか?\
+	['わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった', 'わかった']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真にボトルが見えるか? もしそうなら何ですか?\
+	['答えられない', '違う', '違う', '違う', '違う', '瓶なし', '違う', '違う', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この紙の側には文字があるでしょうか.\
+	['違う', '違う', '違う', '答えられない', '答えられない', '答えられない', '違う', '違う', '答えられない', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ファックスか箱か?\
+	['答えられない', '違う', '違う', '違う', '答えられない', '答えられない', '答えられない', '違う', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この写真に胸の片がある?\
+	['違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ここにチェスの駒はあるのか.\
+	['違う', 'わかった', '違う', '板のみ', '違う', '違う', 'わかった', '違う', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この靴下は合っていますか.\
+	['違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う']	合っています
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 紙か?\
+	['違う', '違う', '違う', '違う', '違う', '答えられない', '違う', '違う', '答えられない', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 携帯か?\
+	['違う', '違う', '違う', '違う', '前に見たことない', '違う', '違う', '違う', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. テレビの画面から全部読めるの?\
+	['違う', '違う', 'わかった', '違う', '答えられない', '違う', 'DVRの使用能力 あなたのDVRは89%満タン', 'わかった', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. フリーベージの香りが 見えますか?\
+	['違う', '違う', '違う', '違う', 'レーベルが表示されない', '違う', '違う', '違う', '違う', '違う']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 画面は開いているか?\
+	['違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う', '違う']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このコンピュータ画面にはどんな動物が写っているか.\
+	['動物なし', '0 について', '0 について', '0 について', '0 について', '画面に動物はいない', '答えられない', '答えられない', '答えられない', '答えられない']	画像が写っていないため、この質問にはお答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 番号を 取ろうとしてるんだ 読んでくれるかな?\
+	['799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について', '799852896 について']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. カウンターを読んでください.\
+	['261627.2 m^3', '02616272 m^3 について', '税金制度について', '02615272 について', '税金制度について', 'ロープ', '税金制度について', '税金制度について', '02616272 m3', '税金制度について']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 温度調節器は何温度に設定されているか.\
+	['72 について', '72 について', '72 について', '72度', '72 について', '72 について', '72 について', '72 について', '72 について', '72 について']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. マウンテン・デューのボタンは?\
+	['5 について', '6 頂から', '6つ目のボタンを', '6番目 1番ダウン', '5 について', '6 について', '答えられない', '答えられない', '答えられない', '5 について']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは銀のオークだと思います.何年ですか?\
+	['2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年', '2000年']	2000
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この電源のワッテージは\
+	['350 ドル', '答えられない', '350 ドル', '最大350W', '答えられない', '350 ドル', '350 ドル', '答えられない', 'ワイヤー', '最大350W']	350w
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何書いてあるの?\
+	['77度', '77 について', '77 について', '77 について', '77度', '77 について', '77 について', '77 について', '77 について', '77 について']	77
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどのメダリオンか分かりますか?\
+	['フォート', 'フォート', 'フォート', '第47回', '番号は47', 'フォート', 'フォート', '答えられない', 'フォート', '違う']	この メダリオンは 17 世紀のイギリス軍のものです
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['5 について', '5 について', '5 について', '5 について', '5 について', '5ドル', '5 について', '5 シンガポールドル', '5 について', '5ドル']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. ダイヤルで表向きの数字が表示されるのは?\
+	['400 ドル', '550 について', '500 ドル', '税金', '税金', '税金', '税金', '500 ドル', '550 について', '500 ドル']	450
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この紙幣はどの正金ですか.\
+	['20 について', 'ロープ', '20 について', '20 について', '答えられない', '答えられない', '20 について', '20 について', '20 について', '20 について']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 現在画面に表示されているのは何ですか?\
+	['452940 について', '452940 について', 'ウォーキー・トーク', '番号', 'ラジオ', '452940 について', 'ウォーカー・トーク', '452940 について', '答えられない', '452940 について']	452.940
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 465 - 55 は何ですか?\
+	['410 について', '410 について', '410 について', '答えられない', '410 について', '答えられない', '410 について', '410 について', '410 について', '410 について']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 5番目の数字は何ですか?\
+	['8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について']	1
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この法案は何の?\
+	['2 について', '2 について', '2 について', '2 について', '2ドル', 'お金', '2 について', '2 について', '答えられない', '2 について']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. チーリョは何カロリーあるの?\
+	['110 について', '画像 複数', 'ランク', '110 について', '100 ドル', '答えられない', '10 について', '答えられない', '答えられない', '答えられない']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. オーブンは何温度に設定されているか.\
+	['オーブンのノブ', 'オーブンの温度 400', '425 について', '450 以上の', '400 ドル', '425 について', '425 について', '400 ドル', '425 について', '400 ドル']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 温度計の温度は?\
+	['78 について', '78 について', '78度', '78 について', '78 について', '78 について', '78 について', '78 について', '78 について', '78 について']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何だ?\
+	['20 カナダドル', '20 について', '20 について', '20 について', '20ユーロ', '20 について', '20 カナダドル', '20 について', '20 について', '20 について']	20 ドル カナダ の 紙幣
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 温度は何で設定されている?\
+	['75 について', '75 について', '75 について', '75 について', '76 について', '75 について', '75 について', '75 について', '75 について', '75 について']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この温度計の温度は何ですか.\
+	['50 について', '50 について', '55 について', '64度', '55 について', '答えられない', '答えられない', '54 について', '答えられない', '56 について']	60
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何宗派ですか?\
+	['5 について', '5 について', '5 について', '5 について', 'カナダ', '5 について', '5 について', '卵', '5 について', '5 について']	カナダ
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このカードの価値を教えてください.\
+	['6 ダイヤモンド', '9 ダイヤモンド', '6 ダイヤモンド', '6 について', '6 について', '6 について', '6 について', '6 について', '6 について', '6 について']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 体重がどれくらいか分かりますか?\
+	['210 について', '200 ドル', 'そう 200', '税金', '200 ドル', '200 ドル', '200 ドル', '250 ドル', '200 ドル', '200 ドル']	画像からは体重が明らかではないため、お答えできません。
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 試しにやってみます.この計度器に何度あるの?\
+	['59 について', '59 について', '59f', '59 について', '59f', '59 について', '59 について', '59 について', '59 について', '59 について']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 温度を設定して,\
+	['78 について', '78 について', '78 について', '78 について', '78 について', '78 について', '78度', '78度', '78度Frenheit', '78 について']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このショコラバーには何個あるの?\
+	['答えられない', '2 について', '4 について', '答えられない', '4 について', '4杯のピーナッツバター', '2 について', '2 について', '答えられない', '答えられない']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 1個に何カロリーがあるの?\
+	['120 について', '120 について', '120乾燥 220 調理済み 調理済みなら 1 1 4 杯 脂肪のないミルク', '120 について', '120 について', '120 について', '120 について', '120 について', '220 について', '120 乾燥穀物 220 牛乳']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これはどんな紙幣ですか? 20枚を探しています.これは10枚だと思いますが,はっきりできません.\
+	['10ユーロ', '10 について', '10 について', '答えられない', '10 について', '10 について', '10赤白いシャツを横たえて', '10 について', '10 について', '10 について']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このストライプには1つか2つのピンク色の線があるの?一つは他のより明るくなるかもしれない.\
+	['バイウ', '1 について', '1行', '1 暗線', '1 について', '1 について', '1 について', '1 について', '1 について', '1 について']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 何号ですか? ありがとうございました.\
+	['税金について', '税金について', '答えられない', '税金について', '答えられない', '答えられない', '税金について', '答えられない', '答えられない', '税金について']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 体重を教えて下さい\
+	['1 について', '1 について', '答えられない', '1 について', '1 について', '答えられない', '答えられない', '答えられない', '空のスケール', '1 について']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この温度調節器の現在の温度設定は?\
+	['70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '70 歳', '温度計']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは5ドル紙幣か10ドルのカナダ紙幣ですか.\
+	['10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 について', '10 カナダ']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 呼び出し人番号は? ありがとう\
+	['税金', 'オーケー オーケー', '税金', '税金', '答えられない', '税金', 'オーケー,お前に電話したよ', '税金', '税金', '税金']	25389186
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. 5桁の数字は何でしょう?\
+	['税金', '税金', '税金', '答えられない', '答えられない', '2桁だけ 69', '税金', '答えられない', '答えられない', '税金']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何オンスですか?\
+	['年間', '20 について', '20 について', '24 について', '答えられない', '答えられない', '答えられない', '33 について', '答えられない', 'ゲルゲルゲルゲル']	23.7
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この温度計に温度が表示されているのは?\
+	['72 について', '72 について', '72 について', '72 について', '72 について', '72 について', '72 について', '72度', '72 について', '72度']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何ページ番号ですか?\
+	['2 について', '2 について', '2 について', '2 について', '2 について', '2 について', '2 について', '答えられない', '2 について', '2 について']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. このディスプレイには何がある?\
+	['税金', '答えられない', '何もない', '税金', '答えられない', '答えられない', '税金', '888 について', '何もない', '空白']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. どのページ番号が表示されていますか?\
+	['ロープ', 'ロープ', 'ロープ', 'ロープ', '答えられない', 'ロープ', 'ロープ', 'ポイント', '321 について', 'ロープ']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何号?\
+	['ラング', 'ラング', 'ラング', 'ラング', 'ラング', '紙', 'ラング', 'ラング', 'ラング', 'ラング']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. これは何?\
+	['答えられない', '40 について', '40 について', '答えられない', '答えられない', '番号', '40 について', '40 について', '40ポンドの空気', '30 歳']	答えられない
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer ja When the provided information is insufficient, respond with '答えられない'. この箱には何錠があるの?\
+	['8錠', '8 について', '8 について', '8 について', '8 について', '8 について', '8 について', '8錠', '8 について', '8 について']	8

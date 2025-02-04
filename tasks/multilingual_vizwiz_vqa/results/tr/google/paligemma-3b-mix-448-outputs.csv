@@ -1,0 +1,1001 @@
+image_path	prompt	ground_truth	response
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001089.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kağıda ne yazıyor?\
+	['cevaplanamaz', 'Avustralya Postası', 'posta', 'cevaplanamaz', 'Avustralya Postası', 'Avustralya Postası', 'Avustralya Postası', 'Avustralya Postası', 'cevaplanamaz', 'Avustralya Postası']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000603.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bu bilgisayar ekranında ne olduğunu söyleyebilir misiniz?\
+	['Saat hava durumu için simgeler vb.', 'Başlatma penceresi', 'masaüstü', 'saat', 'saat', 'simgeler', 'Masaüstü simgeleri', 'cevaplanamaz', 'Masaüstü simgeleri', 'simgeler']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002074.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu hangi CD?\
+	['boşluk', 'Boş cd', 'Maxwell', 'Maxell CD r', 'boşluk', 'boşluk', 'battaniye', 'boşluk', 'boşluk', 'Maxell']	maxell cd r
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001467.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu resim de ne?\
+	['ayak', 'ayak', 'Ayağın çizildiği', 'ayak', 'ayak', 'ayak', 'ayak', 'ayak', 'ayak', 'ayak']	Bir ayak resmi verilirken cevap verilemez.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004201.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutu neyin içinde lütfen?\
+	['avlanmak', 'Manwich', 'Manwich', 'Avcılık yapmıyor.', 'Ahmak sosu', 'Manwich', 'Adamın cesurca çamaşırlı Joe sosu', 'Çıkmaz', 'Manwich', 'Ahmak Joe.']	joe soslu sandviç
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001540.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Diyet kola soda', 'Diyet kola kutuları', 'Diyet kokain', 'Diyet kokain alabilir .', 'Diyet kokain', 'Diyet kokain', 'Diyet kokain', 'Kokain', 'Soda', 'Diyet kokain alabilir .']	resimde çok az bilgi var
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003385.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir baharat?\
+	['Bayan Dash.', 'cevaplanamaz', 'Bayan Dash.', 'cevaplanamaz', 'Söylemem.', 'Tüm baharat', 'Fındık karışımı', 'Bayan Dash masası karışımı', 'Düz', 'Bayan Dash.']	baharat
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002460.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['mtn çiğ şişesi', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'mt çiğ']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001735.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Kahve', 'cevaplanamaz', 'Kahve', 'Kahve', 'Kahve', 'Kahve', 'Kahve', 'Kahve', 'Kahve', 'cevaplanamaz']	kahve
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002557.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne görüyorsun?\
+	['deri', 'Parmak tabanlı kapılar', 'Kapı', 'Kapı', 'Parmak kapısı', 'Kapı', 'cevaplanamaz', 'Kapı', 'ev', 'parmak siyah kürk']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000566.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bilgisayar ekranım ne gösteriyor?\
+	['Bilgisayarınızı sistem geri yükleme ile geri yüklemek istiyor musunuz?', 'Sistem geri yükleme açılıyor', 'Sistem geri yükleme mesajı', 'Sistem geri yükleme kullanarak bilgisayarınızı geri yüklemek istiyor musunuz diye sorar', 'kutu', 'Sistem geri yükleme', 'Bilgisayarınızı sistem geri yükleme ile geri yüklemek istiyor musunuz?', 'Bilgisayar başlamadı. Sistem geri yüklemeyi kullan.', 'Kurulu geri yükle', 'Sistem geri yükleme']	system restore
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003751.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Sıcak kakao', 'Sıcak kakao karışımı', 'Sıcak çikolata', 'Sıcak kakao karışımı', 'kakao', 'Sıcak kakao karışımı', 'Sıcak kakao', 'Sıcak çikolata karışımı', 'kakao', 'kakao karışımı']	çikolatalı çörek karışımı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000197.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bana kartın 1-800 numarasını söyler misiniz?\
+	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', '18773289677', '1 877 328 9677', '18007352929']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000977.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['Bilgisayar ekranı', 'Bilgisayar ekranı', 'Bilgisayar ekranı', 'dizüstü bilgisayar', 'arama sonuçlarını gösteren bilgisayar ekranı', 'ekran', 'Bilgisayar ekranı', 'Bilgisayar ekranı', 'Monitör ekranı', 'Bilgisayar ekranı']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004314.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor?\
+	['Salata sosu arka tarafta', 'sarımsak', 'Salata sosu', 'Salata sosu', 'Balsam salatası sosu', 'Salata sosu', 'cevaplanamaz', 'Salata sosu', 'Salata sosu', 'Salata sosu']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004039.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Resim ne gösteriyor?\
+	['Pencere', 'tasarım', 'kara renk cam cam camı', 'Kapıdaki cam pencere panosu', 'Kapıdaki cam pencere', 'Kapı', 'vitrin', 'Kapı', 'Pencere', 'Pencere']	Pencere
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003622.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Biri bana ekranın güvenlik sorusunun ne olduğunu söyleyebilir mi lütfen?\
+	['Arawak', 'cevaplanamaz', 'Arawak', 'Arawak', 'Arawak', 'Arawak', 'cevaplanamaz', 'cevaplanamaz', 'Arawak', 'Arawak']	Cevap arak
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003019.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Şarap', 'Gümüş meşe', 'Gümüş meşe', 'Gümüş meşe şarabı', 'Şarap', 'şişe', 'Şarap', 'Şarap', 'Gümüş meşe 2003 Cabernet Sauvignon', 'Gümüş meşe 2003']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003198.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu hangi marka bir monitör?\
+	['- Evet.', 'cevaplanamaz', 'cevaplanamaz', '- Evet.', '- Evet.', '- Evet.', '- Evet.', '- Evet.', '- Evet.', '- Evet.']	lg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003541.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne biçim bir içki?\
+	['Soda', 'Zencefilli bira', 'General', 'Zencefil soda', 'Kanada kuru', 'Kanada kuru', 'Zencefilli bira', 'Kanada kuru', 'Zencefilli bira', 'Zencefilli bira']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003207.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Halının rengi ne?\
+	['Beyz', 'Beyz', 'Kırmızı', 'gri', 'mor', 'krem', 'Kırmızı', 'Kırmızı', 'Beyz', 'mor']	beige
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001552.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'Dijital telefon', 'telefon', 'Ofis telefonu', 'telefon']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003827.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu resim de ne?\
+	['Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'Dağ çiğ', 'dağ çiğ', 'mtn çiğ şişesi', 'Dağ çiy soda', 'Çiy']	dağ suyunun bir şişesini tutan bir kişi.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003740.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişe de ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'Losyon', 'Soda', 'cevaplanamaz', 'Losyon', 'Losyon', 'Losyon', 'cevaplanamaz', 'Losyon']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001842.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Suya ait', 'Şişe aquafina suyu', 'Su', 'Su', 'Plastik şişe aquafina marka suyu', 'Şişe su', 'Su şişesi', 'Suya ait', 'Su', 'Plastik su şişesi']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000981.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['Google arama', 'google arama motoru sekmesi', 'google arama sayfası', \"Google'a bak\", \"Google'a bak\", 'Bilgisayar', 'Google Ana Sayfası', 'google sayfası', 'Bilgisayar ekranı', 'Bilgisayar ekranı']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000835.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunlar ne?\
+	['Anahtarlar', 'Anahtarlar', 'Anahtarlar', 'Anahtarlar', 'Anahtarlar', 'Anahtarlar', 'Anahtarlar', 'Anahtarlar', 'Anahtarlar', 'Anahtarlar']	anahtarlar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000966.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana ekrandaki hata mesajını oku.\
+	['cevaplanamaz', 'geçersiz ürün anahtarı', 'geçersiz ürün anahtarı', 'cevaplanamaz', 'geçersiz ürün anahtarı', 'geçersiz ürün anahtarı', 'geçersiz ürün anahtarı', 'Geçersiz ürün anahtarı devam etmek için ya unattend cevap dosyasındaki ürün anahtarını kaldır', 'geçersiz ürün anahtarı devam etmek için ya bekleme yanıt dosyasındaki ürün anahtarını kaldır', 'geçersiz ürün anahtarı']	hata mesajı cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002910.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Dizüstü bilgisayarım nerede?\
+	['Masa', 'Masada.', 'Yatağın yanındaki üst masa', 'Masada.', 'Masa', 'Masa', 'Masada.', 'Masada.', 'Yukarıdaki masa', 'Masa']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000002.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kitabın adı ne?\
+	['Köpek yılları', 'Köpek yılları: anı', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001092.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Macbook', 'Klavye', 'Klavye', 'Klavye', 'Bilgisayar', 'Klavye', 'dizüstü bilgisayar', 'dizüstü bilgisayar', 'dizüstü bilgisayar', 'Bilgisayar ekranı klavye']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002677.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne görüyorsun?\
+	['Masa penceresi', 'Çiçekler', 'cevaplanamaz', 'Masa penceresi', 'Kitap not kâğıdı kalem', 'Çiçekler', '- Çıkartma', 'Kitap', 'Pencere', 'Çiçekler']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002073.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Hangi paket düz un içerir?\
+	['Kırmızı beyaz paket', 'soldan', 'Bu 1', 'Solda kırmızı 1', 'soldan', 'cevaplanamaz', 'soldan', 'soldan', 'Kırmızı beyaz 1', 'kırmızı 1']	1.5 kg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001437.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Futbol', 'Futbol', 'Futbol', 'Mor turuncu tüylü futbol timsahı', 'timsahlar futbol', 'timsahlar yumuşak futbol', 'Dolu futbol', 'Dolu turuncu mavi futbol topu', 'Mor futbol', 'Deniz sincapları']	resim
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002884.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne renk?\
+	['gri', 'Altın', 'Altın', 'Beyz', 'Kırmızı', 'Altın', 'cevaplanamaz', 'cevaplanamaz', 'Altın', 'cevaplanamaz']	kırmızı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000789.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Menü', 'cevaplanamaz', 'Menü', 'Menü', 'Menü', 'Tablo içeriği', 'Menü', 'Menü', 'Fiyat listesi', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003999.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Su şişesi', 'Çaydanlık', 'Springbourne suyu', 'Springbourne', 'Şişelenmiş su', 'Su', 'Su şişesi', 'Şişelenmiş su', 'Şişede su', 'Su']	springbourne su
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003602.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir çorba?\
+	['progresso', 'progresso', 'progresso', 'cevaplanamaz', 'progresso', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'progresso', 'progresso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003857.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun bir konserve yiyecek olduğunu biliyorum.\
+	['yeşil fasulye', 'yeşil fasulye', 'yeşil fasulye', 'yeşil fasulye', 'yeşil fasulye', 'cevaplanamaz', 'yeşil fasulye', 'eef', 'yeşil fasulye', 'yeşil fasulye']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000985.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Neyin var?\
+	['Çek karışımı', 'Çakmak değirmenleri', 'Chex Mix bilgisayarı', 'cevaplanamaz', 'Çek karışımı', 'Yemek', 'Çek karışımı', 'Çek karışımı', 'Çek karışımı', 'chekmix']	Cevaplanamaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002692.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu? - Ne oldu?\
+	['Mikrodalga', 'Mikrodalga', 'İlaç', 'aletler jöle fasulyesi çorbası', 'konserve çorba', 'içmek için fincan çorba', 'mutfak', 'Mutfak tezgahı', 'kremli', 'Çorba']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002351.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutu ne?\
+	['Karışık sebzeler', 'Karışık sebzeler', 'Karışık sebzeler', 'Karışık sebzeler', 'Karışık sebzeler', 'Efgrfg', 'Karışık sebzeler', 'karışık sebzeler', 'Karışık sebzeler', 'Karışık sebzeler']	karışık sebze
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001429.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir şey?\
+	['Pasta katranı', 'Vanil', 'Vanil', 'Sıvı vanilya glasi', 'Betty Crocker', 'Vanilya glasi', 'Sıvı vanilya', 'Vanilya glasi', 'Vanil', 'Vanil']	süt kreması
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001345.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Hangi kutuya bakıyorum, kutuda ne var?\
+	['Mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı mısırlı', 'Doğa vadisi kızarmış bademli mısırlı mısırlı barlar', 'Granola çubukları', 'Doğa vadisi', 'Kızarmış bademli granula çubukları', 'Doğa vadisi kızarmış bademli mısırlı mısırlı barlar', 'Doğa vadisi krampalı, kavurulmuş badem tadlı, çerezli, çerezli', 'Granola çubukları', 'Granola çubukları', 'Kızarmış bademli, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı, kırmızı']	nature valley crunchy bademli granola barları
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004210.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Renkli kumaş hakkında ne dersin?\
+	['yeşil beyaz', 'Beyaz koyu yeşil baskı', 'Beyaz yeşil', 'Beyaz yeşil', 'pembe yeşil', 'kumaş beyaz krem yeşil üzerine', 'pembe siyah', 'yeşil beyaz', 'Mor siyah kravat boya', 'Beyaz yeşil sıçramalar']	renkli kumaşın fotoğrafı çekilmedi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001923.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bilgisayar ekranı ne gösteriyor?\
+	['fare ok', 'İmleç', 'Hiçbir şey.', 'Mavi', 'Mavi ekran', 'Ok', 'boşluk', 'Mavi ok', 'boşluk', 'Mavi ekran']	boş mavi ekran
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002814.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Merhaba, kimsiniz?\
+	['Beyaz kedi', 'kedi', 'kedi', 'Beyaz kedi', 'kedi', 'cevaplanamaz', 'kedi', 'kedi', 'Bu kedi', 'Kedi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003556.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Purell gelişmiş el dezenfektan', 'El dezenfektan', 'El dezenfektan', 'Pürell el dezenfektan', 'El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'Pürell el dezenfektan']	purell
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000381.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Hata mesajı ne diyor?\
+	['geçersiz ürün anahtarı', 'geçersiz ürün anahtarı', 'geçersiz ürün anahtarı', 'geçersiz ürün anahtarı', 'geçersiz ürün', \"Geçersiz ürün anahtarı devam etmek için OK'a tıklayın\", 'Geçersiz ürün anahtarı devam etmek için ya bekleme yanıt dosyasındaki ürün anahtarını kaldırın', 'geçersiz ürün', 'geçersiz ürün anahtarı', 'geçersiz ürün anahtarı']	Yanıt veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000463.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bilgisayarımdaki ekranda bu mesajın ne dediğini söyleyebilir misiniz?\
+	['Sağ altta bir çeşit tamir bitirme düğmesi var .', 'Başlatma onarım son başarılı açılış 9 20 2012 1 onarım girişimi geri kapanım iptal', 'cevaplanamaz', 'Hayır', 'Başlatma onarım', 'Başlatma onarım', 'Başlatma onarım', 'cevaplanamaz', 'Başlatma onarımı tamamlandı .', 'Başlatma onarım']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001798.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu tavuk mu sosis mi, ne tür bir et mi?\
+	['tavuk', 'tavuk', 'tavuk', 'tavuk', 'tavuk', 'tavuk', 'tavuk', 'Tavuk kalçaları', 'cevaplanamaz', 'tavuk']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001807.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne renk?\
+	['Elektrikli mavi', 'Mavi', 'Mavi', 'Mavi', 'Mavi', 'Mavi', 'Mavi', 'Mavi', 'Mavi', 'cevaplanamaz']	mavi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001054.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne yazıyor?\
+	['Pencere kurmak', 'Windows + daha fazla okunamaz yükleme', 'Pencere kurmak', 'Pencere kurmak', 'Pencere kurmak', 'Bu ekran, Windows yükleme listelerinin kurulum adımlarını belirtir.', 'Pencere kurmak', 'Pencere kurmak', 'Pencere kurmak', 'Pencere kurmak']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002698.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Gökyüzü bu resimde nasıl görünüyor.\
+	['Kısmen bulutlu', 'Karanlık bulutlar', 'Büyük bulut', 'Koca bir bulut karanlık gökyüzü', 'Bulutlu', 'Bulutlu', 'Mavi bulutlar', 'cevaplanamaz', 'Dev yağmur bulutu biraz mavi yan tarafa', 'Bulutlu']	bulutlu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001425.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['verandası', 'sandalye', 'sandalye', 'sandalye', 'cevaplanamaz', 'Benç', 'sandalye', 'sandalye', 'metal çerçeve pencere', 'sandalye']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002407.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Fotoğraf', 'Kapı', 'Kapı', 'Bar', 'Cam paneli kapılar', 'Kapı', 'Restoran', 'Restoran', 'Kapılar', 'Kapılar']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000405.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ekranımda ne var?\
+	['Başlatma cihazını seç', 'Lütfen başlatma aygıtını seçin 3 seçenek', 'cevaplanamaz', 'Lütfen başlatma aygıtını seçin', 'Çıkış ekranı', 'Lütfen başlatma aygıtını seçin', 'hata', 'Lütfen başlatma aygıtını seçin', 'aygıt seçimi mesajı', 'Lütfen başlatma aygıtını seçin']	hiç cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001782.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu nesne nedir?\
+	['kül tablası', 'dekoratif bronz heykel aslan', 'heykel', 'Hayır', 'kül tablası', 'kül tablası', 'heykel', 'Köpek kabı', 'kül tablası', 'Üstte veba kaplanı var.']	heykel
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002046.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür sigara?\
+	['Amerikan ruhu', 'Amerikan ruhu', 'Amerikan ruhu', 'Amerikan ruhu', 'Amerikan ruhu', 'Siyah paketli Amerikan içecekleri.', 'Amerikan ruhu', 'Amerikan ruhu', 'Amerikan ruhu', 'Amerikan ruhu']	american spirit
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001389.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Guayava ginsengi', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003951.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişede ne var?\
+	['vücut losyonu', 'vücut losyonu', 'vücut losyonu', 'Losyon', 'Shea vücut losyonu vitamin E', 'Ay ışığı yolu, karpuz vitamini, vücut losyonu.', 'vücut losyonu', 'Ay ışığı yolu vücut losyonu', 'Ay ışığı yolu vücut losyonu', 'Losyon']	moonlight path vücut losyonu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003376.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu neyin resmi?\
+	['Gözlükler', 'Çerçeve', 'gözlükler', 'Gözlükler gümüş çerçeveler', 'Gözlük', 'gözlükler', 'Gözlük çerçeve', 'gözlükler', 'gözlükler', 'gözlükler']	gözlük
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004241.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu bir ürün.\
+	['Evet, evet.', 'Domates çorbası', 'Domates çorbası', 'Çorba', 'konserve çorba', 'Domates çorbası', 'Domates çorbası', 'Domates çorbası', 'Çorba', 'hasat domates çorbasını seçin']	campbells domates çorbası
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001482.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Telefon kutusu', 'iphone', 'iPhone kutusu', 'telefon', 'Cep telefonu', 'Cep telefonu kutusu', 'akıllı telefon', 'telefon', 'akıllı telefon', 'iphone']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002516.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu neyin resmi?\
+	['Şekerli kap', 'Kutlama kırmızı kutu', 'Sorumlu', 'Bayram dedi.', 'kutu', 'Şeker', 'Partiye destek', 'kutlamalar', 'kutu', 'cevaplanamaz']	i cant see full image
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002322.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Şampanya', 'Şarap bardak çay tenceresi', 'cam', 'Bardak şarap', 'tabakta oturan kahve fincanının yanında bir bardak şampanya şarabı', 'masada bardakta içilir', 'Şampanya', 'Çay bardağı bardağı', 'Çaydan şampanya bardağı', 'Şampanya cam tabak ön camdaki masada şehir manzarası']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001996.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun tadı ne?\
+	['Portakal', 'turuncu yeşil sarı kırmızı', 'portakal nane', 'Portakal', 'cevaplanamaz', 'cevaplanamaz', 'Portakal', '2 solda turuncu kiraz limon üstte sağ altta kış yeşili', 'Portakal', 'Portakal']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002959.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Merhaba, bu kutuda ne var merak ediyordum? Teşekkürler. Bir bira mı yoksa bir kutu soda mı merak ediyordum. Teşekkürler.\
+	['Coca Cola', 'Coca Cola', 'Soda', 'Coca Cola', 'Soda', 'Soda kokesi', 'Soda', 'Soda', 'Coca-Cola', 'Soda']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001858.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kurutma makinesinin ayarları nedir?\
+	['Saati gösterme yönüne karşı düzenli kırışıklık kontrol zamanı kuru hassas kırışıklık serbest bırakma hava tüyleri', 'düzenli', 'Kapat', 'Kapat', 'Kapat', 'düzenli', 'Kapat', 'ayarlama yapma', 'Hiçbir şey.', 'Kapat']	normal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001061.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['tablet', 'tablet', 'telefon uygulamaları', 'ekran', 'uygulama listesi', 'App Store', 'tablet', 'indirme listesi', 'cevaplanamaz', 'Uygulama indirme']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002461.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Neye bakıyorum ben?\
+	['televizyon', 'Dolap televizyonu', 'televizyon', 'televizyon', 'Televizyon ekranı', 'televizyon', 'Tom Selleck televizyonda', 'televizyon', 'televizyon', 'Açık dolap kapısı televizyonu']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003171.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne renk?\
+	['Beyaz', 'Beyaz', 'Beyaz', 'Beyaz', 'Beyz', 'Beyaz', 'Fildişi', 'cevaplanamaz', 'Beyz', 'cevaplanamaz']	beyaza yakın
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004018.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Bu gıda', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'Şef Boyardee mini ravioli .', 'konserve mini ravioli', 'Ravioli', 'Şef boya mini ravioli', 'Mini ravioli']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001775.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Kızarmış sığır eti eti', 'kızartılmış sığır eti', 'kızartılmış sığır eti', 'kızartılmış sığır eti', 'Geleneksel kızartılmış sığır eti', 'kızartılmış sığır eti', 'kızartılmış sığır eti', 'Geleneksel kızartılmış sığır eti', 'kızartılmış sığır eti', 'kızartılmış sığır eti']	tradional kızartma sığır eti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003566.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ürün nedir?\
+	['Diyet pepsi', 'Kafeinsiz diyet pepsi', 'Pepsi', 'Pepsi', 'Diyet pepsi', 'Diyet pepsi', 'Diyet pepsi', 'Diyet kafeinsiz pepsi', 'Diyet pepsi', 'Diyet pepsi']	diet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002157.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Buna ne deniyor?\
+	['Doğu', 'Fasulye', 'cevaplanamaz', 'cevaplanamaz', 'Yemek', 'Fasulye', 'iz karışımı', 'Tahıl', 'fındık', 'Fıstık torbası']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001350.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu normal kahve mi yoksa kafeinsiz mi?\
+	['düzenli', 'cevaplanamaz', 'düzenli', 'düzenli', 'düzenli', 'düzenli', 'cevaplanamaz', 'cevaplanamaz', 'düzenli', 'düzenli']	normal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003510.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Makaron peyniri', 'Makaron peyniri', 'Makaron peyniri', 'Makaron peyniri', 'Makaron peyniri', 'Mac peyniri', 'Makaron peyniri', 'Makaron peyniri', 'Makaron peyniri', 'Makaron peyniri']	yemek
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002279.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişede ne var?\
+	['yumuşatıcı losyon', 'Losyon', 'Losyon', 'Losyon', 'yumuşatıcı krem', 'Losyon', 'nemlendirici', 'vücut kremi', 'Derin nemli vücut yıkama', 'vücut yıkama']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003609.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu? - Ne oldu?\
+	['Masa sandalyesi', 'sandalye', 'sandalye', 'Ofis koltuğu', 'Ofis koltuğu', 'Bu ofis koltuğu.', 'sandalye', 'Masa sandalyesi', 'sandalye', 'gri ofis sandalyesi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000934.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Fotoğraf çektiğim şey neydi?\
+	['Bilgisayar monitörü', 'Bilgisayar', 'Bilgisayar ekranı', 'cevaplanamaz', 'cevaplanamaz', 'dizüstü bilgisayar', 'Bilgisayar ekranı', 'dizüstü bilgisayar', 'Bilgisayar monitörü', 'dizüstü bilgisayar']	bilgisayar ekranı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004230.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne olduğunu söyle.\
+	['Domuz eti kotletleri', 'et', 'Bir çeşit kırmızı et.', 'Paket et', 'Domuz eti', 'Domuz eti', 'cevaplanamaz', 'et', 'fg', 'Domuz kanı']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000599.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu fotoğrafta gökyüzü nasıl görünüyor?\
+	['Bulutlu bir gün', 'Kısmen bulutlu', 'Bulutlu', 'Bulutlu', 'Bulutlu', 'Bulutlu', 'Bulutlu', 'Bulutlu', 'Bulutlu', 'Yağmur']	bulutlu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002585.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne yemek, zamanın bitmesini mi bekliyor?\
+	['cevaplanamaz', 'Spagetti', 'Spagetti', 'cevaplanamaz', 'cevaplanamaz', 'Spagetti', 'Spagetti', 'Gözlük', 'Yemek', 'Pizza']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002018.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Çiçekler', 'çiçek', 'Çiçekler', 'Çiçekler', 'çiçek', 'Çiçekler', 'bitkiler', 'Çiçekler', 'çiçek', 'İris']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003189.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu nesne nedir?\
+	['Çay', 'Çay', 'cevaplanamaz', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay', 'Çay']	çay
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003814.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şortlar ne renk ve desen?\
+	['Çerezli', 'Çizgi mavi sarı', 'Mavi turuncu yeşil', 'Mavi kahverengi beyaz kaval', 'Üstte mavi karikatür altta sarı karikatür', 'çok renkli', 'Mavi kahverengi beyaz kazaklı', 'Çerezli', 'Mavi kağıt', 'Mavi beyaz yeşil sarı renkli kazak']	ekmek rengi kareler
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003548.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne renk çantaydı?\
+	['yeşil', 'yeşil', 'Limon yeşil', 'durum yeşil renk', 'yeşil', 'yeşil', 'yeşil', 'yeşil', 'parlak yeşil', 'yeşil']	yeşil
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001626.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu normal bir kola mı, diyet mi?\
+	['Diyet kokain', 'Diyet', 'Diyet', 'Diyet', 'Diyet', 'Diyet', 'Diyet kokain', 'Diyet', 'Diyet kokain', 'Diyet']	diyet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003420.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Kalem', 'Klavye kalem', 'Kalem', 'Kalem', 'Kalem', 'Kalem', 'Kalem', 'Kalem', 'Kalem', 'BIC pen']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002868.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['lamba kutu pringles', 'lamba', 'lamba', 'lamba', 'Pringle CD lambasının yanında', 'gölge olmadan lamba', 'lamba', 'Masa pringles lamba ağız suyu', 'lamba', 'lamba']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000492.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu bilgisayar ne yapıyor?\
+	['Kontrol sistemi', 'cevaplanamaz', 'Disk kontrolü', 'Kontrol diski', 'cevaplanamaz', 'cevaplanamaz', 'yükleme', 'yapılandırma', 'tutarlılık kontrolü', 'Yeniden başlat']	cevap veremiyor.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002438.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir soda?\
+	['Diyet kokain', 'Dinle', 'Diyet kokain', 'Diyet kokain', 'Diyet kokain', 'Diyet kokain', 'Diyet kokain', 'Diyet kola limon', 'Diyet kokain', 'Diyet kokain']	diet coke
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000060.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bu kitabın temasını anlat.\
+	['Clive Cussler Dirk Cussler', 'cevaplanamaz', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'bilim', 'beklenti', 'Olive Cussler Dirk Cussler', 'eylem', 'cevaplanamaz', 'Clive Cussler']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002094.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir şarap?\
+	['cevaplanamaz', 'David Emma kırmızı şarap', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'cevaplanamaz', 'cevaplanamaz', 'Nash şarabı']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001210.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['yoğurt', 'cevaplanamaz', 'yoğurt', 'yoğurt', 'yoğurt', 'yoğurt', 'yoğurt', 'yoğurt', 'yoğurt', 'yoğurt']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000036.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kitabın adı ne?\
+	['Köpek yılları', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları', 'cevaplanamaz', 'Köpek yılları', 'cevaplanamaz', 'Köpek yılları', 'Köpek yılları', 'Köpek yılları']	dog years
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001757.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Sony dizüstü bilgisayarı', 'dizüstü bilgisayar', 'dizüstü bilgisayar', 'Bilgisayar', 'dizüstü bilgisayar', 'Sony Vaio dizüstü bilgisayarı', 'dizüstü bilgisayar', 'Sony Vaio', 'Sony dizüstü bilgisayarı', 'dizüstü bilgisayar']	vaio
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001606.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu bilgisayarın markasını merak ediyorum.\
+	['Sonny', 'Sonny', 'Sonny', 'Sonny', 'Sonny', 'Sonny', 'Sonny', 'Sonny', 'Sonny', 'Sonny']	sony
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003921.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun ne olduğunu söyleyebilir misin domates mi enchilada sosu mu?\
+	['Savaş', 'Arka etiketinde yazılmamış.', 'cevaplanamaz', 'Domates', 'Domates', 'Domates', 'cevaplanamaz', 'Domates', 'Görüntü belirsiz', 'Domates']	Cevaplanamaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002148.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Puding', 'Puding atıştırmalıkları', 'Vanilya pudingi', 'Puding', 'Vanilya pudingi', 'Puding', '6 paket atıştırmalık paket vanilya pudingi', 'Puding bardakları', 'Puding', 'atıştırmalık paket pudingi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004119.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['20 dolarlık Kanada banknotu.', '20 dolarlık Kanada banknotu.', '20 Kanadalı', 'para', 'Denta için para.', '20 kuruşlu.', 'para', '20 dolarlık Kanada banknotu', '20 dolar.', 'para']	20 kanada dolusu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001242.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Lasagne', 'Lasagne', 'özel lazanya', 'Lasagne', 'Özel lazan', 'özel lazanya', 'Lasagne', 'Lasagne', 'Lasanya', 'Lasagne']	lasagne
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003003.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne çeşit kahve?\
+	['Espresso', 'Espresso', 'Timothy Expresso', 'Yağmur ormanı espresso', 'Yağmur ormanı espresso', 'Espresso', 'Ekstra büyüklükte', 'Espresso Forest tropikal', 'Extra bold espresso for tropical (çok cesur bir espresso)', 'Timoteos']	rainforest espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000472.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu neyin resmi?\
+	['Klavye şarap bardağı', 'dizüstü bilgisayar', 'dizüstü klavyesi şarap bira', 'cevaplanamaz', 'Bilgisayar', 'Bilgisayar', 'Laptop içeceği', 'masanın üzerindeki dizüstü bilgisayar cam sıvının yanında', 'Laptop camı', 'Camdan dizüstü bilgisayar']	Açık bir dizüstü bilgisayarın yanında bir kadeh şarap.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002173.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['başlık kitabı', 'Kitap', 'broşür', 'Not:', 'Şeytan rom kolay para kitabı', \"Demon Rum kolay para: İngiliz Kolombiya'da hükümetin kontrolü içkiler\", 'Kitap', 'Kitap', 'başlık sayfası kitap', 'broşür']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000570.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Masanın üzerinde ne vardı?\
+	['Not defteri', 'Not kağıdı kalem diğer kağıtlar', 'spiral halkalı not defteri', 'Kağıt kalem', 'Not defteri', 'Not kalemi', 'Not defteri', 'Not kalemi', 'Kağıt kalem', 'Not defteri']	defter
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002964.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu gömlek ne renk?\
+	['Mavi beyaz kaval', 'Mavi beyaz', 'Mavi beyaz kaval', 'Mavi beyaz', 'Mavi', 'Mavi beyaz', 'Çizgi mavi beyaz', 'Mavi kağıt', 'Mavi', 'Mavi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003950.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Andre Chardonnay', 'Şampanya', 'Andre', 'Şampanya', 'Şarap', 'Şampanya', 'Şampanya', 'Şampanya', 'Şampanya şişesi', 'Şampanya']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001598.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Resimdeki konservedeki ürünün adı ne?\
+	['Lizole', 'Lizole', 'Lizole', 'Lizole', 'Lizole', 'Lizole', 'Lizole', 'Lizole', 'Lizole', 'Lizole']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003612.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne çeşit kahve?\
+	['Gevalia', 'Maksimum Gevalia Kafe', 'Maksim', 'Gevalia espresso', 'Maksim', 'Kara kahve', 'Maksim', 'cevaplanamaz', 'Gevalia', 'Gevalia']	espresso
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003078.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['Dr. biber', 'Kavanoz, biberli soda', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Soda biber', 'Dr. biber', 'Kavanoz, biberli soda', 'Dr. biber']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001646.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun ne olduğunu söyler misiniz lütfen? Teşekkür ederim.\
+	['Instant kahve', 'Instant kahve', 'Klasik kahve', 'Kahve paketi', 'cevaplanamaz', 'Kahve', 'Kahve', 'Kafe tozu', 'Kahve', 'Nescafe klasik']	kahve
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001976.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Soldan sağa üç telin rengi nedir?\
+	['Kırmızı siyah beyaz', 'Kırmızı siyah beyaz', 'Kırmızı siyah bronzluk', 'Kırmızı siyah beyaz', 'Kırmızı siyah beyaz', 'Kırmızı siyah beyaz', 'Kırmızı siyah beyaz', 'Kırmızı siyah beyaz', 'Kırmızı mavi beyaz', 'Kırmızı siyah beyaz']	Kırmızı, siyah ve beyaz.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004143.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu hamilelik testi ne gösteriyor?\
+	['1 satır', 'negatif', 'negatif', 'Bir çizgi ama boya yayıldı başka bir deneyin', 'cevaplanamaz', '1 çizgi', 'Hiç resim yok.', 'Kırmızı çizgi', 'cevaplanamaz', 'Mavi işaret kırmızı işaret']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002365.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu baharatın adı ne?\
+	['Bayan taze limon biber karışımı', 'Düz', 'Bayan Dash.', 'Bayan Dash limon biber', 'Bayan Dash.', 'Bayan Dash.', 'biber', 'Bayan Dash.', 'Bayan Dash.', 'Bayan Dash.']	mrs dash
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001409.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Sağ elimdeki şişede ne tür bir içecek var?\
+	['Pepsi', 'Pepsi soda', 'Diyet pepsi', 'Diyet pepsi', 'Diyet pepsi', 'Pepsi', 'Diyet pepsi', 'Pepsi diyeti', 'Diyet pepsi', 'Diyet pepsi']	pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003918.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Video oyunu', 'Video oyunu', 'Basketbol oyunu', 'Video oyunu', 'cevaplanamaz', 'DVD', 'cevaplanamaz', 'oyun', 'Video oyunu', 'DVD']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002140.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['ketçap', 'ketçap', 'Heinz domates ketçap', 'Ketçap paketi', 'Ketçap paketi', 'ketçap', 'ketçap', 'Ketçap paketi', 'ketçap', 'ketçap']	kechup
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000803.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu gömlekte hangi renkler var?\
+	['Kırmızı beyaz', 'Kırmızı', 'Kırmızı beyaz', 'Kırmızı beyaz çizgiler', 'Kırmızı beyaz çizgiler', 'Kırmızı beyaz', 'Kırmızı beyaz', 'Kırmızı beyaz', 'Kırmızı beyaz', 'Kırmızı beyaz']	kırmızı beyaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002271.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu pakette ne var?\
+	['parlamento resmi', 'müzik albümü', 'Sigaralar', 'Sigaralar', 'Sigaralar', 'Sigaralar', 'Pahament içe çekilmiş filtreler', 'Parlamento sigaraları', 'kartlar', 'Sigaralar']	parlament sigara
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003874.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu paspas ne renk?\
+	['mor', 'mor', 'mor', 'mor', 'mor', 'mor', 'mor', 'mor', 'mor', 'mor']	mor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000090.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu resimde diyalog daha mı görünür?\
+	['Sıkıldım.', 'Evet, evet.', 'Hayır', 'Evet, evet.', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Evet, evet.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001766.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ürün nedir?\
+	['yeşil fasulye', 'yeşil fasulye', 'yeşil fasulye', '- Yapabilir .', 'Fasulye', 'bezelye', 'cevaplanamaz', 'yeşil fasulye', 'fg', 'cevaplanamaz']	konserve
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003027.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutu ne?\
+	['Domuz fasulyesi', 'Domuz fasulyesi', 'Domuz eti ve fasulye', 'Domuz fasulyesi', 'Domuz fasulyesi', 'Domuz fasulyesi', 'Domuz fasulyesi', 'Domuz fasulyesi', 'Domuz fasulyesi', 'Domuz fasulyesi']	domates soslu domuz fasulye
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002690.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şarap da ne?\
+	['cevaplanamaz', '- Evet.', '2008 yılının ürünleri Nash', 'Nash', 'Nash', 'Düğün hediyesi', 'Nash evliliği kutluyor David Emma 16 Temmuz 2011', 'Nash', 'Nash', 'kutlama evlilik']	16.7.2011'de david & emma'nın düğününü kutlayan the nash vintage.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003531.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir yemek?\
+	['Domates sosu', 'Domates sosu', 'Organik domates sosu', 'Domates sosu', 'Domates sosu', 'Domates sosu', 'Muir Glen organik domates sosu', 'Domates sosu', 'Muir Glen organik domates sosu', 'Tomoto']	domates sosu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003588.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tadı?\
+	['Çilek', 'Çilek', 'Çilek', 'Çilek', 'Çilek', 'Çilek', 'Çilek', 'Çilek', 'Çilek', 'Çilek']	çilek
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002949.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun rengini söyler misiniz?\
+	['siyah', 'siyah', 'siyah', 'siyah', 'siyah', 'siyah', 'siyah', 'siyah', 'siyah', 'siyah']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002825.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu?\
+	['bitki', 'dekoratif bitki', 'aloe', 'ev bitkisi', 'ev bitkisi', 'ev bitkisi', 'bitki', 'ev bitkisi', 'bitki', 'çim bitkisi']	bitti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001294.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['dergi', 'çizgi roman', 'çizgi roman', 'Yetişkinler için masa oyunu', 'dergi', 'Renkleyici', 'Tuhaf bir Noel kitabı', 'O dili okuyamayacağıma emin değilim.', 'Noel kutlama kartları', 'çizgi roman']	merry christmas
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002945.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Tavuk Dijon yemeği', 'Yemek', 'tavuk dijon', 'tavuk dijon', 'tavuk dijon', 'Yemek', 'tavuk dijon', 'tavuk', 'tavuk dijon', 'tavuk dijon']	tavuk dijon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003398.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne çeşit kahve?\
+	['Gevaliaa', 'Gevalia', 'Fransız vanilyası', 'Fransız vanilyası', 'Gevaliaa', 'Gevaliaa', 'Fransız vanilyası', 'Fransız vanilyası', 'Fransızca', 'Gevaliaa Fransız vanilya']	gevalia
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002190.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu nesne nedir?\
+	['iphone', 'telefon', 'telefon', 'iphone', 'Cep telefonu', 'Cep telefonu', 'cep telefonu', 'Telefon ediyorum.', 'akıllı telefon', 'akıllı telefon']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003031.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['cevaplanamaz', 'Sigaralar', 'Paket sigara', 'Sigaralar', 'Paket sigara', 'Sigaralar', 'Sigaralar', 'cevaplanamaz', 'Sigaralar', 'Sigaralar']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001513.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tadı?\
+	['Sığır eti', 'Sığır eti lezzetli', 'Sığır eti', 'Sığır eti lezzetli çorba', 'Sığır eti', 'Sığır eti tadı', 'Sığır eti lezzetli çorba', 'Sığır eti', 'Bu sığır eti tadı.', 'Sığır eti']	sığır eti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001786.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['büyük bardak', 'bir bardak', 'bir bardak', 'bir bardak', \"Togo Cup'u seviyor.\", 'bir bardak', 'Pop cup ve başka şeyler.', 'Styrofoam bardak', 'bir bardak', 'Bu bardak .']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003064.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu diyet Pepsi mi normal Pepsi mi?\
+	['Diyet pepsi', 'Diyet', 'cevaplanamaz', 'Diyet', 'Diyet pepsi', 'Diyet', 'Diyet', 'Diyet', 'Diyet pepsi', 'Diyet']	diyet pepsi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000890.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne yazıyor?\
+	['Avast yazılımı', 'Yerel sürücüleri taramak', 'Pencereler', 'hata mesajı', 'tarama', 'Avast yazılımı Windows XP tarıyor', 'Pencereler', 'cevaplanamaz', 'Windows XP', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000920.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen hangi ekranda olduğumu söyleyin? Başlatma menüsüne erişmeye çalışıyorum ve bir USB sürücüsünden başlatmaya çalışıyorum. Bakın bana hangi ekranın açık olduğunu ve hangi seçeneğin olduğunu söyleyebilir misiniz? \
+	['Aşağı okuna bir kez bas sonra USB için gir', 'HDD seçeneğinden başlatma menüsü', 'cevaplanamaz', '- Çizgi ruh hali.', 'Lütfen başlatma aygıtını seçin', 'Lütfen başlatma aygıtını seçin:', 'Lütfen başlatma cihazını seçin: pm st9250315as', 'Lütfen başlatma aygıtını seçin', 'ekran başlığı: lütfen başlatma aygıtını seçin okunu aşağı 1 noktaya taşıyın usb:usb disk pro', 'Lütfen başlatma aygıtını seçin']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003174.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun ne kadar lezzetli olduğunu söyleyebilir misin?\
+	['Diyet piper', 'Diyet piper', 'piper diyeti', 'Dr. biber', 'Diyet piper', 'Diyet piper', 'Diyet piper', 'kola', 'Diyet piper', 'Diyet piper']	dr pepper diyet
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003773.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir çorba?\
+	['sebze çorbası', 'progresso', 'ilerici', 'cevaplanamaz', 'progresso sebze', 'cevaplanamaz', 'sebze', 'progresso sebze', 'sebze', 'progresso']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000826.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir araba?\
+	['cevaplanamaz', 'Lincoln Crown Victoria', '4 kapılı bir sedan.', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'Chevrolet', 'Victoria tacı', 'cevaplanamaz', 'Ford']	sedan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001818.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kahve mi bu?\
+	['Gevalia', 'Gevalia', 'Gevalia', 'Gevalia İsviçre fındığı', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia', 'Gevalia']	kahve
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004044.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'El dezenfektan', 'germx', 'mikrop x el dezenfektan', 'mikrop x el dezenfektan']	germ x
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003491.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutu nedir?\
+	['Çorba', 'meyve', 'cevaplanamaz', 'cevaplanamaz', 'Çorba', 'cevaplanamaz', 'Çorba', 'cevaplanamaz', 'çekmece', 'Çorba']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001604.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne renk?\
+	['kahverengi', 'kahverengi', 'kahverengi', 'meşe kahverengi', 'kahverengi', 'kahverengi akçay', 'ahşap', 'kahverengi', 'kahverengi', 'kahverengi']	kahverengi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001700.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['cevaplanamaz', 'El', 'El', 'cevaplanamaz', 'El', 'El', '1 sağ el', 'El', 'El', 'El']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003975.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Çömlekçi ayarları ne?\
+	['bir bardak', 'yüksek', 'yüksek', 'yüksek', 'yüksek', 'yüksek', 'düşük', 'yüksek', 'yüksek', 'yüksek']	low
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000905.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun ne olduğunu söyleyebilir misin?\
+	['Körler için ürünler', 'cd', 'Ters cd', 'Kör disk için ürünler', 'cd', 'disk', \"CD'de kitap\", 'cd', 'Körler için cd ürünleri', 'James Herbert tarafından Mızrak DVD']	addres size cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000518.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu?\
+	['Bilgisayarlar, ekran klavye', 'monitör', 'Bilgisayar monitörü', 'Bilgisayar ekranı', 'Bilgisayar', 'Bilgisayar monitörü', 'Bilgisayar ekranı', 'masaüstü', 'Grafik', 'Grafik']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000069.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişeye ne yazıyor, söyleyebilir misin?\
+	['Sıcak vanilya şekeri', 'Şeker', 'Sıcak vanilya şekeri', 'Sıcak vanilya şekeri', 'Sıcak vanilya şeker vücut losyonu', 'Sıcak vanilya şekeri', 'Sıcak vanilya şeker vücut losyonu', 'Sıcak vanilya şekeri', 'Sıcak vanilya şeker vücut losyonu', 'Sıcak vanilya şekeri']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001007.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne var?\
+	['pencere kurulum ekranı', 'cevaplanamaz', 'Pencere kurmak', 'Windows durum ekranını yükle', 'Windows yükle', 'Pencere kurmak', 'Pencere kurulum talimatları', 'Pencere kurma ilerlemesi', \"Windows Info'yu yükle\", 'Pencereler']	bilgisayarın yüklüyor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002378.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['- Yapabilir .', '- Yapabilir .', 'cevaplanamaz', 'konserve fasulye', '- Yapabilir .', 'Fasulye', 'cevaplanamaz', 'Fasulye', 'Güve', 'Güve']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003028.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir içecek?\
+	['Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal', 'Portakal suyu']	portakal suyu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004270.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne tür bir patates var?\
+	['Çay', 'Neştea', 'Limonlu nestik', 'Buzlu çay', 'Neştea', 'Neştea', 'Neştea', 'Buzlu çay', 'Nestle buzlu çay', 'yuva']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003444.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu bir pepperoni pizza mı, pepperoni sosisi, süper, ne tür?\
+	['Pırasa', 'Pırasa', 'Pırasa', 'Pırasa', 'Pırasa', 'Pırasa', 'Evet, evet.', 'Pırasa', 'Mama cozzis pepperoni ince kabuklu', 'Pırasa']	thin pepperoni
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002110.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ortadaki bitkinin ne tür bir bitki olduğunu biliyor musun?\
+	['Hayır', 'çim', 'çim', 'çim', 'çim', 'çim', 'Hayır', 'Hayır', 'çim', 'ot']	iken
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002439.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['gözlükler', 'gözlükler', 'gözlükler', 'Gözlükler', 'Gözlük çiftleri', 'gözlükler', 'Gözlük çiftleri', 'gözlükler', 'Gözlük', 'Gözlük çiftleri']	hi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003654.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Burayı tarif et.\
+	['Ofis', 'Ofis alanı', 'Ofis', 'Ofis 2 masa dolabı 2 sandalye', 'Ofis', 'Ofis', 'Masalar siyah ofis sandalyeleri', 'Ofis masaları', 'Ofis 2 masası', 'Ofis']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001213.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Not defteri', 'Planlamacı', 'Kitap', 'Kitap', 'kart', 'Not defteri', 'Planlamacı', 'Not defteri', 'Lily Pulitzer , program spiral .', 'Not defteri']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002786.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Teddy ayı gülü', 'Ayı', 'Ayı', 'Ayı', 'Ayı', 'Ayı', 'Ayı', 'Ayı', 'Ayı', 'Ayı']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002750.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir baharat?\
+	['Soğan deniz tuzu', 'Soğan deniz tuzu', 'Soğan deniz tuzu', 'Soğan deniz tuzu', 'Deniz tuzu', 'Soğan tuzu', 'Soğan deniz tuzu', 'Soğan deniz tuzu', 'Soğan deniz tuzu', 'Soğan deniz tuzu']	soğuk deniz tuzlu soğan
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002798.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Diyet piper', 'Diyet piper', 'Diyet piper', 'Diyet piper', 'Dr. biber', 'Diyet piper', 'Diyet piper', 'Diyet piper', 'piper diyeti', 'Diyet piper']	diet dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002219.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu bardağın üzerinde ne resmi var?\
+	['çizgi film', 'çizgi film karakterleri', 'çizgi film', 'Kuşlara bakan adam', 'Adam tavuk', '- Adamım.', 'Karikatür adam', 'Çizim kuş adam ağaç ay', 'İnsan hayvanı', 'çizgi film']	kuşlar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000753.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Geriye dönün', '- Çocuk.', 'Adamın kafası', 'kişi', 'Birinin başının arkasına, omuzlarına.', 'Arka adam.', 'cevaplanamaz', 'gri gömlek', '- Çocuk.', 'Resim arka kişi']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002656.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Konuşmacı', 'Konuşmacı', 'Duvardaki hoparlör', 'Konuşmacı', 'Konuşmacı', 'Konuşmacı', 'Duvar hoparlörü', 'Konuşmacı', 'kedi ayağı', 'Konuşmacı']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000622.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Burada ne yazıyor?\
+	['Taksi numarası', 'Hiçbir şey.', 'Hiçbir şey.', 'telefon', 'Şehir taksi', 'makbuz', 'cevaplanamaz', '- Bu bir makbuz gibi.', 'çizgiler', 'Şehir taksi']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003574.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['New Orleans tarzı jambalaya karışımı', 'Jambalaya karışımı', 'Jambalaya karışımı', 'pirinç', 'Jambalaya', 'Jambalaya karışımı', 'Jambalaya karışımı', 'Jambalaya pirinci', 'New Orleans tarzı jambalaya pirinci için kutu hazırlanmış karışım', 'Jambalaya karışımı']	jambalaya karışımı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000820.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Mac'im ne renk?\
+	['Gümüş', 'Beyaz', 'Beyz siyah', 'Beyaz', 'Gümüş', 'Gümüş', 'Gümüş', 'Gümüş', 'Beyaz', 'Gümüş']	gri
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001617.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Kutunun içinde ne var?\
+	['Organik pişmiş fasulye', 'Pırlanta fasulyesi', 'Organik pişmiş fasulye', 'Pırlanta fasulyesi', 'Pırlanta fasulyesi', 'Pırlanta fasulyesi', 'Pırlanta fasulyesi', 'Pırlanta fasulyesi', 'Pırlanta fasulyesi', 'Pırlanta fasulyesi']	çörek
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004234.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Makaron peyniri', 'cevaplanamaz', 'Makaron peyniri', '3 peynirli makarna', 'Makaron peyniri', 'Mac peyniri', 'Makaron peyniri', 'Yemek', 'Pasta ve peynir', 'Kabuklı peynir']	makarna ve peynir
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003724.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Zatarins New Orleans tarzı jambalaya karışımı', 'Jambalaya karışımı', 'Jambalaya karışımı', 'Jambalaya karışımı', 'Jambalaya karışımı', 'pirinç', 'zatarains jambalaya karışımı', 'Jambalaya', 'zatarains jambalaya karışımı', 'Jambalaya karışımı']	jambalaya karışımı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003716.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şey de ne?\
+	['Kaliteli sokak şekerleri', 'Şeker kutuları', 'Şeker', 'Şeker', 'sert şeker', 'Şeker', 'Şeker', 'Şeker', 'Kaliteli sokak', 'Şeker']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003022.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Affedersiniz, bana bu resimde tam olarak ne gördüğünüzü söyleyin.\
+	['buzdolabı', 'buzdolabı', 'buzdolabı', 'küçük buzdolabı kurşun tepsisi , buzdolabı üzerindeki duvar sapı çıkartması', 'buzdolabı', 'mini buzdolabı', 'mini buzdolabı', 'Dolap kapıları', 'Beyaz buzdolabı', 'buzdolabı']	buzdolabı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000908.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kutuda ne yazıyor, söyleyebilir misin?\
+	['Sevimli torunlar.', 'Nefis torunlar hakkında bir şey.', 'Çok güzel .', 'Torunlardan daha güzel bir şey yok .', 'Kucağında kavga eden torunlardan daha güzel şeyler var.', 'Sevimli torunlar.', 'Sevimli torunlar.', 'Kucağında kavga eden torunlardan daha güzel şeyler var.', 'cevaplanamaz', 'Sevimli torunlar.']	hiçbir şey yazamıyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003722.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Gökyüzü nasıl görünüyor?\
+	['Açık', 'Gün batımı, gün doğumu', 'Mavi', 'Akşam', 'Mavi', 'Açık', 'Açık', 'Sakin ol.', 'Açık mavi', 'Mavi açık mavi ufuk yakın']	havadaki mavi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001556.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu gömlek ne renk?\
+	['Kırmızı', 'kahverengi', 'Kırmızı', 'Beyz', 'Beyz', 'pembe', 'kahverengi', 'Kırmızı', 'Altın', 'gri renk']	kahverengi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000659.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Kız mı, erkek mi?\
+	['cevaplanamaz', '- Çocuk.', '- Çocuk.', 'Kızım', '- Çocuk.', '- Çocuk.', '- Çocuk.', '- Çocuk.', '- Çocuk.', '- Çocuk.']	Cevaplanamaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002584.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bunun ne olduğunu söyleyebilir misiniz?\
+	['Tahıl', 'Şerefliler', 'Tahıl', 'Şerefliler', 'cevaplanamaz', 'Tahıl', 'Bal şekerleri', 'Şerefler şimdi daha lezzetli bal', 'tatlı', 'tatlı']	i cant see full image
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002408.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne renk?\
+	['Çizgi kırmızı sarı beyaz mavi', 'Çerezli', 'yeşil mavi beyaz kırmızı kazaklı', 'çok renkli', 'solgun', 'Çerezli', 'Mavi yeşil beyaz kırmızı', 'Çerezli', 'Mavi beyaz yeşil kazaklı', 'Mavi yeşil kırmızı beyaz']	yeşil mavi turuncu beyaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002524.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Sıcak kakao', 'Sıcak kakao karışımı', 'Sıcak kakao karışımı', 'Sıcak kakao karışımı', 'kakao karışımı', 'Sıcak kakao', 'Sıcak çikolata', 'Sıcak çikolata karışımı', 'Sıcak çikolata paketi', 'Sıcak çikolata']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001772.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['cevaplanamaz', 'Hamm özel hafif bira', 'Bira', 'cevaplanamaz', 'cevaplanamaz', 'Bira', 'Bira', 'Bira', 'Bira', 'özel ışık']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004274.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu tavuk mu, seleri mi?\
+	['Domates', 'Domates', 'Domates', 'Domates', 'Hayır', 'Domates', 'Domates çorbası', 'Domates', 'Domates', 'Hayır']	campbells domates çorbası
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001407.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne yazıyor burada?\
+	['macbook pro', 'macbook pro', 'Mac Book Pro', 'macbook pro', 'Mac Book Pro', 'macbook pro', 'macbook pro', 'Airbook pro', 'macbookpro', 'macbook pro']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004268.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne olduğunu bilmek istiyorum.\
+	['Pırlanta fasulyesi', 'Pırlanta fasulyesi', 'Fasulye', 'Domates sosu içinde pişmiş fasulye', 'Çiftçi kız pişmiş fasulye', 'Pırlanta fasulyesi', 'Pırlanta fasulyesi', 'Fasulye', 'Pırlanta fasulyesi', 'Fasulye']	farmgirl fırında pişmiş fasulye domates sosunda.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001949.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['tavuk', 'cevaplanamaz', 'kremli parmesan tavuk', 'Yemek', 'Televizyon yemeği', 'Yemek', 'Mac peyniri', 'Yemek', 'Marie Collenders yemeği', 'kremli parmesan tavuk']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001343.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Dolarlık banknot', '1 dolarlık banknot', 'Dolar', '1 dolarlık banknot', '1', '1 dolarlık banknot', 'Dolarlık banknot', '1 dolarlık banknot', '1 dolarlık banknot', '1 dolarlık banknot']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004158.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['oyun kartları', '2 kral', 'Çift krallar', 'oyun kartları', 'kartlar', 'kartlar', 'oyun kartları', 'çift', 'kartlar', 'oyun kartları']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004005.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu siyah mı mavi mi?\
+	['cevaplanamaz', 'siyah', 'siyah', 'siyah', 'siyah', 'siyah', 'siyah', 'gri', 'siyah gri', 'siyah']	black
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000320.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne yazıyor?\
+	['Google arama metin kutusu', \"Google'a bak\", \"Google'a bak\", 'Google Google arama şanslı hissediyorum', \"Google'a bak\", 'Google arama', 'cevaplanamaz', \"Google'a bak\", \"Google'a bak\", 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001914.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['kızartılmış sığır eti', 'kızartılmış sığır eti', 'kızartılmış sığır eti', 'kızartılmış sığır eti', 'Yemek', 'kızartılmış sığır eti', 'kızartılmış sığır eti', 'kızartılmış sığır eti', 'Geleneksel kızartılmış sığır eti', 'Geleneksel kızartılmış sığır eti']	tradional kızartma sığır eti
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002304.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir soda?\
+	['Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber', 'Dr. biber']	dr pepper
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004134.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Televizyon uzaktan kumandası', 'uzaktan kumanda', 'uzaktan kumanda', 'uzaktan', 'uzaktan kumanda', 'uzaktan', 'uzaktan kumanda', 'uzaktan kumanda', 'uzaktan', 'uzaktan kumanda']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001171.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['ev bitkisi', 'bitki', 'ev bitkisi', 'bitki', 'bitki', 'bitki', 'bitki', 'Kaplı bitki', 'bitki', 'ev bitkisi']	bitki
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003923.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şey de ne?\
+	['Masa', 'Bilgisayar', 'Masa', 'Masa', 'Masa', 'Masa', 'Bilgisayar masası', 'Masa', 'Masa', 'Masaüstü bilgisayarı açık']	resim yok
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002166.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Masamda ne var?\
+	['iPod Touch', 'Uygulamalar', 'telefon', 'Akıllı telefon kağıtları', 'Akıllı telefon kağıtları', 'telefon', 'telefon', 'telefon', 'Cep telefonu', 'telefon']	telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001082.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Neyi ve neyi fotoğrafladım?\
+	['ipad', 'Fotoğraf iPad kahve çantası yanında', 'tablet', 'ipad', 'Hulu giriş ekranı', '- Hüluplus', \"Hulu Plus' u gösteren tablet\", 'tablet hulu plus giriş', 'Huluplus ekranı', 'tablet üzerinde hulu artı için giriş ekranı']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001652.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişe de ne?\
+	['Şampuan', 'Şampuan', 'cevaplanamaz', '- Üçlü', 'Sevgili kızım.', 'cevaplanamaz', 'tresemme saç bakımı', 'Şampuan', 'Parfüm', 'Tresemme şampuanı']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003834.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne model?\
+	['Soda', '- Çılgın', 'Soda şişesi', '- Çılgın', 'cevaplanamaz', 'Sprite soda', '- Çılgın', 'Sprite şişesi', 'cevaplanamaz', '- Çılgın']	sprite
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002771.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ürün nedir?\
+	['Çek karışımı', 'Çek karışımı', 'Çek karışımı', 'Chex Mix çedar', 'Çek karışımı', 'Çek karışımı', 'Şef karışımı', 'Çek karışımı', 'Çek karışımı', 'Çek']	cheddar karışımı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003572.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['tütsü hindi', 'tütsü hindi panini', 'tütsü hindi panini', 'Hindi panini', 'tütsü hindi panini', 'tütsü hindi panini', 'Doldurma', 'Panini', 'tütsü hindi', 'tütsü hindi panini']	füme hindi ve panini
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000974.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ödülü kazanmak için hangi harfleri yazmalıyım?\
+	['Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg']	mvg
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003630.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir kutu?\
+	['Domates', 'sos', 'Domates', 'ezilmiş domates', 'teneke', 'Domates', 'Domates', 'konserve domates', 'Domates', 'Domates']	domates
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002991.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir Keurig bardağı?\
+	['Donut ev', 'Kahve', 'kutu', 'Donut', 'Donut House koleksiyonu', 'Donut', 'Donut', 'Donut Hut koleksiyonu', 'Donut deliği', 'Donut hole koleksiyonu']	donut
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000270.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bu kitabın adını söyleyin.\
+	['Aybaşı şafağı', 'cevaplanamaz', 'Yazar Clive Cussler Dirk Cussler', 'Sadece yazarların isimleri gösterilmiyor', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003698.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['para', 'para', '20 dolarlık.', 'para', '20 dolar .', '20 dolar .', '20 dolar .', 'Yirmi dolarlık banknot', '20.00 fatura', '20 dolarlık.']	para
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004072.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şampuan mı yoksa vücut yıkama mı?\
+	['Losyon', 'vücut losyonu', 'Losyon', 'vücut losyonu', 'Parlak vücut losyonu', 'vücut losyonu', 'vücut losyonu', 'Losyon', 'vücut losyonu', 'vücut losyonu']	vücut yıkama
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002239.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu fotoğrafta ne var?\
+	['krakerler', 'kutu krakerleri', 'kraker kutusu', 'kraker kutusu', 'krakerler', 'krakerler', 'krakerler', 'krakerler', 'krakerler', 'krakerler']	krem peynirli krakerler
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001218.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu resim de ne?\
+	['telefon', 'macbook pro', 'macbook pro', 'Bilgisayar monitörü', 'cevaplanamaz', 'dizüstü bilgisayar', 'Bilgisayar', 'macbook pro', 'Macbook Pro ekranı', 'dizüstü bilgisayar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003426.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Su', 'Su', 'Doğal kristal su', 'Doğa kristal su', 'Su şişesi', 'Su şişesi', 'Su şişesi', 'Su', 'Su şişesi', 'Su']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003996.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir pizza?\
+	['Pırasa', 'Anneciğim.', 'Annemin tatlısı ince pizza.', 'Pırasa', 'Donmuş pizza', 'Pırasa', 'ince', \"Mama Cozzis'ten ince kabuklu biberon\", 'Annemin tatlısı ince kabuklu biberon.', 'Anneciğim.']	mama cozzis
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002427.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['tam mısır', 'mısır', 'mısır', 'mısır', 'Tam çekirdekli mısır', 'Tam çekirdekli mısır', 'mısır', 'Çok değerli yiyecekler', 'mısır', 'mısır']	tam mısır
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001243.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['fare', 'Bilgisayar fare', 'Bilgisayar fare', 'Bilgisayar fare', 'Bilgisayar fare', 'HP kablolu fare', 'Bilgisayar fare', 'PC fare', 'HP fare', 'fare']	resimde cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001455.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['Ofis', 'sandalyeler', 'Ofis', 'Ofis koltuğu', 'sandalye', 'Masa sandalyesi', 'Ev ofisi', 'Ofis', '2 masa sandalyesi', 'sandalye']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001008.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['televizyon', 'televizyon', 'televizyon', 'Eski televizyon monitörü', 'televizyon', 'televizyon', 'monitör', 'televizyon ekranı', 'televizyon', 'monitör']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001472.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Gömleğim ne renk?\
+	['siyah beyaz', 'Mavi beyaz siyah', 'siyah', 'Mavi', 'Donanma', 'Siyah beyaz amblemi', 'siyah beyaz', 'Mavi', 'Mavi', 'siyah beyaz']	lacivert
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004114.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne renk?\
+	['Kırmızı', 'Kırmızı', 'Kırmızı', 'Kırmızı', 'pembe', 'Kırmızı', 'Kırmızı', 'Kırmızı', 'Kırmızı', 'Kırmızı']	kırmızı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003750.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunlar normal cips mi yoksa tuzlu ve sirkeli mi?\
+	['Tuz', 'düzenli', 'düzenli', 'Normal çipler', 'düzenli', 'düzenli', 'cevaplanamaz', 'cevaplanamaz', 'düzenli', 'cevaplanamaz']	normal
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002757.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir karton, portakal suyu mu süt mü?\
+	['Portakal suyu', 'Portakal suyu', '- Hayır.', 'Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal suyu', 'Portakal', 'Portakal suyu', 'Kağıt karton portakal suyu']	portakal suyu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003290.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun ne olduğunu söyleyebilir misin?\
+	['Çipler', 'Çipler', 'Çipler', 'patates cipsi', 'patates cipsi', 'Soğanlı kremalı çikolatalar', 'Çipler', 'patates cipsleri', 'Çipler', 'patates cipsi']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004075.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu çantada ne var?\
+	['cevaplanamaz', 'Dondurulmuş sebzeler', 'sebze', 'havuç bezelye mısır yeşil fasulye', 'sebze', 'bezelye havuç mısır', 'Karışık sebzeler', 'sebze', 'Karışık sebzeler', 'mısır havuçlar, merhaba fasulye bezelye']	karıştırılmış sebzeler
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001379.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir Spark?\
+	['pembe limonata', 'pembe limonata', 'cevaplanamaz', 'pembe limonata', 'cevaplanamaz', 'pembe limonata', 'Portakal', 'Çilek', 'cevaplanamaz', 'pembe limonata']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003340.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir şey?\
+	['Manwich', 'cevaplanamaz', 'cevaplanamaz', 'Manwich', 'Manwich', 'Manwich', 'Domates', 'Manwich', 'Manwich', 'Ahmak Joe.']	konserve
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002924.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Hangi mevsimdeyiz?\
+	['Spagetti', 'Spagetti', 'Spagetti baharatı', 'Spagetti baharatı', 'Spagetti', 'Spagetti baharatı', 'Spagetti baharatı', 'Spagetti', 'Spagetti', 'Spagetti baharatı']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004251.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Kitap', 'dergi', 'dikey dergi', 'dergi', 'dikey dergi', 'dergi', 'dergi', 'Vertigo dergisi', 'dergi', 'dergi']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002583.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu nesne nedir?\
+	['Duvar', 'Duvar', 'Duvar', 'Duvar', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Duvar', 'Duvar', 'Duvar']	duvar
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001351.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Şeker', 'Çilek sert şeker', 'Şeker', 'Çilek sert şeker', 'Şeker parçası', 'Çilek şekerleri', '- Evet.', 'Çilek şekerleri', 'Şeker', 'Çilek sert şeker']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004074.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ayakkabılar ne renk?\
+	['kahverengi', 'siyah', 'kahverengi', 'kahverengi', 'kahverengi', 'kahverengi', 'kahverengi', 'ayak', 'kahverengi', 'Kırmızı']	kahverengi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000477.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Bilgisayar ekranı', 'web sayfası', 'cevaplanamaz', 'cevaplanamaz', 'web sitesi', 'Bilgisayar ekranı', 'Bilgisayar monitörü', 'Ürün', 'Vizwiz için pdf dosyası', 'vizwizpdf bulanık ama katılımcı bölümünü görebiliyorum']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001175.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu resim de ne?\
+	['monitör', 'dizüstü bilgisayar', 'televizyon', 'Bilgisayar', 'dizüstü bilgisayar', 'televizyon', 'düz ekran televizyonu', 'dizüstü bilgisayar ekranı', 'televizyon', 'cevaplanamaz']	Bilgisayar ekranı açık
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001673.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Cep telefonu', 'Cep telefonu', 'Çağırıcı', 'cevaplanamaz', 'telefon', 'Cep telefonu', 'Blackberry cep telefonu', 'Cep telefonu', 'Cep telefonu', 'Cep telefonu']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003262.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['buzdolabı', 'cevaplanamaz', 'buzdolabı', 'Yurt buzdolabı', 'buzdolabı', 'buzdolabı', 'buzdolabı', 'mini buzdolabı', 'Buzdolabı', 'mini buzdolabı']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001459.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kıyafetle birlikte hangi renkteki mücevherleri giymem gerekiyor?\
+	['Gümüş', 'Gümüş', 'Beyaz', 'Altın', 'siyah', 'Gümüş', 'Gümüş', 'Gümüş', 'Gümüş', 'Gümüş']	pembe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002499.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Bacak', 'kot pantolon', 'kalça', 'pantolon bacak', 'Kol kanepe', 'pantolon', 'Yastık', 'cevaplanamaz', 'Pantolon bacak', 'Bacak']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002879.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Köpek', 'cevaplanamaz', 'Köpek', 'Köpek', 'Köpek', 'Köpek', 'Köpek', 'Köpek', 'cevaplanamaz', 'Yere düşen köpek']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001244.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['uzaktan', 'uzaktan', 'uzaktan kumanda', 'televizyon kontrolörü', 'Televizyon uzaktan kumandası', 'uzaktan kumanda', 'uzaktan', 'uzaktan', 'uzaktan kumanda', 'uzaktan kumanda']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003815.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu muzlar yeşil mi sarı mı?\
+	['hafif yeşil', 'sarı', 'sarı', 'sarı', 'yeşil', 'sarı', 'sarı', 'sarı', 'sarı', 'sarı']	sarı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003389.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ürün nedir?\
+	['Tahıl', 'Kashi go yağsız, acı bal, badem keteni.', 'Kashi git zayıf kırıntısı', 'Golean crunch kashi', 'Tahıl', 'Git, zayıf kırık tahıl.', 'Git ve zayıf ol.', 'Kashi go yağsız, acı bal, badem keteni.', 'Tahıl', 'Tahıl']	go lean crunch
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002930.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Şu anda televizyon ekranında ne var?\
+	['Hiçbir şey.', 'Hiçbir şey.', 'Hiçbir şey yok .', 'Hiçbir şey.', 'Hiçbir şey.', 'Hiçbir şey.', 'Hiçbir şey.', 'Hiçbir şey.', 'cevaplanamaz', 'Hiçbir şey.']	boş
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001245.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['et', 'Sığır eti bifteği', 'Sığır eti', 'Paket biftek', 'et', 'et', 'cevaplanamaz', 'Sığır eti bifteği', 'biftek', 'et']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000139.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu mesajda ne yazıyor?\
+	['cevaplanamaz', 'Tamamen geri yükle', 'cevaplanamaz', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.', 'cevaplanamaz', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003569.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne tür bir yiyecek var?\
+	['Çorba', 'Progreso bahçe sebze çorbası', 'Bahçe sebze çorbası', 'sebze çorbası', 'Bahçe sebze çorbası', 'Bahçe sebze çorbası', 'Çorba', 'Progreso bahçe sebze çorbası', 'bahçe sebze', 'Bahçe sebze çorbası']	sebze
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003582.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['cevaplanamaz', '- Yapabilir .', 'Kırılmış bezelye çorbası', 'Kırılmış bezelye çorbası', 'Kırılmış bezelye çorbası', 'Kırılmış bezelye çorbası', 'Çorba', 'Erkek bezelye çorbasını bölüp yiyebilirsin.', 'Kırılmış bezelye çorbası', 'Çorba']	i dont know
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001475.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bir kanepe mi masadır?\
+	['Tablo', 'Tablo', 'Tablo', 'Tablo', 'Tablo', 'Tablo', 'Tablo', 'Tablo', 'Tablo', 'Bu masa.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002043.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne yemek var?\
+	['Ravioli', 'Ravioli', 'Ravioli', 'mısır', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli yiyeceği', 'Ravioli']	ravioli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000952.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne var?\
+	['hata mesajı', 'başlatma tamir bilgisayar yeniden başlatmak için pop-up', 'Yeniden başlat', 'Başlangıç tamirinden çıkmak istediğinizden emin olduğunuzu söyleyen iletişim kutusu bilgisayarınızı yeniden başlatın', 'Başlatma onarım', 'Windows güncelleme talimatları', 'cevaplanamaz', 'Başlatma onarım', 'Bilgisayarı yeniden başlatma seçeneği', 'Başlatma onarım']	\"cevaplanamaz\" yazan bir bilgisayar ekranı.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001388.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunu deneyelim, bana bunun ne olduğunu söyleyebilir misin?\
+	['Fasulye', 'Pırlanta fasulyesi', 'Fasulye', 'Pırlanta fasulyesi', 'Çalı fasulyesi', '- Yapabilir .', 'konserve fasulye', 'Çalı fasulyesi', 'Pırlanta fasulyesi', 'Fasulye']	i can't see recipe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001486.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir telefon, bana söyleyebilir misin?\
+	['- Evet.', '- Evet.', '- Evet.', '- Evet.', '- Evet.', '- Evet.', '- Evet.', 'android', '- Evet.', 'Evet, evet.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002126.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['akıllı telefon', 'Cep telefonu', 'Cep telefonu', 'telefon', 'Cep telefonu', 'Cep telefonu', 'Cep telefonu', 'akıllı telefon', 'telefon', 'telefon']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003508.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['dizüstü bilgisayar', 'El', 'dizüstü bilgisayar klavyesi', 'El', 'parmaklar', 'El', 'cevaplanamaz', 'cevaplanamaz', 'Masa', 'El']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001836.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['Cabernet 2009', 'Şarap', 'Şarap', 'Şarap', 'Cabernet Sauvignon', 'Şişe şarap', 'Şarap', 'Şarap', 'At cenneti, Columbia Cabernet 2007 şarabı', 'Şarap']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001962.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Şişede ne var?\
+	['Kokain', 'Soda pop belki de koka kola', 'Soda', 'Coca cola soda', 'Soda', 'Soda', 'Kokain', 'Soda', 'Kokain', 'Soda']	soda
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002030.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne renk lütfen?\
+	['Kırmızı beyaz çizgi', 'Kırmızı', 'Kırmızı beyaz çizgiler', 'Kırmızı beyaz çizgiler', 'Kırmızı beyaz', 'Beyaz kırmızı', 'gömlek', 'Kırmızı beyaz', 'Kırmızı beyaz', 'Kırmızı beyaz']	kırmızı beyaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002241.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu çantada ne var?\
+	['Brokoli', 'Brokoli', 'Brokoli', 'Brokoli', 'Brokoli', 'Ama brokoli.', 'Brokoli', 'kesilmiş brokoli', 'Buharla servis et, kesilmiş brokoli.', 'Brokoli']	kısmen kesilmiş brokoli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001737.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kupon ne için?\
+	['yoğurt', 'yoğurt', 'Yaplait yoğurt', 'Yaplait yoğurt 10 $', 'Yoplait', 'Yaplait yoğurt 10 $', 'Yaplait yoğurt', 'yoğurt', 'indirim', 'yoğurt']	yoplait
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002218.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir pop?\
+	['Neştea', 'konserve buzlu çay', 'limon', 'Limonlu nestik', 'Neştea', 'Neştea', 'Neştea', 'Neştea', 'Fiesta', 'Neştea']	nestea
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002109.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['ipad', 'tablet', 'Bilgisayar', 'ipad', 'fare desteği', 'dizüstü bilgisayar', 'Pencere', 'tablet', 'cevaplanamaz', 'ipad']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000511.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne var?\
+	['Sistem Yeniden Kurulumu kullanarak bilgisayarınızı geri yüklemek istiyor musunuz ?', 'hata mesajı', 'Bilgisayarınızı sistem geri yükleme ile geri yüklemek istiyor musunuz?', 'başlatma', 'Başlatma ödenmiş teşhis ekranı', 'Sistemleri geri yükleme sorusu: Bilgisayarınızı geri yüklemek için kullanmak ister misiniz?', 'Başlatma onarım', 'Başlatma onarım', 'Bilgisayarı geri yüklemek için soru', 'Bilgisayarınızı sistem geri yükleme ile geri yüklemek istiyor musunuz?']	system restore için bilgisayarın restorasyonunu istiyor musunuz?
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003691.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ve cevap vermen için çok teşekkür ederim.\
+	['- Çılgın', '- Çılgın', '- Çılgın', '- Çılgın', '- Çılgın', '- Çılgın', '- Çılgın', '- Çılgın', '- Çılgın', '- Çılgın']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000567.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne yazıyor?\
+	['Bilgisayarınızı sistem cd kullanarak geri yüklemek istiyor musunuz?', 'Geri getir', 'Sistem kullanarak bilgisayarınızı geri yüklemek istiyor musunuz?', 'Bilgisayarınız başlatamadı başlat onarım sorunları kontrol etmek için sisteminizi', 'Sistem kullanarak bilgisayarınızı geri yüklemek istiyor musunuz?', 'Başlatma onarım', 'Bilgisayarınız başlatılamıyor', 'Bilgisayarınız başlatılamadı başlatın onarım sistemini sorunlar için kontrol ediyor', 'Bilgisayar başlatılamadı', 'Geri getir']	yardımın olmadığı için cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003657.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['sebze', '- Yürü .', 'Karışık sebzeler', 'Asıl sebze', 'Karışık sebzeler', 'sebzeler', '- Yemek', 'sebze', 'sebzeler', 'Karışık sebzeler']	orijinal karıştırılmış sebzeler
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003310.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Resimde ne görebilirsin ? Resimde ne görebilirsin ?\
+	['Hiçbir şey.', 'Gökyüzü', 'Lavabo', 'Gökyüzü', 'cevaplanamaz', 'Gökyüzü', 'Hiçbir şey.', 'cevaplanamaz', 'cevaplanamaz', 'Gökyüzü']	Görüntü cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003159.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne tür bir soda?\
+	['Coca Cola', 'Coca Cola', 'Coca Cola', 'Coca Cola', 'Coca Cola', 'Coca Cola 0', 'Coca Cola 0', 'Kokse 0', 'Coca Cola 0', 'Coca Cola 0']	coca cola 0
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000946.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu nasıl bir sistem?\
+	['masaüstü', 'cevaplanamaz', 'Pencereler', 'Masaüstü bilgisayar', 'Pencereler', 'Pencereler', 'Pencereler', 'Windows PC', 'Pencereler', 'Pencereler']	microsoft
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002760.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu? - Ne oldu?\
+	['Konuşmacı', 'Konuşmacılar', 'Yer', 'Konuşmacılar', 'Yüksek sesli hoparlör sistemi', 'Konuşmacı', 'Konuşmacı', 'Konuşmacı', 'Konuşmacı', 'Konuşmacılar']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000688.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Dizüstü bilgisayarın ışığını mı izliyor?\
+	['Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Hayır', 'Evet, evet.']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003600.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişeye ne yazıyor, bana söyler misin?\
+	['Sıcak vanilya şeker vücut losyonu', 'Sıcak vanilya şekeri', 'Sıcak vanilya şekeri', 'Sıcak vanilya şekeri', 'Sıcak vanilya şeker vücut losyonu', 'Sıcak vanilya şekeri', 'Sıcak vanilya şeker losyonu', 'Sıcak vanilya şekeri', 'Sıcak vanilya şeker vücut losyonu', 'Sıcak şekerli vanilya']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000262.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bana kartın 1-800 numarasını söyleyebilir misiniz? Bu soruyu duyabiliyor musunuz?\
+	['1 800 735 2929 duyamıyorum', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', '18773289677', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 hayır', '18773289677 hayır', '1 877 328 9677', '8007352929 hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002995.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Odadaki ışıklar açık mı kapalı mı?\
+	['Işıklar söndü.', 'Kapatın', 'üzerinde', 'Kapatın', 'üzerinde', 'cevaplanamaz', 'üzerinde', 'üzerinde', 'üzerinde', 'üzerinde']	açık
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001847.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tadı?\
+	['kiraz', 'pembe limonata', 'Meyve ponç', 'pembe limonata', 'pembe limonata', 'cevaplanamaz', 'cevaplanamaz', 'pembe limonata', 'kiraz', 'pembe limonata']	pembe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000132.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu mesajda ne yazıyor?\
+	['Restorasyon tamamlandı.', 'cevaplanamaz', 'Başarılı bir şekilde restore edildi.', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.', 'Kayıt tamamlandı', 'Restorasyon tamamlandı.', 'Restorasyon tamamlandı.']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003451.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Gömleğim ne renk?\
+	['Beyaz', 'Beyaz', 'Beyaz', 'Beyaz', 'Beyaz', 'Beyaz', 'Beyaz', 'Beyaz', 'Beyaz', 'Beyaz']	beyaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003071.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['gelişmiş renk terapisi şampuanı', 'Şampuan', 'gelişmiş renk terapisi şampuanı', 'Şampuan', 'Renk terapi şampuanı', 'Şampuan', 'Renk terapisi', 'Şampuan', 'El sallama ileri renk terapisi', 'Renk terapisi']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002646.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['kutular', 'Kediler için yiyecek', 'cevaplanamaz', 'Lavabo', '- Yapabilir .', 'Lavabo', 'yıkama', 'Lavabo', 'Lavabo', '- Yapabilir .']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001208.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir video oyunu?\
+	['espn nfl 2k', 'Futbol', 'Nfl 2k', 'Espn nfl 2k5', 'espn 2k5', 'Espn 2k futbol', 'Nfl 2k', 'Futbol', 'Nfl 2k', 'Futbol']	video oyunu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003370.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Panini', 'Panini', 'tütsü hindi panini', 'tütsü hindi panini', 'tütsü hindi panini', '- Sıvı hindi panini.', 'Hindi panini', 'cevaplanamaz', 'tütsü hindi panini', 'tütsü hindi panini']	füme hindi ve panini
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002112.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Lasagne', 'Dondurulmuş yemek', 'özel lazanya', 'özel lazanya', 'Lasagne', 'özel lazanya', 'Lasagne', 'Lasagne', 'Lasagne', 'Lasagne']	telefon
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001905.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu nesne nedir?\
+	['Doğa vadisi yulafları koyu çikolatali granola çubuğu', 'Kırık çubuğu', 'Granola barı', 'Granola barı', 'Granola barı', 'Granola barı', 'Doğa vadisi yulafları ve koyu çikolata çubuğu', 'Yulaf ve koyu çikolatalı kırmızımsı bar', 'Koyu çikolatalı bir çikolata çubuğu', 'Granola barı']	nature valley granola barı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002878.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['Video oyunu', 'Playstation 2 oyunu', 'PlayStation 2 Star Wars Savaşları Savaş Sahnesinde Oyun', 'Oyun oynamak için istasyon Star Wars oyunu', 'Video oyunu', 'Video oyunu', 'Star Wars Savaşları 2', 'oyun', 'Playstation 2 oyunu', 'Psi oyunu']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002343.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu bir çeşit kahve arkadaşlığı mı?\
+	['Fransız vanilyası', 'Fransız vanilyası', 'Fransız vanilyası', 'yuva', 'Vanil', 'Fransız vanilyası', 'Kahve arkadaşım.', 'Fransız vanilyası', 'Fransız vanilyası', 'Fransız vanilyası']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003471.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['Portakal suyu', 'Meyve suyu', 'Meyve suyu', 'Portakal suyu', 'Meyve suyu', 'pürüzsüz, sulu', 'Yumuşak ve sulu', 'Meyve suyu', 'Portakal suyu', 'Meyve suyu']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001990.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu küpedeki taşlar ne renk?\
+	['pembe', 'Kırmızı', 'Kırmızı', 'pembe', 'mor', 'pembe', 'pembe', 'pembe', 'pembe', 'pembe']	pembe
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000268.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu elektronik cihazın etiketinde ne yazıyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000788.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Eğer okuyabiliyorsanız, bu ekran tam olarak ne söylüyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Ekranı okuyamıyorum.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Okuyamıyorum .', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001729.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişede ne var?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Losyon', 'Vitaminler', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Emin değilim .', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004032.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu enerji çubuğu ne tadında?\
+	['Çilek', 'Meyve badem krunç', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'elma kırışığı', 'cevaplanamaz', 'cevaplanamaz', 'Meyve badem krunç']	çilek
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003843.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne yazıyor burada?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Dikkatli ol.', 'n', 'cevaplanamaz', 'cevaplanamaz', 'haberler', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001578.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir yemek?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002795.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir radyo olduğunu anlamaya çalışıyorum. Kendi telsizim için bilgi alabilirsem çok iyi olur.\
+	['Bilmiyorum .', 'cevaplanamaz', 'cevaplanamaz', 'Evde IP9 hoparlör dokusu olabilir.', 'cevaplanamaz', 'jambon', 'cevaplanamaz', 'taşınabilir', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000607.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Özür dilerim, nasıl yapacağımı bilmiyorum ama daha önce hiç böyle bir şeyi fotoğraflamadım.\
+	['Biraz daha uzaklaşın böylece kamera odaklanır.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002998.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunlardan hangisi en iyi film?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'basit']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001689.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['Bu kaydırma', 'pembe', 'cevaplanamaz', 'mor', 'cevaplanamaz', 'cevaplanamaz', 'parıltı', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002528.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu losyonun adı ne?\
+	['cevaplanamaz', 'Noxema', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001442.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne zaman geçerli olacak?\
+	['9.27.13', 'cevaplanamaz', 'cevaplanamaz', '23 Eylül 2013', '23 Eylül 2013', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '23 Eylül 2013', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003284.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunu ne kadar pişireceğim?\
+	['cevaplanamaz', 'cevaplanamaz', '5 dakika.', 'cevaplanamaz', 'cevaplanamaz', '5 dakika.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	5 dk
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003616.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['Klinex', 'Köşe', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'telefon', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003229.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002782.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şarkı da ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Fotoğraftaki böcek', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'böcek']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000365.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Pencerelerin altında sistem otomatik olarak tamir edilemez mi diyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Başlatma onarım bu bilgisayarı otomatik olarak onaramaz', 'cevaplanamaz', 'başlatma', 'başlatma onarım bu bilgisayarı otomatik olarak onaramaz', 'cevaplanamaz']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004049.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu paket ne kadar sodyum içeriyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Samoalar', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000180.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda restorasyon yapılıyor mu diyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	restorasyon yapılıyor
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002736.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne perdesini?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Çalışmaya devam et.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	beynin içinde
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001850.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu arabulucunun adı ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '0', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004101.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Rengi ne?\
+	['Kırmızı beyaz', 'cevaplanamaz', 'Beyaz', 'Beyaz', 'cevaplanamaz', 'Kırmızı beyaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	blurry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001276.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen yönlendiricimin etiketinin ne dediğini açıkla. Teşekkür ederim.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000109.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu otobüs kartının son tarihi nedir?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	08 06 2009
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000424.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Söyle yeter.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '- Biliyorum.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001122.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne diyor, bu ne diyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'satırlar sütunlar bulanık sayılar', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003893.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Saat kaç? - Saat kaç?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'kamera renderleme saatinde yanıp sönen okunamadı', 'Görünmez', 'cevaplanamaz', 'cevaplanamaz', 'Söylemem.', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003977.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şampuanın kullanım talimatlarını söyler misiniz? teşekkürler.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'EDFCFD', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000088.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Yeniden başlamak için basmam gereken bir düğme var mı yoksa bekleyecek miyim?\
+	['Sistem özeti', 'cevaplanamaz', 'Evet, evet.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'Hayır', 'Bekle .', 'Bağla .']	bekleyecek
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001430.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Eğer kart bu resimde gösteriliyorsa, ne diyor?\
+	['cevaplanamaz', 'gösterilmiyor', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Kelimeler yok .', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003897.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Test mi?\
+	['cevaplanamaz', 'cevaplanamaz', 'uzaktan', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Etraf ses uzaktan', 'Bu soru resme uygulanmıyor.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000181.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Gerçek bir kelime oyunu.\
+	['cevaplanamaz', 'Bilinmeyen', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevaplanamaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000829.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bir Captcha ile uğraşıyorum ama ekrandan bir şey göremiyorum ve bir web sitesinden bir şey istemek için buna ihtiyacım var. Captcha'nın ne olduğunu söyleyebilir misiniz?\
+	['Hayır 1', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'Hayır']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003008.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. On Emrin ne olduğunu biliyorum ama on emir nedir?\
+	[\"Tanrı'nın inananlara verdiği kuralları belirledi.\", 'cevaplanamaz', 'cevaplanamaz', 'ahlak kuralları', 'cevaplanamaz', \"Tanrı'nın emirleri\", 'cevaplanamaz', 'cevaplanamaz', 'yasalar', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003414.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bilgisayar ekranım ne diyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Çok bulanık', 'boş ekran']	blurry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002818.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne biçim bebek formülü?\
+	['cevaplanamaz', 'cevaplanamaz', 'Bebek sütü göremiyorum.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	Cevaplanamaz.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001493.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ilaç nedir?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000863.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne kart?\
+	['cevaplanamaz', 'kırmızı kredi kartı', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Kredi kartı', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003968.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kartta ne yazıyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Sadece 1 6 12 görünür', 'cevaplanamaz', 'Hiçbir şey.', 'cevaplanamaz', '1 6 12', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002772.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['sabun', 'Ürün', 'cevaplanamaz', 'süt', 'cevaplanamaz', 'cevaplanamaz', 'Göz damlası', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003219.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Tamam, bu ne tür bir et?\
+	['Jack bağlantıları', 'ds', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Sığır eti', 'cevaplanamaz', 'Sığır eti', 'cevaplanamaz', 'cevaplanamaz']	proteinli
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000423.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu hediye kartı ne için?\
+	['cevaplanamaz', 'cevaplanamaz', 'Çözülmez bir imaj', 'cevaplanamaz', 'Söylemem.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003007.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür konserve?\
+	['Limon', 'cevaplanamaz', 'Limon', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Limon', 'cevaplanamaz', 'Limon']	lime
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002057.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Saat kaç? - Saat kaç?\
+	['cevaplanamaz', '532', 'cevaplanamaz', 'cevaplanamaz', 'Saat 5:13', 'Saat 5:13', 'cevaplanamaz', 'Saat beş, on iki.', 'cevaplanamaz', 'cevaplanamaz']	12:15
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002579.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['Söylemem.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001939.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bana normal fırın sıcaklığının ne olduğunu ve kaç dakika süreceğini ve kapağı delmem gerektiğini söyleyebilir misiniz?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'ASDD', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001830.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Fırın hazır gibi görünüyor mu?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Fırın değil.', 'cevaplanamaz', 'cevaplanamaz', 'Evet , sanırım hazır .', 'Hayır', 'cevaplanamaz']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000490.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu hiç yardımcı oldu mu?\
+	['cevaplanamaz', 'cevaplanamaz', 'Hayır', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000757.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Yazılacak kod nedir?\
+	['cevaplanamaz', 'e-posta', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001916.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne tür bir gömlek giyiyorum?\
+	['cevaplanamaz', 'ipek', 'cevaplanamaz', 'cevaplanamaz', 'Beyaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002606.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu nasıl dondurulmuş bir yemek?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003248.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne yazıyor burada?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'resim boş', 'Hiçbir şey.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001574.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne marka?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Sanyo', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002505.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Fırının sıcaklığı ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Gfdsg', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003709.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen şişede ne olduğunu söyleyebilir misin?\
+	['Domates sosu', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Makarna sosu', 'cevaplanamaz', 'cevaplanamaz', 'Domates sosu', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000166.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne yazıyor burada?\
+	['cevaplanamaz', 'azitromisin tabletleri 250 mg', 'tabletler', 'cevaplanamaz', 'cevaplanamaz', '250 mg', 'Azitromisin tabletleri', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002894.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu sözleri okuyabilir misin lütfen?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'Hiçbir şey .']	çimenli bir alanın resmi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000402.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu Valium mu?\
+	['Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'ilacın adını okuyamıyor']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001793.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne şarkı böyle?\
+	['cevaplanamaz', 'cevaplanamaz', 'notalar', 'cevaplanamaz', 'albüm', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Çınlama çınlama', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001293.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Evet bu bir HP dizüstü bilgisayar, kart okuyucuyu klavyeden ayırt etmem gerekiyor.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Yan tarafta', 'cevaplanamaz', 'Kart okuyucu göremiyorum. SD kart okuyucu genellikle sol köşede ön kenarda.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001854.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Parfümün adı ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'İsim yok .', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000550.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir RAM?\
+	['cevaplanamaz', 'O444', 'cevaplanamaz', 'cevaplanamaz', 'DDR3200 sdram', '- Bilmiyorum.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'DDR']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002535.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Anlıyorum ama beyaz kamyonun arkası çürük görünüyor mu?\
+	['cevaplanamaz', 'Hayır', 'Ön taraftan görüntüde olağandışı bir şey göremiyorum.', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'n0', 'cevaplanamaz', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003381.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir çorba?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'tavuk', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000006.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Dizüstü bilgisayar ekranında ne görüyoruz?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003639.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne lütfen?\
+	['cevaplanamaz', 'Çorba', 'Çorba', 'konserve çorba', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Çorba', 'cevaplanamaz']	i can't see the back of the can
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002951.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['Halı', 'Kağıt havlular', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Kağıt havlu', 'cevaplanamaz', 'cevaplanamaz']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002619.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunlar ne tadı?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'düzenli', 'Asıl', 'cevaplanamaz', 'Dönün .', 'peynir', 'resimli']	pringles
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000244.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu üç resmiden hangisi Google logosu?\
+	['cevaplanamaz', '0', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'İlk resim', 'soldan']	third
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000907.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['cevaplanamaz', 'emin değilim', 'bulanık', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Etiket', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003410.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Burada eksik bir taş var mı?\
+	['cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Yetersiz görüntü kalitesi', 'cevaplanamaz', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002150.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne marka kolonya bilmek istiyorum.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004222.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu peynirin son kullanma tarihi nedir?\
+	['- Hayır.', 'okunamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003266.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Termostat ne kadar sıcaklıkta ayarlanmış?\
+	['cevaplanamaz', 'cevaplanamaz', '75', 'cevaplanamaz', '75', 'cevaplanamaz', '75', '75', 'cevaplanamaz', 'Görünmez']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004246.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu gömlek ne renk?\
+	['cevaplanamaz', 'cevaplanamaz', 'siyah', 'cevaplanamaz', 'siyah', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'siyah', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000227.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000990.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne yazıyor?\
+	['hata yeniden başlat mesajı', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Sys', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001399.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir soda, lütfen?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Emin değilim .', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003707.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu? - Ne oldu?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Saç', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000634.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bunun ne dediğini söyle.\
+	['cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001569.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'kutu', 'cevaplanamaz', 'Küçük kutu', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002783.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Termostat ne kadar sıcaklıkta ayarlanmış?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Okuyamıyorum .', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003138.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişe de ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'Bilmiyorum .', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	blurry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000582.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu seferki karakterleri alabilir miyim?\
+	['Arobergy Chavez', 'cevaplanamaz', 'Evet, evet.', 'Evet, evet.', 'cevaplanamaz', 'Arobergy Chavez', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'Evet, evet.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000121.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu sürümler için ürün anahtarı kapalı\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	Cevaplanamaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004298.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Hadi, bekleme olayını alıyorum.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'ayakkabılar', 'cevaplanamaz', 'ayakkabılar', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004130.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Dallas, Teksas'ta hava ne kadar?\
+	['3:40-54', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', \"Saat 21.17'de 96 derece.\", 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	59
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001202.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Nasılsın? - İyiyim.\
+	['cevaplanamaz', 'İyiyim .', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'İyiyim .', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000742.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne oldu, ne cevap aldın?\
+	['cevaplanamaz', 'emin değilim', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Ekran kaydı', 'Bilgisayar', 'cevaplanamaz', 'ekran gösterimi']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001769.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne lütfen?\
+	['kumaş kaplama şişesi', 'cevaplanamaz', 'battaniye', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003713.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne marka?\
+	['cevaplanamaz', 'cevaplanamaz', 'Seiko', 'cevaplanamaz', 'bulanık', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Gözle', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000062.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir web sitesi?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Uygulama satın almalarında iPhone hakkında site']	iphone
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003723.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne biçim çamaşır çorbası?\
+	['cevaplanamaz', 'Güneş', 'cevaplanamaz', 'cevaplanamaz', 'Suavetel', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002572.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kavanozda ne var?\
+	['Hiçbir şey.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Çorba', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Yemek', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000431.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne için bir makbuz?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001103.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu doğru mu ki elimde bir el var ?\
+	['Ziyaret kartı', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000538.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne yazıyor burada?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Mutlu Noeller', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002944.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Neyi fotoğraflayabilirim?\
+	['Saati sayfa üzerinde', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Gözle', 'Mickey Mouse cep saati', 'Bu cep saati kulaklıkları']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000560.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne yazıyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Windows lisans şartları', 'Terimler kısmen ekran dışı', 'cevaplanamaz', 'cevaplanamaz']	informasyon yeterli değil
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000724.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ama evet, katlayacağım.\
+	['cevaplanamaz', 'katlanmak', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'El', 'kutu']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001612.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne renk?\
+	['Beyaz gri', 'mor', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Kırmızı beyaz', 'cevaplanamaz']	gri
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003352.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu? - Ne oldu?\
+	['cevaplanamaz', 'cevaplanamaz', 'mutfak', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Bilgisayarın masasında adam resimleri', 'Resimde oturma odası görüyorum.', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001445.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Adı ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '- Evforya.', '- Evforya.', 'Evfonik', 'cevaplanamaz', 'cevaplanamaz']	euphoria
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002630.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu? - Ne oldu?\
+	['cevaplanamaz', 'ışık', 'cevaplanamaz', 'cevaplanamaz', 'ışık', 'ışık bulanıklığı', 'cevaplanamaz', 'açık değil', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003116.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bu kutudaki metni okuyun.\
+	['wd', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003025.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Özellikle sekiz basamaklı bir kimlik numarasını arıyorum.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Bir şey göremiyorum. Üzgünüm.', 'cevaplanamaz', 'boşluk', 'Böyle bir şey göremiyorum.', 'cevaplanamaz', '0', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001233.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Konuşmacı: Lütfen bana bu kitabın adını söyleyebilir misiniz?\
+	['cevaplanamaz', 'Tonal müziğin harmonik malzemeleri', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002908.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne yazıyor burada?\
+	['- Evet.', 'Hiçbir şey.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'El tutma paketi']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000685.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda ne yazıyor?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002349.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bir süre sonra, bilirsin.\
+	['Anlayamıyorum.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	hi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000921.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Güvenlik sorusunun ne olduğunu veya güvenlik numaralarını ve harflerini söyleyebilir misiniz?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004069.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu dolarlık banknot ne kalitesinde?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'kullanılamaz bir görüntü', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	blurry
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003345.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Neye ayarlandı?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Karşılıklı', 'Karşılıklı', 'Mutfak tezgahı', 'Tezgâh üstü']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000661.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu yılan ısırığı mı?\
+	['cevaplanamaz', 'Belki de', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'Belki de...', 'Belki de...', 'Hayır', 'cevaplanamaz']	Cevaplanamaz. Bu yılan ısırığı
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000308.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bilgisayar ekranında ne olduğunu detaylı olarak söyleyebilir misiniz?\
+	['cevaplanamaz', 'cevaplanamaz', 'Bilgisayar başlatamadı mesajı', 'cevaplanamaz', 'Bilgisayarınız başlatılamadı', 'cevaplanamaz', 'Bilgisayarınız başlatamadı başlatma onarım sorunları için sistem kontrol ediyor', 'başlatma', 'cevaplanamaz', 'Bilinmeyen iletişim kutusu']	bilgisayar ekranında verilen bilgi yetersiz, cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001466.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu captcha'daki karakterler nelerdir?\
+	['cevaplanamaz', 'Evlenmiş', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Kara kutu']	Cevaplanamaz. Resim boş.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002625.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunları nasıl pişirilir biliyor musun?\
+	['cevaplanamaz', 'Hayır', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'Evet, evet.', 'cevaplanamaz', 'cevaplanamaz', 'Hayır']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001992.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Bilgisayar ekranı', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003344.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunu ne kadar süre mikrodalga fırında pişireceğim?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '8 dakika .', 'cevaplanamaz', 'cevaplanamaz']	8 min
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001405.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunu nasıl pişiriyorsun?\
+	['fırın', 'cevaplanamaz', 'pişirmek', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000010.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. İmzacılık ne olacak?\
+	['cevaplanamaz', 'cevaplanamaz', 'politik', '- Adamım.', 'cevaplanamaz', 'Hiçbir fikrim yok.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Mavi adam binaya girdi.']	Cevap verilemez.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001534.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bu şampuan şişesindeki talimatları söyle.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'ıslak saçlara köpükle durdurun. İsterseniz tekrarlayın.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001643.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu fotoğraf ne?\
+	['Tavan', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003924.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu mu?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'telefon', 'cevaplanamaz', 'Adam cep telefonuyla konuşuyor.', 'cevaplanamaz', 'kişi', 'cevaplanamaz', 'cevaplanamaz']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003188.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda ne var?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Fasulye', 'cevaplanamaz', 'cevaplanamaz', 'Bu görüntü bulanık', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000706.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Gömleğimin rengini söyleyebilir misin?\
+	['Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002842.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oldu? - Ne oldu?\
+	['cevaplanamaz', 'Kablo', 'cevaplanamaz', 'siyah kauçuk köpek oyuncağı', 'bitki', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003613.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne zaman geçerli olacak?\
+	['Yapmıyor', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Resimde yok', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '2007']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003136.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kart nedir?\
+	['cevaplanamaz', 'cevaplanamaz', 'Kart yok', 'cevaplanamaz', 'cevaplanamaz', 'siyah', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002039.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu resim ne hakkında?\
+	['cevaplanamaz', 'boşluk', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	Görüntü açıkça görülüyor, bu nedenle cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001937.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'deri kemer', 'Köpek', 'Çanta', 'cevaplanamaz', 'Köpek kemeri', 'hayvan']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003718.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunlar için yemek tarifleri nedir?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003641.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tür bir izleme?\
+	['cevaplanamaz', 'kalem', 'yaprak desen', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'yaprak', 'cevaplanamaz', 'otlar']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002286.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Sağ elimdeki teneke kutusunda ne olduğunu söyler misiniz?\
+	['cevaplanamaz', 'Bir çeşit et ama etiket tamamen resimde değil.', 'Konserve gıdalar', 'cevaplanamaz', 'Sığır eti güveci', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	et
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002895.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kimin tarafından olduğunu söyleyebilir misin?\
+	['Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'Postadan geri mektup', 'Arka zarfda yazılı bir şey yok .', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001845.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne tadı?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', \"Newman'ın özel karışımı.\", 'Nemans özel karışımı.', 'Kahve', \"Newman'ın özel karışımı.\", 'cevaplanamaz', \"Newman'ın kendi\", 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000912.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne oluyor? - Ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001201.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kan basıncım ne?\
+	['cevaplanamaz', 'cevaplanamaz', '105', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '109 bitti.', 'cevaplanamaz', 'cevaplanamaz', 'Görüntü kesilmiş .']	110
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003863.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Biz de ne tadı var diye sormuştuk .\
+	['limon', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002334.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bu kutuda ne yazıyor söyleyin, içindekileri bulabileyim.\
+	['cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001155.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Vurgulanan metin için numara.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002601.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kartın arkasında ne tür bir asa olduğunu, neyden yapıldığını ve benzeri şeyler yazmalı.\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Bir şey ahşap 14', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000199.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Sanırım tamam düğmesine bastım.\
+	['Şimdi tıklanacak sonraki düğmeye bas Enter', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001811.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu da ne? - Ne?\
+	['cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'flaş', 'cevaplanamaz']	cevap veremiyorum
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003026.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Hangi sıcaklık?\
+	['cevaplanamaz', '57', 'yirmi', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '20', '20.7c', 'cevaplanamaz']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002326.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu da ne?\
+	['cevaplanamaz', 'Hoşgeldin işareti', 'Hoşgeldin plaketi', 'cevaplanamaz', 'Hoşgeldin işareti', 'Hoşgeldin işareti', 'cevaplanamaz', 'Hoşgeldin bayrağı', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002372.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kim?\
+	['Yüzü yok .', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '0', 'cevaplanamaz', 'cevaplanamaz']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000719.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ürün anahtarındaki numaralar nedir?\
+	['cevaplanamaz', 'okunamaz', 'cevaplanamaz', 'cevaplanamaz', 'okunamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000613.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Fotoğraf çektiğim binanın numarası nedir?\
+	['3 - 3', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '3 - 3', 'cevaplanamaz', '9', 'cevaplanamaz', 'cevaplanamaz', '3 - 3']	6
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003300.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen bana bu pakette ne olduğunu söyleyin.\
+	['cevaplanamaz', 'Hasat hisleri salata', 'cevaplanamaz', 'Çikolata', 'Şeker', 'meyveler', 'Fark etmek zor belki de bir çeşit fındık', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	reçel
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003565.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Masaüstü ekranım göründü mü?\
+	['Sdfgh', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.']	yes
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001375.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunu okuyabiliyor musun?\
+	['Evet, evet.', 'cevaplanamaz', 'Evet, evet.', 'Meyve suyu makinesi için ithalat bilgileri notu', 'Hayır', 'Önemli bilgiler', 'Bazıları', 'Nefis', 'Hayır', 'cevaplanamaz']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000358.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Etikete bakarak ne olduğunu anlayabilir misin? Sanırım postada bir DVD var.\
+	['Evet, evet.', 'Evet DVD', 'Hayır', 'DVD', 'DVD', 'cevaplanamaz', 'Etiket belirsiz ama cd', 'Evet, evet.', 'cevaplanamaz', 'Hayır']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002468.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kamera mı saklanıyor?\
+	['Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'ar', 'Evet, evet.', 'Hayır', 'Evet, evet.', 'Hayır', 'Evet, evet.', 'Evet, evet.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003053.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu tavuk sosu mu?\
+	['cevaplanamaz', 'Hayır', 'Evet, evet.', 'Muhtemelen tüm etiketi göremiyorum.', 'Evet, evet.', 'cevaplanamaz', 'Evet, evet.', 'Evet, evet.', 'cevaplanamaz', 'Evet, evet.']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002549.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu sanat mı?\
+	['Evet, evet.', 'Alüminyum folyo sanatı', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'cevaplanamaz', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000037.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Merhaba, bunlar gerçekten domuz biftekleri mi diye kontrol etmek istedim.\
+	['Evet, evet.', 'Evet, evet.', 'Evet , Kirkland imzası domuz dilimleri .', 'Evet, domuz çorbası.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, bel kotletleri.', 'Evet, evet.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000644.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bulutlar fırtına bulutlarına benziyor mu?\
+	['Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Hayır', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001668.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Buddy'nin yüzü tatlı mı, değil mi?\
+	['Evet, evet.', 'Evet, evet.', 'Tatlı.', 'Evet, evet.', 'Evet, evet.', 'Hayır', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004121.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Diyaloglar şimdi de orada mı?\
+	['Hayır', 'Evet, evet.', 'Evet, evet.', 'cevaplanamaz', 'Hayır', 'Hayır', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000660.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Parmaklarım hâlâ yerinde mi?\
+	['Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.', 'Evet, evet.']	parmaklarım yerinde
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000298.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu resimde bir şişe görebiliyor musunuz ve eğer öyleyse nedir?\
+	['cevaplanamaz', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Şişe yok.', 'Hayır', 'Hayır', 'Hayır', 'Hayır']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002216.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kağıdın bu tarafında bir metin var mı lütfen?\
+	['Hayır', 'Hayır', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'Hayır', 'cevaplanamaz', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001060.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu faks mı, kutu mu?\
+	['cevaplanamaz', 'Hayır', 'Hayır', 'Hayır', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'Hayır', 'Hayır', 'Hayır']	cevaplanamaz
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001381.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu fotoğrafta göğüs parçası var mı?\
+	['Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003701.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Burada satranç parçası var mı?\
+	['Hayır', 'Evet, evet.', 'Hayır', 'Sadece tahta', 'Hayır', 'Hayır', 'Evet, evet.', 'Hayır', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004173.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu çoraplar eşleşecek mi?\
+	['Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001521.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu bir gazete mi?\
+	['Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'cevaplanamaz', 'Hayır', 'Hayır', 'cevaplanamaz', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003878.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Dizüstü bilgisayar mı?\
+	['Hayır', 'Hayır', 'Hayır', 'Hayır', 'Daha önce hiç görmediğim', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000338.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. TV ekranımdan her şeyi okuyabiliyor musun?\
+	['Hayır', 'Hayır', 'Evet, evet.', 'Hayır', 'cevaplanamaz', 'Hayır', \"DVR kullanım kapasitesi DVR'nin %89'u dolu.\", 'Evet, evet.', 'Hayır', 'Hayır']	tv ekranımdan her şeyi okuyabiliyor musun? cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001368.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şişedeki Freebeze'in kokusunu görebiliyor musun?\
+	['Hayır', 'Hayır', 'Hayır', 'Hayır', 'Etiketi göremiyorum.', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003974.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekran açık mı?\
+	['Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır', 'Hayır']	no
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000569.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu bilgisayar ekranında hangi hayvan var?\
+	['Hayvan yok.', '0', '0', '0', '0', 'Ekranda hayvan yok.', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	hayvan var
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000760.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kartın numarasını almaya çalışıyorum ve acaba bunu bana okuyabilir misin?\
+	['799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896', '799852896']	799852896
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00000973.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Lütfen tezgahı okuyun.\
+	['261627.2 m3', '02616272 m^3', '02616272', '02615272', '02616272', '272', '02616272', '02616272', '02616272 m3', '02616272']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001199.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Termostat ne kadar sıcaklığa ayarlanmış?\
+	['72', '72', '72', '72 derece.', '72', '72', '72', '72', '72', '72']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001342.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Mountain Dew'un düğmesi ne?\
+	['5', '6 yukarıdan', 'Altıncı düğme.', '6 . 1 .', '5', '6', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '5']	mekanizma
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001674.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Sanırım bu gümüş meşe ağacı.\
+	['2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000', '2000']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001975.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu güç kaynağının gücü nedir ?\
+	['350', 'cevaplanamaz', '350', '350w en fazla', 'cevaplanamaz', '350', '350', 'cevaplanamaz', '- Çatlak', '350w en fazla']	350w
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001997.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Ne yazıyor?\
+	['77 derece.', '77', '77', '77', '77 derece.', '77', '77', '77', '77', '77']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00001999.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. - Bu madalyonun hangisinden olduğunu söyleyebilir misin?\
+	['47', '47', '47', '47.', '47 numaralı.', '47', '47', 'cevaplanamaz', '47', 'Hayır']	17
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002264.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne kadar?\
+	['5', '5', '5', '5', '5', '5 dolar .', '5', '5 Singapur doları', '5', '5 dolar .']	5
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002307.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Çapraz üstteki numarayı ne gösteriyor?\
+	['400', '550', '500', '475', '475', '475', '475', '500', '550', '500']	455
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002311.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu fatura hangi paradan?\
+	['20', 'Rgreg', '20', '20', 'cevaplanamaz', 'cevaplanamaz', '20', '20', '20', '20']	20
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002397.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ekranda şu anda ne gösteriliyor?\
+	['452940', '452940', 'Uyanık konuşan', 'Sayılar', 'radyo', '452940', 'Walkie talkie', '452940', 'cevaplanamaz', '452940']	cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002428.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. 465 eksi 55 ne kadardır?\
+	['410', '410', '410', 'cevaplanamaz', '410', 'cevaplanamaz', '410', '410', '410', '410']	50
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002482.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Beşinci sayı nedir?\
+	['8', '8', '8', '8', '8', '8', '8', '8', '8', '8']	8
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002510.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu fatura ne?\
+	['2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 dolar.', 'para', '2 - 2', '2 - 2', 'cevaplanamaz', '2 - 2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002567.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bir porsiyon Cheerios'ta kaç kalori var?\
+	['110', 'Görüntü çokluğu', '104', '110', '100', 'cevaplanamaz', '10', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz']	130
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002593.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Fırın ne kadar sıcaklıkta ayarlanmış?\
+	['fırın düğmesi', 'Fırın sıcaklığı 400', '425', '450', '400', '425', '425', '400', '425', '400']	350
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002642.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Termostatın sıcaklığı nedir?\
+	['78', '78', '78 derece.', '78', '78', '78', '78', '78', '78', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002732.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ne kadar para?\
+	['20 Kanada doları', '20', '20', '20', '20 Euro', '20', '20 Kanada doları', '20', '20', '20']	20 kanada dolusu
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002739.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Sıcaklık ne kadar?\
+	['75', '75', '75', '75', '76', '75', '75', '75', '75', '75']	75
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002843.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu termostatın sıcaklığı nedir?\
+	['50', '50', '55', '64 derece.', '55', 'cevaplanamaz', 'cevaplanamaz', '54', 'cevaplanamaz', '56']	60
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002858.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu hangi mezhep?\
+	['5', '5', '5', '5', 'Kanada', '5', '5', 'Yumurta', '5', '5']	canada
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002869.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bana bu kartın değerini söyle.\
+	['6 elmas', '9 elmas', '6 elmas', '6', '6', '6', '6', '6', '6', '6']	9
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002890.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bunun ne kadar ağırlık verdiğimi söyleyebilir misin?\
+	['210', '200', 'Evet, 200', '198', '200', '200', '200', '250', '200', '200']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002950.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Merhaba, tekrar deniyorum. Bu ölçümcükte kaç derece olduğunu söyleyebilir misiniz?\
+	['59', '59', '59 f', '59', '59 f', '59', '59', '59', '59', '59']	165
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002981.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bana iyi ayarlanmış sıcaklığı söyleyebilir misiniz?\
+	['78', '78', '78', '78', '78', '78', '78 derece.', '78 derece.', '78 derece Fahrenheit.', '78']	78
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00002985.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu çikolatada kaç porsiyon var?\
+	['cevaplanamaz', '2 - 2', '4', 'cevaplanamaz', '4', '4 fıstık ezmesi bardağı', '2 - 2', '2 - 2', 'cevaplanamaz', 'cevaplanamaz']	4
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003024.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bir porsiyonda kaç kalori var?\
+	['120', '120', '120 kuru 220 hazırlanmışsa hazırlanmış 1 1 4 fincan yağsız süt', '120', '120', '120', '120', '120', '220', '120 kuru tahıl 220 süt']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003044.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bana bunun ne tür bir fatura olduğunu söyleyebilir misiniz? Çünkü yirmilik bir tane arıyorum ve bunun onluk olduğunu düşünüyorum ama gerçekten söyleyemem.\
+	['10 euro', '10', '10', 'cevaplanamaz', '10', '10', '10 kişi kırmızı beyaz gömlekle.', '10', '10', '10']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003150.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu şerit bir ya da iki pembe çizgi var mı? Biri diğerinden daha açık olabilir.\
+	['Biye', '1', '1 satır', '1 koyu çizgi', '1', '1', '1', '1', '1', '1']	1 pembe çizgi
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003233.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Numaranın ne olduğunu söyleyebilir misiniz, teşekkürler?\
+	['3248849064', '3248849084', 'cevaplanamaz', '3248849084', 'cevaplanamaz', 'cevaplanamaz', '3248849084', 'cevaplanamaz', 'cevaplanamaz', '3248849084']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003286.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bana ne kadar ağırlıkta olduğumu söyleyebilir misiniz lütfen?\
+	['1', '1', 'cevaplanamaz', '1', '1', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', 'boş ölçek', '1']	120
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003522.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu termostatın şu anki sıcaklık ayarları nedir?\
+	['70', '70', '70', '70', '70', '70', '70', '70', '70', 'termostat']	70
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003583.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu 5 mi 10 Kanada doları mı?\
+	['10', '10', '10', '10', '10', '10', '10', '10', '10', '10 Kanadalı']	10
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003804.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Arayan kimliği nedir?\
+	['25389186', '25389186 08 07 23:39', '25389186', '253891186', 'cevaplanamaz', '25389186', '25389186 8 07 23:59', '25389186', '25389186', '25389186']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003812.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Beş basamaklı sayı nedir?\
+	['23442', '23442', '23442', 'cevaplanamaz', 'cevaplanamaz', 'Sadece 2 rakamı görüyorum 69', '23442', 'cevaplanamaz', 'cevaplanamaz', '23442']	69
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003836.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Kaç onsa bu?\
+	['23.6', '20', '20', '24', 'cevaplanamaz', 'cevaplanamaz', 'cevaplanamaz', '33', 'cevaplanamaz', 'Gfdsgsdf']	unanswerable
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003846.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu termometrede sıcaklık ne gösteriyor?\
+	['72', '72', '72', '72', '72', '72', '72', '72 derece.', '72', '72 derece.']	72
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003865.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu sayfa numarası nedir?\
+	['2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 - 2', '2 - 2', 'cevaplanamaz', '2 - 2', '2 - 2']	2
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00003927.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu ekran ne diyor?\
+	['8888', 'cevaplanamaz', 'Hiçbir şey.', '8888', 'cevaplanamaz', 'cevaplanamaz', '8888', '888', 'Hiçbir şey.', 'boşluk']	8888
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004010.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Hangi sayfa numarası gösteriliyor?\
+	['123', '121', '121', '121', 'cevaplanamaz', '121', '121', '128', '321', '121']	121
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004053.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kaç numara?\
+	['26', '26', '26', '26', '26', 'Kağıt', '26', '26', '26', '26']	26
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004070.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Ne yazıyor burada?\
+	['cevaplanamaz', '40', '40', 'cevaplanamaz', 'cevaplanamaz', 'Sayılar', '40', '40', '40 lb hava', '30']	Cevap veremiyorum.
+/mnt/scratch/users/mn2002/vizwiz-culture/data/val/VizWiz_val_00004309.jpg	answer tr When the provided information is insufficient, respond with 'cevaplanamaz'. Bu kutuda kaç tane tablet var?\
+	['8 tablet', '8', '8', '8', '8', '8', '8', '8 tablet', '8', '8']	8
