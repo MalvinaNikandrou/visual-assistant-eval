@@ -1,0 +1,8 @@
+<|user|>
+<|video|>
+Question: {{ question }}
+Answer the question using a single word or phrase.
+<|end|>
+<|assistant|>
+
+

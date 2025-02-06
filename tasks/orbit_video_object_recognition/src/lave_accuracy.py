@@ -339,7 +339,7 @@ class LAVE:
         except:
             score = 1
         # normalize the generated text
-        return score / 3
+        return float(score - 1) / 2
 
 
 def parse_arguments():
@@ -347,7 +347,7 @@ def parse_arguments():
     parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.3-70B-Instruct", help="The model id.")
     parser.add_argument("--load_in_8bit", action="store_true", help="Whether to load the model in 8-bit.")
     parser.add_argument("--data_file", type=str, help="The data file.")
-    parser.add_argument("--max_new_tokens", type=int, help="The maximum number of new tokens.")
+    parser.add_argument("--max_new_tokens", type=int, default=512, help="The maximum number of new tokens.")
     return parser.parse_args()
 
 

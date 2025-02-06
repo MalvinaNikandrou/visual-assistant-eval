@@ -1,0 +1,3 @@
+USER: <video>
+{{ question }}
+Answer with a single word or phrase. ASSISTANT:
