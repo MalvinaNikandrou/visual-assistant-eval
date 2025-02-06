@@ -29,7 +29,7 @@ def encode_video(video_path):
     if len(frame_idx) > MAX_NUM_FRAMES:
         frame_idx = uniform_sample(frame_idx, MAX_NUM_FRAMES)
     frames = vr.get_batch(frame_idx).asnumpy()
-    frames = [Image.fromarray(v.astype("uint8")) for v in frames]
+    frames = [Image.fromarray(v.astype("uint8")).convert("RGB") for v in frames]
     print("num frames:", len(frames))
     return frames
 
@@ -90,7 +90,7 @@ class VideoCpmModel(CpmModel):
         # Set decode params for video
         params = self.generation_kwargs.copy()
         params["use_image_id"] = False
-        params["max_slice_nums"] = 2  # use 1 if cuda OOM and video resolution >  448*448
+        params["max_slice_nums"] = 1  # use 1 if cuda OOM and video resolution >  448*448
 
         generated_text = self.model.chat(image=None, msgs=msgs, tokenizer=self.processor, **params).strip()
 
