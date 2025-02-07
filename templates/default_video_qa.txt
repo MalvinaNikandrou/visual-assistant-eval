@@ -1,5 +1,4 @@
 You are a helpful AI assistant. Question: {{ question }}
 Answer with a single word or phrase.
 
-
 Output:

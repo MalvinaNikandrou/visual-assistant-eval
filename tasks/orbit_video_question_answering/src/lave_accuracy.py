@@ -362,14 +362,25 @@ if __name__ == "__main__":
     data["acc"] = data.progress_apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"]), axis=1)
     # Compute the average accuracy
     acc = data["acc"].mean()
+    print(f"Average accuracy: {acc}")
     # Compute the average accuracy for is_vip_object == True
     acc_vip = data[data["is_vip_object"] == True]["acc"].mean()
     # Compute the average accuracy for is_vip_object == False
-    acc_non_vip = data[data["is_vip_object"] == False]["acc"].mean()
+    acc_non_vip = data[data["is_vip_object"] == False ]["acc"].mean()
     # Print the results
-    print(f"Average accuracy: {acc}")
     print(f"Average accuracy for is_vip_object == True: {acc_vip}")
     print(f"Average accuracy for is_vip_object == False: {acc_non_vip}")
-    # save the results
-    output_file = os.path.join(os.path.dirname(args.data_file), "outputs-acc.csv")
+    for question_type in ["O", "D", "S", "A"]:
+        print(f"\nQuestion Type = {question_type}")
+        # Compute the average accuracy for is_vip_object == True
+        acc_vip = data[data["is_vip_object"] == True and data["question_type"] == question_type]["acc"].mean()
+        # Compute the average accuracy for is_vip_object == False
+        acc_non_vip = data[data["is_vip_object"] == False and data["question_type"] == question_type]["acc"].mean()
+        # Print the results
+        print(f"Average accuracy for is_vip_object == True: {acc_vip}")
+        print(f"Average accuracy for is_vip_object == False: {acc_non_vip}")
+        # Compute the a
+        print(f)
+        # save the results
+    output_file = os.path.join(os.path.dirname(args.data_file), f"{os.path.basename(args.data_file)}-outputs-acc.csv")
     data.to_csv(output_file, sep="\t", index=False)
