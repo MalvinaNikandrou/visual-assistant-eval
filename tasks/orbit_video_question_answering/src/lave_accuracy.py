@@ -11,11 +11,19 @@ from tqdm import tqdm
 
 tqdm.pandas()
 
-
-PROMPT = """You are given a question, a set of gold-standard reference answers written by experts, and a candidate answer.
+PROMPT_TEMPLATE =  """You are given a question, a set of gold-standard reference answers written by experts, and a candidate answer.
 Please rate the accuracy of the candidate answer for the question considering the reference answers. Use a scale of 1-3, with 1 indicating an incorrect or irrelevant answer, 2 indicating an ambiguous or incomplete answer, and 3 indicating a correct answer. Give the rationale before rating.
 
-EXAMPLES
+EXAMPLES{EXAMPLES}
+
+Now provide the rating for the following:
+Question: {question}
+Reference answers: {references}
+Candidate answer: {response}
+Output:
+"""
+
+OPEN_ENDED_EXAMPLES_PROMPT = """
 Question: What is the color of the car?
 Reference answers: red, scarlet
 Candidate answer: pink
@@ -23,11 +31,16 @@ Output: The candidate answer is incorrect because the car is 'red' and not 'pink
 Rating: 1
 
 Question: What is the animal on the left?
-Reference answers: elephant, giraffe
+Reference answers: elephant, giraffe, giraffe
 Candidate answer: giraffe
-Output: The candidate answer is correct because most of the reference answers (4 out of 5) indicate the
-animal on the left is a giraffe.
+Output: The candidate answer is correct because most of the reference answers indicate the animal on the left is a giraffe.
 Rating: 3
+
+Question: Where are the cookies?
+Reference answers: on the left side of the coffee machine
+Candidate answer: next to the coffee maker
+Output: The candidate answer is incomplete because 'next to' does not specify the side.
+Rating: 2
 
 Question: What's the weather like?
 Reference answers: bright, bright and sunny, clear, sunny
@@ -64,12 +77,63 @@ Reference answers: Horse statue.
 Candidate answer: horse
 Output: The candidate answer is correct because 'horse' is equivalent to 'horse statue' in this context.
 Rating: 3
+"""
 
-Now provide the rating for the following:
-Question: {question}
-Reference answers: {references}
-Candidate answer: {response}
-Output:
+# for yes / no / and unanswerable
+FIXED_EXAMPLES_PROMPT = """
+Question: Is the color of the car red?
+Reference answers: no
+Candidate answer: yes
+Output: The candidate answer is incorrect because it's the opposite of the reference answer.
+Rating: 1
+
+Question: What is the animal on the left?
+Reference answers: Not enough information are depicted in the video to answer this question
+Candidate answer: unanswerable
+Output: The candidate answer is correct because the video does not provide enough information to answer the question. 
+Rating: 3
+
+Question: Are the cookies next to the coffee maker?
+Reference answers: Not enough information are depicted in the video to answer this question
+Candidate answer: no
+Output: The candidate answer is incomplete because 'no' is less specific than the reference answers.
+Rating: 2
+
+Question: Do you see a bottle of wine?
+Reference answers: yes
+Candidate answer: not sure
+Output: The candidate answer is incorrect because there is a visible bottle of wine.
+Rating: 1
+
+Question: Are the people sitting?
+Reference answers: yes
+Candidate answer: they are resting
+Output: The candidate answer is ambiguous because, while it is common that people who are sitting are resting, it is not always the case.
+Rating: 2
+
+Question: Does the weather look cloudy?
+Reference answers: no, no
+Candidate answer: not really
+Output: The candidate answer is correct because 'not really' implies the same as the reference answer 'no'.
+Rating: 3
+
+Question: Are there any mugs on the counter top?
+Reference answers: yes
+Candidate answer: there are two mugs
+Output: The candidate answer is incomplete because the number of the mugs cannot be validated based on the candidate answer.
+Rating: 2
+
+Question: What type of fruit is in the picture?
+Reference answers: Not enough information are depicted in the video to answer this question
+Candidate answer: apple
+Output: The candidate answer is incorrect because it is not based on the video.
+Rating: 1
+
+Question: Is this a bathroom?
+Reference answers: yes, yes, no
+Candidate answer: yes
+Output: The candidate answer is correct because the majority of the reference answers indicate that this is a bathroom.
+Rating: 3
 """
 
 
@@ -320,9 +384,14 @@ class LAVE:
             device_map="auto",
         )
 
-    def __call__(self, question, pred, refs):
+    def __call__(self, question, pred, refs, answer_type):
+        # is any of the refs "yes", "no", "unanswerable"?
+        is_closed_form = any([ref in ["yes", "no", "unanswerable"] for ref in refs])
         refs = ", ".join(refs)
-
+        if answer_type == "A" or is_closed_form:
+            PROMPT = PROMPT_TEMPLATE.format(EXAMPLES=FIXED_EXAMPLES_PROMPT)
+        else:
+            PROMPT = PROMPT_TEMPLATE.format(EXAMPLES=OPEN_ENDED_EXAMPLES_PROMPT)
         messages = [
             {"role": "system", "content": "You are a helpful and fair judge."},
             {"role": "user", "content": PROMPT.format(question=question, references=refs, response=pred)},
@@ -344,9 +413,9 @@ class LAVE:
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Compute the accuracy of the model.")
+    parser.add_argument("--data_file", type=str, required=True, help="The results file.")
     parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.3-70B-Instruct", help="The model id.")
     parser.add_argument("--load_in_8bit", action="store_true", help="Whether to load the model in 8-bit.")
-    parser.add_argument("--data_file", type=str, help="The data file.")
     parser.add_argument("--max_new_tokens", type=int, default=512, help="The maximum number of new tokens.")
     return parser.parse_args()
 
@@ -359,7 +428,7 @@ if __name__ == "__main__":
     data["ground_truth"] = data.apply(lambda x: prepare_ground_truths(x["ground_truth"]), axis=1)
     # Compute the accuracy
     lave_metric = LAVE(args.model_id, args.load_in_8bit, args.data_file, max_new_tokens=args.max_new_tokens)
-    data["acc"] = data.progress_apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"]), axis=1)
+    data["acc"] = data.progress_apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"], x["question_type"]), axis=1)
     # Compute the average accuracy
     acc = data["acc"].mean()
     print(f"Average accuracy: {acc}")

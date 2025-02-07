@@ -3,7 +3,7 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/orbit_video_question_answering/data/combined_qa_data.json \
-  +tasks/orbit_video_question_answering/data/videos  \
+  +dataset.images_path=tasks/orbit_video_question_answering/data/videos  \
   dataset.template_name=qwen2vl_video_qa \
   output_path=tasks/orbit_video_question_answering/results \
   _callback_dict.wandb.project=orbit_vqa \
@@ -17,7 +17,7 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/orbit_video_question_answering/data/combined_qa_data.json \
-  +tasks/orbit_video_question_answering/data/videos  \
+  +dataset.images_path=tasks/orbit_video_question_answering/data/videos  \
   dataset.template_name=llava_next_video_qa \
   output_path=tasks/orbit_video_question_answering/results \
   _callback_dict.wandb.project=orbit_vqa \
@@ -31,7 +31,7 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/orbit_video_question_answering/data/combined_qa_data.json \
-  +tasks/orbit_video_question_answering/data/videos  \
+  +dataset.images_path=tasks/orbit_video_question_answering/data/videos  \
   dataset.template_name=default_video_qa \
   output_path=tasks/orbit_video_question_answering/results \
   _callback_dict.wandb.project=orbit_vqa \
@@ -45,7 +45,7 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/orbit_video_question_answering/data/combined_qa_data.json \
-  +tasks/orbit_video_question_answering/data/videos  \
+  +dataset.images_path=tasks/orbit_video_question_answering/data/videos  \
   dataset.template_name=default_video_qa \
   output_path=tasks/orbit_video_question_answering/results \
   _callback_dict.wandb.project=orbit_vqa \
@@ -59,7 +59,7 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/orbit_video_question_answering/data/combined_qa_data.json \
-  +tasks/orbit_video_question_answering/data/videos  \
+  +dataset.images_path=tasks/orbit_video_question_answering/data/videos  \
   dataset.template_name=default_video_qa \
   output_path=tasks/orbit_video_question_answering/results \
   _callback_dict.wandb.project=orbit_vqa \
@@ -73,7 +73,7 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/orbit_video_question_answering/data/combined_qa_data.json \
-  +tasks/orbit_video_question_answering/data/videos  \
+  +dataset.images_path=tasks/orbit_video_question_answering/data/videos  \
   dataset.template_name=default_video_qa \
   output_path=tasks/orbit_video_question_answering/results \
   _callback_dict.wandb.project=orbit_vqa \
@@ -87,7 +87,7 @@ python run.py \
   generation_config=hf_vqa  \
   model.json_mode=false \
   dataset.path=tasks/orbit_video_question_answering/data/combined_qa_data.json \
-  +tasks/orbit_video_question_answering/data/videos  \
+  +dataset.images_path=tasks/orbit_video_question_answering/data/videos  \
   dataset.template_name=phi3_video_qa \
   output_path=tasks/orbit_video_question_answering/results \
   _callback_dict.wandb.project=orbit_vqa \

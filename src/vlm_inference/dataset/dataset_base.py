@@ -2,7 +2,7 @@ import logging
 from dataclasses import dataclass
 from functools import cache
 from pathlib import Path
-from typing import Type
+from typing import Type, Literal
 
 import hydra
 from jinja2 import Template
@@ -128,7 +128,7 @@ class VideoQADataset(BaseDataset):
         return example
 
     def _resolve_ground_truth(self, example) -> str:
-        example["answers"] = [example["group"], example["object"]]
+        example["answers"] = [example["answer"]]
         return example
 
     def _load_dataset(self, annotations_path: str) -> None:
