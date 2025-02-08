@@ -411,7 +411,7 @@ cs.store(
     group="model",
     name="internvl2.5-video",
     node=HfModelConfig(
-        _target_="vlm_inference.QwenVideoHfModel",
+        _target_="vlm_inference.VideoInternVLModel",
         name=f"OpenGVLab/InternVL2_5-{II('model.size')}",
         size="8B",
         dtype="bfloat16",
