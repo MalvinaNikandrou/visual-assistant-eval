@@ -1,13 +1,15 @@
 import pandas as pd
 import ast
 import argparse
-import os
-
 import re
+import os
+from typing import Literal
+
 import torch
 import transformers
 from transformers import BitsAndBytesConfig
 from tqdm import tqdm
+
 
 tqdm.pandas()
 
@@ -383,26 +385,43 @@ class LAVE:
             model_kwargs={"torch_dtype": torch_dtype, "quantization_config": quantization_config},
             device_map="auto",
         )
+        self.pipeline.tokenizer.pad_token_id = self.pipeline.tokenizer.eos_token_id
 
-    def __call__(self, question, pred, refs, answer_type):
+    def __call__(self, sample: pd.Series):
+        messages = self._prepare_input(sample["prompt"], sample["response"], sample["ground_truth"], sample["question_type"])
+        outputs = self.pipeline(messages, max_new_tokens=self.max_new_tokens)
+        return self.score_sample(outputs)[0]
+
+    def score_sample(self, model_outputs) -> list[float]:
+        generated_texts = [output["generated_text"][-1]["content"] for output in model_outputs]
+        return [self._parse_score(generated_text) for generated_text in generated_texts]
+
+    def _prepare_input(self, question: str, prediction: str, references: list[str], question_type: Literal["O", "D", "S", "A"]):
         # is any of the refs "yes", "no", "unanswerable"?
-        is_closed_form = any([ref in ["yes", "no", "unanswerable"] for ref in refs])
-        refs = ", ".join(refs)
-        if answer_type == "A" or is_closed_form:
-            PROMPT = PROMPT_TEMPLATE.format(EXAMPLES=FIXED_EXAMPLES_PROMPT)
+        is_closed_form = any([ans in ["yes", "no", "unanswerable"] for ans in references])
+        references = ", ".join(references)
+        if question_type == "A" or is_closed_form:
+            prompt = PROMPT_TEMPLATE.format(
+                EXAMPLES=FIXED_EXAMPLES_PROMPT,
+                question=question,
+                references=references,
+                response=prediction,
+            )
         else:
-            PROMPT = PROMPT_TEMPLATE.format(EXAMPLES=OPEN_ENDED_EXAMPLES_PROMPT)
+            prompt = PROMPT_TEMPLATE.format(
+                EXAMPLES=OPEN_ENDED_EXAMPLES_PROMPT,
+                question=question,
+                references=references,
+                response=prediction,
+            )
         messages = [
             {"role": "system", "content": "You are a helpful and fair judge."},
-            {"role": "user", "content": PROMPT.format(question=question, references=refs, response=pred)},
+            {"role": "user", "content": prompt},
         ]
+        return messages
 
-        outputs = self.pipeline(
-            messages,
-            max_new_tokens=self.max_new_tokens,
-        )
-
-        generated_text = outputs[0]["generated_text"][-1]["content"].lower().strip()
+    def _parse_score(self, generated_text: str) -> float:
+        generated_text = generated_text.lower().strip()
         try:
             score = float(generated_text.split("rating: ")[-1][0])
         except:
@@ -416,7 +435,7 @@ def parse_arguments():
     parser.add_argument("--data_file", type=str, required=True, help="The results file.")
     parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.3-70B-Instruct", help="The model id.")
     parser.add_argument("--load_in_8bit", action="store_true", help="Whether to load the model in 8-bit.")
-    parser.add_argument("--max_new_tokens", type=int, default=512, help="The maximum number of new tokens.")
+    parser.add_argument("--max_new_tokens", type=int, default=256, help="The maximum number of new tokens.")
     return parser.parse_args()
 
 
@@ -428,7 +447,10 @@ if __name__ == "__main__":
     data["ground_truth"] = data.apply(lambda x: prepare_ground_truths(x["ground_truth"]), axis=1)
     # Compute the accuracy
     lave_metric = LAVE(args.model_id, args.load_in_8bit, args.data_file, max_new_tokens=args.max_new_tokens)
-    data["acc"] = data.progress_apply(lambda x: lave_metric(x["prompt"], x["response"], x["ground_truth"], x["question_type"]), axis=1)
+    data = data.assign(acc=data.progress_apply(lave_metric, axis=1))
+    # Save the results
+    output_file = os.path.join(os.path.dirname(args.data_file), f"{os.path.basename(args.data_file)}-outputs-acc.csv")
+    data.to_csv(output_file, sep="\t", index=False)
     # Compute the average accuracy
     acc = data["acc"].mean()
     print(f"Average accuracy: {acc}")
@@ -442,14 +464,9 @@ if __name__ == "__main__":
     for question_type in ["O", "D", "S", "A"]:
         print(f"\nQuestion Type = {question_type}")
         # Compute the average accuracy for is_vip_object == True
-        acc_vip = data[data["is_vip_object"] == True and data["question_type"] == question_type]["acc"].mean()
+        acc_vip = data[(data["is_vip_object"] == True) & (data["question_type"] == question_type)]["acc"].mean()
         # Compute the average accuracy for is_vip_object == False
-        acc_non_vip = data[data["is_vip_object"] == False and data["question_type"] == question_type]["acc"].mean()
+        acc_non_vip = data[(data["is_vip_object"] == False) & (data["question_type"] == question_type)]["acc"].mean()
         # Print the results
         print(f"Average accuracy for is_vip_object == True: {acc_vip}")
         print(f"Average accuracy for is_vip_object == False: {acc_non_vip}")
-        # Compute the a
-        print(f)
-        # save the results
-    output_file = os.path.join(os.path.dirname(args.data_file), f"{os.path.basename(args.data_file)}-outputs-acc.csv")
-    data.to_csv(output_file, sep="\t", index=False)

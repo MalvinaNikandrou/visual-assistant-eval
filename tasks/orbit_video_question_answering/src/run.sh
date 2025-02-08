@@ -10,7 +10,7 @@ python run.py \
   dataset=orbit_vqa
 
 python tasks/orbit_video_question_answering/src/lave_accuracy.py \
-  --load_in_8bit --model_id tasks/orbit_video_question_answering/results/Qwen/Qwen2-VL-7b-Instruct-outputs.csv
+   --data_file tasks/orbit_video_question_answering/results/Qwen/Qwen2-VL-7b-Instruct-outputs.csv
 
 python run.py \
   model=llava-next-video  \
@@ -24,7 +24,7 @@ python run.py \
   dataset=orbit_vqa
 
 python tasks/orbit_video_question_answering/src/lave_accuracy.py \
-  --load_in_8bit --model_id tasks/orbit_video_question_answering/results/llava-hf/LLaVA-NeXT-Video-7B-hf-outputs.csv
+   --data_file tasks/orbit_video_question_answering/results/llava-hf/LLaVA-NeXT-Video-7B-hf-outputs.csv
 
 python run.py \
   model=llava-video  \
@@ -37,8 +37,10 @@ python run.py \
   _callback_dict.wandb.project=orbit_vqa \
   dataset=orbit_vqa
 
-python tasks/orbit_video_question_answering/src/lave_accuracy.py \
-  --load_in_8bit --model_id tasks/orbit_video_question_answering/results/lmms-lab/LLaVA-Video-7B-Qwen2-outputs.csv
+CUDA_VISIBLE_DEVICE=1 python tasks/orbit_video_question_answering/src/lave_accuracy.py \
+   --data_file tasks/orbit_video_question_answering/results/OpenGVLab/VideoChat-Flash-Qwen2-7B_res448-outputs.csv
+CUDA_VISIBLE_DEVICE=1 python tasks/orbit_video_question_answering/src/lave_accuracy.py \
+   --data_file tasks/orbit_video_question_answering/results/lmms-lab/LLaVA-Video-7B-Qwen2-outputs.csv
 
 python run.py \
   model=video-chat  \
@@ -51,8 +53,6 @@ python run.py \
   _callback_dict.wandb.project=orbit_vqa \
   dataset=orbit_vqa
 
-python tasks/orbit_video_question_answering/src/lave_accuracy.py \
-  --load_in_8bit --model_id tasks/orbit_video_question_answering/results/OpenGVLab/VideoChat-Flash-Qwen2-7B_res448-outputs.csv
 
 python run.py \
   model=minicpm-video  \
@@ -65,8 +65,8 @@ python run.py \
   _callback_dict.wandb.project=orbit_vqa \
   dataset=orbit_vqa
 
-python tasks/orbit_video_question_answering/src/lave_accuracy.py \
-  --load_in_8bit --model_id tasks/orbit_video_question_answering/results/openbmb/MiniCPM-V-2_6-outputs.csv
+CUDA_VISIBLE_DEVICE=2 python tasks/orbit_video_question_answering/src/lave_accuracy.py \
+   --data_file tasks/orbit_video_question_answering/results/openbmb/MiniCPM-V-2_6-outputs.csv
 
 python run.py \
   model=internvl2.5-video  \
@@ -80,7 +80,7 @@ python run.py \
   dataset=orbit_vqa
 
 python tasks/orbit_video_question_answering/src/lave_accuracy.py \
-  --load_in_8bit --model_id tasks/orbit_video_question_answering/results/OpenGVLab/InternVL2_5-8B-outputs.csv
+   --data_file tasks/orbit_video_question_answering/results/OpenGVLab/InternVL2_5-8B-outputs.csv
 
 python run.py \
   model=phi3-video  \
@@ -94,4 +94,4 @@ python run.py \
   dataset=orbit_vqa
 
 python tasks/orbit_video_question_answering/src/lave_accuracy.py \
-  --load_in_8bit --model_id tasks/orbit_video_question_answering/results/microsoft/Phi-3.5-vision-instruct-outputs.csv
+   --data_file tasks/orbit_video_question_answering/results/microsoft/Phi-3.5-vision-instruct-outputs.csv
