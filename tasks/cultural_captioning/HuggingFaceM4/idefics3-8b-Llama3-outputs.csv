@@ -1,0 +1,979 @@
+image_path	prompt	ground_truth	response
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023346.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of wine that has the date 2008 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023685.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The catalog number on this book cover is 2896014.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005176.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A children's book has a picture of a toy on the cover.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007395.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blue book with a picture of a boat on it is titled PIEBEE KYTOSOBEHOE IIIABAHHIE.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016972.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Jama Kingston logo on the back of a shirt.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022315.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of legumes verts showing the back side with a code of 1197.4.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010827.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close up of a blue and beige cloth with multiple images including a star and 2 dreidels.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018636.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bank note from the Reserve Bank of South Africa is numbered 100.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013958.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A folded ten pound bill with a woman's face on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00006906.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A coin in a hand has the letters IN on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009537.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A ZTE phone is plugged into a USB cable.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021860.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A stone tablet with Chinese characters and the name Shabi Well.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020390.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A black can of Alpo Chop House Original.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008158.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The bottle of Corona Light is from Mexico.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007716.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A movie poster for the movie ign is on display.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013488.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bowl of fermented cabbage that is orange from the sauce.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00005616.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A picture of a drum with a design on it standing on the floor.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009729.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A jar of extra jam from Scott's.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022287.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of tom kha soup has herbs on the cover.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017202.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A piece of paper that has $1 printed on it twice.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00012211.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A table with Easter supplies on it including a carton of Hardly Strictly Family eggs.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023093.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Visibly Lift FOND D'ETIENNT LIFFANT. DEPIRANT. on a blue cloth.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015033.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 10,000 denomination of the Japanese currency is displayed on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006249.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A can of Old El Paso green chiles being held in a hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000743.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A large bill from Saudi Arabia has a man's picture on the front.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00006667.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box with the number 459 on it features Home Style beef goulash..
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008637.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of rhizome powder next to a microwave.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016613.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red wrapper of Hot Turtles candy is on a white surface.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016654.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A guide book for walking in Austria has a picture of a person on a bridge on the cover.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004275.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of wine has a yellow label on it with a crest on the top.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003258.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A mug with a scene from Brugge on the front of it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000849.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Jamaican Jerk Sauce sits on a wooden table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007754.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A plate of salmon and other fish sashimi has a lemon wedge on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00014413.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A page of a book with the first word being difficulties.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023409.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A One Direction CD sits on a wood table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015337.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A hand holding a 5 rial note from Oman with English on the back saying Kingdom of Oman 5 rial.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017038.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A piece of paper with chinese letters on it that translate to the left side of the paper being more prominent than the right side.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00014627.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A $100 bill is on top of a grey surface. The bill is folded in half vertically. On the back of the bill, the Federal Reserve logo is present near the center of the bill. To the right of the logo, the words \"United States of America\" are written. Beneath the logo, the number 100 is written. On the left side of the bill, the word \"Department of the Treasury\" is written. Beneath that, the words \"Federal Reserve Note\" are written. At the bottom of the bill, the words \"The United States of America\" are written. At the very bottom of the bill, the words \"One hundred dollars\" are written. On the top left of the bill, the serial number \"F14632352A\" is printed. The man on the bill is wearing a coat and wig. His facial expression is serious. The lighting is dim. The surface the bill is laying on is gray and has a rough texture. The bill is laying down horizontally.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006454.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A flying insect raid can that has two bugs on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016138.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A fifty dollar bill from Australia has a man with a receding hairline on the front.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023024.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A computer screen showing a page in spanish with the title Aplicacion movil para los cielos. at the top right corner. at the bottom of the page. at the bottom right corner of the page. at the bottom left corner of the page. at the bottom of the page. at the top of the page. at the top right corner of the page. at the top left corner of the page. at the top right corner of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top of the page. at the top
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00002732.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A canadian 20 dollar bill on top of a floral table cloth.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00000422.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A mac desktop is showing a page that is titled Apple, libros electronicos and knfb reader 2.0. The desktop also has a few windows open with one having a title of Documento 1. The desktop also has a few icons, one being a trash can. The desktop also has a few toolbars.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00019879.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The number 50 is on the yellow piece of paper.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004118.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pack of marlboro cigarettes with gold writing in the middle.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018737.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a package of Chicken burritos in plastic wrap.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017625.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A ten pound note with the number E02 2260316 on the bottom.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016288.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A microwaveable container of chicken with satay sauce.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015880.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A jar of Vegetables le conserve with a gingham lid is on a table. on the label it says 100% natural product of Italy. on the back of the label it says no preservatives, no sugar added, no artificial flavours, no additives or fillers, no trans fats. and at the very bottom it says 100% natural product of Italy. on the lid it says le conserve. on the table behind the jar is a container of something that says ARDICA on the label. the jar is about half full. the label is yellow with some orange writing. the gingham part of the lid is red and white. the jar is shiny and reflects the light. there is a white plate behind the jar. the jar is closed. the background is brown. the label also says no artificial colours. at the very bottom of the label it says vegetables which is in black. at the top of the label it says Manufactured and packed in Modena (Italy) by Le Conserves de la Nostra which is in black. at the very top of the label it says For delicious and authentic recipes and ideas visit our web site www.leconservesdellanostra.it. under that it says no preservatives, no sugar added, no artificial flavours, no additives or fillers, no trans fats. at the bottom it says 100% natural product of Italy. at the very bottom of the label it says Vegetaux which is in black. on the
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009568.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A green frame has the words \"TRADE MARK\" on the top.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00002179.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A container of table salt from the store homebrand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006969.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A packaged food item that is 500 grams and has a price that starts with 5.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008139.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		An old man with a long beard is sitting with three children in a painting. The man has his arm around two children and his other hand is holding the other child's. In the background there is a body of water and a small boat. The man is wearing a hat and fishing gear. The children are wearing old fashioned clothing. The painting is framed and the glass is reflecting a window with blinds. The window has a curtain. There is also a rope on the ground. The painting is below a window. The window has blinds that are partially open. The painting is of a man and children that are happy. The man is wearing a green shirt and dark green coat. The children are wearing white and pink. The kids are all around the man. The man is also wearing a hat. The painting is of a happy man and children. The painting is old. The children are all girls. The man is holding one of the little girls hands. The little girl on the left is wearing a pink dress. The little girl in the middle is wearing a white dress. The little girl on the right is wearing a white dress with a pink bow in her hair. The man is wearing a hat and fishing boots. The painting is below a window that has blinds that are partially open. The painting is framed and the glass is reflecting a window with a curtain. The window has blinds that are partially open. The painting is of a man and children that are happy. The man is wearing a
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003542.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A wallet with the British flag on it is on a white, crocheted surface.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004119.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 20 dollar Canadian bill is on top of a doily.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00014670.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A package of instant noodles with a cartoon woman on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004375.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a disc with the name JOHN DENVER on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011554.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A cut of meat is labeled as British Beef Rump Steak.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00002473.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close up of a Van Gogh painting of Sunflowers.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018403.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A black and white photo of a windmill is mounted on a cream-colored wall.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017152.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Casanova Di Nava Tenua Nuova from 2006 is pictured.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018777.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close-up of a stalk with tiny purple Osteospermum flowers that are out of focus against an eggshell white wall. The stalk is in full bloom with all the buds opened. The flowers are tiny, and there are at least 8 of them. They are a deep purple with a yellow center that has not yet bloomed. The stalk is green and appears to be fuzzy. The light is bright and there are shadows casted on the wall. You can also see part of a picture frame in the top left corner. The picture frame is black. The flowers are facing towards the right and to the left of the frame. The flowers are also a little blurry. The stalk is facing towards the left of the frame and also a little upward. The light seems to be coming from the right of the photo. The stalk is also a little blurry. It is also casting a shadow on the wall. There is also a little part of a table or piece of furniture on the bottom right of the frame. It is brown. It looks like a side table. There is also a little shadow underneath the flowers. There is also a little part of a window on the top of the frame. It looks like a white window. There is also a little bit of a curtain just below the window. It is white. The wall is also a little bumpy. It looks like it is textured. There is also a little bit of a light switch on the wall. It is
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015099.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 5 dollar bill is on a brown surface next to a cup.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005540.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A menora with 9 candle places and all of them are white.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010212.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The year on the bottle of Montepulciano is 2007.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022768.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		An advertisement with the word stern on it..
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010603.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close up of the American flag and the beginning of the national anthem printed on a white board.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011509.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Smart and Simple meal by Freshdirect is on a counter.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000526.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A ten pound Bank of England bill with a picture of a woman on the front.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022448.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A package of Michelna's Signature fried rice is on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00007209.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 500 denomination from the Central Bank of the United Arab Emirates.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017726.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A can of a drink that says DujiskA jabuka..,. on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008986.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		Two white coffee cups with a picture of Queen Elizabeth on them sit on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016701.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A carved statue that has a person with a large hair do. Sitting with their legs crossed.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013201.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A painted mask that is red, blue, brown, and pink in color.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007362.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Heineken brewed in Holland with a white and green label.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00001429.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of coffee that is exclusively roasted for Travis Roth.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001931.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A tortilla wrap advertisement shows a large tortilla with various fillings. on the left. of the image.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022943.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A hand is holding a 5000 bill with a building on the back.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011759.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pan of pizza next to a plate and fork that has a meat and pineapple pizza that has been eaten from.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00007749.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A ten dollar bill from Australia is laying on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013020.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A food package that follows the smart ones food principles.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00002977.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blurred image of a twenty dollar bill on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003739.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close up of a box of pills reading pevison.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00002599.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Dewar's white label scotch whisky.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000697.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A crumpled up napkin sits next to a red box that says 'hi, i can't.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008458.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 50,000 bank note is not on a green background.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000473.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A one dollar bill is on a white table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005873.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of gatorade is on top of a stack of blue jeans.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00000403.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A computer screen with a right mouse click option.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018257.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of 2010 Malbec is sitting on a blue cloth.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023166.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box with vegetables on it that says new and improved recipe.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015848.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A small black dog is standing on a beige tile floor looking at the camera. There is a person wearing slippers standing off to the right of the dog. A wooden cabinet is to the left of the dog.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008757.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A framed picture that has a multi colored abstract design.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000157.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a silver coin with the letters KMG on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021653.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A green bottle with a 30 logo on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00006636.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A picture of a bunny on top of a egg with the word happy on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009340.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A can of F Foster's in the Australian Nectar flavor.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017167.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		Someone is holding a 50 Bahrain note from the Central Bank of Bahrain.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008513.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The bottom of a package that says'modi no omatsuri komachi' on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003374.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A newspaper with the date February 2013 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006868.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of tesco light choices chicken curry with rice on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009892.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A cross necklace that is on a black string.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00019659.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blue and orange box of wata on a green table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013223.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A frozen fisherman's pie is sitting on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022231.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red and green can with Nano Nasse Blocker on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00001685.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person holds a blue 5 dollar bill in their hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020785.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of dark colored alcohol with the words Kopparberg on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00012323.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Jamaica's original rum cream has a long description on the back.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016854.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		An oil painting of blossoming tree branches against a blue backdrop. It is done in the style of Vincent Van Gogh.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008874.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of Fiesta Side Spanish Rice in a plastic bag being held by a hand holding a spoon.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011837.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of wine that is called \"de puro ceba\".
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016515.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A case of Heineken beer with two bottles visible. on the table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022555.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 100 Saudi Riyal note is on top of a Dell product.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00014300.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red, black and white coffee pod that reads Timothy's.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003143.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A freezer burned 4 masala dosa with potatoes and spices inside.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007179.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A folded Saudi Riyal 50 note with the number 50 written in red on the bottom right corner.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006234.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A German Shepherd dog with a collar and a bone in its mouth lays on a gravel patch.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003246.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A book with a number 362 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010940.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of Purina brand Mois Meat food for cats.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004063.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a 2 dollar bill from Brunei.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021672.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Noxzema classic roll on after shave lotion.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006446.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of perfume with the words Soleil De Rochas on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008534.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of Honey Nut Cheerios is on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011040.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Heineken sits on a table next to an orange.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008267.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A picture on a wall has the website www.art sun light.com on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015626.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A container of Australian Beef Mince has a heart on the label.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010701.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A round white St. Killian 45% full fat soft cheese on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008786.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A DVD cover for the movie The Hunger Games.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017857.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A five euro note from the country known as eyer.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00001519.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blue sign that reads Mission and gives information about the Deaf-Blind Service Center.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00007724.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A magazine article with the headline Vennen Gennem written in black. ### Description: The image depicts a page from a magazine featuring multiple articles and images of celebrities. The layout is visually dynamic with a mix of text and images. The primary focus of the image is on three main articles, each with a distinct title and accompanying content. \
+\
+Starting from the top left, the first article is titled \"Veninder i tykt og tyndt\" (which translates to \"Friends in Thin and Fat\"). This section features a photo of a woman with long hair and sunglasses, positioned centrally in the page. The text below the image discusses a friendship between two individuals, likely referencing Drew Barrymore and Cameron Diaz. The content includes quotes and details about their relationship, indicating that they are close friends.\
+\
+Moving to the right, the second article, titled \"Jennifer Aniston og Courteney Cox,\" discusses the friendship between Jennifer Aniston and Courteney Cox, likely referring to their relationship in the context of the TV show \"Friends.\" The text beneath the image of the two women highlights their long-lasting friendship, mentioning that they are still close after the show ended.\
+\
+The third article, at the bottom of the image, is titled \"Vennen gennem sværgede tider\" (which translates to \"Friend through thick and thin\"). This section appears to focus on a friendship that has endured through challenging times, likely referring to Jennifer Aniston and Courteney Cox again. The
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007928.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of Bremer Selects French Onion Rings. The box is 9 ounces. The box is sitting on a wooden table. The box is open and you can see the onion rings in the box. A person has their hand on the box.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011063.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of banana chips with a yellow label on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000196.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red box with the word valia on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015145.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A yellow package with a red character wearing sunglasses is in someone's hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001487.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A cup that has the letters GT on it is filled with pens.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023327.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blue and green box of Jello sitting on a carpet.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010802.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A twenty pound bill with the queen on the front.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020668.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A packaged food product called Classic Moussaka.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006423.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red can of \"Axa\" sits on a blue counter. The can has a picture of food on the label.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005981.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pack of Parliament Aqua Blue cigarettes with arabic on the back.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004736.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A green sign with the word pizza on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010467.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		An artwork photo that is blurry of a crowd of people and the word power does not appear.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006306.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A product package that is labeled 'belgian chocolate thins'.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020044.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of body wash that is by Hackett London.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00002058.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A container of greek yogurt that is essential everyday.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004788.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of hot sauce with a rooster on the label has the words original quality on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00002232.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Sangster's Jamaica Rum Cream.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010663.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of President's Choice French Francaise that is 475 mL.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011880.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A twenty pound Bank of England note is on a wooden table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016587.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A hand holding a dollar bill with the word one dollar at the bottom.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007132.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of LokA natural water from Sweden is on the table..
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00012433.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A green and white sign above the ground that reads Sammelplatz 2..
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010657.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Nature Valley almond sweet and salty bar is on someone's lap.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00012120.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A hand is holding a crumpled 5 dollar bill with the word Bank of England written on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011323.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A talk mobile book that has a world map on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000407.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red and white piece of paper has Chinese letters on it and a date that says 2013/11/26.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013808.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 100 note from the Rial Bank in the Emirates Central Bank.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007196.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of food that is 206 grams.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00006151.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A piece of paper that says Wirtschafter's Informatik is on a white table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00005452.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red bag has the word tekan on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00000315.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Milk Thistle dietary supplement on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00014013.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person in a striped shirt is holding up a bill that says one dinar.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006305.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A map of Australia is on a blue board showing the different regions of the country.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018154.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A captain america action figure is in someone's lap whose shirt has the letter a on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004119.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A colored photo of a man shows a glare of light on his forehead.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003817.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of wine that is labeled Wil-D- Sac. <PERSON> placed against a calendar.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020467.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of Taste of the wild cat food with a mountain lion on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018882.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 100 Hong Kong dollars bank note is on the table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004442.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A plate of food that is called Moussaka. It is a classic meal. It is made for one person as a meal. It contains mince lamb, tomato sauce and sauteed potatoes. It is sprinkled with cinnamon and nutmeg. It is a chilled meal. The background is white with a bit of greenery. The plate is gold. The food is very colorful. There is a nutrition label on the front of the box. It is purple in color. There is also a description of the meal on the front of the box. It is in black and white. There is a picture of the food on the front of the box. The box is rectangular. It is a bit dirty on the sides. There is a white background behind the box. The box is on a wooden table. The table is a light brown color. The plate and food are in the center of the image. The nutrition label and description are on the bottom of the image. The picture of the food is on the top of the image. The box is in the center of the image. The table is on the left side of the image. The nutrition label is on the right side of the image. The description is on the left side of the image. The food is in the center of the image. The plate is in the center of the image. The background is on the left side of the image. The food is on the right side of the image. The nutrition label is
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003221.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A small Christmas tree with bright green lights is in front of a white wall.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00001091.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bank note with a man's face and Arabic letters.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00000354.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A framed photo shows a woman holding an umbrella and a young girl in a pink dress.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021905.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A hand is about to grab a 20 dollar bill that is on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023009.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A train ticket with the year 2013 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00000614.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A page of a book with arabic text and a pair of glasses on top.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011026.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A McDonalds cup with a straw in it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005300.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a yellow sauce  can around that says feves dans une source tomt.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.##.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005403.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of white basmati rice is on someone's lap.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001677.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box with a green cover that says 'from the slopes of kenya' on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003190.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of hot pockets is on the stove next to some cookware.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008654.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		Two puppets are wearing blue dresses with white patterns and have their eyes closed.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006643.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Jean Paul Brun from 2010 is shown.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016865.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a flyer from Eastern Winds that says they are open 7 days a week.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017451.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A package of a food product from India that has a woman and a rabbit on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008426.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blurred dog has a collar with a tag on it. A person is petting it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011909.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		Someone has drawn a face on a 1000 bill from Oman.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010409.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person holding a small statue of a man laying down.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022709.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blurry photo of a woman and a child with the words \"Bad Taste\" above them.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016989.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		Three different cans and boxes of food including SPC peaches in a white bowl.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000641.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red and blue sign has a sticker of a sun on the blue portion.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001947.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blue book with the words auf die lange kommt es an on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023384.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A ten pound note that was made in 2010 is on a blue cloth.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021363.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A menu with several food choices and it starts with Menu 3.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00005852.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A flags of the United States and Ireland are displayed on a wall.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00007041.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A piece of paper with a foreign language that includes the numbers 27 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022052.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of S&B seasoning in a brown bottle.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003660.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pack of Dunhill cigarettes with Arabic writing on the bottom.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022359.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A back of a book that says 'opgaven' on the bottom.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005572.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A wrinkled one dollar bill from Singapore has a number 405716 on the bottom.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009898.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A carved elephant with two babies is hanging on a white column. The elephant is standing with it's front two legs together. The column is by a window with a lace curtain. The carving is brown. The design on the column is a horizontal line with up and down curves. The design is also on the wallpaper behind the column. The carving would probably be more visible if the photo was taken in a brighter setting. The curtain covers the entire window. The design on the curtain is flowers and leaves. The curtain has a sheen to it, as if it is silk. The wallpaper is also covered in a floral design. The wallpaper is white with a gray border. The border has a design of up and down curves. The column is white and reflects the light. The carving is in a scene and the elephant is facing to the left. The elephant is standing on its back legs with it's front two together and the back two apart. The two babies are standing in the front of the elephant, also on their back legs with their front two together. The babies are facing the elephant. The carving is mostly brown but has some black in it. The elephant has a trunk that is curled under and facing to the right. The two babies each have a small trunk that is curled under and to the side. The elephant has large ears that are laying back and the babies have smaller ears that are laying forward. The elephant has a small tail that is curled under and to the side. The
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004250.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The picture of the moon on the table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000186.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close up of a baby food Gerber apples and bananas in plastic container.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004769.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a bill with the word Paris on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022104.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box with an Arabic language label is being held in a hand. on the label it says, \"y. m. c. a.\".
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00001431.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A can of a German product has a blue and black label.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008570.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A twenty dollar bill with the serial number JB4506683A.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013644.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of brat kartoffeln on a stone surface.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016135.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of soda with the word Coca Cola on it is being held in a hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00001119.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A green package has the number 6 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008935.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A poster that has arabic writing that says \"Eid Mubarak\" on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022370.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A painting that has people and trees on it and says 18 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001935.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A statue of a man with a map of the confederate states in the background.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018129.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close up of various symbols and 51 Japanese characters on a black background.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001182.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of sweet potato that is good for you.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005307.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A statue of Buddha sitting on a table next to some stones with a small piece of paper in his hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009592.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A package of ravioli that is from Tesco Finest brand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013353.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A white pitcher that has a man and a woman on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013915.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A man holds a bottle of Alaskan Summer Kolsch-style Ale.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016438.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of Campbell's Real Stock Beef is in front of a white wall.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013905.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The back of a green bottle of Heineken says it is best enjoyed chilled.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022775.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A CD cover has a man wearing a hat on it and the number 3 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00005679.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A can of hot enchilada sauce is on a white counter.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001231.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A perogies dish is on the table and the box claims it's real potato.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007707.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A statue of a woman dancing with a pot on her arm and a pointy head piece.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001294.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Merry Christmas cartoon with a woman in a green dress frowning at Santa.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011257.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 1000 denomination of currency from a country that uses Japanese is laying on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022721.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A page has a blue button that says iPhone in the middle of the page.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009115.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Remington Netttoyant et Filtre sitting on a wood surface.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006869.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 100 denomination bill from an unidentifiable country has Arabic script on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009927.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A package of a food product from Radix Angelicae Sinensis that weighs 16 net wt. and was packed by XIN CHANG TRADING COMP. in the Fan Cui district. The language on the package is in Chinese characters.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00006695.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A small package of something with the word ANA on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00014621.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pack of Dunhill Master Blend cigarettes with German writing on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009533.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 100 Omani Rial note is folded in half.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003944.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A book by Pierre Combescot called Les Petites Mazelines.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003069.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 12 oz box of Liberty Orchards fruit delights.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022470.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A sign with a picture of food on it that reads Couscous.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003826.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Rolex watch has a black face and is on a persons wrist.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006437.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box for kashin spicy black bean entree with rice.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000318.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A brown and black dog is sleeping on a deck in an orange collar that has a tag on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021840.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Coviran gel with a pair of earphones next to it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00019307.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Unteralnder Brau Huusbier sits on a wooden table..
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015549.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A rental textbook called The American Paradox.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004196.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pack of mild cheddar cheese from Tesco is in the palm of a hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00019475.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bunch of grey stone idols on the ground with one having the letters ib read written on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005967.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A dollar bill that says one dollar on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017285.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Trivento Amade Sur Malbec wine on a counter.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001305.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A swimming race is taking place and the scoreboard says 3rd place.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009374.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A closet with dresses hanging and one dress has a belt with gold sequins.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009187.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A children's book with the title The Miserable Mill.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004305.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A close up of a bottle of Indian powder.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003583.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A ten dollar bill from Canada is laying on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018627.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A page showing chinese cooking instructions and the number 180 on the left side.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020775.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A package of spices that is called Ground Turmeric.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006219.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Goldbrau has a white label on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021754.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A man in a red and grey plaid shirt is holding a leash to two dogs that are next to a chair. One is black and the other is brown. The brown one looks like a German Shepard. The other is smaller and looks like a lab. They are indoors, in front of a tree in a large pot. The tree has two trunks growing out of the same pot. The man is wearing grey shorts and a black shoe on his left and a pink shoe on his right. He is also wearing a bracelet on his left wrist. The dog is a bit dirty. There is a grey rug with a pattern on the floor. There is a couch and a chair in the room. The chair is brown. The room has white walls and the baseboard is tan. It looks like there is a fireplace in the room, but it is not visible. The man is standing on the carpet in front of a wooden door frame. The light is coming from the left. The picture is a bit blurry. The man is standing with his left hand on his hip and his right hand holding the leash. The dog is standing still. The other dog is laying down. The leash is grey and there is a clip on it. The clip looks like a plastic piece with a ring on it. The dog has a collar on and a tag. The tag is silver. The brown dog has a white spot on his back. The black dog has a white spot on his nose. The
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00014187.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of the original Smith's chips that is 75% less saturated fat.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011282.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blured photo of the cast of the television show The Office.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011595.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bill from the bank of egypt has a blue bird on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016086.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Stiegl Goldbrau sits on a wood table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005660.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A flyer for the Bakery Cafe at the Hyatt Place.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013878.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blue can of Bud Light sits on a counter.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005551.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A menu that has a bowl of food that is half price.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023231.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of tusan house italian dressing that says no artificial preservatives.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004050.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A hand holds a container of Napoleon Fresh Food Gourmet Applesauce.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004875.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box for Wurzer Zuckerk is on a table in a room.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00002857.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a container of Roland Yellow Curry Paste.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007127.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A flag of the United States of America with 13 stripes and 50 stars.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020144.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A five pound currency note from the Bank of England is crumpled.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00012694.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A book with the name'smilja' on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020459.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A tube of body wash made in England.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00007299.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pair of Ray Ban sunglasses are being held in someone's hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008663.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Beloka water from Australia is on the table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022842.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is sitting on a red patterned blanket with a bear on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00006637.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A painting of the last supper has people wearing blue.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00003707.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A flyer that has the word whataburger at the top and bottom of the page.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00005913.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A warning label with the word wysoce at the top.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018387.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Halloween party is scheduled for October 27th at 6:00 pm.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004542.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 10 rupee note from the Reserve Bank of India with a picture of Gandhi on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00002858.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Canada 5 dollar bill is on top of a blanket.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00002474.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Canadian Tire money with a smiling man on the back and a value of 5 cents.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021226.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person holding a 20 Mexican pesos bill.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00018504.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A wrapping paper has the words happy hundredth on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001105.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A passport from the European Union is displayed on a carpet.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021490.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The year on the cover of this notebook is 2005.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010880.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A ten dollar bill from Guernsey Bank Limited sitting on a black table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023238.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A package of noodles with a date on it of 08.12.28.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023420.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A 20 reais bill from the Banco Central do Brasil.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016300.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A plastic container with a red and white label that says Beef Stroganoff.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003210.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A Del Monte brand cut green bean product is shown.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008384.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person is holding a can of Royal Milk Tea in their hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023035.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A coffee bag label that is from Amazing Clubs.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006502.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A red 100 that is on top of a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009968.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A control knob for a NESCO food warmer is shown. below the knob are numbers from 1 to 9. above the knob the words NESCO is seen. in the background a silver plate is seen.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00006144.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of uncooked pretzels sitting on a black leather chair.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00016688.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A coke bottle with he writing of diet on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011561.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A silver coin with a bird engraved on it and chinese characters.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010523.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A food product with Chinese characters on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00008133.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		The book was written by Ryszard Pwinski and is called Mitologia Arabow.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00011078.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A frozen meal of chicken satay that only requires 8 minutes in the microwave.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000406.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A blue book titled Le Robert & Collins is on a couch.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022637.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A  can of Ratatouille form Freshona is on a granite counter.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022143.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A crumpled paper money with the number 2 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00009467.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A black Collins German Dictionary and Grammar book that is now in color.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00021681.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A container of creme brulee and tiramisu sitting on a wooden table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00007203.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A yellow and green carton contains sugar-free green tea.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00003808.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A CD case for the game Mortal Kombat that has a black label in the upper right corner that says ESRB.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00013100.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bag of Dunkin Donuts coffee has the storage instructions on the back.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00001421.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A black and blue picture with a woman and a man on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00002213.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bottle of Jamaican jerk marinade on a wooden table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00020916.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A plastic container of TESCO mince beef sits on a table.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00010010.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A yellow bag of a food item that is labeled 300g.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00023404.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A bank note from Singapore with the number 3 on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00006711.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A person holds a half dinar note from the Central Bank of Bahrain in their hand.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004206.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A can of tesco premium cuts in gravy with duck and heart.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00005411.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of Goolsby's premium country sausage on a sink.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00004747.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A green and white can of a drink that is called 'yishi' on the label.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00022546.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A building with the words wash center on it.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00000136.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A can of sweetened condensed milk from the brand Giant Eagle.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_val_00004175.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A twenty dollar bill with a man's face on the front.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00017396.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A pair of pants with a package of Lilva Papad sitting on top.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00015152.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A box of a chocolate product called Hometown Classic.
+/mnt/ceph_rbd/visual-assistant-eval/cultural_images/VizWiz_train_00002632.jpg	<|begin_of_text|>You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+User:<image>Write a caption that describes this photo.\
+Assistant:		A five pound Bank of England bill is being held in someone's hand.
