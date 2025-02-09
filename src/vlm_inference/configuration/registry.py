@@ -362,10 +362,10 @@ cs.store(
 
 cs.store(
     group="model",
-    name="minicpm-llama3-v2.5",
+    name="minicpm",
     node=HfModelConfig(
         _target_="vlm_inference.CpmModel",
-        name="openbmb/MiniCPM-Llama3-V-2_5",
+        name="openbmb/MiniCPM-V-2_6",
         size="",  # not used
         dtype="float16",
         model_cls=HfModel(

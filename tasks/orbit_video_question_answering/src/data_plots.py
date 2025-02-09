@@ -11,9 +11,9 @@ from tqdm import tqdm
 
 # Load the dataset
 qa_dataset_path = (
-    "/users/mn2002/sharedscratch/vizwiz-culture/tasks/video_object_recognition/orbit_question_answers.json"
+    "tasks/orbit_video_question_answering/data/combined_qa_data.json"
 )
-videos_dataset_path = Path("/users/mn2002/sharedscratch/vizwiz-culture/tasks/video_object_recognition/orbit_videos")
+videos_dataset_path = Path("tasks/orbit_video_question_answering/data/videos")
 
 with open(qa_dataset_path, "r") as f:
     qa_dataset = json.load(f)
@@ -26,6 +26,10 @@ print(f"Number of videos: {num_videos}")
 groups = [v["group"] for v in qa_dataset]
 print(f"Number of videos per group: {pd.Series(groups).value_counts()}")
 
+# Number of clean videos
+clean_videos = [v for v in qa_dataset if v["video_type"] == "clean"]
+print(f"Number of clean videos: {len(clean_videos)}")
+
 # Number of participants
 for sample in qa_dataset:
     video_path = sample["video_path"]
@@ -34,6 +38,14 @@ for sample in qa_dataset:
 
 participants = [v["participant"] for v in qa_dataset]
 print(f"Number of participants: {pd.Series(participants).nunique()}")
+
+# Number of videos per question type
+question_types = [v["question_type"] for v in qa_dataset]
+print(f"Number of videos per question type: {pd.Series(question_types).value_counts()}")
+
+# Number of vip videos per question type
+vip_question_types = [v["question_type"] for v in qa_dataset if v["is_vip_object"]]
+print(f"Number of VIP videos per question type: {pd.Series(vip_question_types).value_counts()}")
 
 # Number of videos per participant
 videos_per_participant = pd.Series(participants).value_counts()
@@ -48,34 +60,35 @@ vip_objects = [v["object"] for v in qa_dataset if v["is_vip_object"]]
 vip_groups = [v["group"] for v in qa_dataset if v["is_vip_object"]]
 mapping = {
     "recorder": "voice recorder",
+    "pencil": "Braille stylus",
 }
 vip_groups = [mapping.get(v, v).capitalize() for v in vip_groups]
 print(f"Number of VIP videos: {len(vip_objects)}")
-print(Counter(vip_objects).most_common(50))
+print("VIP Objects", Counter(vip_objects).most_common(150))
 # General objects
 non_vip_objects = [v["object"] for v in qa_dataset if not v["is_vip_object"]]
 non_vip_groups = [v["group"] for v in qa_dataset if not v["is_vip_object"]]
 print(Counter(non_vip_objects).most_common(50))
 
+vip_groups = [mapping.get(v, v).capitalize() for v in vip_groups]
 # sort based on frequency
 vip_group_counts = Counter(vip_groups).most_common()
 # Make a histogram of the groups
 plt.figure(figsize=(12, 6))
-plt.bar([v[0] for v in vip_group_counts], [v[1] for v in vip_group_counts], zorder=3)
-plt.xticks(rotation=40, fontsize=16)
+plt.barh([v[0] for v in vip_group_counts], [v[1] for v in vip_group_counts], zorder=3)
+plt.yticks(fontsize=16)
 plt.title("ORBIT Video Group histogram", fontdict={"fontsize": 18})
 # rotate x labels
-plt.ylabel("Count", fontdict={"fontsize": 18})
+plt.xlabel("Count", fontdict={"fontsize": 18})
 # add count on top of the bars
-for i, v in enumerate(vip_group_counts):
-    plt.text(i, v[1] + 0.15, str(v[1]), ha="center", va="bottom", fontsize=14)
+# for i, v in enumerate(vip_group_counts):
+#     plt.text(i, v[1] + 0.15, str(v[1]), ha="center", va="bottom", fontsize=14)
 
 # add horizontal grid lines
-plt.grid(axis="y", zorder=0)
+plt.grid(axis="both", zorder=0)
 # ylim
-plt.ylim(0, 30)
-plt.tight_layout(pad=0)
-plt.savefig("tasks/orbit_video_object_recognition/data/orbit_video_group_histogram.pdf")
+plt.tight_layout()
+plt.savefig("tasks/orbit_video_question_answering/data/orbit_video_group_histogram.pdf", dpi=300, bbox_inches="tight")
 
 
 # Make a wordcloud
@@ -97,7 +110,7 @@ plt.figure(figsize=(6, 6), facecolor=None)
 plt.imshow(wordcloud)
 plt.axis("off")
 plt.tight_layout(pad=0)
-plt.savefig("tasks/orbit_video_object_recognition/data/orbit_vip_object_wordcloud.pdf")
+plt.savefig("tasks/orbit_video_question_answering/data/orbit_vip_object_wordcloud.pdf")
 
 # plt.subplot(1, 2, 2)
 wordcloud = WordCloud(
@@ -113,7 +126,7 @@ wordcloud = WordCloud(
 plt.imshow(wordcloud)
 plt.axis("off")
 plt.tight_layout(pad=0)
-plt.savefig("tasks/orbit_video_object_recognition/data/orbit_object_wordcloud.pdf")
+plt.savefig("tasks/orbit_video_question_answering/data/orbit_object_wordcloud.pdf")
 
 
 # Duration histogram
@@ -138,7 +151,7 @@ for video in tqdm(videos_dataset_path.iterdir()):
 
 # remove outliers
 frame_counts = [f for f in frame_counts if f < 2000]
-durations = [d for d in durations if d < 80]
+durations = [d for d in durations if d < 78]
 print(f"Frame counts min: {np.min(frame_counts)}")
 print(f"Frame counts mean: {np.mean(frame_counts)}")
 print(f"Frame counts median: {np.median(frame_counts)}")
@@ -158,4 +171,4 @@ plt.xlabel("Duration (seconds)", fontdict={"fontsize": 18})
 plt.ylabel("Count", fontdict={"fontsize": 18})
 plt.grid(axis="y", zorder=0)
 plt.tight_layout(pad=0)
-plt.savefig("tasks/orbit_video_object_recognition/data/orbit_video_duration_histogram.pdf")
+plt.savefig("tasks/orbit_video_question_answering/data/orbit_video_duration_histogram.pdf")
