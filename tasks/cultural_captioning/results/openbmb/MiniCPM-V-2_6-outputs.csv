@@ -1,0 +1,1297 @@
+image_path	prompt	ground_truth	response
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023346.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An evening of fine wine and relaxation: A bottle of 2omaine Les Raymond Châteauneuf-du-Pape from 2008, ready to be savored in a cozy setting.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023685.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a book titled \"Smil, Smilja\" by Moskito, which is cataloged with the number number 2596014 and has a barcode on its cover. The book's title suggests it might be about young love during war in Bosnia.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005176.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Engaging Your Mind: A Russian Children's Puzzle Book by P.A. Remesova, Featuring a Colorful Tower and Gift Box Cover Design.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007395.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Embarking on a Journey: Discovering the First Greek Voyage to India\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016972.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a t-shirt featuring the Jamaican flag and coat of arms, symbolizing national pride and heritage.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022315.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Nutritional Information and Cooking Instructions for a French Green Vegetable Mix, Featuring Petit Pois, Haricot Vert, Chou Romanesco, and Pois Gourmand.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010827.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Harmony in Diversity: A Vibrant Display of Cultural Symbols and Colors.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018636.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A South African 100 Rand banknote, featuring the Reserve Bank's seal and a detailed depiction of a leopard.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013958.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A crumpled £10 Bank of England note featuring Queen Elizabeth II.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00006906.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a hand holding an Indian coin, showcasing the country's currency and cultural heritage.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009537.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Charging a ZTE mobile device on a wooden surface, showcasing the brand's simplicity and functionality.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021860.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A historical marker commemorating Shabi Well, a 1300-year-old water source with significant cultural and memorial importance.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020390.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up view of a can of Alpo Originals Gravy Beef dog food, showcasing the brand's promise of tender and meaty recipes.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008158.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Corona Light beer bottle, showcasing its iconic yellow and white label with the brand's Mexican heritage.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007716.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An atmospheric movie poster for M. Night Shyamalan's 'Signss,' featuring a mysterious family and the enigmatic symbol of a keyhole.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013488.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Spicy Korean Kimchi Stew: A Flavorful Blend of Fermented Vegetables and Spices.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00005616.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Colorful Cultural Expression: A Traditional Middle Eastern Djembe Drum with Intricate Artwork.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009729.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Delightful Taste of Scotland: A jar of Scott's Black Cherry Jam, a classic extra jam made by R. W. Scott Ltd., Canada.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022287.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Discover the authentic taste of Thailand with Roi Thai Tom Kha Soup, a convenient and delicious coconut milk soup mix perfect for adding your own choice of meat and vegetables.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017202.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A well-worn $1 Singapore banknote featuring a satellite dish, resting on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00012211.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Colorful Easter Celebration: A Table Ready for Egg Decorating with Dyes and Decorative Eggs.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023093.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a vintage Visage Lift bottle, showcasing its aged and textured label, against the backdrop of a blue-patterned fabric.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015033.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"10,000 Yen Banknote featuring a historical Japanese figure, showcasing intricate design details and security features.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006249.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Old El Paso Whole Green Chiles: A staple ingredient in Mexican cuisine, perfect for adding flavor to your favorite dishes.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000743.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A Saudi Arabian 100 Riyal banknote featuring King Abdullah bin Abdulaziz Al Saud, known for its intricate Islamic art and Arabic calligraphy.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00006667.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Home Style Beef Goulash: A comforting meal featuring ground beef, elbow macaroni, select tomatoes, and a blend of savory spices, perfect for a cozy night in.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008637.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A jar of Turmeric Powder sits on a kitchen counter next to a digital timer, ready for use in cooking or seasoning.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016613.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Hot Tamales: A spicy treat from the vibrant world of confectionery.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016654.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Embracing the Austrian Alps: Discover Over 100 Walksss and Multi-Day Treks in 'Walking in Austria' by Kev Reynolds, published by Cicerone.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004275.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A 2eleaaunef-du-Pape wine bottle from the year 2011, showcasing its distinctive label with a papal emblem and indicatinged by Tesco.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003258.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A charming souvenir mug from Brugge, featuring a picturesque scene of the city's iconic architecture and lush greenery.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000849.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Hak Hi Jamaican Jerk Sauce, highlighting its vibrant label and original flavor.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007754.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A delightful assortment of fresh sashimi, featuring salmon, tuna, and yellowtail, beautifully presented with garnishes on a traditional Japanese dish.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00014413.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Exploring the pages of a book: A glimpse into the literary world through German text.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023409.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Pop Sensation: One Direction's Album Cover Capturing the Group's Charismatic Energy on a Wooden Surface.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015337.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand resting on a 500 Indian Rupee note, showcasing the currency's unique design and cultural elements.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017038.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An inspirational message in Chinese, emphasizing limitless opportunities and the importance of love, integrity, and trust.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00014627.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An iconic representation of American currency: The one hundred dollar bill featuring Benjamin Franklin.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006454.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Effective Protection Against Flying Insects: Raid's Multi-Functional Bug Spray Combats Flies and Mosquitoes for a Pest-Free Environment.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016138.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Australian 50 Dollar Banknote Featuring Sir Zelman Cowen\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023024.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Exploringing Mobile Applications for the Blind: A Spanish-language article discussing VizWiz, a mobile app designed to assist visually impaired individuals by identifying objects in their environment.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00002732.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A Canadian twenty-dollar banknote featuring Elizabeth II, placed on a floral fabric background.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00000422.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A close-up view of a computer screen displaying an article about electronic books and accessibility, with the Scrivener application open on the left side.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00019879.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A person holding a colorful Australian 50-dollar banknote featuring notable landmarks and the portrait of an influential figure.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004118.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A pack of Gold Marlboro Original cigarettes with Hebrew warnings, indicating a health advisory in red.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018737.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Ready-to Cook Chicken Chile Verde Burritos - A quick and flavorful meal option from the comfort of home.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017625.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A British ten-pound banknote featuring Queen Elizabeth II, with the serial number EB02 256810.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016288.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A packaged ready-to eat meal featuring Chicken with Satay Sauce, highlighting its vibrant and flavorful appearance.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015880.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Authentic Italian Vegetarian Tomato Sauce: A Taste of Modena's Nonna's Delicacies, Made with Pride and No Preservatives.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009568.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Vintage Japanese-inspired metal cart with intricate designs and a 'TRADE MARK' label, showcasing cultural motifs.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00002179.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A 500g container of Homebrand Table Salt, made in Australia and featuring a red and white design with the Australian flag.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006969.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a British Lean Beef Steak Mince package with an expiration date and price details, showcasing the product's origin and quality.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008139.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"A Heartfelt Moment: A Grandfather's Love and Playtime with His Grandchildren by the Sea\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003542.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Vintage British Flag Phone Case: A Touch of National Pride in Everyday Accessories.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004119.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"22 Canadian Dollar Bill on a White Crocheted Doily\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00014670.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoy a quick and tasty Thai fish porridge with jasmine rice, featuring a convenient 10-second preparation time. Perfect for a quick meal on the go!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004375.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"John Denver Unplugged in the USSR: A 3CD Collection Featuring a Full Concert and Rare Performances.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011554.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Tesco Finest British Beef Rump Steak - Fresh and Ready to Cook, Featuring a 10% Discount on Display Until March 18th.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00002473.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Whimsical Whispers: A Van Gogh-Inspired Floral Symphony in Blue and Brown\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018403.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Timeless Elegance: A Vintage Windmill and Bridge, Captured in Monochrome.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017152.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of Casanova di Nipozzi Tenuta Nuova Brunello di Montalcino from 2 year, showcasing the elegance and heritage of Italian wine.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018777.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Capturing Nature's Beauty: A Close-Up of Purple Wildflowers Against a Neutral Canvas.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015099.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Exploring the world through a 5 Euro note, capturing art and culture in every fold.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005540.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A traditional menorah stands ready for Hanukkah, its unlit candles waiting to be bring a warm glow.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010212.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of Villa Cerrina Montepulciano d'Abruzzo, a 2asty Italian red wine from the renowned Abruzzo region.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022768.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Embracing the Wild and Romantic: Discovering Germany's Natural Beauty and Adventure Awaits!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010603.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Patriotic Pride: The American Flag and the Pledge of Allegiance in Braille, Celebrating National Identity.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011509.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Preparing a delicious, ready-to-eat meal: FreshDirect's Smart & Simple Chicken & Shrimp Paella with Saffron Rice on a busy kitchen counter.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000526.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Close-up of a British £10 Banknote featuring Queen Elizabeth II.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022448.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Indulge in the authentic flavors of Michelin's Signature Rice, A fusion of vibrant vegetables and aromatic spices for a satisfying meal.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00007209.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A detailed close-up of a Saudi Arabian banknote featuring the portrait of King Abdulaziz, with intricate Islamic architectural elements and Arabic script.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017726.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a refreshing Ožujsko JABUKA beer, brewed since 1892 in Zagreb, Croatia.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008986.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Commemorative Mug Honoring Queen Elizabeth II's Diamond Jubilee: Celebrating 60 Years of Service with a Special Commemorative Mug.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016701.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Handcrafted Wooden Sculpture Depicting a Mythical Creature with Intricate Base Design.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013201.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Handcrafted wooden mask showcasing vibrant colors and intricate designs, reflecting traditional artistry.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007362.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Heineken beer bottle, highlighting its origins in Holland and commitment to premium quality.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00001429.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Indulge in the rich flavors of Colombia Supremo 'La Valle Verde' coffee, a carefully roasted blend by CoffeeAM for Travis Roth.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001931.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Indulge in the Flavorful Delights of Our Tortilla Wraps - A Fusion of Fresh Vegetables and Savory Fillings!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022943.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holds a 500 Turkish Lira banknote, showcasing the intricate design and denomination.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011759.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Feast on the Finale: A Close-Up of a Nearly Finished Pizza with Pineapple and Pepper Toppings, Ready for the Last Bite.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00007749.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A 10 Australian Dollar Banknote Featuring Mary Gilmore, Celebrating the Legacy of Australia's Cultural Icons\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013020.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Balancing Nutrition and Convenience: A Smart Ones meal box highlights portion control, whole, and smart food choices for a healthy lifestyle.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00002977.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up, blurry image of a currency note on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003739.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A close-up view of a Pevison product packaging, featuring Greek text and the brand name prominently displayed.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00002599.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of Dewar's Scotch Whisky, a renowned brand hailing from Scotland, showcasing its classic label design.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000697.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An unexpected find: a Target coupon booklet amidst the remnants of a meal, hinting at the blend of everyday life and consumerism.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008458.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Korean 50,000 Won Banknote featuring a traditional Korean woman's portrait and intricate patterns.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000473.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A United States one-dollar bill, featuring Benjamin Franklin's portrait and the inscription \"In God We Trust.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005873.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Shopping in style: A Gatorade bottle rests on a clothing rack amidst the vibrant colors and busy shoppers of a bustling retail store.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00000403.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Computer Repair Screen in Portuguese - Displaying options for Initial Boot Repair and sending error information to Microsoft.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018257.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of Pascual Toso Malbec from 2210, nestled on a denim backdrop, showcasing the rich heritage and quality of Argentine wine.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023166.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Discover the vibrant flavors of Asian cuisine with this new and improved recipe from AI PEI, featuring a colorful medley of shrimp, broccoli, tomatoes, and bell peppers.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015848.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A curious Schnauzer puppy gazes upwards, perhaps awaiting a treat or a command in the cozy domestic setting.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008757.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Abstract Expressionism: A Vibrant Dance of Geometric Forms and Color on a Textured Canvas.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000157.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An up-close examination of a mysterious, translucent coin held between fingertips.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021653.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Japanese green tea bottle, showcasing its vibrant packaging and cultural significance.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00006636.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Springtime Delights: A Bunny's Easter Adventure on a Colorful Fabric Canvas\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009340.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A can of Fanta sits on a wooden table, showcasing the brand's iconic blue and yellow colors.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017167.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Central Bank of Bahrain Five Dinars Note: Featuring iconic landmarks and an oil derrick, symbolizing the nation's rich history and resources wealth.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008513.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a packaged snack with Arabic script, possibly indicating the brand or product type.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003374.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A Glimpse into Swiss Culture: A Newspaper from February 2, 2013 Featuring a Discussion on African Affairs and Morality.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006868.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A convenient and health-conscious meal option from Tesco, featuring Chicken Curry with Rice, highlighting its low fat content and moderate calorie count.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009892.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A simple yet elegant black cord necklace featuring a cross pendant, symbolizing faith and spirituality.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00019659.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A colorful snack package with Japanese text, possibly a popular Lotte candy named \"Watta,\" ready to be enjoyed.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013223.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A close-up view of a ready-to-eat Fisherman's Pie, showcasing the vibrant and appetizing toppings.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022231.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a red and green can labeled \"NANO MÄSSE BLOCKerER,\" showcasing its protective nano-technology for leather, textile, and food safety.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00001685.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A person is holding a Jordanian banknote, showcasing its intricate design and cultural imagery.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020785.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A chilled bottle of Kopparberg Premium Cider, a genuine Swedish beverage made with blackcurrants and raspberries, sits on a kitchen counter alongside everyday household items.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00012323.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Jamaican Rum Cream bottle, showcasing its label and the signature of Tom Sanger, highlighting the product's rich heritage and award-winning status.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016854.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Whispers of Spring: Van Gogh's Blossoming Branches Captured in Timeless Blue and White.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008874.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoy the flavors of Spain with this convenient, pre-made Spanish Rice mix from Fiesta Side. A perfect side dish for any meal!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011837.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a wine bottle label from Spain, showcasing the brand \"Dimitri Luiles\" and its historical significance.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016515.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A pack of Heineken beer, a popular Dutch brand known worldwide for its premium lager.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022555.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A 100 Iraqi dinar note with a portrait and architectural imagery, placed on top of a black electronic device.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00014300.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An up-close view of a Timothy's World Coffee K-cup, featuring their Colombian Excelencia blend, resting on a textured countertop.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003143.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a taste of India with Trader Joe's Masala Dosa, a flavorful crepe filled with spiced potatoes and onions.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007179.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A Saudi Arabian 500 Riyal banknote featuring King Abdullah bin Abdulaziz Al Saud, with Arabic and English text.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006234.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Guardian of the Garden: A German Shepherd's Quiet Vigil in a Sunlit Oasis.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003246.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into Japanese language learning with the 'Shinuto no Shabiruu' Basic Master 362 series, designed for beginners and available on social media platforms.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010940.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Purina Moist Meats dog food package, highlighting the brand and product name.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004063.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holding a 5 Pakistani Rupee note featuring intricate designs and Urdu script.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021672.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holding a tube of Noxzema Classic roll-on antiperspirant, featuring Greek text on the label.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006446.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Sun-kissed Elegance: A Glimpse of Soleil de Rochas's Sunlit Beauty\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008534.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A box of Honey Cheerios cereal, featuring a blend of whole grains and natural honey flavoring, ready to be enjoyed as a nutritious breakfast option.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011040.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Relaxation Time: A Heineken and a fresh orange on a cozy wooden table, with the quiet hum of bookshelves in the background.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008267.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An Intimate Gaze: A Study in Contrast and Emotion, Featuring a Figure Adorned with a Wreath and Rich Textures.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015626.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Heart-Healthy Australian Beef Mince, Frozen and Ready to Cook.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010701.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"St. Kilian Mini Cheese, a 45% full-fat soft cheese from Carraig Byrne Farmhouse in Co. Wexford, Ireland.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008786.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A DVD cover of \"The Hunger Games\" movie, featuring a determined female character with a bow, symbolizing the intense and thrilling story set in a dystopian society.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017857.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"European Currency: A glimpse of a 5 Euro note, showcasing the EU flag and denomination.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00001519.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Supporting Deaf-Blind Autonomy: A Mission Statement for Inclusivity and Empowerment.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00007724.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A Glimpse into Friendship: A magazine feature on Jennifer Aniston and Courteney Cox, highlighting their enduring bond since 1994.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007928.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A box of Bremers Selects French Onion Soup, showcasing a delicious and creamy soup ready to be enjoy.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011063.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A package of Thai banana chips, a popular snack known for its crispy texture and sweet flavor.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000196.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a red \"Valia Kaffe\" coffee package, featuring raspberry flavors, placed on a kitchen counter with various household items in the background.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015145.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Unleavened Bread: A Cultural Delight from Japan, Featuring a Playful Cartoon Character and Authentic Packaging Design.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001487.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Ready for Study: A collection of pens in a Georgia Tech mug, symbolizing academic readiness and school spirit.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023327.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A box of sugar-free JELL-O lime gelatin dessert, highlighting its low calorie content and artificial flavor.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010802.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Queen Elizabeth II on a 2 twenty-pound note from the United Kingdom, showcasing intricate designs and holographic elements.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020668.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A delicious and colorful mousaka meal from ASDA's Choice range, showcasing a classic dish with layers of minced lamb, tomato sauce, sautéed potatoes, aubergines, and creamy béchamel.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006423.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An open can of MAXA, a popular brand in Southeast Asia, showcasing its vibrant red color and the promise of deliciousness within.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005981.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A pack of Parliament Aqua Blue cigarettes, featuring Arabic warnings on the packaging, placed beside a mobile phone and a green notepad.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004736.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Feast your eyes on the vibrant and colorful logo of Pizziz, a pizza place that's ready to serve you with pride!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010467.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"A Festive Gathering: Celebratingation in the Grand Tradition\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006306.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Indulge in the Simply Irresistible Belgian Chocolate Thins, a delightful treat that combines the rich flavors of chocolate with the freshness of mint.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020044.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Essential Grooming Essentials: Hackett London Body Wash, 2ay in England, alongside a modern blue device on a wooden surface.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00002058.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a container of Essential Everyday Greek Nonfat Yogurt, highlighting its natural ingredients and protein content.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004788.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Pickapeppa bottle label, showcasing the brand's iconic bird logo and highlighting its Jamaican origins.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00002232.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holding a bottle of Sangster's Original Jamaica Rum Cream, showcasing the rich heritage and tropical allure of Jamaican rum.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010663.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of French dressing, a staple in many kitchens for adding flavor to salads and dishes.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011880.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"£2 20 Bank of England Note Featuring Queen Elizabeth II on a Wooden Surface.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016587.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a person's hand with pink nail polish holding a United States one-dollar bill, showcasing the iconic portrait and serial number E11932767C.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007132.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of LOKA natural spring water from Hälsokallan, a mountain area in Sweden.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00012433.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Meeting Point 2 in the Fun Forest: A natural gathering spot surrounded by lush greenery and towering trees trunks.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010657.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A Nutravita Almond Bar, a healthy snack choice for on-the-go nutrition.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00012120.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A crumpled 5 British Pound note being held in a hand, showcasing the portrait of Winston Churchill.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011323.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Connect the World with Talk Mobile's SIM Pack: Bringing People Closer Together.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000407.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a red packaging for \"Yining Zeng Da Wan,\" a traditional Chinese medicinal supplement, placed on a granite countertop.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013808.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Close-up of a 100 Dirham note issued by the Central Bank, featuring intricate designs and security elements.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007196.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A box of President brand chocolate fudge bars, featuring a blend of milk and dark chocolate with nuts, weighing 2 206 grams.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00006151.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: A close-up of a book cover with the title \"Wirtschaftsinformatik,\" indicating it is related to Business Informatics, possibly in German-speaking region.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00005452.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Exploring the Vibrant Colors and Intricate Textsures of a Traditional Asian Packaging Design.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00000315.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enhancing Health: A close-up of Trader Joe's Milk Thistle dietary supplement, designed to support liver health and overall well-being.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00014013.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A person wearing a colorful scarf and striped shirt is holding up a one dinar banknote, showcasing its intricate design.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006305.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A colorful and detailed map of Australia, showcasing its diverse regions and major cities on a blue noticeboard.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018154.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A figurine of Captain America, the iconic superhero from Marvel Comics, juxtaposed against a soft fabric backdrop.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004119.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A vintage portrait of a distinguished gentleman in military attire, capturing the essence of historical elegance.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003817.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An intimate moment with Cul-de-Sac Chardonnay, a California wine that speaks to the simple pleasures of life.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020467.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A caption for the attached image could be: \"A glimpse into nature's bounty: Taste of the Wild Canyon River Feline™ Formula with Trout & Smoked Salmon, a grain-free diet designed to meet the nutritional needs of feline companions at all life stages.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018882.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A 100 Hong Kong Dollars banknote featuring intricate designs and the iconic Bank of China (Hong Kong Limited logo.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004442.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Classic Moussaka: A Rich, Savory Dish of Minced Lamb and Eggplant in a Creamy Bechamel Sauce with Tomatoes and Aubergines, Garnished with Fresh Herbs.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003221.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A cozy corner adorned with a festive teal-lit Christmas tree, embodying the spirit of holiday cheer.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00001091.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Portrait of a notable figure on an ornately designed currency note, featuring intricate patterns and Arabic script.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00000354.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Whimsical Childhood: A Moment of Joy and Imagination in a Garden Setting\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021905.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holds a 2 twenty-dollar banknote, showcasing its intricate green design and the portrait of a distinguished individual.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023009.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into the New Year's lottery ticket from Turkey, featuring a festive design and the year 2213.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00000614.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A moment of reflection on the pages of wisdom, where Arabic script meets the clarity of vision.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011026.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a refreshing beverage on a sunny day at home.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005300.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holds a can of \"fèves dans une sauce tomate\" (which translates to \"beans in tomato sauce\"), indicating the person is likely preparing for a meal or showcasing the product.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005403.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a moment of relaxation with a bag of authentic white Basmati Indian rice, perfect for creating delicious dishes.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001677.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Exploring the Rich Coffee Heritage of Mt. Kenya and Sumatra with Green Mountain Coffee\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003190.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Preparing a Hot Pocket meal in a cozy, modern kitchen with stainless steel appliances and colorful backsplash.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008654.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Traditional Indonesian Wayang Kulit Puppets: A Glimpse into the Rich Cultural Heritage of Indonesia.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006643.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"2 2010 Jean-Paul Brun Chardonnay from Beaujolais, France - Enjoying a glass of this French wine with a cozy evening.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016865.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Discover the flavors of Eastern Winds, a longstanding Fremont Chinese restaurant offering take-out and catering services with convenient delivery options.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017451.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Discover the Vibrant Flavors of India with this colorful snack package featuring a playful rabbit and enticing images of spicy treats.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008426.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A cozy moment shared between a pet and its owner, featuring a German Shepherd enjoying gentle affection on a warm wooden floor.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011909.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a banknote with scribbles and drawings, possibly indicating that the note has been defaced or altered.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010409.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A serene reclining Buddha statue, symbolizing meditation and inner peace, adorned with intricate designs, held in a hand.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022709.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Traditional Icon of a Mother and Child, Reflecting Cultural Heritage and Devotion\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016989.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Variety on the Shelf: Edgell Creamed Corn, SPC Peaches in Light Syrup, Whiskas Ocean Fish Platter for Cats.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000641.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Close-up of the Republic of China (flag, showcasing its iconic blue square with a white sun and red background.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001947.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"A Moment of Reflection: A Book on a Leather Sofa, Featuring the German Phrase 'Auf die lange kommt es an,' which translates to 'The long way comes.' This image captures a quiet moment in someone's reading life.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023384.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A ten-pound note featuring Queen Elizabeth II, a symbol of the United Kingdom's financial system and cultural heritage.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021363.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Menu 3: A Gourmet Selection of Spanish Dishes and Wines, Starting at €2.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00005852.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"United in Colors: A Display of National Pride with the Irish and American Flags.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00007041.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A close-up view of a German newspaper article discussing the topic of 'Schlussfolgerung' with visible shadows and creases, indicating a casual reading setting.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022052.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A small bottle of S&B chili oil sits on a wooden table, showcasing the vibrant red cap and label with Japanese characters.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003660.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A pack of Dunhill Switch cigarettes, featuring a striking image of a burning cigarette and the tagline \"CRUSH REFRESH TASTE,\" with Arabic text at the bottom.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022359.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into a workspace, featuring an orange juice pack and electronic devices, hinting at a blend of refreshment and technology in daily life.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005572.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A worn Singapore $1 banknote featuring traditional sailboats and the denomination \"ONE DOLLAR\" on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009898.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A wooden elephant sculpture, a symbol of good luck and prosperity in many cultures, elegantly displayed against an ornate lace curtain backdrop.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004250.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Exploring the Mysteries of the Moon: A Tarot Card Insight into the Unknown.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000186.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Introducing baby's first taste of nature with Gerber NatureSelect Apples & Pear puree, perfect for the 2-month-old palate.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004769.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A close-up view of two banknotes, one featuring a sailing ship and the other showcasing intricate designs.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022104.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into a home's cultural tapestry through the lens of medication packaging.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00001431.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A can of Thai sweet fruit sits on a dark marble surface, with a white cloth and red item in the background.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008570.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An individual holds a United States twenty-dollar bill featuring Andrew Jackson, with the serial number JB45066873A and B2 printed on it.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013644.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Brat-Kartoffeln: A German dish of roasted potatoes with crispy bacon and freshly grated chives, ready for a delicious meal.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016135.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holding a bottle of Thai beer, showcasing its distinctive label with palm tree imagery and non-Latin script.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00001119.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A box of Japanese matcha tea mix on a granite countertop, ready to be prepared into a soothing cup of green tea.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008935.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Welcome to the Grand Mosque: A Journey Through Faith and History\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022370.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Traditional Chinese Scroll Painting: A Journey Through Time and Nature\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001935.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A commemorative statue of a historical figure, possibly from the American Civil War era, stands proudly in front of a Confederate flag backdrop.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018129.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up view of a Japanese keyboard layout, showcasing the unique characters used in the Japanese writing system.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001182.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Snacking on Sweet Potato Chips: A Healthy Choice for a Dark Evening.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005307.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A serene wooden Buddha statue, seated in the traditional meditation posture with a golden plaque, surrounded by stones, symbolizing peace and enlightenment.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009592.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Authentic Italian Cherry Tomato, Buffalo Mozzarella & Basil Ravioli: A delicious and nutritious meal option from Tesco Finest, ready to be enjoyed by August 2.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013353.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Traditional Swedish Folk Art: A Hand-Painted Ceramic Pitcher Reflecting Cultural Heritage.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013915.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a refreshing Alaskan Summer Kolsch-style Ale, perfect for the season!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016438.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Campbell's Real Stock Beef: A Convenient and Authentic Taste of Homemade Beef Stock for Your Dishes.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013905.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A Heineken beer bottle rests on a laptop keyboard, symbolizing the blend of relaxation and technology in modern life.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022775.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"A Sherlock Holmes audio adventure awaits: 'A Study in Scarlet' and 'The Final Problem.' Dive into the classic tales of mystery with Arthur Conan Doyle's iconic detective.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00005679.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Spice up your Mexican feast with Las Panas Enchilada Sauce, a fiery blend of flavors for the perfect enchilada experience.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001231.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A delicious and colorful Perogies dish, featuring real potato and cheese, ready in just 10 minutes for a quick and satisfying meal.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007707.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A finely crafted statue of a Hindu deity in the dynamic pose of dance, showcasing intricate details and traditional attire.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001294.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A festive comic strip featuring Santa Claus and a Christmas tree, celebrating Merry Christmas with humor.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011257.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Japanese 1000 Yen Banknote featuring a portrait and intricate security features.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022721.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Exploring Accessibility Features on iPhone for the Visually Impaired - A German-language article highlighting innovative apps designed to assist blind and visually impaired users.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009115.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Remington Cleaning Solution and Filter Box - A reliable product for maintaining the performance of Remington firearms, available in both English and French versions.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006869.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into the monetary heritage of India, showcasing a 100 Rupee note adorned with intricate designs and cultural motifs.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009927.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Traditional Chinese Medicine: Radix Angelicae Sinensis, A glimpse into the rich cultural heritage of herbal remedies.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00006695.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"ANA-branded snack packet featuring Japanese characters, hinting at a fusion of travel and taste.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00014621.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A pack of Dunhill Master Blend cigarettes with multilingual health warnings, showcasing the brand's international presence and commitment to consumer awareness.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009533.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A 21st-century Saudi Arabian 100 Riyal banknote featuring intricate geometric patterns and a prominent architectural structure.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003944.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into the literary world of Pierre Combescot with his book 'Les Petites Mazarines'.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003069.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Indulge in the classic taste of Liberty Orchards' Fruit Delights, a blend of soft fruit confections and premium nuts since 1920. Enjoy the natural sweetness with every bite!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022470.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A colorful and appetizing image of Leader Price couscous with chicken, vegetables, and a fork, showcasing the vibrant flavors of North African cuisine.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003826.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Rolex Milgauss watch on someone's wrist, showcasing the iconic design and functionality.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006437.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into a colorful and flavorful culinary delight - the Spicy Bean Burrito from Kelsey's, a convenient frozen meal ready to be cooked.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000318.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Peaceful Slumber: A German Shepherd finds solace on a cozy deck, surrounded by the comforts of home.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021840.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Aloe Vera Gel for Bath and Shower by Coviran, featuring natural aloe vera extracts for skin regeneration.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00019307.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of \"Unterland Brau\" beer, a traditional German brew with a rich amber color and hop illustrations on the label, dated March 2, 2 013.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015549.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A snapshot of academic life, showcasing a rental textbook for 'The American Paradox' amidst a backdrop of diverse cultural symbols and personal items.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004196.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Everyday Value Mild Cheddar Cheese - A staple in many households, this 2 package offers a convenient and affordable option for cheese lovers.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00019475.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Timeless Guardians: A Collection of Stone Statues Depicting Peaceful Faces, Preserving Cultural Heritage.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005967.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up view of a United States one-dollar bill, showcasing the Great Seal and intricate design details.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017285.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A bottle of Trivento Amadeo Sur 2 wine, a blend of Malbec, Bonarda, and Syrah from the Mendoza region in Argentina.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001305.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Australian and Hungarian swimmers compete in the 3rd place match at an Olympic swimming event, showcasing intense athletic prowess.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009374.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An elegant brown robe with a golden belt, paired with a beige shawl, hangs among other garments in a wardrobe, reflecting the cultural attire of modesty and grace.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009187.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A glimpse into the magical world of Harry Potter, featuring a character from 'The Miserable Mill' book cover.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004305.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Spice Up Your Kitchen with Marshall's Premium Indian Curry Powder, Featuring a Blend of Traditional Spices Ingredients.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003583.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A 10 Cambodian Rriel banknote featuring a portrait of King Sihanouk, showcasing the country's currency and cultural heritage.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018627.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Cooking Instructions for a Rice Cooker, Featuring Visual and Textual Guides in Chinese.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020775.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a \"Rajah Haldi Ground Turmeric\" spice packet, showcasing its vibrant red and yellow packaging with an expiration date.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006219.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Stiegl Goldbrau beer bottle, highlighting its German origins and the promise of quality and refreshment.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021754.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Leisurely Moments: A man and his German Shepherd enjoy a quiet afternoon indoors, surrounded by the comfort of home.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00014187.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A pack of Smith's Original chips, a popular British snack brand known for its wavy potato chips.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011282.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Behind the Scenes: The Office Team Takes a Break from Their Hilarious Misadventures.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011595.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a banknote from the Central Bank of Egypt, featuring intricate designs and security features.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016086.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Stiegl Goldbrau beer bottle, capturing the iconic branding and hinting at the rich cultural heritage of Salzburg.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005660.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A promotional flyer for the Bakery Café at Hyatt Place, showcasing a warm and inviting atmosphere with glasses of wine.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013878.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Bud Light beer can on a kitchen countertop, highlighting the iconic blue branding.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005551.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Half Price on NuMe: A Taste of Savory Delights at an Affordable Price Point!\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023231.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holding a bottle of Tuscan House Italian dressing and marinade, featuring fresh ingredients like tomatoes, onions, and lettuce on the label.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004050.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holding a container of Nive Happy Fresh Touch deodorant in front of a bathroom trash bin, showcasing the product's packaging and design.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004875.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a \"Wiener Zucker\" tea box, featuring traditional Austrian design, placed on a wooden surface with a cozy living room in the background.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00002857.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holding a jar of Roland Curry Yellow Paste, emphasizing its no MSG content and vibrant packaging.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007127.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Symbol of Freedom: The American Flag in its iconic red, white, and blue design.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020144.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A crumpled £5 Bank of England note featuring the Governor and a historical figure from 1780-1845, lying on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00012694.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An intimate moment with literature: A close-up of a book cover featuring the title 'Smil, Smilja' by an unknown author, resting on a cozy towel in a dimly lit setting.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020459.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Hackett London Body Wash bottle, showcasing the brand's minimalist design and essential British essence.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00007299.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An elegant pair of Ray-Ban sunglasses held aloft, capturing a moment amidst the vibrant ambiance of an indoor gathering.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008663.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a refreshing Beloka Water, a uniquely Australian mineral water with a hint of sparkle, perfect for any occasion.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022842.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Cozy Moments on a Patterned Carpet: A Glimpse into a Warm, Intimate Setting.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00006637.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A Glimpse into the Past: The Last Supper Depicted in a Traditional Setting\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00003707.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Whataburger Coupon Offer - Enjoy a Free Whataburger with Purchase of a Whatameal #1-6 at Participatingng Locations\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00005913.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Skinman® Complete Product Label in Multilingual Warning for Flammable Contents\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018387.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A charming Halloween invitation for Sidney's party, featuring a skeleton and bats, set to take place on October 2 in the Resident Clubroom.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004542.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A 10 Indian Rupee banknote featuring Mahatma Gandhi, issued by the Reserve Bank of India.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00002858.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A Canadian five-dollar bill featuring Sir Wilfrid Laurier, laid on a a colorful woven mat and red-and-white checkered tablecloth.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00002474.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A vintage Canadian Tire 5¢ cash bonus coupon, featuring the iconic Canadian Tire logo and a detailed illustration of an elderly man.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021226.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A hand holds a folded 2 Mexican Peso banknote, showcasing its intricate design and denomination.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00018504.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Blue and Gold Stripes with Stars: A Festive Pattern Reflecting Cultural Celebration\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001105.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"British Passport: A symbol of global travel and cultural exchange, representing the United Kingdom's connection to the European Union.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021490.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Colorful Amigos Notebook: A Vibrant Addition to Any Study Session\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010880.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An upside-down 10 Pound Sterling banknote from the United Kingdom, featuring intricate designs and security features.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023238.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Korean Rice Noodles: A Taste of Traditional Cuisine\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023420.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"A 2 20 Reais banknote from Brazil, featuring a portrait and security elements such as holograms for protection against counterfeiting.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016300.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Beef Stroganoff meal package, showcasing the vibrant red sauce and pasta dish on the label.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003210.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Del Monte's Fresh Cut Green Beans: A classic pantry staple for quick and easy meals.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008384.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a classic Japanese beverage: Kochaaden Royal Milk Tea, a 100% authentic dairy delight.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023035.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Indulge in the rich flavors of Mexico with Huatusco Medium Roast Whole Bean Coffee from Amazing Clubs, a delightful addition to your coffee collection.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006502.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Close-up of a 100 Yuan banknote, showcasing traditional Chinese architecture and the denomination prominently displayed.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009968.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up view of a vintage Nesco food dehydrator control panel, showcasing its classic design and functionality.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00006144.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Enjoying a classic snack: freshly baked pretzels rings ready to be savored.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00016688.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Coca-Cola bottle with Hebrew text, indicating it is likely from Israel.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011561.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An elegant coin featuring a bird in flight, bearing inscriptions that hint at its cultural significance.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010523.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A vibrant and playful Japanese candy package featuring a banana-shaped design, likely appealing to children with its bright colors and cartoon monkey.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00008133.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Exploring the Mysteries of Arab Mythology through Ryszard Piwniński's 'Mitologia Arabów'.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00011078.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Quick and Easy: Lite n' Easy Chicken Satay Sauce Meal for a Nutritious and Flavorful Dinner in Minutes.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000406.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A French-English dictionary by Le Robert & Collins, resting on a cozy blanket and pillow, symbolizing the comfort of learning languages at home.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022637.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A can of Freshona Ratatouille, a French vegetable stew, resting on a textured surface.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022143.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		Caption: \"Worn Argentine 20 Pesos Bill - A Testimony of Travel and History\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00009467.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Master the German language with Collins' comprehensive Dictionary & Grammar guide, now available in vibrant colors.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00021681.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Creme Brulee & Tiramisu package, showcasing its bilingual labeling in French and Spanish.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00007203.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A box of sugar-free green tea, featuring a vibrant yellow design with ladybug motifs and Chinese characters, indicating it is likely from a Taiwanese or Chinese-speaking region.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00003808.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Batman: Arkham City Collector's Edition - A glimpse into the dark world of Gotham with a special edition coin and game disc.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00013100.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Dunkin Donuts coffee bag, showcasing storage instructions, ingredients, and a \"Proof of Purchase\" seal.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00001421.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Vintage Western Romance: A Glimpse into a bygone era with classic costumes and dramatic poses.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00002213.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a bottle labeled \"Hickflec Jamaican Jerk Marinade,\" showcasing the vibrant and colorful packaging that hints at the rich flavors within.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00020916.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Tesco-branded yarn package, featuring the brand's logo and product information.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00010010.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a Genmaicha matcha tea package, highlighting the traditional Japanese beverage.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00023404.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Singapore's Two Dollar Banknote Featuring a Historical Portrait and Official Emblems.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00006711.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Half Dinar Banknote from the Central Bank of Bahrain, showcasing traditional architecture and cultural elements.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004206.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A can of Tesco Premium Cuts in Gravy with Duck & Heart, featuring a cat on the label, placed on a wooden surface.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00005411.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"An unexpected culinary surprise in the bathroom: a box of Goolsby's Country Sausage amidst everyday toiletries.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00004747.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A refreshing can of Chinese tea with a banana flavor, enjoyed in the comfort of a cozy kitchen.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00022546.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A colorful banner adorns the entrance of a brick building housing \"WASchen Wash Center TROCKEN,\" indicating a commercial establishment in a lively neighborhood.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00000136.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A casual snapshot capturing a moment of relaxation with a can of Vida beer and a glimpse into a cozy living space.
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_val_00004175.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Portrait of Andrew Jackson on a United States Twenty Dollar Bill, Series 2004.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00017396.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Traveling light: A traveler's compact snack selection, featuring a mix of Indian snacks and a unique round yellow item.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00015152.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		\"Sun-kissed Treats: Indulge in the Tropical Delights of Chocolate-Covered Macadamia Nuts from Hawaii.\"
+/mnt/ceph_rbd/visual-assistant-eval/data/cultural_images/VizWiz_train_00002632.jpg	You are a helpful AI assistant. You are well-travelled and have rich knowledge about different countries and cultures.\
+Please provide a caption for the attached image.\
+\
+Output:		A close-up of a British Bank of England five-pound note, featuring historical and cultural imagery.
