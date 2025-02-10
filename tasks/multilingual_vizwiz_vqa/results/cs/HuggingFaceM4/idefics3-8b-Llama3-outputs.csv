@@ -1,0 +1,1129 @@
+image_path	prompt	ground_truth	response
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001089.jpg	<|begin_of_text|>User:<image>Question: Co je napsáno na papíře?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'Australská pošta', 'příspěvek', 'nelze odpovědět', 'Australská pošta', 'Austrálie', 'Australská pošta', 'Australská pošta', 'nelze odpovědět', 'Australská pošta']	australia post.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000603.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co je na téhle obrazovce, prosím?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['ikony pro hodiny počasí atd.', 'startovací okno', 'desktop', 'hodinky', 'hodinky', 'ikony', 'Desková ikona', 'nelze odpovědět', 'Desková ikona', 'ikony']	ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002074.jpg	<|begin_of_text|>User:<image>Question: Co je to za CD?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['prázdné', 'prázdné CD', 'Maxwellová', 'Maxell CD r', 'prázdné', 'prázdné', 'přikrývka', 'prázdné', 'prázdné', 'Maxell']	Maxi CD.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001467.jpg	<|begin_of_text|>User:<image>Question: Co je to za obrázek?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['noha', 'noha', 'škrábnutí nohy', 'noha', 'noha', 'noha', 'noha', 'noha', 'noha', 'noha']	Noze.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004201.jpg	<|begin_of_text|>User:<image>Question: Můžete mi prosím říct, co je to za plechovku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['lov', 'Manwich', 'Manwich', 'Loví nedbalý Joe omáčku', 'Špinavá omáčka Joe', 'Manwich', 'Člověk, který je odvážný, nedbalý a nedbalý.', 'Nevypadá dobře', 'Manwich', 'Špinavý Joe.']	Ketchup.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001540.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Dieta sodu', 'Dieta kola může', 'Dieta kokos', '- Dávky na dietní kokain.', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'kokos', 'sodová', '- Dávky na dietní kokain.']	Coca cola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003385.jpg	<|begin_of_text|>User:<image>Question: Co je to za koření?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Paní Dashová.', 'nelze odpovědět', 'Paní Dashová.', 'nelze odpovědět', 'Nemůžu říct.', 'všechno koření', 'Basilová směs', 'Paní Dashová , směs stolů .', 'čárka', 'Paní Dashová.']	Peper.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002460.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['mln dešťová lahvička', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'mt rosa']	Mtn Dew.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001735.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['káva', 'nelze odpovědět', 'káva', 'káva', 'káva', 'káva', 'káva', 'káva', 'káva', 'nelze odpovědět']	Káva.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002557.jpg	<|begin_of_text|>User:<image>Question: Co vidíš? - Co?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kožní', 'dveře na podlaze', 'dveře', 'dveře', 'prstové dveře', 'dveře', 'nelze odpovědět', 'dveře', 'dům', 'černé prsty']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000566.jpg	<|begin_of_text|>User:<image>Question: Co mi ukazuje obrazovka počítače?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Chcete obnovit počítač pomocí obnovy systému?', 'Systém obnovení se objeví', 'Zpráva o obnovení systému', 'zeptá se, jestli chcete obnovit počítač pomocí obnovy systému', 'krabice', 'obnovení systému', 'Chcete obnovit počítač pomocí obnovy systému?', 'Počítač nezačal.', 'Nastavit obnovení', 'obnovení systému']	Unable to start.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003751.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['horké kakao', 'horká kakaová směs', 'Čokoláda', 'horká kakaová směs', 'kakao', 'horká kakaová směs', 'horké kakao', 'směs horké čokolády', 'kakao', 'kakaová směs']	Kakaovych bublinek.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000197.jpg	<|begin_of_text|>User:<image>Question: Můžete mi prosím říct číslo na tuto kartu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', 'Číslo:', '1 877 328 9677', '18007352929']	1-877-328-9677.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000977.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['obrazovka počítače', 'obrazovka počítače', 'obrazovka počítače', 'notebook', 'obrazovka počítače zobrazující výsledky vyhledávání', 'obrazovka', 'obrazovka počítače', 'obrazovka počítače', 'monitorová obrazovka', 'obrazovka počítače']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004314.jpg	<|begin_of_text|>User:<image>Question: Co je to? Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['salátová omáčka zadní strana', 'obvazování', 'salátová omáčka', 'salátová omáčka', 'balzamový salátový krém', 'salátová omáčka', 'nelze odpovědět', 'salátová omáčka', 'salátová omáčka', 'salátová omáčka']	Není možné odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004039.jpg	<|begin_of_text|>User:<image>Question: Co na obrázku vidíte?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['okna', 'návrh', 'sklo s mletým oknem černý design', 'sklo okna v dveřích', 'Skleněné okno ve dveřích', 'dveře', 'Vitráže', 'dveře', 'okna', 'okna']	Okno.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003622.jpg	<|begin_of_text|>User:<image>Question: Může mi někdo říct, jaká je bezpečnostní otázka na obrazovce, prosím?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Arawak', 'nelze odpovědět', 'Arawak', 'Arawak', 'Arawak', 'Arawak', 'nelze odpovědět', 'nelze odpovědět', 'Arawak', 'Arawak']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003019.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['víno', 'stříbrný dub', 'stříbrný dub', 'víno ze stříbrného dubu', 'víno', 'nádobí', 'víno', 'víno', 'stříbrný dub 2003 Cabernet sauvignon', 'stříbrný dub 2003']	Silver Oak.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003198.jpg	<|begin_of_text|>User:<image>Question: Jaká je to značka monitoru?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Lg', 'nelze odpovědět', 'nelze odpovědět', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg']	Lg.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003541.jpg	<|begin_of_text|>User:<image>Question: Co je to za pití?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['sodová', 'Zázvorová pivo', 'generální', 'cukrovka', 'kanadský suchý', 'kanadský suchý', 'Zázvorová pivo', 'kanadský suchý', 'Zázvorová pivo', 'Zázvorová pivo']	Kola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003207.jpg	<|begin_of_text|>User:<image>Question: Jaké barvy je ten koberec?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['bežová', 'bežová', 'hnědá', 'šedý', 'barvy', 'smetana', 'hnědá', 'hnědá', 'bežová', 'barvy']	Šedá.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001552.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['telefonní', 'telefonní', 'telefonní', 'telefonní', 'telefon', 'telefonní', 'digitální telefon', 'telefon', 'telefonní číslo', 'telefon']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003827.jpg	<|begin_of_text|>User:<image>Question: Co je to za obraz?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'horská rosa', 'mořská rosa', 'mln dešťová lahvička', 'horská rosa sodná', 'Mtn rosa']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003740.jpg	<|begin_of_text|>User:<image>Question: Co je to za láhev?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'nelze odpovědět', 'krém', 'sodová', 'nelze odpovědět', 'krém', 'krém', 'krém', 'nelze odpovědět', 'krém']	Láhev.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001842.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['vodní kvapaliny', 'láhev vody aquafina', 'voda', 'voda', 'plastová láhev vody značky aquafina', 'vodní lahve', 'vodní lahvička', 'vodní kvapaliny', 'voda', 'plastové lahve vody']	Voda.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000981.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Vyhledávání na Googlu', 'Google vyhledávač tab', 'stránka vyhledávání Google', 'Google', 'Google', 'počítač', 'Google domovská stránka', 'stránka Google', 'obrazovka počítače', 'obrazovka počítače']	google.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000835.jpg	<|begin_of_text|>User:<image>Question: Co je tohle?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče', 'klíče']	Klič.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000966.jpg	<|begin_of_text|>User:<image>Question: Prosím přečtěte mi na obrazovce zprávu o chybě.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'neplatný kód produktu', 'neplatný kód produktu', 'nelze odpovědět', 'neplatný kód produktu', 'neplatný kód produktu', 'neplatný kód produktu', 'Neplatný klíč produktu buď odstranit klíč produktu v souboru odpovědi na nepřítomnosti pokračovat', 'Neplatný klíč produktu buď odstranit klíč produktu v souboru odpovědi na nepřítomnosti pokračovat', 'neplatný kód produktu']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002910.jpg	<|begin_of_text|>User:<image>Question: Kde je můj laptop?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['stůl', 'Na stole.', 'horní stůl vedle postele', 'Na stole.', 'stůl', 'stůl', 'Na stole.', 'Na stole.', 'vrchní stůl', 'stůl']	Na stole.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000002.jpg	<|begin_of_text|>User:<image>Question: Jak se jmenuje tato kniha?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['psí roky', 'psí roky: paměti', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky', 'psí roky']	Eight years.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001092.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Macbook', 'klávesnice', 'klávesnice', 'klávesnice', 'počítač', 'klávesnice', 'notebook', 'notebook', 'notebook', 'klávesnice na obrazovce počítače']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002677.jpg	<|begin_of_text|>User:<image>Question: Co vidíš? - Co?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['stůlní okno', 'květiny', 'nelze odpovědět', 'stůlní okno', 'knižní a poznámkové pero', 'květiny', 'destop', 'kniha', 'okna', 'květiny']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002073.jpg	<|begin_of_text|>User:<image>Question: Který balíček obsahuje obyčejnou mouku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['červené bílé balení', 'vlevo', 'že 1', 'Červená 1 vlevo', 'vlevo', 'nelze odpovědět', 'vlevo', 'vlevo', 'červená bílá 1', 'červená 1']	Balíček v přední.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001437.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['fotbal', 'fotbal', 'fotbal', 'fialový oranžový plushový fotbalový aligátor', 'Krokodýlí fotbal', 'Alligátory měkký fotbal', 'plněný fotbal', 'plněný oranžový modrý fotbal', 'fialový fotbal', 'Krásné']	Gator.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002884.jpg	<|begin_of_text|>User:<image>Question: Jakou má barvu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['šedý', 'Zlato', 'Zlato', 'bežová', 'červená', 'Zlato', 'nelze odpovědět', 'nelze odpovědět', 'Zlato', 'nelze odpovědět']	Beze barvy.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000789.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['menu', 'nelze odpovědět', 'menu', 'menu', 'menu', 'Obsah tabulky', 'menu', 'menu', 'Ceny', 'nelze odpovědět']	Menu.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003999.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['vodní lahvička', 'Černé', 'Springbourne voda', 'Springbourne', 'Fľašovaná voda', 'voda', 'vodní lahvička', 'Fľašovaná voda', 'voda v lahvích', 'voda']	Voda.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003602.jpg	<|begin_of_text|>User:<image>Question: Co je to za polévku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['progreso', 'progreso', 'progreso', 'nelze odpovědět', 'progreso', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'progreso', 'progreso']	Polévka.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003857.jpg	<|begin_of_text|>User:<image>Question: Vím, že je to plechovka s jídlem, mohl byste mi prosím říct, co je uvnitř?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zelené fazole', 'zelené fazole', 'zelené fazole', 'zelené fazole', 'zelené fazole', 'nelze odpovědět', 'zelené fazole', 'eef', 'zelené fazole', 'zelené fazole']	Zelje.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000985.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Chex mix', 'mlyny na sekání', 'Chex mix počítač', 'nelze odpovědět', 'Chex mix', 'potraviny', 'Chex mix', 'Chex mix', 'Chex mix', 'chekmix']	Chips.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002692.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['mikrovlnné trouby', 'mikrovlnné trouby', 'Léky', 'spotřebiče želé polévka', '- V puzdře.', 'šálek polévky k pití', 'kuchyně', 'kuchyňský pult', 'krémová', 'polévka']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002351.jpg	<|begin_of_text|>User:<image>Question: Co je to za plechovku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zelenina smíšená', 'zelenina smíšená', 'zelenina smíšená', 'zelenina smíšená', 'Zelenina smíšená', 'Efgrfg', 'zelenina smíšená', 'zelenina', 'zelenina smíšená', 'zelenina smíšená']	Vegeta.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001429.jpg	<|begin_of_text|>User:<image>Question: Co je to za druh?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zbarvení koláče', 'vanilková', 'vanilková', 'z mořské mořské mořské moře', 'Betty Crockerová', 'Vanilková glazura', 'šlehačka', 'Vanilková glazura', 'vanilková', 'vanilková']	Whipped.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001345.jpg	<|begin_of_text|>User:<image>Question: Na jakou krabici se dívám, co v ní je?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['krabice s obilninami', 'Přírodní údolí pražené mandlové granola tyčinky', 'Barvy z granola', 'přírodní údolí', 'Pečené mandlové tyčinky z granola', 'Přírodní údolí pražené mandlové granola tyčinky', 'Přírodní údolí křupavé granola tyčinky pražené mandlové chuť', 'Barvy z granola', 'Barvy z granola', 'pečené mandlové křupavé tyčinky z granola']	Nature Valley.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004210.jpg	<|begin_of_text|>User:<image>Question: A co barvená látka?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zelená bílá', 'bílý tmavězelený tisk', 'bílá zelená', 'bílá zelená', 'růžová zelená', 'bílá krémová zelená na', 'růžová černá', 'zelená bílá', 'fialový černý barvivo pro kravatu', 'bílé zelené rozstřikování']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001923.jpg	<|begin_of_text|>User:<image>Question: Co to na obrazovce ukazuje?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['střela myši', 'kurzor', 'Nic.', 'Modrá', 'modrá obrazovka', 'stříkačka', 'prázdné', 'Modrá šipka', 'prázdné', 'modrá obrazovka']	Breo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002814.jpg	<|begin_of_text|>User:<image>Question: - Ahoj, kdo je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['bílá kočka', 'kočka', 'kočka', 'bílá kočka', 'kočka', 'nelze odpovědět', 'kočka', 'kočka', 'Ta kočka.', 'Kočička']	Kojotek.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003556.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['purell pokročilý dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'čistý dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'čistý dezinfekční prostředek']	Purell.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000381.jpg	<|begin_of_text|>User:<image>Question: Co říká zpráva o chybě?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['neplatný kód produktu', 'neplatný kód produktu', 'neplatný kód produktu', 'neplatný kód produktu', 'neplatný výrobek', 'Neplatný klíč produktu klikněte na OK a pokračujte.', 'Neplatný klíč produktu buď odstranit klíč produktu v souboru odpovědi bez přihlášení pokračovat', 'neplatný výrobek', 'neplatný kód produktu', 'neplatný kód produktu']	Neplatný produktový klíč.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000463.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co je na té zprávě na obrazovce mého počítače?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Nějaké opravné dokončení tlačítko v pravém dolním rohu', 'Úspěšný boot 9 20 2012 1 pokus o opravu uzavření zpět dokončení zrušit', 'nelze odpovědět', 'Ne, ne, ne, ne', 'opravy na spuštění', 'opravy na spuštění', 'opravy na spuštění', 'nelze odpovědět', 'Závěr opravy diagnostické obrazovky', 'opravy na spuštění']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001798.jpg	<|begin_of_text|>User:<image>Question: Je to kuře nebo párka nebo jaké maso?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí', 'kuřecí stehna', 'nelze odpovědět', 'kuřecí']	Kuře.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001807.jpg	<|begin_of_text|>User:<image>Question: Jakou to má barvu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['elektrická modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'Modrá', 'nelze odpovědět']	Modrá.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001054.jpg	<|begin_of_text|>User:<image>Question: Co to na obrazovce říká?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['instalace oken', 'Instalace oken a další nečitelné', 'instalace oken', 'instalace oken', 'instalace oken', 'Tato obrazovka uvádí, že Windows instalace seznamuje kroky instalace', 'instalace oken', 'instalace oken', 'instalace oken', 'instalace oken']	Instaluje windows.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002698.jpg	<|begin_of_text|>User:<image>Question: Obloha vypadá jako na tomto obrázku.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['částečně zamračené', 'tmavé mraky', 'velké mraky', 'obrovský mrak tmavá obloha', 'Oblaky', 'mraky', 'Modrá mraky', 'nelze odpovědět', 'Obrovský dešťový mrak trochu modrý na stranu', 'mraky']	Nebé.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001425.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['veranda', 'židle', 'židle', 'židle', 'nelze odpovědět', 'lavička', 'židle', 'židle', 'okna s kovovým rámem', 'židle']	Stolice.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002407.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Fotografie', 'dveře', 'dveře', 'bar', 'dveře se skleněnými panely', 'dveře', 'restaurace', 'restaurace', 'dveře', 'dveře']	Vstup do restaurace.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000405.jpg	<|begin_of_text|>User:<image>Question: Co je na mé obrazovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['vybrat spouštěcí zařízení', 'Prosím vyberte spouštěcí zařízení 3 možnosti', 'nelze odpovědět', 'Prosím vyberte spouštěcí zařízení', 'obrazovka spouště', 'Prosím vyberte spouštěcí zařízení', 'chybějící', 'Prosím vyberte spouštěcí zařízení', 'Zpráva o výběru zařízení', 'Prosím vyberte spouštěcí zařízení']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001782.jpg	<|begin_of_text|>User:<image>Question: Co je to za předmět?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['popelník', 'dekorační bronzová socha lví', 'socha', 'Ne, ne, ne, ne', 'popelník', 'popelník', 'socha', 'psí miska', 'popelník', 'Pestní tygr na vrcholu.']	Zvíře.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002046.jpg	<|begin_of_text|>User:<image>Question: Co je to za cigarety?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Americký duch', 'Americký duch', 'Americký duch', 'Americký duch', 'Americký duch', 'Černě balené americké alkoholy', 'Americký duch', 'Americký duch', 'Americký duch', 'Americký duch']	Americka duchovne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001389.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Guávový ženšen', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	Tea.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003951.jpg	<|begin_of_text|>User:<image>Question: Co je v téhle láhvi?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['krémy pro tělo', 'krémy pro tělo', 'krémy pro tělo', 'krém', 'Shea tělesný krém vitamín E', 'Měsíční cesta, vitamín Shea, krém pro tělo.', 'krémy pro tělo', 'Krém pro tělo s měsíčním světlem', 'Krém pro tělo s měsíčním světlem', 'krém']	Lotion.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003376.jpg	<|begin_of_text|>User:<image>Question: Co je to za fotku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['brýle', 'rámy', 'brýle', 'brýle stříbrné rámy', 'oční brýle', 'brýle', 'rám pro brýle', 'brýle', 'brýle', 'brýle']	Brýle.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004241.jpg	<|begin_of_text|>User:<image>Question: Tohle je produkt.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Ano, to je ono.', 'rajčatová polévka', 'rajčatová polévka', 'polévka', 'konzervovaná polévka', 'rajčatová polévka', 'rajčatová polévka', 'rajčatová polévka', 'polévka', 'vyberte si rajčatovou polévku']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001482.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['telefonní skříňka', 'iPhone', 'iPhone box', 'telefon', 'mobilní telefon', 'mobilní telefonní skříňka', 'Smartphone', 'telefon', 'chytrý telefon', 'iPhone']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002516.jpg	<|begin_of_text|>User:<image>Question: Co je to za fotku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Obal na sladkosti', 'Slavnostní červená krabice', 'odpovědný', 'Říká oslavy', 'krabice', 'sladkosti', '- V zájmu strany.', 'Oslavy', 'krabice', 'nelze odpovědět']	Celebrations.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002322.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['šampaňské', 'víno skleněný čajový hrnec', 'sklo', 'skleněné víno', 'Sklenice šampaňského vedle šálku kávy na talíři', 'nápoj v sklenici na stole', 'šampaňské', 'skleněná čašní sklenice', 'Čajový hrnec šampaňské sklenice', 'Šampaňské skleněné talíře na stole v předním okně s výhledem na město']	Vase.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001996.jpg	<|begin_of_text|>User:<image>Question: Jaká je chuť tohohle?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pomerančová', 'oranžová zelená žlutá červená', 'pomerančová mátka', 'pomerančová', 'nelze odpovědět', 'nelze odpovědět', 'pomerančová', '2 vlevo pomerančová třešňová citrónová nahoře dole vpravo zimnězelená', 'pomerančová', 'pomerančová']	Citron.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002959.jpg	<|begin_of_text|>User:<image>Question: Ahoj, zajímalo by mě, co je v té plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Coca-Cola', 'Coca-Cola', 'sodová', 'Coca-Cola', 'sodová', 'sodní kokos', 'sodová', 'sodová', 'Coca-Cola', 'sodová']	Coca cola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001858.jpg	<|begin_of_text|>User:<image>Question: Jaké je nastavení na té sušičce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['proti směru hodinových ručiček pravidelný čas kontroly vrásek suchý jemné vrásky uvolňování vzduchové vlny', 'pravidelné', 'Odpočívat', 'Odpočívat', 'Odpočívat', 'pravidelné', 'Odpočívat', 'Ne na nastavení', 'Nic.', 'Odpočívat']	Regular.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001061.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['tablety', 'tablety', 'aplikace pro telefon', 'obrazovka', 'seznam aplikací', 'App Store', 'tablety', 'seznam aplikací ke stažení', 'nelze odpovědět', 'Snížení aplikací']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002461.jpg	<|begin_of_text|>User:<image>Question: Na co se dívám?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['televizní', 'Tv v šatně', 'televizní', 'televizní', 'televizní obrazovka', 'televizní', 'Tom Selleck v televizi', 'televizní', 'televizní', 'Televize s otevřenou skříňkou']	Na televizi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003171.jpg	<|begin_of_text|>User:<image>Question: Jakou to má barvu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['bílá', 'bílá', 'bílá', 'bílá', 'bežová', 'bílá', 'slonovina', 'nelze odpovědět', 'bežová', 'nelze odpovědět']	Nebe.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004018.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['tento potravinářský výrobek', 'ravioli', 'ravioli', 'ravioli', 'ravioli', 'Šéf boyardee mini ravioli', 'konzervované mini ravioli', 'ravioli', 'Šéf Boya mini ravioli', 'mini ravioli']	Mrazene rizoto.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001775.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pečené hovězí moučky', 'pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'tradiční pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'tradiční pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso']	Traditional roast beef.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003566.jpg	<|begin_of_text|>User:<image>Question: Co je to za produkt?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Pepsi na dietu', 'Pepsi bez kofeinu', 'Pepsi', 'Pepsi', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi bez kofeinu', 'Pepsi na dietu', 'Pepsi na dietu']	Pepsi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002157.jpg	<|begin_of_text|>User:<image>Question: Jak se to jmenuje?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['východní', 'fazole', 'nelze odpovědět', 'nelze odpovědět', 'potraviny', 'fazole', 'směs stop', 'obiloviny', 'ořechy', 'pytlíkové arašídy']	Estern.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001350.jpg	<|begin_of_text|>User:<image>Question: Je to normální nebo bezkofeinová káva?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pravidelné', 'nelze odpovědět', 'pravidelné', 'pravidelné', 'pravidelné', 'pravidelné', 'nelze odpovědět', 'nelze odpovědět', 'pravidelné', 'pravidelné']	Bez.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003510.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů']	Makarony.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002279.jpg	<|begin_of_text|>User:<image>Question: Co je v téhle láhvi?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['změkčující krém', 'krém', 'krém', 'krém', 'změkčovač krému', 'krém', 'hydratační krém', 'Krém pro tělo', 'hluboké vody pro mytí těla', 'mytí těla']	Vlhčící lotion.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003609.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['stolní křeslo', 'židle', 'židle', 'kancelářský křeslo', 'kancelářský křeslo', 'Tahle kancelářská židle.', 'židle', 'stolní křeslo', 'židle', 'šedý kancelářský křeslo']	Stuhl.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000934.jpg	<|begin_of_text|>User:<image>Question: Co to bylo za předmět, co jsem právě vyfotil?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['monitor počítače', 'počítač', 'obrazovka počítače', 'nelze odpovědět', 'nelze odpovědět', 'notebook', 'obrazovka počítače', 'notebook', 'monitor počítače', 'notebookový počítač']	Počítač.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004230.jpg	<|begin_of_text|>User:<image>Question: Řekni mi, co to je.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['vepřové kotlety', 'maso', 'nějaké červené maso', 'maso balené', 'vepřové', 'vepřové kotlety', 'nelze odpovědět', 'maso', 'Fg', 'vepřové']	Hovězí.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000599.jpg	<|begin_of_text|>User:<image>Question: Jak vypadá na té fotce obloha?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['mračný den', 'částečně zamračené', 'mraky', 'mraky', 'mraky', 'mraky', 'mraky', 'mraky', 'mraky', 'déšť']	Houževnatá.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002585.jpg	<|begin_of_text|>User:<image>Question: Čeká, až dojde čas?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'špagety', 'špagety', 'nelze odpovědět', 'nelze odpovědět', 'špagety', 'špagety', 'zrcadla', 'večeře', 'Pizza']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002018.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['květiny', 'květina', 'květiny', 'květiny', 'květina', 'květiny', 'rostliny', 'květiny', 'květina', 'žíla']	Kaktus.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003189.jpg	<|begin_of_text|>User:<image>Question: Co je to za věc?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['volný čaj', 'čaj', 'nelze odpovědět', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	Čaj.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003814.jpg	<|begin_of_text|>User:<image>Question: Jaké barvy a vzoru jsou ty šortky?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['plachetové', 'Červená modrá žlutá', 'modrá oranžová zelená', 'modrá hnědá bílá placka', 'Modrá karetka nahoře žlutá karetka dole', 'různobarevné', 'modro-brunetový bílý plachet', 'plachetové', 'Modrá placka', 'Modrá bílá zelená žlutá placka']	Plátna.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003548.jpg	<|begin_of_text|>User:<image>Question: Jakou barvu měl kufřík?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zelená', 'zelená', 'zelená', 'zelená skříň', 'zelená', 'zelená', 'zelená', 'zelená', 'jasně zelená', 'zelená']	Zeleny.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001626.jpg	<|begin_of_text|>User:<image>Question: Je to normální Coca-Cola nebo dietní?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Dieta kokos', 'Dieta', 'Dieta', 'Dieta', 'Dieta', 'Dieta', 'Dieta kokos', 'Dieta', 'Dieta kokos', 'Dieta']	Dietni.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003420.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Písemko', 'Písnička', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Písemko', 'Bic pen']	Round Stic M.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002868.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Lampa může pringles', 'svítilna', 'svítilna', 'svítilna', 'Pringle může vedle cd lampy', 'svítilna bez stínu', 'svítilna', 'stůlní pringles lampy ústní voda', 'svítilna', 'svítilna']	Pringles.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000492.jpg	<|begin_of_text|>User:<image>Question: Co ten počítač dělá?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kontrolní systém', 'nelze odpovědět', 'kontrola disku', 'kontrolní disk', 'nelze odpovědět', 'nelze odpovědět', 'nakládka', 'konfigurace', 'kontrola konzistence', 'restartovat']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002438.jpg	<|begin_of_text|>User:<image>Question: Co je to za limonádu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Dieta kokos', 'Dín', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'Dieta kokos', 'Dieta Coca-Cola citron', 'Dieta kokos', 'Dieta kokos']	Diet Coke.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000060.jpg	<|begin_of_text|>User:<image>Question: Prosím, řekněte mi, co je to za knihu.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Clive Cussler Dirk Cussler', 'nelze odpovědět', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'vědecké', 'vytrvalost', 'Olive Cussler Dirk Cussler', 'akce', 'nelze odpovědět', 'Clive Cussler']	Nevyjasněno.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002094.jpg	<|begin_of_text|>User:<image>Question: Co je to za víno?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'Slavte svatbu David Emma červené víno', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'nelze odpovědět', 'nelze odpovědět', 'Nash víno']	The Nash.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001210.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['jogurt', 'nelze odpovědět', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt', 'jogurt']	Yoghurt.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000036.jpg	<|begin_of_text|>User:<image>Question: Jaký je název této knihy?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['psí roky', 'psí roky', 'psí roky', 'psí roky', 'nelze odpovědět', 'psí roky', 'nelze odpovědět', 'psí roky', 'psí roky', 'psí roky']	Eight years.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001757.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Sony notebook', 'notebook', 'notebook', 'počítač', 'notebook', 'Sony Vaio laptop', 'notebook', 'Sony Vaio', 'Sony notebook', 'notebook']	Vaio.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001606.jpg	<|begin_of_text|>User:<image>Question: Zajímalo by mě, jakou značku má tenhle počítač.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony', 'Sony']	SONY.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003921.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co to je, rajčata nebo omáčka?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['bitva', 'Na zadní straně není napsáno:', 'nelze odpovědět', 'rajčata', 'rajčata', 'rajčata', 'nelze odpovědět', 'rajčata', 'Nejasný obraz', 'rajčata']	Rajčata.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002148.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Pudding', 'Puddingové občerstvení', 'Vanilkový pudink', 'Pudding', 'Vanilkový pudink', 'Pudding', '6 balení snack balení vanilkový pudink', 'Puddingové šálky', 'Pudding', 'pudink z balení pro občerstvení']	Snack pack.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004119.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['20 dolarové kanadské bankovky', '20 dolarové kanadské bankovky', '20 kanadské', 'peníze', 'Peníze na krajky.', '20 dolarů.', 'Moneu', '20 dolarové kanadské bankovky', '20 dolarů.', 'peníze']	Bankovka.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001242.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['lasagne', 'lasagne', 'speciální lasagne', 'lasagne', 'speciální lasagne', 'speciální lasagne', 'Lasagne', 'lasagne', 'lasagne', 'lasagne']	Special lasagne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003003.jpg	<|begin_of_text|>User:<image>Question: Co je to za kávu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['espresso', 'espresso', 'Timothy expresso', 'Espresso z deštného pralesa', 'Espresso z deštného pralesa', 'espresso', 'extra tužká', 'espresso Forest tropický', 'extra silné espresso Forest tropické', 'Timoteovi']	Káva.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000472.jpg	<|begin_of_text|>User:<image>Question: Co je to za fotku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['klaviaturní víno', 'notebook', 'notebooková klávesnice víno pivo', 'nelze odpovědět', 'počítač', 'počítač', 'laptopový nápoj', 'laptop na stole vedle skleněné tekutiny', 'Sklo pro notebook', 'Skleněný notebook']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002173.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['titulní kniha', 'kniha', 'brožura', 'Poznámka', 'Demon rum , snadná kniha peněz .', 'Demon rum, snadné peníze: vládní kontrola alkoholu v Britské Kolumbii', 'kniha', 'kniha', 'Titulní strana knihy', 'brožura']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000570.jpg	<|begin_of_text|>User:<image>Question: Co bylo na stole?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['poznámkový blok', 'notebookové pero jiné papíry', 'notebook se spirálovým prstenem', 'papírové pero', 'poznámkový blok', 'notebookové pero', 'poznámkový blok', 'notebookové pero', 'papírové pero', 'poznámkový blok']	Dílo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002964.jpg	<|begin_of_text|>User:<image>Question: Jakou má barvu tahle košile?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['modrá bílá placka', 'modrá bílá', 'modrá bílá placka', 'modrá bílá', 'Modrá', 'modrá bílá', 'Červené modré bílé', 'Modrá placka', 'Modrá', 'Modrá']	Modrou.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003950.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Andre Chardonnay', 'šampaňské', 'Andre', 'šampaňské', 'víno', 'šampaňské', 'šampaňské', 'šampaňské', 'Šampaňské', 'šampaňské']	Andre.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001598.jpg	<|begin_of_text|>User:<image>Question: Jak se jmenuje ten výrobek na téhle fotce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol', 'Lyzol']	Air freshener.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003612.jpg	<|begin_of_text|>User:<image>Question: Co je to za kávu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Gevalie', 'Maximum Gevalia Kaffe', 'Maximo', 'Gevalia espresso', 'Maximo', 'černá káva', 'Maximo', 'nelze odpovědět', 'Gevalie', 'Gevalie']	Gevalia.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003078.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Dr. Pepř', 'může být citronová soda', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'dr pepřová soda', 'Dr. Pepř', 'může být citronová soda', 'Dr. Pepř']	Pepper.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001646.jpg	<|begin_of_text|>User:<image>Question: Můžete mi prosím říct, co to je, prosím, děkuji?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['instantní káva', 'instantní káva', 'klasická káva', 'Kaféový balíček', 'nelze odpovědět', 'káva', 'káva', 'kávy v prášku', 'káva', 'Nescafe Classic']	Káva.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001976.jpg	<|begin_of_text|>User:<image>Question: Jaké barvy jsou ty tři dráty zleva doprava?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['červená černá bílá', 'červená černá bílá', 'červený černý opal', 'červená černá bílá', 'červená černá bílá', 'červená černá bílá', 'červená černá bílá', 'červená černá bílá', 'červená modrá bílá', 'červená černá bílá']	Černá, bílá a červená.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004143.jpg	<|begin_of_text|>User:<image>Question: Co ukazuje tento těhotenský test?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['1 řádek', 'negativní', 'negativní', '1 řádek, ale barvivo se rozptýlí. Zkuste jiný.', 'nelze odpovědět', '1 pruh', 'Žádný obraz', 'Červená čára', 'nelze odpovědět', 'modrá značka červená značka']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002365.jpg	<|begin_of_text|>User:<image>Question: Jak se jmenuje tohle koření?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Paní čerstvá citrónová pepřová směs', 'čárka', 'Paní Dashová.', 'Paní Dashová citrónová paprika.', 'Paní Dashová.', 'Paní Dashová.', 'paprika', 'Paní Dashová.', 'Paní Dashová.', 'Paní Dashová.']	Pepper.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001409.jpg	<|begin_of_text|>User:<image>Question: Ahoj, jaký druh nápoje je v té láhvi v mé pravé ruce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Pepsi', 'Pepsi soda', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi na dietu', 'Pepsi', 'Pepsi na dietu', 'Pepsi dieta', 'Pepsi na dietu', 'Pepsi na dietu']	Pepsi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003918.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['videohry', 'videohry', 'basketbalový zápas', 'videohry', 'nelze odpovědět', 'DVD', 'nelze odpovědět', 'Hra', 'videohry', 'DVD']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002140.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kečup', 'kečup', 'Heinz rajčatový kečup', 'balení kečupu', 'balení kečupu', 'kečup', 'kečup', 'balení kečupu', 'kečup', 'kečup']	Heinz tomato ketchup.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000803.jpg	<|begin_of_text|>User:<image>Question: Jaké barvy má tahle košile?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['červená bílá', 'černobílé', 'červená bílá', 'červené bílé pruhy', 'červené bílé pruhy', 'červená bílá', 'červená bílá', 'červená bílá', 'červená bílá', 'červená bílá']	Oboje.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002271.jpg	<|begin_of_text|>User:<image>Question: Co je v tom balení?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Parlamentní obraz', 'hudební album', 'cigarety', 'cigarety', 'cigarety', 'cigarety', 'Vložky pro filtrování', 'cigaretové cigarety', 'karty', 'Cigary']	Parliament.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003874.jpg	<|begin_of_text|>User:<image>Question: Jaké barvy je ta rohožka?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová', 'fialová']	Fialová.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000090.jpg	<|begin_of_text|>User:<image>Question: Je dialog na tom obrázku viditelnější?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nudit', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'Ano, to je ono.']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001766.jpg	<|begin_of_text|>User:<image>Question: Co je to za produkt?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zelené fazole', 'zelené fazole', 'zelené fazole', 'může', 'fazole', 'Hrošt', 'nelze odpovědět', 'zelené fazole', 'Fg', 'nelze odpovědět']	Koupelky.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003027.jpg	<|begin_of_text|>User:<image>Question: Co je to za plechovku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['vepřové fazole', 'vepřové fazole', 'Praslíčko a fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole', 'vepřové fazole']	Mlejný kastard.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002690.jpg	<|begin_of_text|>User:<image>Question: Co je to za víno?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', '- Ne, ne, ne.', 'Vintage 2008 produkt Nash', 'Nash', 'Nash', 'svatební suvenýry', 'Nash slaví svatbu David Emma 16. července 2011', 'Nash', 'Nash', 'Slavnostní svatba']	The Nash.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003531.jpg	<|begin_of_text|>User:<image>Question: Co je to za jídlo?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['rajčatová omáčka', 'rajčatová omáčka', 'ekologická rajčatová omáčka', 'rajčatová omáčka', 'rajčatová omáčka', 'rajčatová omáčka', 'Muir Glen organická rajčatová omáčka', 'rajčatová omáčka', 'Muir Glen organická rajčatová omáčka', 'Tomoto']	Omáčka z tomator.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003588.jpg	<|begin_of_text|>User:<image>Question: Co je to za chuť?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody', 'jahody']	Malinová.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002949.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, jakou má barvu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá']	Černou.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002825.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['rostlina', 'dekorační rostlina', 'aloe', 'domácí rostlina', 'domácí rostlina', 'Domácí rostlina', 'rostlina', 'Domácí rostlina', 'rostlina', 'rostlina trávy']	Rostlina.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001294.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['časopis', 'komiks', 'komiks', 'dospělé stolní hry', 'časopis', 'Barvička', 'Zvláštní vánoční kniha.', 'Nejsem si jistý, že umím číst v tom jazyce.', 'Vánoční pohlednice', 'komiks']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002945.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Kuřecí večeře v Dijonu.', 'potraviny', 'Kuřecí dijon', 'Kuřecí dijon', 'Kuřecí dijon', 'potraviny', 'Kuřecí dijon', 'kuřecí', 'Kuřecí dijon', 'Kuřecí dijon']	Kuričková dijon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003398.jpg	<|begin_of_text|>User:<image>Question: Co je to za kávu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Gevalia', 'Gevalie', 'francouzská vanilka', 'francouzská vanilka', 'Gevalia', 'Gevalia', 'francouzská vanilka', 'francouzská vanilka', 'francouzština', 'Gevaliaa francouzská vanilka']	Kaffe.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002190.jpg	<|begin_of_text|>User:<image>Question: Co je to za předmět?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['iPhone', 'telefon', 'telefon', 'iPhone', 'mobilní telefon', 'mobilní telefon', 'mobilní telefon', 'Volám.', 'Smartphone', 'Smartphone']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003031.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'cigarety', 'balení cigaret', 'cigarety', 'balení cigaret', 'cigarety', 'cigarety', 'nelze odpovědět', 'cigarety', 'cigarety']	Balmaina.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001513.jpg	<|begin_of_text|>User:<image>Question: Co je to za chuť?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['hovězí', 'S ochutnávkou z hovězího masa', 'hovězí', 'Vývar s ochutnávkou hovězího masa', 'hovězí', 'chuť hovězího masa', 'Vývar s ochutnávkou hovězího masa', 'hovězí', '- Ta vůně.', 'hovězí']	Bezlepková.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001786.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['velká sklenice', 'šálka', 'šálka', 'šálka', 'Miluje Togo Cup.', 'šálka', 'Pop cup a další věci.', 'polystyrénový pohár', 'šálka', '- Tenhle pohár.']	Kupa.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003064.jpg	<|begin_of_text|>User:<image>Question: Je to dietní Pepsi nebo normální Pepsi?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Pepsi na dietu', 'Dieta', 'nelze odpovědět', 'Dieta', 'Pepsi na dietu', 'Dieta', 'Dieta', 'Dieta', 'Pepsi na dietu', 'Dieta']	Dietni.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000890.jpg	<|begin_of_text|>User:<image>Question: Co to na obrazovce říká?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Avast software', 'skenování lokálních disků', 'okna', 'chybová zpráva', 'skenování', 'Avast software pro skenování Windows XP', 'okna', 'nelze odpovědět', 'Windows XP', 'nelze odpovědět']	Windows xp.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000920.jpg	<|begin_of_text|>User:<image>Question: Prosím, řekněte mi, na které obrazovce jsem? Snažím se přistupovat k spouštěcímu menu a snažím se spouštět z USB disku.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Stiskněte šipku jednou a pak zadat pro usb', 'Závodní menu při spuštění z možnosti HDD', 'nelze odpovědět', 'U bootmood', 'Prosím vyberte spouštěcí zařízení', 'Vyberte zařízení pro spuštění:', 'Prosím vyberte spouštěcí zařízení hdd: pm st9250315as', 'Prosím vyberte spouštěcí zařízení', 'hlavička obrazovky: prosím vyberte spouštěcí zařízení přesunout šipku dolů 1 místo na usb:usb disk pro', 'Prosím vyberte spouštěcí zařízení']	Boot device.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003174.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, jaká je to chuť?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Dieta', 'Dieta', 'dr pepřová dieta', 'Dr. Pepř', 'Dieta', 'Dieta', 'Dieta', 'kola', 'Dieta', 'Dieta']	Kola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003773.jpg	<|begin_of_text|>User:<image>Question: Co je to za polévku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zeleninová polévka', 'progreso', 'progresivní', 'nelze odpovědět', 'Progresso zelenina', 'nelze odpovědět', 'zelenina', 'Progresso zelenina', 'zelenina', 'progreso']	Polévka.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000826.jpg	<|begin_of_text|>User:<image>Question: Řeknete mi, co je to za auto?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'Lincoln Crown Victoria', 'Nějaký čtyřdveřový sedan.', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'Chevrolet', 'Koruna Viktorie', 'nelze odpovědět', 'Ford']	Ford.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001818.jpg	<|begin_of_text|>User:<image>Question: To je káva?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Gevalie', 'Gevalie', 'Gevalie', 'Gevalia švýcarský lískový ořech', 'Gevalie', 'Gevalie', 'Gevalie', 'Gevalie', 'Gevalie', 'Gevalie']	Káva.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004044.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'dezinfekční prostředek', 'GERMX', 'Desinfekční prostředek pro ruce', 'Desinfekční prostředek pro ruce']	Riešenie: Hand sanitizer.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003491.jpg	<|begin_of_text|>User:<image>Question: Co je to za plechovku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['polévka', 'ovoce', 'nelze odpovědět', 'nelze odpovědět', 'polévka', 'nelze odpovědět', 'polévka', 'nelze odpovědět', 'zásuvka', 'polévka']	Koupel.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001604.jpg	<|begin_of_text|>User:<image>Question: Jakou to má barvu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['hnědá', 'hnědá', 'hnědá', 'dubová hnědá', 'hnědá', 'hnědá javorová', 'dřevěné', 'hnědá', 'hnědá', 'hnědá']	Drevo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001700.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'ruka', 'ruka', 'nelze odpovědět', 'ruka', 'ruka', '1 pravá ruka', 'ruka', 'ruka', 'ruka']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003975.jpg	<|begin_of_text|>User:<image>Question: Jaké je nastavení hrnce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['šálka', 'vysoké', 'vysoké', 'vysoké', 'vysoké', 'vysoké', 'nízká', 'vysoké', 'vysoké', 'vysoké']	Low.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000905.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co to je?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['výrobky pro nevidomé', 'CD', 'Reverzní cd', 'výrobky pro slepé disky', 'CD', 'Disket', 'Kniha na CD', 'CD', 'CD výrobky pro nevidomé', 'Spear od Jamese Herberta DVD']	Answer: cd.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000518.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['počítače monitor klávesnice', 'monitor', 'monitor počítače', 'obrazovka počítače', 'počítač', 'monitor počítače', 'obrazovka počítače', 'desktop', 'Graf', 'Graf']	Dell.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000069.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co je na téhle láhvi?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['teplý vanilkový cukr', 'cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr']	Lotion.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001007.jpg	<|begin_of_text|>User:<image>Question: Co je na obrazovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['obrazovka pro instalaci oken', 'nelze odpovědět', 'instalace oken', 'Instalace obrazovky stavu Windows', 'Windows nainstalovat', 'instalace oken', 'pokyny pro instalaci oken', 'Pokrok při instalaci oken', 'Instalace Windows Info', 'okna']	Instalovani windows.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002378.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['může', 'může', 'nelze odpovědět', 'konzervy', 'může', 'fazole', 'nelze odpovědět', 'fazole', 'vařené', 'vařené']	Ranch dressing.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003028.jpg	<|begin_of_text|>User:<image>Question: Co je to za pití?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančová šťáva', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančová', 'pomerančový džus']	Jablečný džus.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004270.jpg	<|begin_of_text|>User:<image>Question: Co je to za pop v téhle plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['čaj', 'Neštva', 'Neštva citronová', 'ledový čaj', 'Neštva', 'Neštva', 'Neštva', 'ledový čaj', 'ledový čaj s hnízdou', 'hnízdí']	NESTEA.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003444.jpg	<|begin_of_text|>User:<image>Question: Je to pepperoni pizza, pepperoni a párky, Supreme, jaký druh?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['papriky', 'papriky', 'papriky', 'papriky', 'papriky', 'papriky', 'Ano, to je ono.', 'papriky', 'Mama cozzis pepperoni tenká kůra', 'papriky']	Pepperoni.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002110.jpg	<|begin_of_text|>User:<image>Question: Máte ponětí, co je to za rostlinu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Ne, ne, ne, ne', 'tráva', 'tráva', 'tráva', 'tráva', 'tráva', 'Ne, ne, ne, ne', 'Ne, ne, ne, ne', 'tráva', 'tráva']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002439.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['brýle', 'brýle', 'brýle', 'brýle', 'pár brýlí', 'brýle', 'pár brýlí', 'brýle', 'oční brýle', 'pár brýlí']	Brýle.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003654.jpg	<|begin_of_text|>User:<image>Question: Popíšejte mi to místo.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kancelář', 'kancelářské prostory', 'kancelář', 'kancelář 2 stoly skříň 2 židle', 'kancelář', 'kancelář', 'Stoly černý kancelářské židle', 'kancelářské stoly', 'kancelářské stoly 2', 'kancelář']	Answer: kancelar.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001213.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['poznámkový blok', 'plánovač', 'kniha', 'kniha', 'karta', 'poznámkový blok', 'plánovač', 'poznámkový blok', 'Lilly Pulitzerová agenda spirála', 'poznámkový blok']	Dne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002786.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Plíčkový medvídek růže', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek', 'medvěd', 'Plíčkový medvídek', 'Plíčkový medvídek', 'Plíčkový medvídek']	Bear.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002750.jpg	<|begin_of_text|>User:<image>Question: Co je to za koření?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'mořská sůl', 'česneková sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl', 'čepelová mořská sůl']	Cibule a mořská sůl.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002798.jpg	<|begin_of_text|>User:<image>Question: Co je v téhle plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Dieta', 'Dieta', 'Dieta', 'Dieta', 'Dr. Pepř', 'Dieta', 'Dieta', 'Dieta', 'dr pepřová dieta', 'Dieta']	Dr Pepper.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002219.jpg	<|begin_of_text|>User:<image>Question: Co je na tomhle pohárku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kreslený film', 'kreslené postavy', 'kreslený film', 'Muž, který se dívá na ptáka.', 'kuře', '- Cože?', 'Zkurvený muž', 'Skic pták člověk strom měsíc', 'osoba zvíře', 'kreslený film']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000753.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['osoby zpět', 'chlapče', 'lidská hlava', 'osoba', 'Na záda něčí hlavy ramena', 'Zpátky , člověče .', 'nelze odpovědět', 'šedý košile', 'chlapče', 'obrázek zadní osoba']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002656.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['řečník', 'řečník', 'reproduktor na zdi', 'řečník', 'řečník', 'řečník', 'reproduktor na stěně', 'řečník', 'kočičí montáž', 'řečník']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000622.jpg	<|begin_of_text|>User:<image>Question: Co je tady napsáno?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['číslo telefonu taxíku', 'Nic.', 'Nic.', 'telefonní', 'městské taxi', 'potvrzení', 'nelze odpovědět', 'Vypadá to jako stvrzenka.', 'řádky', 'městská taxík']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003574.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['New Orleans styl jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'rýže', 'jambalaya', 'jambalaya mix', 'jambalaya mix', 'rýže jambalaya', 'balíček připravené směsi pro rýži jambalaya stylu New Orleans', 'jambalaya mix']	Jambalaya mix.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000820.jpg	<|begin_of_text|>User:<image>Question: Jakou má barvu můj Mac?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['stříbro', 'bílá', 'bežová černá', 'bílá', 'stříbro', 'stříbro', 'stříbro', 'stříbro', 'bílá', 'stříbro']	Silver.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001617.jpg	<|begin_of_text|>User:<image>Question: Co je v té plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['organické pečené fazole', 'pečené fazole', 'organické pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole', 'pečené fazole']	Oreganické vařené fazole.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004234.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Sýr z makaronů', 'nelze odpovědět', 'Sýr z makaronů', '3 sýrové makarony', 'Sýr z makaronů', 'Sýr z makaronů', 'Sýr z makaronů', 'večeře', 'Sýr', 'Střevěné sýry']	Tři sýrové trojskvrdky.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003724.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Zatarains New Orleans styl jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'jambalaya mix', 'rýže', 'zatarains jambalaya mix', 'jambalaya', 'zatarains jambalaya mix', 'jambalaya mix']	Jambalaya mix.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003716.jpg	<|begin_of_text|>User:<image>Question: Co je to za věc?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kvalitní cukroví na ulici', 'cukroví', 'sladkosti', 'sladkosti', 'tvrdé bonbóny', 'sladkosti', 'sladkosti', 'sladkosti', 'kvalitní ulice', 'sladkosti']	Cukrovinky.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003022.jpg	<|begin_of_text|>User:<image>Question: Promiňte, řekněte mi, co přesně na tom obrázku vidíte.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['lednice', 'lednice', 'lednice', 'Malý ledniční plátek z mísy, lehký plátkový nálepka na ledničku', 'lednice', 'mini lednička', 'mini lednička', 'dveře skříně', 'bílá lednička', 'lednice']	Ledová skříň.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000908.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co je to na krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Milé vnoučata.', 'Něco o rozkošných vnoučatech.', '- Úchvatné.', 'Není nic krásnějšího než vnoučata.', 'Jen málo věcí je příjemnějších než vnoučata bojující o tvé klíně .', 'Milé vnoučata.', 'Milé vnoučata.', 'Jen málo věcí je příjemnějších než vnoučata bojující o tvé klíně .', 'nelze odpovědět', 'Milé vnoučata.']	Dámská.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003722.jpg	<|begin_of_text|>User:<image>Question: Jak vypadá obloha?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['čistý', 'západ slunce východ slunce', 'Modrá', 'setmění', 'Modrá', 'čistý', 'čistý', 'klidný', 'světle modrá', 'Modrá světlejší modrá blízko horizontu']	Modrá.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001556.jpg	<|begin_of_text|>User:<image>Question: Jaké barvy je tahle košile?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['hnědá', 'hnědá', 'hnědá', 'bežová', 'bežová', 'růžový', 'hnědá', 'hnědá', 'Zlato', 'šedá barva']	Beige.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000659.jpg	<|begin_of_text|>User:<image>Question: Je to chlapec nebo holka?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'chlapče', 'chlapče', 'holka', 'chlapče', 'chlapče', 'chlapče', 'chlapče', 'chlapče', 'chlapče']	Chlapec.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002584.jpg	<|begin_of_text|>User:<image>Question: Můžete mi prosím říct, co to je za předmět?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['obiloviny', 'Vítám tě.', 'obiloviny', 'Vítám tě.', 'nelze odpovědět', 'obiloviny', 'sladké žvaněné', 'Cheerios , teď ještě chutnější , zlato .', 'zlato', 'zlato']	Cereální.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002408.jpg	<|begin_of_text|>User:<image>Question: Jakou to má barvu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Červená žlutá bílá modrá', 'plachetové', 'zelená modrá bílá červená placka', 'různorodé', 'bledý', 'plachetové', 'modrá zelená bílá červená', 'plachetové', 'Modrá bílá zelená placka', 'modrá zelená červená bílá']	Zelena.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002524.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['horké kakao', 'horká kakaová směs', 'horká kakaová směs', 'horká kakaová směs', 'kakaová směs', 'horké kakao', 'Čokoláda', 'směs horké čokolády', 'balení horké čokolády', 'Čokoláda']	Kakaová směs.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001772.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'speciální lehké pivo', 'pivo', 'nelze odpovědět', 'nelze odpovědět', 'pivo', 'pivo', 'pivo', 'pivo', 'speciální světlo']	Special Light.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004274.jpg	<|begin_of_text|>User:<image>Question: Je to kuře nebo celer?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['rajčata', 'rajčata', 'rajčata', 'rajčata', 'Ne, ne, ne, ne', 'rajčata', 'rajčatová polévka', 'rajčata', 'rajčata', 'Ne, ne, ne, ne']	Celer.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001407.jpg	<|begin_of_text|>User:<image>Question: Co to říká?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Macbook pro', 'Macbook pro', 'Mac Book Pro', 'Macbook pro', 'Mac Book Pro', 'Macbook pro', 'Macbook pro', 'Airbook pro', 'Macbookpro', 'Macbook pro']	Pro.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004268.jpg	<|begin_of_text|>User:<image>Question: Rád bych věděl, co je v téhle plechovce.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pečené fazole', 'pečené fazole', 'fazole', 'pečené fazole v rajčatové omáce', 'Farmářka pečená fazole', 'pečené fazole', 'pečené fazole', 'fazole', 'pečené fazole', 'fazole']	Baked beans in tomato sauce.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001949.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kuřecí', 'nelze odpovědět', 'krémové kuře parmesanové', 'potraviny', 'Tv večeře', 'potraviny', 'Sýr z makaronů', 'potraviny', 'Marie Collendersová', 'krémové kuře parmesanové']	Mrejný kalendárek.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001343.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['dolarové bankovky', '1 dolarová bankovka', 'dolar', '1 dolarová bankovka', '1', '1 dolarová bankovka', 'dolarové bankovky', '1 dolarová bankovka', '1 dolarová bankovka', '1 americká dolarová bankovka']	Dollar.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004158.jpg	<|begin_of_text|>User:<image>Question: Co je tohle?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['hračky', '2 králové', 'pár králů', 'hračky', 'karty', 'karty', 'hračky', 'pár', 'karty', 'hračky']	Karty.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004005.jpg	<|begin_of_text|>User:<image>Question: Je to černá nebo modrá?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'černá', 'černá', 'černá', 'černá', 'černá', 'černá', 'šedý', 'černá šedá', 'černá']	Modrá.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000320.jpg	<|begin_of_text|>User:<image>Question: Co je napsáno na obrazovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Textové pole vyhledávání Google', 'Google', 'Google', 'Google Google vyhledávání cítím štěstí', 'Google', 'Vyhledávání na Googlu', 'nelze odpovědět', 'Google', 'Google', 'nelze odpovědět']	Google.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001914.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'potraviny', 'pečené hovězí maso', 'pečené hovězí maso', 'pečené hovězí maso', 'tradiční pečené hovězí maso', 'tradiční pečené hovězí maso']	Traditional roast beef.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002304.jpg	<|begin_of_text|>User:<image>Question: Co je to za limonádu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř', 'Dr. Pepř']	Pepsi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004134.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['dálkové ovládání televize', 'dálkové ovládání', 'dálkové ovládání', 'dálková', 'dálkové ovládání', 'dálková', 'dálkové ovládání', 'dálkové ovládání', 'dálková', 'dálkové ovládání']	Ovladač.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001171.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Domácí rostlina', 'rostlina', 'Domácí rostlina', 'rostlina', 'rostlina', 'rostlina', 'rostlina', 'nádobí rostlina', 'rostlina', 'domácí rostlina']	Rostlina.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003923.jpg	<|begin_of_text|>User:<image>Question: Co je to za věc?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['stůl', 'počítač', 'stůl', 'stůl', 'stůl', 'stůl', 'počítačový stůl', 'stůl', 'stůl', 'stolní počítač zapnutý']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002166.jpg	<|begin_of_text|>User:<image>Question: Co je na mém stole?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['iPod touch', 'aplikace', 'telefon', 'papíry pro chytré telefony', 'papíry pro chytré telefony', 'telefon', 'telefon', 'telefon', 'mobilní telefon', 'telefon']	Telefono.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001082.jpg	<|begin_of_text|>User:<image>Question: A co jsem to fotil?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['iPad', 'Fotka iPad kávovaru vedle', 'tablety', 'iPad', 'Hulu přihlášení', 'Huluplus', 'tablety s zobrazením Hulu plus', 'Tablet Hulu plus přihlášení', 'obrazovka huluplus', 'Přihlašovací obrazovka pro Hulu plus na tabletu']	Cannot respond.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001652.jpg	<|begin_of_text|>User:<image>Question: Co je to za láhev?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['šampon', 'šampon', 'nelze odpovědět', 'Třetí', '- Těší mě.', 'nelze odpovědět', 'tresemme péče o vlasy', 'šampon', 'Parfém', 'tresemme šampon']	TRESemme.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003834.jpg	<|begin_of_text|>User:<image>Question: Co je tohle za model?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['sodová', 'šprit', 'Láhev s sodou', 'šprit', 'nelze odpovědět', 'sodová sprita', 'šprit', 'Sprite flaška', 'nelze odpovědět', 'šprit']	Sprite.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002771.jpg	<|begin_of_text|>User:<image>Question: Co je to za produkt?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Chex mix', 'Chex mix', 'Chex mix', 'Chex mix cheddar', 'Chex mix', 'Chex mix', 'Mix šéfkuchaře', 'Chex mix', 'Chex mix', 'Ček']	Chex mix.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003572.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['uzené krocaní', 'kouřené krůtí panini', 'kouřené krůtí panini', 'Krůtí panini', 'kouřené krůtí panini', 'kouřené krůtí panini', 'náplně z krupobití', 'panini', 'uzené krocaní', 'kouřené krůtí panini']	Smoked turkey.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000974.jpg	<|begin_of_text|>User:<image>Question: Jaké dopisy mám napsat, abych vyhrál cenu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg', 'Mvg']	Enter word.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003630.jpg	<|begin_of_text|>User:<image>Question: Co je to za plechovku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['rajčata', 'omáčka', 'rajčata', 'rozmačkané rajčata', 'cín', 'rajčata', 'rajčata', 'konzervované rajčata', 'rajčata', 'rajčata']	Kukuřice.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002991.jpg	<|begin_of_text|>User:<image>Question: Co je to za Keurig?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Domek s koblihami.', 'káva', 'krabice', 'koblihy', 'sbírka koblihů', 'koblihy', 'koblihy', 'sbírka koblihů', 'Důlka na koblihy', 'sbírka koblih']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000270.jpg	<|begin_of_text|>User:<image>Question: Prosím, řekněte mi název této knihy?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Zářivá srpna', 'nelze odpovědět', 'Autor Clive Cussler Dirk Cussler', 'Pouze jména autorů, bez názvu', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'nelze odpovědět']	Cussler.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003698.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['peníze', 'peníze', '20 dolarová bankovka.', 'peníze', '20 dolarů.', '20 dolarů.', '20 dolarů.', '20 dolarové bankovky', '20 dolarů', '20 dolarové bankovky']	Bankovka.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004072.jpg	<|begin_of_text|>User:<image>Question: Je to šampon nebo tělesná voda?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['krém', 'krémy pro tělo', 'krém', 'krémy pro tělo', 'šumivý krém na tělo', 'krémy pro tělo', 'krémy pro tělo', 'krém', 'krémy pro tělo', 'krémy pro tělo']	Tělesná voda.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002239.jpg	<|begin_of_text|>User:<image>Question: Co je na té fotce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['sušenky', 'Krekry z krabice', 'krabice s sušenkami', 'krabice s sušenkami', 'sušenky', 'sušenky', 'sušenky', 'sušenky', 'sušenky', 'sušenky']	Krupicovy placky.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001218.jpg	<|begin_of_text|>User:<image>Question: Co je to za fotku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['telefon', 'Macbook pro', 'Macbook pro', 'monitor počítače', 'nelze odpovědět', 'notebook', 'počítač', 'Macbook pro', 'obrazovka pro MacBook Pro', 'notebookový počítač']	Macbook Pro.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003426.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['voda', 'voda', 'přírodní krystalická voda', 'Křišťálová voda', 'vodní lahvička', 'vodní lahvička', 'vodní lahvička', 'voda', 'vodní lahvička', 'voda']	Voda.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003996.jpg	<|begin_of_text|>User:<image>Question: Co je to za pizzu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['papriky', 'Máma je roztomilá.', 'Máma je v pohodě s tenkou pizzou.', 'papriky', 'Mrazená pizza', 'papriky', 'tenká', 'Pepperoni s tenkou kůrou z Mama Cozzis.', 'Mamka je v pohodě, tenká kůra pepperoni.', 'Máma je roztomilá.']	Thin.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002427.jpg	<|begin_of_text|>User:<image>Question: Co je v téhle plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['celá kukuřice', 'kukuřice', 'kukuřice', 'kukuřice', 'kukuřice celá', 'kukuřice celá', 'kukuřice', 'Významné potraviny mohou', 'kukuřice', 'kukuřice']	Krem.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001243.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['myš', 'počítačová myš', 'počítačová myš', 'počítačová myš', 'počítačová myš', 'HP kabelová myš', 'počítačová myš', 'počítačová myš', 'HP myš', 'myš']	Myš.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001455.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kancelář', 'židle', 'kancelář', 'kancelářský křeslo', 'židle', 'stolní křeslo', 'Domácí kancelář', 'kancelář', '2 stolky', 'židle']	Pult.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001008.jpg	<|begin_of_text|>User:<image>Question: Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['televizní', 'televizní', 'televizní', 'Starý televizní monitor', 'televizní', 'televizní', 'monitor', 'televizní obrazovka', 'televizní', 'monitor']	Samsung.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001472.jpg	<|begin_of_text|>User:<image>Question: Jakou mám barvu košile?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['černá bílá', 'modrá bílá černá', 'černá', 'Modrá', 'námořnictvo', 'černobílý znak', 'černá bílá', 'Modrá', 'Modrá', 'černá bílá']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004114.jpg	<|begin_of_text|>User:<image>Question: Jakou to má barvu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['červená', 'červená', 'červená', 'červená', 'růžový', 'červená', 'červená', 'červená', 'červená', 'červená']	Červenou.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003750.jpg	<|begin_of_text|>User:<image>Question: Jsou to normální čipy nebo čipy s solí a ocetem?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['soli', 'pravidelné', 'pravidelné', 'běžné žetony', 'pravidelné', 'pravidelné', 'nelze odpovědět', 'nelze odpovědět', 'pravidelné', 'nelze odpovědět']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002757.jpg	<|begin_of_text|>User:<image>Question: Co je to za krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pomerančový džus', 'pomerančový džus', '- Ne.', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančový džus', 'pomerančová', 'pomerančový džus', 'papírová krabice pomerančový džus']	Krabici na jablečný džus.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003290.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co to je?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['čipy', 'čipy', 'čipy', 'bramborové lžičky', 'bramborové lžičky', 'čipy z kyselé smetany', 'čipy', 'bramborové lžičky', 'čipy', 'bramborové lžičky']	Chips.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004075.jpg	<|begin_of_text|>User:<image>Question: Co je v té tašce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'zmrazené zeleniny', 'zelenina', 'mrkev hrášek kukuřice zelená fazole', 'zelenina', 'hrášek mrkev kukuřice', 'zelenina smíšená', 'zelenina', 'Zelenina smíšená', 'kukuřice mrkev fazole hrášek']	Ovoce.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001379.jpg	<|begin_of_text|>User:<image>Question: Co je to za chuť Sparku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['růžová limonáda', 'růžová limonáda', 'nelze odpovědět', 'růžová limonáda', 'nelze odpovědět', 'růžová limonáda', 'pomerančová', 'jahody', 'nelze odpovědět', 'růžová limonáda']	Šumivý.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003340.jpg	<|begin_of_text|>User:<image>Question: Co je to za druh?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Manwich', 'nelze odpovědět', 'nelze odpovědět', 'Manwich', 'Manwich', 'Manwich', 'rajčata', 'Manwich', 'Manwich', 'Špinavý Joe.']	Adobo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002924.jpg	<|begin_of_text|>User:<image>Question: V jaké roční době jsme?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['špagety', 'špagety', 'Spaghetti koření', 'Spaghetti koření', 'špagety', 'Spaghetti koření', 'Spaghetti koření', 'špagety', 'špagety', 'Spaghetti koření']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004251.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kniha', 'časopis', 'vertikální magazín', 'časopis', 'vertikální magazín', 'časopis', 'časopis', 'Časopis Vertigo', 'časopis', 'časopis']	Veriac.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002583.jpg	<|begin_of_text|>User:<image>Question: Co je to za předmět?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['stěna', 'stěna', 'stěna', 'stěna', 'nelze odpovědět', 'nelze odpovědět', 'nelze odpovědět', 'stěna', 'stěna', 'stěna']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001351.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['sladkosti', 'jahodové cukrovinky', 'sladkosti', 'jahodové cukrovinky', 'sladkosti', 'sladkosti z jahod', 'Sdgaegr', 'sladkosti z jahod', 'sladkosti', 'jahodové cukrovinky']	Ovoce.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004074.jpg	<|begin_of_text|>User:<image>Question: Jaké barvy jsou ty boty?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['hnědá', 'černá', 'hnědá', 'hnědá', 'hnědá', 'hnědá', 'hnědá', 'noha', 'hnědá', 'brun']	Černé.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000477.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['obrazovka počítače', 'webová stránka', 'nelze odpovědět', 'nelze odpovědět', 'webové stránky', 'obrazovka počítače', 'monitor počítače', 'článek', 'PDF soubor pro vizwiz', 'vizwizpdf rozmazaný, ale můžete vidět sekci přispěvatelů']	VizWiz.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001175.jpg	<|begin_of_text|>User:<image>Question: Co je to za obrázek?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['monitor', 'notebook', 'televizní', 'počítač', 'notebook', 'televizní', 'plochá obrazovka', 'obrazovka notebooku', 'televizní', 'nelze odpovědět']	Tv.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001673.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['mobilní telefon', 'mobilní telefon', 'pager', 'nelze odpovědět', 'telefon', 'mobilní telefon', 'Blackberry mobilní telefon', 'mobilní telefon', 'mobilní telefon', 'mobilní telefon']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003262.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['lednice', 'nelze odpovědět', 'lednice', 'lednička v koleji', 'lednice', 'lednice', 'lednička', 'mini lednička', 'chladničky', 'mini lednička']	Lednice.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001459.jpg	<|begin_of_text|>User:<image>Question: Jakou barvu šperků bych měl nosit s tímto oblečením?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['stříbro', 'stříbro', 'bílá', 'Zlato', 'černá', 'stříbro', 'stříbro', 'stříbro', 'stříbro', 'stříbro']	Zlatou.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002499.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['noha', 'kalhoty', 'stehna', 'Noha kalhot', 'Armový gauč', 'kalhoty', 'polštář', 'nelze odpovědět', 'Noha v kalhotách', 'noha']	Oblek.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002879.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['psí', 'nelze odpovědět', 'psí', 'psí', 'psí', 'psí', 'psí', 'psí', 'nelze odpovědět', 'Pes na podlaze']	Pes.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001244.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['dálková', 'dálková', 'dálkové ovládání', 'ovladač televizoru', 'dálkové ovládání televize', 'dálkové ovládání', 'dálková', 'dálková', 'dálkové ovládání', 'dálkové ovládání']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003815.jpg	<|begin_of_text|>User:<image>Question: Jsou tyto banány zelené nebo žluté?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['mírně zelená', 'žlutá', 'žlutá', 'žlutá', 'zelená', 'žlutá', 'žlutá', 'žlutá', 'žlutá', 'žlutá']	Žluté.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003389.jpg	<|begin_of_text|>User:<image>Question: Co je to za produkt?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['obiloviny', 'Kaši, jdi chudý, křupavý med, mandlový lněný.', 'Kaši , jdi na hubnutí .', 'Golean Crunch kashi', 'obiloviny', 'Jdi na hubené cereálie.', 'Jdi na hubnutí .', 'Kaši, jdi chudý, křupavý med, mandlový lněný.', 'obiloviny', 'obiloviny']	Kashi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002930.jpg	<|begin_of_text|>User:<image>Question: Co je právě na obrazovce televize?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Nic.', 'Nic.', 'Nic nevypadá .', 'Nic.', 'Nic.', 'Nic.', 'Nic.', 'Nic.', 'nelze odpovědět', 'Nic.']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001245.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['maso', 'hovězí steak', 'hovězí', 'balíček steaků', 'maso', 'maso', 'nelze odpovědět', 'hovězí steak', 'Steak', 'maso']	Steak.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000139.jpg	<|begin_of_text|>User:<image>Question: Co je na tom vzkazu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'obnovit kompletní', 'nelze odpovědět', 'obnovení dokončeno', 'obnovení dokončeno', 'nelze odpovědět', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno']	Restoration complete.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003569.jpg	<|begin_of_text|>User:<image>Question: Co je to za jídlo v téhle plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['polévka', 'Progresso zahradní zeleninová polévka', 'zahradní zeleninová polévka', 'zeleninová polévka', 'zahradní zeleninová polévka', 'zahradní zeleninová polévka', 'polévka', 'Progresso zahradní zeleninová polévka', 'zahradní zelenina', 'zahradní zeleninová polévka']	Zeleninová polévka.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003582.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['nelze odpovědět', 'může', 'Česká šunka', 'Česká šunka', 'Česká šunka', 'Česká šunka', 'polévka', 'může rozdělit hráškovou polévku', 'Česká šunka', 'polévka']	Split pea.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001475.jpg	<|begin_of_text|>User:<image>Question: Je to pohovka nebo stůl?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tabulka', 'tento stůl']	Pohovka.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002043.jpg	<|begin_of_text|>User:<image>Question: Co je v téhle plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['ravioli', 'ravioli', 'ravioli', 'kukuřice', 'ravioli', 'ravioli', 'ravioli', 'ravioli', 'Ravioli potraviny', 'ravioli']	Revoli.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000952.jpg	<|begin_of_text|>User:<image>Question: Co je na obrazovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['chybová zpráva', 'Pop-up pro spuštění opravy počítače restart', 'Znova spustit', 'dialogu, který říká, že chcete ukončit opravy a restartovat počítač', 'opravy na spuštění', 'Pokyny pro aktualizaci systému Windows', 'nelze odpovědět', 'opravy na spuštění', 'možnost restartu počítače', 'opravy na spuštění']	Pop-up.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001388.jpg	<|begin_of_text|>User:<image>Question: Zkusíme to, můžeš mi říct, co to je?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['fazole', 'pečené fazole', 'fazole', 'pečené fazole', 'keře pečené fazole', 'může', 'konzervy', 'keře pečené fazole', 'pečené fazole', 'fazole']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001486.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co je to za telefon?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['L g', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'Lg', 'android', 'Lg', 'Ano, to je ono.']	LG.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002126.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Smartphone', 'mobilní telefon', 'mobilní telefon', 'telefon', 'mobilní telefon', 'mobilní telefon', 'mobilní telefon', 'Smartphone', 'telefon', 'telefon']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003508.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['notebook', 'ruka', 'klávesnice notebooku', 'ruka', 'prsty', 'ruka', 'nelze odpovědět', 'nelze odpovědět', 'stůl', 'ruka']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001836.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Cabernet 2009', 'víno', 'víno', 'víno', 'Kabernet sauvignon', 'víno z lahví', 'víno', 'víno', 'Vína z roku 2007', 'víno']	Vino.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001962.jpg	<|begin_of_text|>User:<image>Question: Co je v té láhvi?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['kokos', 'Sodu, možná Coca-Colu.', 'sodová', 'Coca-Cola soda', 'sodová', 'sodová', 'kokos', 'sodová', 'kokos', 'sodová']	Pivo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002030.jpg	<|begin_of_text|>User:<image>Question: Jakou barvu má, prosím?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['červený bílý pruh', 'červená', 'červené bílé pruhy', 'červené bílé pruhy', 'červená bílá', 'bílá červená', 'košile', 'červená bílá', 'červená bílá', 'červená bílá']	Red and white.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002241.jpg	<|begin_of_text|>User:<image>Question: Co je v té tašce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['brokolice', 'brokolice', 'brokolice', 'brokolice', 'brokolice', 'ale brokolice', 'brokolice', 'řezané brokolice', 'Parní n podávat řezané brokolice', 'brokolice']	Brokolice.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001737.jpg	<|begin_of_text|>User:<image>Question: Na co je ten kupón?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['jogurt', 'jogurt', 'jogurt z yoplaitu', 'Yoplait jogurt 10 $5', 'Yoplait', 'Yoplait jogurt 10 $5', 'jogurt z yoplaitu', 'jogurt', 'sleva', 'jogurt']	Yoplait.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002218.jpg	<|begin_of_text|>User:<image>Question: Co je to za pop?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Neštva', 'konzervovaný ledový čaj', 'citron', 'Neštva citronová', 'Neštva', 'Neštva', 'Neštva', 'Neštva', 'Fiesta', 'Neštva']	Nestea.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002109.jpg	<|begin_of_text|>User:<image>Question: Co je to? Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['iPad', 'tablety', 'počítač', 'iPad', 'myšový podložka', 'notebook', 'okna', 'tablety', 'nelze odpovědět', 'iPad']	Tablet.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000511.jpg	<|begin_of_text|>User:<image>Question: Co je na obrazovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Chcete obnovit svůj komp s pomocí obnovení systému pop up', 'chybová zpráva', 'Chcete obnovit počítač pomocí obnovy systému?', 'spouštění', 'diagnostický obrazovka s spouštěním', 'Systémy obnovit otázku: Chcete použít obnovit počítač', 'opravy na spuštění', 'opravy na spuštění', 'Otázka k obnovení počítače', 'Chcete obnovit počítač pomocí obnovy systému?']	Restaurovat.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003691.jpg	<|begin_of_text|>User:<image>Question: A děkuji za váš čas na odpověď.\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit', 'šprit']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000567.jpg	<|begin_of_text|>User:<image>Question: Co je na obrazovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Chcete obnovit počítač pomocí systému CD?', 'obnovit', 'Chcete obnovit počítač pomocí systému', 'Váš počítač nemohl spustit start opravy kontroluje systém na problémy', 'Chcete obnovit počítač pomocí systému', 'opravy na spuštění', 'Váš počítač nemůže začít', 'Váš počítač nemohl spustit.', 'Počítač nemůže začít', 'obnovit']	Startup repair.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003657.jpg	<|begin_of_text|>User:<image>Question: Co je v téhle plechovce?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['zelenina', 'Wrgrweg', 'Zelenina smíšená', 'Veggie původní', 'zelenina smíšená', 'zelenina', 'Vegall', 'zelenina', 'zelenina', 'zelenina smíšená']	Vegem.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003310.jpg	<|begin_of_text|>User:<image>Question: Co vidíte na obrázku ? Co vidíte na obrázku ?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Nic.', 'nebesa', 'umyvadlo', 'nebesa', 'nelze odpovědět', 'nebesa', 'Nic.', 'nelze odpovědět', 'nelze odpovědět', 'nebesa']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003159.jpg	<|begin_of_text|>User:<image>Question: Jaký druh limonády?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'koka kola 0', 'koka kola 0', 'kokos 0', 'koka kola 0', 'koka kola 0']	Coca cola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000946.jpg	<|begin_of_text|>User:<image>Question: Co je to za systém?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['desktop', 'nelze odpovědět', 'okna', 'stolní počítač', 'okna', 'okna', 'okna', 'Windows PC', 'okna', 'okna']	Windows.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002760.jpg	<|begin_of_text|>User:<image>Question: Co je to? - Co je?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['řečník', 'řečníci', 'podlaha', 'řečníci', 'systém reproduktorů', 'řečník', 'řečník', 'řečník', 'řečník', 'řečníci']	Zvon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000688.jpg	<|begin_of_text|>User:<image>Question: To monitoruje světlo na laptopu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ano, to je ono.', 'Ne, ne, ne, ne', 'Ano, to je ono.']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003600.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct, co je na téhle láhvi?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý vanilkový cukr', 'teplý vanilkový cukrový krém', 'teplý vanilkový cukr', 'teplý vanilkový cukr tělesný krém', 'teplý cukr vanilková']	Lotion.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000262.jpg	<|begin_of_text|>User:<image>Question: Můžete mi říct číslo 1-800 z této karty a slyšíte tuto otázku?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['1 800 735 2929 neslyším q', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', 'Číslo:', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 ne', '18773289677 ne', '1 877 328 9677', '8007352929 ne']	Ano.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002995.jpg	<|begin_of_text|>User:<image>Question: Světla v pokoji zapnutá nebo vypnutá?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['Světla zhasla', 'Odpočívat', 'na', 'Odpočívat', 'na', 'nelze odpovědět', 'na', 'na', 'na', 'na']	Vypnuta.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001847.jpg	<|begin_of_text|>User:<image>Question: Co je to za chuť?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['čerešně', 'růžová limonáda', 'ovocný punč', 'růžová limonáda', 'růžová limonáda', 'nelze odpovědět', 'nelze odpovědět', 'růžová limonáda', 'čerešně', 'růžová limonáda']	Limonáda.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000132.jpg	<|begin_of_text|>User:<image>Question: Co je na tom vzkazu?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['obnovení dokončeno', 'nelze odpovědět', 'úspěšná rekonstrukce dokončena', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno', 'obnovení dokončeno', 'registrace dokončena', 'obnovení dokončeno', 'obnovení dokončeno']	System restoration complete.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003451.jpg	<|begin_of_text|>User:<image>Question: Jakou mám barvu košile?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá', 'bílá']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003071.jpg	<|begin_of_text|>User:<image>Question: Co je to? Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pokročilý šampon pro barevnou terapii', 'šampon', 'pokročilý šampon pro barevnou terapii', 'šampon', 'barvová terapie šampon', 'šampon', 'barvová terapie', 'šampon', 'Ovation pokročilá barevná terapie', 'barvová terapie']	Šampon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002646.jpg	<|begin_of_text|>User:<image>Question: Co je to? Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['konzervy', 'krmivo pro kočky', 'nelze odpovědět', 'umyvadlo', 'může', 'umyvadlo', 'mytí', 'umyvadlo', 'umyvadlo', 'může']	Nelze odpovědět.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001208.jpg	<|begin_of_text|>User:<image>Question: Co je to za videohru?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['ESPN NFL 2k', 'fotbal', 'Nfl 2k', 'ESPN NFL 2K5', '2k5', 'Fotbal ESPN 2K', 'Nfl 2k', 'fotbal', 'Nfl 2k', 'fotbal']	NFL.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003370.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['panini', 'panini', 'kouřené krůtí panini', 'kouřené krůtí panini', 'kouřené krůtí panini', 'Stouffer kouřené krocaní panini', 'Krůtí panini', 'nelze odpovědět', 'kouřené krůtí panini', 'kouřené krůtí panini']	Smoked turkey.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002112.jpg	<|begin_of_text|>User:<image>Question: Co je v té krabici?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['lasagne', 'Mrazené večeře', 'speciální lasagne', 'speciální lasagne', 'lasagne', 'speciální lasagne', 'lasagne', 'lasagne', 'lasagne', 'lasagne']	Special lasagne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001905.jpg	<|begin_of_text|>User:<image>Question: Co je to za předmět?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['přírodní údolí oves tmavá čokoládová granola bar', 'čepel', 'Bar z granola', 'Bar z granola', 'Bar z granola', 'Bar z granola', 'Přírodní údolí ovesný n tmavá čokoládová tyč', 'ovesný a křupavý čokoládový tyčinek', 'čokoládový granola bar', 'Bar z granola']	Oat's n Dark Chocolate.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002878.jpg	<|begin_of_text|>User:<image>Question: Co je to? Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['videohry', 'Hra pro PlayStation 2', 'Hra Star Wars Battlefront pro PlayStation 2', 'Hra Star Wars', 'videohry', 'videohry', 'Star Wars Battlefront 2', 'Hra', 'Hra pro PlayStation 2', 'PSI hra']	Star wars battlefront.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002343.jpg	<|begin_of_text|>User:<image>Question: Co je to za kafe?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['francouzská vanilka', 'francouzská vanilka', 'francouzská vanilka', 'hnízdí', 'vanilková', 'francouzská vanilka', 'Kávu mate', 'francouzská vanilka', 'francouzská vanilka', 'francouzská vanilka']	Kofe.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003471.jpg	<|begin_of_text|>User:<image>Question: Co je to? Co je to?\
+When the provided information is insufficient, respond with \"nelze odpovědět\".\
+Answer with a single word or phrase in Czech.<end_of_utterance>\
+Assistant:	['pomerančový džus', 'šťáva', 'šťáva', 'pomerančový džus', 'šťáva', 'hladký šťavnatý', 'hladký a šťavnatý', 'šťáva', 'pomerančový džus', 'šťáva']	Smooth juice.

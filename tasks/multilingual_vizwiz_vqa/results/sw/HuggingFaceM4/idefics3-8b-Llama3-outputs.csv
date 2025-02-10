@@ -1,0 +1,37 @@
+image_path	prompt	ground_truth	response
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001089.jpg	<|begin_of_text|>User:<image>Question: Ni nini kilichoandikwa kwenye karatasi hiyo?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['isiyoweza kujibiwa', 'Australia posta', 'posta', 'isiyoweza kujibiwa', 'Australia posta', 'Australia posta', 'Australia posta', 'Australia posta', 'isiyoweza kujibiwa', 'Australia posta']	Australia Post.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000603.jpg	<|begin_of_text|>User:<image>Question: Unaweza kuniambia nini ni kwenye skrini hii ya kompyuta tafadhali?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['icons kwa saa hali ya hewa nk', 'kuanza dirisha', 'eneo-kazi', 'saa', 'saa', 'icons', 'icons desktop', 'isiyoweza kujibiwa', 'icons desktop', 'icons']	saa.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002074.jpg	<|begin_of_text|>User:<image>Question: CD hii ni nini?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['tupu', 'cd tupu', 'maxwell', 'Maxell cd r', 'tupu', 'tupu', 'blanketi', 'tupu', 'tupu', 'maxell']	Ghr.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001467.jpg	<|begin_of_text|>User:<image>Question: Ni picha ya nini?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['mguu', 'mguu', 'mikia iliyochorwa', 'mguu', 'mguu', 'mguu', 'mguu', 'mguu', 'mguu', 'mguu']	A.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004201.jpg	<|begin_of_text|>User:<image>Question: Unaweza kuniambia nini unaweza hii ni tafadhali?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['uwindaji s', 'kipande cha nyama', 'kipande cha nyama', 'wawindaji sloppy Joe mchuzi', 'mchuzi wa Joe wa kijivu', 'kipande cha nyama', 'Mtu ambaye ujasiri sloppy Joe mchuzi', 'kuachana', 'kipande cha nyama', 'Joe mwenye ulegevu']	Chutney.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001540.jpg	<|begin_of_text|>User:<image>Question: Ni nini?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['soda ya chakula', 'Coca-Cola ya chakula', 'Coca-Cola ya chakula', 'unaweza kutumia cocaine ya chakula', 'Coca-Cola ya chakula', 'Coca-Cola ya chakula', 'Coca-Cola ya chakula', 'kokeni', 'soda', 'unaweza kutumia cocaine ya chakula']	Coca cola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003385.jpg	<|begin_of_text|>User:<image>Question: Ni viungo gani hivi?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['Bi Dash', 'isiyoweza kujibiwa', 'Bi Dash', 'isiyoweza kujibiwa', 'siwezi kusema', 'viungo vyote', 'mchanganyiko wa basil', 'mrs dash meza mchanganyiko', 'kipande', 'Bi Dash']	Spices.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002460.jpg	<|begin_of_text|>User:<image>Question: Ni nini?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['mtn chupa ya umande', 'umande wa mlimani', 'umande wa mlimani', 'umande wa mlimani', 'umande wa mlimani', 'umande wa mlimani', 'umande wa mlimani', 'umande wa mlimani', 'umande wa mlimani', 'mt umande']	Mtn dew.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001735.jpg	<|begin_of_text|>User:<image>Question: Ni nini kilicho ndani ya sanduku hili?\
+When the provided information is insufficient, respond with \"isiyoweza kujibiwa\".\
+Answer with a single word or phrase in Swahili.<end_of_utterance>\
+Assistant:	['kahawa', 'isiyoweza kujibiwa', 'kahawa', 'kahawa', 'kahawa', 'kahawa', 'kahawa', 'kahawa', 'kahawa', 'isiyoweza kujibiwa']	Kahawa.

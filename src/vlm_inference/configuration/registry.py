@@ -367,11 +367,11 @@ cs.store(
         _target_="vlm_inference.CpmModel",
         name="openbmb/MiniCPM-V-2_6",
         size="",  # not used
-        dtype="float16",
+        dtype="bfloat16",
         model_cls=HfModel(
             _target_="transformers.AutoModel.from_pretrained",
         ),
-        processor_cls=HfProcessor(_target_="transformers.AutoTokenizer.from_pretrained", use_fast=True),
+        processor_cls=HfProcessor(_target_="transformers.AutoTokenizer.from_pretrained"),
     ),
 )
 

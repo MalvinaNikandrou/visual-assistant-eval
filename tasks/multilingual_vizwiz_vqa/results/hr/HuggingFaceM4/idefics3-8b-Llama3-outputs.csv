@@ -1,0 +1,1401 @@
+image_path	prompt	ground_truth	response
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001089.jpg	<|begin_of_text|>User:<image>Question: Što piše na papiru?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Australija', 'post', 'ne može se odgovoriti', 'Australija', 'australska pošta', 'Australija', 'Australija', 'ne može se odgovoriti', 'Australija']	australia post.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000603.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je na ovom ekranu računala?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ikone za vrijeme sata itd', 'Početni prozor', 'radna površina', 'sat', 'sat', 'ikone', 'ikone za radnu površinu', 'ne može se odgovoriti', 'ikone za radnu površinu', 'ikone']	Kalendar.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002074.jpg	<|begin_of_text|>User:<image>Question: Koji je ovo CD?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['prazan', 'prazan CD', 'Maxwell', 'Maxell CD r', 'prazan', 'prazan', 'pokrivač', 'prazan', 'prazan', 'Maxell']	Maxell.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001467.jpg	<|begin_of_text|>User:<image>Question: Što je slika?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['stopala', 'stopala', 'ogrebotina na stopalima', 'stopala', 'stopala', 'stopala', 'stopala', 'stopala', 'stopala', 'stopala']	Stopala.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004201.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['lov', 'Manwich', 'Manwich', 'Lov je nemaran.', 'Neizbrinuti sos.', 'Manwich', 'Čovjek koji je hrabar, nepažljiv i nepažljiv.', 'neobično', 'Manwich', 'Neizvjesni Joe.']	Hunt's nwich old joe sauce.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001540.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dijetalna kola soda', 'Dijetalna kola može', 'Dijetalna kokaina', 'Može dietni kola', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Koza', 'sode', 'Može dietni kola']	Coca cola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003385.jpg	<|begin_of_text|>User:<image>Question: Što je ovo začin?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Gospođa Dash', 'ne može se odgovoriti', 'Gospođa Dash', 'ne može se odgovoriti', 'Ne mogu reći.', 'sve začine', 'bazalna mješavina', '-Gospođa Dash.', 'razvod', 'Gospođa Dash']	Mlječni začin.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002460.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ml-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'mt rosa']	Mtn Dew.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001735.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['kave', 'ne može se odgovoriti', 'kave', 'kave', 'kave', 'kave', 'kave', 'kave', 'kave', 'ne može se odgovoriti']	Kava.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002557.jpg	<|begin_of_text|>User:<image>Question: Što vidiš? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['koža', 'vrata za pod', 'vrata', 'vrata', 'Prstna vrata', 'vrata', 'ne može se odgovoriti', 'vrata', 'Kuća', 'crno krzno prsta']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000566.jpg	<|begin_of_text|>User:<image>Question: Što mi prikazuje ekran računala?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['želite li vratiti računalo pomoću sistema', 'Pop-up obnoviti sustav', 'Službeni poziv', 'pitaju li vas da li želite vratiti računar pomoću sistema', 'kutija', 'Obnoviti sustav', 'želite li vratiti računalo pomoću sistema', 'Računar nije pokrenuo.', 'Obnoviti postavljen', 'Obnoviti sustav']	Unable to start.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003751.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['vruće kakao', 'vruća mješavina kakaa', 'topla čokolada', 'vruća mješavina kakaa', 'Kakao', 'vruća mješavina kakaa', 'vruće kakao', 'mješavina vruće čokolade', 'Kakao', 'mješavina kakaa']	Kava.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000197.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći broj na kartici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['800 735 2929', '1 877 328 9677 1 80 732 2929', '1 800 735 2929', '1 877 328 9677', '8007352929', '1 877 328 9677', '1 877 328 9677', 'Sljedeći članak', '1 877 328 9677', '18007352929']	1-877-328-9677.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000977.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['računarski ekran', 'računarski ekran', 'računarski ekran', 'laptop', 'Računarski ekran koji prikazuje rezultate pretrage', 'ekran', 'računarski ekran', 'računarski ekran', 'ekran monitora', 'računarski ekran']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004314.jpg	<|begin_of_text|>User:<image>Question: - Što je ovo? - Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['salata za obraditi stražnja strana', 'zavoj', 'salata', 'salata', 'Balsamska salata', 'salata', 'ne može se odgovoriti', 'salata', 'salata', 'salata']	Salsica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004039.jpg	<|begin_of_text|>User:<image>Question: Što prikazuje slika?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['prozor', 'Dizajn', 'Crni dizajn staklenog prozora', 'stakleni prozor u vratima', 'stakleni prozor u vratima', 'vrata', 'staklo u boji', 'vrata', 'prozor', 'prozor']	Staklena vrata.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003622.jpg	<|begin_of_text|>User:<image>Question: Može li mi netko reći što je pitanje sigurnosti na ekranu, molim?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Arawak', 'ne može se odgovoriti', 'Arawak', 'Arawak', 'Arawak', 'Arawak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Arawak', 'Arawak']	Security code.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003019.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['vino', 'srebrni hrast', 'srebrni hrast', 'vino od srebrnog hrasta', 'vino', 'bočica', 'vino', 'vino', 'Srebro hrast 2003 Cabernet sauvignon', 'srebrni hrast 2003']	Kapa.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003198.jpg	<|begin_of_text|>User:<image>Question: Koja je to marka monitora?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ig', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig']	Lg.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003541.jpg	<|begin_of_text|>User:<image>Question: Kakvo je to piće?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sode', 'ginger ale', 'generalne', 'sok od đumbira', 'Kanada suha', 'Kanada suha', 'ginger ale', 'Kanada suha', 'ginger ale', 'ginger ale']	Kolačići.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003207.jpg	<|begin_of_text|>User:<image>Question: Koje je boje tepih?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['bež', 'bež', 'crvenkasto', 'siva', 'crvena', 'krema', 'crvenkasto', 'crvenkasto', 'bež', 'crvena']	Siva.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001552.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'telefon', 'digitalni telefon', 'telefon', 'uredni telefon', 'telefon']	Telephone.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003827.jpg	<|begin_of_text|>User:<image>Question: Što je ova slika?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'planinska rosa', 'gorski rosac', 'ml-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-', 'gorska voda', 'Mtn rosa']	Ljudska ruka drži zeleni kiselo okuso napitak.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003740.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'losije', 'sode', 'ne može se odgovoriti', 'losije', 'losije', 'losije', 'ne može se odgovoriti', 'losije']	Lek.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001842.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['vodena voda', 'Boca vode', 'voda', 'voda', 'plastična boca vode marke aquafina', 'Bočanica vode', 'Boca za vodu', 'vodena voda', 'voda', 'plastične boce vode']	Water.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000981.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Google pretraživanje', 'Google pretraživač', 'Google stranica za pretragu', 'Google', 'Google', 'računalo', 'Google početna stranica', 'Google stranica', 'računarski ekran', 'računarski ekran']	Google.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000835.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi', 'ključevi']	Klicevi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000966.jpg	<|begin_of_text|>User:<image>Question: Molim vas, pročitajte mi poruku o grešci na ekranu.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'ne može se odgovoriti', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Nevaljan ključ proizvoda ili ukloniti ključ proizvoda u datoteku odgovora ne prisustvuje nastaviti', 'Nevaljan ključ proizvoda ili ukloniti ključ proizvoda u datoteku odgovora ne prisustvuje nastaviti', 'Neispravni ključ proizvoda']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002910.jpg	<|begin_of_text|>User:<image>Question: Gdje mi je laptop?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['stol', 'na stolu.', 'gornji stol pored kreveta', 'na stolu.', 'stol', 'stol', 'na stolu.', 'na stolu.', 'gornji stol', 'stol']	Na stolici.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000002.jpg	<|begin_of_text|>User:<image>Question: Kako se zove ova knjiga?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['godine psa', 'Psi godine: memoari', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa', 'godine psa']	Osam godina.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001092.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Macbook', 'tipkovnica', 'tipkovnica', 'tipkovnica', 'računalo', 'tipkovnica', 'laptop', 'laptop', 'laptop', 'tipkovnica na računaru']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002677.jpg	<|begin_of_text|>User:<image>Question: Što vidiš? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Prozor stol', 'cvjetovi', 'ne može se odgovoriti', 'Prozor stol', 'Knjiga, notebook olovka', 'cvjetovi', 'destop', 'Knjiga', 'prozor', 'cvjetovi']	Pismo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002073.jpg	<|begin_of_text|>User:<image>Question: Koji paket sadrži prazno brašno?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crveno-bijeli paket', 'lijevo', 'da 1', 'crvena 1 lijevo', 'lijevo', 'ne može se odgovoriti', 'lijevo', 'lijevo', 'crvena bijela 1', 'crvena 1']	Da.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001437.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['nogomet', 'nogomet', 'nogomet', 'ljubičasti narandžasti plušni nogometni aligator na', 'nogomet', 'Alligatori, mekani nogomet', 'punjena lopta', 'punjena narandžasta plava lopta', 'ljubičasto nogometno', 'Kljupci']	Gator.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002884.jpg	<|begin_of_text|>User:<image>Question: Koje je boje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['siva', 'Zlato', 'Zlato', 'bež', 'crvena', 'Zlato', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zlato', 'ne može se odgovoriti']	Srednje.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000789.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['meni', 'ne može se odgovoriti', 'meni', 'meni', 'meni', 'sadržaj tabele', 'meni', 'meni', 'cjenovnik', 'ne može se odgovoriti']	Meny.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003999.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Boca za vodu', 'Slavno', 'Springbourne voda', 'Springbourne', 'Bočirana voda', 'voda', 'Boca za vodu', 'Bočirana voda', 'voda u boci', 'voda']	Water.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003602.jpg	<|begin_of_text|>User:<image>Question: Kakva je to juha?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['napredak', 'napredak', 'napredak', 'ne može se odgovoriti', 'napredak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'napredak', 'napredak']	Progres.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003857.jpg	<|begin_of_text|>User:<image>Question: Znam da je ovo konzerva hrane, možeš li mi reći što je unutra?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['zelena graha', 'zelena graha', 'zelena graha', 'zelena graha', 'zelena graha', 'ne može se odgovoriti', 'zelena graha', 'eef', 'zelena graha', 'zelena graha']	Grej.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000985.jpg	<|begin_of_text|>User:<image>Question: Što je?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Čeks mješavina', 'Mliječne mašine za rezanje', 'Chex Mix računalo', 'ne može se odgovoriti', 'Čeks mješavina', 'hrana', 'Čeks mješavina', 'Čeks mješavina', 'Čeks mješavina', 'Čekmix']	Chip.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002692.jpg	<|begin_of_text|>User:<image>Question: Što je to? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['mikrotalasne', 'mikrotalasne', 'lijekovi', 'Električni aparati želatina juha', '-Sup u limenci.', 'šalicu juhe za piti', 'kuhinja', 'kuhinjski pulter', 'krema', 'juha']	Kugla.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002351.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['mješovite povrće', 'mješovite povrće', 'mješovite povrće', 'mješovite povrće', 'Mješoviti povrće', '- Ne, ne, ne, ne.', 'mješovite povrće', 'mješavina povrća', 'mješovite povrće', 'mješovite povrće']	Mješavina vrtnih proizvoda.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001429.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo vrsta?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['krema za kolače', 'od odjeće', 'od odjeće', 'od šlagova', 'Betty Crocker', 'od vajene', 'od šlagane vanilije', 'od vajene', 'od odjeće', 'od odjeće']	Whipped.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001345.jpg	<|begin_of_text|>User:<image>Question: Koju kutiju gledam, što sadrži kutija?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Šipka od žitarica', 'prirodne doline pržene bademske granola barove', 'Barve od žitarica', 'prirodna dolina', 'u obliku žitarica', 'prirodne doline pržene bademske granola barove', 'prirodne doline hrskavi granola barovi pržena badem ukus', 'Barve od žitarica', 'Barve od žitarica', 'u obliku žitarica,']	Nature valley crunchy.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004210.jpg	<|begin_of_text|>User:<image>Question: Što je s bojom tkanine?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['zeleno bijelo', 'Bijeli tamnozeleni natpis', 'bijela zelena', 'bijela zelena', 'ružičasta zelena', 'tkanina bijela krem zelena na', 'crno-ružičasta', 'zeleno bijelo', 'crni crni crveni boja za kravatu', 'bijele zelene prskanja']	Nije jasno.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001923.jpg	<|begin_of_text|>User:<image>Question: Što prikazuje ekran računala?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Gornja glava', 'Kurzor', 'Ništa.', 'plava', 'plavi ekran', 'Šipka', 'prazan', 'plava strelica', 'prazan', 'plavi ekran']	Breo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002814.jpg	<|begin_of_text|>User:<image>Question: -Zdravo, tko je to?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['bijela mačka', 'mačka', 'mačka', 'bijela mačka', 'mačka', 'ne može se odgovoriti', 'mačka', 'mačka', 'Ova mačka.', 'mačka']	Mie.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003556.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Purell napredni sanitizer za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke']	Alkoholna desinfekcija.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000381.jpg	<|begin_of_text|>User:<image>Question: Što piše u poruki o grešci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda', 'neispravni proizvod', 'Nevaljan ključ proizvoda kliknite OK da nastavite', 'Nevaljan ključ proizvoda ili uklonite ključ proizvoda iz datoteke odgovora za nastavak', 'neispravni proizvod', 'Neispravni ključ proizvoda', 'Neispravni ključ proizvoda']	Answer: uključite valjani proizvodni ključ.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000463.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što piše na ovoj poruki na ekranu mog računala?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['neka vrsta popravak završetak dugme u donjem desnom', 'Popravak početka zadnja uspješna pokretanja 9 20 2012 1 pokušaj popravka završi otkazati', 'ne može se odgovoriti', 'Ne, ne mogu.', 'popravak pokretanja', 'popravak pokretanja', 'popravak pokretanja', 'ne može se odgovoriti', 'Početak popravak završen dijagnostički ekran zatvori gumb', 'popravak pokretanja']	Startup repair.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001798.jpg	<|begin_of_text|>User:<image>Question: Je li to piletina ili kobasica ili kakvo meso?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['piletina', 'piletina', 'piletina', 'piletina', 'piletina', 'piletina', 'piletina', 'piletina bedra', 'ne može se odgovoriti', 'piletina']	Piletina.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001807.jpg	<|begin_of_text|>User:<image>Question: Koje je ovo boje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['električna plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'plava', 'ne može se odgovoriti']	Blue.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001054.jpg	<|begin_of_text|>User:<image>Question: Što kaže ekran?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['instalirati prozore', 'instalirati prozore plus više nečitljiv', 'instalirati prozore', 'instalirati prozore', 'instalirati prozore', 'Ovaj ekran navodi da Windows instalirati liste korake instalacije', 'instalirati prozore', 'instalirati prozore', 'instalirati prozore', 'instalirati prozore']	Instalacija windows.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002698.jpg	<|begin_of_text|>User:<image>Question: Nebo izgleda kao na ovoj slici.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['djelomično oblačno', 'tamni oblak', 'veliki oblak', 'Veliki oblak tamno nebo', 'oblačno', 'oblačno', 'Plavi oblakovi', 'ne može se odgovoriti', 'Veliki kišni oblak malo plavi na strani', 'oblačno']	Temno.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001425.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Vrata', 'stolica', 'stolica', 'stolica', 'ne može se odgovoriti', 'stolica', 'stolica', 'stolica', 'Prozor s metalnim okvirom', 'stolica']	Stol.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002407.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['fotografija', 'vrata', 'vrata', 'bar', 'Vrata sa staklenim panelima', 'vrata', 'Restoran', 'Restoran', 'vrata', 'vrata']	Restoran.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000405.jpg	<|begin_of_text|>User:<image>Question: Što je na ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['odaberite pokretni uređaj', 'Molim vas odaberite pokretni uređaj 3 izbora', 'ne može se odgovoriti', 'Molim vas odaberite uređaj za pokretanje', 'ekrana za pokretanje', 'Molim vas odaberite uređaj za pokretanje', 'pogreška', 'Molim vas odaberite uređaj za pokretanje', 'poruka o odabiru uređaja', 'Molim vas odaberite uređaj za pokretanje']	Upiti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001782.jpg	<|begin_of_text|>User:<image>Question: Što je to?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['pepeljar', 'dekoratorna bronzana skulptura lavkinje', 'kip', 'Ne, ne mogu.', 'pepeljar', 'Pjesak', 'kip', 'pasja zdjela', 'pepeljar', 'Plaga tigar na vrhu']	Mašina za šećernu pahuljicu.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002046.jpg	<|begin_of_text|>User:<image>Question: Kakve su to cigarete?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Američki duh', 'Američki duh', 'Američki duh', 'Američki duh', 'Američki duh', 'crno pakirana američka pića', 'Američki duh', 'Američki duh', 'Američki duh', 'Američki duh']	Americki duh.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001389.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Gujanski ginseng', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	Tea.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003951.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['losije za tijelo', 'losije za tijelo', 'losije za tijelo', 'losije', 'Shea lotion za tijelo vitamin E', 'Mjesečeva svjetlost put Shea vitamin E lotion za tijelo', 'losije za tijelo', 'Losion za tijelo u mjesečini', 'Losion za tijelo u mjesečini', 'losije']	Body lotion.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003376.jpg	<|begin_of_text|>User:<image>Question: Što je ovo slika?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Očice', 'okvir', 'čaše', 'naočale srebrni okvir', 'naočale za oči', 'čaše', 'okvir naočara', 'čaše', 'čaše', 'čaše']	Slika okova.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004241.jpg	<|begin_of_text|>User:<image>Question: Ovo je proizvod.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['- Da, u redu.', 'pomodirana juha', 'pomodirana juha', 'juha', 'konzervirana juha', 'pomodirana juha', 'pomodirana juha', 'pomodirana juha', 'juha', 'odaberite žetvu supa od paradajza']	Sup.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001482.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['telefonski govornik', 'iPhone', 'iPhone kutija', 'telefon', 'mobitel', 'mobitelska kutija', 'pametni telefon', 'telefon', 'pametni telefon', 'iPhone']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002516.jpg	<|begin_of_text|>User:<image>Question: Što je ovo slika?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čokolada', 'Slavlje crvena kutija', 'odgovoran', 'Kaže proslava', 'kutija', 'slatkiše', '-Slušaj.', 'proslave', 'kutija', 'ne može se odgovoriti']	Celebrations.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002322.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Šampanjac', 'čajanka za čaj od staklenog vina', 'staklo', 'stakleno vino', 'čaša šampanjca uz šalicu kafe na tanjiru', 'Piće u čaši na stolu', 'Šampanjac', 'čaša za čajanku', 'Čajnik za šampanjac', 'Šampanjac staklo ploča na stolu u prednjem prozoru pogled na grad']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001996.jpg	<|begin_of_text|>User:<image>Question: Kakav je okus ovoga?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['narandžasta', 'narandžasta zelena žuta crvena', 'crvena mleta', 'narandžasta', 'ne može se odgovoriti', 'ne može se odgovoriti', 'narandžasta', '2 na lijevoj narančaste trešnje limuna na gornjem dnu desno zimskozeleno', 'narandžasta', 'narandžasta']	Ličića.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002959.jpg	<|begin_of_text|>User:<image>Question: Zdravo, pitao sam se što je u ovoj limenci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Coca-Cola', 'Coca-Cola', 'sode', 'Coca-Cola', 'sode', 'sok-kok', 'sode', 'sode', 'Coca-Cola', 'sode']	Coca cola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001858.jpg	<|begin_of_text|>User:<image>Question: Kakva je postavka na ovom sušioniku?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['protivmjerno ka satu redovito vrijeme kontrole bora suha delikatna otpuštanje bora zraka', 'redovito', 'isključi', 'isključi', 'isključi', 'redovito', 'isključi', 'Ne na postavljanju', 'Ništa.', 'isključi']	Regular.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001061.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['tablet', 'tablet', 'aplikacije za telefon', 'ekran', 'Popis aplikacija', 'App Store', 'tablet', 'Popis aplikacija za preuzimanje', 'ne može se odgovoriti', 'preuzimanje aplikacija']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002461.jpg	<|begin_of_text|>User:<image>Question: Što gledam?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['televiziju', 'TV od ormara', 'televiziju', 'TV', 'TV ekran', 'televiziju', 'Tom Selleck na televiziji', 'TV', 'TV', 'TV s otvorenim vratima']	Tv.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003171.jpg	<|begin_of_text|>User:<image>Question: Koje je ovo boje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'bež', 'Bijeli', 'Slonovača', 'ne može se odgovoriti', 'bež', 'ne može se odgovoriti']	Beige.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004018.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ovaj proizvod', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'Kuharica Boyardee mini ravioli', 'konzervirani mini ravioli', 'Ravioli', 'Kuvar Boya mini ravioli', 'mini ravioli']	Chef boyarde.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001775.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Pjesma', 'Pjesma', 'Pjesma', 'Pjesma', 'tradicionalno pečeno govedino', 'Pjesma', 'Pjesma', 'tradicionalno pečeno govedino', 'Pjesma', 'Pjesma']	Traditional roast beef.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003566.jpg	<|begin_of_text|>User:<image>Question: Što je to za proizvod?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dijetalni pepsi', 'Pepsi bez kofeina', 'Pepsi', 'Pepsi', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Pepsi bez kofeina', 'Dijetalni pepsi', 'Dijetalni pepsi']	Pepsi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002157.jpg	<|begin_of_text|>User:<image>Question: Kako se ovo zove?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Istočni', 'žitarica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'hrana', 'žitarica', 'kombinacija staza', 'žitarice', 'žutice', 'vrećice kikirikija']	Eastern foods.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001350.jpg	<|begin_of_text|>User:<image>Question: Je li ovo obična ili bezkofeinska kava?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['redovito', 'ne može se odgovoriti', 'redovito', 'redovito', 'redovito', 'redovito', 'ne može se odgovoriti', 'ne može se odgovoriti', 'redovito', 'redovito']	Bez.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003510.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['slijedeći:', 'slijedeći:', 'slijedeći:', 'slijedeći:', 'slijedeći:', 'sir od sirova', 'slijedeći:', 'slijedeći:', 'slijedeći:', 'slijedeći:']	Naljepšano.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002279.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['kreme za omekšavanje', 'losije', 'losije', 'losije', 'krema za omekšavanje', 'losije', 'krema za vlaženje', 'krema za tijelo', 'duboko vlažno pranje tijela', 'Pročišćavanje tijela']	Krem.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003609.jpg	<|begin_of_text|>User:<image>Question: Što je to? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['stolica za stol', 'stolica', 'stolica', 'uredska stolica', 'uredska stolica', 'Ova kancelarijska stolica', 'stolica', 'stolica za stol', 'stolica', 'siva kancelarijska stolica']	Answer: chair.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000934.jpg	<|begin_of_text|>User:<image>Question: Što je to predmet sam upravo napravio sliku?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['računarski monitor', 'računalo', 'računarski ekran', 'ne može se odgovoriti', 'ne može se odgovoriti', 'laptop', 'računarski ekran', 'laptop', 'računarski monitor', 'laptop računalo']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004230.jpg	<|begin_of_text|>User:<image>Question: Reci mi što je ovo.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['svinjske rešetke', 'meso', 'neka vrsta crvenog mesa', 'pakirano meso', 'svinjetina', 'svinjski odrezak', 'ne može se odgovoriti', 'meso', 'Fg', 'svinjski udob']	Mesno.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000599.jpg	<|begin_of_text|>User:<image>Question: Kako izgleda nebo na ovoj slici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['oblačan dan', 'djelomično oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'oblačno', 'kiša']	Nebo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002585.jpg	<|begin_of_text|>User:<image>Question: Čeka da vrijeme istekne?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'špageti', 'špageti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'špageti', 'špageti', 'zrcala', 'večera', 'Pizza']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002018.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['cvjetovi', 'cvjet', 'cvjetovi', 'cvjetovi', 'cvjet', 'cvjetovi', 'biljke', 'cvjetovi', 'cvjet', 'iris']	Cvijeće.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003189.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čaja', 'čaj', 'ne može se odgovoriti', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj', 'čaj']	Tea.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003814.jpg	<|begin_of_text|>User:<image>Question: Koje su boje i uzorak ove hlače?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['škriljan', 'plava žuta', 'plava narandžasta zelena', 'plava smeđa bijela karata', 'plava na vrhu, žuta na dnu.', 'višebojan', 'plavo-brunito-bijeli plati', 'škriljan', 'plava karata', 'plava, bijela, zelena, žuta, plava']	Pluše.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003548.jpg	<|begin_of_text|>User:<image>Question: Koje je boje bio kovčeg?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['zelena', 'zelena', 'limena zelena', 'zelena boja', 'zelena', 'zelena', 'zelena', 'zelena', 'svijetlo zelena', 'zelena']	Zeleni.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001626.jpg	<|begin_of_text|>User:<image>Question: Je li ovo obična kola ili dijetalna kola?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dijetalna kokaina', 'dijeta', 'dijeta', 'dijeta', 'dijeta', 'dijeta', 'Dijetalna kokaina', 'dijeta', 'Dijetalna kokaina', 'dijeta']	Djetalna.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003420.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['pisala', 'Ključnica', 'pisala', 'pisala', 'pisala', 'pisala', 'pisala', 'pisala', 'pisala', 'Bi- pen']	Round Stic M.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002868.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Lampa može pringles', 'svjetiljka', 'svjetiljka', 'svjetiljka', 'Pringle može pored cds lampe', 'svjetiljka bez senke', 'svjetiljka', 'stolni pringles lampa za ispiranje usta', 'svjetiljka', 'svjetiljka']	Pringles.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000492.jpg	<|begin_of_text|>User:<image>Question: Što ovaj kompjuter radi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sustav provjere', 'ne može se odgovoriti', 'provjera diska', 'provjeravajući disk', 'ne može se odgovoriti', 'ne može se odgovoriti', 'za opterećenje', 'konfiguracija', 'provjera dosljednosti', 'Ponovno pokretanje']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002438.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo soda?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dijetalna kokaina', '- Ne, ne, ne.', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kokaina', 'Dijetalna kola limuna', 'Dijetalna kokaina', 'Dijetalna kokaina']	Dieta Coca-Cola.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000060.jpg	<|begin_of_text|>User:<image>Question: Molim vas, recite mi o tome.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Clive Cussler Dirk Cussler', 'ne može se odgovoriti', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'znanstveno', 'suspense', 'Olive Cussler Dirk Cussler', 'djelovanje', 'ne može se odgovoriti', 'Clive Cussler']	Tvoje.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002094.jpg	<|begin_of_text|>User:<image>Question: Kakvo je ovo vino?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Slavimo vjenčanje David Emma crveno vino', 'Nash', 'Nash', 'Nash', 'Nash', 'Nash', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nash vino']	The Nash.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001210.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['masnoće', 'ne može se odgovoriti', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće', 'masnoće']	Yoghurt.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000036.jpg	<|begin_of_text|>User:<image>Question: Kako se zove ova knjiga?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['godine psa', 'godine psa', 'godine psa', 'godine psa', 'ne može se odgovoriti', 'godine psa', 'ne može se odgovoriti', 'godine psa', 'godine psa', 'godine psa']	Eight years.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001757.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Sony laptop', 'laptop', 'laptop', 'računalo', 'laptop', 'Sony Vaio laptop', 'laptop', 'Soni Vaio', 'Sony laptop', 'laptop']	Vaio.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001606.jpg	<|begin_of_text|>User:<image>Question: Pitam se kakva je marka ovog računala.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.', '-Soni.']	SONY.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003921.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['bitka', 'Na zadnjoj etiketi ne piše', 'ne može se odgovoriti', 'paradižnik', 'paradižnik', 'paradižnik', 'ne može se odgovoriti', 'paradižnik', 'Nejasna slika', 'paradižnik']	Nutrition facts.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002148.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['slijepa hrana', 'Snickers od pudinga', 'od odjeće', 'slijepa hrana', 'od odjeće', 'slijepa hrana', '6 paketa snack paketa vanilije puding', 'čokoladice za puding', 'slijepa hrana', 'Puding za pakiranje grickalica']	Puding.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004119.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['20 $ kanadski novčanici', '20 kanadskog dolara', '20 kanadskog', 'novac', 'Novac na čipku.', '20 novčanica', 'novac', '20 dolara kanadska novčanica', '20 dolara.', 'novac']	Novčanica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001242.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['lasagne', 'lasagne', 'specijalni lazanje', 'lasagne', 'specijalni lazanje', 'specijalni lazanje', 'Lasagne', 'lasagne', 'lasagne', 'lasagne']	Special lasagne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003003.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo kava?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['espresso', 'espresso', '-Timotije, ekspreso.', 'Espresso iz kišne šume', 'espresso iz kišne šume', 'espresso', 'ekstra debelo', 'espresso Forest tropski', 'ekstra odvažan espresso Forest tropski', 'Timoteju']	Timothy's World Coffee.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000472.jpg	<|begin_of_text|>User:<image>Question: Što je to slika?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['klavijaturni čaša za vino', 'laptop', 'laptop tastatura vino pivo', 'ne može se odgovoriti', 'računalo', 'računalo', 'laptop piće', 'laptop na stolu pored staklene tekućine', 'laptop staklo', 'stakleni laptop']	Slika kompjutera i čaše.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002173.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['naslovna knjiga', 'Knjiga', 'brošura', 'Napomena', 'Demon rum lako novac knjiga', 'Demon rum lak novac: Vlada kontrolira piće u Britanskoj Kolumbiji', 'Knjiga', 'Knjiga', 'naslovna stranica knjige', 'brošura']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000570.jpg	<|begin_of_text|>User:<image>Question: Što je bilo na stolu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['bilježnica', 'drugi papir', 'Spajeralizirani bilježnik', 'papirna olovka', 'bilježnica', 'notebook olovka', 'bilježnica', 'notebook olovka', 'papirna olovka', 'bilježnica']	Dnevnik.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002964.jpg	<|begin_of_text|>User:<image>Question: Koje je boje ova košulja?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['plava bijela karata', 'plava bijela', 'plava bijela karata', 'plava bijela', 'plava', 'plava bijela', 'plava, plava, bijela', 'plava karata', 'plava', 'plava']	Plava.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003950.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Andre Chardonnay', 'Šampanjac', 'Andre, molim te.', 'Šampanjac', 'vino', 'Šampanjac', 'Šampanjac', 'Šampanjac', 'Šampanjac', 'Šampanjac']	Andre.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001598.jpg	<|begin_of_text|>User:<image>Question: Kako se zove proizvod na slici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol', 'lizol']	Kil.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003612.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo kava?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Gelacija', 'maksimalno Gevalia kafe', 'Maksim', 'Velea espresso', 'Maksim', 'crna kava', 'Maksim', 'ne može se odgovoriti', 'Gelacija', 'Gelacija']	Gevalia.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003078.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dr paprika', 'Može li dr paprika soda', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'dr paprinska soda', 'Dr paprika', 'Može li dr paprika soda', 'Dr paprika']	Pepper.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001646.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je ovo, molim vas?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['instantna kava', 'instantna kava', 'klasična kava', 'paketice za kavu', 'ne može se odgovoriti', 'kave', 'kave', 'kave u prahu', 'kave', 'Nescafe Classic']	Kava.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001976.jpg	<|begin_of_text|>User:<image>Question: Koje su boje tri žice s lijeve na desnu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crvena crna bijela', 'crvena crna bijela', 'crveno crno tan', 'crvena crna bijela', 'crvena crna bijela', 'crvena crna bijela', 'crvena crna bijela', 'crvena crna bijela', 'crvena plava bijela', 'crvena crna bijela']	Crna, bijela i crvena.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004143.jpg	<|begin_of_text|>User:<image>Question: Što ovaj test pokazuje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['1 linija', 'negativno', 'negativno', '1 linija, ali boja se širi.', 'ne može se odgovoriti', '1 traka', 'Nema slike', 'crvena linija', 'ne može se odgovoriti', 'plava oznaka crvena oznaka']	Nega.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002365.jpg	<|begin_of_text|>User:<image>Question: Kako se zove ovo začin?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['gđa. Mješavina svježeg limuna i paprike.', 'razvod', 'Gospođa Dash', 'Gospođa Dash limuna paprika', 'Gospođa Dash', 'Gospođa Dash', 'paprika', 'Gospođa Dash', 'Gospođa Dash', 'Gospođa Dash']	Pepper.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001409.jpg	<|begin_of_text|>User:<image>Question: Kakav piće imam u boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Pepsi', 'Pepsi soda', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Dijetalni pepsi', 'Pepsi', 'Dijetalni pepsi', 'Pepsi dijeta', 'Dijetalni pepsi', 'Dijetalni pepsi']	Pepsi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003918.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['video igrice', 'video igrice', 'košarkaška igra', 'video igrice', 'ne može se odgovoriti', 'DVD', 'ne može se odgovoriti', 'igra', 'video igrice', 'DVD']	Oblećenje.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002140.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Kečup', 'Kečup', 'Heinz paradajz kečup', 'paket sa kečapom', 'pakovanje sa kečapom', 'Kečup', 'Kečup', 'paket sa kečapom', 'Kečup', 'Kečup']	Heinz ketchup.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000803.jpg	<|begin_of_text|>User:<image>Question: Koje su boje u ovoj košulji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crvena bijela', 'crvena', 'crvena bijela', 'crvene bijele pruge', 'crvene bijele pruge', 'crvena bijela', 'crvena bijela', 'crvena bijela', 'crvena bijela', 'crvena bijela']	Crvena i bijela.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002271.jpg	<|begin_of_text|>User:<image>Question: Što je u paketu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Parlament slika', 'glazbeni album', 'cigarete', 'cigarete', 'cigarete', 'cigarete', 'S druge strane, za proizvodnju električnih goriva', 'cigare parlamenta', 'kartice', 'cigarete']	Parliament.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003874.jpg	<|begin_of_text|>User:<image>Question: Koje je boje ova podloga?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta', 'ljubičasta']	Purpura.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000090.jpg	<|begin_of_text|>User:<image>Question: Je li dijalog vidljiviji na toj slici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['dosadno', '- Da, u redu.', 'Ne, ne mogu.', '- Da, u redu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Ne, ne mogu.', '- Da, u redu.']	Da.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001766.jpg	<|begin_of_text|>User:<image>Question: Što je to za proizvod?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['zelena graha', 'zelena graha', 'zelena graha', 'može', 'žitarica', 'šumak', 'ne može se odgovoriti', 'zelena graha', 'Fg', 'ne može se odgovoriti']	Nutrition Facts.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003027.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Svinjska graha', 'Svinjska graha', 'svinjetina i grah', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha', 'Svinjska graha']	Van camp.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002690.jpg	<|begin_of_text|>User:<image>Question: Što je ovo vino?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', '-Ne, ne, ne, ne, ne, ne, ne, ne.', 'Vintage 2008 proizvod Nash', 'Nash', 'Nash', 'Sjećanje na vjenčanje', 'Nash proslavlja brak David Emma 16. srpnja 2011.', 'Nash', 'Nash', 'proslava vjenčanja']	The Nash.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003531.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo hrana?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Tomatski umak', 'Tomatski umak', 'organski umak od paradajza', 'Tomatski umak', 'Tomatski umak', 'Tomatski umak', 'Muir Glen organski umak od paradajza', 'Tomatski umak', 'Muir Glen organski umak od paradajza', 'Tomoto']	Tomato sauce.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003588.jpg	<|begin_of_text|>User:<image>Question: Kakav je ovo okus?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku', 'jabuku']	Strawberry.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002949.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći koju je ovo boju?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno']	Crna.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002825.jpg	<|begin_of_text|>User:<image>Question: Što je to? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['biljka', 'dekoratorna biljka', 'aloe', 'biljka za kućanstvo', 'biljka za kućanstvo', 'kućna biljka', 'biljka', 'kućna biljka', 'biljka', 'biljka trave']	Planta.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001294.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['časopis', 'stripovi', 'stripovi', 'stolna igra za odrasle', 'časopis', 'knjižica za obojavanje', 'Čudna Božićna knjiga.', 'Nisam siguran da ne znam čitati taj jezik.', 'Božićne čestitke', 'strip']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002945.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Piletina Dijon večera', 'hrana', 'piletina dijon', 'piletina dijon', 'piletina dijon', 'hrana', 'piletina dijon', 'piletina', 'piletina dijon', 'piletina dijon']	Chicken Dijon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003398.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo kava?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Gvelia', 'Gelacija', 'francuska vanilija', 'francuska vanilija', 'Gvelia', 'Gvelia', 'francuska vanilija', 'francuska vanilija', 'francuski', 'Vanilija']	Gevalia.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002190.jpg	<|begin_of_text|>User:<image>Question: Što je to?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['iPhone', 'telefon', 'telefon', 'iPhone', 'mobitel', 'mobitel', 'mobilni telefon', 'Ja zovem.', 'pametni telefon', 'pametni telefon']	Iphone.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003031.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'cigarete', 'pakovanje cigareta', 'cigarete', 'pakovanje cigareta', 'cigarete', 'cigarete', 'ne može se odgovoriti', 'cigarete', 'cigarete']	Cigarete.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001513.jpg	<|begin_of_text|>User:<image>Question: Kakav je ovo okus?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['govedina', 'S okusom govedine', 'govedina', 'odlagalica s okusom govedine', 'govedina', 'ukus govedine', 'odlagalica s okusom govedine', 'govedina', 'Ovaj okus govedine', 'govedina']	Beef flavored broth.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001786.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['veliki čaša', 'čaša', 'čaša', 'čaša', 'voli Togo kup', 'čaša', 'Pop cup neke druge stvari', 'Čaša od polistirolne pene', 'čaša', 'Ova šalica.']	Kupaći šoljica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003064.jpg	<|begin_of_text|>User:<image>Question: Je li ovo Pepsi za dijetu ili običan Pepsi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dijetalni pepsi', 'dijeta', 'ne može se odgovoriti', 'dijeta', 'Dijetalni pepsi', 'dijeta', 'dijeta', 'dijeta', 'Dijetalni pepsi', 'dijeta']	Dijet.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000890.jpg	<|begin_of_text|>User:<image>Question: Što kaže ekran?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Avast softver', 'skeniranje lokalnih pogona', 'prozori', 'poruka o pogrešci', 'skeniranje', 'Avast softver skeniranje Windows XP', 'prozori', 'ne može se odgovoriti', 'Windows XP', 'ne može se odgovoriti']	Windows xp.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000920.jpg	<|begin_of_text|>User:<image>Question: Molim vas, recite mi na kojem sam ekranu? Pokušavam pristupiti meniju za pokretanje i pokušavam pokrenuti sa USB-a.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Pritisnite strelicu dolje jednom, a zatim unesite za usb.', 'Menu za pokretanje na opciji za pokretanje s HDD-a', 'ne može se odgovoriti', 'U bootmood', 'Molim vas odaberite uređaj za pokretanje', 'Molim vas odaberite pokretni uređaj:', 'Molim vas izaberite pokretni uređaj hdd: pm st9250315as', 'Molim vas odaberite uređaj za pokretanje', 'Naslov ekrana: molim izaberite pokretni uređaj pomaknite strijela dolje 1 mjesto na usb:usb disk pro', 'Molim vas odaberite uređaj za pokretanje']	Uključivanje.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003174.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći kakav je ovo okus?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dijeta dr paprika', 'Dijeta dr paprika', 'Dr. Pepper Diet', 'Dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'kola', 'Dijeta dr paprika', 'Dijeta dr paprika']	Dijetetski kiselo čaj.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003773.jpg	<|begin_of_text|>User:<image>Question: Kakva je to juha?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['povrćna juha', 'napredak', 'progresivno', 'ne može se odgovoriti', 'Progresso povrće', 'ne može se odgovoriti', 'povrće', 'Progresso povrće', 'povrće', 'napredak']	Progres.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000826.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći kakva je to vrsta auta?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Lincoln Crown Victoria', 'Nekakav četverodomni sedan.', 'Lincoln', 'Ford Crown Victoria', 'Lincoln', 'Chevrolet', 'Viktorija', 'ne može se odgovoriti', 'Ford']	Ford.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001818.jpg	<|begin_of_text|>User:<image>Question: Kava je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Gelacija', 'Gelacija', 'Gelacija', 'Gelatia švicarski orašasti orašasti', 'Gelacija', 'Gelacija', 'Gelacija', 'Gelacija', 'Gelacija', 'Gelacija']	Gevail.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004044.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'sanitizator za ruke', 'G.', 'Dezinfekcijski sredstvo za ruke', 'Dezinfekcijski sredstvo za ruke']	Hand sanitizer.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003491.jpg	<|begin_of_text|>User:<image>Question: Što je to?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['juha', 'voće', 'ne može se odgovoriti', 'ne može se odgovoriti', 'juha', 'ne može se odgovoriti', 'juha', 'ne može se odgovoriti', 'ladica', 'juha']	Kuhinjski sastojci.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001604.jpg	<|begin_of_text|>User:<image>Question: Koje je ovo boje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crna', 'crna', 'crna', 'hrastovog smeđog', 'crna', 'crni klopar', 'drvena', 'crna', 'crna', 'crna']	Drvo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001700.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ruka', 'ruka', 'ne može se odgovoriti', 'ruka', 'ruka', '1 desna ruka', 'ruka', 'ruka', 'ruka']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003975.jpg	<|begin_of_text|>User:<image>Question: Što je postavljanje lonca?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čaša', 'visoka', 'visoka', 'visoka', 'visoka', 'visoka', 'niska', 'visoka', 'visoka', 'visoka']	Low.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000905.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['proizvodi za slijepe', 'CD', 'Povratno CD', 'od čelika', 'CD', 'disk', 'Knjiga na CD-u', 'CD', 'proizvodi za slijepe', 'Spear, James Herbert, DVD']	Answer: cd.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000518.jpg	<|begin_of_text|>User:<image>Question: Što je to? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['računari monitor tastature', 'monitor', 'računarski monitor', 'računarski ekran', 'računalo', 'računarski monitor', 'računarski ekran', 'radna površina', 'Grafički prikaz', 'Grafički prikaz']	Dell.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000069.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što piše u ovoj boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['topli šećer od vanilije', 'šećer', 'topli šećer od vanilije', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'topli vanilijski šećer', 'topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije']	Warm vanilla sugar.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001007.jpg	<|begin_of_text|>User:<image>Question: Što je na ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Windows instalirani ekran', 'ne može se odgovoriti', 'instalirati prozore', 'instalirati Windows statusni ekran', 'instalirati Windows', 'instalirati prozore', 'uputstva za ugradnju prozora', 'napredak pri postavljanju prozora', 'instalirati Windows info', 'prozori']	Instalacija windows.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002378.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['može', 'može', 'ne može se odgovoriti', 'konzerve', 'može', 'žitarica', 'ne može se odgovoriti', 'žitarica', 'gvožđe', 'gvožđe']	Kancion.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003028.jpg	<|begin_of_text|>User:<image>Question: Kakvo je to piće?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'narandžasta', 'sok od naranče']	Majuca.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004270.jpg	<|begin_of_text|>User:<image>Question: Kakva je to pića u ovoj konzervi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čaj', 'Nešta', 'Neština limuna', 'hladnoća', 'Nešta', 'Nešta', 'Nešta', 'hladnoća', 'Čaj od leda', 'gnijezda']	Nestea.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003444.jpg	<|begin_of_text|>User:<image>Question: Je li ovo pepperoni pizza, pepperoni i kobasica, suprem, kakve vrste?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čokolada', 'čokolada', 'čokolada', 'čokolada', 'čokolada', 'čokolada', '- Da, u redu.', 'čokolada', 'Mama cozzis pepperoni tanka kora', 'čokolada']	Pepperoni.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002110.jpg	<|begin_of_text|>User:<image>Question: Imaš li pojma kakva je biljka ona u sredini?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ne, ne mogu.', 'trava', 'trava', 'trava', 'trava', 'trava', 'Ne, ne mogu.', 'Ne, ne mogu.', 'trava', 'šuma']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002439.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čaše', 'čaše', 'čaše', 'Očice', 'par naočara', 'čaše', 'par naočara', 'čaše', 'naočale za oči', 'par naočara']	Stakleni okviči.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003654.jpg	<|begin_of_text|>User:<image>Question: Opiši ovo mjesto.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ured', 'uredski prostor', 'ured', 'Ured 2 stola ormarić 2 stolice', 'ured', 'ured', 'stolovi crni uredske stolice', 'uredski stolovi', 'Ured 2 stolovi', 'ured']	Radno mjesto.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001213.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['bilježnica', 'planir', 'Knjiga', 'Knjiga', 'Kartica', 'bilježnica', 'planir', 'bilježnica', 'Lilly Pulitzer agenda spiralna', 'bilježnica']	Dnevnik.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002786.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Plastični medvjed ruža', 'Medvjed', 'Medvjed', 'Medvjed', 'Medvjed', 'Medvjed', 'medvjed', 'Medvjed', 'Medvjed', 'Medvjed']	Mljačica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002750.jpg	<|begin_of_text|>User:<image>Question: Kakva je to začina?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol', 'morska sol', 'čebulja', 'čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol', 'čebuljska morska sol']	Cebula i sea salt.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002798.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj konzervi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dijeta dr paprika', 'Dr. Pepper Diet', 'Dijeta dr paprika']	Dr Pepper.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002219.jpg	<|begin_of_text|>User:<image>Question: Što je slika na ovoj šalici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crtić', 'crtić', 'crtić', 'Čovjek gleda pticu', 'muškarac piletina', 'Čovječe.', 'Čovjek iz crtića', 'skica ptica čovjek drvo mjesec', 'osoba životinja', 'crtić']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000753.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['osobe natrag', 'dječak', 'čovjekova glava', 'osoba', 'Nekome u leđa, glavu, ramena.', '-Nastavi.', 'ne može se odgovoriti', 'siva košulja', 'dječak', 'Slika pozadi osoba']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002656.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['govornik', 'govornik', 'zvučnik na zidu', 'govornik', 'govornik', 'govornik', 'zvučnik na zidu', 'govornik', 'mačka', 'govornik']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000622.jpg	<|begin_of_text|>User:<image>Question: Što je ovdje napisano?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['broj telefona taksija', 'Ništa.', 'Ništa.', 'telefon', 'gradski taksi', 'primak', 'ne može se odgovoriti', 'Izgleda kao potvrda.', 'linije', 'gradski taksi']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003574.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['New Orleans stil jambalaya mješavina', 'mješavina jambalaya', 'mješavina jambalaya', 'riža', 'Jambalaya', 'mješavina jambalaya', 'mješavina jambalaya', 'riža jambalaya', 'kutija spremna za mješavinu za rižu jambalaya u stilu New Orleansa', 'mješavina jambalaya']	Jambalaya mix.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000820.jpg	<|begin_of_text|>User:<image>Question: Koje je boje moj Mac?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['srebrno', 'Bijeli', 'crno-bežno', 'Bijeli', 'srebrno', 'srebrno', 'srebrno', 'srebrno', 'Bijeli', 'srebrno']	Sivo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001617.jpg	<|begin_of_text|>User:<image>Question: Što je u limenci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Biološki pečeni grah', 'Svinja', 'Biološki pečeni grah', 'Svinja', 'Svinja', 'Svinja', 'Svinja', 'Svinja', 'Svinja', 'Svinja']	Organic Baked Beans.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004234.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['slijedeći:', 'ne može se odgovoriti', 'slijedeći:', '3 čokolada sa sirom', 'slijedeći:', 'sir od sirova', 'slijedeći:', 'večera', 'slijedeći:', 'česne školjke']	Kraft dinner.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003724.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Zatarains New Orleans stil jambalaya mješavina', 'mješavina jambalaya', 'mješavina jambalaya', 'mješavina jambalaya', 'mješavina jambalaya', 'riža', 'za-tarini mješavina jambalaya', 'Jambalaya', 'za-tarini mješavina jambalaya', 'mješavina jambalaya']	Jambalaya mix.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003716.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['kvalitetni ulični bomboni', 'Šarlatan', 'slatkiše', 'slatkiše', 'tvrde slatkiše', 'slatkiše', 'slatkiše', 'slatkiše', 'kvaliteta ulice', 'slatkiše']	Cokolada.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003022.jpg	<|begin_of_text|>User:<image>Question: Ispričavam se, recite mi što točno možete vidjeti na ovoj slici.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['hladnjak', 'hladnjak', 'hladnjak', 'Mali hladnjak trake od trake svjetlo pločica sticker na zid ručnik na hladnjaku', 'hladnjak', 'mini hladnjak', 'mini hladnjak', 'vrata za ormare', 'bijeli hladnjak', 'hladnjak']	Refrigerator.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000908.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je to u kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Divne unuke.', 'Nešto o divnim unucima.', 'Divno.', 'Ništa lijepše od unuka.', 'Malo je stvari lijepih od unuka koji se bore za tvoje krilo.', 'Divne unuke.', 'Divne unuke.', 'Malo je stvari lijepih od unuka koji se bore za tvoje krilo.', 'ne može se odgovoriti', 'Divne unuke.']	Brakčad.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003722.jpg	<|begin_of_text|>User:<image>Question: Kako izgleda nebo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Čista', 'zalaska sunca', 'plava', 'sumrak', 'plava', 'Čista', 'Čista', 'mirno', 'svjetlo plava', 'Plava svjetlija plava blizu horizonta']	Svetlo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001556.jpg	<|begin_of_text|>User:<image>Question: Koje je boje ova košulja?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crvenkasto', 'crna', 'crvenkasto', 'bež', 'bež', 'ružičasta', 'crna', 'crvenkasto', 'Zlato', 'crna boja']	Siva.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000659.jpg	<|begin_of_text|>User:<image>Question: Je li dječak ili djevojčica?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'dječak', 'dječak', 'djevojčica', 'dječak', 'dječak', 'dječak', 'dječak', 'dječak', 'dječak']	Dječak.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002584.jpg	<|begin_of_text|>User:<image>Question: Molim vas, možete li mi reći što je to?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['žitarice', '-Hvala.', 'žitarice', '-Hvala.', 'ne može se odgovoriti', 'žitarice', 'slatki čerios', 'Cheerios sada ukusniji med', 'slatkiši', 'slatkiši']	Cokojevik.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002408.jpg	<|begin_of_text|>User:<image>Question: Koje je ovo boje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Crvena, žuta, bijela, plava', 'škriljan', 'zeleno plavo bijelo crveno plato', 'višebojan', 'bled', 'škriljan', 'plavo zeleno bijelo crveno', 'škriljan', 'plava, bijela, zelena, plava', 'plavo zeleno crveno bijelo']	Plav.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002524.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['vruće kakao', 'vruća mješavina kakaa', 'vruća mješavina kakaa', 'vruća mješavina kakaa', 'mješavina kakaa', 'vruće kakao', 'topla čokolada', 'mješavina vruće čokolade', 'pakovanje tople čokolade', 'topla čokolada']	Kakaobadžilar.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001772.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'specijalno lakše pivo', 'pivo', 'ne može se odgovoriti', 'ne može se odgovoriti', 'pivo', 'pivo', 'pivo', 'pivo', 'posebna svjetlost']	Special Light.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004274.jpg	<|begin_of_text|>User:<image>Question: Je li ovo piletina ili celer?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['paradajz', 'paradajz', 'paradajz', 'paradajz', 'Ne, ne mogu.', 'paradajz', 'pomodirana juha', 'paradajz', 'paradajz', 'Ne, ne mogu.']	Celer.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001407.jpg	<|begin_of_text|>User:<image>Question: Što piše ovdje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['MacBook Pro', 'MacBook Pro', 'Mac Book Pro', 'MacBook Pro', 'Mac Book Pro', 'MacBook Pro', 'MacBook Pro', 'Airbook pro', 'MacBook Pro', 'MacBook Pro']	Macbook Pro.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004268.jpg	<|begin_of_text|>User:<image>Question: Volio bih znati što je sadržano u ovoj kutiji.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Svinja', 'Svinja', 'žitarica', 'pečeni grah u paradižnom umaku', 'Farmerka pečena grah', 'Svinja', 'Svinja', 'žitarica', 'Svinja', 'žitarica']	Baked beans in tomato sauce.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001949.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['piletina', 'ne može se odgovoriti', 'Crmno piletino parmezan', 'hrana', 'TV večera', 'hrana', 'sir od sirova', 'hrana', 'Marie Collendersov obrok', 'Crmno piletino parmezan']	Mrežnica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001343.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['dolarski novčanici', 'Novčanica od 1 dolara', 'dolar', 'Novčanica od 1 dolara', '1', 'Novčanica od 1 dolara', 'dolarski novčanici', 'Novčanica od 1 dolara', 'Novčanica od 1 dolara', '1 američki dolar']	Novčanica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004158.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['igre na karte', '2 kralja', 'par kraljeva', 'igre na karte', 'kartice', 'kartice', 'igre na karte', 'par', 'kartice', 'igre na karte']	Karte.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004005.jpg	<|begin_of_text|>User:<image>Question: Je li crno ili plavo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'crno', 'crno', 'crno', 'crno', 'crno', 'crno', 'siva', 'crno sivo', 'crno']	Crno.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000320.jpg	<|begin_of_text|>User:<image>Question: Što piše na ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Google pretraživač', 'Google', 'Google', 'Google Google pretraži.', 'Google', 'Google pretraživanje', 'ne može se odgovoriti', 'Google', 'Google', 'ne može se odgovoriti']	Google.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001914.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Pjesma', 'Pjesma', 'Pjesma', 'Pjesma', 'hrana', 'Pjesma', 'Pjesma', 'Pjesma', 'tradicionalno pečeno govedino', 'tradicionalno pečeno govedino']	Traditional roast beef.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002304.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo soda?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika', 'Dr paprika']	Pepsi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004134.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['TV daljinski upravljač', 'daljinski upravljač', 'daljinski upravljač', 'udaljeno', 'daljinski upravljač', 'udaljeno', 'daljinski upravljač', 'daljinski upravljač', 'udaljeno', 'daljinski upravljač']	Remote.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001171.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['kućna biljka', 'biljka', 'kućna biljka', 'biljka', 'biljka', 'biljka', 'biljka', 'biljka u loncu', 'biljka', 'biljka za kućanstvo']	Biljka.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003923.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['stol', 'računalo', 'stol', 'stol', 'stol', 'stol', 'Računarski stol', 'stol', 'stol', 'Računalo na stolu']	Tv.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002166.jpg	<|begin_of_text|>User:<image>Question: Što je na mom stolu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['iPod touch', 'aplikacije', 'telefon', 'papir za pametne telefone', 'papir za pametne telefone', 'telefon', 'telefon', 'telefon', 'mobitel', 'telefon']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001082.jpg	<|begin_of_text|>User:<image>Question: Koju sam sliku napravio?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['iPad', 'Pic iPad torbica za kavu pored', 'tablet', 'iPad', 'Hulu ulaz na ekran', '- Ne, ne, ne, ne.', 'tablet s prikazom hulu plus', 'tablet hulu plus login', 'Huluplus ekran', 'Prijava za Hulu plus na tabletu']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001652.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['šampon', 'šampon', 'ne može se odgovoriti', 'treće mjesto', '-Srce moje.', 'ne može se odgovoriti', 'Trezemme za njegu kose', 'šampon', 'parfem', 'Tresemme šampon']	Treseme.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003834.jpg	<|begin_of_text|>User:<image>Question: Što je to model?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sode', 'čvor', 'Boca sode', 'čvor', 'ne može se odgovoriti', 'vodik', 'čvor', 'Boca za sprite', 'ne može se odgovoriti', 'čvor']	Sprite.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002771.jpg	<|begin_of_text|>User:<image>Question: Što je ovaj proizvod?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Čeks mješavina', 'Čeks mješavina', 'Čeks mješavina', 'Čedar', 'Čeks mješavina', 'Čeks mješavina', 'Mix za kuhara', 'Čeks mješavina', 'Čeks mješavina', 'Ček']	Chex mix.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003572.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['pušena puretina', 'pušenog puretina panini', 'pušenog puretina panini', 'Pakanina od purana', 'pušenog puretina panini', 'pušenog puretina panini', 'za punjenje', 'Panini', 'pušena puretina', 'pušenog puretina panini']	Smoked turkey.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000974.jpg	<|begin_of_text|>User:<image>Question: Koja slova moram otpisati da bih dobio nagradu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg', '-Mvg']	Enter word.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003630.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo konzerva?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['paradižnik', 'sos', 'paradajz', 'u obliku od pomidora', 'cink', 'paradajz', 'paradižnik', 'konzervirani rajčice', 'paradajz', 'paradižnik']	Tomato.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002991.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo Keurig čaša?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Kuća s krafnom.', 'kave', 'kutija', 'Donut', 'Donut House kolekcija', 'Donut', 'Donut', 'zbirka krofni.', 'Donut rupa', 'zbirka krafne rupe']	Kona.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000270.jpg	<|begin_of_text|>User:<image>Question: Molim vas recite mi ime ove knjige?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Sljedeći članak', 'ne može se odgovoriti', 'Autor Clive Cussler Dirk Cussler', 'Samo imena autora, nema naslova', 'Clive Cussler Dirk Cussler', 'Clive Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'Clive Cussler Dirk Cussler', 'ne može se odgovoriti']	Prioritet.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003698.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['novac', 'novac', '20 $ novčanica', 'novac', '20 dolara.', '20 dolara.', '20 dolara.', '20 dolara', '20h račun', 'Novčanica od 20 dolara.']	Money.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004072.jpg	<|begin_of_text|>User:<image>Question: Je li ovo šampon ili pranje tijela?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['losije', 'losije za tijelo', 'losije', 'losije za tijelo', 'losije za tijelo', 'losije za tijelo', 'losije za tijelo', 'losije', 'losije za tijelo', 'losije za tijelo']	Pranje tijela.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002239.jpg	<|begin_of_text|>User:<image>Question: Što je na ovoj slici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['kreker', 'kreker od kutije', 'kutija za kolačiće', 'kutija za kolačiće', 'kreker', 'kreker', 'kreker', 'kreker', 'kreker', 'kreker']	Box.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001218.jpg	<|begin_of_text|>User:<image>Question: Što je ovo slika?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['telefon', 'MacBook Pro', 'MacBook Pro', 'računarski monitor', 'ne može se odgovoriti', 'laptop', 'računalo', 'MacBook Pro', 'MacBook Pro ekran', 'laptop računalo']	Macbook Pro.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003426.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['voda', 'voda', 'prirodna kristalna voda', 'prirode kristalna voda', 'Boca za vodu', 'Boca za vodu', 'Boca za vodu', 'voda', 'Boca za vodu', 'voda']	Water bottle.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003996.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo pizza?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čokolada', 'Mama je slatka.', 'Mama je ugodna tanka pizza.', 'čokolada', 'zamrznuta pizza', 'čokolada', 'tanak', 'tanka kora paprika od mama Cozzis', 'Mama je slatka, tanka koruča paprika.', 'Mama je slatka.']	Mama Gizi's.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002427.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj konzervi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čitav kukuruz', 'kukuruz', 'kukuruz', 'kukuruz', 'Cjeloviti kukuruz', 'Cjeloviti kukuruz', 'kukuruz', '-Vrhunska hrana može', 'kukuruz', 'kukuruz']	Krem šlag.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001243.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['miš', 'računarski miš', 'računarski miš', 'računarski miš', 'računarski miš', 'HP žični miš', 'računarski miš', 'PC miš', 'HP miš', 'miš']	Answer: hp.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001455.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ured', 'stolice', 'ured', 'uredska stolica', 'stolica', 'stolica za stol', 'kućna kancelarija', 'ured', '2 stolice za stol', 'stolica']	Odjel.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001008.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['TV', 'televiziju', 'televiziju', 'Stari TV monitor', 'TV', 'TV', 'monitor', 'TV ekran', 'TV', 'monitor']	Tv.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001472.jpg	<|begin_of_text|>User:<image>Question: Koje je boje moja košulja?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crno bijelo', 'plava bijela crna', 'crno', 'plava', 'mornarica', 'crno-bijeli znak', 'crno bijelo', 'plava', 'plava', 'crno bijelo']	Crna.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004114.jpg	<|begin_of_text|>User:<image>Question: Koje je ovo boje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crvena', 'crvena', 'crvena', 'crvena', 'ružičasta', 'crvena', 'crvena', 'crvena', 'crvena', 'crvena']	Crveno.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003750.jpg	<|begin_of_text|>User:<image>Question: Jesu li ovo obični čipsovi ili čipsovi s solom i sirćetom?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sol', 'redovito', 'redovito', 'obični čipovi', 'redovito', 'redovito', 'ne može se odgovoriti', 'ne može se odgovoriti', 'redovito', 'ne može se odgovoriti']	Obični.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002757.jpg	<|begin_of_text|>User:<image>Question: Kakav je ovo kutija?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sok od naranče', 'sok od naranče', '- Ne, ne, ne.', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'sok od naranče', 'narandžasta', 'sok od naranče', 'papirna kutija s sokom od naranče']	Kutija za soku od naranče.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003290.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čipovi', 'čipovi', 'čipovi', 'čipsovi', 'čipsovi', 'čipsovi od lukova', 'čipovi', 'čipsovi', 'čipovi', 'čipsovi']	Chips.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004075.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj torbi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'zamrznuto povrće', 'povrće', 'šargarepe grašak kukuruz zelena grašak', 'povrće', 'grašak mrkve kukuruz', 'mješovite povrće', 'povrće', 'Mješoviti povrće', 'kukuruz mrkve grah grah grah grah']	Gumbošići.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001379.jpg	<|begin_of_text|>User:<image>Question: Kakav je ovo okus Sparka?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ružičasta limunada', 'ružičasta limunada', 'ne može se odgovoriti', 'ružičasta limunada', 'ne može se odgovoriti', 'ružičasta limunada', 'narandžasta', 'jabuku', 'ne može se odgovoriti', 'ružičasta limunada']	Maline i vanila.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003340.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo vrsta?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Manwich', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Manwich', 'Manwich', 'Manwich', 'paradajz', 'Manwich', 'Manwich', 'Neizvjesni Joe.']	Sos.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002924.jpg	<|begin_of_text|>User:<image>Question: Koja je ovo sezona?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['špageti', 'špageti', 'za začin za špagete', 'za začin za špagete', 'špageti', 'za začin za špagete', 'za začin za špagete', 'špageti', 'špageti', 'za začin za špagete']	Spaghetti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004251.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Knjiga', 'časopis', 'vertikalni magazini', 'časopis', 'vertikalni magazini', 'časopis', 'časopis', 'Zvrtić magazin', 'časopis', 'časopis']	Magazin.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002583.jpg	<|begin_of_text|>User:<image>Question: Što je to?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['zid', 'zid', 'zid', 'zid', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'zid', 'zid', 'zid']	Karta.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001351.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['slatkiše', 'slatkiše od jagode', 'slatkiše', 'slatkiše od jagode', 'slatkiše', 'slatkiše od jagode', '- Ne, ne, ne.', 'slatkiše od jagode', 'slatkiše', 'slatkiše od jagode']	Maline.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004074.jpg	<|begin_of_text|>User:<image>Question: Koje su boje ove cipele?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crna', 'crno', 'crna', 'crna', 'crna', 'crna', 'crna', 'stopala', 'crna', 'brun']	Crne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000477.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['računarski ekran', 'web stranica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'web stranica', 'računarski ekran', 'računarski monitor', 'članak', 'PDF datoteka za vizwiz', 'vizwizpdf zamagljen, ali možete vidjeti članove']	Izvještaj.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001175.jpg	<|begin_of_text|>User:<image>Question: Što je ovo sliku?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['monitor', 'laptop', 'televiziju', 'računalo', 'laptop', 'televiziju', 'TV s ravnim ekranom', 'laptop ekran', 'televiziju', 'ne može se odgovoriti']	Zastupljen je monitor.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001673.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['mobitel', 'mobitel', 'Pejdžer', 'ne može se odgovoriti', 'telefon', 'mobitel', 'Blackberry mobitel', 'mobitel', 'mobitel', 'mobitel']	Telefon.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003262.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['hladnjak', 'ne može se odgovoriti', 'hladnjak', 'hladnjak u spavaćoj sobi', 'hladnjak', 'hladnjak', 'hladnjak', 'mini hladnjak', 'hladnjak', 'mini hladnjak']	Hlađenica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001459.jpg	<|begin_of_text|>User:<image>Question: Koje boje nakit da nosim sa ovom odjećom?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['srebrno', 'srebrno', 'Bijeli', 'Zlato', 'crno', 'srebrno', 'srebrno', 'srebrno', 'srebrno', 'srebrno']	Crvena.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002499.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['nogu', 'džinse', 'stepen', 'hlače nogu', 'ruka kauč', 'hlače', 'poduskom', 'ne može se odgovoriti', 'nogu hlače', 'nogu']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002879.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['pas', 'ne može se odgovoriti', 'pas', 'pas', 'pas', 'pas', 'pas', 'pas', 'ne može se odgovoriti', 'pas na podu']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001244.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['udaljeno', 'udaljeno', 'daljinski upravljač', 'TV upravljač', 'TV daljinski upravljač', 'daljinski upravljač', 'udaljeno', 'udaljeno', 'daljinski upravljač', 'daljinski upravljač']	Remote.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003815.jpg	<|begin_of_text|>User:<image>Question: Jesu li ove banane zelene ili žute?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['malo zeleno', 'žuto', 'žuto', 'žuto', 'zelena', 'žuto', 'žuto', 'žuto', 'žuto', 'žuto']	Žute.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003389.jpg	<|begin_of_text|>User:<image>Question: Što je to za proizvod?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['žitarice', 'Kaši, idi, mršav, mršav med, badem, lan.', 'Kaši, idi na slab crunch.', 'Golean crunch kashi', 'žitarice', '-Idi na mršavlje.', 'Idi na slab crunch.', 'Kaši, idi, mršav, mršav med, badem, lan.', 'žitarice', 'žitarice']	Cereal.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002930.jpg	<|begin_of_text|>User:<image>Question: Što je trenutno na TV ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ništa.', 'Ništa.', 'Ništa nije otkazano.', 'Ništa.', 'Ništa.', 'Ništa.', 'Ništa.', 'Ništa.', 'ne može se odgovoriti', 'Ništa.']	Ništa.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001245.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['meso', 'govedina', 'govedina', 'pakiranje od mesa', 'meso', 'meso', 'ne može se odgovoriti', 'govedina', 'odresak', 'meso']	Steak.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000139.jpg	<|begin_of_text|>User:<image>Question: Što piše u ovoj poruci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Obnoviti kompletno', 'ne može se odgovoriti', 'Obnova je završena.', 'Obnova je završena.', 'ne može se odgovoriti', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.']	Restoration complete.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003569.jpg	<|begin_of_text|>User:<image>Question: Kakva hrana je u ovoj konzervi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['juha', 'Progresso vrtna povrćna juha', 'juha od povrća', 'povrćna juha', 'juha od povrća', 'juha od povrća', 'juha', 'Progresso vrtna povrćna juha', 'povrće za vrt', 'juha od povrća']	Supa.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003582.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'može', 'čorba od graška', 'čorba od graška', 'čorba od graška', 'čorba od graška', 'juha', 'Može podijeliti grašak juhu', 'čorba od graška', 'juha']	Splitska greška.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001475.jpg	<|begin_of_text|>User:<image>Question: Je li to kauč ili stol?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'tablica', 'ovaj stol']	Kauč.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002043.jpg	<|begin_of_text|>User:<image>Question: Kakva hrana je u ovoj konzervi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ravioli', 'Ravioli', 'Ravioli', 'kukuruz', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli', 'Ravioli hrana', 'Ravioli']	Djetinjstvo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000952.jpg	<|begin_of_text|>User:<image>Question: Što je na ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['poruka o pogrešci', 'Pop-up za pokretanje popravak računara restart', 'Ponovno pokretanje', 'Dijalog kutija koja kaže da ste sigurni da želite izaći iz pokretanja popravak ponovno pokrenuti računar', 'popravak pokretanja', 'Upravljanje Windows update', 'ne može se odgovoriti', 'popravak pokretanja', 'Opcija za ponovno pokretanje računala', 'popravak pokretanja']	Upit.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001388.jpg	<|begin_of_text|>User:<image>Question: Pokušajmo, možeš li mi reći što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['žitarica', 'Svinja', 'žitarica', 'Svinja', 'grmlje pečene grahove', 'može', 'konzerve', 'grmlje pečene grahove', 'Svinja', 'žitarica']	Bush's best secret family recipe.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001486.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći kakav je ovo telefon?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['- Ne, ne, ne.', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Ig', 'Android', 'Ig', '- Da, u redu.']	Lg.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002126.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['pametni telefon', 'mobitel', 'mobitel', 'telefon', 'mobitel', 'mobitel', 'mobitel', 'pametni telefon', 'telefon', 'telefon']	Phone.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003508.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['laptop', 'ruka', 'tipkovnica za laptop', 'ruka', 'prsti', 'ruka', 'ne može se odgovoriti', 'ne može se odgovoriti', 'stol', 'ruka']	Laptop.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001836.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Cabernet 2009', 'vino', 'vino', 'vino', 'Slijedeći proizvodi:', 'Boce vina', 'vino', 'vino', 'Vina od kolumbijske sorte Cabernet 2007', 'vino']	Vina.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001962.jpg	<|begin_of_text|>User:<image>Question: Što je u toj boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Koza', 'Sode pop možda Coca Cola', 'sode', 'Coca-Cola soda', 'sode', 'sode', 'Koza', 'sode', 'Koza', 'sode']	Piće.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002030.jpg	<|begin_of_text|>User:<image>Question: Koje je ovo boje, molim vas?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crvena bijela traka', 'crvena', 'crvene bijele pruge', 'crvene bijele pruge', 'crvena bijela', 'Bijela crvena', 'košulja', 'crvena bijela', 'crvena bijela', 'crvena bijela']	Crveno i bijelo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002241.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj torbi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['brokoli', 'brokoli', 'brokoli', 'brokoli', 'brokoli', 'ali brokoli', 'brokoli', 'brokoli', 'Parom, služi se odrezanim brokolijem.', 'brokoli']	Brokoli.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001737.jpg	<|begin_of_text|>User:<image>Question: Što je to kupon za?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['masnoće', 'masnoće', 'Jogurt od lopatice', 'Yoplait jogurt 10$', '- Ne, ne, ne.', 'Yoplait jogurt 10$', 'Jogurt od lopatice', 'masnoće', 'popust', 'masnoće']	Yoplait.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002218.jpg	<|begin_of_text|>User:<image>Question: Kakav je ovo tip?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Nešta', 'konzervirani ledeni čaj', 'limuna', 'Neština limuna', 'Nešta', 'Nešta', 'Nešta', 'Nešta', 'festival', 'Nešta']	Nestea.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002109.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['iPad', 'tablet', 'računalo', 'iPad', 'podloga za miša', 'laptop', 'prozor', 'tablet', 'ne može se odgovoriti', 'iPad']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000511.jpg	<|begin_of_text|>User:<image>Question: Što je na ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Želite li vratiti komp pomoću sistema obnoviti pojavljuje se', 'poruka o pogrešci', 'želite li vratiti računalo pomoću sistema', 'pokretanje', 'početak isplaćen dijagnostički ekran', 'Sistemi vraćanje pitanje: želite li koristiti za vraćanje računala', 'popravak pokretanja', 'popravak pokretanja', 'Pitanje za vraćanje računala', 'želite li vratiti računalo pomoću sistema']	Restoracija.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003691.jpg	<|begin_of_text|>User:<image>Question: Hvala na vremenu za odgovor.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor', 'čvor']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000567.jpg	<|begin_of_text|>User:<image>Question: Što piše na ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Želite li vratiti računalo pomoću sistema CD', 'obnoviti', 'Želite li vratiti računalo koristeći sustav', 'Vaš računar nije mogao pokrenuti start popravak provjeravanje sustava za probleme', 'Želite li vratiti računalo koristeći sustav', 'popravak pokretanja', 'Vaš računar ne može početi', 'Vaš računar nije mogao pokrenuti pokrenuti popravak provjeravanje sustava za probleme', 'Računar ne može početi', 'obnoviti']	Startup repair.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003657.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['povrće', '- Ne, ne, ne, ne.', 'Mješoviti povrće', 'Vegetarijanski original', 'mješovite povrće', 'povrće', 'Vegan', 'povrće', 'povrće', 'mješovite povrće']	Original.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003310.jpg	<|begin_of_text|>User:<image>Question: Što vidiš na slici? Što vidiš na slici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ništa.', 'nebo', 'sudoperi', 'nebo', 'ne može se odgovoriti', 'nebo', 'Ništa.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'nebo']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003159.jpg	<|begin_of_text|>User:<image>Question: Kakvu sodu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola', 'Coca-Cola 0', 'Coca-Cola 0', 'Kozmetika', 'Coca-Cola 0', 'Coca-Cola 0']	Gori.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000946.jpg	<|begin_of_text|>User:<image>Question: Kakav je to sustav?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['radna površina', 'ne može se odgovoriti', 'prozori', 'desktop računalo', 'prozori', 'prozori', 'prozori', 'Windows PC', 'prozori', 'prozori']	Windows.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002760.jpg	<|begin_of_text|>User:<image>Question: Što je to? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['govornik', 'govornici', 'pod', 'govornici', 'sustav zvučnika', 'govornik', 'govornik', 'govornik', 'govornik', 'govornici']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000688.jpg	<|begin_of_text|>User:<image>Question: To prati svjetlo na laptopu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', '- Da, u redu.', 'Ne, ne mogu.', '- Da, u redu.']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003600.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što piše u ovoj boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije', 'topli šećer od vanilije', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'topli šećer od vanilije', 'topli losion od vanilije i šećera', 'topli šećer od vanilije', 'topli losion za tijelo od vanilije i šećera', 'toplo šećer vanilije']	Warm vanilla sugar.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000262.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći broj 1-800 s ove kartice, i možete li čuti ovo pitanje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ne čujem te.', '1 877 328 9677', '1 877 328 9677 1 800 735 2929', 'Sljedeći članak', '1 877 328 9677', '1 800 735 2929', '1 877 328 9677 ne', '18773289677 ne', '1 877 328 9677', '8007352929 ne']	Da.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002995.jpg	<|begin_of_text|>User:<image>Question: Svjetla u sobi uključena ili isključena?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['svjetla isključena', 'isključi', 'na', 'isključi', 'na', 'ne može se odgovoriti', 'na', 'na', 'na', 'na']	Isključena.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001847.jpg	<|begin_of_text|>User:<image>Question: Kakav je ovo okus?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['češnja', 'ružičasta limunada', 'voćni punč', 'ružičasta limunada', 'ružičasta limunada', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ružičasta limunada', 'češnja', 'ružičasta limunada']	Vijeo.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000132.jpg	<|begin_of_text|>User:<image>Question: Što piše u ovoj poruci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Obnova je završena.', 'ne može se odgovoriti', 'uspješno obnovu završen', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.', 'Obnova je završena.', 'registracija je završena', 'Obnova je završena.', 'Obnova je završena.']	Restoration complete.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003451.jpg	<|begin_of_text|>User:<image>Question: Koje je boje moja košulja?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli', 'Bijeli']	Bež.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003071.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['napredni šampon za terapiju bojom', 'šampon', 'napredni šampon za terapiju bojom', 'šampon', 'šampon za terapiju bojom', 'šampon', 'Farba terapija', 'šampon', 'Ovation napredna terapija bojama', 'Farba terapija']	Šampanjac.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002646.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['konzerve', 'hrana za mačke', 'ne može se odgovoriti', 'sudoperi', 'može', 'sudoperi', 'pranje', 'sudoperi', 'sudoperi', 'može']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001208.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo video igra?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ESPN NFL 2k', 'nogomet', 'Nfl 2k', '-NFL 2K5', '-Ne, ne, ne, ne, ne, ne, ne.', 'Espn 2k nogomet', 'Nfl 2k', 'nogomet', 'Nfl 2k', 'nogomet']	NFL.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003370.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Panini', 'Panini', 'pušenog puretina panini', 'pušenog puretina panini', 'pušenog puretina panini', 'Stouffer pušenog puretina panini', 'Pakanina od purana', 'ne može se odgovoriti', 'pušenog puretina panini', 'pušenog puretina panini']	Smoked turkey.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002112.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj kutiji?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['lasagne', 'zamrznuta večera', 'specijalni lazanje', 'specijalni lazanje', 'lasagne', 'specijalni lazanje', 'lasagne', 'lasagne', 'lasagne', 'lasagne']	Lasagne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001905.jpg	<|begin_of_text|>User:<image>Question: Što je to?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['prirodne doline ovs tamne čokolade granola bar', 'crunch bar', 'čokolada', 'čokolada', 'čokolada', 'čokolada', 'prirodne doline ovsa n tamna čokolada', 'ovus i crna čokolada', 'čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čokolada, čoko', 'čokolada']	Oats 'n Dark Chocolate.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002878.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['video igrice', 'igra za PlayStation 2', 'PlayStation 2 Star Wars Battlefront igra', 'igranje igre Star Wars', 'video igrice', 'video igrice', 'Ratni front 2', 'igra', 'igra za PlayStation 2', 'Psi igra']	Playstation 2.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002343.jpg	<|begin_of_text|>User:<image>Question: -Ovo je neki kafić?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['francuska vanilija', 'francuska vanilija', 'francuska vanilija', 'gnijezda', 'od odjeće', 'francuska vanilija', 'Kava-mate', 'francuska vanilija', 'francuska vanilija', 'francuska vanilija']	Da.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003471.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['sok od naranče', 'sok', 'sok', 'sok od naranče', 'sok', 'glatko sočno', 'glatko i sočno', 'sok', 'sok od naranče', 'sok']	Mleko.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001990.jpg	<|begin_of_text|>User:<image>Question: Koje su boje kamenje u ovoj naušnici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ružičasta', 'crvena', 'crvena', 'ružičasta', 'ljubičasta', 'ružičasta', 'ružičasta', 'ružičasta', 'ružičasta', 'ružičasta']	Pink.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000268.jpg	<|begin_of_text|>User:<image>Question: Što piše na ovoj elektroničkoj napravi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000788.jpg	<|begin_of_text|>User:<image>Question: Što točno piše na ovom ekranu, ako to možete čitati?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne može čitati ekran', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne mogu čitati.', 'ne može se odgovoriti']	cannot read it.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001729.jpg	<|begin_of_text|>User:<image>Question: Što je u ovoj boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'losije', 'vitaminima', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nisam siguran.', 'ne može se odgovoriti']	Sprej.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004032.jpg	<|begin_of_text|>User:<image>Question: Kakav je okus ovaj energetski bar?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['jabuku', 'Brijedi, badem i kruh', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'jabuka', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Brijedi, badem i kruh']	Kiselu šargarepu.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003843.jpg	<|begin_of_text|>User:<image>Question: Što piše ovdje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Pažnja', 'n', 'ne može se odgovoriti', 'ne može se odgovoriti', 'vijesti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001578.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo hrana?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Hleb.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002795.jpg	<|begin_of_text|>User:<image>Question: Pokušavam shvatiti kakva je ovo radio stanica, bilo kakve informacije da bih mogao nabaviti svoj, bilo bi super, hvala.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ne znam.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Možda domaći IP9 zvučnik.', 'ne može se odgovoriti', 'šunka', 'ne može se odgovoriti', 'prenosni', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000607.jpg	<|begin_of_text|>User:<image>Question: Žao mi je, ne znam kako... nikad nisam snimio ovakve stvari.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Pomaknite se malo dalje tako da se kamera fokusira', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Kamera.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002998.jpg	<|begin_of_text|>User:<image>Question: Koji je od ovih najbolji film?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'jednostavno']	Shrek.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001689.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ovaj slajd', 'ružičasta', 'ne može se odgovoriti', 'ljubičasta', 'ne može se odgovoriti', 'ne može se odgovoriti', 'svjetlost', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002528.jpg	<|begin_of_text|>User:<image>Question: Kako se zove ovaj losion?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Noxema', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Lotion.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001442.jpg	<|begin_of_text|>User:<image>Question: Kada to ističe?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Sljedeći članak', 'ne može se odgovoriti', 'ne može se odgovoriti', '23. rujna 2013.', '23. rujna 2013.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '23. rujna 2013.', 'ne može se odgovoriti']	198.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003284.jpg	<|begin_of_text|>User:<image>Question: Koliko dugo ću ovo kuhati?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', '5 minuta.', 'ne može se odgovoriti', 'ne može se odgovoriti', '5 minuta.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	4 minute.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003616.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Klinex', 'uglov', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'telefon', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003229.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002782.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo pjesma?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Bug na slici', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'štakor']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000365.jpg	<|begin_of_text|>User:<image>Question: Što kaže ispod prozora da ne može popraviti sustav automatski?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Start popravak ne može popraviti ovaj kompjuter automatski', 'ne može se odgovoriti', 'pokretanje', 'Početak popravke ne može popraviti ovaj kompjuter automatski', 'ne može se odgovoriti']	Windows cannot repair this computer automatically.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004049.jpg	<|begin_of_text|>User:<image>Question: Koliko natrija je u ovom paketu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'samoa', 'ne može se odgovoriti', 'ne može se odgovoriti']	250mg.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000180.jpg	<|begin_of_text|>User:<image>Question: Na ekranu piše da se obnavlja?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	128x2.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002736.jpg	<|begin_of_text|>User:<image>Question: Koje zavjese?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nastavi učiti.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001850.jpg	<|begin_of_text|>User:<image>Question: Kako se zove ova mediacija?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', '0', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Blurred.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00004101.jpg	<|begin_of_text|>User:<image>Question: Koje je boje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['crvena bijela', 'ne može se odgovoriti', 'Bijeli', 'Bijeli', 'ne može se odgovoriti', 'crvena bijela', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Crvena.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001276.jpg	<|begin_of_text|>User:<image>Question: Molim vas, objasnite mi što piše na etiketi na mom ruteru.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Mm.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000109.jpg	<|begin_of_text|>User:<image>Question: Koji je rok isteka na ovoj autobuskoj propusnici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	2018.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000424.jpg	<|begin_of_text|>User:<image>Question: Samo reci.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001122.jpg	<|begin_of_text|>User:<image>Question: Što kaže ovo, što kaže ovo\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'redovi stupci zamagljeni brojevi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003893.jpg	<|begin_of_text|>User:<image>Question: Koliko je sati? -Danas.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Blic na kameri ne može čitati sat', 'Nevidljivo', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne mogu reći.', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003977.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći uputstva za upotrebu ovog šampona?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'EMS-ovi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000088.jpg	<|begin_of_text|>User:<image>Question: Moram li pritisnuti dugme da nastavim?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['nastavak sustava', 'ne može se odgovoriti', '- Da, u redu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'Čekaj malo.', 'Ugrađujte ga.']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001430.jpg	<|begin_of_text|>User:<image>Question: Ako je karta prikazana na ovoj slici, što piše?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne prikazano', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nema riječi.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003897.jpg	<|begin_of_text|>User:<image>Question: -Test?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'udaljeno', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'daljinski upravljač za surround zvuk', 'Pitanje se ne odnosi na sliku.']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000181.jpg	<|begin_of_text|>User:<image>Question: Prava riječ.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'neznato', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Answer: ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000829.jpg	<|begin_of_text|>User:<image>Question: Imam posla s Captcha, ali ne mogu vidjeti ekran i trebam ga da zatražim nešto sa web stranice.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne 1', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003008.jpg	<|begin_of_text|>User:<image>Question: Znam da piše Deset zapovijedi, ali što su Deset zapovijedi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Postavio je pravila koja je Bog dao svojim vjernicima.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'moralna pravila', 'ne može se odgovoriti', 'Božji zapovijedi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zakoni', 'ne može se odgovoriti']	Deset zapovijedi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003414.jpg	<|begin_of_text|>User:<image>Question: Što piše na ekranu?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'previše zamagljeno', 'prazan ekran']	Disney.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002818.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo formula za bebe?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'Ne vidim formula za bebe.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Mleko.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001493.jpg	<|begin_of_text|>User:<image>Question: Što je to lijek?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Lek.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000863.jpg	<|begin_of_text|>User:<image>Question: Koja je ovo karta?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Crvena kreditna kartica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'kreditna kartica', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Bankova kartica.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003968.jpg	<|begin_of_text|>User:<image>Question: Što piše na ovoj kartici?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'samo 16 12 vidljivo', 'ne može se odgovoriti', 'Ništa.', 'ne može se odgovoriti', '1 6 12', 'ne može se odgovoriti', 'ne može se odgovoriti']	ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002772.jpg	<|begin_of_text|>User:<image>Question: Što je ovo? -Ne znam.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['čaja', 'proizvod', 'ne može se odgovoriti', 'mlijeko', 'ne može se odgovoriti', 'ne može se odgovoriti', 'kapi za oči', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003219.jpg	<|begin_of_text|>User:<image>Question: U redu, kakva je ovo vrsta odrezane hrane?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Vodič', 'ds', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'govedina', 'ne može se odgovoriti', 'govedina', 'ne može se odgovoriti', 'ne može se odgovoriti']	Protein.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000423.jpg	<|begin_of_text|>User:<image>Question: Za što je ovo poklon karta?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'Neodgovarajuća slika', 'ne može se odgovoriti', 'Ne mogu reći.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Karta.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003007.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo konzerva?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['limun', 'ne može se odgovoriti', 'limun', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'limun', 'ne može se odgovoriti', 'limun']	Limun.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002057.jpg	<|begin_of_text|>User:<image>Question: Koliko je sati? -Danas.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', '532', 'ne može se odgovoriti', 'ne može se odgovoriti', '-U petnaest.', '-U petnaest.', 'ne može se odgovoriti', '- U pet i deset.', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002579.jpg	<|begin_of_text|>User:<image>Question: Koji je proizvod u ovoj konzervi?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ne mogu reći.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Kavi.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001939.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći koliko je temperatura peći i koliko minuta i trebam li probiti poklopac?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ASDD', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001830.jpg	<|begin_of_text|>User:<image>Question: Izgleda li ta pećnica spremna?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne peći', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Da, mislim da sam spreman.', 'Ne, ne mogu.', 'ne može se odgovoriti']	Da.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000490.jpg	<|begin_of_text|>User:<image>Question: Je li to pomoglo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000757.jpg	<|begin_of_text|>User:<image>Question: Koji je kod koji treba otkucati?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'e-mail', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001916.jpg	<|begin_of_text|>User:<image>Question: Kakvu majicu nosim?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'od svinje', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Bijeli', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002606.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći kakva je to zamrznuta večera?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti']	Pete.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003248.jpg	<|begin_of_text|>User:<image>Question: Što piše ovdje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'slika prazna', 'Ništa.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001574.jpg	<|begin_of_text|>User:<image>Question: Koja je ovo marka?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Sanjo', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Philips.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002505.jpg	<|begin_of_text|>User:<image>Question: Koja je temperatura peći?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Gfdsg', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	200.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003709.jpg	<|begin_of_text|>User:<image>Question: Možete li mi reći što je u ovoj boci?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Tomatski umak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'maslačni umak', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Tomatski umak', 'ne može se odgovoriti']	Ketchup.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000166.jpg	<|begin_of_text|>User:<image>Question: Što piše ovdje?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Azitromicin tablete 250 mg', 'tabletama', 'ne može se odgovoriti', 'ne može se odgovoriti', '250 mg', 'Azitromicin tablete', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Azitromicin.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002894.jpg	<|begin_of_text|>User:<image>Question: Možete li pročitati ove riječi molim vas?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nema riječi.']	Da.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000402.jpg	<|begin_of_text|>User:<image>Question: Je li ovo valium?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može čitati ime lijeka']	Yes.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001793.jpg	<|begin_of_text|>User:<image>Question: Kakva je ovo pjesma?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'glazbene bilješke', 'ne može se odgovoriti', 'album', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Zvonci zvoni', 'ne može se odgovoriti']	Let Her Go.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001293.jpg	<|begin_of_text|>User:<image>Question: Da, ovo je laptop HP, moram znati gdje je čitač kartica u odnosu na tastaturu.\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'na strani', 'ne može se odgovoriti', 'Ne mogu vidjeti čitač kartica. Čitač kartica je obično na lijevom uglu prednjeg rublja.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00001854.jpg	<|begin_of_text|>User:<image>Question: Kako se zove parfem?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'Nema imena.', 'ne može se odgovoriti']	Parfem.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000550.jpg	<|begin_of_text|>User:<image>Question: Kakav je ovo RAM?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Članovi', 'ne može se odgovoriti', 'ne može se odgovoriti', 'SDP-a', '-Ne znam.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'DDR']	Samsung.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002535.jpg	<|begin_of_text|>User:<image>Question: Razumijem, ali je li stražnji dio bijelog kamiona ugubljen?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'Ne, ne mogu.', 'Slika sa prednje strane ne vidim ništa neobično.', 'Ne, ne mogu.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'N0', 'ne može se odgovoriti', 'Ne, ne mogu.', 'Ne, ne mogu.']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003381.jpg	<|begin_of_text|>User:<image>Question: Kakva je to juha?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'piletina', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	18&2.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00000006.jpg	<|begin_of_text|>User:<image>Question: Što se vidi na ekranu laptopa?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti']	Ne može se odgovoriti.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00003639.jpg	<|begin_of_text|>User:<image>Question: Što je ovo, molim vas?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['ne može se odgovoriti', 'juha', 'juha', '-Sup u limenci.', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'juha', 'ne može se odgovoriti']	Spremidan.
+/mnt/ceph_rbd/visual-assistant-eval/data/val/VizWiz_val_00002951.jpg	<|begin_of_text|>User:<image>Question: Što je ovo?\
+When the provided information is insufficient, respond with \"ne može se odgovoriti\".\
+Answer with a single word or phrase in Croatian.<end_of_utterance>\
+Assistant:	['podnožje', 'papireni ručnici', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'ne može se odgovoriti', 'papirni ručnik', 'ne može se odgovoriti', 'ne može se odgovoriti']	Kamera.

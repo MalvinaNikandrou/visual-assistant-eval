@@ -61,13 +61,13 @@ class CpmModel(VisionLanguageModel):
     def generate(
         self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
     ) -> Tuple[str, UsageMetadata]:
-
+        image = Image.open(example.image_path).convert("RGB")
         generated_text = self.model.chat(
-            image=Image.open(example.image_path).convert("RGB"),
-            msgs=[{"role": "user", "content": example.prompt}],
+            image=None,
+            msgs=[{"role": "user", "content": [image, example.prompt]}],
             tokenizer=self.processor,
-            **self.generation_kwargs
-        ).strip()
+        **self.generation_kwargs,
+            ).strip()
 
         usage_metadata = UsageMetadata(
             input_token_count=0,
