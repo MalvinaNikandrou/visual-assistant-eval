@@ -1,6 +1,7 @@
 from hydra.core.config_store import ConfigStore
 from omegaconf import II
 
+from ..metrics import split_at_first_capital_after_whitespace
 from ..utils.misc import is_flashattn_2_supported
 from .callbacks import (
     CostLoggingCallbackConfig,
@@ -13,13 +14,13 @@ from .callbacks import (
 from .dataset import DatasetConfig
 from .models import (
     AnthropicModelConfig,
-    GoogleModelConfig,
-    HfModel,
     APICaptioningGenerationConfig,
+    GoogleModelConfig,
     HfCaptioningGenerationConfig,
-    HfVQAGenerationConfig,
+    HfModel,
     HfModelConfig,
     HfProcessor,
+    HfVQAGenerationConfig,
     LlaVANextModelConfig,
     ModelConfig,
     MolmoConfig,
@@ -28,7 +29,6 @@ from .models import (
     ProcessorConfig,
     RekaModelConfig,
 )
-from ..metrics import split_at_first_capital_after_whitespace
 from .run import RunConfig
 
 cs = ConfigStore.instance()
@@ -54,7 +54,7 @@ cs.store(
 )
 cs.store(
     group="dataset",
-    name="multilingual_vizwiz_vqa",
+    name="multilingual_image_question_answering",
     node=DatasetConfig(_target_="vlm_inference.MultilingualVizWizVQADataset"),
 )
 cs.store(
@@ -515,5 +515,9 @@ cs.store(group="callbacks", name="logging", node=LoggingCallbackConfig)
 cs.store(group="callbacks", name="csv", node=SaveToCsvCallbackConfig)
 cs.store(group="callbacks", name="wandb", node=WandbCallbackConfig)
 cs.store(group="callbacks", name="cost_logging", node=CostLoggingCallbackConfig)
-cs.store(group="callbacks", name="vizwiz_submission", node=SaveToVizWizSubmissionCallbackConfig)
+cs.store(
+    group="callbacks",
+    name="vizwiz_submission",
+    node=SaveToVizWizSubmissionCallbackConfig,
+)
 cs.store(group="callbacks", name="vizwiz_accuracy", node=VizWizAccuracyCallbackConfig)

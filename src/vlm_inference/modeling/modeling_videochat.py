@@ -15,7 +15,6 @@ MAX_NUM_FRAMES = 64
 
 
 class VideoChatModel(VisionLanguageModel):
-
     def __init__(
         self,
         name: str,
@@ -24,7 +23,7 @@ class VideoChatModel(VisionLanguageModel):
         dtype: str,
         model_cls: Callable,
         processor_cls: Callable,
-        **kwargs
+        **kwargs,
     ):
         super().__init__(name, generation_kwargs, json_mode)
 
@@ -47,7 +46,9 @@ class VideoChatModel(VisionLanguageModel):
         self.processor = processor_cls(pretrained_model_name_or_path=self.name, trust_remote_code=True)
 
     def generate(
-        self, example: VideoExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: VideoExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         generated_text, _ = self.model.chat(
             video_path=example.image_path,

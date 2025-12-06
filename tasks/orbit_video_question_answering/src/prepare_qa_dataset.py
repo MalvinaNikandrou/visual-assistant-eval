@@ -6,7 +6,6 @@ from typing import Any
 import torch
 import transformers
 
-
 EXTRACT_COMMON_WORD_PROMPT = """You will be given you a list of objects, and you have to answer with one short word or phrase that can be used to describe the group.
 
 Examples
@@ -68,7 +67,10 @@ class BaseProcessor:
 
     def get_model_output(self, prompt: str) -> str:
         messages = [
-            {"role": "system", "content": "You are a helpful, careful and concise assistant."},
+            {
+                "role": "system",
+                "content": "You are a helpful, careful and concise assistant.",
+            },
             {"role": "user", "content": prompt},
         ]
 

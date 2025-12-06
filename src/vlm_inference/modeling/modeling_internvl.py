@@ -1,14 +1,12 @@
 import logging
 from typing import Any, Callable, Dict, Optional, Tuple, Type
 
-import torch
-from PIL import Image
-from pydantic import BaseModel as PydanticBaseModel
 import numpy as np
 import torch
-from decord import VideoReader, cpu
 import torchvision.transforms as T
+from decord import VideoReader, cpu
 from PIL import Image
+from pydantic import BaseModel as PydanticBaseModel
 from torchvision.transforms.functional import InterpolationMode
 
 from ..dataset.dataset_base import ImageExample
@@ -137,7 +135,6 @@ def load_video(video_path, bound=None, input_size=448, max_num=1, num_segments=3
 
 
 class InternVLModel(VisionLanguageModel):
-
     def __init__(
         self,
         name: str,
@@ -167,7 +164,9 @@ class InternVLModel(VisionLanguageModel):
         return pixel_values, text
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         pixel_values, text = self.perpare_input(example)
         generated_text = self.model.chat(self.processor, pixel_values, text, self.generation_kwargs).strip()
@@ -184,12 +183,14 @@ class VideoInternVLModel(InternVLModel):
     def perpare_input(self, example: ImageExample) -> Any:
         pixel_values, num_patches_list = load_video(example.image_path, num_segments=8, max_num=1)
         pixel_values = pixel_values.to(self.dtype).to(self.model.device)
-        video_prefix = "".join([f"Frame{i+1}: <image>\n" for i in range(len(num_patches_list))])
+        video_prefix = "".join([f"Frame{i + 1}: <image>\n" for i in range(len(num_patches_list))])
         text = f"{video_prefix}{example.prompt}"
         return pixel_values, num_patches_list, text
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         pixel_values, num_patches_list, text = self.perpare_input(example)
         generated_text = self.model.chat(

@@ -1,8 +1,18 @@
 from typing import List, Optional, Union
 
-from transformers import AutoProcessor, AutoTokenizer, BatchEncoding, ProcessorMixin, TensorType
+from transformers import (
+    AutoProcessor,
+    AutoTokenizer,
+    BatchEncoding,
+    ProcessorMixin,
+    TensorType,
+)
 from transformers.image_utils import ImageInput
-from transformers.tokenization_utils_base import PreTokenizedInput, TextInput, TruncationStrategy
+from transformers.tokenization_utils_base import (
+    PreTokenizedInput,
+    TextInput,
+    TruncationStrategy,
+)
 from transformers.utils import PaddingStrategy
 
 
@@ -22,7 +32,6 @@ class ChatGLMProcessor(ProcessorMixin):
         do_pad: Optional[bool] = True,
         return_tensors: Optional[Union[str, TensorType]] = TensorType.PYTORCH,
     ) -> BatchEncoding:
-
         if isinstance(images, list):
             raise ValueError("ChatGLM currently does not support multiple images")
         if isinstance(text, list):

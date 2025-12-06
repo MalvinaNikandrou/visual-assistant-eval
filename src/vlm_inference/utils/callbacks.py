@@ -20,7 +20,12 @@ logger = logging.getLogger(__name__)
 
 
 class Callback(ABC):
-    def __init__(self, model: VisionLanguageModel, dataset: ImageDataset, usage_tracker: UsageTracker):
+    def __init__(
+        self,
+        model: VisionLanguageModel,
+        dataset: ImageDataset,
+        usage_tracker: UsageTracker,
+    ):
         self.model = model
         self.dataset = dataset
         self.usage_tracker = usage_tracker
@@ -56,7 +61,7 @@ class LoggingCallback(Callback):
     def on_step_end(self, step_index: int, completion: Completion):
         completion_dict = {k: v for k, v in zip(completion.keys_as_list(), completion.values_as_list())}
         logger.info(
-            f"\n{'-'*50}\nStep {step_index}:\n{json.dumps(completion_dict, indent=4, ensure_ascii=False)}\n{'-'*50}\n"
+            f"\n{'-' * 50}\nStep {step_index}:\n{json.dumps(completion_dict, indent=4, ensure_ascii=False)}\n{'-' * 50}\n"
         )
 
     def on_run_end(self) -> None: ...
@@ -188,7 +193,13 @@ class VizWizAccuracyCallback(Callback):
         if answer is None:
             answer = ""
         ground_truth = completion.example.ground_truth
-        self.results.append({"image": os.path.basename(image), "answer": answer, "ground_truth": ground_truth})
+        self.results.append(
+            {
+                "image": os.path.basename(image),
+                "answer": answer,
+                "ground_truth": ground_truth,
+            }
+        )
 
     def on_run_end(self) -> None:
         metric = VQAv2Accuracy()

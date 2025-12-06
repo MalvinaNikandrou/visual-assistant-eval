@@ -5,7 +5,7 @@ from omegaconf import MISSING
 
 from .callbacks import CallbackConfig
 from .dataset import DatasetConfig
-from .models import ModelConfig, GenerationConfig
+from .models import GenerationConfig, ModelConfig
 
 
 @dataclass

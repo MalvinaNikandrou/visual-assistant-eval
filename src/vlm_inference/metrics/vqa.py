@@ -5,10 +5,10 @@ Lab/VQA/blob/master/PythonEvaluationTools/vqaEvaluation/vqaEval.py.
 """
 
 import re
-from collections import Counter
-from typing import Any, Union
 import unicodedata
-from typing import Literal
+from collections import Counter
+from typing import Any, Literal, Union
+
 import torch
 from overrides import overrides
 from torchmetrics import Metric

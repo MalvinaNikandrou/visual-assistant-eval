@@ -39,12 +39,12 @@ class CostSummary:
         max_width = len(f"{self.total_cost:.2f}")
         return f"""
 Cost Summary:
-+{'-' * (22 + max_width)}+
-| {'Input Tokens': <14}: {self.input_cost:>{max_width}.2f} USD |
-| {'Output Tokens': <14}: {self.output_cost:>{max_width}.2f} USD |
-| {'-' * (20 + max_width)} |
-| {'Total': <14}: {self.total_cost:>{max_width}.2f} USD |
-+{'-' * (22 + max_width)}+
++{"-" * (22 + max_width)}+
+| {"Input Tokens": <14}: {self.input_cost:>{max_width}.2f} USD |
+| {"Output Tokens": <14}: {self.output_cost:>{max_width}.2f} USD |
+| {"-" * (20 + max_width)} |
+| {"Total": <14}: {self.total_cost:>{max_width}.2f} USD |
++{"-" * (22 + max_width)}+
 """
 
     def asdict(self):

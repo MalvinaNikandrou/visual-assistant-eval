@@ -1,12 +1,12 @@
+from enum import Enum
+from pathlib import Path
 from typing import Type
 
 from pydantic import BaseModel as PydanticBaseModel
 from pydantic import Field
-from pathlib import Path
-from enum import Enum
 
-from .dataset_base import VQADataset
 from ..utils.json_parsing import parse_pydantic_schema
+from .dataset_base import VQADataset
 
 SEED = 20039
 
@@ -120,7 +120,7 @@ class VizWizVQADataset(VQADataset):
 
 
 class MultilingualVizWizVQADataset(VQADataset):
-    name = "multilingual_vizwiz_vqa"
+    name = "multilingual_image_question_answering"
     json_schema: Type[PydanticBaseModel] = VQAResponse
 
     def __init__(self, images_path: str, path: str, template_name: str):

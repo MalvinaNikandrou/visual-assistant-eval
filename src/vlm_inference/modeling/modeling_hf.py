@@ -1,16 +1,16 @@
 import logging
-import numpy as np
 from typing import Any, Callable, Dict, Optional, Tuple, Type
-from qwen_vl_utils import process_vision_info
-from decord import VideoReader, cpu
 
 import av
+import numpy as np
 import torch
+from decord import VideoReader, cpu
 from outlines.integrations.transformers import JSONPrefixAllowedTokens
 from PIL import Image
 from pydantic import BaseModel as PydanticBaseModel
-from transformers.feature_extraction_utils import BatchFeature
+from qwen_vl_utils import process_vision_info
 from transformers import GenerationConfig
+from transformers.feature_extraction_utils import BatchFeature
 
 from ..dataset.dataset_base import ImageExample, VideoExample
 from ..utils.misc import torch_dtype_from_str
@@ -22,7 +22,6 @@ MAX_NUM_FRAMES = 64  # if cuda OOM set a smaller number
 
 
 class HfModel(VisionLanguageModel):
-
     def __init__(
         self,
         name: str,
@@ -63,7 +62,9 @@ class HfModel(VisionLanguageModel):
         return inputs
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         features = self._extract_features(example)
         prefix_allowed_tokens_fn = (
@@ -100,7 +101,6 @@ class HfModel(VisionLanguageModel):
 
 
 class MolmoModel(HfModel):
-
     def _extract_features(self, example: ImageExample) -> BatchFeature:
         inputs = self.processor(
             images=Image.open(example.image_path).convert("RGB"),
@@ -115,7 +115,9 @@ class MolmoModel(HfModel):
         return inputs
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         features = self._extract_features(example)
 
@@ -151,7 +153,6 @@ class MolmoModel(HfModel):
 
 
 class QwenVideoHfModel(HfModel):
-
     def _prep_video(self, video_path: str) -> Dict[str, Any]:
         messages = [
             {
@@ -182,7 +183,6 @@ class QwenVideoHfModel(HfModel):
 
 
 class LlaVANextVideoHfModel(HfModel):
-
     def read_video_pyav(self, container, indices):
         """
         Decode the video with PyAV decoder.
@@ -219,7 +219,6 @@ class LlaVANextVideoHfModel(HfModel):
 
 
 class Phi3VideoHfModel(HfModel):
-
     def _encode_video(self, video_path):
         def uniform_sample(l, n):
             gap = len(l) / n

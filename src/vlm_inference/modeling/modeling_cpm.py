@@ -35,7 +35,6 @@ def encode_video(video_path):
 
 
 class CpmModel(VisionLanguageModel):
-
     def __init__(
         self,
         name: str,
@@ -44,7 +43,7 @@ class CpmModel(VisionLanguageModel):
         dtype: str,
         model_cls: Callable,
         processor_cls: Callable,
-        **kwargs
+        **kwargs,
     ):
         super().__init__(name, generation_kwargs, json_mode)
 
@@ -59,15 +58,17 @@ class CpmModel(VisionLanguageModel):
         self.processor = processor_cls(pretrained_model_name_or_path=self.name, trust_remote_code=True)
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         image = Image.open(example.image_path).convert("RGB")
         generated_text = self.model.chat(
             image=None,
             msgs=[{"role": "user", "content": [image, example.prompt]}],
             tokenizer=self.processor,
-        **self.generation_kwargs,
-            ).strip()
+            **self.generation_kwargs,
+        ).strip()
 
         usage_metadata = UsageMetadata(
             input_token_count=0,
@@ -78,9 +79,10 @@ class CpmModel(VisionLanguageModel):
 
 
 class VideoCpmModel(CpmModel):
-
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         frames = encode_video(example.image_path)
         msgs = [

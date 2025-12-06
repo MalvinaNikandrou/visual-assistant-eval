@@ -22,8 +22,13 @@ logger = logging.getLogger(__name__)
 
 
 class GoogleModel(VisionLanguageModel):
-
-    def __init__(self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool, pricing: Pricing):
+    def __init__(
+        self,
+        name: str,
+        generation_kwargs: Dict[str, Any],
+        json_mode: bool,
+        pricing: Pricing,
+    ):
         super().__init__(name, generation_kwargs, json_mode)
 
         logger.info("Using Google API")
@@ -33,12 +38,14 @@ class GoogleModel(VisionLanguageModel):
         self.model = GenerativeModel(self.name)
         self.generation_config = GenerationConfig(
             **self.generation_kwargs,
-            response_mime_type=("application/json" if self.json_mode and "1.5" in self.name else "text/plain")
+            response_mime_type=("application/json" if self.json_mode and "1.5" in self.name else "text/plain"),
         )
         self.pricing = pricing
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         img = Part.from_data(data=read_image_as_bytes(example.image_path), mime_type="image/jpeg")
 

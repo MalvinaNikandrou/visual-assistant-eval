@@ -1,8 +1,9 @@
+import argparse
+import os
+import re
+
 import wikipediaapi
 from pybraille import convertText
-import re
-import os
-import argparse
 from tqdm import tqdm
 
 # Initialize Wikipedia API with User-Agent

@@ -15,8 +15,13 @@ logger = logging.getLogger(__name__)
 
 
 class OpenaiModel(VisionLanguageModel):
-
-    def __init__(self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool, pricing: Pricing):
+    def __init__(
+        self,
+        name: str,
+        generation_kwargs: Dict[str, Any],
+        json_mode: bool,
+        pricing: Pricing,
+    ):
         super().__init__(name, generation_kwargs, json_mode)
 
         logger.info("Using OpenAI API")
@@ -27,7 +32,9 @@ class OpenaiModel(VisionLanguageModel):
         self.pricing = pricing
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         base64_image = read_image_as_b64(example.image_path)
         response = self.client.chat.completions.create(

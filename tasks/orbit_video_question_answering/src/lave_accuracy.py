@@ -1,19 +1,18 @@
-import pandas as pd
-import ast
 import argparse
-import re
+import ast
 import os
+import re
 from typing import Literal
 
+import pandas as pd
 import torch
 import transformers
-from transformers import BitsAndBytesConfig
 from tqdm import tqdm
-
+from transformers import BitsAndBytesConfig
 
 tqdm.pandas()
 
-PROMPT_TEMPLATE =  """You are given a question, a set of gold-standard reference answers written by experts, and a candidate answer.
+PROMPT_TEMPLATE = """You are given a question, a set of gold-standard reference answers written by experts, and a candidate answer.
 Please rate the accuracy of the candidate answer for the question considering the reference answers. Use a scale of 1-3, with 1 indicating an incorrect or irrelevant answer, 2 indicating an ambiguous or incomplete answer, and 3 indicating a correct answer. Give the rationale before rating.
 
 EXAMPLES{EXAMPLES}
@@ -382,13 +381,21 @@ class LAVE:
         self.pipeline = transformers.pipeline(
             "text-generation",
             model=args.model_id,
-            model_kwargs={"torch_dtype": torch_dtype, "quantization_config": quantization_config},
+            model_kwargs={
+                "torch_dtype": torch_dtype,
+                "quantization_config": quantization_config,
+            },
             device_map="auto",
         )
         self.pipeline.tokenizer.pad_token_id = self.pipeline.tokenizer.eos_token_id
 
     def __call__(self, sample: pd.Series):
-        messages = self._prepare_input(sample["prompt"], sample["response"], sample["ground_truth"], sample["question_type"])
+        messages = self._prepare_input(
+            sample["prompt"],
+            sample["response"],
+            sample["ground_truth"],
+            sample["question_type"],
+        )
         outputs = self.pipeline(messages, max_new_tokens=self.max_new_tokens)
         return self.score_sample(outputs)[0]
 
@@ -396,7 +403,13 @@ class LAVE:
         generated_texts = [output["generated_text"][-1]["content"] for output in model_outputs]
         return [self._parse_score(generated_text) for generated_text in generated_texts]
 
-    def _prepare_input(self, question: str, prediction: str, references: list[str], question_type: Literal["O", "D", "S", "A"]):
+    def _prepare_input(
+        self,
+        question: str,
+        prediction: str,
+        references: list[str],
+        question_type: Literal["O", "D", "S", "A"],
+    ):
         # is any of the refs "yes", "no", "unanswerable"?
         is_closed_form = any([ans in ["yes", "no", "unanswerable"] for ans in references])
         references = ", ".join(references)
@@ -433,9 +446,23 @@ class LAVE:
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Compute the accuracy of the model.")
     parser.add_argument("--data_file", type=str, required=True, help="The results file.")
-    parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.3-70B-Instruct", help="The model id.")
-    parser.add_argument("--load_in_8bit", action="store_true", help="Whether to load the model in 8-bit.")
-    parser.add_argument("--max_new_tokens", type=int, default=256, help="The maximum number of new tokens.")
+    parser.add_argument(
+        "--model_id",
+        type=str,
+        default="meta-llama/Llama-3.3-70B-Instruct",
+        help="The model id.",
+    )
+    parser.add_argument(
+        "--load_in_8bit",
+        action="store_true",
+        help="Whether to load the model in 8-bit.",
+    )
+    parser.add_argument(
+        "--max_new_tokens",
+        type=int,
+        default=256,
+        help="The maximum number of new tokens.",
+    )
     return parser.parse_args()
 
 
@@ -446,10 +473,18 @@ if __name__ == "__main__":
     data["response"] = data.apply(lambda x: normalize_answer(x["response"]), axis=1)
     data["ground_truth"] = data.apply(lambda x: prepare_ground_truths(x["ground_truth"]), axis=1)
     # Compute the accuracy
-    lave_metric = LAVE(args.model_id, args.load_in_8bit, args.data_file, max_new_tokens=args.max_new_tokens)
+    lave_metric = LAVE(
+        args.model_id,
+        args.load_in_8bit,
+        args.data_file,
+        max_new_tokens=args.max_new_tokens,
+    )
     data = data.assign(acc=data.progress_apply(lave_metric, axis=1))
     # Save the results
-    output_file = os.path.join(os.path.dirname(args.data_file), f"{os.path.basename(args.data_file)}-outputs-acc.csv")
+    output_file = os.path.join(
+        os.path.dirname(args.data_file),
+        f"{os.path.basename(args.data_file)}-outputs-acc.csv",
+    )
     data.to_csv(output_file, sep="\t", index=False)
     # Compute the average accuracy
     acc = data["acc"].mean()
@@ -457,7 +492,7 @@ if __name__ == "__main__":
     # Compute the average accuracy for is_vip_object == True
     acc_vip = data[data["is_vip_object"] == True]["acc"].mean()
     # Compute the average accuracy for is_vip_object == False
-    acc_non_vip = data[data["is_vip_object"] == False ]["acc"].mean()
+    acc_non_vip = data[data["is_vip_object"] == False]["acc"].mean()
     # Print the results
     print(f"Average accuracy for is_vip_object == True: {acc_vip}")
     print(f"Average accuracy for is_vip_object == False: {acc_non_vip}")

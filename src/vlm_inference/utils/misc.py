@@ -31,7 +31,7 @@ def setup_config(config: DictConfig, print: bool = True) -> None:
     del config._callback_dict
 
     if print:
-        logger.info(f"\n{50*'-'}\n{OmegaConf.to_yaml(config)}{50*'-'}")
+        logger.info(f"\n{50 * '-'}\n{OmegaConf.to_yaml(config)}{50 * '-'}")
 
 
 def as_dict(config: DictConfig):

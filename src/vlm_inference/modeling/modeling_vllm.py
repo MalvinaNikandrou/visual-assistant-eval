@@ -16,7 +16,6 @@ logger = logging.getLogger(__name__)
 
 
 class HfModel(VisionLanguageModel):
-
     def __init__(
         self,
         name: str,
@@ -43,9 +42,10 @@ class HfModel(VisionLanguageModel):
         self.postprocess_fn = postprocess_fn
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
-
         features = self._extract_features(example)
 
         prefix_allowed_tokens_fn = (

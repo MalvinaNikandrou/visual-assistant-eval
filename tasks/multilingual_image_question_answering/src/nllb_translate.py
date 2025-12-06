@@ -1,10 +1,8 @@
-from tqdm import tqdm
-
-import torch
-from transformers import pipeline
 import sacrebleu
-
-from constants import Language, lang_flores200_codes, SEED
+import torch
+from constants import SEED, Language, lang_flores200_codes
+from tqdm import tqdm
+from transformers import pipeline
 
 torch.manual_seed(SEED)
 
@@ -66,7 +64,14 @@ class DatasetTranslation:
 
 
 class NLLBTranslate:
-    def __init__(self, n_samples: int, model_name: str, batch_size: int = 1, device: str = "cuda", **kwargs):
+    def __init__(
+        self,
+        n_samples: int,
+        model_name: str,
+        batch_size: int = 1,
+        device: str = "cuda",
+        **kwargs,
+    ):
         self.n_samples = n_samples
         self.model_name = model_name
         self.batch_size = batch_size
@@ -114,7 +119,10 @@ class NLLBTranslate:
             best_index = 0
             for translation, back_translation in zip(translations, back_translations):
                 sscore = sacrebleu.compat.sentence_bleu(
-                    back_translation, [original], lowercase=True, use_effective_order=True
+                    back_translation,
+                    [original],
+                    lowercase=True,
+                    use_effective_order=True,
                 ).score
                 if sscore > score:
                     score = sscore

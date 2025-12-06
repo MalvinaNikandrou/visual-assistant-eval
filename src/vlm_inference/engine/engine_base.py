@@ -19,7 +19,12 @@ logger = logging.getLogger(__name__)
 class Engine:
     """Engine class for all models."""
 
-    def __init__(self, model: VisionLanguageModel, dataset: ImageDataset, callbacks: List[Callable] = []):
+    def __init__(
+        self,
+        model: VisionLanguageModel,
+        dataset: ImageDataset,
+        callbacks: List[Callable] = [],
+    ):
         self.model = model
         self.dataset = dataset
         self.metadata_tracker = UsageTracker()

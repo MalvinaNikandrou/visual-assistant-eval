@@ -1,18 +1,16 @@
 # For the orbit video dataset let's get some statistics and plots
-import os
 import json
-import matplotlib.pyplot as plt
-import pandas as pd
+import os
 from collections import Counter
 from pathlib import Path
+
+import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 from tqdm import tqdm
 
-
 # Load the dataset
-qa_dataset_path = (
-    "tasks/orbit_video_question_answering/data/combined_qa_data.json"
-)
+qa_dataset_path = "tasks/orbit_video_question_answering/data/combined_qa_data.json"
 videos_dataset_path = Path("tasks/orbit_video_question_answering/data/videos")
 
 with open(qa_dataset_path, "r") as f:
@@ -88,12 +86,16 @@ plt.xlabel("Count", fontdict={"fontsize": 18})
 plt.grid(axis="both", zorder=0)
 # ylim
 plt.tight_layout()
-plt.savefig("tasks/orbit_video_question_answering/data/orbit_video_group_histogram.pdf", dpi=300, bbox_inches="tight")
+plt.savefig(
+    "tasks/orbit_video_question_answering/data/orbit_video_group_histogram.pdf",
+    dpi=300,
+    bbox_inches="tight",
+)
 
 
 # Make a wordcloud
 
-from wordcloud import WordCloud, STOPWORDS
+from wordcloud import STOPWORDS, WordCloud
 
 wordcloud = WordCloud(
     width=600,

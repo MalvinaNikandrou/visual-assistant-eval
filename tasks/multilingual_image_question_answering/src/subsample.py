@@ -1,27 +1,23 @@
 """
-Script to subsample VizWiz VQA questions. 
+Script to subsample VizWiz VQA questions.
 The goal is to get a representative subset of N questions.
 """
 
+import argparse
 import json
 import random
 from collections import Counter
 
 random.seed(42)
 
-INPUT_FILE = "data/val.json"
-OUTPUT_FILE = "tasks/multilingual_vizwiz_vqa/val_subsample_en.json"
-NUM_SAMPLES = 500
-
-target_answer_type_counts = {"other": 283, "unanswerable": 150, "yes/no": 22, "number": 45}
+INPUT_FILE = "tasks/culture_image_captioning/data/annotations/val.json"
+OUTPUT_FILE = "tasks/multilingual_image_question_answering/data/val_subsample_en.json"
+TARGET_DIST = {"other": 283, "unanswerable": 150, "yes/no": 22, "number": 45}
 
 
 class VizWizSubsampler:
-
     def __init__(self, input_file, output_file, target_answer_type_counts):
-        self.target_answer_type_counts = (
-            target_answer_type_counts  # {'other': 283, 'unanswerable': 150, 'yes/no': 22, 'number': 45}
-        )
+        self.target_answer_type_counts = target_answer_type_counts
         self.data = self.load_data(input_file)
         print(f"Loaded {len(self.data)} questions")
         self.self.question_id_to_sample = {sample["question_id"]: sample for sample in self.data}
@@ -111,5 +107,5 @@ class VizWizSubsampler:
 
 
 if __name__ == "__main__":
-    subsampler = VizWizSubsampler(INPUT_FILE, OUTPUT_FILE, target_answer_type_counts)
+    subsampler = VizWizSubsampler(INPUT_FILE, OUTPUT_FILE, TARGET_DIST)
     subsampler.subsample()

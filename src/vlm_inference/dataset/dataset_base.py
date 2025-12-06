@@ -1,8 +1,10 @@
+import json
 import logging
+from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from functools import cache
 from pathlib import Path
-from typing import Type, Literal
+from typing import Literal, Type
 
 import hydra
 from jinja2 import Template
@@ -10,8 +12,6 @@ from pydantic import BaseModel as PydanticBaseModel
 from pydantic import Field
 
 from ..utils.json_parsing import parse_pydantic_schema
-from abc import ABC, abstractmethod
-import json
 
 logger = logging.getLogger(__name__)
 
@@ -53,7 +53,6 @@ class ImageExample:
 
 
 class ImageDataset(BaseDataset):
-
     def _load_dataset(self, data_dir: Path) -> None:
         if not data_dir.exists() and not data_dir.is_dir():
             raise FileNotFoundError(f"Directory `{data_dir}` does not exist.")

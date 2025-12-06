@@ -3,10 +3,9 @@ import json
 from argparse import Namespace
 
 import torch
-
-from constants import Language, UnanswerableMapping, lang_flores200_codes, SEED
-from nllb_translate import NLLBTranslate
+from constants import SEED, Language, UnanswerableMapping, lang_flores200_codes
 from filter import WordRepetitionFilter
+from nllb_translate import NLLBTranslate
 
 torch.manual_seed(SEED)
 
@@ -22,7 +21,7 @@ def get_input_arguments() -> Namespace:
     parser.add_argument(
         "--dataset_dir",
         type=str,
-        default="tasks/multilingual_vizwiz_vqa/data/val_subsample_en.json",
+        default="tasks/multilingual_image_question_answering/data/val_subsample_en.json",
         help="The vizwiz annotations in English.",
     )
     parser.add_argument(

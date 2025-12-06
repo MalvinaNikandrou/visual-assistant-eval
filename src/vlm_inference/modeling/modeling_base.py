@@ -14,7 +14,6 @@ class LanguageModel(ABC):
     """Base class for all models."""
 
     def __init__(self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool):
-
         self.name = name
         self.generation_kwargs = generation_kwargs
         self.gen_max_retries = self.generation_kwargs.pop("max_retries", 50)
@@ -23,7 +22,9 @@ class LanguageModel(ABC):
 
     @abstractmethod
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]: ...
 
 
@@ -31,7 +32,6 @@ class VisionLanguageModel(ABC):
     """Base class for all models."""
 
     def __init__(self, name: str, generation_kwargs: Dict[str, Any], json_mode: bool):
-
         self.name = name
         self.generation_kwargs = generation_kwargs
         self.gen_max_retries = self.generation_kwargs.pop("max_retries", 50)
@@ -40,5 +40,7 @@ class VisionLanguageModel(ABC):
 
     @abstractmethod
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]: ...

@@ -1,22 +1,21 @@
 import copy
 import logging
-import numpy as np
-from typing import Any, Dict, Optional, Tuple, Type
 import warnings
+from typing import Any, Dict, Optional, Tuple, Type
 
+import numpy as np
 import torch
 from decord import VideoReader, cpu
-from llava.model.builder import load_pretrained_model
-from llava.mm_utils import tokenizer_image_token
-from llava.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN
+from llava.constants import DEFAULT_IMAGE_TOKEN, IMAGE_TOKEN_INDEX
 from llava.conversation import conv_templates
+from llava.mm_utils import tokenizer_image_token
+from llava.model.builder import load_pretrained_model
 from pydantic import BaseModel as PydanticBaseModel
 
 from ..dataset.dataset_base import ImageExample
 from ..utils.misc import torch_dtype_from_str
 from ..utils.usage_tracking import UsageMetadata
 from .modeling_base import VisionLanguageModel
-
 
 warnings.filterwarnings("ignore")
 
@@ -43,7 +42,6 @@ def load_video(video_path, max_frames_num, fps=1, force_sample=False):
 
 
 class LlaVAVideoModel(VisionLanguageModel):
-
     def __init__(
         self,
         name: str,
@@ -83,7 +81,9 @@ class LlaVAVideoModel(VisionLanguageModel):
         return prompt_question
 
     def generate(
-        self, example: ImageExample, json_schema: Optional[Type[PydanticBaseModel]] = None
+        self,
+        example: ImageExample,
+        json_schema: Optional[Type[PydanticBaseModel]] = None,
     ) -> Tuple[str, UsageMetadata]:
         video, frame_time, video_time = self._load_video(example.image_path)
         prompt = self._prepare_prompt(example.prompt, video, video_time, frame_time)
