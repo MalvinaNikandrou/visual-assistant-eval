@@ -10,7 +10,7 @@ from collections import Counter
 
 random.seed(42)
 
-INPUT_FILE = "tasks/culture_image_captioning/data/annotations/val.json"
+INPUT_FILE = "tasks/multilingual_image_question_answering/data/val.json"
 OUTPUT_FILE = "tasks/multilingual_image_question_answering/data/val_subsample_en.json"
 TARGET_DIST = {"other": 283, "unanswerable": 150, "yes/no": 22, "number": 45}
 

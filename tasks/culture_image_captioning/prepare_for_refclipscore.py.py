@@ -83,19 +83,20 @@ def convert_groundtruths_csv_to_json(annotations_csv, groundtruths_json):
 
 
 def main(args):
+    os.makedirs(args.output_path, exist_ok=True)
     # Prepare the references
     logger.info("Preparing reference captions...")
     convert_groundtruths_to_json(
         "tasks/data/culture_image_captioning/annotations/val.json",
-        "vizwiz_captioning_references.json",
+        os.path.join(args.output_path, "vizwiz_captioning_references.json"),
     )
     convert_groundtruths_csv_to_json(
         "tasks/data/culture_image_captioning/annotations/vizwiz_culture.csv",
-        "vizwiz_culture_captioning_references.json",
+        os.path.join(args.output_path, "vizwiz_culture_captioning_references.json"),
     )
     # Prepare the generations
     logger.info("Preparing generated captions...")
-    convert_generations_to_json(args.generations_path, args.generations_output_path)
+    convert_generations_to_json(args.generations_path, os.path.join(args.output_path, "vizwiz_captioning_generations.json"))
 
 
 if __name__ == "__main__":
@@ -107,10 +108,10 @@ if __name__ == "__main__":
         help="Path to the model generationed captions CSV file.",
     )
     parser.add_argument(
-        "--generations_output_path",
+        "--output_path",
         type=str,
         required=False,
-        help="Path to the generations JSON output file.",
+        help="Directory to save the output files.",
     )
     args = parser.parse_args()
     main(args)
