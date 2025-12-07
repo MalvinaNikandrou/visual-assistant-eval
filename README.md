@@ -21,7 +21,7 @@ Evaluating cultural understanding in image descriptions
 ### 2. Multilingual Image Question Answering  
 VQA across 35 languages
 - **Dataset**: 500 English VizWiz VQA samples ([Gurari et al., 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Gurari_VizWiz_Grand_Challenge_CVPR_2018_paper.html)) translated to 34 languages
-- **Languages**: High (14), Medium (11), and Low-resource (8) languages
+- **Languages**: High (21), Medium (10), and Low-resource (4) languages
 - **Metric**: VQA Accuracy
 - **Setup**: [See task README](tasks/multilingual_image_question_answering/README.md)
 
