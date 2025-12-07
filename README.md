@@ -1,18 +1,72 @@
-# VLM Inference
+# Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users
 
-This codebase runs image-text inference with SOTA vision-language models, locally or via Slurm. It is designed to be easily extensible to new models, datasets, and tasks. We support structured JSON generation via outlines and pydantic, using schema-constrained decoding for HuggingFace models and JSON mode with API-based models wherever applicable.
+<!-- [![ACL 2025](https://img.shields.io/badge/ACL-2025-blue)](https://2025.aclweb.org/) -->
+[![Paper](https://img.shields.io/badge/Paper-ACL_2025-red)](https://arxiv.org/abs/2503.22610)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-To be added:
-- video inference
-- async generation as fast as rate limits permit
-- context caching as it becomes available in APIs
+## 📊 Tasks and Datasets
 
-## Installation
+We present a comprehensive evaluation framework informed by a user survey to identify
+adoption patterns and key challenges visually impaired users face with LLM technologies. Our framework consists of five key tasks:
+
+### 1. Culture-Aware Image Captioning
+Evaluating cultural understanding in image descriptions 
+- **Dataset**: [VizWiz](https://vizwiz.org/) images with two evaluation settings:
+  - **Original**: 500 images with standard captions ([Gurari et al.,
+2020](https://link.springer.com/chapter/10.1007/978-3-030-58520-4_25))
+  - **Cultural**: 324 images with culture-aware captions ([Karamolegkou et al., 2024](https://aclanthology.org/2024.hucllm-1.5/))
+- **Metric**: RefCLIPScore
+- **Setup**: [See task README](tasks/culture_image_captioning/README.md)
+
+### 2. Multilingual Image Question Answering  
+VQA across 35 languages
+- **Dataset**: 500 English VizWiz VQA samples ([Gurari et al., 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Gurari_VizWiz_Grand_Challenge_CVPR_2018_paper.html)) translated to 34 languages
+- **Languages**: High (14), Medium (11), and Low-resource (8) languages
+- **Metric**: VQA Accuracy
+- **Setup**: [See task README](tasks/multilingual_image_question_answering/README.md)
+
+### 3. Optical Braille Recognition
+Transcribing and answering questions about Braille text
+- **Dataset**: Novel Braille transcription and QA datasets
+- **Tasks**: Sentence transcription, Cross-script QA
+- **Metrics**: chrF++, F1-score
+- **Setup**: [See task README](tasks/obr/README.md)
+
+### 4. Video Object Recognition
+Identifying general and assistive objects in videos
+- **Dataset**: 1,036 ORBIT videos ([Massiceti et al., 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Massiceti_ORBIT_A_Real-World_Few-Shot_Dataset_for_Teachable_Object_Recognition_ICCV_2021_paper.pdf)) featuring 880 general, 156 assistive objects
+- **Metric**: LAVE accuracy
+- **Setup**: [See task README](tasks/video_recognition_and_question_answering/README.md)
+
+### 5. Video Question Answering
+Answering descriptive, spatial, and adversarial questions
+- **Dataset**: 882 questions covering descriptive, spatial, and adversarial questions
+- **Metric**: LAVE accuracy
+- **Setup**: [See task README](tasks/video_recognition_and_question_answering/README.md)
+
+
+### Data Access
+
+All evaluation data is organized under the `tasks/` directory:
+```
+tasks/
+├── culture_image_captioning/          # Culture-aware image descriptions
+├── multilingual_image_question_answering/  # VQA in 35 languages
+├── obr/                               # Optical Braille Recognition
+└── video_recognition_and_question_answering/  # Video understanding tasks
+```
+
+## 🤖 Model Inference
+
+The inference code is based on [https://github.com/coastalcph/vizwiz-culture](https://github.com/coastalcph/vizwiz-culture), which runs runs image-text inference with SOTA vision-language models.
+
+
+### Installation
 
 1. Basic install
 ```bash
-conda create -n vizwiz-culture python=3.10
-conda activate vizwiz-culture
+conda create -n visassistant python=3.10
+conda activate visassistant
 pip install -e .
 ```
 
@@ -25,330 +79,72 @@ pip install flash-attn --no-build-isolation
 python -c "import torch; import flash_attn_2_cuda"
 ```
 
-## Closed-access models API setup
 
-### OpenAI
+### Example commands:
 
-1. Login, setup billing, and create API key on [https://platform.openai.com/](https://platform.openai.com/)
-
-2. Run `export OPENAI_API_KEY=<your_key>`
-
-### Google VertexAI
-
-1. Login, setup billing, and create project on [https://console.cloud.google.com/](https://console.cloud.google.com/)
-
-2. Go to [https://cloud.google.com/sdk/docs/install#linux](https://cloud.google.com/sdk/docs/install#linux) and follow the instructions to install `gcloud`
-
-2. Run `gcloud init` and follow the instructions
-
-3. Run `gcloud auth application-default login` and follow the instructions
-
-4. Run `export GOOGLE_CLOUD_PROJECT=<your_project>`
-
-### Anthropic
-
-1. Login, setup billing, and create API key on [https://console.anthropic.com/](https://console.anthropic.com/).
-
-2. Run `export ANTHROPIC_API_KEY=<your_key>`.
-
-### Reka
-
-1. Login, setup billing, and create API key on [https://platform.reka.ai/](https://platform.reka.ai/).
-
-2. Run `export REKA_API_KEY=<your_key>`.
-
-## Examples
-
-### General Usage
-
-#### Registering models
-
-You can register new models, datasets, and callbacks by adding them under [src/vlm_inference/configuration/registry.py](src/vlm_inference/configuration/registry.py). We currently support the Google Gemini API, the OpenAI API and HuggingFace.
-
-#### Callbacks
-
-We currently use callbacks for logging, local saving of outputs, and uploading to Wandb.
-
-You can get rid of default callbacks via `'~_callback_dict.<callback_name>'`, e.g. remove the Wandb callback via `'~_callback_dict.wandb'` (mind the quotation marks).
-
-You can also easily override values of the callbacks, e.g. `_callback_dict.wandb.project=new-project`.
-
-#### Closed-access models
-
-> [!NOTE]
-> Currently available **OpenAI** models:
-> - `gpt-4o` (gpt-4o-2024-05-13)
-> - `gpt-4o-mini` (gpt-4o-mini-2024-07-18)
-> - `gpt-4-turbo` (gpt-4-turbo-2024-04-09)
-> - `gpt-4` (gpt-4-1106-vision-preview)
->   
-> Currently available **Google** models:
-> - `gemini-1.0` (gemini-1.0-pro-vision-001)
-> - `gemini-1.5-flash` (gemini-1.5-flash-preview-0514)
-> - `gemini-1.5-pro` (gemini-1.5-pro-preview-0514)
-> 
-> Currently available **Anthropic** models:
-> - `claude-haiku` (claude-3-haiku-20240307)
-> - `claude-sonnet` (claude-3-sonnet-20240229)
-> - `claude-opus` (claude-3-opus-20240229)
-> - `claude-3.5-sonnet` (claude-3-5-sonnet-20240620)
->
-> Currently available **Reka** models:
-> - `reka-edge` (reka-edge-20240208)
-> - `reka-flash` (reka-flash-20240226)
-> - `reka-core` (reka-core-20240415)
-
-#### Example
+#### Image Tasks
 ```bash
+# LLaVA-1.6 on VizWiz VQA
 python run.py \
-  model=gpt-4o \
-  model.json_mode=true \
-  dataset=cultural_captioning \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=culture_json
-```
-
-#### Open-access models via HuggingFace
-
-> [!NOTE]
-> Currently available models:
-> - `blip2` (defaults to [Salesforce/blip2-opt-6.7b](https://huggingface.co/Salesforce/blip2-opt-6.7b))
-> - `instructblip` (defaults to [Salesforce/instructblip-vicuna-7b](https://huggingface.co/Salesforce/instructblip-vicuna-7b))
-> - `llava` (defaults to [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf))
-> - `idefics2` (defaults to [HuggingFaceM4/idefics2-8b](https://huggingface.co/HuggingFaceM4/idefics2-8b))
-> - `paligemma` (defaults to [google/paligemma-3b-mix-448](https://huggingface.co/google/paligemma-3b-mix-448))
-> - `phi3-vision` (defaults to [microsoft/Phi-3-vision-128k-instruct](https://huggingface.co/microsoft/Phi-3-vision-128k-instruct))
-> - `minicpm-llama3-v2.5` (defaults to [openbmb/MiniCPM-Llama3-V-2_5](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5))
-> - `glm-4v` (defaults to [THUDM/glm-4v-9b](https://huggingface.co/THUDM/glm-4v-9b))
->
-> You can also specify the size, e.g. `model.size=13b` for InstructBlip, `model.size=34b` for Llava or `model.size=3b-pt-896` for PaliGemma.
->
-> Make sure to use a prompt template that works for the model (uses the correct special tokens, etc.).
-
-
-#### Examples
-
-##### PaliGemma
-```bash
- python run.py \
-  model=paligemma  \
-  model.json_mode=false \
-  dataset.path=data/val.json \
-  generation_config=hf_vqa  \
-  +dataset.images_path=data/val  \
-  dataset.template_name=paligemma_vqa_json \
-  dataset=vizwiz_vqa
-```
-
-##### LLaVa-1.6 
-```bash
- python run.py \
-  model=llava  \
-  model.json_mode=true \
- dataset.path=data/val.json \
-  generation_config=hf_vqa  \
- +dataset.images_path=data/val  \
- dataset.template_name=llava7b_vqa_json \
- dataset=vizwiz_vqa
-
-```
-
-
-##### Idefics2
-```bash
- python run.py \
-  model=idefics2  \
-  model.json_mode=no \
-  dataset.path=data/val.json \
-  generation_config=hf_vqa  \
-  +dataset.images_path=data/val  \
-  dataset.template_name=idefics2_vqa_json \
-  dataset=vizwiz_vqa
-```
-
-##### Phi3-vision
-```bash
- python run.py \
-  model=phi3-vision  \
-  model.json_mode=true \
-  dataset.path=data/val.json \
-  generation_config=hf_vqa  \
-  +dataset.images_path=data/val  \
-  dataset.template_name=phi3_vqa_json \
-  dataset=vizwiz_vqa
-```
-
-##### MiniCPM-Llama3-V-2.5
-```bash
-python run.py \
-  model=minicpm-llama3-v2.5 \
-  model.json_mode=false \
-  dataset.path=data/val.json \
-  +dataset.images_path=data/val  \
-  generation_config=hf_vqa  \
+  model=llava \
   dataset=vizwiz_vqa \
-  dataset.template_name=default_vqa
-```
+  dataset.path=data/val.json \
+  dataset.images_path=data/val
 
-##### InternVL2.5
-
-```bash
+# Qwen2-VL on culture captioning  
 python run.py \
-  model=internvl2.5 \
-  model.json_mode=false \
-  dataset.path=data/val.json \
-  generation_config=hf_vqa  \
-  +dataset.images_path=data/val  \
-  dataset=vizwiz_vqa \
-  dataset.template_name=default_vqa
+  model=qwen2-vl \
+  dataset=captioning \
+  dataset.path=data/culture_images
 ```
 
+#### Video Tasks
 ```bash
+# InternVL2.5 on video object recognition
 python run.py \
-  model=internvl2.5-video  \
-  generation_config=hf_vqa  \
-  model.json_mode=false \
-  dataset.path=tasks/video_object_recognition/orbit_question_answers.json \
-  +dataset.images_path=tasks/video_object_recognition/orbit_videos  \
-  dataset.template_name=default_vqa \
-  output_path=orbit_results \
-  dataset=orbit_vqa
-``` 
-
-
-##### GLM-4V-9B
-
-```bash
-python run.py \
-  model=glm-4v \
-  model.json_mode=true \
-  dataset=cultural_captioning \
-  generation_config=hf_captionin  \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=culture_json
+  model=internvl2.5-video \
+  dataset=orbit_vqa \
+  dataset.path=tasks/video_object_recognition/orbit_recognition_question_answers.json \
+  dataset.images_path=tasks/video_object_recognition/orbit_videos
 ```
 
-##### MOLMO-7B-D
+#### Multilingual Evaluation
 ```bash
- python run.py \
-  model=molmo  \
-  model.json_mode=true \
-  dataset.path=data/val.json \
-  +dataset.images_path=data/val  \
-  generation_config=hf_vqa  \
-  dataset.template_name=molmo_vqa_json \
-  dataset=vizwiz_vqa
+# Run on all languages
+./scripts/multilingual_image_question_answering.sh llava
 ```
 
-```bash
- python run.py \
-  model=molmo  \
-  model.json_mode=false \
-  generation_config=hf_vqa  \
-  dataset.path=data/val \
-  dataset.template_name=molmo_caption \
-  dataset=captioning
-```
+See model-specific examples in the [inference section](#supported-models) below.
 
-```bash
- python run.py \
-  model=molmo  \
-  model.json_mode=false \
-  dataset.path=data/val.json \
-  +dataset.images_path=data/val  \
-  generation_config=hf_vqa  \
-  dataset.template_name=molmo_vqa \
-  dataset=vizwiz_vqa
-```
 
-##### LLAMA-3.2-11B-Vision-Instruct
-```bash
- python run.py \
-  model=llama_vision  \
-  model.json_mode=true \
-  dataset.path=data/val.json \
-  +dataset.images_path=data/val  \
-  dataset.template_name=llama_vision_vqa_json \
-  generation_config=hf_vqa  \
-  dataset=vizwiz_vqa
-```
 
-```bash
- python run.py \
-  model=llama_vision  \
-  model.json_mode=false \
-  dataset.path=data/val  \
-  dataset.template_name=llama_vision_caption \
-  generation_config=hf_vqa  \
-  dataset=captioning
-```
+## 📚 Citation
 
-```bash
- python run.py \
-  model=llama_vision  \
-  model.json_mode=false \
-  dataset.path=data/val.json \
-  +dataset.images_path=data/val  \
-  dataset.template_name=llama_vision_vqa \
-  generation_config=hf_vqa  \
-  dataset=vizwiz_vqa
-```
+If you use this evaluation framework or datasets, please cite:
 
-##### Qwen2-VL
-```bash
- python run.py \
-  model=qwen2-vl  \
-  model.json_mode=false \
-  dataset.path=data/val.json \
-  +dataset.images_path=data/val  \
-  generation_config=hf_vqa  \
-  dataset.template_name=qwen2vl_vqa \
-  dataset=vizwiz_vqa
-``` 
-
-```bash
- python run.py \
-  model=qwen2-vl-video  \
-  generation_config=hf_vqa  \
-  model.json_mode=false \
-  dataset.path=tasks/video_object_recognition/orbit_question_answers.json \
-  +dataset.images_path=tasks/video_object_recognition/orbit_videos  \
-  dataset.template_name=qwen2vl_video_qa \
-  output_path=orbit_results \
-  dataset=orbit_vqa
-``` 
-
-### Running on SLURM
-
-Pass `--multirun run=slurm` to run on SLURM.
-
-> [!IMPORTANT]
-> You might need to adjust the Slurm parameters (see defaults in [configs/run/slurm.yaml](configs/run/slurm.yaml)).
-> To do so, either change them directly in the `slurm.yaml`, create a new `yaml` file, or pass them as hydra overrides, e.g. via `hydra.launcher.partition=gpu` or `hydra.launcher.gpus_per_node=0`.
-
-You can launch different configurations in parallel using comma-separated arguments, e.g. `model=gemini-1.5-flash,gpt-4o`.
-
-Example: 
-
-```bash
-python run.py --multirun run=slurm \
-  model=gemini-1.5-flash,gpt-4o \
-  model.json_mode=true \
-  dataset=cultural_captioning \
-  dataset.path=data/xm3600_images \
-  dataset.template_name=culture_json \
-  hydra.sweep.dir=./closed_models_sweep \
-  hydra.launcher.gpus_per_node=0 \
-  hydra.launcher.cpus_per_task=4 \
-  hydra.launcher.mem_gb=4
-```
-
-## Data
-
-### XM3600
-
-Download the images to a folder named `xm3600_images` like this:
-```bash
-mkdir -p xm3600_images
-wget -O - https://open-images-dataset.s3.amazonaws.com/crossmodal-3600/images.tgz | tar -xvzf - -C xm3600_images
+```bibtex
+@inproceedings{karamolegkou-etal-2025-evaluating,
+    title = "Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users",
+    author = "Karamolegkou, Antonia  and
+      Nikandrou, Malvina  and
+      Pantazopoulos, Georgios  and
+      Sanchez Villegas, Danae  and
+      Rust, Phillip  and
+      Dhar, Ruchira  and
+      Hershcovich, Daniel  and
+      S{\o}gaard, Anders",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1260/",
+    doi = "10.18653/v1/2025.acl-long.1260",
+    pages = "25949--25982",
+    ISBN = "979-8-89176-251-0"
+}
 ```

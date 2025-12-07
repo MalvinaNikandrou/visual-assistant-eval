@@ -107,7 +107,7 @@ class VideoExample:
     question_type: Literal["O", "A", "S", "D"]
     video_type: Literal["clean", "clutter"]
     ground_truth: list[str] = None
-    is_vip_object: bool = False
+    is_assistive_object: bool = False
 
 
 class VideoQAResponse(PydanticBaseModel):
@@ -144,12 +144,12 @@ class VideoQADataset(BaseDataset):
         image_path = example["video_path"]
         prompt = self.get_prompt(example["question"])
         ground_truth = example.get("answers", None)
-        is_vip_object = example.get("is_vip_object", False)
+        is_assistive_object = example.get("is_assistive_object", False)
         return VideoExample(
             image_path=image_path,
             prompt=prompt,
             ground_truth=ground_truth,
-            is_vip_object=is_vip_object,
+            is_assistive_object=is_assistive_object,
             video_type=example["video_type"],
             question_type=example["question_type"],
         )

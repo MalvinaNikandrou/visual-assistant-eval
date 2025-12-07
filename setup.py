@@ -7,6 +7,8 @@ setup(
     version="0.0.1",
     author="Phillip Rust",
     author_email="plip.rust@gmail.com",
+    maintainer="Malvina Nikandrou",
+    maintainer_email="nikandroumalvina@gmail.com",
     url="",
     description="",
     license="Apache 2.0",

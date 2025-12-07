@@ -15,6 +15,6 @@ _callback_dict:
   csv:
     file_path: ${model.name}-outputs.csv
   wandb:
-    project: vizwiz-culture
+    project: visassistant
 
 callbacks: ${oc.dict.values:_callback_dict}

@@ -20,7 +20,7 @@ hydra:
     submitit_folder: ${hydra.sweep.dir}/submitit/%j
     array_parallelism: 16
     setup: [
-      "conda activate vizwiz-culture"
+      "conda activate visassistant"
     ]
   sweep:
     dir: ${oc.env:PWD}/sweeps

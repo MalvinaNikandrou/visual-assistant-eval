@@ -10,8 +10,8 @@ import pandas as pd
 from tqdm import tqdm
 
 # Load the dataset
-qa_dataset_path = "tasks/orbit_video_question_answering/data/combined_video_qa_data.json"
-videos_dataset_path = Path("tasks/orbit_video_question_answering/data/videos")
+qa_dataset_path = "tasks/video_recognition_and_question_answering/data/combined_video_qa_data.json"
+videos_dataset_path = Path("tasks/video_recognition_and_question_answering/data/videos")
 
 with open(qa_dataset_path, "r") as f:
     qa_dataset = json.load(f)
@@ -87,7 +87,7 @@ plt.grid(axis="both", zorder=0)
 # ylim
 plt.tight_layout()
 plt.savefig(
-    "tasks/orbit_video_question_answering/data/orbit_video_group_histogram.pdf",
+    "tasks/video_recognition_and_question_answering/data/orbit_video_group_histogram.pdf",
     dpi=300,
     bbox_inches="tight",
 )
@@ -112,7 +112,7 @@ plt.figure(figsize=(6, 6), facecolor=None)
 plt.imshow(wordcloud)
 plt.axis("off")
 plt.tight_layout(pad=0)
-plt.savefig("tasks/orbit_video_question_answering/data/orbit_assistive_object_wordcloud.pdf")
+plt.savefig("tasks/video_recognition_and_question_answering/data/orbit_assistive_object_wordcloud.pdf")
 
 # plt.subplot(1, 2, 2)
 wordcloud = WordCloud(
@@ -128,7 +128,7 @@ wordcloud = WordCloud(
 plt.imshow(wordcloud)
 plt.axis("off")
 plt.tight_layout(pad=0)
-plt.savefig("tasks/orbit_video_question_answering/data/orbit_object_wordcloud.pdf")
+plt.savefig("tasks/video_recognition_and_question_answering/data/orbit_object_wordcloud.pdf")
 
 
 # Duration histogram
@@ -173,4 +173,4 @@ plt.xlabel("Duration (seconds)", fontdict={"fontsize": 18})
 plt.ylabel("Count", fontdict={"fontsize": 18})
 plt.grid(axis="y", zorder=0)
 plt.tight_layout(pad=0)
-plt.savefig("tasks/orbit_video_question_answering/data/orbit_video_duration_histogram.pdf")
+plt.savefig("tasks/video_recognition_and_question_answering/data/orbit_video_duration_histogram.pdf")

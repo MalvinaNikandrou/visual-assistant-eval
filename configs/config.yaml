@@ -18,7 +18,7 @@ _callback_dict:
   csv:
     file_path: ${output_path}/${model.name}-outputs.csv
   wandb:
-    project: vizwiz-culture
+    project: visassistant
     run_name: ${model.name}-${now:%Y-%m-%d-%H-%M-%S}
   vizwiz_accuracy:
     file_path: ${output_path}/${model.name}-results.json
